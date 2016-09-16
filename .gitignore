@@ -1,0 +1,12 @@
+# Jupyter notebook
+code/.ipynb_checkpoints/
+
+# Intermediate data folders
+data/scratch/
+
+# Extra figure files
+figures/fig1-tree/RAxML*
+figures/fig1-tree/tree.aln
+figures/fig1-tree/tree.nwk
+figures/fig2-sampling/*.csv
+figures/fig2-sampling/*.png
