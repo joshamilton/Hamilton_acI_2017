@@ -34,8 +34,15 @@ Phylogenetic placement of the SAGs and MAGs within the acI lineage, relative to 
 
 &nbsp;
 
-Workflow for pruning a metabolic network reconstruction, using glycolysis as an example. (A) Canonical representation of glycolysis. This panel also shows the KBase reaction IDs corresponding to each step, as well as the gene(s) encoding the enzyme for that step. Genes are shown only for the TE02754 genome. (B) Glycolysis represented as a metabolic network graph. Currency metabolites are circumscribed by a dotted rectangle. For clarity, protons are not shown. (C) Representation of glycolysis after pruning. The images in (A) and (B) are modified from [@Ma2003].
+Pruning a metabolic network graph, using glycolysis as an example. (A) Metabolic reconstruction for glycolysis. This panel also shows the KBase reaction IDs corresponding to each step of glycolysis, as well as the gene(s) encoding the enzyme for that step. Genes are shown only for the TE02754 genome. (B) Glycolysis represented as a metabolic network graph. Currency metabolites are circumscribed by a dotted rectangle. For clarity, protons are not shown. (C) Representation of glycolysis after pruning. The images in (A) and (B) are modified from [@Ma2003].
 
+&nbsp;
+
+## Supplementary Figure 3 (figures/fig3-workflow/FigureS3.pdf)
+
+&nbsp;
+
+Identifying seed compounds in metabolic networks. (A) Metabolic network graph for an imaginary network. Grey circles represent metabolites and arcs represent reactions or parts of reactions. (B) To identify seed compounds, the metabolic network graph is first decomposed into its strongly connected components (SCCs), sets of nodes such that each node in the set is reachable from every other node. Here, each colored set of nodes corresponds to a unique SCC. (C) SCC decomposition enables seed sets to be identified from source components (components with no incoming edges) on the condensation of the original graph. In the condensation of the original graph shown here, each colored node corresponds to a unique SCC (and a potential seed set). Seed sets are enclosed in dotted circles. The pink seed set contains three seed compounds, the orange contains two, and the blue and yellow each contain one seed compound. The images in (A) and (B) are modified from [@Borenstein2008].
 
 &nbsp;
 
