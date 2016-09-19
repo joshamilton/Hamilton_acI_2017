@@ -30,6 +30,15 @@ Phylogenetic placement of the SAGs and MAGs within the acI lineage, relative to 
 
 &nbsp;
 
+## Supplementary Figure 2 (figures/fig3-workflow/FigureS2.pdf)
+
+&nbsp;
+
+Workflow for pruning a metabolic network reconstruction, using glycolysis as an example. (A) Canonical representation of glycolysis. This panel also shows the KBase reaction IDs corresponding to each step, as well as the gene(s) encoding the enzyme for that step. Genes are shown only for the TE02754 genome. (B) Glycolysis represented as a metabolic network graph. Currency metabolites are circumscribed by a dotted rectangle. For clarity, protons are not shown. (C) Representation of glycolysis after pruning. The images in (A) and (B) are modified from [@Ma2003].
+
+
+&nbsp;
+
 ## References
 
 &nbsp;
