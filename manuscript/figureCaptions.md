@@ -30,6 +30,22 @@ Overview of reverse ecology pipeline. __(A)__ Annotate microbial contigs using [
 
 &nbsp;
 
+## Figure 4 (figures/fig4-seeds/acI-aux-GH.pdf)
+
+&nbsp;
+
+Seed compounds of members of the acI lineage. Compounds in the lower panel are degraded by peptidases and glycoside hydrolases. For these compounds, the intensity of the color indicates the percentile average log2 RPKM of the encoding gene cluster. For compounds acted upon by multiple gene clusters, the percentile of the most highly-expressed cluster was chosen.
+
+&nbsp;
+
+## Figure 5 (figures/fig5-transporters/acI-transporters.pdf)
+
+&nbsp;
+
+Compounds actively transported by members of the acI lineage. The intensity of the color indicates the percentile average log2 RPKM of the encoding gene cluster. For multi-subunit transporters, the percentile of the most highly-expressed subunit was chosen.
+
+&nbsp;
+
 ## Supplementary Figure 1 (figures/fig1-tree/tree-full.pdf)
 
 &nbsp;
