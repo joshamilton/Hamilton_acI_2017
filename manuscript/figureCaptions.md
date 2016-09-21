@@ -22,6 +22,14 @@ Mean estimated completeness of tribe(clade)-level population genomes. For each t
 
 &nbsp;
 
+## Figure 3 (figures/fig3-workflow/Figure3.pdf)
+
+&nbsp;
+
+Overview of reverse ecology pipeline. __(A)__ Annotate microbial contigs using [KBase](http://kbase.us/), and build a metabolic network reconstruction from the annotations. For each genome, convert the metabolic network reconstruction to a metabolic network graph using custom Python scripts. In these graphs, metabolites are represented as nodes (circles) and reactions by arcs. __(B)__ Create a composite network graph for each clade by joining graphs for all genomes from that clade, and compute seed compounds for the composite graph. In individual genome graphs, grey nodes and edges indicate components of the composite graph missing from that genome graph. In the composite graph, seed compounds are shown in red. __(Inset)__ Three seed compounds which indicate an auxotrophy for L-homoserine, a methionine precursor. __(C)__ Map metatranscriptomic reads to each individual genome using [BBMap](https://sourceforge.net/projects/bbmap/). For each clade, identify orthologous gene clusters using OrthoMCL [@Li2003]. For each cluster, count all unique reads which map to any gene within that cluster using HTSeq [@Anders2014] and compute the relative gene expression using RPKM [@Mortazavi2008].
+
+&nbsp;
+
 ## Supplementary Figure 1 (figures/fig1-tree/tree-full.pdf)
 
 &nbsp;
@@ -34,7 +42,7 @@ Phylogenetic placement of the SAGs and MAGs within the acI lineage, relative to 
 
 &nbsp;
 
-Pruning a metabolic network graph, using glycolysis as an example. (A) Metabolic reconstruction for glycolysis. This panel also shows the KBase reaction IDs corresponding to each step of glycolysis, as well as the gene(s) encoding the enzyme for that step. Genes are shown only for the TE02754 genome. (B) Glycolysis represented as a metabolic network graph. Currency metabolites are circumscribed by a dotted rectangle. For clarity, protons are not shown. (C) Representation of glycolysis after pruning. The images in (A) and (B) are modified from [@Ma2003].
+Pruning a metabolic network graph, using glycolysis as an example. __(A)__ Metabolic reconstruction for glycolysis. This panel also shows the KBase reaction IDs corresponding to each step of glycolysis, as well as the gene(s) encoding the enzyme for that step. Genes are shown only for the TE02754 genome. __(B)__ Glycolysis represented as a metabolic network graph. Currency metabolites are circumscribed by a dotted rectangle. For clarity, protons are not shown. __(C)__ Representation of glycolysis after pruning. The images in (A) and (B) are modified from [@Ma2003].
 
 &nbsp;
 
@@ -42,7 +50,7 @@ Pruning a metabolic network graph, using glycolysis as an example. (A) Metabolic
 
 &nbsp;
 
-Identifying seed compounds in metabolic networks. (A) Metabolic network graph for an imaginary network. Grey circles represent metabolites and arcs represent reactions or parts of reactions. (B) To identify seed compounds, the metabolic network graph is first decomposed into its strongly connected components (SCCs), sets of nodes such that each node in the set is reachable from every other node. Here, each colored set of nodes corresponds to a unique SCC. (C) SCC decomposition enables seed sets to be identified from source components (components with no incoming edges) on the condensation of the original graph. In the condensation of the original graph shown here, each colored node corresponds to a unique SCC (and a potential seed set). Seed sets are enclosed in dotted circles. The pink seed set contains three seed compounds, the orange contains two, and the blue and yellow each contain one seed compound. The images in (A) and (B) are modified from [@Borenstein2008].
+Identifying seed compounds in metabolic networks. __(A)__ Metabolic network graph for an imaginary network. Grey circles represent metabolites and arcs represent reactions or parts of reactions. __(B)__ To identify seed compounds, the metabolic network graph is first decomposed into its strongly connected components (SCCs), sets of nodes such that each node in the set is reachable from every other node. Here, each colored set of nodes corresponds to a unique SCC. __(C)__ SCC decomposition enables seed sets to be identified from source components (components with no incoming edges) on the condensation of the original graph. In the condensation of the original graph shown here, each colored node corresponds to a unique SCC (and a potential seed se). Seed sets are enclosed in dotted circles. The pink seed set contains three seed compounds, the orange contains two, and the blue and yellow each contain one seed compound. The images in (A) and (B) are modified from [@Borenstein2008].
 
 &nbsp;
 
