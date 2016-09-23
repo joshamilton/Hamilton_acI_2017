@@ -46,6 +46,14 @@ Compounds actively transported by members of the acI lineage. The intensity of t
 
 &nbsp;
 
+## Figure 6 (figures/fig6-actR/actR-expression.pdf)
+
+&nbsp;
+
+acI actinobacteria contain a retinal-based photosystem, comprising the opsin protein actinorhodopsin and the chromophore retinal. __(A)__ Pathway for the biosynthesis of retinal from _trans,trans_-farnesyl diphosphate. __(B)__ Relative expression of the genes for retinal and actinorhodopsin biosynthesis. The intensity of the color indicates the percentile average log2 RPKM of the encoding gene cluster. Note: The gene _blh_ was not found in the acI-C metagenome-assembled genomes examined in this study.
+
+&nbsp;
+
 ## Supplementary Figure 1 (figures/fig1-tree/tree-full.pdf)
 
 &nbsp;
