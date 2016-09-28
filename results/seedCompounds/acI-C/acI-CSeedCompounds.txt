@@ -1,0 +1,70 @@
+cpd02065_c	3-Hydroxy-L-kynurenine	1.000000
+cpd00227_c	L-Homoserine	0.333333
+cpd00809_c	O-Phospho-L-homoserine	0.333333
+cpd00346_c	L-Aspartate4-semialdehyde	0.333333
+cpd11433_c	fa12	1.000000
+cpd01133_c	Stachyose	1.000000
+cpd00179_c	Maltose	1.000000
+cpd11431_c	fa11	1.000000
+cpd15239_c	Hexadecenoyl-ACP	1.000000
+cpd11440_c	fa6	1.000000
+cpd02484_c	Inositol 3-phosphate	1.000000
+cpd00206_c	dCMP	1.000000
+cpd00038_c	GTP	0.500000
+cpd02740_c	Guanosine 5'-triphosphate,3'-diphosphate	0.500000
+cpd11438_c	fa4	1.000000
+cpd00355_c	Nicotinamide ribonucleotide	1.000000
+cpd15277_c	Palmitoyl-ACP	1.000000
+cpd11436_c	fa3	1.000000
+cpd00478_c	Pyridoxine phosphate	1.000000
+cpd00504_c	LL-2,6-Diaminopimelate	0.500000
+cpd00516_c	meso-2,6-Diaminopimelate	0.500000
+cpd00822_c	O-Succinyl-L-homoserine	1.000000
+cpd15294_c	Tetradecenoyl-ACP	1.000000
+cpd15331_c	1-tetradecanoyl-sn-glycerol 3-phosphate	1.000000
+cpd11430_c	fa1	1.000000
+cpd11583_c	Ala-Leu	1.000000
+cpd02182_c	(R)-S-Lactoylglutathione	1.000000
+cpd15325_c	1-dodecanoyl-sn-glycerol 3-phosphate	1.000000
+cpd04122_c	Aminoacetaldehyde	1.000000
+cpd02124_c	2-Methylacetoacetyl-CoA	0.333333
+cpd00086_c	Propionyl-CoA	0.333333
+cpd00287_c	3-Oxo-2-methylpropanoate	0.333333
+cpd00296_c	dGMP	1.000000
+cpd15328_c	1-octadec-11-enoyl-sn-glycerol 3-phosphate	1.000000
+cpd00214_c	Palmitate	1.000000
+cpd00158_c	CELB	1.000000
+cpd15327_c	1-hexadecanoyl-sn-glycerol 3-phosphate	1.000000
+cpd00956_c	1-(2-carboxyphenylamino)-1-deoxyribulose 5-phosphate	1.000000
+cpd00146_c	Carbamoylphosphate	1.000000
+cpd03200_c	Manninotriose	1.000000
+cpd15672_c	1-anteisoheptadecanoyl-sn-glycerol 3-phosphate	1.000000
+cpd00294_c	dAMP	1.000000
+cpd11588_c	gly-pro-L	1.000000
+cpd15330_c	1-tetradec-7-enoyl-sn-glycerol 3-phosphate	1.000000
+cpd15674_c	1-isopentadecanoyl-sn-glycerol 3-phosphate	1.000000
+cpd02230_c	Inositol 4-phosphate	1.000000
+cpd02724_c	N-Succinyl-L-2-amino-6-oxopimelate	1.000000
+cpd00085_c	beta-Alanine	1.000000
+cpd11466_c	Myristoyl-ACP	1.000000
+cpd00810_c	Orotidylic acid	1.000000
+cpd00087_c	Tetrahydrofolate	1.000000
+cpd01080_c	ocdca	1.000000
+cpd11825_c	Octadecenoyl-ACP	1.000000
+cpd00908_c	Glycerophosphoethanolamine	1.000000
+cpd15329_c	1-octadecanoyl-sn-glycerol 3-phosphate	1.000000
+cpd02197_c	5-Formyltetrahydrofolate	1.000000
+cpd15326_c	1-hexadec-9-enoyl-sn-glycerol 3-phosphate	1.000000
+cpd15671_c	1-isoheptadecanoyl-sn-glycerol 3-phosphate	1.000000
+cpd00507_c	Glycerophosphocholine	1.000000
+cpd03847_c	Myristic acid	1.000000
+cpd15675_c	1-anteisopentadecanoyl-sn-glycerol 3-phosphate	1.000000
+cpd15673_c	1-isotetradecanoyl-sn-glycerol 3-phosphate	1.000000
+cpd00268_c	H2S2O3	1.000000
+cpd00616_c	Pretyrosine	1.000000
+cpd11912_c	tRNA-Glu	1.000000
+cpd15676_c	1-isohexadecanoyl-sn-glycerol 3-phosphate	1.000000
+cpd00493_c	Pyridoxamine phosphate	1.000000
+cpd11468_c	Dodecanoyl-ACP	1.000000
+cpd15268_c	Octadecanoyl-ACP	1.000000
+cpd02090_c	Glycerophosphoglycerol	1.000000

@@ -1,0 +1,4 @@
+Model,Nodes,Edges,Total Components,Size of Largest
+acI-A,777,1675,265,424
+acI-B,811,1723,273,438
+acI-C,602,1194,220,300
