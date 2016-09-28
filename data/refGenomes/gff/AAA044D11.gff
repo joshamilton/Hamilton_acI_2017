@@ -1,0 +1,1237 @@
+##gff-version 3
+AAA044D11.contig.1	feature	CDS	38398	39768	.	-	0	ID=AAA044D11.genome.CDS.1206;Product=ATP-dependent DNA helicase UvrD/PcrA;locus_tag=AAA044D11.genome.CDS.1206
+AAA044D11.contig.1	feature	CDS	37169	38329	.	-	0	ID=AAA044D11.genome.CDS.1205;Product=Succinyl-CoA ligase %5BADP-forming%5D beta chain %28EC 6.2.1.5%29;locus_tag=AAA044D11.genome.CDS.1205
+AAA044D11.contig.1	feature	CDS	36282	37169	.	-	0	ID=AAA044D11.genome.CDS.1204;Product=Succinyl-CoA ligase %5BADP-forming%5D alpha chain %28EC 6.2.1.5%29;locus_tag=AAA044D11.genome.CDS.1204
+AAA044D11.contig.1	feature	CDS	35169	36221	.	-	0	ID=AAA044D11.genome.CDS.1203;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1203
+AAA044D11.contig.1	feature	CDS	34599	35168	.	-	0	ID=AAA044D11.genome.CDS.1202;Product=Phosphoribosylglycinamide formyltransferase %28EC 2.1.2.2%29;locus_tag=AAA044D11.genome.CDS.1202
+AAA044D11.contig.1	feature	CDS	33064	34602	.	-	0	ID=AAA044D11.genome.CDS.1201;Product=IMP cyclohydrolase %28EC 3.5.4.10%29 / Phosphoribosylaminoimidazolecarboxamide formyltransferase %28EC 2.1.2.3%29;locus_tag=AAA044D11.genome.CDS.1201
+AAA044D11.contig.1	feature	CDS	32202	33041	.	-	0	ID=AAA044D11.genome.CDS.1200;Product=Methylenetetrahydrofolate dehydrogenase %28NADP%2B%29 %28EC 1.5.1.5%29 / Methenyltetrahydrofolate cyclohydrolase %28EC 3.5.4.9%29;locus_tag=AAA044D11.genome.CDS.1200
+AAA044D11.contig.1	feature	CDS	31966	32205	.	-	0	ID=AAA044D11.genome.CDS.1199;Product=;locus_tag=AAA044D11.genome.CDS.1199
+AAA044D11.contig.1	feature	CDS	30934	31890	.	-	0	ID=AAA044D11.genome.CDS.1198;Product=Malate dehydrogenase %28EC 1.1.1.37%29;locus_tag=AAA044D11.genome.CDS.1198
+AAA044D11.contig.1	feature	CDS	29684	30898	.	-	0	ID=AAA044D11.genome.CDS.1197;Product=Isocitrate dehydrogenase %5BNADP%5D %28EC 1.1.1.42%29;locus_tag=AAA044D11.genome.CDS.1197
+AAA044D11.contig.1	feature	CDS	28542	29627	.	+	0	ID=AAA044D11.genome.CDS.1196;Product=Glycerol-3-phosphate ABC transporter%2C ATP-binding protein UgpC %28TC 3.A.1.1.3%29;locus_tag=AAA044D11.genome.CDS.1196
+AAA044D11.contig.1	feature	CDS	27059	28366	.	-	0	ID=AAA044D11.genome.CDS.1195;Product=Hemolysins and related proteins containing CBS domains;locus_tag=AAA044D11.genome.CDS.1195
+AAA044D11.contig.1	feature	CDS	26053	27066	.	-	0	ID=AAA044D11.genome.CDS.1194;Product=Tryptophanyl-tRNA synthetase %28EC 6.1.1.2%29;locus_tag=AAA044D11.genome.CDS.1194
+AAA044D11.contig.1	feature	CDS	25059	26060	.	-	0	ID=AAA044D11.genome.CDS.1193;Product=Nucleoside ABC transporter%2C periplasmic nucleoside-binding protein;locus_tag=AAA044D11.genome.CDS.1193
+AAA044D11.contig.1	feature	CDS	24217	25056	.	+	0	ID=AAA044D11.genome.CDS.1192;Product=Aldehyde dehydrogenase %28EC 1.2.1.3%29;locus_tag=AAA044D11.genome.CDS.1192
+AAA044D11.contig.1	feature	CDS	22775	24217	.	+	0	ID=AAA044D11.genome.CDS.1191;Product=Aldehyde dehydrogenase %28EC 1.2.1.3%29;locus_tag=AAA044D11.genome.CDS.1191
+AAA044D11.contig.1	feature	CDS	21811	22758	.	+	0	ID=AAA044D11.genome.CDS.1190;Product=Deoxyribose-phosphate aldolase %28EC 4.1.2.4%29;locus_tag=AAA044D11.genome.CDS.1190
+AAA044D11.contig.1	feature	CDS	20072	21787	.	+	0	ID=AAA044D11.genome.CDS.1189;Product=Biotin carboxylase of acetyl-CoA carboxylase %28EC 6.3.4.14%29 / Biotin carboxyl carrier protein of acetyl-CoA carboxylase;locus_tag=AAA044D11.genome.CDS.1189
+AAA044D11.contig.1	feature	CDS	19455	20075	.	+	0	ID=AAA044D11.genome.CDS.1188;Product=Septum formation protein Maf;locus_tag=AAA044D11.genome.CDS.1188
+AAA044D11.contig.1	feature	CDS	19288	19455	.	+	0	ID=AAA044D11.genome.CDS.1187;Product=;locus_tag=AAA044D11.genome.CDS.1187
+AAA044D11.contig.1	feature	CDS	17717	19288	.	+	0	ID=AAA044D11.genome.CDS.1186;Product=Acetyl-coenzyme A carboxyl transferase alpha chain %28EC 6.4.1.2%29 / Acetyl-coenzyme A carboxyl transferase beta chain %28EC 6.4.1.2%29%3B Propionyl-CoA carboxylase beta chain %28EC 6.4.1.3%29;locus_tag=AAA044D11.genome.CDS.1186
+AAA044D11.contig.1	feature	CDS	16894	17655	.	-	0	ID=AAA044D11.genome.CDS.1185;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1185
+AAA044D11.contig.1	feature	CDS	15785	16897	.	-	0	ID=AAA044D11.genome.CDS.1184;Product=Phosphoribosylaminoimidazole carboxylase ATPase subunit %28EC 4.1.1.21%29;locus_tag=AAA044D11.genome.CDS.1184
+AAA044D11.contig.1	feature	CDS	15286	15792	.	-	0	ID=AAA044D11.genome.CDS.1183;Product=Phosphoribosylaminoimidazole carboxylase catalytic subunit %28EC 4.1.1.21%29;locus_tag=AAA044D11.genome.CDS.1183
+AAA044D11.contig.1	feature	CDS	14034	15278	.	-	0	ID=AAA044D11.genome.CDS.1182;Product=major facilitator superfamily MFS_1;locus_tag=AAA044D11.genome.CDS.1182
+AAA044D11.contig.1	feature	CDS	12749	14059	.	+	0	ID=AAA044D11.genome.CDS.1181;Product=UDP-glucose 6-dehydrogenase %28EC 1.1.1.22%29;locus_tag=AAA044D11.genome.CDS.1181
+AAA044D11.contig.1	feature	CDS	11722	12684	.	-	0	ID=AAA044D11.genome.CDS.1180;Product=putative glycosyl transferase;locus_tag=AAA044D11.genome.CDS.1180
+AAA044D11.contig.1	feature	CDS	10550	11725	.	-	0	ID=AAA044D11.genome.CDS.1179;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1179
+AAA044D11.contig.1	feature	CDS	9630	10547	.	+	0	ID=AAA044D11.genome.CDS.1178;Product=2%2C3%2C4%2C5-tetrahydropyridine-2%2C6-dicarboxylate N-succinyltransferase %28EC 2.3.1.117%29;locus_tag=AAA044D11.genome.CDS.1178
+AAA044D11.contig.1	feature	CDS	9052	9585	.	-	0	ID=AAA044D11.genome.CDS.1177;Product=;locus_tag=AAA044D11.genome.CDS.1177
+AAA044D11.contig.1	feature	CDS	8815	9000	.	-	0	ID=AAA044D11.genome.CDS.1176;Product=;locus_tag=AAA044D11.genome.CDS.1176
+AAA044D11.contig.1	feature	CDS	8530	8709	.	-	0	ID=AAA044D11.genome.CDS.1175;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1175
+AAA044D11.contig.1	feature	CDS	6993	8495	.	-	0	ID=AAA044D11.genome.CDS.1174;Product=Cytosol aminopeptidase PepA %28EC 3.4.11.1%29;locus_tag=AAA044D11.genome.CDS.1174
+AAA044D11.contig.1	feature	CDS	6352	6996	.	-	0	ID=AAA044D11.genome.CDS.1173;Product=;locus_tag=AAA044D11.genome.CDS.1173
+AAA044D11.contig.1	feature	CDS	5186	6349	.	-	0	ID=AAA044D11.genome.CDS.1172;Product=putative protease;locus_tag=AAA044D11.genome.CDS.1172
+AAA044D11.contig.1	feature	CDS	4845	5150	.	-	0	ID=AAA044D11.genome.CDS.1171;Product=Twin-arginine translocation protein TatB;locus_tag=AAA044D11.genome.CDS.1171
+AAA044D11.contig.1	feature	CDS	3724	4848	.	-	0	ID=AAA044D11.genome.CDS.1170;Product=Mrp protein homolog;locus_tag=AAA044D11.genome.CDS.1170
+AAA044D11.contig.1	feature	CDS	2357	3694	.	-	0	ID=AAA044D11.genome.CDS.1169;Product=;locus_tag=AAA044D11.genome.CDS.1169
+AAA044D11.contig.1	feature	CDS	1113	2357	.	-	0	ID=AAA044D11.genome.CDS.1168;Product=Manganese transport protein MntH;locus_tag=AAA044D11.genome.CDS.1168
+AAA044D11.contig.1	feature	CDS	214	1113	.	-	0	ID=AAA044D11.genome.CDS.1167;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1167
+AAA044D11.contig.1	feature	CDS	3	221	.	-	0	ID=AAA044D11.genome.CDS.1166;Product=;locus_tag=AAA044D11.genome.CDS.1166
+AAA044D11.contig.10	feature	misc_RNA	1	312	.	+	.	ID=AAA044D11.genome.repeat.14;Product=repeat region;locus_tag=AAA044D11.genome.repeat.14
+AAA044D11.contig.10	feature	CDS	19496	19921	.	+	0	ID=AAA044D11.genome.CDS.1587;Product=B12 binding domain of Methylmalonyl-CoA mutase %28EC 5.4.99.2%29;locus_tag=AAA044D11.genome.CDS.1587
+AAA044D11.contig.10	feature	CDS	18707	19453	.	-	0	ID=AAA044D11.genome.CDS.1586;Product=putative periplasmic protein kinase ArgK and related GTPases of G3E family;locus_tag=AAA044D11.genome.CDS.1586
+AAA044D11.contig.10	feature	CDS	17125	18714	.	-	0	ID=AAA044D11.genome.CDS.1585;Product=Acyl-coenzyme A synthetases/AMP-%28fatty%29 acid ligases;locus_tag=AAA044D11.genome.CDS.1585
+AAA044D11.contig.10	feature	CDS	15635	17128	.	+	0	ID=AAA044D11.genome.CDS.1584;Product=Methylmalonyl-CoA mutase %28EC 5.4.99.2%29;locus_tag=AAA044D11.genome.CDS.1584
+AAA044D11.contig.10	feature	CDS	14075	15634	.	+	0	ID=AAA044D11.genome.CDS.1583;Product=Long-chain-fatty-acid--CoA ligase %28EC 6.2.1.3%29;locus_tag=AAA044D11.genome.CDS.1583
+AAA044D11.contig.10	feature	CDS	11994	14075	.	+	0	ID=AAA044D11.genome.CDS.1582;Product=Acetyl-CoA synthetase %28ADP-forming%29 alpha and beta chains%2C putative;locus_tag=AAA044D11.genome.CDS.1582
+AAA044D11.contig.10	feature	CDS	11602	11997	.	+	0	ID=AAA044D11.genome.CDS.1581;Product=;locus_tag=AAA044D11.genome.CDS.1581
+AAA044D11.contig.10	feature	CDS	10850	11599	.	+	0	ID=AAA044D11.genome.CDS.1580;Product=3-oxoacyl-%5Bacyl-carrier protein%5D reductase %28EC 1.1.1.100%29;locus_tag=AAA044D11.genome.CDS.1580
+AAA044D11.contig.10	feature	CDS	9593	10774	.	-	0	ID=AAA044D11.genome.CDS.1579;Product=3-ketoacyl-CoA thiolase %28EC 2.3.1.16%29 %40 Acetyl-CoA acetyltransferase %28EC 2.3.1.9%29;locus_tag=AAA044D11.genome.CDS.1579
+AAA044D11.contig.10	feature	CDS	8780	9583	.	-	0	ID=AAA044D11.genome.CDS.1578;Product=Naphthoate synthase %28EC 4.1.3.36%29;locus_tag=AAA044D11.genome.CDS.1578
+AAA044D11.contig.10	feature	CDS	8073	8783	.	+	0	ID=AAA044D11.genome.CDS.1577;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1577
+AAA044D11.contig.10	feature	CDS	7271	8047	.	+	0	ID=AAA044D11.genome.CDS.1576;Product=3-oxoacyl-%5Bacyl-carrier protein%5D reductase %28EC 1.1.1.100%29;locus_tag=AAA044D11.genome.CDS.1576
+AAA044D11.contig.10	feature	CDS	4731	7127	.	-	0	ID=AAA044D11.genome.CDS.1575;Product=probable bifunctional hydroxylase/oxidoreductase;locus_tag=AAA044D11.genome.CDS.1575
+AAA044D11.contig.10	feature	CDS	3142	4734	.	+	0	ID=AAA044D11.genome.CDS.1574;Product=Indolepyruvate oxidoreductase subunit IorB II %28EC 1.2.7.8%29;locus_tag=AAA044D11.genome.CDS.1574
+AAA044D11.contig.10	feature	CDS	984	3149	.	+	0	ID=AAA044D11.genome.CDS.1573;Product=Indolepyruvate oxidoreductase subunit IorA %28EC 1.2.7.8%29;locus_tag=AAA044D11.genome.CDS.1573
+AAA044D11.contig.10	feature	CDS	3	719	.	-	0	ID=AAA044D11.genome.CDS.1572;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1572
+AAA044D11.contig.11	feature	CDS	10386	10721	.	-	0	ID=AAA044D11.genome.CDS.1595;Product=;locus_tag=AAA044D11.genome.CDS.1595
+AAA044D11.contig.11	feature	CDS	10015	10368	.	-	0	ID=AAA044D11.genome.CDS.1594;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1594
+AAA044D11.contig.11	feature	CDS	9515	10003	.	+	0	ID=AAA044D11.genome.CDS.1593;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1593
+AAA044D11.contig.11	feature	CDS	8817	9515	.	+	0	ID=AAA044D11.genome.CDS.1592;Product=;locus_tag=AAA044D11.genome.CDS.1592
+AAA044D11.contig.11	feature	CDS	4541	8773	.	+	0	ID=AAA044D11.genome.CDS.1591;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1591
+AAA044D11.contig.11	feature	CDS	1371	4487	.	+	0	ID=AAA044D11.genome.CDS.1590;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1590
+AAA044D11.contig.11	feature	CDS	749	1384	.	+	0	ID=AAA044D11.genome.CDS.1589;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1589
+AAA044D11.contig.11	feature	CDS	1	654	.	-	0	ID=AAA044D11.genome.CDS.1588;Product=Arginase/agmatinase/formimionoglutamate hydrolase%2C arginase family;locus_tag=AAA044D11.genome.CDS.1588
+AAA044D11.contig.12	feature	CDS	946	1470	.	-	0	ID=AAA044D11.genome.CDS.433;Product=;locus_tag=AAA044D11.genome.CDS.433
+AAA044D11.contig.12	feature	CDS	2	892	.	-	0	ID=AAA044D11.genome.CDS.1596;Product=Protein export cytoplasm protein SecA ATPase RNA helicase %28TC 3.A.5.1.1%29;locus_tag=AAA044D11.genome.CDS.1596
+AAA044D11.contig.13	feature	CDS	14701	16548	.	+	0	ID=AAA044D11.genome.CDS.1615;Product=5-methyltetrahydrofolate--homocysteine methyltransferase %28EC 2.1.1.13%29;locus_tag=AAA044D11.genome.CDS.1615
+AAA044D11.contig.13	feature	CDS	13443	14684	.	+	0	ID=AAA044D11.genome.CDS.1614;Product=L-cysteine:1D-myo-inosityl 2-amino-2-deoxy-alpha-D-glucopyranoside ligase MshC;locus_tag=AAA044D11.genome.CDS.1614
+AAA044D11.contig.13	feature	CDS	12713	13399	.	+	0	ID=AAA044D11.genome.CDS.1613;Product=FIG00820755: hypothetical protein;locus_tag=AAA044D11.genome.CDS.1613
+AAA044D11.contig.13	feature	CDS	12151	12729	.	+	0	ID=AAA044D11.genome.CDS.1612;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1612
+AAA044D11.contig.13	feature	CDS	11487	12167	.	+	0	ID=AAA044D11.genome.CDS.1611;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1611
+AAA044D11.contig.13	feature	CDS	10484	11437	.	-	0	ID=AAA044D11.genome.CDS.1610;Product=putative oxidoreductase;locus_tag=AAA044D11.genome.CDS.1610
+AAA044D11.contig.13	feature	CDS	9156	10487	.	+	0	ID=AAA044D11.genome.CDS.1609;Product=Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase and related deacylases;locus_tag=AAA044D11.genome.CDS.1609
+AAA044D11.contig.13	feature	tRNA	8980	9066	.	-	.	ID=AAA044D11.genome.rna.10;Product=tRNA-Leu-GAG;locus_tag=AAA044D11.genome.rna.10
+AAA044D11.contig.13	feature	CDS	7887	8927	.	-	0	ID=AAA044D11.genome.CDS.1608;Product=Alcohol dehydrogenase %28EC 1.1.1.1%29;locus_tag=AAA044D11.genome.CDS.1608
+AAA044D11.contig.13	feature	CDS	7148	7882	.	+	0	ID=AAA044D11.genome.CDS.1607;Product=membrane protein%2C putative;locus_tag=AAA044D11.genome.CDS.1607
+AAA044D11.contig.13	feature	CDS	6423	7112	.	-	0	ID=AAA044D11.genome.CDS.1606;Product=putative integral membrane protein;locus_tag=AAA044D11.genome.CDS.1606
+AAA044D11.contig.13	feature	CDS	5819	6448	.	+	0	ID=AAA044D11.genome.CDS.1605;Product=Uracil-DNA glycosylase%2C family 1;locus_tag=AAA044D11.genome.CDS.1605
+AAA044D11.contig.13	feature	CDS	5034	5819	.	+	0	ID=AAA044D11.genome.CDS.1604;Product=;locus_tag=AAA044D11.genome.CDS.1604
+AAA044D11.contig.13	feature	CDS	3769	4974	.	-	0	ID=AAA044D11.genome.CDS.1603;Product=Phosphoserine phosphatase %28EC 3.1.3.3%29;locus_tag=AAA044D11.genome.CDS.1603
+AAA044D11.contig.13	feature	CDS	2917	3765	.	+	0	ID=AAA044D11.genome.CDS.1602;Product=ATP phosphoribosyltransferase %28EC 2.4.2.17%29;locus_tag=AAA044D11.genome.CDS.1602
+AAA044D11.contig.13	feature	CDS	2641	2904	.	+	0	ID=AAA044D11.genome.CDS.1601;Product=Phosphoribosyl-ATP pyrophosphatase %28EC 3.6.1.31%29;locus_tag=AAA044D11.genome.CDS.1601
+AAA044D11.contig.13	feature	CDS	1947	2615	.	+	0	ID=AAA044D11.genome.CDS.1600;Product=Ribulose-phosphate 3-epimerase %28EC 5.1.3.1%29;locus_tag=AAA044D11.genome.CDS.1600
+AAA044D11.contig.13	feature	CDS	545	1903	.	+	0	ID=AAA044D11.genome.CDS.1599;Product=16S rRNA %28cytosine%28967%29-C%285%29%29-methyltransferase %28EC 2.1.1.176%29;locus_tag=AAA044D11.genome.CDS.1599
+AAA044D11.contig.13	feature	CDS	1	552	.	+	0	ID=AAA044D11.genome.CDS.1598;Product=Methionyl-tRNA formyltransferase %28EC 2.1.2.9%29;locus_tag=AAA044D11.genome.CDS.1598
+AAA044D11.contig.14	feature	CDS	4662	4895	.	+	0	ID=AAA044D11.genome.CDS.1622;Product=;locus_tag=AAA044D11.genome.CDS.1622
+AAA044D11.contig.14	feature	CDS	3716	4624	.	-	0	ID=AAA044D11.genome.CDS.1621;Product=Rhodanese domain protein UPF0176%2C Actinobacterial subgroup;locus_tag=AAA044D11.genome.CDS.1621
+AAA044D11.contig.14	feature	CDS	2697	3707	.	-	0	ID=AAA044D11.genome.CDS.1620;Product=Myo-inositol 2-dehydrogenase %28EC 1.1.1.18%29;locus_tag=AAA044D11.genome.CDS.1620
+AAA044D11.contig.14	feature	CDS	1665	2666	.	-	0	ID=AAA044D11.genome.CDS.1619;Product=Myo-inositol 2-dehydrogenase %28EC 1.1.1.18%29;locus_tag=AAA044D11.genome.CDS.1619
+AAA044D11.contig.14	feature	CDS	1328	1660	.	+	0	ID=AAA044D11.genome.CDS.1618;Product=;locus_tag=AAA044D11.genome.CDS.1618
+AAA044D11.contig.14	feature	CDS	807	1310	.	+	0	ID=AAA044D11.genome.CDS.1617;Product=Inosose dehydratase %28EC 4.2.1.44%29;locus_tag=AAA044D11.genome.CDS.1617
+AAA044D11.contig.14	feature	CDS	1	810	.	+	0	ID=AAA044D11.genome.CDS.1616;Product=D-3-phosphoglycerate dehydrogenase %28EC 1.1.1.95%29;locus_tag=AAA044D11.genome.CDS.1616
+AAA044D11.contig.15	feature	CDS	158833	159240	.	+	0	ID=AAA044D11.genome.CDS.1783;Product=Lipoprotein signal peptidase %28EC 3.4.23.36%29;locus_tag=AAA044D11.genome.CDS.1783
+AAA044D11.contig.15	feature	CDS	158009	158806	.	+	0	ID=AAA044D11.genome.CDS.1782;Product=putative DNA-binding protein;locus_tag=AAA044D11.genome.CDS.1782
+AAA044D11.contig.15	feature	CDS	154545	157670	.	-	0	ID=AAA044D11.genome.CDS.1781;Product=Isoleucyl-tRNA synthetase %28EC 6.1.1.5%29;locus_tag=AAA044D11.genome.CDS.1781
+AAA044D11.contig.15	feature	CDS	154252	154548	.	+	0	ID=AAA044D11.genome.CDS.1780;Product=;locus_tag=AAA044D11.genome.CDS.1780
+AAA044D11.contig.15	feature	CDS	153759	154244	.	+	0	ID=AAA044D11.genome.CDS.1779;Product=FIG021292: hypothetical protein;locus_tag=AAA044D11.genome.CDS.1779
+AAA044D11.contig.15	feature	CDS	153069	153737	.	+	0	ID=AAA044D11.genome.CDS.1778;Product=Hypothetical protein YggS%2C proline synthase co-transcribed bacterial homolog PROSC;locus_tag=AAA044D11.genome.CDS.1778
+AAA044D11.contig.15	feature	CDS	152407	153072	.	+	0	ID=AAA044D11.genome.CDS.1777;Product=COG1496: Uncharacterized conserved protein;locus_tag=AAA044D11.genome.CDS.1777
+AAA044D11.contig.15	feature	CDS	151232	152380	.	+	0	ID=AAA044D11.genome.CDS.1776;Product=Cell division protein FtsZ %28EC 3.4.24.-%29;locus_tag=AAA044D11.genome.CDS.1776
+AAA044D11.contig.15	feature	CDS	150355	151080	.	+	0	ID=AAA044D11.genome.CDS.1775;Product=;locus_tag=AAA044D11.genome.CDS.1775
+AAA044D11.contig.15	feature	CDS	148977	150365	.	+	0	ID=AAA044D11.genome.CDS.1774;Product=UDP-N-acetylmuramate--alanine ligase %28EC 6.3.2.8%29;locus_tag=AAA044D11.genome.CDS.1774
+AAA044D11.contig.15	feature	CDS	147883	148974	.	+	0	ID=AAA044D11.genome.CDS.1773;Product=UDP-N-acetylglucosamine--N-acetylmuramyl-%28pentapeptide%29 pyrophosphoryl-undecaprenol N-acetylglucosamine transferase %28EC 2.4.1.227%29;locus_tag=AAA044D11.genome.CDS.1773
+AAA044D11.contig.15	feature	CDS	146699	147883	.	+	0	ID=AAA044D11.genome.CDS.1772;Product=Cell division protein FtsW;locus_tag=AAA044D11.genome.CDS.1772
+AAA044D11.contig.15	feature	CDS	145329	146702	.	+	0	ID=AAA044D11.genome.CDS.607;Product=UDP-N-acetylmuramoylalanine--D-glutamate ligase %28EC 6.3.2.9%29;locus_tag=AAA044D11.genome.CDS.607
+AAA044D11.contig.15	feature	CDS	144268	145329	.	+	0	ID=AAA044D11.genome.CDS.1770;Product=Phospho-N-acetylmuramoyl-pentapeptide-transferase %28EC 2.7.8.13%29;locus_tag=AAA044D11.genome.CDS.1770
+AAA044D11.contig.15	feature	CDS	142874	144271	.	+	0	ID=AAA044D11.genome.CDS.1769;Product=UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase %28EC 6.3.2.10%29;locus_tag=AAA044D11.genome.CDS.1769
+AAA044D11.contig.15	feature	CDS	141396	142877	.	+	0	ID=AAA044D11.genome.CDS.1768;Product=UDP-N-acetylmuramoylalanyl-D-glutamate--2%2C6-diaminopimelate ligase %28EC 6.3.2.13%29;locus_tag=AAA044D11.genome.CDS.1768
+AAA044D11.contig.15	feature	CDS	139621	141399	.	+	0	ID=AAA044D11.genome.CDS.1767;Product=Cell division protein FtsI %5BPeptidoglycan synthetase%5D %28EC 2.4.1.129%29;locus_tag=AAA044D11.genome.CDS.1767
+AAA044D11.contig.15	feature	CDS	139223	139609	.	+	0	ID=AAA044D11.genome.CDS.1766;Product=;locus_tag=AAA044D11.genome.CDS.1766
+AAA044D11.contig.15	feature	CDS	138273	139223	.	+	0	ID=AAA044D11.genome.CDS.1765;Product=rRNA small subunit methyltransferase H;locus_tag=AAA044D11.genome.CDS.1765
+AAA044D11.contig.15	feature	CDS	137702	138133	.	+	0	ID=AAA044D11.genome.CDS.1764;Product=Cell division protein MraZ;locus_tag=AAA044D11.genome.CDS.1764
+AAA044D11.contig.15	feature	CDS	137158	137511	.	+	0	ID=AAA044D11.genome.CDS.1763;Product=;locus_tag=AAA044D11.genome.CDS.1763
+AAA044D11.contig.15	feature	CDS	135897	137084	.	+	0	ID=AAA044D11.genome.CDS.1762;Product=DNA polymerase IV %28EC 2.7.7.7%29;locus_tag=AAA044D11.genome.CDS.1762
+AAA044D11.contig.15	feature	CDS	132616	135900	.	+	0	ID=AAA044D11.genome.CDS.1761;Product=DNA polymerase III alpha subunit %28EC 2.7.7.7%29;locus_tag=AAA044D11.genome.CDS.1761
+AAA044D11.contig.15	feature	CDS	132273	132602	.	+	0	ID=AAA044D11.genome.CDS.1760;Product=;locus_tag=AAA044D11.genome.CDS.1760
+AAA044D11.contig.15	feature	CDS	131672	132100	.	-	0	ID=AAA044D11.genome.CDS.1759;Product=;locus_tag=AAA044D11.genome.CDS.1759
+AAA044D11.contig.15	feature	CDS	130843	131592	.	-	0	ID=AAA044D11.genome.CDS.1758;Product=;locus_tag=AAA044D11.genome.CDS.1758
+AAA044D11.contig.15	feature	CDS	130506	130853	.	+	0	ID=AAA044D11.genome.CDS.593;Product=;locus_tag=AAA044D11.genome.CDS.593
+AAA044D11.contig.15	feature	CDS	129695	130489	.	+	0	ID=AAA044D11.genome.CDS.592;Product=;locus_tag=AAA044D11.genome.CDS.592
+AAA044D11.contig.15	feature	CDS	129243	129632	.	-	0	ID=AAA044D11.genome.CDS.1755;Product=Arsenate reductase %28EC 1.20.4.1%29;locus_tag=AAA044D11.genome.CDS.1755
+AAA044D11.contig.15	feature	CDS	128735	129223	.	-	0	ID=AAA044D11.genome.CDS.1754;Product=Uncharacterized protein SCO3165;locus_tag=AAA044D11.genome.CDS.1754
+AAA044D11.contig.15	feature	CDS	128073	128735	.	-	0	ID=AAA044D11.genome.CDS.1753;Product=Spheroidene monooxygenase %28EC 1.14.15.9%29;locus_tag=AAA044D11.genome.CDS.1753
+AAA044D11.contig.15	feature	CDS	127233	128048	.	-	0	ID=AAA044D11.genome.CDS.1752;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1752
+AAA044D11.contig.15	feature	CDS	126186	127232	.	-	0	ID=AAA044D11.genome.CDS.1751;Product=Glycosyl transferase%2C family 2;locus_tag=AAA044D11.genome.CDS.1751
+AAA044D11.contig.15	feature	CDS	124683	126185	.	-	0	ID=AAA044D11.genome.CDS.1750;Product=Phytoene dehydrogenase %28EC 1.14.99.-%29;locus_tag=AAA044D11.genome.CDS.1750
+AAA044D11.contig.15	feature	CDS	124073	124693	.	+	0	ID=AAA044D11.genome.CDS.1749;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1749
+AAA044D11.contig.15	feature	CDS	123232	124080	.	+	0	ID=AAA044D11.genome.CDS.1748;Product=5%2C10-methylenetetrahydrofolate reductase %28EC 1.5.1.20%29;locus_tag=AAA044D11.genome.CDS.1748
+AAA044D11.contig.15	feature	CDS	122125	123198	.	-	0	ID=AAA044D11.genome.CDS.583;Product=Geranylgeranyl diphosphate synthase %28EC 2.5.1.29%29;locus_tag=AAA044D11.genome.CDS.583
+AAA044D11.contig.15	feature	CDS	120626	122110	.	-	0	ID=AAA044D11.genome.CDS.1746;Product=Phytoene dehydrogenase %28EC 1.14.99.-%29;locus_tag=AAA044D11.genome.CDS.1746
+AAA044D11.contig.15	feature	CDS	119726	120625	.	-	0	ID=AAA044D11.genome.CDS.1745;Product=Phytoene synthase %28EC 2.5.1.32%29;locus_tag=AAA044D11.genome.CDS.1745
+AAA044D11.contig.15	feature	CDS	119027	119617	.	-	0	ID=AAA044D11.genome.CDS.1744;Product=;locus_tag=AAA044D11.genome.CDS.1744
+AAA044D11.contig.15	feature	CDS	118495	119052	.	-	0	ID=AAA044D11.genome.CDS.579;Product=;locus_tag=AAA044D11.genome.CDS.579
+AAA044D11.contig.15	feature	CDS	116575	118485	.	-	0	ID=AAA044D11.genome.CDS.1742;Product=Serine/threonine protein kinase PrkC%2C regulator of stationary phase;locus_tag=AAA044D11.genome.CDS.1742
+AAA044D11.contig.15	feature	CDS	115671	116543	.	-	0	ID=AAA044D11.genome.CDS.1741;Product=Endonuclease IV %28EC 3.1.21.2%29;locus_tag=AAA044D11.genome.CDS.1741
+AAA044D11.contig.15	feature	CDS	114805	115674	.	-	0	ID=AAA044D11.genome.CDS.1740;Product=Permease of the drug/metabolite transporter %28DMT%29 superfamily;locus_tag=AAA044D11.genome.CDS.1740
+AAA044D11.contig.15	feature	CDS	113756	114808	.	-	0	ID=AAA044D11.genome.CDS.1739;Product=L-allo-threonine aldolase %28EC 2.1.2.1%29;locus_tag=AAA044D11.genome.CDS.1739
+AAA044D11.contig.15	feature	CDS	113288	113782	.	+	0	ID=AAA044D11.genome.CDS.1738;Product=Methylated-DNA--protein-cysteine methyltransferase %28EC 2.1.1.63%29;locus_tag=AAA044D11.genome.CDS.1738
+AAA044D11.contig.15	feature	CDS	111916	113256	.	+	0	ID=AAA044D11.genome.CDS.1737;Product=2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase II %28EC 2.5.1.54%29;locus_tag=AAA044D11.genome.CDS.1737
+AAA044D11.contig.15	feature	CDS	110845	111870	.	+	0	ID=AAA044D11.genome.CDS.1736;Product=6-phosphofructokinase %28EC 2.7.1.11%29;locus_tag=AAA044D11.genome.CDS.1736
+AAA044D11.contig.15	feature	CDS	109310	110710	.	-	0	ID=AAA044D11.genome.CDS.1735;Product=Xylulose kinase %28EC 2.7.1.17%29;locus_tag=AAA044D11.genome.CDS.1735
+AAA044D11.contig.15	feature	CDS	108375	109307	.	-	0	ID=AAA044D11.genome.CDS.1734;Product=Lipase/esterase;locus_tag=AAA044D11.genome.CDS.1734
+AAA044D11.contig.15	feature	CDS	107466	108338	.	-	0	ID=AAA044D11.genome.CDS.1733;Product=Permease of the drug/metabolite transporter %28DMT%29 superfamily;locus_tag=AAA044D11.genome.CDS.1733
+AAA044D11.contig.15	feature	CDS	106568	107482	.	+	0	ID=AAA044D11.genome.CDS.1732;Product=GTP-binding protein Era;locus_tag=AAA044D11.genome.CDS.1732
+AAA044D11.contig.15	feature	CDS	105689	106555	.	+	0	ID=AAA044D11.genome.CDS.1731;Product=Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake;locus_tag=AAA044D11.genome.CDS.1731
+AAA044D11.contig.15	feature	CDS	104169	105692	.	+	0	ID=AAA044D11.genome.CDS.1730;Product=MG%282%2B%29 CHELATASE FAMILY PROTEIN / ComM-related protein;locus_tag=AAA044D11.genome.CDS.1730
+AAA044D11.contig.15	feature	CDS	103810	104169	.	+	0	ID=AAA044D11.genome.CDS.1729;Product=;locus_tag=AAA044D11.genome.CDS.1729
+AAA044D11.contig.15	feature	CDS	103138	103743	.	+	0	ID=AAA044D11.genome.CDS.1728;Product=Ribonuclease HII %28EC 3.1.26.4%29;locus_tag=AAA044D11.genome.CDS.1728
+AAA044D11.contig.15	feature	CDS	102441	103127	.	+	0	ID=AAA044D11.genome.CDS.1727;Product=Signal peptidase I %28EC 3.4.21.89%29;locus_tag=AAA044D11.genome.CDS.1727
+AAA044D11.contig.15	feature	CDS	101890	102414	.	+	0	ID=AAA044D11.genome.CDS.1726;Product=LSU ribosomal protein L19p;locus_tag=AAA044D11.genome.CDS.1726
+AAA044D11.contig.15	feature	CDS	100979	101782	.	+	0	ID=AAA044D11.genome.CDS.1725;Product=Inositol-1-monophosphatase %28EC 3.1.3.25%29;locus_tag=AAA044D11.genome.CDS.1725
+AAA044D11.contig.15	feature	CDS	100080	100934	.	-	0	ID=AAA044D11.genome.CDS.1724;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1724
+AAA044D11.contig.15	feature	CDS	98973	100076	.	+	0	ID=AAA044D11.genome.CDS.1723;Product=Alkaline phosphodiesterase I %28EC 3.1.4.1%29 / Nucleotide pyrophosphatase %28EC 3.6.1.9%29;locus_tag=AAA044D11.genome.CDS.1723
+AAA044D11.contig.15	feature	CDS	97379	98875	.	-	0	ID=AAA044D11.genome.CDS.1722;Product=Topoisomerase IV subunit A %28EC 5.99.1.-%29;locus_tag=AAA044D11.genome.CDS.1722
+AAA044D11.contig.15	feature	CDS	96802	97359	.	-	0	ID=AAA044D11.genome.CDS.1721;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1721
+AAA044D11.contig.15	feature	CDS	94725	96797	.	+	0	ID=AAA044D11.genome.CDS.1720;Product=Topoisomerase IV subunit B %28EC 5.99.1.-%29;locus_tag=AAA044D11.genome.CDS.1720
+AAA044D11.contig.15	feature	CDS	94282	94503	.	-	0	ID=AAA044D11.genome.CDS.1719;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1719
+AAA044D11.contig.15	feature	CDS	92800	94266	.	+	0	ID=AAA044D11.genome.CDS.1718;Product=RNA polymerase sigma factor RpoD;locus_tag=AAA044D11.genome.CDS.1718
+AAA044D11.contig.15	feature	CDS	91567	92676	.	+	0	ID=AAA044D11.genome.CDS.1717;Product=Homoserine O-acetyltransferase %28EC 2.3.1.31%29;locus_tag=AAA044D11.genome.CDS.1717
+AAA044D11.contig.15	feature	CDS	90226	91545	.	+	0	ID=AAA044D11.genome.CDS.1716;Product=O-acetylhomoserine sulfhydrylase %28EC 2.5.1.49%29 / O-succinylhomoserine sulfhydrylase %28EC 2.5.1.48%29;locus_tag=AAA044D11.genome.CDS.1716
+AAA044D11.contig.15	feature	CDS	88277	89989	.	+	0	ID=AAA044D11.genome.CDS.1715;Product=NAD synthetase %28EC 6.3.1.5%29 / Glutamine amidotransferase chain of NAD synthetase;locus_tag=AAA044D11.genome.CDS.1715
+AAA044D11.contig.15	feature	CDS	87363	88166	.	-	0	ID=AAA044D11.genome.CDS.1714;Product=3-methyl-2-oxobutanoate hydroxymethyltransferase %28EC 2.1.2.11%29;locus_tag=AAA044D11.genome.CDS.1714
+AAA044D11.contig.15	feature	CDS	86076	87245	.	-	0	ID=AAA044D11.genome.CDS.1713;Product=FIG01124839: hypothetical protein;locus_tag=AAA044D11.genome.CDS.1713
+AAA044D11.contig.15	feature	CDS	85428	85850	.	-	0	ID=AAA044D11.genome.CDS.1712;Product=Uncharacterized homolog of gamma-carboxymuconolactone decarboxylase subunit;locus_tag=AAA044D11.genome.CDS.1712
+AAA044D11.contig.15	feature	CDS	84893	85369	.	+	0	ID=AAA044D11.genome.CDS.1711;Product=Transcriptional regulator%2C MarR family;locus_tag=AAA044D11.genome.CDS.1711
+AAA044D11.contig.15	feature	CDS	82863	84818	.	-	0	ID=AAA044D11.genome.CDS.1710;Product=Metallopeptidase;locus_tag=AAA044D11.genome.CDS.1710
+AAA044D11.contig.15	feature	CDS	81523	82869	.	-	0	ID=AAA044D11.genome.CDS.1709;Product=tRNA-guanine transglycosylase %28EC 2.4.2.29%29;locus_tag=AAA044D11.genome.CDS.1709
+AAA044D11.contig.15	feature	CDS	80876	81523	.	-	0	ID=AAA044D11.genome.CDS.1708;Product=UPF0246 protein YaaA;locus_tag=AAA044D11.genome.CDS.1708
+AAA044D11.contig.15	feature	CDS	79974	80879	.	+	0	ID=AAA044D11.genome.CDS.1707;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1707
+AAA044D11.contig.15	feature	CDS	79386	79931	.	-	0	ID=AAA044D11.genome.CDS.1706;Product=Uncharacterized protein UPF0114;locus_tag=AAA044D11.genome.CDS.1706
+AAA044D11.contig.15	feature	CDS	78627	79382	.	+	0	ID=AAA044D11.genome.CDS.1705;Product=FIG01310822: Short chain dehydrogenase;locus_tag=AAA044D11.genome.CDS.1705
+AAA044D11.contig.15	feature	CDS	78154	78576	.	-	0	ID=AAA044D11.genome.CDS.1704;Product=Putative membrane protein;locus_tag=AAA044D11.genome.CDS.1704
+AAA044D11.contig.15	feature	CDS	77552	78157	.	-	0	ID=AAA044D11.genome.CDS.1703;Product=DedA protein;locus_tag=AAA044D11.genome.CDS.1703
+AAA044D11.contig.15	feature	CDS	76233	77555	.	+	0	ID=AAA044D11.genome.CDS.1702;Product=Undecaprenyl-diphosphatase %28EC 3.6.1.27%29;locus_tag=AAA044D11.genome.CDS.1702
+AAA044D11.contig.15	feature	CDS	75738	76220	.	+	0	ID=AAA044D11.genome.CDS.1701;Product=;locus_tag=AAA044D11.genome.CDS.1701
+AAA044D11.contig.15	feature	CDS	73569	75728	.	+	0	ID=AAA044D11.genome.CDS.1700;Product=Catalase %28EC 1.11.1.6%29 / Peroxidase %28EC 1.11.1.7%29;locus_tag=AAA044D11.genome.CDS.1700
+AAA044D11.contig.15	feature	CDS	72183	73265	.	+	0	ID=AAA044D11.genome.CDS.1699;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1699
+AAA044D11.contig.15	feature	CDS	71353	71997	.	-	0	ID=AAA044D11.genome.CDS.1698;Product=;locus_tag=AAA044D11.genome.CDS.1698
+AAA044D11.contig.15	feature	CDS	70931	71293	.	+	0	ID=AAA044D11.genome.CDS.1697;Product=;locus_tag=AAA044D11.genome.CDS.1697
+AAA044D11.contig.15	feature	CDS	69553	70704	.	+	0	ID=AAA044D11.genome.CDS.1696;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1696
+AAA044D11.contig.15	feature	CDS	68255	69550	.	+	0	ID=AAA044D11.genome.CDS.1695;Product=;locus_tag=AAA044D11.genome.CDS.1695
+AAA044D11.contig.15	feature	CDS	67299	68258	.	+	0	ID=AAA044D11.genome.CDS.1694;Product=conserved hypothetical protein-putative phospholipid-binding protein;locus_tag=AAA044D11.genome.CDS.1694
+AAA044D11.contig.15	feature	CDS	65812	67296	.	+	0	ID=AAA044D11.genome.CDS.1693;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1693
+AAA044D11.contig.15	feature	CDS	64319	65536	.	+	0	ID=AAA044D11.genome.CDS.1692;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1692
+AAA044D11.contig.15	feature	CDS	63996	64319	.	+	0	ID=AAA044D11.genome.CDS.1691;Product=Quaternary ammonium compound-resistance protein SugE;locus_tag=AAA044D11.genome.CDS.1691
+AAA044D11.contig.15	feature	CDS	63552	63950	.	+	0	ID=AAA044D11.genome.CDS.1690;Product=;locus_tag=AAA044D11.genome.CDS.1690
+AAA044D11.contig.15	feature	CDS	61980	63056	.	-	0	ID=AAA044D11.genome.CDS.1689;Product=Transaldolase %28EC 2.2.1.2%29;locus_tag=AAA044D11.genome.CDS.1689
+AAA044D11.contig.15	feature	CDS	61003	61977	.	+	0	ID=AAA044D11.genome.CDS.1688;Product=Oligopeptide transport ATP-binding protein OppF %28TC 3.A.1.5.1%29;locus_tag=AAA044D11.genome.CDS.1688
+AAA044D11.contig.15	feature	CDS	60014	61006	.	+	0	ID=AAA044D11.genome.CDS.1687;Product=Oligopeptide transport ATP-binding protein OppD %28TC 3.A.1.5.1%29;locus_tag=AAA044D11.genome.CDS.1687
+AAA044D11.contig.15	feature	CDS	59019	60017	.	+	0	ID=AAA044D11.genome.CDS.1686;Product=Dipeptide transport system permease protein DppB %28TC 3.A.1.5.2%29;locus_tag=AAA044D11.genome.CDS.1686
+AAA044D11.contig.15	feature	CDS	57166	58920	.	+	0	ID=AAA044D11.genome.CDS.1685;Product=Oligopeptide ABC transporter%2C periplasmic oligopeptide-binding protein OppA %28TC 3.A.1.5.1%29;locus_tag=AAA044D11.genome.CDS.1685
+AAA044D11.contig.15	feature	CDS	56167	57135	.	+	0	ID=AAA044D11.genome.CDS.1684;Product=Oligopeptide transport system permease protein OppC %28TC 3.A.1.5.1%29;locus_tag=AAA044D11.genome.CDS.1684
+AAA044D11.contig.15	feature	CDS	55037	56116	.	+	0	ID=AAA044D11.genome.CDS.1683;Product=FIG006762: Phosphoglycerate mutase family;locus_tag=AAA044D11.genome.CDS.1683
+AAA044D11.contig.15	feature	CDS	54311	55036	.	+	0	ID=AAA044D11.genome.CDS.1682;Product=;locus_tag=AAA044D11.genome.CDS.1682
+AAA044D11.contig.15	feature	CDS	53007	54191	.	-	0	ID=AAA044D11.genome.CDS.1681;Product=;locus_tag=AAA044D11.genome.CDS.1681
+AAA044D11.contig.15	feature	tRNA	52379	52453	.	+	.	ID=AAA044D11.genome.rna.11;Product=tRNA-Val-TAC;locus_tag=AAA044D11.genome.rna.11
+AAA044D11.contig.15	feature	CDS	51859	52317	.	+	0	ID=AAA044D11.genome.CDS.1679;Product=Alkyl hydroperoxide reductase subunit C-like protein;locus_tag=AAA044D11.genome.CDS.1679
+AAA044D11.contig.15	feature	CDS	51439	51846	.	+	0	ID=AAA044D11.genome.CDS.1678;Product=FIG00819990: hypothetical protein;locus_tag=AAA044D11.genome.CDS.1678
+AAA044D11.contig.15	feature	CDS	48576	51326	.	-	0	ID=AAA044D11.genome.CDS.1677;Product=Pyruvate dehydrogenase E1 component %28EC 1.2.4.1%29;locus_tag=AAA044D11.genome.CDS.1677
+AAA044D11.contig.15	feature	CDS	47449	48573	.	+	0	ID=AAA044D11.genome.CDS.1676;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1676
+AAA044D11.contig.15	feature	CDS	46481	47380	.	+	0	ID=AAA044D11.genome.CDS.1675;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1675
+AAA044D11.contig.15	feature	CDS	45204	46451	.	+	0	ID=AAA044D11.genome.CDS.1674;Product=Chromosome segregation ATPases;locus_tag=AAA044D11.genome.CDS.1674
+AAA044D11.contig.15	feature	CDS	44025	45155	.	-	0	ID=AAA044D11.genome.CDS.1673;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1673
+AAA044D11.contig.15	feature	CDS	43345	44028	.	+	0	ID=AAA044D11.genome.CDS.1672;Product=FIG01173569: hypothetical protein;locus_tag=AAA044D11.genome.CDS.1672
+AAA044D11.contig.15	feature	CDS	41817	43295	.	-	0	ID=AAA044D11.genome.CDS.1671;Product=Aldehyde dehydrogenase %28EC 1.2.1.3%29;locus_tag=AAA044D11.genome.CDS.1671
+AAA044D11.contig.15	feature	CDS	41491	41814	.	+	0	ID=AAA044D11.genome.CDS.1670;Product=;locus_tag=AAA044D11.genome.CDS.1670
+AAA044D11.contig.15	feature	CDS	40564	41433	.	-	0	ID=AAA044D11.genome.CDS.1669;Product=;locus_tag=AAA044D11.genome.CDS.1669
+AAA044D11.contig.15	feature	CDS	39779	40567	.	-	0	ID=AAA044D11.genome.CDS.1668;Product=ABC-type multidrug transport system%2C permease component;locus_tag=AAA044D11.genome.CDS.1668
+AAA044D11.contig.15	feature	CDS	39150	39782	.	-	0	ID=AAA044D11.genome.CDS.1667;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1667
+AAA044D11.contig.15	feature	CDS	38578	39153	.	+	0	ID=AAA044D11.genome.CDS.1666;Product=ATP:Cob%28I%29alamin adenosyltransferase %28EC 2.5.1.17%29;locus_tag=AAA044D11.genome.CDS.1666
+AAA044D11.contig.15	feature	CDS	37241	38512	.	-	0	ID=AAA044D11.genome.CDS.1665;Product=UDP-N-acetylglucosamine 1-carboxyvinyltransferase %28EC 2.5.1.7%29;locus_tag=AAA044D11.genome.CDS.1665
+AAA044D11.contig.15	feature	CDS	36975	37232	.	+	0	ID=AAA044D11.genome.CDS.1664;Product=ATP synthase epsilon chain %28EC 3.6.3.14%29;locus_tag=AAA044D11.genome.CDS.1664
+AAA044D11.contig.15	feature	CDS	35542	36969	.	+	0	ID=AAA044D11.genome.CDS.1663;Product=ATP synthase beta chain %28EC 3.6.3.14%29;locus_tag=AAA044D11.genome.CDS.1663
+AAA044D11.contig.15	feature	CDS	34634	35542	.	+	0	ID=AAA044D11.genome.CDS.1662;Product=ATP synthase gamma chain %28EC 3.6.3.14%29;locus_tag=AAA044D11.genome.CDS.1662
+AAA044D11.contig.15	feature	CDS	32992	34629	.	+	0	ID=AAA044D11.genome.CDS.1661;Product=ATP synthase alpha chain %28EC 3.6.3.14%29;locus_tag=AAA044D11.genome.CDS.1661
+AAA044D11.contig.15	feature	CDS	32097	32924	.	+	0	ID=AAA044D11.genome.CDS.1660;Product=ATP synthase delta chain %28EC 3.6.3.14%29;locus_tag=AAA044D11.genome.CDS.1660
+AAA044D11.contig.15	feature	CDS	31558	32100	.	+	0	ID=AAA044D11.genome.CDS.1659;Product=ATP synthase F0 sector subunit b %28EC 3.6.3.14%29;locus_tag=AAA044D11.genome.CDS.1659
+AAA044D11.contig.15	feature	CDS	31317	31523	.	+	0	ID=AAA044D11.genome.CDS.1658;Product=ATP synthase F0 sector subunit c %28EC 3.6.3.14%29;locus_tag=AAA044D11.genome.CDS.1658
+AAA044D11.contig.15	feature	CDS	30501	31265	.	+	0	ID=AAA044D11.genome.CDS.1657;Product=ATP synthase F0 sector subunit a %28EC 3.6.3.14%29;locus_tag=AAA044D11.genome.CDS.1657
+AAA044D11.contig.15	feature	CDS	30189	30383	.	+	0	ID=AAA044D11.genome.CDS.1656;Product=;locus_tag=AAA044D11.genome.CDS.1656
+AAA044D11.contig.15	feature	CDS	29755	30171	.	+	0	ID=AAA044D11.genome.CDS.1655;Product=;locus_tag=AAA044D11.genome.CDS.1655
+AAA044D11.contig.15	feature	CDS	29553	29747	.	+	0	ID=AAA044D11.genome.CDS.490;Product=;locus_tag=AAA044D11.genome.CDS.490
+AAA044D11.contig.15	feature	CDS	28419	29516	.	+	0	ID=AAA044D11.genome.CDS.1653;Product=Undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase %28EC 2.7.8.-%29;locus_tag=AAA044D11.genome.CDS.1653
+AAA044D11.contig.15	feature	CDS	27126	28403	.	+	0	ID=AAA044D11.genome.CDS.1652;Product=Serine hydroxymethyltransferase %28EC 2.1.2.1%29;locus_tag=AAA044D11.genome.CDS.1652
+AAA044D11.contig.15	feature	CDS	26523	27113	.	+	0	ID=AAA044D11.genome.CDS.1651;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1651
+AAA044D11.contig.15	feature	CDS	25093	26526	.	+	0	ID=AAA044D11.genome.CDS.1650;Product=GTP-binding protein HflX;locus_tag=AAA044D11.genome.CDS.1650
+AAA044D11.contig.15	feature	CDS	24305	25096	.	+	0	ID=AAA044D11.genome.CDS.1649;Product=Diaminopimelate epimerase %28EC 5.1.1.7%29;locus_tag=AAA044D11.genome.CDS.1649
+AAA044D11.contig.15	feature	CDS	23394	24308	.	+	0	ID=AAA044D11.genome.CDS.1648;Product=tRNA dimethylallyltransferase %28EC 2.5.1.75%29;locus_tag=AAA044D11.genome.CDS.1648
+AAA044D11.contig.15	feature	CDS	21981	23390	.	+	0	ID=AAA044D11.genome.CDS.1647;Product=tRNA-i%286%29A37 methylthiotransferase;locus_tag=AAA044D11.genome.CDS.1647
+AAA044D11.contig.15	feature	CDS	21418	21912	.	+	0	ID=AAA044D11.genome.CDS.1646;Product=;locus_tag=AAA044D11.genome.CDS.1646
+AAA044D11.contig.15	feature	CDS	20307	21398	.	+	0	ID=AAA044D11.genome.CDS.1645;Product=RecA protein;locus_tag=AAA044D11.genome.CDS.1645
+AAA044D11.contig.15	feature	CDS	19903	20094	.	+	0	ID=AAA044D11.genome.CDS.1644;Product=;locus_tag=AAA044D11.genome.CDS.1644
+AAA044D11.contig.15	feature	CDS	19410	19916	.	+	0	ID=AAA044D11.genome.CDS.1643;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1643
+AAA044D11.contig.15	feature	CDS	19071	19367	.	+	0	ID=AAA044D11.genome.CDS.1642;Product=;locus_tag=AAA044D11.genome.CDS.1642
+AAA044D11.contig.15	feature	CDS	18598	19074	.	+	0	ID=AAA044D11.genome.CDS.1641;Product=Molybdopterin binding motif%2C CinA N-terminal domain / C-terminal domain of CinA type S;locus_tag=AAA044D11.genome.CDS.1641
+AAA044D11.contig.15	feature	CDS	18055	18588	.	+	0	ID=AAA044D11.genome.CDS.1640;Product=CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase %28EC 2.7.8.5%29;locus_tag=AAA044D11.genome.CDS.1640
+AAA044D11.contig.15	feature	CDS	16649	18058	.	+	0	ID=AAA044D11.genome.CDS.1639;Product=Ribosomal protein S12p Asp88 %28E. coli%29 methylthiotransferase;locus_tag=AAA044D11.genome.CDS.1639
+AAA044D11.contig.15	feature	CDS	15870	16619	.	+	0	ID=AAA044D11.genome.CDS.1638;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1638
+AAA044D11.contig.15	feature	CDS	13360	15693	.	+	0	ID=AAA044D11.genome.CDS.1637;Product=DNA translocase FtsK;locus_tag=AAA044D11.genome.CDS.1637
+AAA044D11.contig.15	feature	CDS	11628	13310	.	+	0	ID=AAA044D11.genome.CDS.1636;Product=Ribonuclease J2 %28endoribonuclease in RNA processing%29;locus_tag=AAA044D11.genome.CDS.1636
+AAA044D11.contig.15	feature	CDS	10738	11628	.	+	0	ID=AAA044D11.genome.CDS.1635;Product=4-hydroxy-tetrahydrodipicolinate synthase %28EC 4.3.3.7%29;locus_tag=AAA044D11.genome.CDS.1635
+AAA044D11.contig.15	feature	CDS	9968	10717	.	+	0	ID=AAA044D11.genome.CDS.1634;Product=Thymidylate synthase thyX %28EC 2.1.1.-%29;locus_tag=AAA044D11.genome.CDS.1634
+AAA044D11.contig.15	feature	CDS	9270	9911	.	-	0	ID=AAA044D11.genome.CDS.1633;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1633
+AAA044D11.contig.15	feature	CDS	8965	9273	.	-	0	ID=AAA044D11.genome.CDS.1632;Product=;locus_tag=AAA044D11.genome.CDS.1632
+AAA044D11.contig.15	feature	CDS	8717	8968	.	+	0	ID=AAA044D11.genome.CDS.1631;Product=;locus_tag=AAA044D11.genome.CDS.1631
+AAA044D11.contig.15	feature	CDS	7958	8707	.	+	0	ID=AAA044D11.genome.CDS.1630;Product=4-hydroxy-tetrahydrodipicolinate reductase %28EC 1.17.1.8%29;locus_tag=AAA044D11.genome.CDS.1630
+AAA044D11.contig.15	feature	CDS	6705	7961	.	+	0	ID=AAA044D11.genome.CDS.1629;Product=FIG007959: peptidase%2C M16 family;locus_tag=AAA044D11.genome.CDS.1629
+AAA044D11.contig.15	feature	CDS	4479	6689	.	+	0	ID=AAA044D11.genome.CDS.1628;Product=Polyribonucleotide nucleotidyltransferase %28EC 2.7.7.8%29;locus_tag=AAA044D11.genome.CDS.1628
+AAA044D11.contig.15	feature	CDS	4077	4346	.	+	0	ID=AAA044D11.genome.CDS.1627;Product=SSU ribosomal protein S15p %28S13e%29;locus_tag=AAA044D11.genome.CDS.1627
+AAA044D11.contig.15	feature	CDS	3066	3965	.	+	0	ID=AAA044D11.genome.CDS.1626;Product=Riboflavin kinase %28EC 2.7.1.26%29 / FMN adenylyltransferase %28EC 2.7.7.2%29;locus_tag=AAA044D11.genome.CDS.1626
+AAA044D11.contig.15	feature	CDS	2195	3061	.	+	0	ID=AAA044D11.genome.CDS.1625;Product=tRNA pseudouridine synthase B %28EC 4.2.1.70%29;locus_tag=AAA044D11.genome.CDS.1625
+AAA044D11.contig.15	feature	CDS	1771	2190	.	+	0	ID=AAA044D11.genome.CDS.1624;Product=Ribosome-binding factor A;locus_tag=AAA044D11.genome.CDS.1624
+AAA044D11.contig.15	feature	CDS	1	1767	.	+	0	ID=AAA044D11.genome.CDS.1623;Product=Translation initiation factor 2;locus_tag=AAA044D11.genome.CDS.1623
+AAA044D11.contig.16	feature	misc_RNA	3314	3621	.	+	.	ID=AAA044D11.genome.repeat.17;Product=repeat region;locus_tag=AAA044D11.genome.repeat.17
+AAA044D11.contig.16	feature	CDS	3412	3612	.	-	0	ID=AAA044D11.genome.CDS.1788;Product=;locus_tag=AAA044D11.genome.CDS.1788
+AAA044D11.contig.16	feature	CDS	1018	3408	.	+	0	ID=AAA044D11.genome.CDS.1787;Product=Membrane alanine aminopeptidase N %28EC 3.4.11.2%29;locus_tag=AAA044D11.genome.CDS.1787
+AAA044D11.contig.16	feature	CDS	150	830	.	-	0	ID=AAA044D11.genome.CDS.1785;Product=tRNA %28guanine46-N7-%29-methyltransferase %28EC 2.1.1.33%29;locus_tag=AAA044D11.genome.CDS.1785
+AAA044D11.contig.16	feature	CDS	1	153	.	+	0	ID=AAA044D11.genome.CDS.1784;Product=Ribose 5-phosphate isomerase B %28EC 5.3.1.6%29 / Galactose 6-phosphate isomerase;locus_tag=AAA044D11.genome.CDS.1784
+AAA044D11.contig.17	feature	misc_RNA	22611	22918	.	+	.	ID=AAA044D11.genome.repeat.22;Product=repeat region;locus_tag=AAA044D11.genome.repeat.22
+AAA044D11.contig.17	feature	CDS	22824	22916	.	-	0	ID=AAA044D11.genome.CDS.1812;Product=;locus_tag=AAA044D11.genome.CDS.1812
+AAA044D11.contig.17	feature	CDS	22620	22820	.	+	0	ID=AAA044D11.genome.CDS.1811;Product=;locus_tag=AAA044D11.genome.CDS.1811
+AAA044D11.contig.17	feature	CDS	22095	22610	.	+	0	ID=AAA044D11.genome.CDS.1810;Product=HNH endonuclease family protein;locus_tag=AAA044D11.genome.CDS.1810
+AAA044D11.contig.17	feature	CDS	21400	21960	.	-	0	ID=AAA044D11.genome.CDS.1809;Product=Potassium efflux system KefA protein / Small-conductance mechanosensitive channel;locus_tag=AAA044D11.genome.CDS.1809
+AAA044D11.contig.17	feature	CDS	21020	21403	.	+	0	ID=AAA044D11.genome.CDS.1808;Product=Hemoglobin-like protein HbO;locus_tag=AAA044D11.genome.CDS.1808
+AAA044D11.contig.17	feature	CDS	19767	21023	.	+	0	ID=AAA044D11.genome.CDS.1807;Product=putative integral membrane transport protein;locus_tag=AAA044D11.genome.CDS.1807
+AAA044D11.contig.17	feature	CDS	19363	19767	.	+	0	ID=AAA044D11.genome.CDS.1806;Product=;locus_tag=AAA044D11.genome.CDS.1806
+AAA044D11.contig.17	feature	CDS	17696	19363	.	+	0	ID=AAA044D11.genome.CDS.1805;Product=ABC transporter ATP-binding protein;locus_tag=AAA044D11.genome.CDS.1805
+AAA044D11.contig.17	feature	tRNA	17565	17641	.	-	.	ID=AAA044D11.genome.rna.12;Product=tRNA-Arg-TCT;locus_tag=AAA044D11.genome.rna.12
+AAA044D11.contig.17	feature	CDS	16304	17482	.	+	0	ID=AAA044D11.genome.CDS.1804;Product=Phosphate ABC transporter%2C periplasmic phosphate-binding protein PstS %28TC 3.A.1.7.1%29;locus_tag=AAA044D11.genome.CDS.1804
+AAA044D11.contig.17	feature	CDS	15290	16180	.	+	0	ID=AAA044D11.genome.CDS.1803;Product=Phosphate transport ATP-binding protein PstB %28TC 3.A.1.7.1%29;locus_tag=AAA044D11.genome.CDS.1803
+AAA044D11.contig.17	feature	CDS	14234	15289	.	+	0	ID=AAA044D11.genome.CDS.1802;Product=Phosphate transport system permease protein PstA %28TC 3.A.1.7.1%29;locus_tag=AAA044D11.genome.CDS.1802
+AAA044D11.contig.17	feature	CDS	13252	14232	.	+	0	ID=AAA044D11.genome.CDS.1801;Product=Phosphate transport system permease protein PstC %28TC 3.A.1.7.1%29;locus_tag=AAA044D11.genome.CDS.1801
+AAA044D11.contig.17	feature	CDS	12582	13094	.	-	0	ID=AAA044D11.genome.CDS.1800;Product=3%27-to-5%27 oligoribonuclease %28orn%29;locus_tag=AAA044D11.genome.CDS.1800
+AAA044D11.contig.17	feature	tRNA	12464	12539	.	-	.	ID=AAA044D11.genome.rna.13;Product=tRNA-His-GTG;locus_tag=AAA044D11.genome.rna.13
+AAA044D11.contig.17	feature	CDS	11938	12429	.	-	0	ID=AAA044D11.genome.CDS.1799;Product=Inorganic pyrophosphatase %28EC 3.6.1.1%29;locus_tag=AAA044D11.genome.CDS.1799
+AAA044D11.contig.17	feature	CDS	10653	11921	.	-	0	ID=AAA044D11.genome.CDS.1798;Product=Ammonium transporter;locus_tag=AAA044D11.genome.CDS.1798
+AAA044D11.contig.17	feature	CDS	10295	10633	.	-	0	ID=AAA044D11.genome.CDS.1797;Product=Nitrogen regulatory protein P-II;locus_tag=AAA044D11.genome.CDS.1797
+AAA044D11.contig.17	feature	tRNA	10151	10223	.	-	.	ID=AAA044D11.genome.rna.14;Product=tRNA-Lys-CTT;locus_tag=AAA044D11.genome.rna.14
+AAA044D11.contig.17	feature	CDS	9450	10094	.	-	0	ID=AAA044D11.genome.CDS.629;Product=ThiJ/PfpI family protein;locus_tag=AAA044D11.genome.CDS.629
+AAA044D11.contig.17	feature	CDS	8818	9417	.	+	0	ID=AAA044D11.genome.CDS.1795;Product=;locus_tag=AAA044D11.genome.CDS.1795
+AAA044D11.contig.17	feature	CDS	7604	8758	.	+	0	ID=AAA044D11.genome.CDS.1794;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1794
+AAA044D11.contig.17	feature	CDS	5776	7593	.	+	0	ID=AAA044D11.genome.CDS.1793;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1793
+AAA044D11.contig.17	feature	CDS	5123	5776	.	+	0	ID=AAA044D11.genome.CDS.1792;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1792
+AAA044D11.contig.17	feature	CDS	1302	4988	.	-	0	ID=AAA044D11.genome.CDS.1791;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1791
+AAA044D11.contig.17	feature	CDS	646	1305	.	-	0	ID=AAA044D11.genome.CDS.1790;Product=;locus_tag=AAA044D11.genome.CDS.1790
+AAA044D11.contig.17	feature	CDS	2	613	.	-	0	ID=AAA044D11.genome.CDS.1789;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1789
+AAA044D11.contig.18	feature	CDS	3357	3893	.	-	0	ID=AAA044D11.genome.CDS.1818;Product=;locus_tag=AAA044D11.genome.CDS.1818
+AAA044D11.contig.18	feature	CDS	2680	3363	.	-	0	ID=AAA044D11.genome.CDS.1817;Product=;locus_tag=AAA044D11.genome.CDS.1817
+AAA044D11.contig.18	feature	CDS	2018	2683	.	-	0	ID=AAA044D11.genome.CDS.1816;Product=;locus_tag=AAA044D11.genome.CDS.1816
+AAA044D11.contig.18	feature	CDS	898	1884	.	-	0	ID=AAA044D11.genome.CDS.1814;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1814
+AAA044D11.contig.18	feature	CDS	300	920	.	+	0	ID=AAA044D11.genome.CDS.1813;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1813
+AAA044D11.contig.19	feature	misc_RNA	1	339	.	+	.	ID=AAA044D11.genome.repeat.11;Product=repeat region;locus_tag=AAA044D11.genome.repeat.11
+AAA044D11.contig.19	feature	CDS	129921	130304	.	-	0	ID=AAA044D11.genome.CDS.1947;Product=;locus_tag=AAA044D11.genome.CDS.1947
+AAA044D11.contig.19	feature	CDS	128786	129880	.	+	0	ID=AAA044D11.genome.CDS.1946;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1946
+AAA044D11.contig.19	feature	CDS	127790	128752	.	-	0	ID=AAA044D11.genome.CDS.1945;Product=dTDP-glucose 4%2C6-dehydratase %28EC 4.2.1.46%29;locus_tag=AAA044D11.genome.CDS.1945
+AAA044D11.contig.19	feature	CDS	126532	127740	.	+	0	ID=AAA044D11.genome.CDS.1944;Product=UDP-glucose 6-dehydrogenase %28EC 1.1.1.22%29;locus_tag=AAA044D11.genome.CDS.1944
+AAA044D11.contig.19	feature	CDS	124835	126532	.	+	0	ID=AAA044D11.genome.CDS.1943;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1943
+AAA044D11.contig.19	feature	CDS	122621	124666	.	+	0	ID=AAA044D11.genome.CDS.1942;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1942
+AAA044D11.contig.19	feature	CDS	121240	122631	.	+	0	ID=AAA044D11.genome.CDS.1941;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1941
+AAA044D11.contig.19	feature	CDS	120031	120852	.	+	0	ID=AAA044D11.genome.CDS.1940;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1940
+AAA044D11.contig.19	feature	CDS	119702	119869	.	-	0	ID=AAA044D11.genome.CDS.1939;Product=;locus_tag=AAA044D11.genome.CDS.1939
+AAA044D11.contig.19	feature	CDS	119100	119705	.	-	0	ID=AAA044D11.genome.CDS.1938;Product=;locus_tag=AAA044D11.genome.CDS.1938
+AAA044D11.contig.19	feature	CDS	118904	119044	.	-	0	ID=AAA044D11.genome.CDS.768;Product=;locus_tag=AAA044D11.genome.CDS.768
+AAA044D11.contig.19	feature	tRNA	118802	118874	.	+	.	ID=AAA044D11.genome.rna.15;Product=tRNA-Lys-TTT;locus_tag=AAA044D11.genome.rna.15
+AAA044D11.contig.19	feature	CDS	117618	118592	.	+	0	ID=AAA044D11.genome.CDS.1937;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1937
+AAA044D11.contig.19	feature	CDS	116320	117552	.	-	0	ID=AAA044D11.genome.CDS.1936;Product=UDP-glucose dehydrogenase %28EC 1.1.1.22%29;locus_tag=AAA044D11.genome.CDS.1936
+AAA044D11.contig.19	feature	CDS	115545	116318	.	+	0	ID=AAA044D11.genome.CDS.1935;Product=;locus_tag=AAA044D11.genome.CDS.1935
+AAA044D11.contig.19	feature	CDS	114476	115495	.	-	0	ID=AAA044D11.genome.CDS.1934;Product=UDP-glucose 4-epimerase %28EC 5.1.3.2%29;locus_tag=AAA044D11.genome.CDS.1934
+AAA044D11.contig.19	feature	CDS	113642	114457	.	+	0	ID=AAA044D11.genome.CDS.1933;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1933
+AAA044D11.contig.19	feature	CDS	113084	113611	.	-	0	ID=AAA044D11.genome.CDS.1932;Product=Adenine phosphoribosyltransferase %28EC 2.4.2.7%29;locus_tag=AAA044D11.genome.CDS.1932
+AAA044D11.contig.19	feature	CDS	112115	113068	.	+	0	ID=AAA044D11.genome.CDS.1931;Product=TsaC protein %28YrdC-Sua5 domains%29 required for threonylcarbamoyladenosine t%286%29A37 modification in tRNA;locus_tag=AAA044D11.genome.CDS.1931
+AAA044D11.contig.19	feature	CDS	111323	112042	.	-	0	ID=AAA044D11.genome.CDS.1930;Product=;locus_tag=AAA044D11.genome.CDS.1930
+AAA044D11.contig.19	feature	tRNA	111166	111241	.	-	.	ID=AAA044D11.genome.rna.16;Product=tRNA-Glu-TTC;locus_tag=AAA044D11.genome.rna.16
+AAA044D11.contig.19	feature	tRNA	110970	111046	.	-	.	ID=AAA044D11.genome.rna.17;Product=tRNA-Asp-GTC;locus_tag=AAA044D11.genome.rna.17
+AAA044D11.contig.19	feature	tRNA	110800	110873	.	-	.	ID=AAA044D11.genome.rna.18;Product=tRNA-Phe-GAA;locus_tag=AAA044D11.genome.rna.18
+AAA044D11.contig.19	feature	CDS	110410	110790	.	-	0	ID=AAA044D11.genome.CDS.1929;Product=;locus_tag=AAA044D11.genome.CDS.1929
+AAA044D11.contig.19	feature	CDS	110247	110420	.	-	0	ID=AAA044D11.genome.CDS.1928;Product=;locus_tag=AAA044D11.genome.CDS.1928
+AAA044D11.contig.19	feature	CDS	109213	110250	.	+	0	ID=AAA044D11.genome.CDS.1927;Product=Undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase %28EC 2.7.8.-%29;locus_tag=AAA044D11.genome.CDS.1927
+AAA044D11.contig.19	feature	CDS	108997	109212	.	+	0	ID=AAA044D11.genome.CDS.1926;Product=;locus_tag=AAA044D11.genome.CDS.1926
+AAA044D11.contig.19	feature	CDS	108785	109000	.	+	0	ID=AAA044D11.genome.CDS.1925;Product=;locus_tag=AAA044D11.genome.CDS.1925
+AAA044D11.contig.19	feature	CDS	107948	108766	.	+	0	ID=AAA044D11.genome.CDS.1924;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1924
+AAA044D11.contig.19	feature	CDS	107779	107955	.	+	0	ID=AAA044D11.genome.CDS.1923;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1923
+AAA044D11.contig.19	feature	CDS	106656	107726	.	+	0	ID=AAA044D11.genome.CDS.1922;Product=Phosphoribosylformylglycinamidine cyclo-ligase %28EC 6.3.3.1%29;locus_tag=AAA044D11.genome.CDS.1922
+AAA044D11.contig.19	feature	CDS	105187	106656	.	+	0	ID=AAA044D11.genome.CDS.1921;Product=Amidophosphoribosyltransferase %28EC 2.4.2.14%29;locus_tag=AAA044D11.genome.CDS.1921
+AAA044D11.contig.19	feature	CDS	104878	105177	.	+	0	ID=AAA044D11.genome.CDS.1920;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1920
+AAA044D11.contig.19	feature	CDS	102649	104874	.	+	0	ID=AAA044D11.genome.CDS.1919;Product=Phosphoribosylformylglycinamidine synthase%2C synthetase subunit %28EC 6.3.5.3%29;locus_tag=AAA044D11.genome.CDS.1919
+AAA044D11.contig.19	feature	CDS	101972	102649	.	+	0	ID=AAA044D11.genome.CDS.1918;Product=Phosphoribosylformylglycinamidine synthase%2C glutamine amidotransferase subunit %28EC 6.3.5.3%29;locus_tag=AAA044D11.genome.CDS.1918
+AAA044D11.contig.19	feature	CDS	101727	101972	.	+	0	ID=AAA044D11.genome.CDS.1917;Product=Phosphoribosylformylglycinamidine synthase%2C PurS subunit %28EC 6.3.5.3%29;locus_tag=AAA044D11.genome.CDS.1917
+AAA044D11.contig.19	feature	CDS	100893	101726	.	+	0	ID=AAA044D11.genome.CDS.1916;Product=Phosphoribosylaminoimidazole-succinocarboxamide synthase %28EC 6.3.2.6%29;locus_tag=AAA044D11.genome.CDS.1916
+AAA044D11.contig.19	feature	CDS	99475	100896	.	+	0	ID=AAA044D11.genome.CDS.1915;Product=Adenylosuccinate lyase %28EC 4.3.2.2%29;locus_tag=AAA044D11.genome.CDS.1915
+AAA044D11.contig.19	feature	CDS	98227	99474	.	+	0	ID=AAA044D11.genome.CDS.1914;Product=Phosphoribosylamine--glycine ligase %28EC 6.3.4.13%29;locus_tag=AAA044D11.genome.CDS.1914
+AAA044D11.contig.19	feature	CDS	96947	98230	.	+	0	ID=AAA044D11.genome.CDS.1913;Product=Adenylosuccinate synthetase %28EC 6.3.4.4%29;locus_tag=AAA044D11.genome.CDS.1913
+AAA044D11.contig.19	feature	CDS	95912	96946	.	+	0	ID=AAA044D11.genome.CDS.1912;Product=Fructose-bisphosphate aldolase class II %28EC 4.1.2.13%29;locus_tag=AAA044D11.genome.CDS.1912
+AAA044D11.contig.19	feature	CDS	95613	95759	.	+	0	ID=AAA044D11.genome.CDS.741;Product=;locus_tag=AAA044D11.genome.CDS.741
+AAA044D11.contig.19	feature	CDS	93524	95476	.	-	0	ID=AAA044D11.genome.CDS.1911;Product=Acetyl-coenzyme A synthetase %28EC 6.2.1.1%29;locus_tag=AAA044D11.genome.CDS.1911
+AAA044D11.contig.19	feature	CDS	93039	93527	.	+	0	ID=AAA044D11.genome.CDS.1910;Product=;locus_tag=AAA044D11.genome.CDS.1910
+AAA044D11.contig.19	feature	CDS	92512	93042	.	+	0	ID=AAA044D11.genome.CDS.1909;Product=Cytochrome c-type biogenesis protein CcmG/DsbE%2C thiol:disulfide oxidoreductase;locus_tag=AAA044D11.genome.CDS.1909
+AAA044D11.contig.19	feature	CDS	91835	92515	.	+	0	ID=AAA044D11.genome.CDS.1908;Product=Endonuclease III %28EC 4.2.99.18%29;locus_tag=AAA044D11.genome.CDS.1908
+AAA044D11.contig.19	feature	CDS	91080	91778	.	-	0	ID=AAA044D11.genome.CDS.1907;Product=cAMP-binding proteins - catabolite gene activator and regulatory subunit of cAMP-dependent protein kinases;locus_tag=AAA044D11.genome.CDS.1907
+AAA044D11.contig.19	feature	CDS	90615	91079	.	+	0	ID=AAA044D11.genome.CDS.1906;Product=RidA/YER057c/UK114 superfamily%2C group 1;locus_tag=AAA044D11.genome.CDS.1906
+AAA044D11.contig.19	feature	CDS	90457	90615	.	+	0	ID=AAA044D11.genome.CDS.1905;Product=FIG011121: hypothetical protein;locus_tag=AAA044D11.genome.CDS.1905
+AAA044D11.contig.19	feature	CDS	89999	90457	.	+	0	ID=AAA044D11.genome.CDS.1904;Product=Transamidase GatB domain protein;locus_tag=AAA044D11.genome.CDS.1904
+AAA044D11.contig.19	feature	CDS	89160	89984	.	-	0	ID=AAA044D11.genome.CDS.1903;Product=putative secreted protein;locus_tag=AAA044D11.genome.CDS.1903
+AAA044D11.contig.19	feature	CDS	88117	89163	.	+	0	ID=AAA044D11.genome.CDS.1902;Product=Aspartate-semialdehyde dehydrogenase %28EC 1.2.1.11%29;locus_tag=AAA044D11.genome.CDS.1902
+AAA044D11.contig.19	feature	CDS	86846	88120	.	+	0	ID=AAA044D11.genome.CDS.1901;Product=Aspartokinase %28EC 2.7.2.4%29;locus_tag=AAA044D11.genome.CDS.1901
+AAA044D11.contig.19	feature	CDS	86143	86742	.	+	0	ID=AAA044D11.genome.CDS.1900;Product=Recombination protein RecR;locus_tag=AAA044D11.genome.CDS.1900
+AAA044D11.contig.19	feature	CDS	84430	86136	.	+	0	ID=AAA044D11.genome.CDS.1899;Product=DNA polymerase III subunits gamma and tau %28EC 2.7.7.7%29;locus_tag=AAA044D11.genome.CDS.1899
+AAA044D11.contig.19	feature	tRNA	84152	84239	.	-	.	ID=AAA044D11.genome.rna.19;Product=tRNA-Ser-GGA;locus_tag=AAA044D11.genome.rna.19
+AAA044D11.contig.19	feature	CDS	82608	84107	.	-	0	ID=AAA044D11.genome.CDS.1898;Product=;locus_tag=AAA044D11.genome.CDS.1898
+AAA044D11.contig.19	feature	CDS	81425	82567	.	+	0	ID=AAA044D11.genome.CDS.1897;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1897
+AAA044D11.contig.19	feature	CDS	80000	81424	.	+	0	ID=AAA044D11.genome.CDS.1896;Product=Succinate-semialdehyde dehydrogenase %5BNAD%28P%29%2B%5D %28EC 1.2.1.16%29;locus_tag=AAA044D11.genome.CDS.1896
+AAA044D11.contig.19	feature	CDS	77582	79918	.	-	0	ID=AAA044D11.genome.CDS.1895;Product=Amino acid permease;locus_tag=AAA044D11.genome.CDS.1895
+AAA044D11.contig.19	feature	CDS	76928	77581	.	+	0	ID=AAA044D11.genome.CDS.1894;Product=Aquaporin Z;locus_tag=AAA044D11.genome.CDS.1894
+AAA044D11.contig.19	feature	CDS	76116	76904	.	-	0	ID=AAA044D11.genome.CDS.1893;Product=Protein serine/threonine phosphatase PrpC%2C regulation of stationary phase;locus_tag=AAA044D11.genome.CDS.1893
+AAA044D11.contig.19	feature	CDS	74579	76123	.	-	0	ID=AAA044D11.genome.CDS.1892;Product=Serine/threonine protein kinase PrkC%2C regulator of stationary phase;locus_tag=AAA044D11.genome.CDS.1892
+AAA044D11.contig.19	feature	CDS	73935	74582	.	+	0	ID=AAA044D11.genome.CDS.1891;Product=Para-aminobenzoate synthase%2C amidotransferase component %28EC 2.6.1.85%29;locus_tag=AAA044D11.genome.CDS.1891
+AAA044D11.contig.19	feature	CDS	73650	73907	.	-	0	ID=AAA044D11.genome.CDS.1890;Product=;locus_tag=AAA044D11.genome.CDS.1890
+AAA044D11.contig.19	feature	CDS	72786	73529	.	-	0	ID=AAA044D11.genome.CDS.1889;Product=DNA-binding response regulator;locus_tag=AAA044D11.genome.CDS.1889
+AAA044D11.contig.19	feature	CDS	71304	72764	.	-	0	ID=AAA044D11.genome.CDS.1888;Product=sensor histidine kinase;locus_tag=AAA044D11.genome.CDS.1888
+AAA044D11.contig.19	feature	CDS	70729	71307	.	+	0	ID=AAA044D11.genome.CDS.1887;Product=Deoxycytidine triphosphate deaminase %28EC 3.5.4.13%29;locus_tag=AAA044D11.genome.CDS.1887
+AAA044D11.contig.19	feature	CDS	68843	70666	.	-	0	ID=AAA044D11.genome.CDS.1886;Product=Acyl-CoA dehydrogenase %28EC 1.3.8.7%29;locus_tag=AAA044D11.genome.CDS.1886
+AAA044D11.contig.19	feature	CDS	67900	68817	.	-	0	ID=AAA044D11.genome.CDS.1885;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1885
+AAA044D11.contig.19	feature	CDS	67391	67885	.	-	0	ID=AAA044D11.genome.CDS.1884;Product=Carbonic anhydrase %28EC 4.2.1.1%29;locus_tag=AAA044D11.genome.CDS.1884
+AAA044D11.contig.19	feature	CDS	65982	67394	.	+	0	ID=AAA044D11.genome.CDS.1883;Product=Replicative DNA helicase %28DnaB%29 %28EC 3.6.4.12%29;locus_tag=AAA044D11.genome.CDS.1883
+AAA044D11.contig.19	feature	CDS	65206	65652	.	+	0	ID=AAA044D11.genome.CDS.1882;Product=LSU ribosomal protein L9p;locus_tag=AAA044D11.genome.CDS.1882
+AAA044D11.contig.19	feature	CDS	64906	65193	.	+	0	ID=AAA044D11.genome.CDS.1881;Product=SSU ribosomal protein S18p %40 SSU ribosomal protein S18p%2C zinc-dependent;locus_tag=AAA044D11.genome.CDS.1881
+AAA044D11.contig.19	feature	CDS	64337	64843	.	+	0	ID=AAA044D11.genome.CDS.1880;Product=Single-stranded DNA-binding protein;locus_tag=AAA044D11.genome.CDS.1880
+AAA044D11.contig.19	feature	CDS	64012	64296	.	+	0	ID=AAA044D11.genome.CDS.1879;Product=SSU ribosomal protein S6p;locus_tag=AAA044D11.genome.CDS.1879
+AAA044D11.contig.19	feature	CDS	62707	63906	.	+	0	ID=AAA044D11.genome.CDS.1878;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1878
+AAA044D11.contig.19	feature	CDS	60737	62710	.	+	0	ID=AAA044D11.genome.CDS.1877;Product=Multimodular transpeptidase-transglycosylase %28EC 2.4.1.129%29 %28EC 3.4.-.-%29;locus_tag=AAA044D11.genome.CDS.1877
+AAA044D11.contig.19	feature	CDS	60237	60707	.	+	0	ID=AAA044D11.genome.CDS.1876;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1876
+AAA044D11.contig.19	feature	CDS	58922	60235	.	-	0	ID=AAA044D11.genome.CDS.1875;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1875
+AAA044D11.contig.19	feature	CDS	57514	58956	.	+	0	ID=AAA044D11.genome.CDS.1874;Product=tRNA nucleotidyltransferase %28EC 2.7.7.27%29;locus_tag=AAA044D11.genome.CDS.1874
+AAA044D11.contig.19	feature	CDS	56900	57481	.	-	0	ID=AAA044D11.genome.CDS.1873;Product=MutT/nudix family protein;locus_tag=AAA044D11.genome.CDS.1873
+AAA044D11.contig.19	feature	CDS	55785	56903	.	-	0	ID=AAA044D11.genome.CDS.1872;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1872
+AAA044D11.contig.19	feature	CDS	54194	55792	.	-	0	ID=AAA044D11.genome.CDS.1871;Product=Proposed peptidoglycan lipid II flippase MurJ;locus_tag=AAA044D11.genome.CDS.1871
+AAA044D11.contig.19	feature	CDS	53260	54189	.	-	0	ID=AAA044D11.genome.CDS.1870;Product=Thioredoxin reductase %28EC 1.8.1.9%29;locus_tag=AAA044D11.genome.CDS.1870
+AAA044D11.contig.19	feature	CDS	52891	53214	.	-	0	ID=AAA044D11.genome.CDS.1869;Product=Thioredoxin;locus_tag=AAA044D11.genome.CDS.1869
+AAA044D11.contig.19	feature	CDS	51792	52886	.	-	0	ID=AAA044D11.genome.CDS.1868;Product=N-acetylmuramoyl-L-alanine amidase %28EC 3.5.1.28%29;locus_tag=AAA044D11.genome.CDS.1868
+AAA044D11.contig.19	feature	CDS	50497	51729	.	-	0	ID=AAA044D11.genome.CDS.1867;Product=Aspartate aminotransferase %28AspB-4%29 %28EC 2.6.1.1%29;locus_tag=AAA044D11.genome.CDS.1867
+AAA044D11.contig.19	feature	CDS	49633	50505	.	+	0	ID=AAA044D11.genome.CDS.1866;Product=Chromosome %28plasmid%29 partitioning protein ParB;locus_tag=AAA044D11.genome.CDS.1866
+AAA044D11.contig.19	feature	CDS	48785	49636	.	+	0	ID=AAA044D11.genome.CDS.1865;Product=Chromosome %28plasmid%29 partitioning protein ParA;locus_tag=AAA044D11.genome.CDS.1865
+AAA044D11.contig.19	feature	CDS	48084	48713	.	+	0	ID=AAA044D11.genome.CDS.1864;Product=rRNA small subunit 7-methylguanosine %28m7G%29 methyltransferase GidB;locus_tag=AAA044D11.genome.CDS.1864
+AAA044D11.contig.19	feature	CDS	47532	48053	.	+	0	ID=AAA044D11.genome.CDS.1863;Product=RNA-binding protein Jag;locus_tag=AAA044D11.genome.CDS.1863
+AAA044D11.contig.19	feature	CDS	46550	47473	.	+	0	ID=AAA044D11.genome.CDS.1862;Product=Inner membrane protein translocase component YidC%2C long form;locus_tag=AAA044D11.genome.CDS.1862
+AAA044D11.contig.19	feature	CDS	46278	46550	.	+	0	ID=AAA044D11.genome.CDS.690;Product=Protein YidD;locus_tag=AAA044D11.genome.CDS.690
+AAA044D11.contig.19	feature	CDS	45913	46281	.	+	0	ID=AAA044D11.genome.CDS.1860;Product=Ribonuclease P protein component %28EC 3.1.26.5%29;locus_tag=AAA044D11.genome.CDS.1860
+AAA044D11.contig.19	feature	CDS	45763	45900	.	+	0	ID=AAA044D11.genome.CDS.1859;Product=LSU ribosomal protein L34p;locus_tag=AAA044D11.genome.CDS.1859
+AAA044D11.contig.19	feature	CDS	44044	45447	.	-	0	ID=AAA044D11.genome.CDS.1858;Product=Chromosomal replication initiator protein DnaA;locus_tag=AAA044D11.genome.CDS.1858
+AAA044D11.contig.19	feature	CDS	43818	43988	.	-	0	ID=AAA044D11.genome.CDS.1857;Product=;locus_tag=AAA044D11.genome.CDS.1857
+AAA044D11.contig.19	feature	CDS	42625	43752	.	-	0	ID=AAA044D11.genome.CDS.1856;Product=DNA polymerase III beta subunit %28EC 2.7.7.7%29;locus_tag=AAA044D11.genome.CDS.1856
+AAA044D11.contig.19	feature	CDS	41495	42604	.	-	0	ID=AAA044D11.genome.CDS.1855;Product=DNA recombination and repair protein RecF;locus_tag=AAA044D11.genome.CDS.1855
+AAA044D11.contig.19	feature	CDS	41033	41494	.	-	0	ID=AAA044D11.genome.CDS.1854;Product=Zn-ribbon-containing%2C possibly RNA-binding protein and truncated derivatives;locus_tag=AAA044D11.genome.CDS.1854
+AAA044D11.contig.19	feature	CDS	38868	40823	.	-	0	ID=AAA044D11.genome.CDS.1853;Product=DNA gyrase subunit B %28EC 5.99.1.3%29;locus_tag=AAA044D11.genome.CDS.1853
+AAA044D11.contig.19	feature	CDS	36383	38857	.	-	0	ID=AAA044D11.genome.CDS.1852;Product=DNA gyrase subunit A %28EC 5.99.1.3%29;locus_tag=AAA044D11.genome.CDS.1852
+AAA044D11.contig.19	feature	tRNA	36240	36317	.	-	.	ID=AAA044D11.genome.rna.20;Product=tRNA-Ile-GAT;locus_tag=AAA044D11.genome.rna.20
+AAA044D11.contig.19	feature	tRNA	36084	36159	.	-	.	ID=AAA044D11.genome.rna.21;Product=tRNA-Ala-TGC;locus_tag=AAA044D11.genome.rna.21
+AAA044D11.contig.19	feature	CDS	35514	36026	.	-	0	ID=AAA044D11.genome.CDS.1851;Product=Peptidyl-prolyl cis-trans isomerase %28EC 5.2.1.8%29;locus_tag=AAA044D11.genome.CDS.1851
+AAA044D11.contig.19	feature	CDS	34943	35509	.	-	0	ID=AAA044D11.genome.CDS.1850;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1850
+AAA044D11.contig.19	feature	CDS	33087	34973	.	+	0	ID=AAA044D11.genome.CDS.1849;Product=Fe-S oxidoreductase;locus_tag=AAA044D11.genome.CDS.1849
+AAA044D11.contig.19	feature	CDS	31006	32829	.	-	0	ID=AAA044D11.genome.CDS.1848;Product=Chaperone protein DnaK;locus_tag=AAA044D11.genome.CDS.1848
+AAA044D11.contig.19	feature	CDS	30506	31009	.	-	0	ID=AAA044D11.genome.CDS.1847;Product=Heat shock protein GrpE;locus_tag=AAA044D11.genome.CDS.1847
+AAA044D11.contig.19	feature	CDS	29569	30492	.	-	0	ID=AAA044D11.genome.CDS.1846;Product=Chaperone protein DnaJ;locus_tag=AAA044D11.genome.CDS.1846
+AAA044D11.contig.19	feature	CDS	29189	29566	.	-	0	ID=AAA044D11.genome.CDS.1845;Product=HspR%2C transcriptional repressor of DnaK operon;locus_tag=AAA044D11.genome.CDS.1845
+AAA044D11.contig.19	feature	CDS	28646	29179	.	-	0	ID=AAA044D11.genome.CDS.1844;Product=Orotate phosphoribosyltransferase %28EC 2.4.2.10%29;locus_tag=AAA044D11.genome.CDS.1844
+AAA044D11.contig.19	feature	CDS	28003	28644	.	+	0	ID=AAA044D11.genome.CDS.1843;Product=DedA protein;locus_tag=AAA044D11.genome.CDS.1843
+AAA044D11.contig.19	feature	CDS	25648	27903	.	-	0	ID=AAA044D11.genome.CDS.1842;Product=Pyrophosphate-energized proton pump %28EC 3.6.1.1%29;locus_tag=AAA044D11.genome.CDS.1842
+AAA044D11.contig.19	feature	CDS	22840	25599	.	-	0	ID=AAA044D11.genome.CDS.1841;Product=DNA topoisomerase I %28EC 5.99.1.2%29;locus_tag=AAA044D11.genome.CDS.1841
+AAA044D11.contig.19	feature	CDS	20784	22826	.	-	0	ID=AAA044D11.genome.CDS.1840;Product=Thymidylate kinase %28EC 2.7.4.9%29;locus_tag=AAA044D11.genome.CDS.1840
+AAA044D11.contig.19	feature	CDS	19633	20784	.	-	0	ID=AAA044D11.genome.CDS.1839;Product=DNA polymerase III delta prime subunit %28EC 2.7.7.7%29;locus_tag=AAA044D11.genome.CDS.1839
+AAA044D11.contig.19	feature	CDS	18158	19633	.	-	0	ID=AAA044D11.genome.CDS.1838;Product=probable exported protease %5BEC:3.4.-.-%5D;locus_tag=AAA044D11.genome.CDS.1838
+AAA044D11.contig.19	feature	CDS	17481	18128	.	-	0	ID=AAA044D11.genome.CDS.1837;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1837
+AAA044D11.contig.19	feature	CDS	16349	17470	.	-	0	ID=AAA044D11.genome.CDS.1836;Product=proposed amino acid ligase found clustered with an amidotransferase;locus_tag=AAA044D11.genome.CDS.1836
+AAA044D11.contig.19	feature	CDS	15651	16352	.	-	0	ID=AAA044D11.genome.CDS.1835;Product=Putative amidotransferase similar to cobyric acid synthase;locus_tag=AAA044D11.genome.CDS.1835
+AAA044D11.contig.19	feature	CDS	13697	15562	.	-	0	ID=AAA044D11.genome.CDS.1834;Product=ATP-dependent RNA helicase;locus_tag=AAA044D11.genome.CDS.1834
+AAA044D11.contig.19	feature	CDS	13423	13692	.	-	0	ID=AAA044D11.genome.CDS.1833;Product=;locus_tag=AAA044D11.genome.CDS.1833
+AAA044D11.contig.19	feature	CDS	12503	13426	.	+	0	ID=AAA044D11.genome.CDS.1832;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1832
+AAA044D11.contig.19	feature	CDS	11359	12486	.	+	0	ID=AAA044D11.genome.CDS.1831;Product=Cell envelope-associated transcriptional attenuator LytR-CpsA-Psr%2C subfamily A1 %28as in PMID19099556%29;locus_tag=AAA044D11.genome.CDS.1831
+AAA044D11.contig.19	feature	CDS	10543	11292	.	-	0	ID=AAA044D11.genome.CDS.1830;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1830
+AAA044D11.contig.19	feature	CDS	9312	10457	.	-	0	ID=AAA044D11.genome.CDS.1829;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1829
+AAA044D11.contig.19	feature	CDS	8117	9247	.	-	0	ID=AAA044D11.genome.CDS.1828;Product=HtrA protease/chaperone protein;locus_tag=AAA044D11.genome.CDS.1828
+AAA044D11.contig.19	feature	CDS	7765	8070	.	-	0	ID=AAA044D11.genome.CDS.1827;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1827
+AAA044D11.contig.19	feature	CDS	6728	7768	.	+	0	ID=AAA044D11.genome.CDS.1826;Product=FIG00792682: hypothetical protein;locus_tag=AAA044D11.genome.CDS.1826
+AAA044D11.contig.19	feature	CDS	5271	6728	.	+	0	ID=AAA044D11.genome.CDS.1825;Product=aldo-keto reductase domain / RidA/YER057c/UK114 superfamily%2C group 6;locus_tag=AAA044D11.genome.CDS.1825
+AAA044D11.contig.19	feature	CDS	4102	5265	.	+	0	ID=AAA044D11.genome.CDS.1824;Product=Cysteine desulfurase %28EC 2.8.1.7%29;locus_tag=AAA044D11.genome.CDS.1824
+AAA044D11.contig.19	feature	CDS	3228	4001	.	+	0	ID=AAA044D11.genome.CDS.1823;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1823
+AAA044D11.contig.19	feature	CDS	2778	3206	.	-	0	ID=AAA044D11.genome.CDS.1822;Product=;locus_tag=AAA044D11.genome.CDS.1822
+AAA044D11.contig.19	feature	CDS	1766	2662	.	-	0	ID=AAA044D11.genome.CDS.1821;Product=Methylisocitrate lyase %28EC 4.1.3.30%29;locus_tag=AAA044D11.genome.CDS.1821
+AAA044D11.contig.19	feature	CDS	618	1769	.	-	0	ID=AAA044D11.genome.CDS.1820;Product=2-methylcitrate synthase %28EC 2.3.3.5%29;locus_tag=AAA044D11.genome.CDS.1820
+AAA044D11.contig.19	feature	CDS	1	609	.	-	0	ID=AAA044D11.genome.CDS.1819;Product=2-methylcitrate dehydratase %28EC 4.2.1.79%29;locus_tag=AAA044D11.genome.CDS.1819
+AAA044D11.contig.2	feature	misc_RNA	1	312	.	+	.	ID=AAA044D11.genome.repeat.18;Product=repeat region;locus_tag=AAA044D11.genome.repeat.18
+AAA044D11.contig.2	feature	misc_RNA	5784	6122	.	+	.	ID=AAA044D11.genome.repeat.19;Product=repeat region;locus_tag=AAA044D11.genome.repeat.19
+AAA044D11.contig.2	feature	CDS	4923	6122	.	-	0	ID=AAA044D11.genome.CDS.1212;Product=2-methylcitrate dehydratase %28EC 4.2.1.79%29;locus_tag=AAA044D11.genome.CDS.1212
+AAA044D11.contig.2	feature	CDS	4044	4922	.	+	0	ID=AAA044D11.genome.CDS.1211;Product=;locus_tag=AAA044D11.genome.CDS.1211
+AAA044D11.contig.2	feature	CDS	3596	3988	.	-	0	ID=AAA044D11.genome.CDS.1210;Product=;locus_tag=AAA044D11.genome.CDS.1210
+AAA044D11.contig.2	feature	CDS	2078	3610	.	+	0	ID=AAA044D11.genome.CDS.1209;Product=Beta-carotene ketolase %28EC 1.14.-.-%29;locus_tag=AAA044D11.genome.CDS.1209
+AAA044D11.contig.2	feature	CDS	426	2021	.	-	0	ID=AAA044D11.genome.CDS.1208;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1208
+AAA044D11.contig.2	feature	CDS	2	367	.	+	0	ID=AAA044D11.genome.CDS.1207;Product=;locus_tag=AAA044D11.genome.CDS.1207
+AAA044D11.contig.20	feature	misc_RNA	1	1036	.	+	.	ID=AAA044D11.genome.repeat.3;Product=repeat region;locus_tag=AAA044D11.genome.repeat.3
+AAA044D11.contig.20	feature	misc_RNA	8717	8910	.	+	.	ID=AAA044D11.genome.repeat.4;Product=repeat region;locus_tag=AAA044D11.genome.repeat.4
+AAA044D11.contig.20	feature	CDS	8386	8880	.	+	0	ID=AAA044D11.genome.CDS.1959;Product=Translation initiation factor 3;locus_tag=AAA044D11.genome.CDS.1959
+AAA044D11.contig.20	feature	CDS	7331	8104	.	+	0	ID=AAA044D11.genome.CDS.1958;Product=Enoyl-%5Bacyl-carrier-protein%5D reductase %5BNADH%5D %28EC 1.3.1.9%29;locus_tag=AAA044D11.genome.CDS.1958
+AAA044D11.contig.20	feature	CDS	6618	7331	.	+	0	ID=AAA044D11.genome.CDS.1957;Product=3-oxoacyl-%5Bacyl-carrier protein%5D reductase %28EC 1.1.1.100%29;locus_tag=AAA044D11.genome.CDS.1957
+AAA044D11.contig.20	feature	CDS	6232	6528	.	-	0	ID=AAA044D11.genome.CDS.1956;Product=;locus_tag=AAA044D11.genome.CDS.1956
+AAA044D11.contig.20	feature	CDS	3712	5547	.	+	0	ID=AAA044D11.genome.CDS.1954;Product=ABC transporter%2C ATP-binding/permease protein;locus_tag=AAA044D11.genome.CDS.1954
+AAA044D11.contig.20	feature	CDS	3352	3672	.	+	0	ID=AAA044D11.genome.CDS.1953;Product=PaaD-like protein %28DUF59%29 involved in Fe-S cluster assembly;locus_tag=AAA044D11.genome.CDS.1953
+AAA044D11.contig.20	feature	CDS	2906	3343	.	+	0	ID=AAA044D11.genome.CDS.1952;Product=Putative iron-sulfur cluster assembly scaffold protein for SUF system%2C SufE2;locus_tag=AAA044D11.genome.CDS.1952
+AAA044D11.contig.20	feature	CDS	1651	2904	.	+	0	ID=AAA044D11.genome.CDS.1951;Product=Cysteine desulfurase %28EC 2.8.1.7%29%2C SufS subfamily;locus_tag=AAA044D11.genome.CDS.1951
+AAA044D11.contig.20	feature	CDS	895	1647	.	+	0	ID=AAA044D11.genome.CDS.1950;Product=Iron-sulfur cluster assembly ATPase protein SufC;locus_tag=AAA044D11.genome.CDS.1950
+AAA044D11.contig.20	feature	CDS	571	885	.	+	0	ID=AAA044D11.genome.CDS.1949;Product=Ferredoxin%2C 2Fe-2S;locus_tag=AAA044D11.genome.CDS.1949
+AAA044D11.contig.20	feature	CDS	2	571	.	+	0	ID=AAA044D11.genome.CDS.1948;Product=Iron-sulfur cluster assembly protein SufD;locus_tag=AAA044D11.genome.CDS.1948
+AAA044D11.contig.21	feature	misc_RNA	1	276	.	+	.	ID=AAA044D11.genome.repeat.6;Product=repeat region;locus_tag=AAA044D11.genome.repeat.6
+AAA044D11.contig.21	feature	CDS	5882	6544	.	-	0	ID=AAA044D11.genome.CDS.1967;Product=Phosphoserine aminotransferase %28EC 2.6.1.52%29;locus_tag=AAA044D11.genome.CDS.1967
+AAA044D11.contig.21	feature	CDS	5608	5793	.	-	0	ID=AAA044D11.genome.CDS.1966;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1966
+AAA044D11.contig.21	feature	CDS	5228	5611	.	+	0	ID=AAA044D11.genome.CDS.1965;Product=;locus_tag=AAA044D11.genome.CDS.1965
+AAA044D11.contig.21	feature	CDS	4416	5120	.	+	0	ID=AAA044D11.genome.CDS.1964;Product=FIG01121526: hypothetical protein;locus_tag=AAA044D11.genome.CDS.1964
+AAA044D11.contig.21	feature	CDS	2776	4395	.	+	0	ID=AAA044D11.genome.CDS.1963;Product=Heat shock protein 60 family chaperone GroEL;locus_tag=AAA044D11.genome.CDS.1963
+AAA044D11.contig.21	feature	CDS	2337	2603	.	+	0	ID=AAA044D11.genome.CDS.1962;Product=FIG00822394: hypothetical protein;locus_tag=AAA044D11.genome.CDS.1962
+AAA044D11.contig.21	feature	CDS	761	2287	.	+	0	ID=AAA044D11.genome.CDS.1961;Product=Putative nucleoside-diphosphate-sugar epimerase;locus_tag=AAA044D11.genome.CDS.1961
+AAA044D11.contig.21	feature	CDS	1	687	.	-	0	ID=AAA044D11.genome.CDS.1960;Product=NADH dehydrogenase %28EC 1.6.99.3%29;locus_tag=AAA044D11.genome.CDS.1960
+AAA044D11.contig.22	feature	misc_RNA	1	284	.	+	.	ID=AAA044D11.genome.repeat.8;Product=repeat region;locus_tag=AAA044D11.genome.repeat.8
+AAA044D11.contig.22	feature	CDS	247912	249789	.	-	0	ID=AAA044D11.genome.CDS.2220;Product=Protein export cytoplasm protein SecA ATPase RNA helicase %28TC 3.A.5.1.1%29;locus_tag=AAA044D11.genome.CDS.2220
+AAA044D11.contig.22	feature	CDS	247362	247892	.	+	0	ID=AAA044D11.genome.CDS.2219;Product=;locus_tag=AAA044D11.genome.CDS.2219
+AAA044D11.contig.22	feature	CDS	246496	247143	.	-	0	ID=AAA044D11.genome.CDS.2218;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.2218
+AAA044D11.contig.22	feature	CDS	245496	246506	.	-	0	ID=AAA044D11.genome.CDS.2217;Product=;locus_tag=AAA044D11.genome.CDS.2217
+AAA044D11.contig.22	feature	CDS	244024	245481	.	-	0	ID=AAA044D11.genome.CDS.2216;Product=Signal transduction histidine kinase%2C subgroup 2;locus_tag=AAA044D11.genome.CDS.2216
+AAA044D11.contig.22	feature	CDS	243739	244008	.	+	0	ID=AAA044D11.genome.CDS.2215;Product=WhiB-like transcription regulator;locus_tag=AAA044D11.genome.CDS.2215
+AAA044D11.contig.22	feature	tRNA	243531	243605	.	+	.	ID=AAA044D11.genome.rna.24;Product=tRNA-Arg-CCG;locus_tag=AAA044D11.genome.rna.24
+AAA044D11.contig.22	feature	CDS	242910	243425	.	-	0	ID=AAA044D11.genome.CDS.2214;Product=Peptide methionine sulfoxide reductase MsrA %28EC 1.8.4.11%29;locus_tag=AAA044D11.genome.CDS.2214
+AAA044D11.contig.22	feature	CDS	241992	242888	.	-	0	ID=AAA044D11.genome.CDS.2213;Product=Integral membrane protein TerC;locus_tag=AAA044D11.genome.CDS.2213
+AAA044D11.contig.22	feature	CDS	241752	241898	.	-	0	ID=AAA044D11.genome.CDS.2212;Product=;locus_tag=AAA044D11.genome.CDS.2212
+AAA044D11.contig.22	feature	CDS	241357	241731	.	-	0	ID=AAA044D11.genome.CDS.2211;Product=;locus_tag=AAA044D11.genome.CDS.2211
+AAA044D11.contig.22	feature	CDS	240331	241371	.	+	0	ID=AAA044D11.genome.CDS.2210;Product=Sulfate permease;locus_tag=AAA044D11.genome.CDS.2210
+AAA044D11.contig.22	feature	CDS	240167	240334	.	+	0	ID=AAA044D11.genome.CDS.2209;Product=Sulfate permease;locus_tag=AAA044D11.genome.CDS.2209
+AAA044D11.contig.22	feature	CDS	239662	239994	.	-	0	ID=AAA044D11.genome.CDS.2208;Product=;locus_tag=AAA044D11.genome.CDS.2208
+AAA044D11.contig.22	feature	CDS	238466	239632	.	-	0	ID=AAA044D11.genome.CDS.2207;Product=PROBABLE INTEGRAL MEMBRANE PROTEIN;locus_tag=AAA044D11.genome.CDS.2207
+AAA044D11.contig.22	feature	CDS	237835	238485	.	+	0	ID=AAA044D11.genome.CDS.2206;Product=;locus_tag=AAA044D11.genome.CDS.2206
+AAA044D11.contig.22	feature	CDS	236683	237732	.	-	0	ID=AAA044D11.genome.CDS.2205;Product=possible chromosome condensation protein;locus_tag=AAA044D11.genome.CDS.2205
+AAA044D11.contig.22	feature	CDS	235277	236665	.	+	0	ID=AAA044D11.genome.CDS.2204;Product=NAD%28P%29 transhydrogenase subunit beta %28EC 1.6.1.2%29;locus_tag=AAA044D11.genome.CDS.2204
+AAA044D11.contig.22	feature	CDS	234990	235277	.	+	0	ID=AAA044D11.genome.CDS.2203;Product=NAD%28P%29 transhydrogenase alpha subunit %28EC 1.6.1.2%29;locus_tag=AAA044D11.genome.CDS.2203
+AAA044D11.contig.22	feature	CDS	233863	234993	.	+	0	ID=AAA044D11.genome.CDS.2202;Product=NAD%28P%29 transhydrogenase alpha subunit %28EC 1.6.1.2%29;locus_tag=AAA044D11.genome.CDS.2202
+AAA044D11.contig.22	feature	CDS	232868	233806	.	+	0	ID=AAA044D11.genome.CDS.2201;Product=Ornithine carbamoyltransferase %28EC 2.1.3.3%29;locus_tag=AAA044D11.genome.CDS.2201
+AAA044D11.contig.22	feature	CDS	232538	232819	.	-	0	ID=AAA044D11.genome.CDS.2200;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.2200
+AAA044D11.contig.22	feature	CDS	230781	232541	.	-	0	ID=AAA044D11.genome.CDS.2199;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.2199
+AAA044D11.contig.22	feature	CDS	230475	230762	.	-	0	ID=AAA044D11.genome.CDS.2198;Product=ATP-dependent Clp protease adaptor protein ClpS;locus_tag=AAA044D11.genome.CDS.2198
+AAA044D11.contig.22	feature	CDS	229924	230475	.	-	0	ID=AAA044D11.genome.CDS.2197;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.2197
+AAA044D11.contig.22	feature	CDS	229508	229927	.	-	0	ID=AAA044D11.genome.CDS.2196;Product=Mec%2B;locus_tag=AAA044D11.genome.CDS.2196
+AAA044D11.contig.22	feature	CDS	229177	229464	.	-	0	ID=AAA044D11.genome.CDS.2195;Product=FIG038648: MoaD and/or ThiS families;locus_tag=AAA044D11.genome.CDS.2195
+AAA044D11.contig.22	feature	CDS	228221	229180	.	-	0	ID=AAA044D11.genome.CDS.2194;Product=Cysteine synthase B %28EC 2.5.1.47%29;locus_tag=AAA044D11.genome.CDS.2194
+AAA044D11.contig.22	feature	CDS	227387	228193	.	-	0	ID=AAA044D11.genome.CDS.2193;Product=Glutamate racemase %28EC 5.1.1.3%29;locus_tag=AAA044D11.genome.CDS.2193
+AAA044D11.contig.22	feature	CDS	226628	227386	.	-	0	ID=AAA044D11.genome.CDS.2192;Product=Ribonuclease PH %28EC 2.7.7.56%29;locus_tag=AAA044D11.genome.CDS.2192
+AAA044D11.contig.22	feature	CDS	226010	226624	.	-	0	ID=AAA044D11.genome.CDS.2191;Product=Nucleoside 5-triphosphatase RdgB %28dHAPTP%2C dITP%2C XTP-specific%29 %28EC 3.6.1.15%29;locus_tag=AAA044D11.genome.CDS.2191
+AAA044D11.contig.22	feature	CDS	225108	225923	.	-	0	ID=AAA044D11.genome.CDS.2190;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.2190
+AAA044D11.contig.22	feature	CDS	223353	225104	.	+	0	ID=AAA044D11.genome.CDS.2189;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.2189
+AAA044D11.contig.22	feature	CDS	222523	223347	.	+	0	ID=AAA044D11.genome.CDS.2188;Product=;locus_tag=AAA044D11.genome.CDS.2188
+AAA044D11.contig.22	feature	CDS	221933	222409	.	-	0	ID=AAA044D11.genome.CDS.2187;Product=;locus_tag=AAA044D11.genome.CDS.2187
+AAA044D11.contig.22	feature	CDS	220714	221943	.	-	0	ID=AAA044D11.genome.CDS.2186;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.2186
+AAA044D11.contig.22	feature	tRNA	220608	220691	.	+	.	ID=AAA044D11.genome.rna.23;Product=tRNA-Leu-TAG;locus_tag=AAA044D11.genome.rna.23
+AAA044D11.contig.22	feature	CDS	219348	220499	.	-	0	ID=AAA044D11.genome.CDS.2185;Product=Xylose isomerase %28EC 5.3.1.5%29;locus_tag=AAA044D11.genome.CDS.2185
+AAA044D11.contig.22	feature	CDS	217643	219319	.	-	0	ID=AAA044D11.genome.CDS.2184;Product=Arginyl-tRNA synthetase %28EC 6.1.1.19%29;locus_tag=AAA044D11.genome.CDS.2184
+AAA044D11.contig.22	feature	CDS	216287	217600	.	-	0	ID=AAA044D11.genome.CDS.2183;Product=Diaminopimelate decarboxylase %28EC 4.1.1.20%29;locus_tag=AAA044D11.genome.CDS.2183
+AAA044D11.contig.22	feature	CDS	214960	216249	.	-	0	ID=AAA044D11.genome.CDS.2182;Product=Homoserine dehydrogenase %28EC 1.1.1.3%29;locus_tag=AAA044D11.genome.CDS.2182
+AAA044D11.contig.22	feature	CDS	213884	214963	.	-	0	ID=AAA044D11.genome.CDS.2181;Product=Threonine synthase %28EC 4.2.3.1%29;locus_tag=AAA044D11.genome.CDS.2181
+AAA044D11.contig.22	feature	CDS	212964	213884	.	-	0	ID=AAA044D11.genome.CDS.2180;Product=Homoserine kinase %28EC 2.7.1.39%29;locus_tag=AAA044D11.genome.CDS.2180
+AAA044D11.contig.22	feature	CDS	211187	212824	.	-	0	ID=AAA044D11.genome.CDS.2179;Product=Transcription termination factor Rho;locus_tag=AAA044D11.genome.CDS.2179
+AAA044D11.contig.22	feature	CDS	210858	211073	.	-	0	ID=AAA044D11.genome.CDS.2178;Product=LSU ribosomal protein L31p %40 LSU ribosomal protein L31p%2C zinc-dependent;locus_tag=AAA044D11.genome.CDS.2178
+AAA044D11.contig.22	feature	CDS	209674	210771	.	-	0	ID=AAA044D11.genome.CDS.2177;Product=Peptide chain release factor 1;locus_tag=AAA044D11.genome.CDS.2177
+AAA044D11.contig.22	feature	CDS	208836	209684	.	-	0	ID=AAA044D11.genome.CDS.2176;Product=Protein-N%285%29-glutamine methyltransferase PrmC%2C methylates polypeptide chain release factors RF1 and RF2;locus_tag=AAA044D11.genome.CDS.2176
+AAA044D11.contig.22	feature	CDS	207310	208815	.	-	0	ID=AAA044D11.genome.CDS.2175;Product=Ketoglutarate semialdehyde dehydrogenase %28EC 1.2.1.26%29;locus_tag=AAA044D11.genome.CDS.2175
+AAA044D11.contig.22	feature	CDS	206721	207317	.	-	0	ID=AAA044D11.genome.CDS.2174;Product=Arabinose 5-phosphate isomerase %28EC 5.3.1.13%29;locus_tag=AAA044D11.genome.CDS.2174
+AAA044D11.contig.22	feature	CDS	205807	206688	.	-	0	ID=AAA044D11.genome.CDS.2173;Product=Ribokinase %28EC 2.7.1.15%29;locus_tag=AAA044D11.genome.CDS.2173
+AAA044D11.contig.22	feature	CDS	205383	205778	.	-	0	ID=AAA044D11.genome.CDS.2172;Product=;locus_tag=AAA044D11.genome.CDS.2172
+AAA044D11.contig.22	feature	CDS	204538	205386	.	+	0	ID=AAA044D11.genome.CDS.2171;Product=2-hydroxyhepta-2%2C4-diene-1%2C7-dioate isomerase %28EC 5.3.3.-%29 / 5-carboxymethyl-2-oxo-hex-3- ene-1%2C7-dioate decarboxylase %28EC 4.1.1.68%29;locus_tag=AAA044D11.genome.CDS.2171
+AAA044D11.contig.22	feature	CDS	202655	204382	.	-	0	ID=AAA044D11.genome.CDS.2170;Product=L-arabonate dehydratase %28EC 4.2.1.25%29;locus_tag=AAA044D11.genome.CDS.2170
+AAA044D11.contig.22	feature	CDS	201380	202648	.	+	0	ID=AAA044D11.genome.CDS.2169;Product=Enolase %28EC 4.2.1.11%29;locus_tag=AAA044D11.genome.CDS.2169
+AAA044D11.contig.22	feature	CDS	200409	201383	.	+	0	ID=AAA044D11.genome.CDS.2168;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.2168
+AAA044D11.contig.22	feature	CDS	199729	200403	.	+	0	ID=AAA044D11.genome.CDS.2167;Product=;locus_tag=AAA044D11.genome.CDS.2167
+AAA044D11.contig.22	feature	CDS	198793	199725	.	+	0	ID=AAA044D11.genome.CDS.2166;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.2166
+AAA044D11.contig.22	feature	CDS	197855	198745	.	+	0	ID=AAA044D11.genome.CDS.2165;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.2165
+AAA044D11.contig.22	feature	CDS	196986	197753	.	-	0	ID=AAA044D11.genome.CDS.2164;Product=3-oxoacyl-%5Bacyl-carrier protein%5D reductase %28EC 1.1.1.100%29;locus_tag=AAA044D11.genome.CDS.2164
+AAA044D11.contig.22	feature	CDS	196051	196986	.	-	0	ID=AAA044D11.genome.CDS.2163;Product=2-dehydro-3-deoxygluconate kinase %28EC 2.7.1.45%29;locus_tag=AAA044D11.genome.CDS.2163
+AAA044D11.contig.22	feature	CDS	195438	196058	.	-	0	ID=AAA044D11.genome.CDS.2162;Product=;locus_tag=AAA044D11.genome.CDS.2162
+AAA044D11.contig.22	feature	CDS	194673	195431	.	-	0	ID=AAA044D11.genome.CDS.2161;Product=3-oxoacyl-%5Bacyl-carrier protein%5D reductase %28EC 1.1.1.100%29;locus_tag=AAA044D11.genome.CDS.2161
+AAA044D11.contig.22	feature	CDS	193678	194676	.	+	0	ID=AAA044D11.genome.CDS.991;Product=Threonine dehydrogenase and related Zn-dependent dehydrogenases;locus_tag=AAA044D11.genome.CDS.991
+AAA044D11.contig.22	feature	CDS	191920	193644	.	-	0	ID=AAA044D11.genome.CDS.2159;Product=Dihydroxy-acid dehydratase %28EC 4.2.1.9%29;locus_tag=AAA044D11.genome.CDS.2159
+AAA044D11.contig.22	feature	CDS	190558	191844	.	-	0	ID=AAA044D11.genome.CDS.2158;Product=;locus_tag=AAA044D11.genome.CDS.2158
+AAA044D11.contig.22	feature	CDS	189565	190446	.	-	0	ID=AAA044D11.genome.CDS.2157;Product=Multiple sugar ABC transporter%2C membrane-spanning permease protein MsmF;locus_tag=AAA044D11.genome.CDS.2157
+AAA044D11.contig.22	feature	CDS	188749	189564	.	-	0	ID=AAA044D11.genome.CDS.2156;Product=ABC transporter%2C permease protein;locus_tag=AAA044D11.genome.CDS.2156
+AAA044D11.contig.22	feature	CDS	187844	188719	.	-	0	ID=AAA044D11.genome.CDS.2155;Product=UDP-glucose 4-epimerase %28EC 5.1.3.2%29;locus_tag=AAA044D11.genome.CDS.2155
+AAA044D11.contig.22	feature	CDS	186427	187719	.	-	0	ID=AAA044D11.genome.CDS.2154;Product=;locus_tag=AAA044D11.genome.CDS.2154
+AAA044D11.contig.22	feature	CDS	185313	186248	.	-	0	ID=AAA044D11.genome.CDS.2153;Product=Predicted beta-glucoside-regulated ABC transport system%2C permease component 1%2C COG1175;locus_tag=AAA044D11.genome.CDS.2153
+AAA044D11.contig.22	feature	CDS	184420	185316	.	-	0	ID=AAA044D11.genome.CDS.2152;Product=Predicted beta-glucoside-regulated ABC transport system%2C permease component 2%2C COG0395;locus_tag=AAA044D11.genome.CDS.2152
+AAA044D11.contig.22	feature	CDS	183755	184405	.	+	0	ID=AAA044D11.genome.CDS.2151;Product=;locus_tag=AAA044D11.genome.CDS.2151
+AAA044D11.contig.22	feature	CDS	182858	183754	.	+	0	ID=AAA044D11.genome.CDS.2150;Product=C-compound%2C carbohydrate catabolism;locus_tag=AAA044D11.genome.CDS.2150
+AAA044D11.contig.22	feature	CDS	182088	182861	.	+	0	ID=AAA044D11.genome.CDS.2149;Product=3-oxoacyl-%5Bacyl-carrier protein%5D reductase %28EC 1.1.1.100%29;locus_tag=AAA044D11.genome.CDS.2149
+AAA044D11.contig.22	feature	CDS	181052	182086	.	+	0	ID=AAA044D11.genome.CDS.2148;Product=Galactitol-1-phosphate 5-dehydrogenase %28EC 1.1.1.251%29;locus_tag=AAA044D11.genome.CDS.2148
+AAA044D11.contig.22	feature	CDS	180341	181051	.	+	0	ID=AAA044D11.genome.CDS.2147;Product=D-arabino-3-hexulose 6-phosphate formaldehyde-lyase %28EC 4.1.2.43%29;locus_tag=AAA044D11.genome.CDS.2147
+AAA044D11.contig.22	feature	CDS	179254	180267	.	-	0	ID=AAA044D11.genome.CDS.2146;Product=Threonine dehydrogenase and related Zn-dependent dehydrogenases;locus_tag=AAA044D11.genome.CDS.2146
+AAA044D11.contig.22	feature	CDS	178544	179224	.	-	0	ID=AAA044D11.genome.CDS.2145;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.2145
+AAA044D11.contig.22	feature	CDS	178290	178406	.	+	0	ID=AAA044D11.genome.CDS.975;Product=;locus_tag=AAA044D11.genome.CDS.975
+AAA044D11.contig.22	feature	CDS	177317	178123	.	-	0	ID=AAA044D11.genome.CDS.2143;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.2143
+AAA044D11.contig.22	feature	CDS	176803	177315	.	+	0	ID=AAA044D11.genome.CDS.973;Product=;locus_tag=AAA044D11.genome.CDS.973
+AAA044D11.contig.22	feature	CDS	175872	176798	.	+	0	ID=AAA044D11.genome.CDS.2141;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.2141
+AAA044D11.contig.22	feature	CDS	174123	175712	.	-	0	ID=AAA044D11.genome.CDS.2140;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.2140
+AAA044D11.contig.22	feature	CDS	173399	174016	.	+	0	ID=AAA044D11.genome.CDS.2139;Product=;locus_tag=AAA044D11.genome.CDS.2139
+AAA044D11.contig.22	feature	CDS	172354	173268	.	-	0	ID=AAA044D11.genome.CDS.2138;Product=;locus_tag=AAA044D11.genome.CDS.2138
+AAA044D11.contig.22	feature	CDS	171623	172225	.	+	0	ID=AAA044D11.genome.CDS.2137;Product=;locus_tag=AAA044D11.genome.CDS.2137
+AAA044D11.contig.22	feature	CDS	170986	171621	.	+	0	ID=AAA044D11.genome.CDS.2136;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.2136
+AAA044D11.contig.22	feature	CDS	169946	170977	.	+	0	ID=AAA044D11.genome.CDS.2135;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.2135
+AAA044D11.contig.22	feature	CDS	169317	169721	.	-	0	ID=AAA044D11.genome.CDS.2134;Product=;locus_tag=AAA044D11.genome.CDS.2134
+AAA044D11.contig.22	feature	CDS	169105	169317	.	-	0	ID=AAA044D11.genome.CDS.2133;Product=;locus_tag=AAA044D11.genome.CDS.2133
+AAA044D11.contig.22	feature	CDS	168645	169118	.	-	0	ID=AAA044D11.genome.CDS.2132;Product=;locus_tag=AAA044D11.genome.CDS.2132
+AAA044D11.contig.22	feature	CDS	168427	168645	.	-	0	ID=AAA044D11.genome.CDS.2131;Product=;locus_tag=AAA044D11.genome.CDS.2131
+AAA044D11.contig.22	feature	CDS	167381	168430	.	-	0	ID=AAA044D11.genome.CDS.2130;Product=;locus_tag=AAA044D11.genome.CDS.2130
+AAA044D11.contig.22	feature	CDS	166798	167379	.	-	0	ID=AAA044D11.genome.CDS.2129;Product=;locus_tag=AAA044D11.genome.CDS.2129
+AAA044D11.contig.22	feature	CDS	165546	166754	.	-	0	ID=AAA044D11.genome.CDS.2128;Product=DNA modification methylase %28EC 2.1.1.72%29;locus_tag=AAA044D11.genome.CDS.2128
+AAA044D11.contig.22	feature	CDS	165076	165549	.	+	0	ID=AAA044D11.genome.CDS.2127;Product=;locus_tag=AAA044D11.genome.CDS.2127
+AAA044D11.contig.22	feature	CDS	164362	164985	.	-	0	ID=AAA044D11.genome.CDS.2126;Product=;locus_tag=AAA044D11.genome.CDS.2126
+AAA044D11.contig.22	feature	CDS	164035	164193	.	-	0	ID=AAA044D11.genome.CDS.956;Product=;locus_tag=AAA044D11.genome.CDS.956
+AAA044D11.contig.22	feature	CDS	162746	163963	.	-	0	ID=AAA044D11.genome.CDS.2125;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.2125
+AAA044D11.contig.22	feature	CDS	161480	162643	.	-	0	ID=AAA044D11.genome.CDS.2124;Product=Aspartyl-tRNA%28Asn%29 amidotransferase subunit B %28EC 6.3.5.6%29 %40 Glutamyl-tRNA%28Gln%29 amidotransferase subunit B %28EC 6.3.5.7%29;locus_tag=AAA044D11.genome.CDS.2124
+AAA044D11.contig.22	feature	CDS	161248	161454	.	+	0	ID=AAA044D11.genome.CDS.2123;Product=;locus_tag=AAA044D11.genome.CDS.2123
+AAA044D11.contig.22	feature	CDS	160049	161128	.	-	0	ID=AAA044D11.genome.CDS.2122;Product=;locus_tag=AAA044D11.genome.CDS.2122
+AAA044D11.contig.22	feature	CDS	159215	160009	.	-	0	ID=AAA044D11.genome.CDS.2121;Product=putative epoxide hydrolase;locus_tag=AAA044D11.genome.CDS.2121
+AAA044D11.contig.22	feature	CDS	158967	159212	.	-	0	ID=AAA044D11.genome.CDS.2120;Product=putative glutaredoxin-like protein;locus_tag=AAA044D11.genome.CDS.2120
+AAA044D11.contig.22	feature	CDS	158519	158893	.	-	0	ID=AAA044D11.genome.CDS.2119;Product=;locus_tag=AAA044D11.genome.CDS.2119
+AAA044D11.contig.22	feature	CDS	158395	158541	.	-	0	ID=AAA044D11.genome.CDS.948;Product=;locus_tag=AAA044D11.genome.CDS.948
+AAA044D11.contig.22	feature	CDS	158197	158346	.	-	0	ID=AAA044D11.genome.CDS.2118;Product=;locus_tag=AAA044D11.genome.CDS.2118
+AAA044D11.contig.22	feature	CDS	156721	158193	.	+	0	ID=AAA044D11.genome.CDS.2117;Product=;locus_tag=AAA044D11.genome.CDS.2117
+AAA044D11.contig.22	feature	CDS	156581	156724	.	+	0	ID=AAA044D11.genome.CDS.945;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.945
+AAA044D11.contig.22	feature	CDS	155437	156477	.	-	0	ID=AAA044D11.genome.CDS.2116;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.2116
+AAA044D11.contig.22	feature	CDS	154228	155391	.	-	0	ID=AAA044D11.genome.CDS.2115;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.2115
+AAA044D11.contig.22	feature	CDS	153673	154203	.	-	0	ID=AAA044D11.genome.CDS.2114;Product=;locus_tag=AAA044D11.genome.CDS.2114
+AAA044D11.contig.22	feature	CDS	152566	153627	.	-	0	ID=AAA044D11.genome.CDS.2113;Product=;locus_tag=AAA044D11.genome.CDS.2113
+AAA044D11.contig.22	feature	tRNA	152228	152301	.	-	.	ID=AAA044D11.genome.rna.25;Product=tRNA-Val-GAC;locus_tag=AAA044D11.genome.rna.25
+AAA044D11.contig.22	feature	CDS	151089	152087	.	-	0	ID=AAA044D11.genome.CDS.2112;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.2112
+AAA044D11.contig.22	feature	CDS	150153	150935	.	-	0	ID=AAA044D11.genome.CDS.2111;Product=amino acid ABC transporter%2C ATP-binding protein;locus_tag=AAA044D11.genome.CDS.2111
+AAA044D11.contig.22	feature	CDS	149470	150147	.	-	0	ID=AAA044D11.genome.CDS.2110;Product=;locus_tag=AAA044D11.genome.CDS.2110
+AAA044D11.contig.22	feature	CDS	148758	149477	.	-	0	ID=AAA044D11.genome.CDS.2109;Product=;locus_tag=AAA044D11.genome.CDS.2109
+AAA044D11.contig.22	feature	CDS	147801	148724	.	-	0	ID=AAA044D11.genome.CDS.2108;Product=;locus_tag=AAA044D11.genome.CDS.2108
+AAA044D11.contig.22	feature	CDS	146972	147733	.	+	0	ID=AAA044D11.genome.CDS.2107;Product=membrane protein%2C putative;locus_tag=AAA044D11.genome.CDS.2107
+AAA044D11.contig.22	feature	CDS	146471	146878	.	-	0	ID=AAA044D11.genome.CDS.2106;Product=;locus_tag=AAA044D11.genome.CDS.2106
+AAA044D11.contig.22	feature	CDS	145732	146463	.	+	0	ID=AAA044D11.genome.CDS.2105;Product=;locus_tag=AAA044D11.genome.CDS.2105
+AAA044D11.contig.22	feature	CDS	140850	145613	.	-	0	ID=AAA044D11.genome.CDS.2104;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.2104
+AAA044D11.contig.22	feature	CDS	139459	140853	.	-	0	ID=AAA044D11.genome.CDS.2103;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.2103
+AAA044D11.contig.22	feature	CDS	138796	139311	.	-	0	ID=AAA044D11.genome.CDS.2102;Product=putative secreted protein;locus_tag=AAA044D11.genome.CDS.2102
+AAA044D11.contig.22	feature	CDS	138437	138799	.	+	0	ID=AAA044D11.genome.CDS.2101;Product=;locus_tag=AAA044D11.genome.CDS.2101
+AAA044D11.contig.22	feature	CDS	137692	138405	.	+	0	ID=AAA044D11.genome.CDS.2100;Product=SOS-response repressor and protease LexA %28EC 3.4.21.88%29;locus_tag=AAA044D11.genome.CDS.2100
+AAA044D11.contig.22	feature	CDS	137225	137536	.	-	0	ID=AAA044D11.genome.CDS.2099;Product=;locus_tag=AAA044D11.genome.CDS.2099
+AAA044D11.contig.22	feature	CDS	136562	137050	.	-	0	ID=AAA044D11.genome.CDS.2098;Product=Ribonucleotide reductase transcriptional regulator NrdR;locus_tag=AAA044D11.genome.CDS.2098
+AAA044D11.contig.22	feature	CDS	133704	136535	.	-	0	ID=AAA044D11.genome.CDS.2097;Product=Ribonucleotide reductase of class II %28coenzyme B12-dependent%29 %28EC 1.17.4.1%29;locus_tag=AAA044D11.genome.CDS.2097
+AAA044D11.contig.22	feature	CDS	130869	133571	.	-	0	ID=AAA044D11.genome.CDS.2096;Product=Pyruvate%2Cphosphate dikinase %28EC 2.7.9.1%29;locus_tag=AAA044D11.genome.CDS.2096
+AAA044D11.contig.22	feature	CDS	129919	130872	.	-	0	ID=AAA044D11.genome.CDS.2095;Product=Fructose-1%2C6-bisphosphatase%2C GlpX type %28EC 3.1.3.11%29;locus_tag=AAA044D11.genome.CDS.2095
+AAA044D11.contig.22	feature	CDS	127870	129879	.	-	0	ID=AAA044D11.genome.CDS.2094;Product=DinG family ATP-dependent helicase YoaA;locus_tag=AAA044D11.genome.CDS.2094
+AAA044D11.contig.22	feature	CDS	127423	127902	.	+	0	ID=AAA044D11.genome.CDS.2093;Product=Possible mutator protein MutT3 %287%2C8-dihydro-8-oxoguanine-triphosphatase%29;locus_tag=AAA044D11.genome.CDS.2093
+AAA044D11.contig.22	feature	CDS	126665	127354	.	-	0	ID=AAA044D11.genome.CDS.2092;Product=;locus_tag=AAA044D11.genome.CDS.2092
+AAA044D11.contig.22	feature	CDS	126126	126425	.	-	0	ID=AAA044D11.genome.CDS.2091;Product=;locus_tag=AAA044D11.genome.CDS.2091
+AAA044D11.contig.22	feature	CDS	125034	126116	.	-	0	ID=AAA044D11.genome.CDS.2090;Product=Alanine dehydrogenase %28EC 1.4.1.1%29;locus_tag=AAA044D11.genome.CDS.2090
+AAA044D11.contig.22	feature	CDS	123685	124998	.	-	0	ID=AAA044D11.genome.CDS.2089;Product=Glutamine synthetase type I %28EC 6.3.1.2%29;locus_tag=AAA044D11.genome.CDS.2089
+AAA044D11.contig.22	feature	CDS	121938	123632	.	-	0	ID=AAA044D11.genome.CDS.2088;Product=2-isopropylmalate synthase %28EC 2.3.3.13%29;locus_tag=AAA044D11.genome.CDS.2088
+AAA044D11.contig.22	feature	CDS	121186	121917	.	-	0	ID=AAA044D11.genome.CDS.2087;Product=DNA recombination and repair protein RecO;locus_tag=AAA044D11.genome.CDS.2087
+AAA044D11.contig.22	feature	CDS	120461	121183	.	-	0	ID=AAA044D11.genome.CDS.2086;Product=Trans%2Cpolycis-decaprenyl diphosphate synthase %28EC 2.5.1.86%29;locus_tag=AAA044D11.genome.CDS.2086
+AAA044D11.contig.22	feature	CDS	119730	120464	.	+	0	ID=AAA044D11.genome.CDS.2085;Product=;locus_tag=AAA044D11.genome.CDS.2085
+AAA044D11.contig.22	feature	CDS	118264	119643	.	-	0	ID=AAA044D11.genome.CDS.2084;Product=Glycyl-tRNA synthetase %28EC 6.1.1.14%29;locus_tag=AAA044D11.genome.CDS.2084
+AAA044D11.contig.22	feature	CDS	117101	118270	.	-	0	ID=AAA044D11.genome.CDS.910;Product=tRNA dihydrouridine synthase B %28EC 1.-.-.-%29;locus_tag=AAA044D11.genome.CDS.910
+AAA044D11.contig.22	feature	CDS	116469	117098	.	-	0	ID=AAA044D11.genome.CDS.2082;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.2082
+AAA044D11.contig.22	feature	CDS	115209	116444	.	-	0	ID=AAA044D11.genome.CDS.2081;Product=Deoxyguanosinetriphosphate triphosphohydrolase %28EC 3.1.5.1%29;locus_tag=AAA044D11.genome.CDS.2081
+AAA044D11.contig.22	feature	CDS	113369	115204	.	-	0	ID=AAA044D11.genome.CDS.2080;Product=DNA primase %28EC 2.7.7.-%29;locus_tag=AAA044D11.genome.CDS.2080
+AAA044D11.contig.22	feature	tRNA	113243	113315	.	-	.	ID=AAA044D11.genome.rna.26;Product=tRNA-Asn-GTT;locus_tag=AAA044D11.genome.rna.26
+AAA044D11.contig.22	feature	CDS	112334	113212	.	-	0	ID=AAA044D11.genome.CDS.2079;Product=;locus_tag=AAA044D11.genome.CDS.2079
+AAA044D11.contig.22	feature	CDS	111207	112337	.	+	0	ID=AAA044D11.genome.CDS.2078;Product=Galactokinase %28EC 2.7.1.6%29;locus_tag=AAA044D11.genome.CDS.2078
+AAA044D11.contig.22	feature	CDS	110261	111226	.	+	0	ID=AAA044D11.genome.CDS.2077;Product=UDP-glucose 4-epimerase %28EC 5.1.3.2%29;locus_tag=AAA044D11.genome.CDS.2077
+AAA044D11.contig.22	feature	CDS	109143	110261	.	+	0	ID=AAA044D11.genome.CDS.2076;Product=Galactose-1-phosphate uridylyltransferase %28EC 2.7.7.10%29;locus_tag=AAA044D11.genome.CDS.2076
+AAA044D11.contig.22	feature	CDS	107825	109114	.	+	0	ID=AAA044D11.genome.CDS.2075;Product=;locus_tag=AAA044D11.genome.CDS.2075
+AAA044D11.contig.22	feature	CDS	107556	107828	.	+	0	ID=AAA044D11.genome.CDS.2074;Product=;locus_tag=AAA044D11.genome.CDS.2074
+AAA044D11.contig.22	feature	CDS	106510	107559	.	+	0	ID=AAA044D11.genome.CDS.2073;Product=Glycolate dehydrogenase %28EC 1.1.99.14%29%2C iron-sulfur subunit GlcF;locus_tag=AAA044D11.genome.CDS.2073
+AAA044D11.contig.22	feature	CDS	105131	106513	.	+	0	ID=AAA044D11.genome.CDS.2072;Product=Glycolate dehydrogenase %28EC 1.1.99.14%29%2C subunit GlcD;locus_tag=AAA044D11.genome.CDS.2072
+AAA044D11.contig.22	feature	CDS	104624	105118	.	+	0	ID=AAA044D11.genome.CDS.2071;Product=;locus_tag=AAA044D11.genome.CDS.2071
+AAA044D11.contig.22	feature	CDS	101925	104597	.	+	0	ID=AAA044D11.genome.CDS.2070;Product=Alpha-mannosidase %28EC 3.2.1.24%29;locus_tag=AAA044D11.genome.CDS.2070
+AAA044D11.contig.22	feature	CDS	101081	101803	.	+	0	ID=AAA044D11.genome.CDS.2069;Product=3-oxoacyl-%5Bacyl-carrier protein%5D reductase %28EC 1.1.1.100%29;locus_tag=AAA044D11.genome.CDS.2069
+AAA044D11.contig.22	feature	CDS	100635	101075	.	+	0	ID=AAA044D11.genome.CDS.2068;Product=;locus_tag=AAA044D11.genome.CDS.2068
+AAA044D11.contig.22	feature	CDS	99431	100477	.	-	0	ID=AAA044D11.genome.CDS.2067;Product=;locus_tag=AAA044D11.genome.CDS.2067
+AAA044D11.contig.22	feature	CDS	98399	99421	.	-	0	ID=AAA044D11.genome.CDS.2066;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.2066
+AAA044D11.contig.22	feature	CDS	95166	98282	.	-	0	ID=AAA044D11.genome.CDS.2065;Product=Alpha-mannosidase %28EC 3.2.1.24%29;locus_tag=AAA044D11.genome.CDS.2065
+AAA044D11.contig.22	feature	CDS	93628	94914	.	-	0	ID=AAA044D11.genome.CDS.2064;Product=;locus_tag=AAA044D11.genome.CDS.2064
+AAA044D11.contig.22	feature	CDS	92666	93631	.	-	0	ID=AAA044D11.genome.CDS.2063;Product=;locus_tag=AAA044D11.genome.CDS.2063
+AAA044D11.contig.22	feature	CDS	91854	92669	.	-	0	ID=AAA044D11.genome.CDS.2062;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.2062
+AAA044D11.contig.22	feature	CDS	90995	91852	.	-	0	ID=AAA044D11.genome.CDS.2061;Product=;locus_tag=AAA044D11.genome.CDS.2061
+AAA044D11.contig.22	feature	CDS	89977	91002	.	-	0	ID=AAA044D11.genome.CDS.2060;Product=;locus_tag=AAA044D11.genome.CDS.2060
+AAA044D11.contig.22	feature	CDS	89228	89980	.	-	0	ID=AAA044D11.genome.CDS.2059;Product=;locus_tag=AAA044D11.genome.CDS.2059
+AAA044D11.contig.22	feature	CDS	88014	89231	.	-	0	ID=AAA044D11.genome.CDS.2058;Product=Glucarate dehydratase %28EC 4.2.1.40%29;locus_tag=AAA044D11.genome.CDS.2058
+AAA044D11.contig.22	feature	CDS	87189	87989	.	-	0	ID=AAA044D11.genome.CDS.2057;Product=;locus_tag=AAA044D11.genome.CDS.2057
+AAA044D11.contig.22	feature	CDS	86046	87185	.	-	0	ID=AAA044D11.genome.CDS.2056;Product=N-acylglucosamine 2-epimerase %28EC 5.1.3.8%29;locus_tag=AAA044D11.genome.CDS.2056
+AAA044D11.contig.22	feature	CDS	84846	86003	.	-	0	ID=AAA044D11.genome.CDS.2055;Product=;locus_tag=AAA044D11.genome.CDS.2055
+AAA044D11.contig.22	feature	CDS	84241	84843	.	+	0	ID=AAA044D11.genome.CDS.2054;Product=;locus_tag=AAA044D11.genome.CDS.2054
+AAA044D11.contig.22	feature	CDS	83116	84195	.	-	0	ID=AAA044D11.genome.CDS.2053;Product=oxidoreductase;locus_tag=AAA044D11.genome.CDS.2053
+AAA044D11.contig.22	feature	CDS	81352	83013	.	-	0	ID=AAA044D11.genome.CDS.2052;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.2052
+AAA044D11.contig.22	feature	CDS	80928	81320	.	-	0	ID=AAA044D11.genome.CDS.2051;Product=;locus_tag=AAA044D11.genome.CDS.2051
+AAA044D11.contig.22	feature	CDS	79795	80928	.	-	0	ID=AAA044D11.genome.CDS.2050;Product=Aminopeptidase YpdF %28MP-%2C MA-%2C MS-%2C AP-%2C NP- specific%29;locus_tag=AAA044D11.genome.CDS.2050
+AAA044D11.contig.22	feature	CDS	77988	79574	.	-	0	ID=AAA044D11.genome.CDS.2049;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.2049
+AAA044D11.contig.22	feature	CDS	76878	77951	.	-	0	ID=AAA044D11.genome.CDS.2048;Product=Dipeptide transport system permease protein DppB %28TC 3.A.1.5.2%29;locus_tag=AAA044D11.genome.CDS.2048
+AAA044D11.contig.22	feature	CDS	76015	76878	.	-	0	ID=AAA044D11.genome.CDS.2047;Product=Dipeptide transport system permease protein DppC %28TC 3.A.1.5.2%29;locus_tag=AAA044D11.genome.CDS.2047
+AAA044D11.contig.22	feature	CDS	75023	76015	.	-	0	ID=AAA044D11.genome.CDS.2046;Product=;locus_tag=AAA044D11.genome.CDS.2046
+AAA044D11.contig.22	feature	CDS	74055	75026	.	-	0	ID=AAA044D11.genome.CDS.2045;Product=Oligopeptide transport ATP-binding protein OppF %28TC 3.A.1.5.1%29;locus_tag=AAA044D11.genome.CDS.2045
+AAA044D11.contig.22	feature	CDS	72847	74037	.	-	0	ID=AAA044D11.genome.CDS.2044;Product=;locus_tag=AAA044D11.genome.CDS.2044
+AAA044D11.contig.22	feature	CDS	72233	72841	.	-	0	ID=AAA044D11.genome.CDS.2043;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.2043
+AAA044D11.contig.22	feature	CDS	71292	72224	.	+	0	ID=AAA044D11.genome.CDS.2042;Product=4-hydroxy-tetrahydrodipicolinate synthase %28EC 4.3.3.7%29;locus_tag=AAA044D11.genome.CDS.2042
+AAA044D11.contig.22	feature	CDS	70075	71241	.	-	0	ID=AAA044D11.genome.CDS.2041;Product=;locus_tag=AAA044D11.genome.CDS.2041
+AAA044D11.contig.22	feature	CDS	68980	70068	.	+	0	ID=AAA044D11.genome.CDS.2040;Product=NADH-dependent flavin oxidoreductase;locus_tag=AAA044D11.genome.CDS.2040
+AAA044D11.contig.22	feature	CDS	68629	68943	.	-	0	ID=AAA044D11.genome.CDS.2039;Product=;locus_tag=AAA044D11.genome.CDS.2039
+AAA044D11.contig.22	feature	CDS	67684	68628	.	+	0	ID=AAA044D11.genome.CDS.2038;Product=;locus_tag=AAA044D11.genome.CDS.2038
+AAA044D11.contig.22	feature	CDS	66744	67679	.	+	0	ID=AAA044D11.genome.CDS.2037;Product=4-hydroxy-tetrahydrodipicolinate synthase %28EC 4.3.3.7%29;locus_tag=AAA044D11.genome.CDS.2037
+AAA044D11.contig.22	feature	CDS	65496	66707	.	+	0	ID=AAA044D11.genome.CDS.2036;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.2036
+AAA044D11.contig.22	feature	CDS	64073	65506	.	+	0	ID=AAA044D11.genome.CDS.2035;Product=Putative oxidoreductase in 4-hydroxyproline catabolic gene cluster;locus_tag=AAA044D11.genome.CDS.2035
+AAA044D11.contig.22	feature	CDS	63117	63938	.	+	0	ID=AAA044D11.genome.CDS.2034;Product=;locus_tag=AAA044D11.genome.CDS.2034
+AAA044D11.contig.22	feature	CDS	62294	63055	.	+	0	ID=AAA044D11.genome.CDS.2033;Product=amino acid ABC transporter%2C permease protein;locus_tag=AAA044D11.genome.CDS.2033
+AAA044D11.contig.22	feature	CDS	61536	62294	.	+	0	ID=AAA044D11.genome.CDS.2032;Product=;locus_tag=AAA044D11.genome.CDS.2032
+AAA044D11.contig.22	feature	CDS	60869	61393	.	-	0	ID=AAA044D11.genome.CDS.2031;Product=;locus_tag=AAA044D11.genome.CDS.2031
+AAA044D11.contig.22	feature	CDS	60095	60862	.	+	0	ID=AAA044D11.genome.CDS.857;Product=;locus_tag=AAA044D11.genome.CDS.857
+AAA044D11.contig.22	feature	CDS	59344	60093	.	+	0	ID=AAA044D11.genome.CDS.2029;Product=3-oxoacyl-%5Bacyl-carrier protein%5D reductase %28EC 1.1.1.100%29;locus_tag=AAA044D11.genome.CDS.2029
+AAA044D11.contig.22	feature	CDS	58409	59269	.	-	0	ID=AAA044D11.genome.CDS.2028;Product=3-oxoadipate CoA-transferase subunit A %28EC 2.8.3.6%29%3B Glutaconate CoA-transferase subunit A %28EC 2.8.3.12%29;locus_tag=AAA044D11.genome.CDS.2028
+AAA044D11.contig.22	feature	CDS	57646	58407	.	-	0	ID=AAA044D11.genome.CDS.2027;Product=3-oxoadipate CoA-transferase subunit B %28EC 2.8.3.6%29%3B Glutaconate CoA-transferase subunit B %28EC 2.8.3.12%29;locus_tag=AAA044D11.genome.CDS.2027
+AAA044D11.contig.22	feature	CDS	56703	57644	.	+	0	ID=AAA044D11.genome.CDS.2026;Product=3-hydroxyacyl-CoA dehydrogenase %28EC 1.1.1.35%29;locus_tag=AAA044D11.genome.CDS.2026
+AAA044D11.contig.22	feature	CDS	55129	56685	.	+	0	ID=AAA044D11.genome.CDS.2025;Product=Glycine dehydrogenase %5Bdecarboxylating%5D %28glycine cleavage system P2 protein%29 %28EC 1.4.4.2%29;locus_tag=AAA044D11.genome.CDS.2025
+AAA044D11.contig.22	feature	CDS	53714	55132	.	+	0	ID=AAA044D11.genome.CDS.2024;Product=Glycine dehydrogenase %5Bdecarboxylating%5D %28glycine cleavage system P1 protein%29 %28EC 1.4.4.2%29;locus_tag=AAA044D11.genome.CDS.2024
+AAA044D11.contig.22	feature	CDS	52499	53686	.	+	0	ID=AAA044D11.genome.CDS.2023;Product=ATP-NAD kinase %28EC 2.7.1.23%29;locus_tag=AAA044D11.genome.CDS.2023
+AAA044D11.contig.22	feature	CDS	51110	52495	.	+	0	ID=AAA044D11.genome.CDS.2022;Product=Gamma-aminobutyrate:alpha-ketoglutarate aminotransferase %28EC 2.6.1.19%29;locus_tag=AAA044D11.genome.CDS.2022
+AAA044D11.contig.22	feature	CDS	50227	51009	.	+	0	ID=AAA044D11.genome.CDS.2021;Product=Pca regulon regulatory protein PcaR;locus_tag=AAA044D11.genome.CDS.2021
+AAA044D11.contig.22	feature	CDS	49303	50184	.	+	0	ID=AAA044D11.genome.CDS.2020;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.2020
+AAA044D11.contig.22	feature	CDS	47577	49310	.	+	0	ID=AAA044D11.genome.CDS.2019;Product=Opine oxidase subunit A;locus_tag=AAA044D11.genome.CDS.2019
+AAA044D11.contig.22	feature	CDS	46694	47482	.	-	0	ID=AAA044D11.genome.CDS.2018;Product=3-oxoacyl-%5Bacyl-carrier protein%5D reductase %28EC 1.1.1.100%29;locus_tag=AAA044D11.genome.CDS.2018
+AAA044D11.contig.22	feature	CDS	46347	46706	.	+	0	ID=AAA044D11.genome.CDS.2017;Product=;locus_tag=AAA044D11.genome.CDS.2017
+AAA044D11.contig.22	feature	CDS	45355	46299	.	+	0	ID=AAA044D11.genome.CDS.2016;Product=;locus_tag=AAA044D11.genome.CDS.2016
+AAA044D11.contig.22	feature	CDS	44327	45358	.	+	0	ID=AAA044D11.genome.CDS.842;Product=Myo-inositol 2-dehydrogenase %28EC 1.1.1.18%29;locus_tag=AAA044D11.genome.CDS.842
+AAA044D11.contig.22	feature	tRNA	44169	44242	.	+	.	ID=AAA044D11.genome.rna.22;Product=tRNA-Met-CAT;locus_tag=AAA044D11.genome.rna.22
+AAA044D11.contig.22	feature	CDS	43534	44136	.	-	0	ID=AAA044D11.genome.CDS.2014;Product=Membrane proteins related to metalloendopeptidases;locus_tag=AAA044D11.genome.CDS.2014
+AAA044D11.contig.22	feature	CDS	43268	43471	.	+	0	ID=AAA044D11.genome.CDS.2013;Product=Cold shock protein CspA;locus_tag=AAA044D11.genome.CDS.2013
+AAA044D11.contig.22	feature	CDS	43010	43138	.	+	0	ID=AAA044D11.genome.CDS.839;Product=;locus_tag=AAA044D11.genome.CDS.839
+AAA044D11.contig.22	feature	CDS	42461	42973	.	-	0	ID=AAA044D11.genome.CDS.2012;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.2012
+AAA044D11.contig.22	feature	CDS	41706	42458	.	-	0	ID=AAA044D11.genome.CDS.2011;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.2011
+AAA044D11.contig.22	feature	CDS	40468	41709	.	+	0	ID=AAA044D11.genome.CDS.2010;Product=3-oxoacyl-%5Bacyl-carrier-protein%5D synthase%2C KASII %28EC 2.3.1.179%29;locus_tag=AAA044D11.genome.CDS.2010
+AAA044D11.contig.22	feature	CDS	40204	40452	.	+	0	ID=AAA044D11.genome.CDS.2009;Product=Acyl carrier protein;locus_tag=AAA044D11.genome.CDS.2009
+AAA044D11.contig.22	feature	CDS	39149	40180	.	+	0	ID=AAA044D11.genome.CDS.2008;Product=3-oxoacyl-%5Bacyl-carrier-protein%5D synthase%2C KASIII %28EC 2.3.1.180%29;locus_tag=AAA044D11.genome.CDS.2008
+AAA044D11.contig.22	feature	CDS	38226	39149	.	+	0	ID=AAA044D11.genome.CDS.2007;Product=Malonyl CoA-acyl carrier protein transacylase %28EC 2.3.1.39%29;locus_tag=AAA044D11.genome.CDS.2007
+AAA044D11.contig.22	feature	CDS	37320	38129	.	-	0	ID=AAA044D11.genome.CDS.2006;Product=Electron transfer flavoprotein%2C beta subunit;locus_tag=AAA044D11.genome.CDS.2006
+AAA044D11.contig.22	feature	CDS	36382	37320	.	-	0	ID=AAA044D11.genome.CDS.2005;Product=Electron transfer flavoprotein%2C alpha subunit;locus_tag=AAA044D11.genome.CDS.2005
+AAA044D11.contig.22	feature	CDS	35195	36355	.	-	0	ID=AAA044D11.genome.CDS.2004;Product=Cysteine desulfurase %28EC 2.8.1.7%29;locus_tag=AAA044D11.genome.CDS.2004
+AAA044D11.contig.22	feature	CDS	34119	35195	.	-	0	ID=AAA044D11.genome.CDS.2003;Product=tRNA-specific 2-thiouridylase MnmA;locus_tag=AAA044D11.genome.CDS.2003
+AAA044D11.contig.22	feature	CDS	32069	34108	.	-	0	ID=AAA044D11.genome.CDS.828;Product=DNA ligase %28EC 6.5.1.2%29;locus_tag=AAA044D11.genome.CDS.828
+AAA044D11.contig.22	feature	CDS	31939	32058	.	-	0	ID=AAA044D11.genome.CDS.827;Product=;locus_tag=AAA044D11.genome.CDS.827
+AAA044D11.contig.22	feature	CDS	31365	31838	.	-	0	ID=AAA044D11.genome.CDS.2000;Product=Nicotinate-nucleotide adenylyltransferase %28EC 2.7.7.18%29;locus_tag=AAA044D11.genome.CDS.2000
+AAA044D11.contig.22	feature	CDS	31016	31378	.	-	0	ID=AAA044D11.genome.CDS.1999;Product=;locus_tag=AAA044D11.genome.CDS.1999
+AAA044D11.contig.22	feature	CDS	30352	31005	.	-	0	ID=AAA044D11.genome.CDS.1998;Product=;locus_tag=AAA044D11.genome.CDS.1998
+AAA044D11.contig.22	feature	tRNA	30220	30292	.	-	.	ID=AAA044D11.genome.rna.27;Product=tRNA-Ala-GGC;locus_tag=AAA044D11.genome.rna.27
+AAA044D11.contig.22	feature	CDS	27705	30161	.	-	0	ID=AAA044D11.genome.CDS.1997;Product=Leucyl-tRNA synthetase %28EC 6.1.1.4%29;locus_tag=AAA044D11.genome.CDS.1997
+AAA044D11.contig.22	feature	CDS	27009	27647	.	-	0	ID=AAA044D11.genome.CDS.1996;Product=;locus_tag=AAA044D11.genome.CDS.1996
+AAA044D11.contig.22	feature	CDS	24727	26874	.	-	0	ID=AAA044D11.genome.CDS.1995;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1995
+AAA044D11.contig.22	feature	CDS	23801	24736	.	-	0	ID=AAA044D11.genome.CDS.1994;Product=DNA polymerase III delta subunit %28EC 2.7.7.7%29;locus_tag=AAA044D11.genome.CDS.1994
+AAA044D11.contig.22	feature	CDS	23446	23715	.	-	0	ID=AAA044D11.genome.CDS.1993;Product=SSU ribosomal protein S20p;locus_tag=AAA044D11.genome.CDS.1993
+AAA044D11.contig.22	feature	CDS	21512	23386	.	-	0	ID=AAA044D11.genome.CDS.1992;Product=Translation elongation factor LepA;locus_tag=AAA044D11.genome.CDS.1992
+AAA044D11.contig.22	feature	CDS	19282	21492	.	-	0	ID=AAA044D11.genome.CDS.1991;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1991
+AAA044D11.contig.22	feature	CDS	18001	19146	.	-	0	ID=AAA044D11.genome.CDS.1990;Product=Hypothetical radical SAM family enzyme in heat shock gene cluster%2C similarity with CPO of BS HemN-type;locus_tag=AAA044D11.genome.CDS.1990
+AAA044D11.contig.22	feature	CDS	17644	17988	.	-	0	ID=AAA044D11.genome.CDS.1989;Product=;locus_tag=AAA044D11.genome.CDS.1989
+AAA044D11.contig.22	feature	CDS	16903	17631	.	-	0	ID=AAA044D11.genome.CDS.1988;Product=Heat-inducible transcription repressor HrcA;locus_tag=AAA044D11.genome.CDS.1988
+AAA044D11.contig.22	feature	CDS	15781	16902	.	-	0	ID=AAA044D11.genome.CDS.1987;Product=Chaperone protein DnaJ;locus_tag=AAA044D11.genome.CDS.1987
+AAA044D11.contig.22	feature	CDS	15058	15780	.	-	0	ID=AAA044D11.genome.CDS.1986;Product=Ribosomal RNA small subunit methyltransferase E %28EC 2.1.1.-%29;locus_tag=AAA044D11.genome.CDS.1986
+AAA044D11.contig.22	feature	CDS	14715	15029	.	-	0	ID=AAA044D11.genome.CDS.1985;Product=YcfF/hinT protein: a purine nucleoside phosphoramidase;locus_tag=AAA044D11.genome.CDS.1985
+AAA044D11.contig.22	feature	CDS	13680	14696	.	-	0	ID=AAA044D11.genome.CDS.1984;Product=Phosphate starvation-inducible protein PhoH%2C predicted ATPase;locus_tag=AAA044D11.genome.CDS.1984
+AAA044D11.contig.22	feature	CDS	13237	13674	.	-	0	ID=AAA044D11.genome.CDS.1983;Product=Metal-dependent hydrolase YbeY%2C involved in rRNA and/or ribosome maturation and assembly;locus_tag=AAA044D11.genome.CDS.1983
+AAA044D11.contig.22	feature	CDS	12253	13215	.	-	0	ID=AAA044D11.genome.CDS.1982;Product=Magnesium and cobalt efflux protein CorC;locus_tag=AAA044D11.genome.CDS.1982
+AAA044D11.contig.22	feature	CDS	11940	12263	.	-	0	ID=AAA044D11.genome.CDS.1981;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1981
+AAA044D11.contig.22	feature	CDS	11135	11926	.	-	0	ID=AAA044D11.genome.CDS.1980;Product=Fumarylacetoacetate hydrolase family protein;locus_tag=AAA044D11.genome.CDS.1980
+AAA044D11.contig.22	feature	CDS	9676	11145	.	-	0	ID=AAA044D11.genome.CDS.1979;Product=Glutamyl-tRNA synthetase %28EC 6.1.1.17%29 %40 Glutamyl-tRNA%28Gln%29 synthetase %28EC 6.1.1.24%29;locus_tag=AAA044D11.genome.CDS.1979
+AAA044D11.contig.22	feature	tRNA	9571	9642	.	-	.	ID=AAA044D11.genome.rna.28;Product=tRNA-Gln-CTG;locus_tag=AAA044D11.genome.rna.28
+AAA044D11.contig.22	feature	tRNA	9452	9527	.	-	.	ID=AAA044D11.genome.rna.29;Product=tRNA-Glu-CTC;locus_tag=AAA044D11.genome.rna.29
+AAA044D11.contig.22	feature	CDS	8688	9428	.	+	0	ID=AAA044D11.genome.CDS.1978;Product=Transcriptional regulator%2C IclR family;locus_tag=AAA044D11.genome.CDS.1978
+AAA044D11.contig.22	feature	CDS	7252	8649	.	-	0	ID=AAA044D11.genome.CDS.1977;Product=3-isopropylmalate dehydratase large subunit %28EC 4.2.1.33%29;locus_tag=AAA044D11.genome.CDS.1977
+AAA044D11.contig.22	feature	CDS	6640	7239	.	-	0	ID=AAA044D11.genome.CDS.1976;Product=3-isopropylmalate dehydratase small subunit %28EC 4.2.1.33%29;locus_tag=AAA044D11.genome.CDS.1976
+AAA044D11.contig.22	feature	CDS	6000	6446	.	-	0	ID=AAA044D11.genome.CDS.1975;Product=;locus_tag=AAA044D11.genome.CDS.1975
+AAA044D11.contig.22	feature	CDS	5149	5925	.	-	0	ID=AAA044D11.genome.CDS.1974;Product=1-acyl-sn-glycerol-3-phosphate acyltransferase %28EC 2.3.1.51%29;locus_tag=AAA044D11.genome.CDS.1974
+AAA044D11.contig.22	feature	CDS	4150	5148	.	-	0	ID=AAA044D11.genome.CDS.1973;Product=Glycerol-3-phosphate dehydrogenase %5BNAD%28P%29%2B%5D %28EC 1.1.1.94%29;locus_tag=AAA044D11.genome.CDS.1973
+AAA044D11.contig.22	feature	CDS	3113	4150	.	-	0	ID=AAA044D11.genome.CDS.1972;Product=D-alanine--D-alanine ligase %28EC 6.3.2.4%29;locus_tag=AAA044D11.genome.CDS.1972
+AAA044D11.contig.22	feature	CDS	2868	3104	.	+	0	ID=AAA044D11.genome.CDS.1971;Product=Transcriptional regulator%2C AsnC family;locus_tag=AAA044D11.genome.CDS.1971
+AAA044D11.contig.22	feature	CDS	1842	2759	.	-	0	ID=AAA044D11.genome.CDS.1970;Product=Thiamine-monophosphate kinase %28EC 2.7.4.16%29;locus_tag=AAA044D11.genome.CDS.1970
+AAA044D11.contig.22	feature	CDS	1650	1835	.	+	0	ID=AAA044D11.genome.CDS.795;Product=LSU ribosomal protein L28p %40 LSU ribosomal protein L28p%2C zinc-dependent;locus_tag=AAA044D11.genome.CDS.795
+AAA044D11.contig.22	feature	CDS	1	1545	.	-	0	ID=AAA044D11.genome.CDS.1968;Product=ATP-dependent DNA helicase RecG %28EC 3.6.1.-%29;locus_tag=AAA044D11.genome.CDS.1968
+AAA044D11.contig.23	feature	CDS	1606	2703	.	+	0	ID=AAA044D11.genome.CDS.2223;Product=;locus_tag=AAA044D11.genome.CDS.2223
+AAA044D11.contig.23	feature	CDS	693	1655	.	+	0	ID=AAA044D11.genome.CDS.2222;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.2222
+AAA044D11.contig.23	feature	CDS	2	688	.	+	0	ID=AAA044D11.genome.CDS.2221;Product=;locus_tag=AAA044D11.genome.CDS.2221
+AAA044D11.contig.24	feature	CDS	11438	11635	.	-	0	ID=AAA044D11.genome.CDS.2233;Product=Aspartyl-tRNA%28Asn%29 amidotransferase subunit B %28EC 6.3.5.6%29 %40 Glutamyl-tRNA%28Gln%29 amidotransferase subunit B %28EC 6.3.5.7%29;locus_tag=AAA044D11.genome.CDS.2233
+AAA044D11.contig.24	feature	CDS	9753	11429	.	-	0	ID=AAA044D11.genome.CDS.2232;Product=Dihydroxy-acid dehydratase %28EC 4.2.1.9%29;locus_tag=AAA044D11.genome.CDS.2232
+AAA044D11.contig.24	feature	CDS	7786	9531	.	-	0	ID=AAA044D11.genome.CDS.2231;Product=Acetolactate synthase large subunit %28EC 2.2.1.6%29;locus_tag=AAA044D11.genome.CDS.2231
+AAA044D11.contig.24	feature	CDS	7231	7785	.	-	0	ID=AAA044D11.genome.CDS.2230;Product=Acetolactate synthase small subunit %28EC 2.2.1.6%29;locus_tag=AAA044D11.genome.CDS.2230
+AAA044D11.contig.24	feature	CDS	6145	7179	.	-	0	ID=AAA044D11.genome.CDS.2229;Product=Ketol-acid reductoisomerase %28EC 1.1.1.86%29;locus_tag=AAA044D11.genome.CDS.2229
+AAA044D11.contig.24	feature	CDS	4560	6152	.	-	0	ID=AAA044D11.genome.CDS.1058;Product=D-3-phosphoglycerate dehydrogenase %28EC 1.1.1.95%29;locus_tag=AAA044D11.genome.CDS.1058
+AAA044D11.contig.24	feature	CDS	3505	4551	.	-	0	ID=AAA044D11.genome.CDS.2227;Product=3-isopropylmalate dehydrogenase %28EC 1.1.1.85%29;locus_tag=AAA044D11.genome.CDS.2227
+AAA044D11.contig.24	feature	CDS	2423	3508	.	-	0	ID=AAA044D11.genome.CDS.2226;Product=Branched-chain amino acid aminotransferase %28EC 2.6.1.42%29;locus_tag=AAA044D11.genome.CDS.2226
+AAA044D11.contig.24	feature	CDS	839	2422	.	-	0	ID=AAA044D11.genome.CDS.2225;Product=%28R%29-citramalate synthase %28EC 2.3.1.182%29;locus_tag=AAA044D11.genome.CDS.2225
+AAA044D11.contig.24	feature	CDS	2	829	.	-	0	ID=AAA044D11.genome.CDS.2224;Product=Site-specific tyrosine recombinase XerC;locus_tag=AAA044D11.genome.CDS.2224
+AAA044D11.contig.25	feature	misc_RNA	55	339	.	+	.	ID=AAA044D11.genome.repeat.5;Product=repeat region;locus_tag=AAA044D11.genome.repeat.5
+AAA044D11.contig.25	feature	CDS	19956	20351	.	+	0	ID=AAA044D11.genome.CDS.2251;Product=Ribose 5-phosphate isomerase B %28EC 5.3.1.6%29 / Galactose 6-phosphate isomerase;locus_tag=AAA044D11.genome.CDS.2251
+AAA044D11.contig.25	feature	CDS	19247	19864	.	+	0	ID=AAA044D11.genome.CDS.2250;Product=;locus_tag=AAA044D11.genome.CDS.2250
+AAA044D11.contig.25	feature	CDS	17953	18963	.	-	0	ID=AAA044D11.genome.CDS.2249;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.2249
+AAA044D11.contig.25	feature	tRNA	17872	17945	.	+	.	ID=AAA044D11.genome.rna.30;Product=tRNA-Gly-TCC;locus_tag=AAA044D11.genome.rna.30
+AAA044D11.contig.25	feature	CDS	16188	17624	.	-	0	ID=AAA044D11.genome.CDS.2248;Product=Xanthine/uracil/thiamine/ascorbate permease family protein;locus_tag=AAA044D11.genome.CDS.2248
+AAA044D11.contig.25	feature	tRNA	15992	16067	.	-	.	ID=AAA044D11.genome.rna.31;Product=tRNA-Pro-TGG;locus_tag=AAA044D11.genome.rna.31
+AAA044D11.contig.25	feature	CDS	14664	15953	.	-	0	ID=AAA044D11.genome.CDS.2247;Product=Cell division trigger factor %28EC 5.2.1.8%29;locus_tag=AAA044D11.genome.CDS.2247
+AAA044D11.contig.25	feature	CDS	13910	14527	.	-	0	ID=AAA044D11.genome.CDS.2246;Product=ATP-dependent Clp protease proteolytic subunit %28EC 3.4.21.92%29;locus_tag=AAA044D11.genome.CDS.2246
+AAA044D11.contig.25	feature	CDS	13305	13913	.	-	0	ID=AAA044D11.genome.CDS.2245;Product=ATP-dependent Clp protease proteolytic subunit %28EC 3.4.21.92%29;locus_tag=AAA044D11.genome.CDS.2245
+AAA044D11.contig.25	feature	CDS	11922	13229	.	-	0	ID=AAA044D11.genome.CDS.2244;Product=ATP-dependent Clp protease ATP-binding subunit ClpX;locus_tag=AAA044D11.genome.CDS.2244
+AAA044D11.contig.25	feature	CDS	9302	11905	.	-	0	ID=AAA044D11.genome.CDS.2243;Product=Valyl-tRNA synthetase %28EC 6.1.1.9%29;locus_tag=AAA044D11.genome.CDS.2243
+AAA044D11.contig.25	feature	CDS	7947	9302	.	-	0	ID=AAA044D11.genome.CDS.2242;Product=Dihydrofolate synthase %28EC 6.3.2.12%29 %40 Folylpolyglutamate synthase %28EC 6.3.2.17%29;locus_tag=AAA044D11.genome.CDS.2242
+AAA044D11.contig.25	feature	CDS	7618	7950	.	-	0	ID=AAA044D11.genome.CDS.2241;Product=;locus_tag=AAA044D11.genome.CDS.2241
+AAA044D11.contig.25	feature	CDS	7128	7562	.	-	0	ID=AAA044D11.genome.CDS.2240;Product=Nucleoside diphosphate kinase %28EC 2.7.4.6%29;locus_tag=AAA044D11.genome.CDS.2240
+AAA044D11.contig.25	feature	CDS	6070	7113	.	-	0	ID=AAA044D11.genome.CDS.2239;Product=Rod shape-determining protein MreB;locus_tag=AAA044D11.genome.CDS.2239
+AAA044D11.contig.25	feature	CDS	5113	6057	.	-	0	ID=AAA044D11.genome.CDS.2238;Product=Rod shape-determining protein MreC;locus_tag=AAA044D11.genome.CDS.2238
+AAA044D11.contig.25	feature	CDS	4595	5116	.	-	0	ID=AAA044D11.genome.CDS.2237;Product=Putative permease often clustered with de novo purine synthesis;locus_tag=AAA044D11.genome.CDS.2237
+AAA044D11.contig.25	feature	CDS	2514	4598	.	-	0	ID=AAA044D11.genome.CDS.2236;Product=Cell division protein FtsI %5BPeptidoglycan synthetase%5D %28EC 2.4.1.129%29;locus_tag=AAA044D11.genome.CDS.2236
+AAA044D11.contig.25	feature	CDS	1366	2517	.	-	0	ID=AAA044D11.genome.CDS.2235;Product=Rod shape-determining protein RodA;locus_tag=AAA044D11.genome.CDS.2235
+AAA044D11.contig.25	feature	CDS	33	1175	.	-	0	ID=AAA044D11.genome.CDS.2234;Product=Cytoplasmic axial filament protein CafA and Ribonuclease G %28EC 3.1.4.-%29;locus_tag=AAA044D11.genome.CDS.2234
+AAA044D11.contig.26	feature	misc_RNA	1	194	.	+	.	ID=AAA044D11.genome.repeat.9;Product=repeat region;locus_tag=AAA044D11.genome.repeat.9
+AAA044D11.contig.26	feature	misc_RNA	9087	10708	.	+	.	ID=AAA044D11.genome.repeat.10;Product=repeat region;locus_tag=AAA044D11.genome.repeat.10
+AAA044D11.contig.26	feature	CDS	9997	10707	.	+	0	ID=AAA044D11.genome.CDS.2263;Product=Tyrosyl-tRNA synthetase %28EC 6.1.1.1%29;locus_tag=AAA044D11.genome.CDS.2263
+AAA044D11.contig.26	feature	CDS	8573	10000	.	+	0	ID=AAA044D11.genome.CDS.2262;Product=Argininosuccinate lyase %28EC 4.3.2.1%29;locus_tag=AAA044D11.genome.CDS.2262
+AAA044D11.contig.26	feature	CDS	8067	8570	.	+	0	ID=AAA044D11.genome.CDS.2261;Product=Arginine pathway regulatory protein ArgR%2C repressor of arg regulon;locus_tag=AAA044D11.genome.CDS.2261
+AAA044D11.contig.26	feature	CDS	6920	8077	.	+	0	ID=AAA044D11.genome.CDS.2260;Product=Acetylornithine aminotransferase %28EC 2.6.1.11%29;locus_tag=AAA044D11.genome.CDS.2260
+AAA044D11.contig.26	feature	CDS	6133	6900	.	+	0	ID=AAA044D11.genome.CDS.2259;Product=Acetylglutamate kinase %28EC 2.7.2.8%29;locus_tag=AAA044D11.genome.CDS.2259
+AAA044D11.contig.26	feature	CDS	5111	6133	.	+	0	ID=AAA044D11.genome.CDS.2258;Product=N-acetyl-gamma-glutamyl-phosphate reductase %28EC 1.2.1.38%29;locus_tag=AAA044D11.genome.CDS.2258
+AAA044D11.contig.26	feature	CDS	2601	5063	.	+	0	ID=AAA044D11.genome.CDS.2257;Product=Phenylalanyl-tRNA synthetase beta chain %28EC 6.1.1.20%29;locus_tag=AAA044D11.genome.CDS.2257
+AAA044D11.contig.26	feature	CDS	1588	2604	.	+	0	ID=AAA044D11.genome.CDS.2256;Product=Phenylalanyl-tRNA synthetase alpha chain %28EC 6.1.1.20%29;locus_tag=AAA044D11.genome.CDS.2256
+AAA044D11.contig.26	feature	CDS	769	1575	.	+	0	ID=AAA044D11.genome.CDS.2255;Product=FIG011178: rRNA methylase;locus_tag=AAA044D11.genome.CDS.2255
+AAA044D11.contig.26	feature	CDS	414	776	.	+	0	ID=AAA044D11.genome.CDS.2254;Product=LSU ribosomal protein L20p;locus_tag=AAA044D11.genome.CDS.2254
+AAA044D11.contig.26	feature	CDS	200	397	.	+	0	ID=AAA044D11.genome.CDS.2253;Product=LSU ribosomal protein L35p;locus_tag=AAA044D11.genome.CDS.2253
+AAA044D11.contig.26	feature	CDS	3	164	.	+	0	ID=AAA044D11.genome.CDS.2252;Product=Translation initiation factor 3;locus_tag=AAA044D11.genome.CDS.2252
+AAA044D11.contig.27	feature	CDS	44172	45836	.	+	0	ID=AAA044D11.genome.CDS.2310;Product=Threonyl-tRNA synthetase %28EC 6.1.1.3%29;locus_tag=AAA044D11.genome.CDS.2310
+AAA044D11.contig.27	feature	CDS	42473	44167	.	+	0	ID=AAA044D11.genome.CDS.2309;Product=Para-aminobenzoate synthase%2C aminase component %28EC 2.6.1.85%29;locus_tag=AAA044D11.genome.CDS.2309
+AAA044D11.contig.27	feature	tRNA	42287	42359	.	-	.	ID=AAA044D11.genome.rna.32;Product=tRNA-Gly-GCC;locus_tag=AAA044D11.genome.rna.32
+AAA044D11.contig.27	feature	tRNA	42163	42236	.	-	.	ID=AAA044D11.genome.rna.33;Product=tRNA-Cys-GCA;locus_tag=AAA044D11.genome.rna.33
+AAA044D11.contig.27	feature	CDS	41766	42116	.	-	0	ID=AAA044D11.genome.CDS.2308;Product=Mannose-1-phosphate guanylyltransferase %28GDP%29 %28EC 2.7.7.22%29;locus_tag=AAA044D11.genome.CDS.2308
+AAA044D11.contig.27	feature	tRNA	41653	41724	.	-	.	ID=AAA044D11.genome.rna.34;Product=tRNA-Val-GAC;locus_tag=AAA044D11.genome.rna.34
+AAA044D11.contig.27	feature	CDS	40851	41585	.	-	0	ID=AAA044D11.genome.CDS.2307;Product=Short-chain dehydrogenase/reductase SDR;locus_tag=AAA044D11.genome.CDS.2307
+AAA044D11.contig.27	feature	CDS	39193	40830	.	+	0	ID=AAA044D11.genome.CDS.2306;Product=;locus_tag=AAA044D11.genome.CDS.2306
+AAA044D11.contig.27	feature	CDS	38764	39096	.	-	0	ID=AAA044D11.genome.CDS.2305;Product=;locus_tag=AAA044D11.genome.CDS.2305
+AAA044D11.contig.27	feature	CDS	37999	38754	.	-	0	ID=AAA044D11.genome.CDS.2304;Product=Oxygen-insensitive NADPH nitroreductase %28EC 1.-.-.-%29;locus_tag=AAA044D11.genome.CDS.2304
+AAA044D11.contig.27	feature	CDS	37370	37957	.	-	0	ID=AAA044D11.genome.CDS.2303;Product=;locus_tag=AAA044D11.genome.CDS.2303
+AAA044D11.contig.27	feature	CDS	36505	37365	.	+	0	ID=AAA044D11.genome.CDS.2302;Product=;locus_tag=AAA044D11.genome.CDS.2302
+AAA044D11.contig.27	feature	CDS	35835	36437	.	-	0	ID=AAA044D11.genome.CDS.2301;Product=Transporter%2C LysE family;locus_tag=AAA044D11.genome.CDS.2301
+AAA044D11.contig.27	feature	CDS	35283	35834	.	+	0	ID=AAA044D11.genome.CDS.2300;Product=;locus_tag=AAA044D11.genome.CDS.2300
+AAA044D11.contig.27	feature	CDS	33774	35267	.	+	0	ID=AAA044D11.genome.CDS.2299;Product=Methylmalonate-semialdehyde dehydrogenase %5Binositol%5D %28EC 1.2.1.27%29;locus_tag=AAA044D11.genome.CDS.2299
+AAA044D11.contig.27	feature	CDS	32345	33688	.	-	0	ID=AAA044D11.genome.CDS.2298;Product=PLP-dependent aminotransferase NCgl2355 %28class III%29;locus_tag=AAA044D11.genome.CDS.2298
+AAA044D11.contig.27	feature	CDS	31681	32295	.	-	0	ID=AAA044D11.genome.CDS.2297;Product=Thymidine kinase %28EC 2.7.1.21%29;locus_tag=AAA044D11.genome.CDS.2297
+AAA044D11.contig.27	feature	CDS	30853	31671	.	-	0	ID=AAA044D11.genome.CDS.2296;Product=Purine nucleoside phosphorylase %28EC 2.4.2.1%29;locus_tag=AAA044D11.genome.CDS.2296
+AAA044D11.contig.27	feature	CDS	29240	30856	.	-	0	ID=AAA044D11.genome.CDS.2295;Product=Probable phosphomannomutase pmmB %28EC 5.4.2.8%29;locus_tag=AAA044D11.genome.CDS.2295
+AAA044D11.contig.27	feature	CDS	28169	29260	.	+	0	ID=AAA044D11.genome.CDS.2294;Product=Adenosine deaminase %28EC 3.5.4.4%29;locus_tag=AAA044D11.genome.CDS.2294
+AAA044D11.contig.27	feature	CDS	26872	28167	.	+	0	ID=AAA044D11.genome.CDS.2293;Product=Thymidine phosphorylase %28EC 2.4.2.4%29;locus_tag=AAA044D11.genome.CDS.2293
+AAA044D11.contig.27	feature	CDS	26486	26875	.	+	0	ID=AAA044D11.genome.CDS.2292;Product=Cytidine deaminase %28EC 3.5.4.5%29;locus_tag=AAA044D11.genome.CDS.2292
+AAA044D11.contig.27	feature	CDS	25221	26483	.	+	0	ID=AAA044D11.genome.CDS.2291;Product=Nucleoside ABC transporter%2C permease protein 2;locus_tag=AAA044D11.genome.CDS.2291
+AAA044D11.contig.27	feature	CDS	24055	25224	.	+	0	ID=AAA044D11.genome.CDS.2290;Product=Ribose ABC transport system%2C permease protein RbsC %28TC 3.A.1.2.1%29;locus_tag=AAA044D11.genome.CDS.2290
+AAA044D11.contig.27	feature	CDS	22541	24058	.	+	0	ID=AAA044D11.genome.CDS.2289;Product=ABC transporter ATP-binding protein;locus_tag=AAA044D11.genome.CDS.2289
+AAA044D11.contig.27	feature	CDS	21415	22458	.	+	0	ID=AAA044D11.genome.CDS.2288;Product=Nucleoside ABC transporter%2C periplasmic nucleoside-binding protein;locus_tag=AAA044D11.genome.CDS.2288
+AAA044D11.contig.27	feature	CDS	20103	21248	.	-	0	ID=AAA044D11.genome.CDS.2287;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.2287
+AAA044D11.contig.27	feature	CDS	19462	20073	.	-	0	ID=AAA044D11.genome.CDS.2286;Product=DNA polymerase III epsilon subunit %28EC 2.7.7.7%29;locus_tag=AAA044D11.genome.CDS.2286
+AAA044D11.contig.27	feature	CDS	19044	19472	.	+	0	ID=AAA044D11.genome.CDS.2285;Product=;locus_tag=AAA044D11.genome.CDS.2285
+AAA044D11.contig.27	feature	CDS	18281	18913	.	-	0	ID=AAA044D11.genome.CDS.2284;Product=Cytochrome c oxidase polypeptide III %28EC 1.9.3.1%29;locus_tag=AAA044D11.genome.CDS.2284
+AAA044D11.contig.27	feature	CDS	17444	18259	.	-	0	ID=AAA044D11.genome.CDS.2283;Product=ubiquinol cytochrome C oxidoreductase%2C cytochrome C1 subunit;locus_tag=AAA044D11.genome.CDS.2283
+AAA044D11.contig.27	feature	CDS	16442	17434	.	-	0	ID=AAA044D11.genome.CDS.2282;Product=Ubiquinol-cytochrome C reductase iron-sulfur subunit %28EC 1.10.2.2%29;locus_tag=AAA044D11.genome.CDS.2282
+AAA044D11.contig.27	feature	CDS	14853	16445	.	-	0	ID=AAA044D11.genome.CDS.2281;Product=Ubiquinol--cytochrome c reductase%2C cytochrome B subunit %28EC 1.10.2.2%29;locus_tag=AAA044D11.genome.CDS.2281
+AAA044D11.contig.27	feature	CDS	13846	14832	.	-	0	ID=AAA044D11.genome.CDS.2280;Product=Na%2B/H%2B antiporter NhaA type;locus_tag=AAA044D11.genome.CDS.2280
+AAA044D11.contig.27	feature	CDS	11845	13500	.	+	0	ID=AAA044D11.genome.CDS.2278;Product=Cytochrome c oxidase polypeptide I %28EC 1.9.3.1%29;locus_tag=AAA044D11.genome.CDS.2278
+AAA044D11.contig.27	feature	CDS	11079	11843	.	+	0	ID=AAA044D11.genome.CDS.2277;Product=Cytochrome c oxidase polypeptide II %28EC 1.9.3.1%29;locus_tag=AAA044D11.genome.CDS.2277
+AAA044D11.contig.27	feature	CDS	9974	11020	.	-	0	ID=AAA044D11.genome.CDS.2276;Product=;locus_tag=AAA044D11.genome.CDS.2276
+AAA044D11.contig.27	feature	CDS	8784	9773	.	+	0	ID=AAA044D11.genome.CDS.2274;Product=putative Adenosine kinase %28EC 2.7.1.20%29;locus_tag=AAA044D11.genome.CDS.2274
+AAA044D11.contig.27	feature	CDS	8381	8761	.	+	0	ID=AAA044D11.genome.CDS.2273;Product=probable iron binding protein from the HesB_IscA_SufA family;locus_tag=AAA044D11.genome.CDS.2273
+AAA044D11.contig.27	feature	CDS	7176	8327	.	-	0	ID=AAA044D11.genome.CDS.2272;Product=Quinolinate synthetase %28EC 2.5.1.72%29;locus_tag=AAA044D11.genome.CDS.2272
+AAA044D11.contig.27	feature	CDS	6632	7171	.	-	0	ID=AAA044D11.genome.CDS.2271;Product=;locus_tag=AAA044D11.genome.CDS.2271
+AAA044D11.contig.27	feature	CDS	5630	6631	.	+	0	ID=AAA044D11.genome.CDS.2270;Product=Potassium channel beta chain;locus_tag=AAA044D11.genome.CDS.2270
+AAA044D11.contig.27	feature	CDS	5378	5605	.	-	0	ID=AAA044D11.genome.CDS.2269;Product=;locus_tag=AAA044D11.genome.CDS.2269
+AAA044D11.contig.27	feature	CDS	4242	5108	.	-	0	ID=AAA044D11.genome.CDS.2268;Product=;locus_tag=AAA044D11.genome.CDS.2268
+AAA044D11.contig.27	feature	CDS	3195	4232	.	-	0	ID=AAA044D11.genome.CDS.2267;Product=Vitamin B12 ABC transporter%2C permease component BtuC;locus_tag=AAA044D11.genome.CDS.2267
+AAA044D11.contig.27	feature	CDS	2440	3198	.	-	0	ID=AAA044D11.genome.CDS.2266;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.2266
+AAA044D11.contig.27	feature	CDS	1328	2443	.	+	0	ID=AAA044D11.genome.CDS.2265;Product=Aminomethyltransferase %28glycine cleavage system T protein%29 %28EC 2.1.2.10%29;locus_tag=AAA044D11.genome.CDS.2265
+AAA044D11.contig.27	feature	CDS	1	1230	.	-	0	ID=AAA044D11.genome.CDS.2264;Product=Cytosol aminopeptidase PepA %28EC 3.4.11.1%29;locus_tag=AAA044D11.genome.CDS.2264
+AAA044D11.contig.28	feature	misc_RNA	1	277	.	+	.	ID=AAA044D11.genome.repeat.16;Product=repeat region;locus_tag=AAA044D11.genome.repeat.16
+AAA044D11.contig.28	feature	CDS	18260	21379	.	-	0	ID=AAA044D11.genome.CDS.2329;Product=DNA polymerase III alpha subunit %28EC 2.7.7.7%29;locus_tag=AAA044D11.genome.CDS.2329
+AAA044D11.contig.28	feature	CDS	16923	18245	.	-	0	ID=AAA044D11.genome.CDS.2328;Product=Histidinol dehydrogenase %28EC 1.1.1.23%29;locus_tag=AAA044D11.genome.CDS.2328
+AAA044D11.contig.28	feature	CDS	15817	16923	.	-	0	ID=AAA044D11.genome.CDS.2327;Product=Histidinol-phosphate aminotransferase %28EC 2.6.1.9%29;locus_tag=AAA044D11.genome.CDS.2327
+AAA044D11.contig.28	feature	CDS	15199	15783	.	-	0	ID=AAA044D11.genome.CDS.2326;Product=Imidazoleglycerol-phosphate dehydratase %28EC 4.2.1.19%29;locus_tag=AAA044D11.genome.CDS.2326
+AAA044D11.contig.28	feature	CDS	14606	15202	.	-	0	ID=AAA044D11.genome.CDS.2325;Product=Imidazole glycerol phosphate synthase amidotransferase subunit %28EC 2.4.2.-%29;locus_tag=AAA044D11.genome.CDS.2325
+AAA044D11.contig.28	feature	CDS	13878	14606	.	-	0	ID=AAA044D11.genome.CDS.2324;Product=Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase %28EC 5.3.1.16%29 %40 Acting phosphoribosylanthranilate isomerase %28EC 5.3.1.24%29;locus_tag=AAA044D11.genome.CDS.2324
+AAA044D11.contig.28	feature	CDS	13120	13881	.	-	0	ID=AAA044D11.genome.CDS.2323;Product=Imidazole glycerol phosphate synthase cyclase subunit %28EC 4.1.3.-%29;locus_tag=AAA044D11.genome.CDS.2323
+AAA044D11.contig.28	feature	CDS	12760	13095	.	-	0	ID=AAA044D11.genome.CDS.2322;Product=Phosphoribosyl-AMP cyclohydrolase %28EC 3.5.4.19%29;locus_tag=AAA044D11.genome.CDS.2322
+AAA044D11.contig.28	feature	CDS	12614	12763	.	-	0	ID=AAA044D11.genome.CDS.2321;Product=;locus_tag=AAA044D11.genome.CDS.2321
+AAA044D11.contig.28	feature	CDS	12162	12617	.	-	0	ID=AAA044D11.genome.CDS.2320;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.2320
+AAA044D11.contig.28	feature	CDS	11440	12144	.	-	0	ID=AAA044D11.genome.CDS.2319;Product=;locus_tag=AAA044D11.genome.CDS.2319
+AAA044D11.contig.28	feature	CDS	10597	11409	.	-	0	ID=AAA044D11.genome.CDS.2318;Product=Prolipoprotein diacylglyceryl transferase %28EC 2.4.99.-%29;locus_tag=AAA044D11.genome.CDS.2318
+AAA044D11.contig.28	feature	CDS	9867	10574	.	-	0	ID=AAA044D11.genome.CDS.2317;Product=nodulin 21-related protein;locus_tag=AAA044D11.genome.CDS.2317
+AAA044D11.contig.28	feature	CDS	5245	9765	.	-	0	ID=AAA044D11.genome.CDS.2316;Product=Glutamate synthase %5BNADPH%5D large chain %28EC 1.4.1.13%29;locus_tag=AAA044D11.genome.CDS.2316
+AAA044D11.contig.28	feature	CDS	3795	5252	.	-	0	ID=AAA044D11.genome.CDS.2315;Product=Glutamate synthase %5BNADPH%5D small chain %28EC 1.4.1.13%29;locus_tag=AAA044D11.genome.CDS.2315
+AAA044D11.contig.28	feature	CDS	2307	3749	.	-	0	ID=AAA044D11.genome.CDS.2314;Product=Pyruvate kinase %28EC 2.7.1.40%29;locus_tag=AAA044D11.genome.CDS.2314
+AAA044D11.contig.28	feature	tRNA	2195	2267	.	-	.	ID=AAA044D11.genome.rna.35;Product=tRNA-Leu-CAA;locus_tag=AAA044D11.genome.rna.35
+AAA044D11.contig.28	feature	CDS	1594	2193	.	-	0	ID=AAA044D11.genome.CDS.2313;Product=response regulator;locus_tag=AAA044D11.genome.CDS.2313
+AAA044D11.contig.28	feature	CDS	278	1435	.	-	0	ID=AAA044D11.genome.CDS.2312;Product=Branched-chain amino acid ABC transporter%2C amino acid-binding protein %28TC 3.A.1.4.1%29;locus_tag=AAA044D11.genome.CDS.2312
+AAA044D11.contig.28	feature	CDS	3	167	.	-	0	ID=AAA044D11.genome.CDS.2311;Product=High-affinity branched-chain amino acid transport system permease protein LivH %28TC 3.A.1.4.1%29;locus_tag=AAA044D11.genome.CDS.2311
+AAA044D11.contig.29	feature	CDS	4375	4515	.	-	0	ID=AAA044D11.genome.CDS.2337;Product=Threonyl-tRNA synthetase %28EC 6.1.1.3%29;locus_tag=AAA044D11.genome.CDS.2337
+AAA044D11.contig.29	feature	CDS	3046	4218	.	+	0	ID=AAA044D11.genome.CDS.2335;Product=Phosphatidylinositol alpha-mannosyltransferase %28EC 2.4.1.57%29;locus_tag=AAA044D11.genome.CDS.2335
+AAA044D11.contig.29	feature	CDS	2160	3041	.	+	0	ID=AAA044D11.genome.CDS.2334;Product=Lauroyl/myristoyl acyltransferase involved in lipid A biosynthesis %28Lauroyl/myristoyl acyltransferase%29;locus_tag=AAA044D11.genome.CDS.2334
+AAA044D11.contig.29	feature	CDS	1554	2159	.	+	0	ID=AAA044D11.genome.CDS.2333;Product=CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase %28EC 2.7.8.5%29;locus_tag=AAA044D11.genome.CDS.2333
+AAA044D11.contig.29	feature	CDS	947	1537	.	-	0	ID=AAA044D11.genome.CDS.2332;Product=;locus_tag=AAA044D11.genome.CDS.2332
+AAA044D11.contig.29	feature	CDS	431	964	.	+	0	ID=AAA044D11.genome.CDS.2331;Product=;locus_tag=AAA044D11.genome.CDS.2331
+AAA044D11.contig.29	feature	CDS	2	421	.	+	0	ID=AAA044D11.genome.CDS.2330;Product=Threonyl-tRNA synthetase %28EC 6.1.1.3%29;locus_tag=AAA044D11.genome.CDS.2330
+AAA044D11.contig.3	feature	CDS	31824	32123	.	-	0	ID=AAA044D11.genome.CDS.1249;Product=;locus_tag=AAA044D11.genome.CDS.1249
+AAA044D11.contig.3	feature	CDS	30916	31827	.	-	0	ID=AAA044D11.genome.CDS.1248;Product=Fructokinase %28EC 2.7.1.4%29;locus_tag=AAA044D11.genome.CDS.1248
+AAA044D11.contig.3	feature	CDS	30149	30916	.	-	0	ID=AAA044D11.genome.CDS.1247;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1247
+AAA044D11.contig.3	feature	tRNA	29977	30053	.	+	.	ID=AAA044D11.genome.rna.4;Product=tRNA-Undet-%3F%3F%3F;locus_tag=AAA044D11.genome.rna.4
+AAA044D11.contig.3	feature	CDS	28546	29904	.	-	0	ID=AAA044D11.genome.CDS.1246;Product=Aminotransferase class-III;locus_tag=AAA044D11.genome.CDS.1246
+AAA044D11.contig.3	feature	CDS	27759	28436	.	-	0	ID=AAA044D11.genome.CDS.1245;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1245
+AAA044D11.contig.3	feature	CDS	27279	27752	.	+	0	ID=AAA044D11.genome.CDS.1244;Product=Acetyl-CoA:Cys-GlcN-Ins acetyltransferase%2C mycothiol synthase MshD;locus_tag=AAA044D11.genome.CDS.1244
+AAA044D11.contig.3	feature	CDS	26285	27214	.	+	0	ID=AAA044D11.genome.CDS.1243;Product=UDP-glucose 4-epimerase %28EC 5.1.3.2%29;locus_tag=AAA044D11.genome.CDS.1243
+AAA044D11.contig.3	feature	CDS	25547	26260	.	+	0	ID=AAA044D11.genome.CDS.1242;Product=Glucose-6-phosphate 1-dehydrogenase %28EC 1.1.1.49%29;locus_tag=AAA044D11.genome.CDS.1242
+AAA044D11.contig.3	feature	CDS	25112	25525	.	-	0	ID=AAA044D11.genome.CDS.1241;Product=Thiosulfate sulfurtransferase%2C rhodanese %28EC 2.8.1.1%29;locus_tag=AAA044D11.genome.CDS.1241
+AAA044D11.contig.3	feature	CDS	24458	24907	.	-	0	ID=AAA044D11.genome.CDS.1240;Product=;locus_tag=AAA044D11.genome.CDS.1240
+AAA044D11.contig.3	feature	CDS	23593	24426	.	-	0	ID=AAA044D11.genome.CDS.1239;Product=Thiosulfate sulfurtransferase%2C rhodanese %28EC 2.8.1.1%29;locus_tag=AAA044D11.genome.CDS.1239
+AAA044D11.contig.3	feature	CDS	23268	23591	.	-	0	ID=AAA044D11.genome.CDS.1238;Product=probable sseC protein;locus_tag=AAA044D11.genome.CDS.1238
+AAA044D11.contig.3	feature	CDS	22831	23244	.	-	0	ID=AAA044D11.genome.CDS.1237;Product=Transcriptional regulator%2C FUR family;locus_tag=AAA044D11.genome.CDS.1237
+AAA044D11.contig.3	feature	CDS	21918	22817	.	-	0	ID=AAA044D11.genome.CDS.70;Product=Folate-dependent protein for Fe/S cluster synthesis/repair in oxidative stress;locus_tag=AAA044D11.genome.CDS.70
+AAA044D11.contig.3	feature	CDS	21552	21929	.	+	0	ID=AAA044D11.genome.CDS.1235;Product=FIG00659510: hypothetical protein;locus_tag=AAA044D11.genome.CDS.1235
+AAA044D11.contig.3	feature	CDS	21390	21512	.	-	0	ID=AAA044D11.genome.CDS.68;Product=;locus_tag=AAA044D11.genome.CDS.68
+AAA044D11.contig.3	feature	CDS	20897	21400	.	-	0	ID=AAA044D11.genome.CDS.1234;Product=;locus_tag=AAA044D11.genome.CDS.1234
+AAA044D11.contig.3	feature	CDS	19962	20894	.	-	0	ID=AAA044D11.genome.CDS.1233;Product=Hypothetical protein of L-Asparaginase type 2-like superfamily;locus_tag=AAA044D11.genome.CDS.1233
+AAA044D11.contig.3	feature	CDS	18693	19961	.	-	0	ID=AAA044D11.genome.CDS.1232;Product=Glycosyltransferase MshA involved in mycothiol biosynthesis %28EC 2.4.1.-%29;locus_tag=AAA044D11.genome.CDS.1232
+AAA044D11.contig.3	feature	CDS	18214	18690	.	-	0	ID=AAA044D11.genome.CDS.1231;Product=Uncharacterized protein Rv0487/MT0505 clustered with mycothiol biosynthesis gene;locus_tag=AAA044D11.genome.CDS.1231
+AAA044D11.contig.3	feature	CDS	17448	18194	.	-	0	ID=AAA044D11.genome.CDS.1230;Product=Phosphoglycerate mutase %28EC 5.4.2.11%29;locus_tag=AAA044D11.genome.CDS.1230
+AAA044D11.contig.3	feature	CDS	16226	17365	.	-	0	ID=AAA044D11.genome.CDS.1229;Product=Glycosyltransferase %28EC 2.4.1.-%29;locus_tag=AAA044D11.genome.CDS.1229
+AAA044D11.contig.3	feature	CDS	15075	16229	.	-	0	ID=AAA044D11.genome.CDS.1228;Product=glycosyl transferase group 1;locus_tag=AAA044D11.genome.CDS.1228
+AAA044D11.contig.3	feature	CDS	14289	15074	.	-	0	ID=AAA044D11.genome.CDS.1227;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1227
+AAA044D11.contig.3	feature	CDS	13653	14300	.	+	0	ID=AAA044D11.genome.CDS.1226;Product=Phosphate transport system regulatory protein PhoU;locus_tag=AAA044D11.genome.CDS.1226
+AAA044D11.contig.3	feature	CDS	12389	13510	.	-	0	ID=AAA044D11.genome.CDS.1225;Product=Phosphate regulon sensor protein PhoR %28SphS%29 %28EC 2.7.13.3%29;locus_tag=AAA044D11.genome.CDS.1225
+AAA044D11.contig.3	feature	CDS	11712	12392	.	-	0	ID=AAA044D11.genome.CDS.1224;Product=Phosphate regulon transcriptional regulatory protein PhoB %28SphR%29;locus_tag=AAA044D11.genome.CDS.1224
+AAA044D11.contig.3	feature	CDS	11233	11715	.	+	0	ID=AAA044D11.genome.CDS.1223;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1223
+AAA044D11.contig.3	feature	CDS	10709	11191	.	-	0	ID=AAA044D11.genome.CDS.1222;Product=CarD-like transcriptional regulator;locus_tag=AAA044D11.genome.CDS.1222
+AAA044D11.contig.3	feature	CDS	9571	10728	.	-	0	ID=AAA044D11.genome.CDS.1221;Product=2-C-methyl-D-erythritol 2%2C4-cyclodiphosphate synthase %28EC 4.6.1.12%29;locus_tag=AAA044D11.genome.CDS.1221
+AAA044D11.contig.3	feature	CDS	8164	9561	.	-	0	ID=AAA044D11.genome.CDS.1220;Product=Cysteinyl-tRNA synthetase %28EC 6.1.1.16%29;locus_tag=AAA044D11.genome.CDS.1220
+AAA044D11.contig.3	feature	CDS	7321	8145	.	-	0	ID=AAA044D11.genome.CDS.1219;Product=23S rRNA %28guanosine%282251%29-2%27-O%29-methyltransferase %28EC 2.1.1.185%29;locus_tag=AAA044D11.genome.CDS.1219
+AAA044D11.contig.3	feature	CDS	6542	7318	.	-	0	ID=AAA044D11.genome.CDS.1218;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1218
+AAA044D11.contig.3	feature	CDS	5506	6525	.	+	0	ID=AAA044D11.genome.CDS.1217;Product=Rod shape-determining protein MreB;locus_tag=AAA044D11.genome.CDS.1217
+AAA044D11.contig.3	feature	CDS	3240	5333	.	-	0	ID=AAA044D11.genome.CDS.49;Product=Polyphosphate kinase %28EC 2.7.4.1%29;locus_tag=AAA044D11.genome.CDS.49
+AAA044D11.contig.3	feature	CDS	2341	3243	.	-	0	ID=AAA044D11.genome.CDS.1215;Product=putative MutT family protein;locus_tag=AAA044D11.genome.CDS.1215
+AAA044D11.contig.3	feature	CDS	1408	2325	.	+	0	ID=AAA044D11.genome.CDS.1214;Product=Exopolyphosphatase %28EC 3.6.1.11%29;locus_tag=AAA044D11.genome.CDS.1214
+AAA044D11.contig.3	feature	tRNA	1249	1323	.	-	.	ID=AAA044D11.genome.rna.5;Product=tRNA-Thr-TGT;locus_tag=AAA044D11.genome.rna.5
+AAA044D11.contig.3	feature	CDS	1	1206	.	-	0	ID=AAA044D11.genome.CDS.1213;Product=putative cholesterol oxidase;locus_tag=AAA044D11.genome.CDS.1213
+AAA044D11.contig.30	feature	misc_RNA	1	1622	.	+	.	ID=AAA044D11.genome.repeat.1;Product=repeat region;locus_tag=AAA044D11.genome.repeat.1
+AAA044D11.contig.30	feature	misc_RNA	8294	8620	.	+	.	ID=AAA044D11.genome.repeat.2;Product=repeat region;locus_tag=AAA044D11.genome.repeat.2
+AAA044D11.contig.30	feature	CDS	8115	8528	.	+	0	ID=AAA044D11.genome.CDS.2341;Product=;locus_tag=AAA044D11.genome.CDS.2341
+AAA044D11.contig.30	feature	misc_RNA	7811	7933	.	+	.	ID=AAA044D11.genome.rna.1;Product=5S rRNA %23%23 5S ribosomal RNA;locus_tag=AAA044D11.genome.rna.1
+AAA044D11.contig.30	feature	misc_RNA	4561	7660	.	+	.	ID=AAA044D11.genome.rna.2;Product=LSU rRNA %23%23 23S rRNA%2C large subunit ribosomal RNA;locus_tag=AAA044D11.genome.rna.2
+AAA044D11.contig.30	feature	misc_RNA	2746	4266	.	+	.	ID=AAA044D11.genome.rna.3;Product=SSU rRNA %23%23 16S rRNA%2C small subunit ribosomal RNA;locus_tag=AAA044D11.genome.rna.3
+AAA044D11.contig.30	feature	CDS	911	2185	.	+	0	ID=AAA044D11.genome.CDS.2339;Product=Tyrosyl-tRNA synthetase %28EC 6.1.1.1%29;locus_tag=AAA044D11.genome.CDS.2339
+AAA044D11.contig.30	feature	CDS	3	914	.	+	0	ID=AAA044D11.genome.CDS.2338;Product=Argininosuccinate lyase %28EC 4.3.2.1%29;locus_tag=AAA044D11.genome.CDS.2338
+AAA044D11.contig.4	feature	misc_RNA	1917	2192	.	+	.	ID=AAA044D11.genome.repeat.13;Product=repeat region;locus_tag=AAA044D11.genome.repeat.13
+AAA044D11.contig.4	feature	CDS	1371	2192	.	-	0	ID=AAA044D11.genome.CDS.1252;Product=NADH dehydrogenase %28EC 1.6.99.3%29;locus_tag=AAA044D11.genome.CDS.1252
+AAA044D11.contig.4	feature	CDS	549	1367	.	-	0	ID=AAA044D11.genome.CDS.1251;Product=;locus_tag=AAA044D11.genome.CDS.1251
+AAA044D11.contig.4	feature	CDS	3	563	.	+	0	ID=AAA044D11.genome.CDS.1250;Product=;locus_tag=AAA044D11.genome.CDS.1250
+AAA044D11.contig.5	feature	misc_RNA	29033	29359	.	+	.	ID=AAA044D11.genome.repeat.12;Product=repeat region;locus_tag=AAA044D11.genome.repeat.12
+AAA044D11.contig.5	feature	CDS	29125	29358	.	-	0	ID=AAA044D11.genome.CDS.1284;Product=;locus_tag=AAA044D11.genome.CDS.1284
+AAA044D11.contig.5	feature	CDS	28767	29111	.	-	0	ID=AAA044D11.genome.CDS.1283;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1283
+AAA044D11.contig.5	feature	CDS	28606	28758	.	-	0	ID=AAA044D11.genome.CDS.1282;Product=;locus_tag=AAA044D11.genome.CDS.1282
+AAA044D11.contig.5	feature	CDS	27809	28597	.	-	0	ID=AAA044D11.genome.CDS.1281;Product=RNA binding methyltransferase FtsJ like;locus_tag=AAA044D11.genome.CDS.1281
+AAA044D11.contig.5	feature	CDS	26961	27812	.	-	0	ID=AAA044D11.genome.CDS.1280;Product=NAD kinase %28EC 2.7.1.23%29;locus_tag=AAA044D11.genome.CDS.1280
+AAA044D11.contig.5	feature	CDS	25188	26930	.	-	0	ID=AAA044D11.genome.CDS.1279;Product=DNA repair protein RecN;locus_tag=AAA044D11.genome.CDS.1279
+AAA044D11.contig.5	feature	CDS	23544	25181	.	-	0	ID=AAA044D11.genome.CDS.1278;Product=CTP synthase %28EC 6.3.4.2%29;locus_tag=AAA044D11.genome.CDS.1278
+AAA044D11.contig.5	feature	CDS	22631	23554	.	-	0	ID=AAA044D11.genome.CDS.1277;Product=Site-specific tyrosine recombinase XerD;locus_tag=AAA044D11.genome.CDS.1277
+AAA044D11.contig.5	feature	CDS	22220	22612	.	+	0	ID=AAA044D11.genome.CDS.1276;Product=FIG059443: hypothetical protein;locus_tag=AAA044D11.genome.CDS.1276
+AAA044D11.contig.5	feature	CDS	21303	22223	.	+	0	ID=AAA044D11.genome.CDS.1275;Product=Chromosome %28plasmid%29 partitioning protein ParA;locus_tag=AAA044D11.genome.CDS.1275
+AAA044D11.contig.5	feature	CDS	20347	21243	.	-	0	ID=AAA044D11.genome.CDS.1274;Product=Segregation and condensation protein A;locus_tag=AAA044D11.genome.CDS.1274
+AAA044D11.contig.5	feature	CDS	19797	20354	.	-	0	ID=AAA044D11.genome.CDS.1273;Product=Segregation and condensation protein B;locus_tag=AAA044D11.genome.CDS.1273
+AAA044D11.contig.5	feature	CDS	18939	19673	.	-	0	ID=AAA044D11.genome.CDS.1272;Product=Ribosomal large subunit pseudouridine synthase B %28EC 4.2.1.70%29;locus_tag=AAA044D11.genome.CDS.1272
+AAA044D11.contig.5	feature	CDS	18282	18692	.	-	0	ID=AAA044D11.genome.CDS.1271;Product=Chorismate mutase II %28EC 5.4.99.5%29;locus_tag=AAA044D11.genome.CDS.1271
+AAA044D11.contig.5	feature	CDS	17215	18285	.	-	0	ID=AAA044D11.genome.CDS.1270;Product=Arogenate dehydrogenase %28EC 1.3.1.43%29;locus_tag=AAA044D11.genome.CDS.1270
+AAA044D11.contig.5	feature	CDS	15200	17164	.	-	0	ID=AAA044D11.genome.CDS.1269;Product=GTP-binding protein EngA;locus_tag=AAA044D11.genome.CDS.1269
+AAA044D11.contig.5	feature	CDS	14626	15198	.	-	0	ID=AAA044D11.genome.CDS.1268;Product=CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase %28EC 2.7.8.5%29;locus_tag=AAA044D11.genome.CDS.1268
+AAA044D11.contig.5	feature	CDS	14219	14599	.	-	0	ID=AAA044D11.genome.CDS.1267;Product=Glycine cleavage system H protein;locus_tag=AAA044D11.genome.CDS.1267
+AAA044D11.contig.5	feature	CDS	13643	14140	.	-	0	ID=AAA044D11.genome.CDS.1266;Product=FIG00672531: hypothetical protein;locus_tag=AAA044D11.genome.CDS.1266
+AAA044D11.contig.5	feature	CDS	12920	13633	.	-	0	ID=AAA044D11.genome.CDS.1265;Product=transcriptional regulator%2C MerR family;locus_tag=AAA044D11.genome.CDS.1265
+AAA044D11.contig.5	feature	CDS	12443	12916	.	-	0	ID=AAA044D11.genome.CDS.1264;Product=FIG01121484: hypothetical protein;locus_tag=AAA044D11.genome.CDS.1264
+AAA044D11.contig.5	feature	CDS	11797	12330	.	-	0	ID=AAA044D11.genome.CDS.1263;Product=transcriptional regulator%2C MerR family;locus_tag=AAA044D11.genome.CDS.1263
+AAA044D11.contig.5	feature	CDS	8873	11737	.	-	0	ID=AAA044D11.genome.CDS.1262;Product=Glycine dehydrogenase %5Bdecarboxylating%5D %28glycine cleavage system P protein%29 %28EC 1.4.4.2%29;locus_tag=AAA044D11.genome.CDS.1262
+AAA044D11.contig.5	feature	CDS	8099	8839	.	+	0	ID=AAA044D11.genome.CDS.1261;Product=;locus_tag=AAA044D11.genome.CDS.1261
+AAA044D11.contig.5	feature	CDS	7194	8093	.	+	0	ID=AAA044D11.genome.CDS.1260;Product=DNA polymerase I %28EC 2.7.7.7%29;locus_tag=AAA044D11.genome.CDS.1260
+AAA044D11.contig.5	feature	CDS	4819	7197	.	+	0	ID=AAA044D11.genome.CDS.1259;Product=FIG005666: putative helicase;locus_tag=AAA044D11.genome.CDS.1259
+AAA044D11.contig.5	feature	CDS	4029	4778	.	+	0	ID=AAA044D11.genome.CDS.1258;Product=Twin-arginine translocation protein TatC;locus_tag=AAA044D11.genome.CDS.1258
+AAA044D11.contig.5	feature	CDS	3813	3998	.	+	0	ID=AAA044D11.genome.CDS.1257;Product=Twin-arginine translocation protein TatA;locus_tag=AAA044D11.genome.CDS.1257
+AAA044D11.contig.5	feature	CDS	2766	3680	.	+	0	ID=AAA044D11.genome.CDS.1256;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1256
+AAA044D11.contig.5	feature	CDS	1834	2769	.	+	0	ID=AAA044D11.genome.CDS.1255;Product=FIG005453: Putative DeoR-family transcriptional regulator;locus_tag=AAA044D11.genome.CDS.1255
+AAA044D11.contig.5	feature	CDS	1205	1753	.	-	0	ID=AAA044D11.genome.CDS.1254;Product=;locus_tag=AAA044D11.genome.CDS.1254
+AAA044D11.contig.5	feature	CDS	352	1200	.	+	0	ID=AAA044D11.genome.CDS.1253;Product=tRNA %28adenine%2858%29-N%281%29%29-methyltransferase %28EC 2.1.1.220%29;locus_tag=AAA044D11.genome.CDS.1253
+AAA044D11.contig.6	feature	CDS	168987	170024	.	+	0	ID=AAA044D11.genome.CDS.1466;Product=Kinase-Associated Endopeptidase %28Kae1%29%2C required for threonylcarbamoyladenosine t%286%29A37 formation in tRNA;locus_tag=AAA044D11.genome.CDS.1466
+AAA044D11.contig.6	feature	CDS	167995	168990	.	+	0	ID=AAA044D11.genome.CDS.1465;Product=TsaB protein%2C required for threonylcarbamoyladenosine %28t%286%29A%29 formation in tRNA;locus_tag=AAA044D11.genome.CDS.1465
+AAA044D11.contig.6	feature	CDS	167549	167998	.	+	0	ID=AAA044D11.genome.CDS.1464;Product=TsaE protein%2C required for threonylcarbamoyladenosine t%286%29A37 formation in tRNA;locus_tag=AAA044D11.genome.CDS.1464
+AAA044D11.contig.6	feature	CDS	165819	167468	.	+	0	ID=AAA044D11.genome.CDS.1463;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1463
+AAA044D11.contig.6	feature	CDS	164471	165811	.	+	0	ID=AAA044D11.genome.CDS.1462;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1462
+AAA044D11.contig.6	feature	CDS	163271	164287	.	+	0	ID=AAA044D11.genome.CDS.1461;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1461
+AAA044D11.contig.6	feature	CDS	162367	163278	.	+	0	ID=AAA044D11.genome.CDS.1460;Product=High-affinity branched-chain amino acid transport system permease protein LivH %28TC 3.A.1.4.1%29;locus_tag=AAA044D11.genome.CDS.1460
+AAA044D11.contig.6	feature	CDS	161653	162366	.	+	0	ID=AAA044D11.genome.CDS.1459;Product=Branched-chain amino acid transport ATP-binding protein LivF %28TC 3.A.1.4.1%29;locus_tag=AAA044D11.genome.CDS.1459
+AAA044D11.contig.6	feature	CDS	160865	161653	.	+	0	ID=AAA044D11.genome.CDS.1458;Product=Branched-chain amino acid transport ATP-binding protein LivG %28TC 3.A.1.4.1%29;locus_tag=AAA044D11.genome.CDS.1458
+AAA044D11.contig.6	feature	CDS	159774	160868	.	+	0	ID=AAA044D11.genome.CDS.1457;Product=Alanine racemase %28EC 5.1.1.1%29;locus_tag=AAA044D11.genome.CDS.1457
+AAA044D11.contig.6	feature	CDS	159424	159774	.	+	0	ID=AAA044D11.genome.CDS.1456;Product=Holo-%5Bacyl-carrier protein%5D synthase %28EC 2.7.8.7%29;locus_tag=AAA044D11.genome.CDS.1456
+AAA044D11.contig.6	feature	CDS	158753	159424	.	+	0	ID=AAA044D11.genome.CDS.1455;Product=;locus_tag=AAA044D11.genome.CDS.1455
+AAA044D11.contig.6	feature	CDS	156931	158751	.	+	0	ID=AAA044D11.genome.CDS.1454;Product=Glucosamine--fructose-6-phosphate aminotransferase %5Bisomerizing%5D %28EC 2.6.1.16%29;locus_tag=AAA044D11.genome.CDS.1454
+AAA044D11.contig.6	feature	CDS	155570	156892	.	+	0	ID=AAA044D11.genome.CDS.1453;Product=Phosphoglucosamine mutase %28EC 5.4.2.10%29;locus_tag=AAA044D11.genome.CDS.1453
+AAA044D11.contig.6	feature	CDS	155065	155553	.	+	0	ID=AAA044D11.genome.CDS.1452;Product=SSU ribosomal protein S9p %28S16e%29;locus_tag=AAA044D11.genome.CDS.1452
+AAA044D11.contig.6	feature	CDS	154594	155046	.	+	0	ID=AAA044D11.genome.CDS.1451;Product=LSU ribosomal protein L13p %28L13Ae%29;locus_tag=AAA044D11.genome.CDS.1451
+AAA044D11.contig.6	feature	CDS	153650	154423	.	+	0	ID=AAA044D11.genome.CDS.1450;Product=tRNA pseudouridine synthase A %28EC 4.2.1.70%29;locus_tag=AAA044D11.genome.CDS.1450
+AAA044D11.contig.6	feature	CDS	153284	153637	.	+	0	ID=AAA044D11.genome.CDS.1449;Product=LSU ribosomal protein L17p;locus_tag=AAA044D11.genome.CDS.1449
+AAA044D11.contig.6	feature	CDS	152262	153269	.	+	0	ID=AAA044D11.genome.CDS.1448;Product=DNA-directed RNA polymerase alpha subunit %28EC 2.7.7.6%29;locus_tag=AAA044D11.genome.CDS.1448
+AAA044D11.contig.6	feature	CDS	151549	152175	.	+	0	ID=AAA044D11.genome.CDS.1447;Product=SSU ribosomal protein S4p %28S9e%29 %40 SSU ribosomal protein S4p %28S9e%29%2C zinc-dependent;locus_tag=AAA044D11.genome.CDS.1447
+AAA044D11.contig.6	feature	CDS	151113	151532	.	+	0	ID=AAA044D11.genome.CDS.1446;Product=SSU ribosomal protein S11p %28S14e%29;locus_tag=AAA044D11.genome.CDS.1446
+AAA044D11.contig.6	feature	CDS	150736	151113	.	+	0	ID=AAA044D11.genome.CDS.1445;Product=SSU ribosomal protein S13p %28S18e%29;locus_tag=AAA044D11.genome.CDS.1445
+AAA044D11.contig.6	feature	CDS	150490	150603	.	+	0	ID=AAA044D11.genome.CDS.281;Product=LSU ribosomal protein L36p %40 LSU ribosomal protein L36p%2C zinc-dependent;locus_tag=AAA044D11.genome.CDS.281
+AAA044D11.contig.6	feature	CDS	150257	150478	.	+	0	ID=AAA044D11.genome.CDS.1444;Product=Translation initiation factor 1;locus_tag=AAA044D11.genome.CDS.1444
+AAA044D11.contig.6	feature	CDS	149332	150144	.	+	0	ID=AAA044D11.genome.CDS.1443;Product=Methionine aminopeptidase %28EC 3.4.11.18%29;locus_tag=AAA044D11.genome.CDS.1443
+AAA044D11.contig.6	feature	CDS	148685	149326	.	+	0	ID=AAA044D11.genome.CDS.1442;Product=Adenylate kinase %28EC 2.7.4.3%29;locus_tag=AAA044D11.genome.CDS.1442
+AAA044D11.contig.6	feature	CDS	147390	148685	.	+	0	ID=AAA044D11.genome.CDS.1441;Product=Preprotein translocase secY subunit %28TC 3.A.5.1.1%29;locus_tag=AAA044D11.genome.CDS.1441
+AAA044D11.contig.6	feature	CDS	146905	147345	.	+	0	ID=AAA044D11.genome.CDS.1440;Product=LSU ribosomal protein L15p %28L27Ae%29;locus_tag=AAA044D11.genome.CDS.1440
+AAA044D11.contig.6	feature	CDS	146720	146902	.	+	0	ID=AAA044D11.genome.CDS.1439;Product=LSU ribosomal protein L30p %28L7e%29;locus_tag=AAA044D11.genome.CDS.1439
+AAA044D11.contig.6	feature	CDS	146088	146720	.	+	0	ID=AAA044D11.genome.CDS.1438;Product=SSU ribosomal protein S5p %28S2e%29;locus_tag=AAA044D11.genome.CDS.1438
+AAA044D11.contig.6	feature	CDS	145708	146088	.	+	0	ID=AAA044D11.genome.CDS.1437;Product=LSU ribosomal protein L18p %28L5e%29;locus_tag=AAA044D11.genome.CDS.1437
+AAA044D11.contig.6	feature	CDS	145169	145708	.	+	0	ID=AAA044D11.genome.CDS.1436;Product=LSU ribosomal protein L6p %28L9e%29;locus_tag=AAA044D11.genome.CDS.1436
+AAA044D11.contig.6	feature	CDS	144759	145163	.	+	0	ID=AAA044D11.genome.CDS.1435;Product=SSU ribosomal protein S8p %28S15Ae%29;locus_tag=AAA044D11.genome.CDS.1435
+AAA044D11.contig.6	feature	CDS	144474	144659	.	+	0	ID=AAA044D11.genome.CDS.1434;Product=SSU ribosomal protein S14p %28S29e%29 %40 SSU ribosomal protein S14p %28S29e%29%2C zinc-dependent;locus_tag=AAA044D11.genome.CDS.1434
+AAA044D11.contig.6	feature	CDS	143904	144461	.	+	0	ID=AAA044D11.genome.CDS.1433;Product=LSU ribosomal protein L5p %28L11e%29;locus_tag=AAA044D11.genome.CDS.1433
+AAA044D11.contig.6	feature	CDS	143578	143904	.	+	0	ID=AAA044D11.genome.CDS.1432;Product=LSU ribosomal protein L24p %28L26e%29;locus_tag=AAA044D11.genome.CDS.1432
+AAA044D11.contig.6	feature	CDS	143205	143573	.	+	0	ID=AAA044D11.genome.CDS.1431;Product=LSU ribosomal protein L14p %28L23e%29;locus_tag=AAA044D11.genome.CDS.1431
+AAA044D11.contig.6	feature	CDS	142906	143190	.	+	0	ID=AAA044D11.genome.CDS.1430;Product=SSU ribosomal protein S17p %28S11e%29;locus_tag=AAA044D11.genome.CDS.1430
+AAA044D11.contig.6	feature	CDS	142691	142909	.	+	0	ID=AAA044D11.genome.CDS.1429;Product=LSU ribosomal protein L29p %28L35e%29;locus_tag=AAA044D11.genome.CDS.1429
+AAA044D11.contig.6	feature	CDS	142278	142691	.	+	0	ID=AAA044D11.genome.CDS.1428;Product=LSU ribosomal protein L16p %28L10e%29;locus_tag=AAA044D11.genome.CDS.1428
+AAA044D11.contig.6	feature	CDS	141480	142277	.	+	0	ID=AAA044D11.genome.CDS.1427;Product=SSU ribosomal protein S3p %28S3e%29;locus_tag=AAA044D11.genome.CDS.1427
+AAA044D11.contig.6	feature	CDS	140916	141479	.	+	0	ID=AAA044D11.genome.CDS.1426;Product=LSU ribosomal protein L22p %28L17e%29;locus_tag=AAA044D11.genome.CDS.1426
+AAA044D11.contig.6	feature	CDS	140642	140923	.	+	0	ID=AAA044D11.genome.CDS.1425;Product=SSU ribosomal protein S19p %28S15e%29;locus_tag=AAA044D11.genome.CDS.1425
+AAA044D11.contig.6	feature	CDS	139796	140629	.	+	0	ID=AAA044D11.genome.CDS.1424;Product=LSU ribosomal protein L2p %28L8e%29;locus_tag=AAA044D11.genome.CDS.1424
+AAA044D11.contig.6	feature	CDS	139465	139758	.	+	0	ID=AAA044D11.genome.CDS.1423;Product=LSU ribosomal protein L23p %28L23Ae%29;locus_tag=AAA044D11.genome.CDS.1423
+AAA044D11.contig.6	feature	CDS	138797	139468	.	+	0	ID=AAA044D11.genome.CDS.1422;Product=LSU ribosomal protein L4p %28L1e%29;locus_tag=AAA044D11.genome.CDS.1422
+AAA044D11.contig.6	feature	CDS	138100	138792	.	+	0	ID=AAA044D11.genome.CDS.1421;Product=LSU ribosomal protein L3p %28L3e%29;locus_tag=AAA044D11.genome.CDS.1421
+AAA044D11.contig.6	feature	CDS	137778	138086	.	+	0	ID=AAA044D11.genome.CDS.1420;Product=SSU ribosomal protein S10p %28S20e%29;locus_tag=AAA044D11.genome.CDS.1420
+AAA044D11.contig.6	feature	CDS	136487	137680	.	+	0	ID=AAA044D11.genome.CDS.1419;Product=Translation elongation factor Tu;locus_tag=AAA044D11.genome.CDS.1419
+AAA044D11.contig.6	feature	CDS	134309	136411	.	+	0	ID=AAA044D11.genome.CDS.1418;Product=Translation elongation factor G;locus_tag=AAA044D11.genome.CDS.1418
+AAA044D11.contig.6	feature	CDS	133781	134254	.	+	0	ID=AAA044D11.genome.CDS.1417;Product=SSU ribosomal protein S7p %28S5e%29;locus_tag=AAA044D11.genome.CDS.1417
+AAA044D11.contig.6	feature	CDS	133407	133781	.	+	0	ID=AAA044D11.genome.CDS.1416;Product=SSU ribosomal protein S12p %28S23e%29;locus_tag=AAA044D11.genome.CDS.1416
+AAA044D11.contig.6	feature	CDS	132454	133113	.	-	0	ID=AAA044D11.genome.CDS.1415;Product=FIG01964566: Predicted membrane protein%2C hemolysin III homolog;locus_tag=AAA044D11.genome.CDS.1415
+AAA044D11.contig.6	feature	CDS	131680	132453	.	-	0	ID=AAA044D11.genome.CDS.1414;Product=;locus_tag=AAA044D11.genome.CDS.1414
+AAA044D11.contig.6	feature	CDS	130429	131679	.	+	0	ID=AAA044D11.genome.CDS.1413;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1413
+AAA044D11.contig.6	feature	CDS	126596	130411	.	+	0	ID=AAA044D11.genome.CDS.1412;Product=DNA-directed RNA polymerase beta%27 subunit %28EC 2.7.7.6%29;locus_tag=AAA044D11.genome.CDS.1412
+AAA044D11.contig.6	feature	CDS	123128	126580	.	+	0	ID=AAA044D11.genome.CDS.1411;Product=DNA-directed RNA polymerase beta subunit %28EC 2.7.7.6%29;locus_tag=AAA044D11.genome.CDS.1411
+AAA044D11.contig.6	feature	CDS	122540	122926	.	+	0	ID=AAA044D11.genome.CDS.1410;Product=LSU ribosomal protein L7/L12 %28P1/P2%29;locus_tag=AAA044D11.genome.CDS.1410
+AAA044D11.contig.6	feature	CDS	121798	122502	.	+	0	ID=AAA044D11.genome.CDS.1409;Product=LSU ribosomal protein L10p %28P0%29;locus_tag=AAA044D11.genome.CDS.1409
+AAA044D11.contig.6	feature	CDS	120841	121554	.	+	0	ID=AAA044D11.genome.CDS.1408;Product=LSU ribosomal protein L1p %28L10Ae%29;locus_tag=AAA044D11.genome.CDS.1408
+AAA044D11.contig.6	feature	CDS	120319	120747	.	+	0	ID=AAA044D11.genome.CDS.1407;Product=LSU ribosomal protein L11p %28L12e%29;locus_tag=AAA044D11.genome.CDS.1407
+AAA044D11.contig.6	feature	CDS	119532	120284	.	+	0	ID=AAA044D11.genome.CDS.1406;Product=Transcription antitermination protein NusG;locus_tag=AAA044D11.genome.CDS.1406
+AAA044D11.contig.6	feature	CDS	119277	119519	.	+	0	ID=AAA044D11.genome.CDS.1405;Product=Preprotein translocase subunit SecE %28TC 3.A.5.1.1%29;locus_tag=AAA044D11.genome.CDS.1405
+AAA044D11.contig.6	feature	tRNA	119139	119215	.	+	.	ID=AAA044D11.genome.rna.9;Product=tRNA-Trp-CCA;locus_tag=AAA044D11.genome.rna.9
+AAA044D11.contig.6	feature	CDS	117811	119064	.	-	0	ID=AAA044D11.genome.CDS.1404;Product=Aspartate aminotransferase %28EC 2.6.1.1%29;locus_tag=AAA044D11.genome.CDS.1404
+AAA044D11.contig.6	feature	CDS	116789	117808	.	+	0	ID=AAA044D11.genome.CDS.1403;Product=UDP-N-acetylenolpyruvoylglucosamine reductase %28EC 1.3.1.98%29;locus_tag=AAA044D11.genome.CDS.1403
+AAA044D11.contig.6	feature	CDS	116027	116779	.	+	0	ID=AAA044D11.genome.CDS.1402;Product=;locus_tag=AAA044D11.genome.CDS.1402
+AAA044D11.contig.6	feature	CDS	115629	116027	.	+	0	ID=AAA044D11.genome.CDS.1401;Product=MaoC family protein;locus_tag=AAA044D11.genome.CDS.1401
+AAA044D11.contig.6	feature	CDS	115249	115632	.	+	0	ID=AAA044D11.genome.CDS.1400;Product=;locus_tag=AAA044D11.genome.CDS.1400
+AAA044D11.contig.6	feature	CDS	115074	115244	.	+	0	ID=AAA044D11.genome.CDS.1399;Product=LSU ribosomal protein L33p %40 LSU ribosomal protein L33p%2C zinc-dependent;locus_tag=AAA044D11.genome.CDS.1399
+AAA044D11.contig.6	feature	tRNA	114912	114985	.	+	.	ID=AAA044D11.genome.rna.8;Product=tRNA-Met-CAT;locus_tag=AAA044D11.genome.rna.8
+AAA044D11.contig.6	feature	tRNA	114791	114866	.	+	.	ID=AAA044D11.genome.rna.7;Product=tRNA-Thr-GGT;locus_tag=AAA044D11.genome.rna.7
+AAA044D11.contig.6	feature	CDS	113508	114725	.	+	0	ID=AAA044D11.genome.CDS.1398;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1398
+AAA044D11.contig.6	feature	CDS	113028	113456	.	-	0	ID=AAA044D11.genome.CDS.1397;Product=Peptide methionine sulfoxide reductase MsrB %28EC 1.8.4.12%29;locus_tag=AAA044D11.genome.CDS.1397
+AAA044D11.contig.6	feature	CDS	112288	113025	.	+	0	ID=AAA044D11.genome.CDS.1396;Product=2-keto-3-deoxy-L-fuconate dehydrogenase;locus_tag=AAA044D11.genome.CDS.1396
+AAA044D11.contig.6	feature	CDS	110993	112291	.	+	0	ID=AAA044D11.genome.CDS.1395;Product=L-fuconate dehydratase %28EC 4.2.1.68%29;locus_tag=AAA044D11.genome.CDS.1395
+AAA044D11.contig.6	feature	CDS	109948	110925	.	-	0	ID=AAA044D11.genome.CDS.1394;Product=L-fuco-beta-pyranose dehydrogenase %28EC 1.1.1.122%29;locus_tag=AAA044D11.genome.CDS.1394
+AAA044D11.contig.6	feature	CDS	109106	109951	.	-	0	ID=AAA044D11.genome.CDS.1393;Product=Fumarylacetoacetate hydrolase family protein;locus_tag=AAA044D11.genome.CDS.1393
+AAA044D11.contig.6	feature	CDS	108200	109102	.	-	0	ID=AAA044D11.genome.CDS.1392;Product=D-3-phosphoglycerate dehydrogenase %28EC 1.1.1.95%29;locus_tag=AAA044D11.genome.CDS.1392
+AAA044D11.contig.6	feature	CDS	107345	108187	.	-	0	ID=AAA044D11.genome.CDS.1391;Product=L-fuconolactone hydrolase;locus_tag=AAA044D11.genome.CDS.1391
+AAA044D11.contig.6	feature	CDS	106218	107210	.	-	0	ID=AAA044D11.genome.CDS.1390;Product=Possible fucose ABC transporter%2C substrate-binding component;locus_tag=AAA044D11.genome.CDS.1390
+AAA044D11.contig.6	feature	CDS	104591	106096	.	-	0	ID=AAA044D11.genome.CDS.1389;Product=Ribose ABC transport system%2C ATP-binding protein RbsA %28TC 3.A.1.2.1%29;locus_tag=AAA044D11.genome.CDS.1389
+AAA044D11.contig.6	feature	CDS	103538	104554	.	-	0	ID=AAA044D11.genome.CDS.1388;Product=Ribose ABC transport system%2C permease protein RbsC %28TC 3.A.1.2.1%29;locus_tag=AAA044D11.genome.CDS.1388
+AAA044D11.contig.6	feature	CDS	102972	103457	.	-	0	ID=AAA044D11.genome.CDS.1387;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1387
+AAA044D11.contig.6	feature	CDS	101934	102827	.	-	0	ID=AAA044D11.genome.CDS.1386;Product=High-affinity branched-chain amino acid transport system permease protein LivH %28TC 3.A.1.4.1%29;locus_tag=AAA044D11.genome.CDS.1386
+AAA044D11.contig.6	feature	CDS	100951	101931	.	-	0	ID=AAA044D11.genome.CDS.1385;Product=Branched-chain amino acid transport system permease protein LivM %28TC 3.A.1.4.1%29;locus_tag=AAA044D11.genome.CDS.1385
+AAA044D11.contig.6	feature	CDS	100154	100948	.	-	0	ID=AAA044D11.genome.CDS.1384;Product=Branched-chain amino acid transport ATP-binding protein LivG %28TC 3.A.1.4.1%29;locus_tag=AAA044D11.genome.CDS.1384
+AAA044D11.contig.6	feature	CDS	99410	100153	.	-	0	ID=AAA044D11.genome.CDS.1383;Product=Branched-chain amino acid transport ATP-binding protein LivF %28TC 3.A.1.4.1%29;locus_tag=AAA044D11.genome.CDS.1383
+AAA044D11.contig.6	feature	CDS	97992	99239	.	-	0	ID=AAA044D11.genome.CDS.1382;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1382
+AAA044D11.contig.6	feature	CDS	96820	97905	.	+	0	ID=AAA044D11.genome.CDS.1381;Product=;locus_tag=AAA044D11.genome.CDS.1381
+AAA044D11.contig.6	feature	CDS	95892	96665	.	-	0	ID=AAA044D11.genome.CDS.1380;Product=;locus_tag=AAA044D11.genome.CDS.1380
+AAA044D11.contig.6	feature	CDS	95146	95880	.	+	0	ID=AAA044D11.genome.CDS.1379;Product=3-oxoacyl-%5Bacyl-carrier protein%5D reductase %28EC 1.1.1.100%29;locus_tag=AAA044D11.genome.CDS.1379
+AAA044D11.contig.6	feature	CDS	94327	95052	.	-	0	ID=AAA044D11.genome.CDS.1378;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1378
+AAA044D11.contig.6	feature	CDS	93221	94291	.	-	0	ID=AAA044D11.genome.CDS.1377;Product=N-acylamino acid racemase;locus_tag=AAA044D11.genome.CDS.1377
+AAA044D11.contig.6	feature	CDS	91921	93204	.	+	0	ID=AAA044D11.genome.CDS.1376;Product=Oxidoreductase%2C FAD-binding;locus_tag=AAA044D11.genome.CDS.1376
+AAA044D11.contig.6	feature	CDS	90518	91645	.	-	0	ID=AAA044D11.genome.CDS.1375;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1375
+AAA044D11.contig.6	feature	CDS	89802	90389	.	-	0	ID=AAA044D11.genome.CDS.1374;Product=;locus_tag=AAA044D11.genome.CDS.1374
+AAA044D11.contig.6	feature	CDS	88411	89541	.	-	0	ID=AAA044D11.genome.CDS.1373;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1373
+AAA044D11.contig.6	feature	CDS	87613	88410	.	-	0	ID=AAA044D11.genome.CDS.1372;Product=;locus_tag=AAA044D11.genome.CDS.1372
+AAA044D11.contig.6	feature	CDS	85544	87571	.	+	0	ID=AAA044D11.genome.CDS.1371;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1371
+AAA044D11.contig.6	feature	CDS	85400	85528	.	+	0	ID=AAA044D11.genome.CDS.207;Product=;locus_tag=AAA044D11.genome.CDS.207
+AAA044D11.contig.6	feature	CDS	85132	85260	.	+	0	ID=AAA044D11.genome.CDS.206;Product=;locus_tag=AAA044D11.genome.CDS.206
+AAA044D11.contig.6	feature	CDS	84822	85025	.	-	0	ID=AAA044D11.genome.CDS.1369;Product=;locus_tag=AAA044D11.genome.CDS.1369
+AAA044D11.contig.6	feature	CDS	83209	84444	.	+	0	ID=AAA044D11.genome.CDS.1368;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1368
+AAA044D11.contig.6	feature	CDS	82578	83039	.	+	0	ID=AAA044D11.genome.CDS.1367;Product=;locus_tag=AAA044D11.genome.CDS.1367
+AAA044D11.contig.6	feature	CDS	80718	82100	.	+	0	ID=AAA044D11.genome.CDS.202;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.202
+AAA044D11.contig.6	feature	tRNA	80366	80450	.	+	.	ID=AAA044D11.genome.rna.6;Product=tRNA-Tyr-GTA;locus_tag=AAA044D11.genome.rna.6
+AAA044D11.contig.6	feature	CDS	79097	80317	.	+	0	ID=AAA044D11.genome.CDS.1365;Product=L-lactate dehydrogenase %28EC 1.1.2.3%29;locus_tag=AAA044D11.genome.CDS.1365
+AAA044D11.contig.6	feature	CDS	78528	79076	.	-	0	ID=AAA044D11.genome.CDS.1364;Product=FIG001943: hypothetical protein YajQ;locus_tag=AAA044D11.genome.CDS.1364
+AAA044D11.contig.6	feature	CDS	77625	78524	.	-	0	ID=AAA044D11.genome.CDS.1363;Product=Protein rarD;locus_tag=AAA044D11.genome.CDS.1363
+AAA044D11.contig.6	feature	CDS	76677	77666	.	+	0	ID=AAA044D11.genome.CDS.1362;Product=Solanesyl diphosphate synthase %28EC 2.5.1.11%29;locus_tag=AAA044D11.genome.CDS.1362
+AAA044D11.contig.6	feature	CDS	75163	76677	.	+	0	ID=AAA044D11.genome.CDS.1361;Product=NADH-ubiquinone oxidoreductase chain N %28EC 1.6.5.3%29;locus_tag=AAA044D11.genome.CDS.1361
+AAA044D11.contig.6	feature	CDS	73657	75162	.	+	0	ID=AAA044D11.genome.CDS.1360;Product=NADH-ubiquinone oxidoreductase chain M %28EC 1.6.5.3%29;locus_tag=AAA044D11.genome.CDS.1360
+AAA044D11.contig.6	feature	CDS	71771	73660	.	+	0	ID=AAA044D11.genome.CDS.1359;Product=NADH-ubiquinone oxidoreductase chain L %28EC 1.6.5.3%29;locus_tag=AAA044D11.genome.CDS.1359
+AAA044D11.contig.6	feature	CDS	71472	71771	.	+	0	ID=AAA044D11.genome.CDS.1358;Product=NADH-ubiquinone oxidoreductase chain K %28EC 1.6.5.3%29;locus_tag=AAA044D11.genome.CDS.1358
+AAA044D11.contig.6	feature	CDS	70689	71471	.	+	0	ID=AAA044D11.genome.CDS.1357;Product=NADH-ubiquinone oxidoreductase chain J %28EC 1.6.5.3%29;locus_tag=AAA044D11.genome.CDS.1357
+AAA044D11.contig.6	feature	CDS	70094	70696	.	+	0	ID=AAA044D11.genome.CDS.1356;Product=NADH-ubiquinone oxidoreductase chain I %28EC 1.6.5.3%29;locus_tag=AAA044D11.genome.CDS.1356
+AAA044D11.contig.6	feature	CDS	68866	70101	.	+	0	ID=AAA044D11.genome.CDS.1355;Product=NADH-ubiquinone oxidoreductase chain H %28EC 1.6.5.3%29;locus_tag=AAA044D11.genome.CDS.1355
+AAA044D11.contig.6	feature	CDS	66530	68869	.	+	0	ID=AAA044D11.genome.CDS.1354;Product=NADH-ubiquinone oxidoreductase chain G %28EC 1.6.5.3%29;locus_tag=AAA044D11.genome.CDS.1354
+AAA044D11.contig.6	feature	CDS	65228	66529	.	+	0	ID=AAA044D11.genome.CDS.1353;Product=NADH-ubiquinone oxidoreductase chain F %28EC 1.6.5.3%29;locus_tag=AAA044D11.genome.CDS.1353
+AAA044D11.contig.6	feature	CDS	64601	65227	.	+	0	ID=AAA044D11.genome.CDS.1352;Product=NADH-ubiquinone oxidoreductase chain E %28EC 1.6.5.3%29;locus_tag=AAA044D11.genome.CDS.1352
+AAA044D11.contig.6	feature	CDS	63264	64601	.	+	0	ID=AAA044D11.genome.CDS.1351;Product=NADH-ubiquinone oxidoreductase chain D %28EC 1.6.5.3%29;locus_tag=AAA044D11.genome.CDS.1351
+AAA044D11.contig.6	feature	CDS	62629	63267	.	+	0	ID=AAA044D11.genome.CDS.1350;Product=NADH-ubiquinone oxidoreductase chain C %28EC 1.6.5.3%29;locus_tag=AAA044D11.genome.CDS.1350
+AAA044D11.contig.6	feature	CDS	62078	62632	.	+	0	ID=AAA044D11.genome.CDS.1349;Product=NADH-ubiquinone oxidoreductase chain B %28EC 1.6.5.3%29;locus_tag=AAA044D11.genome.CDS.1349
+AAA044D11.contig.6	feature	CDS	61714	62073	.	+	0	ID=AAA044D11.genome.CDS.1348;Product=NADH ubiquinone oxidoreductase chain A %28EC 1.6.5.3%29;locus_tag=AAA044D11.genome.CDS.1348
+AAA044D11.contig.6	feature	CDS	60904	61629	.	+	0	ID=AAA044D11.genome.CDS.1347;Product=Demethylmenaquinone methyltransferase %28EC 2.1.1.163%29;locus_tag=AAA044D11.genome.CDS.1347
+AAA044D11.contig.6	feature	CDS	60290	60877	.	-	0	ID=AAA044D11.genome.CDS.1346;Product=Substrate-specific component BioY of biotin ECF transporter;locus_tag=AAA044D11.genome.CDS.1346
+AAA044D11.contig.6	feature	CDS	59039	60271	.	-	0	ID=AAA044D11.genome.CDS.1345;Product=Isochorismate synthase %28EC 5.4.4.2%29 %40 Menaquinone-specific isochorismate synthase %28EC 5.4.4.2%29;locus_tag=AAA044D11.genome.CDS.1345
+AAA044D11.contig.6	feature	CDS	57519	59087	.	+	0	ID=AAA044D11.genome.CDS.1344;Product=2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase %28EC 2.2.1.9%29;locus_tag=AAA044D11.genome.CDS.1344
+AAA044D11.contig.6	feature	CDS	56546	57535	.	+	0	ID=AAA044D11.genome.CDS.1343;Product=O-succinylbenzoate synthase %28EC 4.2.1.113%29;locus_tag=AAA044D11.genome.CDS.1343
+AAA044D11.contig.6	feature	CDS	55661	56539	.	+	0	ID=AAA044D11.genome.CDS.1342;Product=Naphthoate synthase %28EC 4.1.3.36%29;locus_tag=AAA044D11.genome.CDS.1342
+AAA044D11.contig.6	feature	CDS	54611	55621	.	-	0	ID=AAA044D11.genome.CDS.1341;Product=O-succinylbenzoic acid--CoA ligase %28EC 6.2.1.26%29;locus_tag=AAA044D11.genome.CDS.1341
+AAA044D11.contig.6	feature	CDS	53737	54606	.	-	0	ID=AAA044D11.genome.CDS.1340;Product=1%2C4-dihydroxy-2-naphthoate polyprenyltransferase %28EC 2.5.1.74%29;locus_tag=AAA044D11.genome.CDS.1340
+AAA044D11.contig.6	feature	CDS	53473	53727	.	-	0	ID=AAA044D11.genome.CDS.1339;Product=;locus_tag=AAA044D11.genome.CDS.1339
+AAA044D11.contig.6	feature	CDS	52568	53458	.	+	0	ID=AAA044D11.genome.CDS.1338;Product=Cytochrome c-type biogenesis protein CcsA/ResC;locus_tag=AAA044D11.genome.CDS.1338
+AAA044D11.contig.6	feature	CDS	51106	52563	.	+	0	ID=AAA044D11.genome.CDS.1337;Product=Ccs1/ResB-related putative cytochrome C-type biogenesis protein;locus_tag=AAA044D11.genome.CDS.1337
+AAA044D11.contig.6	feature	CDS	50374	51105	.	+	0	ID=AAA044D11.genome.CDS.1336;Product=Cytochrome c-type biogenesis protein CcdA %28DsbD analog%29;locus_tag=AAA044D11.genome.CDS.1336
+AAA044D11.contig.6	feature	CDS	49833	50381	.	+	0	ID=AAA044D11.genome.CDS.1335;Product=Thiol:disulfide oxidoreductase related to ResA;locus_tag=AAA044D11.genome.CDS.1335
+AAA044D11.contig.6	feature	CDS	49216	49836	.	+	0	ID=AAA044D11.genome.CDS.1334;Product=Hypothetical%2C related to broad specificity phosphatases COG0406;locus_tag=AAA044D11.genome.CDS.1334
+AAA044D11.contig.6	feature	CDS	48411	49181	.	-	0	ID=AAA044D11.genome.CDS.1333;Product=Phosphoserine phosphatase %28EC 3.1.3.3%29;locus_tag=AAA044D11.genome.CDS.1333
+AAA044D11.contig.6	feature	CDS	46216	48381	.	-	0	ID=AAA044D11.genome.CDS.1332;Product=probable DNA-binding protein;locus_tag=AAA044D11.genome.CDS.1332
+AAA044D11.contig.6	feature	CDS	45125	46201	.	-	0	ID=AAA044D11.genome.CDS.1331;Product=putative peptidase;locus_tag=AAA044D11.genome.CDS.1331
+AAA044D11.contig.6	feature	CDS	43480	45132	.	-	0	ID=AAA044D11.genome.CDS.1330;Product=DNA repair helicase;locus_tag=AAA044D11.genome.CDS.1330
+AAA044D11.contig.6	feature	CDS	43244	43483	.	+	0	ID=AAA044D11.genome.CDS.1329;Product=;locus_tag=AAA044D11.genome.CDS.1329
+AAA044D11.contig.6	feature	CDS	40771	43143	.	-	0	ID=AAA044D11.genome.CDS.1328;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1328
+AAA044D11.contig.6	feature	CDS	39789	40769	.	+	0	ID=AAA044D11.genome.CDS.1327;Product=;locus_tag=AAA044D11.genome.CDS.1327
+AAA044D11.contig.6	feature	CDS	38990	39814	.	+	0	ID=AAA044D11.genome.CDS.1326;Product=Pyrroline-5-carboxylate reductase %28EC 1.5.1.2%29;locus_tag=AAA044D11.genome.CDS.1326
+AAA044D11.contig.6	feature	CDS	38090	38908	.	-	0	ID=AAA044D11.genome.CDS.1325;Product=FIG01122970: hypothetical protein;locus_tag=AAA044D11.genome.CDS.1325
+AAA044D11.contig.6	feature	CDS	37135	38088	.	+	0	ID=AAA044D11.genome.CDS.1324;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1324
+AAA044D11.contig.6	feature	CDS	36754	37089	.	-	0	ID=AAA044D11.genome.CDS.1323;Product=;locus_tag=AAA044D11.genome.CDS.1323
+AAA044D11.contig.6	feature	CDS	36449	36757	.	-	0	ID=AAA044D11.genome.CDS.1322;Product=Lycopene cyclase;locus_tag=AAA044D11.genome.CDS.1322
+AAA044D11.contig.6	feature	CDS	36216	36452	.	+	0	ID=AAA044D11.genome.CDS.1321;Product=;locus_tag=AAA044D11.genome.CDS.1321
+AAA044D11.contig.6	feature	CDS	35368	36135	.	+	0	ID=AAA044D11.genome.CDS.1320;Product=Proteorhodopsin;locus_tag=AAA044D11.genome.CDS.1320
+AAA044D11.contig.6	feature	CDS	33790	35166	.	-	0	ID=AAA044D11.genome.CDS.1319;Product=DNA repair protein RadA;locus_tag=AAA044D11.genome.CDS.1319
+AAA044D11.contig.6	feature	CDS	31274	33778	.	+	0	ID=AAA044D11.genome.CDS.1318;Product=ATP-dependent Clp protease%2C ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB;locus_tag=AAA044D11.genome.CDS.1318
+AAA044D11.contig.6	feature	CDS	30615	31112	.	+	0	ID=AAA044D11.genome.CDS.1317;Product=Acetyltransferase%2C GNAT family;locus_tag=AAA044D11.genome.CDS.1317
+AAA044D11.contig.6	feature	CDS	29085	30611	.	+	0	ID=AAA044D11.genome.CDS.1316;Product=Lysyl-tRNA synthetase %28class II%29 %28EC 6.1.1.6%29;locus_tag=AAA044D11.genome.CDS.1316
+AAA044D11.contig.6	feature	CDS	28279	29055	.	+	0	ID=AAA044D11.genome.CDS.1315;Product=Pantothenate kinase type III%2C CoaX-like %28EC 2.7.1.33%29;locus_tag=AAA044D11.genome.CDS.1315
+AAA044D11.contig.6	feature	CDS	27398	28276	.	+	0	ID=AAA044D11.genome.CDS.1314;Product=Quinolinate phosphoribosyltransferase %5Bdecarboxylating%5D %28EC 2.4.2.19%29;locus_tag=AAA044D11.genome.CDS.1314
+AAA044D11.contig.6	feature	CDS	25791	27401	.	+	0	ID=AAA044D11.genome.CDS.1313;Product=L-aspartate oxidase %28EC 1.4.3.16%29;locus_tag=AAA044D11.genome.CDS.1313
+AAA044D11.contig.6	feature	CDS	24997	25794	.	+	0	ID=AAA044D11.genome.CDS.1312;Product=Pantoate--beta-alanine ligase %28EC 6.3.2.1%29;locus_tag=AAA044D11.genome.CDS.1312
+AAA044D11.contig.6	feature	CDS	24501	24944	.	+	0	ID=AAA044D11.genome.CDS.1311;Product=2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase %28EC 2.7.6.3%29;locus_tag=AAA044D11.genome.CDS.1311
+AAA044D11.contig.6	feature	CDS	24142	24504	.	+	0	ID=AAA044D11.genome.CDS.1310;Product=Dihydroneopterin aldolase %28EC 4.1.2.25%29;locus_tag=AAA044D11.genome.CDS.1310
+AAA044D11.contig.6	feature	CDS	23342	24145	.	+	0	ID=AAA044D11.genome.CDS.1309;Product=Dihydropteroate synthase %28EC 2.5.1.15%29;locus_tag=AAA044D11.genome.CDS.1309
+AAA044D11.contig.6	feature	CDS	22717	23340	.	+	0	ID=AAA044D11.genome.CDS.1308;Product=GTP cyclohydrolase I %28EC 3.5.4.16%29 type 1;locus_tag=AAA044D11.genome.CDS.1308
+AAA044D11.contig.6	feature	CDS	20673	22724	.	+	0	ID=AAA044D11.genome.CDS.1307;Product=Cell division protein FtsH %28EC 3.4.24.-%29;locus_tag=AAA044D11.genome.CDS.1307
+AAA044D11.contig.6	feature	CDS	20125	20676	.	+	0	ID=AAA044D11.genome.CDS.1306;Product=Hypoxanthine-guanine phosphoribosyltransferase %28EC 2.4.2.8%29;locus_tag=AAA044D11.genome.CDS.1306
+AAA044D11.contig.6	feature	CDS	19120	20109	.	+	0	ID=AAA044D11.genome.CDS.1305;Product=tRNA%28Ile%29-lysidine synthetase %28EC 6.3.4.19%29;locus_tag=AAA044D11.genome.CDS.1305
+AAA044D11.contig.6	feature	CDS	17812	19098	.	+	0	ID=AAA044D11.genome.CDS.1304;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1304
+AAA044D11.contig.6	feature	CDS	17034	17825	.	+	0	ID=AAA044D11.genome.CDS.1303;Product=;locus_tag=AAA044D11.genome.CDS.1303
+AAA044D11.contig.6	feature	CDS	16129	17037	.	+	0	ID=AAA044D11.genome.CDS.1302;Product=ABC transporter%2C ATP-binding protein;locus_tag=AAA044D11.genome.CDS.1302
+AAA044D11.contig.6	feature	CDS	15187	16059	.	+	0	ID=AAA044D11.genome.CDS.1301;Product=Heme O synthase%2C protoheme IX farnesyltransferase %28EC 2.5.1.-%29 COX10-CtaB;locus_tag=AAA044D11.genome.CDS.1301
+AAA044D11.contig.6	feature	CDS	14052	15173	.	+	0	ID=AAA044D11.genome.CDS.1300;Product=D-alanyl-D-alanine carboxypeptidase %28EC 3.4.16.4%29;locus_tag=AAA044D11.genome.CDS.1300
+AAA044D11.contig.6	feature	CDS	13160	14050	.	+	0	ID=AAA044D11.genome.CDS.1299;Product=Permease of the drug/metabolite transporter %28DMT%29 superfamily;locus_tag=AAA044D11.genome.CDS.1299
+AAA044D11.contig.6	feature	CDS	12500	13135	.	-	0	ID=AAA044D11.genome.CDS.1298;Product=SpoU rRNA methylase family protein;locus_tag=AAA044D11.genome.CDS.1298
+AAA044D11.contig.6	feature	CDS	11571	12503	.	+	0	ID=AAA044D11.genome.CDS.1297;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1297
+AAA044D11.contig.6	feature	CDS	10081	11511	.	-	0	ID=AAA044D11.genome.CDS.1296;Product=Inosine-5%27-monophosphate dehydrogenase %28EC 1.1.1.205%29;locus_tag=AAA044D11.genome.CDS.1296
+AAA044D11.contig.6	feature	CDS	9838	10068	.	+	0	ID=AAA044D11.genome.CDS.1295;Product=;locus_tag=AAA044D11.genome.CDS.1295
+AAA044D11.contig.6	feature	CDS	9066	9845	.	+	0	ID=AAA044D11.genome.CDS.1294;Product=;locus_tag=AAA044D11.genome.CDS.1294
+AAA044D11.contig.6	feature	CDS	8212	8946	.	-	0	ID=AAA044D11.genome.CDS.1293;Product=;locus_tag=AAA044D11.genome.CDS.1293
+AAA044D11.contig.6	feature	CDS	7427	8215	.	-	0	ID=AAA044D11.genome.CDS.1292;Product=Cytochrome c oxidase polypeptide II %28EC 1.9.3.1%29;locus_tag=AAA044D11.genome.CDS.1292
+AAA044D11.contig.6	feature	CDS	5568	7430	.	-	0	ID=AAA044D11.genome.CDS.1291;Product=Cytochrome c oxidase polypeptide I %28EC 1.9.3.1%29;locus_tag=AAA044D11.genome.CDS.1291
+AAA044D11.contig.6	feature	CDS	4972	5568	.	-	0	ID=AAA044D11.genome.CDS.1290;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1290
+AAA044D11.contig.6	feature	CDS	3517	4923	.	+	0	ID=AAA044D11.genome.CDS.1289;Product=Cytosine/purine/uracil/thiamine/allantoin permease family protein;locus_tag=AAA044D11.genome.CDS.1289
+AAA044D11.contig.6	feature	CDS	2320	3480	.	-	0	ID=AAA044D11.genome.CDS.1288;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1288
+AAA044D11.contig.6	feature	CDS	1282	2307	.	-	0	ID=AAA044D11.genome.CDS.1287;Product=Mannose-6-phosphate isomerase %28EC 5.3.1.8%29;locus_tag=AAA044D11.genome.CDS.1287
+AAA044D11.contig.6	feature	CDS	639	1289	.	+	0	ID=AAA044D11.genome.CDS.1286;Product=;locus_tag=AAA044D11.genome.CDS.1286
+AAA044D11.contig.6	feature	CDS	2	646	.	+	0	ID=AAA044D11.genome.CDS.1285;Product=Glycerophosphoryl diester phosphodiesterase %28EC 3.1.4.46%29;locus_tag=AAA044D11.genome.CDS.1285
+AAA044D11.contig.7	feature	misc_RNA	1	284	.	+	.	ID=AAA044D11.genome.repeat.15;Product=repeat region;locus_tag=AAA044D11.genome.repeat.15
+AAA044D11.contig.7	feature	CDS	72814	73389	.	-	0	ID=AAA044D11.genome.CDS.1537;Product=Dihydrolipoamide dehydrogenase of branched-chain alpha-keto acid dehydrogenase %28EC 1.8.1.4%29;locus_tag=AAA044D11.genome.CDS.1537
+AAA044D11.contig.7	feature	CDS	71144	72799	.	-	0	ID=AAA044D11.genome.CDS.1536;Product=Dihydrolipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex %28EC 2.3.1.168%29;locus_tag=AAA044D11.genome.CDS.1536
+AAA044D11.contig.7	feature	CDS	70236	71141	.	-	0	ID=AAA044D11.genome.CDS.1535;Product=Cell division inhibitor;locus_tag=AAA044D11.genome.CDS.1535
+AAA044D11.contig.7	feature	CDS	69110	70246	.	+	0	ID=AAA044D11.genome.CDS.1534;Product=;locus_tag=AAA044D11.genome.CDS.1534
+AAA044D11.contig.7	feature	CDS	66879	69104	.	+	0	ID=AAA044D11.genome.CDS.1533;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1533
+AAA044D11.contig.7	feature	CDS	66135	66800	.	-	0	ID=AAA044D11.genome.CDS.1532;Product=Octanoate-%5Bacyl-carrier-protein%5D-protein-N-octanoyltransferase;locus_tag=AAA044D11.genome.CDS.1532
+AAA044D11.contig.7	feature	CDS	65209	66138	.	-	0	ID=AAA044D11.genome.CDS.1531;Product=Lipoate synthase;locus_tag=AAA044D11.genome.CDS.1531
+AAA044D11.contig.7	feature	CDS	64442	65209	.	-	0	ID=AAA044D11.genome.CDS.1530;Product=1-acyl-sn-glycerol-3-phosphate acyltransferase %28EC 2.3.1.51%29;locus_tag=AAA044D11.genome.CDS.1530
+AAA044D11.contig.7	feature	CDS	63744	64442	.	-	0	ID=AAA044D11.genome.CDS.1529;Product=Transmembrane protein MT2276%2C clustered with lipoate gene;locus_tag=AAA044D11.genome.CDS.1529
+AAA044D11.contig.7	feature	CDS	63573	63743	.	+	0	ID=AAA044D11.genome.CDS.367;Product=PROBABLE MEMBRANE PROTEIN;locus_tag=AAA044D11.genome.CDS.367
+AAA044D11.contig.7	feature	CDS	61770	63200	.	-	0	ID=AAA044D11.genome.CDS.1528;Product=Glutamine synthetase type I %28EC 6.3.1.2%29;locus_tag=AAA044D11.genome.CDS.1528
+AAA044D11.contig.7	feature	CDS	60437	61627	.	-	0	ID=AAA044D11.genome.CDS.1527;Product=HoxN/HupN/NixA family nickel/cobalt transporter;locus_tag=AAA044D11.genome.CDS.1527
+AAA044D11.contig.7	feature	CDS	58805	60403	.	-	0	ID=AAA044D11.genome.CDS.1526;Product=ABC transporter ATP-binding protein;locus_tag=AAA044D11.genome.CDS.1526
+AAA044D11.contig.7	feature	CDS	57470	58780	.	+	0	ID=AAA044D11.genome.CDS.1525;Product=Glutamate-1-semialdehyde aminotransferase %28EC 5.4.3.8%29;locus_tag=AAA044D11.genome.CDS.1525
+AAA044D11.contig.7	feature	CDS	56437	57147	.	-	0	ID=AAA044D11.genome.CDS.1524;Product=GMP synthase %5Bglutamine-hydrolyzing%5D %28EC 6.3.5.2%29;locus_tag=AAA044D11.genome.CDS.1524
+AAA044D11.contig.7	feature	CDS	54831	56384	.	+	0	ID=AAA044D11.genome.CDS.1523;Product=Amino acid/metabolite permease in hypothetical Actinobacterial gene cluster%3B BAT1-like;locus_tag=AAA044D11.genome.CDS.1523
+AAA044D11.contig.7	feature	CDS	53307	54656	.	-	0	ID=AAA044D11.genome.CDS.1522;Product=Glutamine synthetase family protein in hypothetical Actinobacterial gene cluster;locus_tag=AAA044D11.genome.CDS.1522
+AAA044D11.contig.7	feature	CDS	51938	53302	.	-	0	ID=AAA044D11.genome.CDS.1521;Product=Aldehyde dehydrogenase in hypothetical Actinobacterial gene cluster;locus_tag=AAA044D11.genome.CDS.1521
+AAA044D11.contig.7	feature	CDS	51155	51925	.	-	0	ID=AAA044D11.genome.CDS.1520;Product=Short-chain dehydrogenase/reductase in hypothetical Actinobacterial gene cluster;locus_tag=AAA044D11.genome.CDS.1520
+AAA044D11.contig.7	feature	CDS	50367	51104	.	-	0	ID=AAA044D11.genome.CDS.1519;Product=;locus_tag=AAA044D11.genome.CDS.1519
+AAA044D11.contig.7	feature	CDS	49540	50370	.	+	0	ID=AAA044D11.genome.CDS.1518;Product=Short-chain dehydrogenase/reductase SDR;locus_tag=AAA044D11.genome.CDS.1518
+AAA044D11.contig.7	feature	CDS	48815	49537	.	+	0	ID=AAA044D11.genome.CDS.1517;Product=Enoyl-CoA hydratase %28EC 4.2.1.17%29;locus_tag=AAA044D11.genome.CDS.1517
+AAA044D11.contig.7	feature	CDS	48402	48716	.	-	0	ID=AAA044D11.genome.CDS.1516;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1516
+AAA044D11.contig.7	feature	CDS	47659	48240	.	-	0	ID=AAA044D11.genome.CDS.1515;Product=;locus_tag=AAA044D11.genome.CDS.1515
+AAA044D11.contig.7	feature	CDS	46897	47553	.	-	0	ID=AAA044D11.genome.CDS.1514;Product=L-lysine permease;locus_tag=AAA044D11.genome.CDS.1514
+AAA044D11.contig.7	feature	CDS	46163	46855	.	-	0	ID=AAA044D11.genome.CDS.1513;Product=;locus_tag=AAA044D11.genome.CDS.1513
+AAA044D11.contig.7	feature	CDS	45452	46162	.	+	0	ID=AAA044D11.genome.CDS.1512;Product=1-acyl-sn-glycerol-3-phosphate acyltransferase %28EC 2.3.1.51%29;locus_tag=AAA044D11.genome.CDS.1512
+AAA044D11.contig.7	feature	CDS	44279	45346	.	-	0	ID=AAA044D11.genome.CDS.1511;Product=;locus_tag=AAA044D11.genome.CDS.1511
+AAA044D11.contig.7	feature	CDS	43329	44282	.	+	0	ID=AAA044D11.genome.CDS.1510;Product=Putative sugar kinase;locus_tag=AAA044D11.genome.CDS.1510
+AAA044D11.contig.7	feature	CDS	42885	43322	.	+	0	ID=AAA044D11.genome.CDS.1509;Product=;locus_tag=AAA044D11.genome.CDS.1509
+AAA044D11.contig.7	feature	CDS	41027	42796	.	-	0	ID=AAA044D11.genome.CDS.1508;Product=Long-chain-fatty-acid--CoA ligase %28EC 6.2.1.3%29;locus_tag=AAA044D11.genome.CDS.1508
+AAA044D11.contig.7	feature	CDS	40482	41030	.	-	0	ID=AAA044D11.genome.CDS.1507;Product=;locus_tag=AAA044D11.genome.CDS.1507
+AAA044D11.contig.7	feature	CDS	39342	40493	.	+	0	ID=AAA044D11.genome.CDS.1506;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1506
+AAA044D11.contig.7	feature	CDS	38339	39358	.	+	0	ID=AAA044D11.genome.CDS.1505;Product=NLP/P60 family protein;locus_tag=AAA044D11.genome.CDS.1505
+AAA044D11.contig.7	feature	CDS	38069	38290	.	+	0	ID=AAA044D11.genome.CDS.1504;Product=;locus_tag=AAA044D11.genome.CDS.1504
+AAA044D11.contig.7	feature	CDS	37556	38056	.	-	0	ID=AAA044D11.genome.CDS.1503;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1503
+AAA044D11.contig.7	feature	CDS	36720	37559	.	+	0	ID=AAA044D11.genome.CDS.1502;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1502
+AAA044D11.contig.7	feature	CDS	36100	36639	.	-	0	ID=AAA044D11.genome.CDS.1501;Product=Uncharacterized protein Q1 colocalized with Q;locus_tag=AAA044D11.genome.CDS.1501
+AAA044D11.contig.7	feature	CDS	34805	36100	.	-	0	ID=AAA044D11.genome.CDS.1500;Product=Ribonuclease D %28EC 3.1.26.3%29;locus_tag=AAA044D11.genome.CDS.1500
+AAA044D11.contig.7	feature	CDS	33961	34767	.	-	0	ID=AAA044D11.genome.CDS.1499;Product=Ferrous iron transport permease EfeU;locus_tag=AAA044D11.genome.CDS.1499
+AAA044D11.contig.7	feature	CDS	32668	33945	.	+	0	ID=AAA044D11.genome.CDS.1498;Product=hypothetical protein;locus_tag=AAA044D11.genome.CDS.1498
+AAA044D11.contig.7	feature	CDS	31352	32623	.	+	0	ID=AAA044D11.genome.CDS.1497;Product=;locus_tag=AAA044D11.genome.CDS.1497
+AAA044D11.contig.7	feature	CDS	30004	31206	.	-	0	ID=AAA044D11.genome.CDS.1496;Product=3-ketoacyl-CoA thiolase %28EC 2.3.1.16%29;locus_tag=AAA044D11.genome.CDS.1496
+AAA044D11.contig.7	feature	CDS	27896	30004	.	-	0	ID=AAA044D11.genome.CDS.1495;Product=Enoyl-CoA hydratase %28EC 4.2.1.17%29 / 3-hydroxyacyl-CoA dehydrogenase %28EC 1.1.1.35%29 / 3-hydroxybutyryl-CoA epimerase %28EC 5.1.2.3%29;locus_tag=AAA044D11.genome.CDS.1495
+AAA044D11.contig.7	feature	CDS	26002	27942	.	+	0	ID=AAA044D11.genome.CDS.1494;Product=1-deoxy-D-xylulose 5-phosphate synthase %28EC 2.2.1.7%29;locus_tag=AAA044D11.genome.CDS.1494
+AAA044D11.contig.7	feature	CDS	23319	25973	.	+	0	ID=AAA044D11.genome.CDS.1493;Product=Aconitate hydratase %28EC 4.2.1.3%29;locus_tag=AAA044D11.genome.CDS.1493
+AAA044D11.contig.7	feature	CDS	22110	23309	.	+	0	ID=AAA044D11.genome.CDS.1492;Product=23S rRNA %28Uracil-5-%29 -methyltransferase RumA %28EC 2.1.1.-%29;locus_tag=AAA044D11.genome.CDS.1492
+AAA044D11.contig.7	feature	CDS	21415	22077	.	-	0	ID=AAA044D11.genome.CDS.329;Product=Trk system potassium uptake protein TrkA;locus_tag=AAA044D11.genome.CDS.329
+AAA044D11.contig.7	feature	CDS	20747	21409	.	-	0	ID=AAA044D11.genome.CDS.1490;Product=Trk system potassium uptake protein TrkA;locus_tag=AAA044D11.genome.CDS.1490
+AAA044D11.contig.7	feature	CDS	20142	20750	.	+	0	ID=AAA044D11.genome.CDS.1489;Product=;locus_tag=AAA044D11.genome.CDS.1489
+AAA044D11.contig.7	feature	CDS	19699	20142	.	+	0	ID=AAA044D11.genome.CDS.1488;Product=Deoxyuridine 5%27-triphosphate nucleotidohydrolase %28EC 3.6.1.23%29;locus_tag=AAA044D11.genome.CDS.1488
+AAA044D11.contig.7	feature	CDS	19118	19702	.	+	0	ID=AAA044D11.genome.CDS.1487;Product=FIG01123415: hypothetical protein;locus_tag=AAA044D11.genome.CDS.1487
+AAA044D11.contig.7	feature	CDS	18568	19050	.	-	0	ID=AAA044D11.genome.CDS.324;Product=;locus_tag=AAA044D11.genome.CDS.324
+AAA044D11.contig.7	feature	CDS	18271	18567	.	+	0	ID=AAA044D11.genome.CDS.1485;Product=FIG01121218: hypothetical protein;locus_tag=AAA044D11.genome.CDS.1485
+AAA044D11.contig.7	feature	CDS	17135	18103	.	+	0	ID=AAA044D11.genome.CDS.1484;Product=Probable acyl-ACP desaturase%2C Stearoyl-ACP desaturase %28EC 1.14.19.2%29;locus_tag=AAA044D11.genome.CDS.1484
+AAA044D11.contig.7	feature	CDS	16355	17086	.	+	0	ID=AAA044D11.genome.CDS.1483;Product=tRNA %28Guanine37-N1%29 -methyltransferase %28EC 2.1.1.31%29;locus_tag=AAA044D11.genome.CDS.1483
+AAA044D11.contig.7	feature	CDS	15859	16362	.	+	0	ID=AAA044D11.genome.CDS.1482;Product=16S rRNA processing protein RimM;locus_tag=AAA044D11.genome.CDS.1482
+AAA044D11.contig.7	feature	CDS	15617	15856	.	+	0	ID=AAA044D11.genome.CDS.1481;Product=KH domain RNA binding protein YlqC;locus_tag=AAA044D11.genome.CDS.1481
+AAA044D11.contig.7	feature	CDS	15072	15614	.	+	0	ID=AAA044D11.genome.CDS.1480;Product=SSU ribosomal protein S16p;locus_tag=AAA044D11.genome.CDS.1480
+AAA044D11.contig.7	feature	CDS	13447	14889	.	+	0	ID=AAA044D11.genome.CDS.1479;Product=Signal recognition particle%2C subunit Ffh SRP54 %28TC 3.A.5.1.1%29;locus_tag=AAA044D11.genome.CDS.1479
+AAA044D11.contig.7	feature	CDS	11166	13430	.	+	0	ID=AAA044D11.genome.CDS.1478;Product=%5BProtein-PII%5D uridylyltransferase %28EC 2.7.7.59%29;locus_tag=AAA044D11.genome.CDS.1478
+AAA044D11.contig.7	feature	CDS	10781	11119	.	+	0	ID=AAA044D11.genome.CDS.1477;Product=Nitrogen regulatory protein P-II;locus_tag=AAA044D11.genome.CDS.1477
+AAA044D11.contig.7	feature	CDS	9483	10784	.	+	0	ID=AAA044D11.genome.CDS.1476;Product=Ammonium transporter;locus_tag=AAA044D11.genome.CDS.1476
+AAA044D11.contig.7	feature	CDS	8497	9333	.	+	0	ID=AAA044D11.genome.CDS.1475;Product=Signal recognition particle receptor protein FtsY %28%3Dalpha subunit%29 %28TC 3.A.5.1.1%29;locus_tag=AAA044D11.genome.CDS.1475
+AAA044D11.contig.7	feature	CDS	4936	8478	.	+	0	ID=AAA044D11.genome.CDS.1474;Product=Chromosome partition protein smc;locus_tag=AAA044D11.genome.CDS.1474
+AAA044D11.contig.7	feature	CDS	4069	4911	.	+	0	ID=AAA044D11.genome.CDS.1473;Product=Formamidopyrimidine-DNA glycosylase %28EC 3.2.2.23%29;locus_tag=AAA044D11.genome.CDS.1473
+AAA044D11.contig.7	feature	CDS	3417	4085	.	+	0	ID=AAA044D11.genome.CDS.1472;Product=Ribonuclease III %28EC 3.1.26.3%29;locus_tag=AAA044D11.genome.CDS.1472
+AAA044D11.contig.7	feature	CDS	3251	3403	.	+	0	ID=AAA044D11.genome.CDS.309;Product=;locus_tag=AAA044D11.genome.CDS.309
+AAA044D11.contig.7	feature	CDS	2524	3132	.	+	0	ID=AAA044D11.genome.CDS.1471;Product=COG1399 protein%2C clustered with ribosomal protein L32p;locus_tag=AAA044D11.genome.CDS.1471
+AAA044D11.contig.7	feature	CDS	2037	2516	.	+	0	ID=AAA044D11.genome.CDS.1470;Product=Cell division initiation protein;locus_tag=AAA044D11.genome.CDS.1470
+AAA044D11.contig.7	feature	CDS	1546	2025	.	+	0	ID=AAA044D11.genome.CDS.1469;Product=Phosphopantetheine adenylyltransferase %28EC 2.7.7.3%29;locus_tag=AAA044D11.genome.CDS.1469
+AAA044D11.contig.7	feature	CDS	974	1549	.	+	0	ID=AAA044D11.genome.CDS.1468;Product=;locus_tag=AAA044D11.genome.CDS.1468
+AAA044D11.contig.7	feature	CDS	3	956	.	+	0	ID=AAA044D11.genome.CDS.1467;Product=ATP-dependent DNA helicase RecG %28EC 3.6.1.-%29;locus_tag=AAA044D11.genome.CDS.1467
+AAA044D11.contig.8	feature	misc_RNA	1	277	.	+	.	ID=AAA044D11.genome.repeat.20;Product=repeat region;locus_tag=AAA044D11.genome.repeat.20
+AAA044D11.contig.8	feature	misc_RNA	30608	31643	.	+	.	ID=AAA044D11.genome.repeat.21;Product=repeat region;locus_tag=AAA044D11.genome.repeat.21
+AAA044D11.contig.8	feature	CDS	31502	31642	.	+	0	ID=AAA044D11.genome.CDS.1565;Product=Iron-sulfur cluster assembly ATPase protein SufC;locus_tag=AAA044D11.genome.CDS.1565
+AAA044D11.contig.8	feature	CDS	31178	31492	.	+	0	ID=AAA044D11.genome.CDS.1564;Product=Ferredoxin%2C 2Fe-2S;locus_tag=AAA044D11.genome.CDS.1564
+AAA044D11.contig.8	feature	CDS	30093	31178	.	+	0	ID=AAA044D11.genome.CDS.1563;Product=Iron-sulfur cluster assembly protein SufD;locus_tag=AAA044D11.genome.CDS.1563
+AAA044D11.contig.8	feature	CDS	28675	30093	.	+	0	ID=AAA044D11.genome.CDS.1562;Product=Iron-sulfur cluster assembly protein SufB;locus_tag=AAA044D11.genome.CDS.1562
+AAA044D11.contig.8	feature	CDS	27963	28673	.	+	0	ID=AAA044D11.genome.CDS.402;Product=Iron-sulfur cluster regulator SufR;locus_tag=AAA044D11.genome.CDS.402
+AAA044D11.contig.8	feature	CDS	27025	27915	.	-	0	ID=AAA044D11.genome.CDS.1560;Product=Cytochrome oxidase assembly protein;locus_tag=AAA044D11.genome.CDS.1560
+AAA044D11.contig.8	feature	CDS	24980	27022	.	-	0	ID=AAA044D11.genome.CDS.1559;Product=Transketolase %28EC 2.2.1.1%29;locus_tag=AAA044D11.genome.CDS.1559
+AAA044D11.contig.8	feature	CDS	23432	24979	.	-	0	ID=AAA044D11.genome.CDS.1558;Product=Glucose-6-phosphate isomerase %28EC 5.3.1.9%29;locus_tag=AAA044D11.genome.CDS.1558
+AAA044D11.contig.8	feature	CDS	23091	23426	.	+	0	ID=AAA044D11.genome.CDS.1557;Product=putative electron transport protein;locus_tag=AAA044D11.genome.CDS.1557
+AAA044D11.contig.8	feature	CDS	22811	23041	.	+	0	ID=AAA044D11.genome.CDS.1556;Product=Preprotein translocase subunit SecG %28TC 3.A.5.1.1%29;locus_tag=AAA044D11.genome.CDS.1556
+AAA044D11.contig.8	feature	CDS	21940	22719	.	+	0	ID=AAA044D11.genome.CDS.1555;Product=Triosephosphate isomerase %28EC 5.3.1.1%29;locus_tag=AAA044D11.genome.CDS.1555
+AAA044D11.contig.8	feature	CDS	20745	21914	.	+	0	ID=AAA044D11.genome.CDS.1554;Product=Phosphoglycerate kinase %28EC 2.7.2.3%29;locus_tag=AAA044D11.genome.CDS.1554
+AAA044D11.contig.8	feature	CDS	19744	20745	.	+	0	ID=AAA044D11.genome.CDS.1553;Product=NAD-dependent glyceraldehyde-3-phosphate dehydrogenase %28EC 1.2.1.12%29;locus_tag=AAA044D11.genome.CDS.1553
+AAA044D11.contig.8	feature	CDS	18685	19665	.	+	0	ID=AAA044D11.genome.CDS.1552;Product=FIG001886: Cytoplasmic hypothetical protein;locus_tag=AAA044D11.genome.CDS.1552
+AAA044D11.contig.8	feature	CDS	17729	18679	.	+	0	ID=AAA044D11.genome.CDS.1551;Product=FIG002813: LPPG:FO 2-phospho-L-lactate transferase like%2C CofD-like;locus_tag=AAA044D11.genome.CDS.1551
+AAA044D11.contig.8	feature	CDS	16854	17729	.	+	0	ID=AAA044D11.genome.CDS.1550;Product=FIG000506: Predicted P-loop-containing kinase;locus_tag=AAA044D11.genome.CDS.1550
+AAA044D11.contig.8	feature	CDS	14931	16841	.	+	0	ID=AAA044D11.genome.CDS.1549;Product=Excinuclease ABC subunit C;locus_tag=AAA044D11.genome.CDS.1549
+AAA044D11.contig.8	feature	CDS	12083	14926	.	+	0	ID=AAA044D11.genome.CDS.1548;Product=Excinuclease ABC subunit A;locus_tag=AAA044D11.genome.CDS.1548
+AAA044D11.contig.8	feature	CDS	10032	12086	.	+	0	ID=AAA044D11.genome.CDS.1547;Product=Excinuclease ABC subunit B;locus_tag=AAA044D11.genome.CDS.1547
+AAA044D11.contig.8	feature	CDS	9423	10028	.	+	0	ID=AAA044D11.genome.CDS.1546;Product=Dephospho-CoA kinase %28EC 2.7.1.24%29;locus_tag=AAA044D11.genome.CDS.1546
+AAA044D11.contig.8	feature	CDS	7977	9344	.	+	0	ID=AAA044D11.genome.CDS.1545;Product=SSU ribosomal protein S1p;locus_tag=AAA044D11.genome.CDS.1545
+AAA044D11.contig.8	feature	CDS	6621	7847	.	-	0	ID=AAA044D11.genome.CDS.1544;Product=Oligopeptide transport system permease protein OppB %28TC 3.A.1.5.1%29;locus_tag=AAA044D11.genome.CDS.1544
+AAA044D11.contig.8	feature	CDS	4030	6624	.	+	0	ID=AAA044D11.genome.CDS.1543;Product=DNA polymerase I %28EC 2.7.7.7%29;locus_tag=AAA044D11.genome.CDS.1543
+AAA044D11.contig.8	feature	CDS	3590	3997	.	-	0	ID=AAA044D11.genome.CDS.1542;Product=ComA operon protein 2;locus_tag=AAA044D11.genome.CDS.1542
+AAA044D11.contig.8	feature	CDS	2861	3589	.	+	0	ID=AAA044D11.genome.CDS.1541;Product=Branched-chain amino acid transport ATP-binding protein LivF %28TC 3.A.1.4.1%29;locus_tag=AAA044D11.genome.CDS.1541
+AAA044D11.contig.8	feature	CDS	2107	2871	.	+	0	ID=AAA044D11.genome.CDS.1540;Product=Branched-chain amino acid transport ATP-binding protein LivG %28TC 3.A.1.4.1%29;locus_tag=AAA044D11.genome.CDS.1540
+AAA044D11.contig.8	feature	CDS	1067	2092	.	+	0	ID=AAA044D11.genome.CDS.1539;Product=Branched-chain amino acid transport system permease protein LivM %28TC 3.A.1.4.1%29;locus_tag=AAA044D11.genome.CDS.1539
+AAA044D11.contig.8	feature	CDS	111	1064	.	+	0	ID=AAA044D11.genome.CDS.1538;Product=High-affinity branched-chain amino acid transport system permease protein LivH %28TC 3.A.1.4.1%29;locus_tag=AAA044D11.genome.CDS.1538
+AAA044D11.contig.9	feature	misc_RNA	1	285	.	+	.	ID=AAA044D11.genome.repeat.7;Product=repeat region;locus_tag=AAA044D11.genome.repeat.7
+AAA044D11.contig.9	feature	CDS	4368	5291	.	-	0	ID=AAA044D11.genome.CDS.1571;Product=;locus_tag=AAA044D11.genome.CDS.1571
+AAA044D11.contig.9	feature	CDS	3604	4371	.	+	0	ID=AAA044D11.genome.CDS.1570;Product=Glutamate 5-kinase %28EC 2.7.2.11%29 / RNA-binding C-terminal domain PUA;locus_tag=AAA044D11.genome.CDS.1570
+AAA044D11.contig.9	feature	CDS	2114	3604	.	+	0	ID=AAA044D11.genome.CDS.1569;Product=GTP-binding protein Obg;locus_tag=AAA044D11.genome.CDS.1569
+AAA044D11.contig.9	feature	CDS	1747	2010	.	+	0	ID=AAA044D11.genome.CDS.1568;Product=LSU ribosomal protein L27p;locus_tag=AAA044D11.genome.CDS.1568
+AAA044D11.contig.9	feature	CDS	1422	1730	.	+	0	ID=AAA044D11.genome.CDS.1567;Product=LSU ribosomal protein L21p;locus_tag=AAA044D11.genome.CDS.1567
+AAA044D11.contig.9	feature	CDS	2	1318	.	+	0	ID=AAA044D11.genome.CDS.1566;Product=Cytoplasmic axial filament protein CafA and Ribonuclease G %28EC 3.1.4.-%29;locus_tag=AAA044D11.genome.CDS.1566

@@ -1,0 +1,1081 @@
+##gff-version 3
+TBhypo2152.contig.1	feature	CDS	19606	19713	.	+	0	ID=TBhypo2152.genome.CDS.927;Product=;locus_tag=TBhypo2152.genome.CDS.927
+TBhypo2152.contig.1	feature	CDS	19178	19609	.	+	0	ID=TBhypo2152.genome.CDS.926;Product=Putative Holliday junction resolvase YqgF;locus_tag=TBhypo2152.genome.CDS.926
+TBhypo2152.contig.1	feature	CDS	16500	19172	.	+	0	ID=TBhypo2152.genome.CDS.925;Product=Alanyl-tRNA synthetase %28EC 6.1.1.7%29;locus_tag=TBhypo2152.genome.CDS.925
+TBhypo2152.contig.1	feature	CDS	16211	16495	.	+	0	ID=TBhypo2152.genome.CDS.924;Product=;locus_tag=TBhypo2152.genome.CDS.924
+TBhypo2152.contig.1	feature	CDS	15810	16169	.	+	0	ID=TBhypo2152.genome.CDS.923;Product=Aspartyl-tRNA synthetase %28EC 6.1.1.12%29 %40 Aspartyl-tRNA%28Asn%29 synthetase %28EC 6.1.1.23%29;locus_tag=TBhypo2152.genome.CDS.923
+TBhypo2152.contig.1	feature	CDS	14422	15837	.	+	0	ID=TBhypo2152.genome.CDS.922;Product=Aspartyl-tRNA synthetase %28EC 6.1.1.12%29 %40 Aspartyl-tRNA%28Asn%29 synthetase %28EC 6.1.1.23%29;locus_tag=TBhypo2152.genome.CDS.922
+TBhypo2152.contig.1	feature	CDS	13150	14421	.	+	0	ID=TBhypo2152.genome.CDS.921;Product=Histidyl-tRNA synthetase %28EC 6.1.1.21%29;locus_tag=TBhypo2152.genome.CDS.921
+TBhypo2152.contig.1	feature	CDS	12461	13153	.	+	0	ID=TBhypo2152.genome.CDS.920;Product=Hydroxyacylglutathione hydrolase %28EC 3.1.2.6%29;locus_tag=TBhypo2152.genome.CDS.920
+TBhypo2152.contig.1	feature	CDS	11387	12280	.	-	0	ID=TBhypo2152.genome.CDS.919;Product=ATPase involved in DNA repair;locus_tag=TBhypo2152.genome.CDS.919
+TBhypo2152.contig.1	feature	CDS	10945	11364	.	-	0	ID=TBhypo2152.genome.CDS.918;Product=;locus_tag=TBhypo2152.genome.CDS.918
+TBhypo2152.contig.1	feature	CDS	8782	10941	.	+	0	ID=TBhypo2152.genome.CDS.917;Product=GTP pyrophosphokinase %28EC 2.7.6.5%29%2C %28p%29ppGpp synthetase I;locus_tag=TBhypo2152.genome.CDS.917
+TBhypo2152.contig.1	feature	CDS	7650	8750	.	+	0	ID=TBhypo2152.genome.CDS.916;Product=Protein-export membrane protein SecF %28TC 3.A.5.1.1%29;locus_tag=TBhypo2152.genome.CDS.916
+TBhypo2152.contig.1	feature	CDS	6115	7650	.	+	0	ID=TBhypo2152.genome.CDS.915;Product=Protein-export membrane protein SecD %28TC 3.A.5.1.1%29;locus_tag=TBhypo2152.genome.CDS.915
+TBhypo2152.contig.1	feature	CDS	5054	6103	.	+	0	ID=TBhypo2152.genome.CDS.914;Product=Holliday junction DNA helicase RuvB;locus_tag=TBhypo2152.genome.CDS.914
+TBhypo2152.contig.1	feature	CDS	4467	5057	.	+	0	ID=TBhypo2152.genome.CDS.913;Product=Holliday junction DNA helicase RuvA;locus_tag=TBhypo2152.genome.CDS.913
+TBhypo2152.contig.1	feature	CDS	3931	4470	.	+	0	ID=TBhypo2152.genome.CDS.912;Product=Crossover junction endodeoxyribonuclease RuvC %28EC 3.1.22.4%29;locus_tag=TBhypo2152.genome.CDS.912
+TBhypo2152.contig.1	feature	CDS	3166	3918	.	+	0	ID=TBhypo2152.genome.CDS.911;Product=FIG000859: hypothetical protein YebC;locus_tag=TBhypo2152.genome.CDS.911
+TBhypo2152.contig.1	feature	CDS	2531	3139	.	+	0	ID=TBhypo2152.genome.CDS.910;Product=Pyridoxine biosynthesis glutamine amidotransferase%2C glutaminase subunit %28EC 2.4.2.-%29;locus_tag=TBhypo2152.genome.CDS.910
+TBhypo2152.contig.1	feature	CDS	1610	2509	.	+	0	ID=TBhypo2152.genome.CDS.909;Product=Pyridoxine biosynthesis glutamine amidotransferase%2C synthase subunit %28EC 2.4.2.-%29;locus_tag=TBhypo2152.genome.CDS.909
+TBhypo2152.contig.1	feature	CDS	536	1585	.	+	0	ID=TBhypo2152.genome.CDS.908;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.908
+TBhypo2152.contig.1	feature	CDS	33	539	.	+	0	ID=TBhypo2152.genome.CDS.907;Product=;locus_tag=TBhypo2152.genome.CDS.907
+TBhypo2152.contig.10	feature	CDS	7179	8738	.	+	0	ID=TBhypo2152.genome.CDS.1012;Product=Methionyl-tRNA synthetase %28EC 6.1.1.10%29;locus_tag=TBhypo2152.genome.CDS.1012
+TBhypo2152.contig.10	feature	CDS	6334	7176	.	+	0	ID=TBhypo2152.genome.CDS.1011;Product=rRNA small subunit methyltransferase I;locus_tag=TBhypo2152.genome.CDS.1011
+TBhypo2152.contig.10	feature	CDS	4994	6301	.	-	0	ID=TBhypo2152.genome.CDS.1010;Product=CONSERVED MEMBRANE PROTEIN;locus_tag=TBhypo2152.genome.CDS.1010
+TBhypo2152.contig.10	feature	CDS	4244	4993	.	+	0	ID=TBhypo2152.genome.CDS.1009;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1009
+TBhypo2152.contig.10	feature	CDS	3610	4188	.	+	0	ID=TBhypo2152.genome.CDS.1008;Product=Ribosomal-protein-S5p-alanine acetyltransferase;locus_tag=TBhypo2152.genome.CDS.1008
+TBhypo2152.contig.10	feature	CDS	2653	3585	.	+	0	ID=TBhypo2152.genome.CDS.1007;Product=Molybdopterin biosynthesis protein MoeA;locus_tag=TBhypo2152.genome.CDS.1007
+TBhypo2152.contig.10	feature	CDS	2068	2619	.	-	0	ID=TBhypo2152.genome.CDS.1006;Product=5-formyltetrahydrofolate cyclo-ligase %28EC 6.3.3.2%29;locus_tag=TBhypo2152.genome.CDS.1006
+TBhypo2152.contig.10	feature	CDS	161	2071	.	+	0	ID=TBhypo2152.genome.CDS.1005;Product=Copper resistance protein D;locus_tag=TBhypo2152.genome.CDS.1005
+TBhypo2152.contig.10	feature	CDS	3	155	.	+	0	ID=TBhypo2152.genome.CDS.1004;Product=;locus_tag=TBhypo2152.genome.CDS.1004
+TBhypo2152.contig.100	feature	misc_RNA	1	811	.	+	.	ID=TBhypo2152.genome.repeat.57;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.57
+TBhypo2152.contig.100	feature	CDS	3181	4332	.	+	0	ID=TBhypo2152.genome.CDS.1741;Product=Adenylosuccinate synthetase %28EC 6.3.4.4%29;locus_tag=TBhypo2152.genome.CDS.1741
+TBhypo2152.contig.100	feature	CDS	2100	3134	.	+	0	ID=TBhypo2152.genome.CDS.1740;Product=Fructose-bisphosphate aldolase class II %28EC 4.1.2.13%29;locus_tag=TBhypo2152.genome.CDS.1740
+TBhypo2152.contig.100	feature	CDS	1805	1945	.	+	0	ID=TBhypo2152.genome.CDS.773;Product=;locus_tag=TBhypo2152.genome.CDS.773
+TBhypo2152.contig.100	feature	CDS	2	1609	.	-	0	ID=TBhypo2152.genome.CDS.1738;Product=Acetyl-coenzyme A synthetase %28EC 6.2.1.1%29;locus_tag=TBhypo2152.genome.CDS.1738
+TBhypo2152.contig.101	feature	CDS	7343	7522	.	+	0	ID=TBhypo2152.genome.CDS.1752;Product=;locus_tag=TBhypo2152.genome.CDS.1752
+TBhypo2152.contig.101	feature	CDS	6976	7338	.	+	0	ID=TBhypo2152.genome.CDS.1751;Product=Chorismate mutase II %28EC 5.4.99.5%29;locus_tag=TBhypo2152.genome.CDS.1751
+TBhypo2152.contig.101	feature	CDS	6094	6717	.	+	0	ID=TBhypo2152.genome.CDS.783;Product=Ribosomal large subunit pseudouridine synthase B %28EC 4.2.1.70%29;locus_tag=TBhypo2152.genome.CDS.783
+TBhypo2152.contig.101	feature	CDS	5982	6131	.	+	0	ID=TBhypo2152.genome.CDS.1749;Product=Ribosomal large subunit pseudouridine synthase B %28EC 4.2.1.70%29;locus_tag=TBhypo2152.genome.CDS.1749
+TBhypo2152.contig.101	feature	CDS	5353	5910	.	+	0	ID=TBhypo2152.genome.CDS.1748;Product=Segregation and condensation protein B;locus_tag=TBhypo2152.genome.CDS.1748
+TBhypo2152.contig.101	feature	CDS	4414	5352	.	+	0	ID=TBhypo2152.genome.CDS.780;Product=Segregation and condensation protein A;locus_tag=TBhypo2152.genome.CDS.780
+TBhypo2152.contig.101	feature	CDS	3507	4397	.	-	0	ID=TBhypo2152.genome.CDS.779;Product=Chromosome %28plasmid%29 partitioning protein ParA;locus_tag=TBhypo2152.genome.CDS.779
+TBhypo2152.contig.101	feature	CDS	3112	3510	.	-	0	ID=TBhypo2152.genome.CDS.1745;Product=FIG059443: hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1745
+TBhypo2152.contig.101	feature	CDS	2207	3115	.	+	0	ID=TBhypo2152.genome.CDS.1744;Product=Site-specific tyrosine recombinase XerD;locus_tag=TBhypo2152.genome.CDS.1744
+TBhypo2152.contig.101	feature	CDS	571	2217	.	+	0	ID=TBhypo2152.genome.CDS.1743;Product=CTP synthase %28EC 6.3.4.2%29;locus_tag=TBhypo2152.genome.CDS.1743
+TBhypo2152.contig.101	feature	CDS	1	564	.	+	0	ID=TBhypo2152.genome.CDS.1742;Product=DNA repair protein RecN;locus_tag=TBhypo2152.genome.CDS.1742
+TBhypo2152.contig.102	feature	misc_RNA	1	126	.	+	.	ID=TBhypo2152.genome.repeat.38;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.38
+TBhypo2152.contig.102	feature	CDS	9615	10712	.	-	0	ID=TBhypo2152.genome.CDS.1763;Product=Dihydrofolate synthase %28EC 6.3.2.12%29 %40 Folylpolyglutamate synthase %28EC 6.3.2.17%29;locus_tag=TBhypo2152.genome.CDS.1763
+TBhypo2152.contig.102	feature	CDS	9271	9618	.	-	0	ID=TBhypo2152.genome.CDS.1762;Product=;locus_tag=TBhypo2152.genome.CDS.1762
+TBhypo2152.contig.102	feature	CDS	8864	9292	.	-	0	ID=TBhypo2152.genome.CDS.1761;Product=Nucleoside diphosphate kinase %28EC 2.7.4.6%29;locus_tag=TBhypo2152.genome.CDS.1761
+TBhypo2152.contig.102	feature	CDS	7818	8864	.	-	0	ID=TBhypo2152.genome.CDS.1760;Product=Rod shape-determining protein MreB;locus_tag=TBhypo2152.genome.CDS.1760
+TBhypo2152.contig.102	feature	CDS	6847	7800	.	-	0	ID=TBhypo2152.genome.CDS.1759;Product=Rod shape-determining protein MreC;locus_tag=TBhypo2152.genome.CDS.1759
+TBhypo2152.contig.102	feature	CDS	6322	6843	.	-	0	ID=TBhypo2152.genome.CDS.1758;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1758
+TBhypo2152.contig.102	feature	CDS	4238	6325	.	-	0	ID=TBhypo2152.genome.CDS.1757;Product=Cell division protein FtsI %5BPeptidoglycan synthetase%5D %28EC 2.4.1.129%29;locus_tag=TBhypo2152.genome.CDS.1757
+TBhypo2152.contig.102	feature	CDS	3073	4224	.	-	0	ID=TBhypo2152.genome.CDS.1756;Product=Rod shape-determining protein RodA;locus_tag=TBhypo2152.genome.CDS.1756
+TBhypo2152.contig.102	feature	CDS	711	2894	.	-	0	ID=TBhypo2152.genome.CDS.1755;Product=Cytoplasmic axial filament protein CafA and Ribonuclease G %28EC 3.1.4.-%29;locus_tag=TBhypo2152.genome.CDS.1755
+TBhypo2152.contig.102	feature	CDS	332	640	.	-	0	ID=TBhypo2152.genome.CDS.1754;Product=LSU ribosomal protein L21p;locus_tag=TBhypo2152.genome.CDS.1754
+TBhypo2152.contig.102	feature	CDS	53	313	.	-	0	ID=TBhypo2152.genome.CDS.1753;Product=LSU ribosomal protein L27p;locus_tag=TBhypo2152.genome.CDS.1753
+TBhypo2152.contig.103	feature	CDS	4018	4701	.	-	0	ID=TBhypo2152.genome.CDS.1772;Product=Mlr1763 protein;locus_tag=TBhypo2152.genome.CDS.1772
+TBhypo2152.contig.103	feature	CDS	3562	3993	.	-	0	ID=TBhypo2152.genome.CDS.1771;Product=Peptide methionine sulfoxide reductase MsrB %28EC 1.8.4.12%29;locus_tag=TBhypo2152.genome.CDS.1771
+TBhypo2152.contig.103	feature	CDS	3136	3561	.	+	0	ID=TBhypo2152.genome.CDS.1770;Product=;locus_tag=TBhypo2152.genome.CDS.1770
+TBhypo2152.contig.103	feature	CDS	2129	2902	.	-	0	ID=TBhypo2152.genome.CDS.1769;Product=Proteorhodopsin;locus_tag=TBhypo2152.genome.CDS.1769
+TBhypo2152.contig.103	feature	CDS	1807	2046	.	-	0	ID=TBhypo2152.genome.CDS.1768;Product=;locus_tag=TBhypo2152.genome.CDS.1768
+TBhypo2152.contig.103	feature	CDS	1504	1806	.	+	0	ID=TBhypo2152.genome.CDS.1767;Product=;locus_tag=TBhypo2152.genome.CDS.1767
+TBhypo2152.contig.103	feature	CDS	1200	1514	.	+	0	ID=TBhypo2152.genome.CDS.1766;Product=;locus_tag=TBhypo2152.genome.CDS.1766
+TBhypo2152.contig.103	feature	CDS	169	1131	.	-	0	ID=TBhypo2152.genome.CDS.1765;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1765
+TBhypo2152.contig.103	feature	CDS	3	176	.	+	0	ID=TBhypo2152.genome.CDS.1764;Product=Predicted D-lactate dehydrogenase%2C Fe-S protein%2C FAD/FMN-containing;locus_tag=TBhypo2152.genome.CDS.1764
+TBhypo2152.contig.104	feature	misc_RNA	1	489	.	+	.	ID=TBhypo2152.genome.repeat.15;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.15
+TBhypo2152.contig.104	feature	misc_RNA	10518	10945	.	+	.	ID=TBhypo2152.genome.repeat.16;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.16
+TBhypo2152.contig.104	feature	CDS	9879	10943	.	-	0	ID=TBhypo2152.genome.CDS.1785;Product=putative GFO/IDH/MocA family oxidoreductase;locus_tag=TBhypo2152.genome.CDS.1785
+TBhypo2152.contig.104	feature	CDS	9234	9869	.	+	0	ID=TBhypo2152.genome.CDS.1784;Product=Pantothenate kinase %28EC 2.7.1.33%29;locus_tag=TBhypo2152.genome.CDS.1784
+TBhypo2152.contig.104	feature	CDS	8346	9185	.	-	0	ID=TBhypo2152.genome.CDS.1783;Product=Shikimate 5-dehydrogenase I alpha %28EC 1.1.1.25%29;locus_tag=TBhypo2152.genome.CDS.1783
+TBhypo2152.contig.104	feature	tRNA	8154	8238	.	-	.	ID=TBhypo2152.genome.rna.16;Product=tRNA-Tyr-GTA;locus_tag=TBhypo2152.genome.rna.16
+TBhypo2152.contig.104	feature	CDS	7516	8121	.	-	0	ID=TBhypo2152.genome.CDS.1782;Product=Arabinose 5-phosphate isomerase %28EC 5.3.1.13%29;locus_tag=TBhypo2152.genome.CDS.1782
+TBhypo2152.contig.104	feature	CDS	6608	7486	.	-	0	ID=TBhypo2152.genome.CDS.1781;Product=Ribokinase %28EC 2.7.1.15%29;locus_tag=TBhypo2152.genome.CDS.1781
+TBhypo2152.contig.104	feature	CDS	6204	6599	.	-	0	ID=TBhypo2152.genome.CDS.1780;Product=;locus_tag=TBhypo2152.genome.CDS.1780
+TBhypo2152.contig.104	feature	CDS	5229	6203	.	-	0	ID=TBhypo2152.genome.CDS.1779;Product=L-fuco-beta-pyranose dehydrogenase %28EC 1.1.1.122%29;locus_tag=TBhypo2152.genome.CDS.1779
+TBhypo2152.contig.104	feature	CDS	4527	5225	.	+	0	ID=TBhypo2152.genome.CDS.1778;Product=L-fuconolactone hydrolase;locus_tag=TBhypo2152.genome.CDS.1778
+TBhypo2152.contig.104	feature	CDS	4378	4491	.	+	0	ID=TBhypo2152.genome.CDS.809;Product=;locus_tag=TBhypo2152.genome.CDS.809
+TBhypo2152.contig.104	feature	CDS	3085	4377	.	+	0	ID=TBhypo2152.genome.CDS.1777;Product=L-fuconate dehydratase %28EC 4.2.1.68%29;locus_tag=TBhypo2152.genome.CDS.1777
+TBhypo2152.contig.104	feature	CDS	2308	3057	.	+	0	ID=TBhypo2152.genome.CDS.1776;Product=2-keto-3-deoxy-L-fuconate dehydrogenase;locus_tag=TBhypo2152.genome.CDS.1776
+TBhypo2152.contig.104	feature	CDS	1447	2307	.	+	0	ID=TBhypo2152.genome.CDS.1775;Product=;locus_tag=TBhypo2152.genome.CDS.1775
+TBhypo2152.contig.104	feature	CDS	367	1266	.	-	0	ID=TBhypo2152.genome.CDS.1774;Product=D-3-phosphoglycerate dehydrogenase %28EC 1.1.1.95%29;locus_tag=TBhypo2152.genome.CDS.1774
+TBhypo2152.contig.104	feature	CDS	2	193	.	-	0	ID=TBhypo2152.genome.CDS.1773;Product=;locus_tag=TBhypo2152.genome.CDS.1773
+TBhypo2152.contig.105	feature	misc_RNA	17631	18685	.	+	.	ID=TBhypo2152.genome.repeat.65;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.65
+TBhypo2152.contig.105	feature	CDS	18620	18685	.	+	0	ID=TBhypo2152.genome.CDS.1806;Product=Pantothenate kinase type III%2C CoaX-like %28EC 2.7.1.33%29;locus_tag=TBhypo2152.genome.CDS.1806
+TBhypo2152.contig.105	feature	CDS	17786	18619	.	+	0	ID=TBhypo2152.genome.CDS.838;Product=Quinolinate phosphoribosyltransferase %5Bdecarboxylating%5D %28EC 2.4.2.19%29;locus_tag=TBhypo2152.genome.CDS.838
+TBhypo2152.contig.105	feature	CDS	16176	17789	.	+	0	ID=TBhypo2152.genome.CDS.1804;Product=L-aspartate oxidase %28EC 1.4.3.16%29;locus_tag=TBhypo2152.genome.CDS.1804
+TBhypo2152.contig.105	feature	CDS	15400	16179	.	+	0	ID=TBhypo2152.genome.CDS.1803;Product=Pantoate--beta-alanine ligase %28EC 6.3.2.1%29;locus_tag=TBhypo2152.genome.CDS.1803
+TBhypo2152.contig.105	feature	CDS	14905	15354	.	+	0	ID=TBhypo2152.genome.CDS.1802;Product=2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase %28EC 2.7.6.3%29;locus_tag=TBhypo2152.genome.CDS.1802
+TBhypo2152.contig.105	feature	CDS	14549	14908	.	+	0	ID=TBhypo2152.genome.CDS.1801;Product=Dihydroneopterin aldolase %28EC 4.1.2.25%29;locus_tag=TBhypo2152.genome.CDS.1801
+TBhypo2152.contig.105	feature	CDS	13746	14552	.	+	0	ID=TBhypo2152.genome.CDS.1800;Product=Dihydropteroate synthase %28EC 2.5.1.15%29;locus_tag=TBhypo2152.genome.CDS.1800
+TBhypo2152.contig.105	feature	CDS	13120	13746	.	+	0	ID=TBhypo2152.genome.CDS.1799;Product=GTP cyclohydrolase I %28EC 3.5.4.16%29 type 1;locus_tag=TBhypo2152.genome.CDS.1799
+TBhypo2152.contig.105	feature	CDS	11041	13116	.	+	0	ID=TBhypo2152.genome.CDS.1798;Product=Cell division protein FtsH %28EC 3.4.24.-%29;locus_tag=TBhypo2152.genome.CDS.1798
+TBhypo2152.contig.105	feature	CDS	10493	11044	.	+	0	ID=TBhypo2152.genome.CDS.1797;Product=Hypoxanthine-guanine phosphoribosyltransferase %28EC 2.4.2.8%29;locus_tag=TBhypo2152.genome.CDS.1797
+TBhypo2152.contig.105	feature	CDS	9499	10449	.	+	0	ID=TBhypo2152.genome.CDS.1796;Product=tRNA%28Ile%29-lysidine synthetase %28EC 6.3.4.19%29;locus_tag=TBhypo2152.genome.CDS.1796
+TBhypo2152.contig.105	feature	CDS	8263	9495	.	+	0	ID=TBhypo2152.genome.CDS.1795;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1795
+TBhypo2152.contig.105	feature	CDS	7391	8173	.	+	0	ID=TBhypo2152.genome.CDS.1794;Product=;locus_tag=TBhypo2152.genome.CDS.1794
+TBhypo2152.contig.105	feature	CDS	6479	7381	.	+	0	ID=TBhypo2152.genome.CDS.1793;Product=ABC transporter%2C ATP-binding protein;locus_tag=TBhypo2152.genome.CDS.1793
+TBhypo2152.contig.105	feature	CDS	5592	6482	.	+	0	ID=TBhypo2152.genome.CDS.1792;Product=Heme O synthase%2C protoheme IX farnesyltransferase %28EC 2.5.1.-%29 COX10-CtaB;locus_tag=TBhypo2152.genome.CDS.1792
+TBhypo2152.contig.105	feature	CDS	4441	5562	.	+	0	ID=TBhypo2152.genome.CDS.1791;Product=D-alanyl-D-alanine carboxypeptidase %28EC 3.4.16.4%29;locus_tag=TBhypo2152.genome.CDS.1791
+TBhypo2152.contig.105	feature	CDS	3758	4390	.	-	0	ID=TBhypo2152.genome.CDS.1790;Product=;locus_tag=TBhypo2152.genome.CDS.1790
+TBhypo2152.contig.105	feature	CDS	2829	3761	.	+	0	ID=TBhypo2152.genome.CDS.1789;Product=;locus_tag=TBhypo2152.genome.CDS.1789
+TBhypo2152.contig.105	feature	CDS	2051	2740	.	-	0	ID=TBhypo2152.genome.CDS.1788;Product=;locus_tag=TBhypo2152.genome.CDS.1788
+TBhypo2152.contig.105	feature	CDS	935	1960	.	-	0	ID=TBhypo2152.genome.CDS.1787;Product=surface antigen gene;locus_tag=TBhypo2152.genome.CDS.1787
+TBhypo2152.contig.105	feature	CDS	3	935	.	-	0	ID=TBhypo2152.genome.CDS.1786;Product=;locus_tag=TBhypo2152.genome.CDS.1786
+TBhypo2152.contig.106	feature	CDS	12313	13461	.	+	0	ID=TBhypo2152.genome.CDS.1818;Product=Aspartate aminotransferase %28AspB-4%29 %28EC 2.6.1.1%29;locus_tag=TBhypo2152.genome.CDS.1818
+TBhypo2152.contig.106	feature	CDS	11189	12274	.	+	0	ID=TBhypo2152.genome.CDS.1817;Product=N-acetylmuramoyl-L-alanine amidase %28EC 3.5.1.28%29;locus_tag=TBhypo2152.genome.CDS.1817
+TBhypo2152.contig.106	feature	CDS	10845	11168	.	+	0	ID=TBhypo2152.genome.CDS.1816;Product=Thioredoxin;locus_tag=TBhypo2152.genome.CDS.1816
+TBhypo2152.contig.106	feature	CDS	9875	10807	.	+	0	ID=TBhypo2152.genome.CDS.1815;Product=Thioredoxin reductase %28EC 1.8.1.9%29;locus_tag=TBhypo2152.genome.CDS.1815
+TBhypo2152.contig.106	feature	CDS	8258	9853	.	+	0	ID=TBhypo2152.genome.CDS.1814;Product=Proposed peptidoglycan lipid II flippase MurJ;locus_tag=TBhypo2152.genome.CDS.1814
+TBhypo2152.contig.106	feature	CDS	7161	8261	.	+	0	ID=TBhypo2152.genome.CDS.1813;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1813
+TBhypo2152.contig.106	feature	CDS	6556	7164	.	+	0	ID=TBhypo2152.genome.CDS.1812;Product=MutT/nudix family protein;locus_tag=TBhypo2152.genome.CDS.1812
+TBhypo2152.contig.106	feature	CDS	5070	6509	.	-	0	ID=TBhypo2152.genome.CDS.1811;Product=tRNA nucleotidyltransferase %28EC 2.7.7.27%29;locus_tag=TBhypo2152.genome.CDS.1811
+TBhypo2152.contig.106	feature	CDS	3804	5105	.	+	0	ID=TBhypo2152.genome.CDS.1810;Product=;locus_tag=TBhypo2152.genome.CDS.1810
+TBhypo2152.contig.106	feature	CDS	3339	3761	.	-	0	ID=TBhypo2152.genome.CDS.1809;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1809
+TBhypo2152.contig.106	feature	CDS	1341	3329	.	-	0	ID=TBhypo2152.genome.CDS.1808;Product=Multimodular transpeptidase-transglycosylase %28EC 2.4.1.129%29 %28EC 3.4.-.-%29;locus_tag=TBhypo2152.genome.CDS.1808
+TBhypo2152.contig.106	feature	CDS	150	1337	.	-	0	ID=TBhypo2152.genome.CDS.1807;Product=;locus_tag=TBhypo2152.genome.CDS.1807
+TBhypo2152.contig.107	feature	CDS	13621	14442	.	+	0	ID=TBhypo2152.genome.CDS.1833;Product=Pyrophosphate-energized proton pump %28EC 3.6.1.1%29;locus_tag=TBhypo2152.genome.CDS.1833
+TBhypo2152.contig.107	feature	CDS	12842	13480	.	-	0	ID=TBhypo2152.genome.CDS.1832;Product=;locus_tag=TBhypo2152.genome.CDS.1832
+TBhypo2152.contig.107	feature	CDS	12305	12838	.	+	0	ID=TBhypo2152.genome.CDS.1831;Product=Orotate phosphoribosyltransferase %28EC 2.4.2.10%29;locus_tag=TBhypo2152.genome.CDS.1831
+TBhypo2152.contig.107	feature	CDS	11912	12295	.	+	0	ID=TBhypo2152.genome.CDS.1830;Product=HspR%2C transcriptional repressor of DnaK operon;locus_tag=TBhypo2152.genome.CDS.1830
+TBhypo2152.contig.107	feature	CDS	11007	11915	.	+	0	ID=TBhypo2152.genome.CDS.1829;Product=Chaperone protein DnaJ;locus_tag=TBhypo2152.genome.CDS.1829
+TBhypo2152.contig.107	feature	CDS	10510	11007	.	+	0	ID=TBhypo2152.genome.CDS.1828;Product=Heat shock protein GrpE;locus_tag=TBhypo2152.genome.CDS.1828
+TBhypo2152.contig.107	feature	CDS	8681	10501	.	+	0	ID=TBhypo2152.genome.CDS.1827;Product=Chaperone protein DnaK;locus_tag=TBhypo2152.genome.CDS.1827
+TBhypo2152.contig.107	feature	CDS	7965	8558	.	+	0	ID=TBhypo2152.genome.CDS.1826;Product=;locus_tag=TBhypo2152.genome.CDS.1826
+TBhypo2152.contig.107	feature	CDS	7474	7941	.	+	0	ID=TBhypo2152.genome.CDS.1825;Product=Peptidyl-prolyl cis-trans isomerase %28EC 5.2.1.8%29;locus_tag=TBhypo2152.genome.CDS.1825
+TBhypo2152.contig.107	feature	tRNA	7361	7436	.	+	.	ID=TBhypo2152.genome.rna.18;Product=tRNA-Ala-TGC;locus_tag=TBhypo2152.genome.rna.18
+TBhypo2152.contig.107	feature	tRNA	7211	7288	.	+	.	ID=TBhypo2152.genome.rna.17;Product=tRNA-Ile-GAT;locus_tag=TBhypo2152.genome.rna.17
+TBhypo2152.contig.107	feature	CDS	5390	7123	.	+	0	ID=TBhypo2152.genome.CDS.1824;Product=DNA gyrase subunit A %28EC 5.99.1.3%29;locus_tag=TBhypo2152.genome.CDS.1824
+TBhypo2152.contig.107	feature	CDS	4638	5402	.	+	0	ID=TBhypo2152.genome.CDS.1823;Product=DNA gyrase subunit A %28EC 5.99.1.3%29;locus_tag=TBhypo2152.genome.CDS.1823
+TBhypo2152.contig.107	feature	CDS	2683	4638	.	+	0	ID=TBhypo2152.genome.CDS.1822;Product=DNA gyrase subunit B %28EC 5.99.1.3%29;locus_tag=TBhypo2152.genome.CDS.1822
+TBhypo2152.contig.107	feature	CDS	2051	2503	.	+	0	ID=TBhypo2152.genome.CDS.1821;Product=;locus_tag=TBhypo2152.genome.CDS.1821
+TBhypo2152.contig.107	feature	CDS	1170	2054	.	+	0	ID=TBhypo2152.genome.CDS.1820;Product=DNA recombination and repair protein RecF;locus_tag=TBhypo2152.genome.CDS.1820
+TBhypo2152.contig.107	feature	CDS	815	958	.	+	0	ID=TBhypo2152.genome.CDS.851;Product=DNA polymerase III beta subunit %28EC 2.7.7.7%29;locus_tag=TBhypo2152.genome.CDS.851
+TBhypo2152.contig.107	feature	CDS	3	683	.	+	0	ID=TBhypo2152.genome.CDS.1819;Product=DNA polymerase III beta subunit %28EC 2.7.7.7%29;locus_tag=TBhypo2152.genome.CDS.1819
+TBhypo2152.contig.108	feature	CDS	5196	5639	.	-	0	ID=TBhypo2152.genome.CDS.1841;Product=Gamma-aminobutyrate:alpha-ketoglutarate aminotransferase %28EC 2.6.1.19%29;locus_tag=TBhypo2152.genome.CDS.1841
+TBhypo2152.contig.108	feature	CDS	3661	5127	.	-	0	ID=TBhypo2152.genome.CDS.1840;Product=;locus_tag=TBhypo2152.genome.CDS.1840
+TBhypo2152.contig.108	feature	CDS	2963	3661	.	-	0	ID=TBhypo2152.genome.CDS.1839;Product=Cell division transporter%2C ATP-binding protein FtsE %28TC 3.A.5.1.1%29;locus_tag=TBhypo2152.genome.CDS.1839
+TBhypo2152.contig.108	feature	CDS	2007	2936	.	-	0	ID=TBhypo2152.genome.CDS.868;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.868
+TBhypo2152.contig.108	feature	CDS	1730	1969	.	-	0	ID=TBhypo2152.genome.CDS.1837;Product=;locus_tag=TBhypo2152.genome.CDS.1837
+TBhypo2152.contig.108	feature	CDS	991	1737	.	-	0	ID=TBhypo2152.genome.CDS.1836;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1836
+TBhypo2152.contig.108	feature	CDS	466	951	.	-	0	ID=TBhypo2152.genome.CDS.1835;Product=;locus_tag=TBhypo2152.genome.CDS.1835
+TBhypo2152.contig.108	feature	CDS	3	473	.	-	0	ID=TBhypo2152.genome.CDS.1834;Product=Fructokinase %28EC 2.7.1.4%29;locus_tag=TBhypo2152.genome.CDS.1834
+TBhypo2152.contig.109	feature	CDS	8445	8759	.	-	0	ID=TBhypo2152.genome.CDS.1854;Product=;locus_tag=TBhypo2152.genome.CDS.1854
+TBhypo2152.contig.109	feature	CDS	7869	8441	.	+	0	ID=TBhypo2152.genome.CDS.1853;Product=;locus_tag=TBhypo2152.genome.CDS.1853
+TBhypo2152.contig.109	feature	CDS	7183	7869	.	+	0	ID=TBhypo2152.genome.CDS.1852;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1852
+TBhypo2152.contig.109	feature	CDS	5995	7056	.	-	0	ID=TBhypo2152.genome.CDS.1851;Product=type II secretion system protein E;locus_tag=TBhypo2152.genome.CDS.1851
+TBhypo2152.contig.109	feature	CDS	5192	5998	.	-	0	ID=TBhypo2152.genome.CDS.1850;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1850
+TBhypo2152.contig.109	feature	CDS	4608	5195	.	-	0	ID=TBhypo2152.genome.CDS.1849;Product=;locus_tag=TBhypo2152.genome.CDS.1849
+TBhypo2152.contig.109	feature	CDS	4317	4559	.	-	0	ID=TBhypo2152.genome.CDS.1848;Product=;locus_tag=TBhypo2152.genome.CDS.1848
+TBhypo2152.contig.109	feature	CDS	3991	4320	.	-	0	ID=TBhypo2152.genome.CDS.1847;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1847
+TBhypo2152.contig.109	feature	CDS	3539	3994	.	-	0	ID=TBhypo2152.genome.CDS.1846;Product=;locus_tag=TBhypo2152.genome.CDS.1846
+TBhypo2152.contig.109	feature	CDS	3054	3539	.	-	0	ID=TBhypo2152.genome.CDS.1845;Product=;locus_tag=TBhypo2152.genome.CDS.1845
+TBhypo2152.contig.109	feature	CDS	2672	3037	.	-	0	ID=TBhypo2152.genome.CDS.875;Product=Peptide chain release factor 2;locus_tag=TBhypo2152.genome.CDS.875
+TBhypo2152.contig.109	feature	CDS	1934	2653	.	-	0	ID=TBhypo2152.genome.CDS.874;Product=Peptide chain release factor 2;locus_tag=TBhypo2152.genome.CDS.874
+TBhypo2152.contig.109	feature	CDS	1145	1807	.	-	0	ID=TBhypo2152.genome.CDS.1843;Product=Cell division transporter%2C ATP-binding protein FtsE %28TC 3.A.5.1.1%29;locus_tag=TBhypo2152.genome.CDS.1843
+TBhypo2152.contig.109	feature	CDS	233	1135	.	-	0	ID=TBhypo2152.genome.CDS.1842;Product=Cell division protein FtsX;locus_tag=TBhypo2152.genome.CDS.1842
+TBhypo2152.contig.11	feature	misc_RNA	7240	7652	.	+	.	ID=TBhypo2152.genome.repeat.50;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.50
+TBhypo2152.contig.11	feature	CDS	5692	7650	.	+	0	ID=TBhypo2152.genome.CDS.1018;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1018
+TBhypo2152.contig.11	feature	CDS	4560	5690	.	+	0	ID=TBhypo2152.genome.CDS.1017;Product=protein of unknown function UPF0118;locus_tag=TBhypo2152.genome.CDS.1017
+TBhypo2152.contig.11	feature	CDS	3315	4532	.	-	0	ID=TBhypo2152.genome.CDS.1016;Product=Chromosome segregation ATPases;locus_tag=TBhypo2152.genome.CDS.1016
+TBhypo2152.contig.11	feature	CDS	2401	3318	.	-	0	ID=TBhypo2152.genome.CDS.1015;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1015
+TBhypo2152.contig.11	feature	CDS	1205	2362	.	-	0	ID=TBhypo2152.genome.CDS.1014;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1014
+TBhypo2152.contig.11	feature	CDS	3	1208	.	+	0	ID=TBhypo2152.genome.CDS.1013;Product=Pyruvate dehydrogenase E1 component %28EC 1.2.4.1%29;locus_tag=TBhypo2152.genome.CDS.1013
+TBhypo2152.contig.110	feature	misc_RNA	2	411	.	+	.	ID=TBhypo2152.genome.repeat.74;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.74
+TBhypo2152.contig.110	feature	CDS	8523	9017	.	-	0	ID=TBhypo2152.genome.CDS.1862;Product=DNA topoisomerase I %28EC 5.99.1.2%29;locus_tag=TBhypo2152.genome.CDS.1862
+TBhypo2152.contig.110	feature	CDS	6480	8513	.	-	0	ID=TBhypo2152.genome.CDS.1861;Product=Thymidylate kinase %28EC 2.7.4.9%29;locus_tag=TBhypo2152.genome.CDS.1861
+TBhypo2152.contig.110	feature	CDS	5338	6480	.	-	0	ID=TBhypo2152.genome.CDS.1860;Product=DNA polymerase III delta prime subunit %28EC 2.7.7.7%29;locus_tag=TBhypo2152.genome.CDS.1860
+TBhypo2152.contig.110	feature	CDS	3850	5328	.	-	0	ID=TBhypo2152.genome.CDS.1859;Product=probable exported protease %5BEC:3.4.-.-%5D;locus_tag=TBhypo2152.genome.CDS.1859
+TBhypo2152.contig.110	feature	CDS	3155	3799	.	-	0	ID=TBhypo2152.genome.CDS.1858;Product=;locus_tag=TBhypo2152.genome.CDS.1858
+TBhypo2152.contig.110	feature	tRNA	3062	3136	.	-	.	ID=TBhypo2152.genome.rna.19;Product=tRNA-Thr-CGT;locus_tag=TBhypo2152.genome.rna.19
+TBhypo2152.contig.110	feature	CDS	1503	2930	.	-	0	ID=TBhypo2152.genome.CDS.1857;Product=Amino acid permease;locus_tag=TBhypo2152.genome.CDS.1857
+TBhypo2152.contig.110	feature	CDS	981	1445	.	-	0	ID=TBhypo2152.genome.CDS.1856;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1856
+TBhypo2152.contig.110	feature	CDS	1	963	.	-	0	ID=TBhypo2152.genome.CDS.1855;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1855
+TBhypo2152.contig.111	feature	misc_RNA	2	490	.	+	.	ID=TBhypo2152.genome.repeat.69;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.69
+TBhypo2152.contig.111	feature	CDS	4324	6276	.	-	0	ID=TBhypo2152.genome.CDS.1868;Product=Catalase %28EC 1.11.1.6%29 / Peroxidase %28EC 1.11.1.7%29;locus_tag=TBhypo2152.genome.CDS.1868
+TBhypo2152.contig.111	feature	CDS	4140	4310	.	+	0	ID=TBhypo2152.genome.CDS.1867;Product=;locus_tag=TBhypo2152.genome.CDS.1867
+TBhypo2152.contig.111	feature	CDS	2963	3970	.	+	0	ID=TBhypo2152.genome.CDS.1866;Product=Ribose ABC transport system%2C permease protein RbsC %28TC 3.A.1.2.1%29;locus_tag=TBhypo2152.genome.CDS.1866
+TBhypo2152.contig.111	feature	CDS	1433	2938	.	+	0	ID=TBhypo2152.genome.CDS.1865;Product=Ribose ABC transport system%2C ATP-binding protein RbsA %28TC 3.A.1.2.1%29;locus_tag=TBhypo2152.genome.CDS.1865
+TBhypo2152.contig.111	feature	CDS	298	1293	.	+	0	ID=TBhypo2152.genome.CDS.1864;Product=Possible fucose ABC transporter%2C substrate-binding component;locus_tag=TBhypo2152.genome.CDS.1864
+TBhypo2152.contig.111	feature	CDS	2	124	.	+	0	ID=TBhypo2152.genome.CDS.1863;Product=;locus_tag=TBhypo2152.genome.CDS.1863
+TBhypo2152.contig.112	feature	misc_RNA	1	773	.	+	.	ID=TBhypo2152.genome.repeat.24;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.24
+TBhypo2152.contig.112	feature	CDS	2633	3319	.	+	0	ID=TBhypo2152.genome.CDS.1872;Product=;locus_tag=TBhypo2152.genome.CDS.1872
+TBhypo2152.contig.112	feature	CDS	1605	2636	.	+	0	ID=TBhypo2152.genome.CDS.1871;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1871
+TBhypo2152.contig.112	feature	CDS	1061	1468	.	+	0	ID=TBhypo2152.genome.CDS.1870;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1870
+TBhypo2152.contig.112	feature	tRNA	984	1057	.	+	.	ID=TBhypo2152.genome.rna.20;Product=tRNA-Val-GAC;locus_tag=TBhypo2152.genome.rna.20
+TBhypo2152.contig.112	feature	CDS	2	703	.	-	0	ID=TBhypo2152.genome.CDS.1869;Product=Beta-carotene ketolase;locus_tag=TBhypo2152.genome.CDS.1869
+TBhypo2152.contig.113	feature	misc_RNA	3	412	.	+	.	ID=TBhypo2152.genome.repeat.39;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.39
+TBhypo2152.contig.113	feature	misc_RNA	5353	5479	.	+	.	ID=TBhypo2152.genome.repeat.40;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.40
+TBhypo2152.contig.113	feature	CDS	4935	5477	.	-	0	ID=TBhypo2152.genome.CDS.1878;Product=;locus_tag=TBhypo2152.genome.CDS.1878
+TBhypo2152.contig.113	feature	CDS	4337	4942	.	-	0	ID=TBhypo2152.genome.CDS.1877;Product=;locus_tag=TBhypo2152.genome.CDS.1877
+TBhypo2152.contig.113	feature	CDS	2746	4350	.	+	0	ID=TBhypo2152.genome.CDS.1876;Product=ATP-dependent RNA helicase;locus_tag=TBhypo2152.genome.CDS.1876
+TBhypo2152.contig.113	feature	CDS	1970	2659	.	+	0	ID=TBhypo2152.genome.CDS.1875;Product=Putative amidotransferase similar to cobyric acid synthase;locus_tag=TBhypo2152.genome.CDS.1875
+TBhypo2152.contig.113	feature	CDS	849	1970	.	+	0	ID=TBhypo2152.genome.CDS.1874;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1874
+TBhypo2152.contig.113	feature	CDS	3	833	.	+	0	ID=TBhypo2152.genome.CDS.1873;Product=;locus_tag=TBhypo2152.genome.CDS.1873
+TBhypo2152.contig.12	feature	CDS	6409	6969	.	+	0	ID=TBhypo2152.genome.CDS.1024;Product=;locus_tag=TBhypo2152.genome.CDS.1024
+TBhypo2152.contig.12	feature	CDS	4947	6305	.	-	0	ID=TBhypo2152.genome.CDS.1023;Product=SSU ribosomal protein S1p;locus_tag=TBhypo2152.genome.CDS.1023
+TBhypo2152.contig.12	feature	CDS	4356	4844	.	-	0	ID=TBhypo2152.genome.CDS.1022;Product=Dephospho-CoA kinase %28EC 2.7.1.24%29;locus_tag=TBhypo2152.genome.CDS.1022
+TBhypo2152.contig.12	feature	CDS	2151	4238	.	-	0	ID=TBhypo2152.genome.CDS.1021;Product=Excinuclease ABC subunit B;locus_tag=TBhypo2152.genome.CDS.1021
+TBhypo2152.contig.12	feature	CDS	1534	2154	.	-	0	ID=TBhypo2152.genome.CDS.1020;Product=Excinuclease ABC subunit A;locus_tag=TBhypo2152.genome.CDS.1020
+TBhypo2152.contig.12	feature	CDS	3	1523	.	-	0	ID=TBhypo2152.genome.CDS.1019;Product=Excinuclease ABC subunit A;locus_tag=TBhypo2152.genome.CDS.1019
+TBhypo2152.contig.13	feature	misc_RNA	41	813	.	+	.	ID=TBhypo2152.genome.repeat.23;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.23
+TBhypo2152.contig.13	feature	CDS	5890	6222	.	-	0	ID=TBhypo2152.genome.CDS.1031;Product=;locus_tag=TBhypo2152.genome.CDS.1031
+TBhypo2152.contig.13	feature	CDS	5562	5885	.	-	0	ID=TBhypo2152.genome.CDS.1030;Product=;locus_tag=TBhypo2152.genome.CDS.1030
+TBhypo2152.contig.13	feature	CDS	4830	5390	.	-	0	ID=TBhypo2152.genome.CDS.1029;Product=;locus_tag=TBhypo2152.genome.CDS.1029
+TBhypo2152.contig.13	feature	CDS	3743	4747	.	-	0	ID=TBhypo2152.genome.CDS.1028;Product=AMIDASE;locus_tag=TBhypo2152.genome.CDS.1028
+TBhypo2152.contig.13	feature	CDS	2955	3716	.	-	0	ID=TBhypo2152.genome.CDS.1027;Product=Short-chain dehydrogenase/reductase SDR;locus_tag=TBhypo2152.genome.CDS.1027
+TBhypo2152.contig.13	feature	CDS	1680	2903	.	+	0	ID=TBhypo2152.genome.CDS.1026;Product=L-lactate dehydrogenase %28EC 1.1.2.3%29;locus_tag=TBhypo2152.genome.CDS.1026
+TBhypo2152.contig.13	feature	CDS	111	1631	.	+	0	ID=TBhypo2152.genome.CDS.1025;Product=Beta-carotene ketolase;locus_tag=TBhypo2152.genome.CDS.1025
+TBhypo2152.contig.14	feature	misc_RNA	5792	6219	.	+	.	ID=TBhypo2152.genome.repeat.3;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.3
+TBhypo2152.contig.14	feature	CDS	5719	6219	.	+	0	ID=TBhypo2152.genome.CDS.1039;Product=;locus_tag=TBhypo2152.genome.CDS.1039
+TBhypo2152.contig.14	feature	CDS	4883	5710	.	+	0	ID=TBhypo2152.genome.CDS.1038;Product=COG1830: DhnA-type fructose-1%2C6-bisphosphate aldolase and related enzymes;locus_tag=TBhypo2152.genome.CDS.1038
+TBhypo2152.contig.14	feature	CDS	3787	4716	.	-	0	ID=TBhypo2152.genome.CDS.1037;Product=Mannose-6-phosphate isomerase %28EC 5.3.1.8%29;locus_tag=TBhypo2152.genome.CDS.1037
+TBhypo2152.contig.14	feature	CDS	2460	3773	.	-	0	ID=TBhypo2152.genome.CDS.1036;Product=;locus_tag=TBhypo2152.genome.CDS.1036
+TBhypo2152.contig.14	feature	CDS	1653	2408	.	-	0	ID=TBhypo2152.genome.CDS.1035;Product=Polyphosphate glucokinase %28EC 2.7.1.63%29;locus_tag=TBhypo2152.genome.CDS.1035
+TBhypo2152.contig.14	feature	CDS	687	1646	.	-	0	ID=TBhypo2152.genome.CDS.1034;Product=5-keto-2-deoxygluconokinase %28EC 2.7.1.92%29;locus_tag=TBhypo2152.genome.CDS.1034
+TBhypo2152.contig.14	feature	CDS	592	687	.	-	0	ID=TBhypo2152.genome.CDS.1033;Product=;locus_tag=TBhypo2152.genome.CDS.1033
+TBhypo2152.contig.14	feature	CDS	3	599	.	-	0	ID=TBhypo2152.genome.CDS.1032;Product=Methylmalonate-semialdehyde dehydrogenase %5Binositol%5D %28EC 1.2.1.27%29;locus_tag=TBhypo2152.genome.CDS.1032
+TBhypo2152.contig.15	feature	misc_RNA	1	1464	.	+	.	ID=TBhypo2152.genome.repeat.63;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.63
+TBhypo2152.contig.15	feature	CDS	5590	6099	.	+	0	ID=TBhypo2152.genome.CDS.1048;Product=3-oxoacyl-%5Bacyl-carrier protein%5D reductase %28EC 1.1.1.100%29;locus_tag=TBhypo2152.genome.CDS.1048
+TBhypo2152.contig.15	feature	CDS	5224	5517	.	-	0	ID=TBhypo2152.genome.CDS.1047;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1047
+TBhypo2152.contig.15	feature	CDS	3344	5227	.	+	0	ID=TBhypo2152.genome.CDS.1046;Product=ABC transporter%2C ATP-binding/permease protein;locus_tag=TBhypo2152.genome.CDS.1046
+TBhypo2152.contig.15	feature	CDS	2994	3314	.	+	0	ID=TBhypo2152.genome.CDS.1045;Product=PaaD-like protein %28DUF59%29 involved in Fe-S cluster assembly;locus_tag=TBhypo2152.genome.CDS.1045
+TBhypo2152.contig.15	feature	CDS	2561	3001	.	+	0	ID=TBhypo2152.genome.CDS.1044;Product=Putative iron-sulfur cluster assembly scaffold protein for SUF system%2C SufE2;locus_tag=TBhypo2152.genome.CDS.1044
+TBhypo2152.contig.15	feature	CDS	1317	2561	.	+	0	ID=TBhypo2152.genome.CDS.1043;Product=Cysteine desulfurase %28EC 2.8.1.7%29%2C SufS subfamily;locus_tag=TBhypo2152.genome.CDS.1043
+TBhypo2152.contig.15	feature	CDS	552	1304	.	+	0	ID=TBhypo2152.genome.CDS.1042;Product=Iron-sulfur cluster assembly ATPase protein SufC;locus_tag=TBhypo2152.genome.CDS.1042
+TBhypo2152.contig.15	feature	CDS	235	555	.	+	0	ID=TBhypo2152.genome.CDS.1041;Product=Ferredoxin%2C 2Fe-2S;locus_tag=TBhypo2152.genome.CDS.1041
+TBhypo2152.contig.15	feature	CDS	2	235	.	+	0	ID=TBhypo2152.genome.CDS.1040;Product=Iron-sulfur cluster assembly protein SufD;locus_tag=TBhypo2152.genome.CDS.1040
+TBhypo2152.contig.16	feature	CDS	4059	5969	.	+	0	ID=TBhypo2152.genome.CDS.1055;Product=Phenylalanyl-tRNA synthetase beta chain %28EC 6.1.1.20%29;locus_tag=TBhypo2152.genome.CDS.1055
+TBhypo2152.contig.16	feature	CDS	3031	4062	.	+	0	ID=TBhypo2152.genome.CDS.1054;Product=Phenylalanyl-tRNA synthetase alpha chain %28EC 6.1.1.20%29;locus_tag=TBhypo2152.genome.CDS.1054
+TBhypo2152.contig.16	feature	CDS	2198	3016	.	+	0	ID=TBhypo2152.genome.CDS.1053;Product=FIG011178: rRNA methylase;locus_tag=TBhypo2152.genome.CDS.1053
+TBhypo2152.contig.16	feature	CDS	1824	2186	.	+	0	ID=TBhypo2152.genome.CDS.1052;Product=LSU ribosomal protein L20p;locus_tag=TBhypo2152.genome.CDS.1052
+TBhypo2152.contig.16	feature	CDS	1613	1810	.	+	0	ID=TBhypo2152.genome.CDS.1051;Product=LSU ribosomal protein L35p;locus_tag=TBhypo2152.genome.CDS.1051
+TBhypo2152.contig.16	feature	CDS	886	1584	.	+	0	ID=TBhypo2152.genome.CDS.1050;Product=Translation initiation factor 3;locus_tag=TBhypo2152.genome.CDS.1050
+TBhypo2152.contig.16	feature	CDS	53	823	.	+	0	ID=TBhypo2152.genome.CDS.1049;Product=Enoyl-%5Bacyl-carrier-protein%5D reductase %5BNADH%5D %28EC 1.3.1.9%29;locus_tag=TBhypo2152.genome.CDS.1049
+TBhypo2152.contig.17	feature	CDS	4663	5361	.	+	0	ID=TBhypo2152.genome.CDS.1062;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1062
+TBhypo2152.contig.17	feature	CDS	3859	4653	.	+	0	ID=TBhypo2152.genome.CDS.1061;Product=Prolipoprotein diacylglyceryl transferase %28EC 2.4.99.-%29;locus_tag=TBhypo2152.genome.CDS.1061
+TBhypo2152.contig.17	feature	CDS	3133	3816	.	+	0	ID=TBhypo2152.genome.CDS.1060;Product=;locus_tag=TBhypo2152.genome.CDS.1060
+TBhypo2152.contig.17	feature	CDS	2629	3081	.	+	0	ID=TBhypo2152.genome.CDS.1059;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1059
+TBhypo2152.contig.17	feature	CDS	1835	2632	.	+	0	ID=TBhypo2152.genome.CDS.1058;Product=Tryptophan synthase alpha chain %28EC 4.2.1.20%29;locus_tag=TBhypo2152.genome.CDS.1058
+TBhypo2152.contig.17	feature	CDS	635	1834	.	+	0	ID=TBhypo2152.genome.CDS.1057;Product=Tryptophan synthase beta chain %28EC 4.2.1.20%29;locus_tag=TBhypo2152.genome.CDS.1057
+TBhypo2152.contig.17	feature	CDS	3	614	.	+	0	ID=TBhypo2152.genome.CDS.1056;Product=Indole-3-glycerol phosphate synthase %28EC 4.1.1.48%29;locus_tag=TBhypo2152.genome.CDS.1056
+TBhypo2152.contig.18	feature	CDS	4691	5068	.	-	0	ID=TBhypo2152.genome.CDS.1067;Product=;locus_tag=TBhypo2152.genome.CDS.1067
+TBhypo2152.contig.18	feature	CDS	3260	4618	.	-	0	ID=TBhypo2152.genome.CDS.1066;Product=PLP-dependent aminotransferase NCgl2355 %28class III%29;locus_tag=TBhypo2152.genome.CDS.1066
+TBhypo2152.contig.18	feature	CDS	1598	3202	.	+	0	ID=TBhypo2152.genome.CDS.1065;Product=Multidrug resistance protein ErmB;locus_tag=TBhypo2152.genome.CDS.1065
+TBhypo2152.contig.18	feature	CDS	496	1485	.	-	0	ID=TBhypo2152.genome.CDS.1064;Product=;locus_tag=TBhypo2152.genome.CDS.1064
+TBhypo2152.contig.18	feature	CDS	2	499	.	-	0	ID=TBhypo2152.genome.CDS.1063;Product=;locus_tag=TBhypo2152.genome.CDS.1063
+TBhypo2152.contig.19	feature	CDS	4545	4781	.	+	0	ID=TBhypo2152.genome.CDS.1074;Product=;locus_tag=TBhypo2152.genome.CDS.1074
+TBhypo2152.contig.19	feature	CDS	3865	4548	.	+	0	ID=TBhypo2152.genome.CDS.1073;Product=;locus_tag=TBhypo2152.genome.CDS.1073
+TBhypo2152.contig.19	feature	CDS	3240	3815	.	-	0	ID=TBhypo2152.genome.CDS.1072;Product=putative oxidoreductase;locus_tag=TBhypo2152.genome.CDS.1072
+TBhypo2152.contig.19	feature	CDS	2863	3153	.	-	0	ID=TBhypo2152.genome.CDS.149;Product=;locus_tag=TBhypo2152.genome.CDS.149
+TBhypo2152.contig.19	feature	CDS	1553	2866	.	+	0	ID=TBhypo2152.genome.CDS.1070;Product=Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase and related deacylases;locus_tag=TBhypo2152.genome.CDS.1070
+TBhypo2152.contig.19	feature	tRNA	1405	1491	.	-	.	ID=TBhypo2152.genome.rna.2;Product=tRNA-Leu-GAG;locus_tag=TBhypo2152.genome.rna.2
+TBhypo2152.contig.19	feature	CDS	707	1333	.	-	0	ID=TBhypo2152.genome.CDS.1069;Product=Thymidine kinase %28EC 2.7.1.21%29;locus_tag=TBhypo2152.genome.CDS.1069
+TBhypo2152.contig.19	feature	CDS	1	675	.	-	0	ID=TBhypo2152.genome.CDS.1068;Product=Alcohol dehydrogenase %28EC 1.1.1.1%29;locus_tag=TBhypo2152.genome.CDS.1068
+TBhypo2152.contig.2	feature	misc_RNA	3809	3935	.	+	.	ID=TBhypo2152.genome.repeat.67;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.67
+TBhypo2152.contig.2	feature	CDS	3485	3934	.	+	0	ID=TBhypo2152.genome.CDS.933;Product=transcriptional regulator%2C MerR family;locus_tag=TBhypo2152.genome.CDS.933
+TBhypo2152.contig.2	feature	CDS	2982	3488	.	+	0	ID=TBhypo2152.genome.CDS.25;Product=;locus_tag=TBhypo2152.genome.CDS.25
+TBhypo2152.contig.2	feature	CDS	2583	2960	.	+	0	ID=TBhypo2152.genome.CDS.931;Product=Glycine cleavage system H protein;locus_tag=TBhypo2152.genome.CDS.931
+TBhypo2152.contig.2	feature	CDS	2021	2590	.	+	0	ID=TBhypo2152.genome.CDS.930;Product=CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase %28EC 2.7.8.5%29;locus_tag=TBhypo2152.genome.CDS.930
+TBhypo2152.contig.2	feature	CDS	1175	2011	.	+	0	ID=TBhypo2152.genome.CDS.929;Product=GTP-binding protein EngA;locus_tag=TBhypo2152.genome.CDS.929
+TBhypo2152.contig.2	feature	CDS	30	1163	.	+	0	ID=TBhypo2152.genome.CDS.928;Product=GTP-binding protein EngA;locus_tag=TBhypo2152.genome.CDS.928
+TBhypo2152.contig.20	feature	misc_RNA	1	594	.	+	.	ID=TBhypo2152.genome.repeat.14;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.14
+TBhypo2152.contig.20	feature	CDS	4099	4506	.	-	0	ID=TBhypo2152.genome.CDS.1079;Product=Ribonuclease HII %28EC 3.1.26.4%29;locus_tag=TBhypo2152.genome.CDS.1079
+TBhypo2152.contig.20	feature	CDS	3148	4023	.	-	0	ID=TBhypo2152.genome.CDS.1078;Product=Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake;locus_tag=TBhypo2152.genome.CDS.1078
+TBhypo2152.contig.20	feature	CDS	2221	3129	.	-	0	ID=TBhypo2152.genome.CDS.1077;Product=GTP-binding protein Era;locus_tag=TBhypo2152.genome.CDS.1077
+TBhypo2152.contig.20	feature	CDS	1356	2231	.	+	0	ID=TBhypo2152.genome.CDS.1076;Product=Permease of the drug/metabolite transporter %28DMT%29 superfamily;locus_tag=TBhypo2152.genome.CDS.1076
+TBhypo2152.contig.20	feature	CDS	3	1331	.	+	0	ID=TBhypo2152.genome.CDS.1075;Product=Xylulose kinase %28EC 2.7.1.17%29;locus_tag=TBhypo2152.genome.CDS.1075
+TBhypo2152.contig.21	feature	misc_RNA	1	127	.	+	.	ID=TBhypo2152.genome.repeat.9;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.9
+TBhypo2152.contig.21	feature	misc_RNA	3472	4049	.	+	.	ID=TBhypo2152.genome.repeat.10;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.10
+TBhypo2152.contig.21	feature	CDS	3803	4048	.	+	0	ID=TBhypo2152.genome.CDS.1085;Product=;locus_tag=TBhypo2152.genome.CDS.1085
+TBhypo2152.contig.21	feature	CDS	3222	3785	.	+	0	ID=TBhypo2152.genome.CDS.1084;Product=Ribosome recycling factor;locus_tag=TBhypo2152.genome.CDS.1084
+TBhypo2152.contig.21	feature	CDS	2488	3141	.	+	0	ID=TBhypo2152.genome.CDS.1083;Product=Uridine monophosphate kinase %28EC 2.7.4.22%29;locus_tag=TBhypo2152.genome.CDS.1083
+TBhypo2152.contig.21	feature	CDS	1610	2437	.	+	0	ID=TBhypo2152.genome.CDS.1082;Product=Translation elongation factor Ts;locus_tag=TBhypo2152.genome.CDS.1082
+TBhypo2152.contig.21	feature	CDS	797	1606	.	+	0	ID=TBhypo2152.genome.CDS.1081;Product=SSU ribosomal protein S2p %28SAe%29;locus_tag=TBhypo2152.genome.CDS.1081
+TBhypo2152.contig.21	feature	CDS	1	558	.	+	0	ID=TBhypo2152.genome.CDS.1080;Product=Site-specific tyrosine recombinase XerC;locus_tag=TBhypo2152.genome.CDS.1080
+TBhypo2152.contig.22	feature	CDS	2992	4041	.	-	0	ID=TBhypo2152.genome.CDS.1092;Product=Aminotransferase class-III;locus_tag=TBhypo2152.genome.CDS.1092
+TBhypo2152.contig.22	feature	CDS	2718	2999	.	-	0	ID=TBhypo2152.genome.CDS.1091;Product=;locus_tag=TBhypo2152.genome.CDS.1091
+TBhypo2152.contig.22	feature	CDS	2321	2647	.	-	0	ID=TBhypo2152.genome.CDS.1090;Product=putative integral membrane protein;locus_tag=TBhypo2152.genome.CDS.1090
+TBhypo2152.contig.22	feature	CDS	1666	2340	.	+	0	ID=TBhypo2152.genome.CDS.1089;Product=Uracil-DNA glycosylase%2C family 5;locus_tag=TBhypo2152.genome.CDS.1089
+TBhypo2152.contig.22	feature	CDS	723	1634	.	+	0	ID=TBhypo2152.genome.CDS.1088;Product=Exopolyphosphatase %28EC 3.6.1.11%29;locus_tag=TBhypo2152.genome.CDS.1088
+TBhypo2152.contig.22	feature	CDS	241	732	.	+	0	ID=TBhypo2152.genome.CDS.1087;Product=FIG004853: possible toxin to DivIC;locus_tag=TBhypo2152.genome.CDS.1087
+TBhypo2152.contig.22	feature	CDS	2	244	.	+	0	ID=TBhypo2152.genome.CDS.1086;Product=;locus_tag=TBhypo2152.genome.CDS.1086
+TBhypo2152.contig.23	feature	misc_RNA	5	224	.	+	.	ID=TBhypo2152.genome.repeat.48;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.48
+TBhypo2152.contig.23	feature	misc_RNA	3122	3465	.	+	.	ID=TBhypo2152.genome.repeat.49;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.49
+TBhypo2152.contig.23	feature	CDS	1167	3464	.	-	0	ID=TBhypo2152.genome.CDS.1095;Product=DNA translocase FtsK;locus_tag=TBhypo2152.genome.CDS.1095
+TBhypo2152.contig.23	feature	CDS	290	1030	.	-	0	ID=TBhypo2152.genome.CDS.1094;Product=;locus_tag=TBhypo2152.genome.CDS.1094
+TBhypo2152.contig.23	feature	CDS	1	231	.	-	0	ID=TBhypo2152.genome.CDS.1093;Product=CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase %28EC 2.7.8.5%29;locus_tag=TBhypo2152.genome.CDS.1093
+TBhypo2152.contig.24	feature	misc_RNA	2370	2893	.	+	.	ID=TBhypo2152.genome.repeat.12;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.12
+TBhypo2152.contig.24	feature	CDS	1634	2893	.	-	0	ID=TBhypo2152.genome.CDS.1098;Product=ATP-dependent DNA helicase UvrD/PcrA;locus_tag=TBhypo2152.genome.CDS.1098
+TBhypo2152.contig.24	feature	CDS	404	1564	.	-	0	ID=TBhypo2152.genome.CDS.1097;Product=Succinyl-CoA ligase %5BADP-forming%5D beta chain %28EC 6.2.1.5%29;locus_tag=TBhypo2152.genome.CDS.1097
+TBhypo2152.contig.24	feature	CDS	2	403	.	-	0	ID=TBhypo2152.genome.CDS.1096;Product=Succinyl-CoA ligase %5BADP-forming%5D alpha chain %28EC 6.2.1.5%29;locus_tag=TBhypo2152.genome.CDS.1096
+TBhypo2152.contig.25	feature	CDS	2295	2756	.	+	0	ID=TBhypo2152.genome.CDS.1102;Product=NAD%28P%29 transhydrogenase alpha subunit %28EC 1.6.1.2%29;locus_tag=TBhypo2152.genome.CDS.1102
+TBhypo2152.contig.25	feature	CDS	1283	2221	.	+	0	ID=TBhypo2152.genome.CDS.1101;Product=Ornithine carbamoyltransferase %28EC 2.1.3.3%29;locus_tag=TBhypo2152.genome.CDS.1101
+TBhypo2152.contig.25	feature	CDS	992	1252	.	-	0	ID=TBhypo2152.genome.CDS.1100;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1100
+TBhypo2152.contig.25	feature	CDS	3	992	.	-	0	ID=TBhypo2152.genome.CDS.1099;Product=;locus_tag=TBhypo2152.genome.CDS.1099
+TBhypo2152.contig.26	feature	misc_RNA	1	116	.	+	.	ID=TBhypo2152.genome.repeat.26;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.26
+TBhypo2152.contig.26	feature	misc_RNA	5157	5992	.	+	.	ID=TBhypo2152.genome.repeat.27;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.27
+TBhypo2152.contig.26	feature	CDS	5281	5991	.	-	0	ID=TBhypo2152.genome.CDS.1111;Product=Cysteinyl-tRNA synthetase %28EC 6.1.1.16%29;locus_tag=TBhypo2152.genome.CDS.1111
+TBhypo2152.contig.26	feature	CDS	4398	5291	.	+	0	ID=TBhypo2152.genome.CDS.1110;Product=1D-myo-inositol 2-acetamido-2-deoxy-alpha-D-glucopyranoside deacetylase %28EC 3.5.1.103%29;locus_tag=TBhypo2152.genome.CDS.1110
+TBhypo2152.contig.26	feature	CDS	4069	4398	.	+	0	ID=TBhypo2152.genome.CDS.1109;Product=Sulfur carrier protein adenylyltransferase ThiF;locus_tag=TBhypo2152.genome.CDS.1109
+TBhypo2152.contig.26	feature	CDS	3397	4032	.	-	0	ID=TBhypo2152.genome.CDS.1108;Product=Transcriptional regulator%2C TetR family;locus_tag=TBhypo2152.genome.CDS.1108
+TBhypo2152.contig.26	feature	CDS	3129	3383	.	-	0	ID=TBhypo2152.genome.CDS.1107;Product=;locus_tag=TBhypo2152.genome.CDS.1107
+TBhypo2152.contig.26	feature	CDS	2297	3142	.	+	0	ID=TBhypo2152.genome.CDS.1106;Product=FIG00031715: Predicted metal-dependent phosphoesterases %28PHP family%29;locus_tag=TBhypo2152.genome.CDS.1106
+TBhypo2152.contig.26	feature	CDS	1402	2304	.	+	0	ID=TBhypo2152.genome.CDS.1105;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1105
+TBhypo2152.contig.26	feature	CDS	161	1396	.	+	0	ID=TBhypo2152.genome.CDS.1104;Product=Manganese transport protein MntH;locus_tag=TBhypo2152.genome.CDS.1104
+TBhypo2152.contig.26	feature	CDS	3	149	.	+	0	ID=TBhypo2152.genome.CDS.1103;Product=;locus_tag=TBhypo2152.genome.CDS.1103
+TBhypo2152.contig.27	feature	CDS	7608	7802	.	-	0	ID=TBhypo2152.genome.CDS.1120;Product=;locus_tag=TBhypo2152.genome.CDS.1120
+TBhypo2152.contig.27	feature	CDS	5855	7585	.	+	0	ID=TBhypo2152.genome.CDS.1119;Product=Biotin carboxylase of acetyl-CoA carboxylase %28EC 6.3.4.14%29 / Biotin carboxyl carrier protein of acetyl-CoA carboxylase;locus_tag=TBhypo2152.genome.CDS.1119
+TBhypo2152.contig.27	feature	CDS	5238	5858	.	+	0	ID=TBhypo2152.genome.CDS.1118;Product=Septum formation protein Maf;locus_tag=TBhypo2152.genome.CDS.1118
+TBhypo2152.contig.27	feature	CDS	5029	5241	.	+	0	ID=TBhypo2152.genome.CDS.1117;Product=;locus_tag=TBhypo2152.genome.CDS.1117
+TBhypo2152.contig.27	feature	CDS	3467	5029	.	+	0	ID=TBhypo2152.genome.CDS.1116;Product=Acetyl-coenzyme A carboxyl transferase alpha chain %28EC 6.4.1.2%29 / Acetyl-coenzyme A carboxyl transferase beta chain %28EC 6.4.1.2%29%3B Propionyl-CoA carboxylase beta chain %28EC 6.4.1.3%29;locus_tag=TBhypo2152.genome.CDS.1116
+TBhypo2152.contig.27	feature	CDS	2678	3436	.	-	0	ID=TBhypo2152.genome.CDS.1115;Product=;locus_tag=TBhypo2152.genome.CDS.1115
+TBhypo2152.contig.27	feature	CDS	1557	2681	.	-	0	ID=TBhypo2152.genome.CDS.1114;Product=Phosphoribosylaminoimidazole carboxylase ATPase subunit %28EC 4.1.1.21%29;locus_tag=TBhypo2152.genome.CDS.1114
+TBhypo2152.contig.27	feature	CDS	1052	1564	.	-	0	ID=TBhypo2152.genome.CDS.1113;Product=Phosphoribosylaminoimidazole carboxylase catalytic subunit %28EC 4.1.1.21%29;locus_tag=TBhypo2152.genome.CDS.1113
+TBhypo2152.contig.27	feature	CDS	3	1055	.	+	0	ID=TBhypo2152.genome.CDS.1112;Product=UDP-glucose 6-dehydrogenase %28EC 1.1.1.22%29;locus_tag=TBhypo2152.genome.CDS.1112
+TBhypo2152.contig.28	feature	CDS	8155	8451	.	-	0	ID=TBhypo2152.genome.CDS.1129;Product=HNH endonuclease family protein;locus_tag=TBhypo2152.genome.CDS.1129
+TBhypo2152.contig.28	feature	CDS	7938	8123	.	-	0	ID=TBhypo2152.genome.CDS.1128;Product=;locus_tag=TBhypo2152.genome.CDS.1128
+TBhypo2152.contig.28	feature	CDS	5400	7937	.	+	0	ID=TBhypo2152.genome.CDS.1127;Product=Membrane alanine aminopeptidase N %28EC 3.4.11.2%29;locus_tag=TBhypo2152.genome.CDS.1127
+TBhypo2152.contig.28	feature	CDS	4699	5361	.	-	0	ID=TBhypo2152.genome.CDS.1126;Product=tRNA %28guanine46-N7-%29-methyltransferase %28EC 2.1.1.33%29;locus_tag=TBhypo2152.genome.CDS.1126
+TBhypo2152.contig.28	feature	CDS	4253	4702	.	+	0	ID=TBhypo2152.genome.CDS.1125;Product=Ribose 5-phosphate isomerase B %28EC 5.3.1.6%29 / Galactose 6-phosphate isomerase;locus_tag=TBhypo2152.genome.CDS.1125
+TBhypo2152.contig.28	feature	CDS	3532	4185	.	+	0	ID=TBhypo2152.genome.CDS.1124;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1124
+TBhypo2152.contig.28	feature	CDS	2339	3304	.	-	0	ID=TBhypo2152.genome.CDS.1123;Product=Phage tail fiber protein;locus_tag=TBhypo2152.genome.CDS.1123
+TBhypo2152.contig.28	feature	tRNA	2260	2333	.	+	.	ID=TBhypo2152.genome.rna.3;Product=tRNA-Gly-TCC;locus_tag=TBhypo2152.genome.rna.3
+TBhypo2152.contig.28	feature	tRNA	2103	2178	.	-	.	ID=TBhypo2152.genome.rna.4;Product=tRNA-Pro-TGG;locus_tag=TBhypo2152.genome.rna.4
+TBhypo2152.contig.28	feature	CDS	777	2072	.	-	0	ID=TBhypo2152.genome.CDS.1122;Product=Cell division trigger factor %28EC 5.2.1.8%29;locus_tag=TBhypo2152.genome.CDS.1122
+TBhypo2152.contig.28	feature	CDS	35	637	.	-	0	ID=TBhypo2152.genome.CDS.1121;Product=ATP-dependent Clp protease proteolytic subunit %28EC 3.4.21.92%29;locus_tag=TBhypo2152.genome.CDS.1121
+TBhypo2152.contig.29	feature	misc_RNA	1	578	.	+	.	ID=TBhypo2152.genome.repeat.11;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.11
+TBhypo2152.contig.29	feature	CDS	8380	8457	.	+	0	ID=TBhypo2152.genome.CDS.1140;Product=;locus_tag=TBhypo2152.genome.CDS.1140
+TBhypo2152.contig.29	feature	CDS	8115	8360	.	+	0	ID=TBhypo2152.genome.CDS.212;Product=;locus_tag=TBhypo2152.genome.CDS.212
+TBhypo2152.contig.29	feature	CDS	7598	8110	.	+	0	ID=TBhypo2152.genome.CDS.1138;Product=;locus_tag=TBhypo2152.genome.CDS.1138
+TBhypo2152.contig.29	feature	CDS	7091	7594	.	+	0	ID=TBhypo2152.genome.CDS.1137;Product=Prolyl-tRNA synthetase %28EC 6.1.1.15%29%2C bacterial type;locus_tag=TBhypo2152.genome.CDS.1137
+TBhypo2152.contig.29	feature	CDS	5866	6972	.	+	0	ID=TBhypo2152.genome.CDS.1136;Product=Prolyl-tRNA synthetase %28EC 6.1.1.15%29%2C bacterial type;locus_tag=TBhypo2152.genome.CDS.1136
+TBhypo2152.contig.29	feature	CDS	4686	5837	.	+	0	ID=TBhypo2152.genome.CDS.1135;Product=1-hydroxy-2-methyl-2-%28E%29-butenyl 4-diphosphate synthase %28EC 1.17.7.1%29;locus_tag=TBhypo2152.genome.CDS.1135
+TBhypo2152.contig.29	feature	CDS	3479	4666	.	+	0	ID=TBhypo2152.genome.CDS.1134;Product=Membrane-associated zinc metalloprotease;locus_tag=TBhypo2152.genome.CDS.1134
+TBhypo2152.contig.29	feature	CDS	2328	3479	.	+	0	ID=TBhypo2152.genome.CDS.1133;Product=1-deoxy-D-xylulose 5-phosphate reductoisomerase %28EC 1.1.1.267%29;locus_tag=TBhypo2152.genome.CDS.1133
+TBhypo2152.contig.29	feature	CDS	1189	2307	.	+	0	ID=TBhypo2152.genome.CDS.1132;Product=Ribosomal RNA large subunit methyltransferase N %28EC 2.1.1.-%29;locus_tag=TBhypo2152.genome.CDS.1132
+TBhypo2152.contig.29	feature	CDS	332	1180	.	+	0	ID=TBhypo2152.genome.CDS.1131;Product=Phosphatidate cytidylyltransferase %28EC 2.7.7.41%29;locus_tag=TBhypo2152.genome.CDS.1131
+TBhypo2152.contig.29	feature	CDS	3	314	.	+	0	ID=TBhypo2152.genome.CDS.1130;Product=Ribosome recycling factor;locus_tag=TBhypo2152.genome.CDS.1130
+TBhypo2152.contig.3	feature	misc_RNA	1	448	.	+	.	ID=TBhypo2152.genome.repeat.17;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.17
+TBhypo2152.contig.3	feature	CDS	7540	7719	.	+	0	ID=TBhypo2152.genome.CDS.941;Product=Aminomethyltransferase %28glycine cleavage system T protein%29 %28EC 2.1.2.10%29;locus_tag=TBhypo2152.genome.CDS.941
+TBhypo2152.contig.3	feature	CDS	5997	7484	.	-	0	ID=TBhypo2152.genome.CDS.940;Product=Cytosol aminopeptidase PepA %28EC 3.4.11.1%29;locus_tag=TBhypo2152.genome.CDS.940
+TBhypo2152.contig.3	feature	CDS	4550	5917	.	-	0	ID=TBhypo2152.genome.CDS.939;Product=Dihydrolipoamide dehydrogenase of branched-chain alpha-keto acid dehydrogenase %28EC 1.8.1.4%29;locus_tag=TBhypo2152.genome.CDS.939
+TBhypo2152.contig.3	feature	CDS	2849	4534	.	-	0	ID=TBhypo2152.genome.CDS.938;Product=Dihydrolipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex %28EC 2.3.1.168%29;locus_tag=TBhypo2152.genome.CDS.938
+TBhypo2152.contig.3	feature	CDS	1947	2843	.	-	0	ID=TBhypo2152.genome.CDS.937;Product=Cell division inhibitor;locus_tag=TBhypo2152.genome.CDS.937
+TBhypo2152.contig.3	feature	CDS	1293	1940	.	-	0	ID=TBhypo2152.genome.CDS.936;Product=Octanoate-%5Bacyl-carrier-protein%5D-protein-N-octanoyltransferase;locus_tag=TBhypo2152.genome.CDS.936
+TBhypo2152.contig.3	feature	CDS	358	1293	.	-	0	ID=TBhypo2152.genome.CDS.935;Product=Lipoate synthase;locus_tag=TBhypo2152.genome.CDS.935
+TBhypo2152.contig.3	feature	CDS	3	365	.	-	0	ID=TBhypo2152.genome.CDS.934;Product=1-acyl-sn-glycerol-3-phosphate acyltransferase %28EC 2.3.1.51%29;locus_tag=TBhypo2152.genome.CDS.934
+TBhypo2152.contig.30	feature	misc_RNA	1	116	.	+	.	ID=TBhypo2152.genome.repeat.64;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.64
+TBhypo2152.contig.30	feature	CDS	9485	9805	.	+	0	ID=TBhypo2152.genome.CDS.1151;Product=UDP-glucose 6-dehydrogenase %28EC 1.1.1.22%29;locus_tag=TBhypo2152.genome.CDS.1151
+TBhypo2152.contig.30	feature	CDS	8447	9451	.	-	0	ID=TBhypo2152.genome.CDS.1150;Product=Dolichol-phosphate mannosyltransferase %28EC 2.4.1.83%29 in lipid-linked oligosaccharide synthesis cluster;locus_tag=TBhypo2152.genome.CDS.1150
+TBhypo2152.contig.30	feature	CDS	7251	8450	.	-	0	ID=TBhypo2152.genome.CDS.1149;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1149
+TBhypo2152.contig.30	feature	CDS	6347	7258	.	+	0	ID=TBhypo2152.genome.CDS.1148;Product=2%2C3%2C4%2C5-tetrahydropyridine-2%2C6-dicarboxylate N-succinyltransferase %28EC 2.3.1.117%29;locus_tag=TBhypo2152.genome.CDS.1148
+TBhypo2152.contig.30	feature	CDS	6048	6251	.	-	0	ID=TBhypo2152.genome.CDS.1147;Product=;locus_tag=TBhypo2152.genome.CDS.1147
+TBhypo2152.contig.30	feature	CDS	5850	6029	.	-	0	ID=TBhypo2152.genome.CDS.1146;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1146
+TBhypo2152.contig.30	feature	CDS	4341	5840	.	-	0	ID=TBhypo2152.genome.CDS.1145;Product=Cytosol aminopeptidase PepA %28EC 3.4.11.1%29;locus_tag=TBhypo2152.genome.CDS.1145
+TBhypo2152.contig.30	feature	CDS	3680	4309	.	-	0	ID=TBhypo2152.genome.CDS.1144;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1144
+TBhypo2152.contig.30	feature	CDS	2490	3659	.	-	0	ID=TBhypo2152.genome.CDS.1143;Product=putative protease;locus_tag=TBhypo2152.genome.CDS.1143
+TBhypo2152.contig.30	feature	CDS	1334	2461	.	-	0	ID=TBhypo2152.genome.CDS.1142;Product=Mrp protein homolog;locus_tag=TBhypo2152.genome.CDS.1142
+TBhypo2152.contig.30	feature	CDS	1	1290	.	-	0	ID=TBhypo2152.genome.CDS.1141;Product=;locus_tag=TBhypo2152.genome.CDS.1141
+TBhypo2152.contig.31	feature	misc_RNA	1	127	.	+	.	ID=TBhypo2152.genome.repeat.71;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.71
+TBhypo2152.contig.31	feature	CDS	12346	12447	.	-	0	ID=TBhypo2152.genome.CDS.1166;Product=NADP-dependent malic enzyme %28EC 1.1.1.40%29;locus_tag=TBhypo2152.genome.CDS.1166
+TBhypo2152.contig.31	feature	CDS	11570	12298	.	-	0	ID=TBhypo2152.genome.CDS.236;Product=Galactose-1-phosphate uridylyltransferase %28EC 2.7.7.10%29;locus_tag=TBhypo2152.genome.CDS.236
+TBhypo2152.contig.31	feature	CDS	11237	11437	.	-	0	ID=TBhypo2152.genome.CDS.235;Product=Galactose-1-phosphate uridylyltransferase %28EC 2.7.7.10%29;locus_tag=TBhypo2152.genome.CDS.235
+TBhypo2152.contig.31	feature	CDS	9506	11257	.	+	0	ID=TBhypo2152.genome.CDS.1164;Product=COG0488: ATPase components of ABC transporters with duplicated ATPase domains;locus_tag=TBhypo2152.genome.CDS.1164
+TBhypo2152.contig.31	feature	CDS	8358	9506	.	+	0	ID=TBhypo2152.genome.CDS.1163;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1163
+TBhypo2152.contig.31	feature	CDS	7058	8275	.	+	0	ID=TBhypo2152.genome.CDS.1162;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1162
+TBhypo2152.contig.31	feature	CDS	6672	7058	.	+	0	ID=TBhypo2152.genome.CDS.1161;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1161
+TBhypo2152.contig.31	feature	CDS	5919	6662	.	+	0	ID=TBhypo2152.genome.CDS.1160;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1160
+TBhypo2152.contig.31	feature	CDS	4743	5888	.	-	0	ID=TBhypo2152.genome.CDS.1159;Product=Cell envelope-associated transcriptional attenuator LytR-CpsA-Psr%2C subfamily A1 %28as in PMID19099556%29;locus_tag=TBhypo2152.genome.CDS.1159
+TBhypo2152.contig.31	feature	CDS	3814	4743	.	-	0	ID=TBhypo2152.genome.CDS.1158;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1158
+TBhypo2152.contig.31	feature	CDS	3188	3817	.	+	0	ID=TBhypo2152.genome.CDS.1157;Product=;locus_tag=TBhypo2152.genome.CDS.1157
+TBhypo2152.contig.31	feature	CDS	2491	3078	.	-	0	ID=TBhypo2152.genome.CDS.1156;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1156
+TBhypo2152.contig.31	feature	CDS	2050	2490	.	+	0	ID=TBhypo2152.genome.CDS.1155;Product=;locus_tag=TBhypo2152.genome.CDS.1155
+TBhypo2152.contig.31	feature	CDS	1573	2022	.	+	0	ID=TBhypo2152.genome.CDS.1154;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1154
+TBhypo2152.contig.31	feature	CDS	560	1450	.	-	0	ID=TBhypo2152.genome.CDS.1153;Product=Heme ABC transporter%2C cell surface heme and hemoprotein receptor HmuT;locus_tag=TBhypo2152.genome.CDS.1153
+TBhypo2152.contig.31	feature	CDS	3	563	.	-	0	ID=TBhypo2152.genome.CDS.1152;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1152
+TBhypo2152.contig.32	feature	CDS	11936	12508	.	+	0	ID=TBhypo2152.genome.CDS.1178;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1178
+TBhypo2152.contig.32	feature	CDS	10999	11907	.	-	0	ID=TBhypo2152.genome.CDS.1177;Product=NADH pyrophosphatase %28EC 3.6.1.22%29;locus_tag=TBhypo2152.genome.CDS.1177
+TBhypo2152.contig.32	feature	CDS	9373	10998	.	-	0	ID=TBhypo2152.genome.CDS.1176;Product=ATP-dependent DNA helicase UvrD/PcrA%2C actinomycete paralog;locus_tag=TBhypo2152.genome.CDS.1176
+TBhypo2152.contig.32	feature	CDS	9115	9282	.	-	0	ID=TBhypo2152.genome.CDS.1175;Product=;locus_tag=TBhypo2152.genome.CDS.1175
+TBhypo2152.contig.32	feature	CDS	8618	8989	.	-	0	ID=TBhypo2152.genome.CDS.1174;Product=WhiB-family transcriptional regulator;locus_tag=TBhypo2152.genome.CDS.1174
+TBhypo2152.contig.32	feature	CDS	7590	8621	.	+	0	ID=TBhypo2152.genome.CDS.1173;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1173
+TBhypo2152.contig.32	feature	CDS	7313	7471	.	+	0	ID=TBhypo2152.genome.CDS.1172;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1172
+TBhypo2152.contig.32	feature	CDS	6506	7141	.	+	0	ID=TBhypo2152.genome.CDS.1171;Product=Putative predicted metal-dependent hydrolase;locus_tag=TBhypo2152.genome.CDS.1171
+TBhypo2152.contig.32	feature	CDS	5017	6300	.	+	0	ID=TBhypo2152.genome.CDS.1170;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1170
+TBhypo2152.contig.32	feature	CDS	4647	4790	.	-	0	ID=TBhypo2152.genome.CDS.240;Product=;locus_tag=TBhypo2152.genome.CDS.240
+TBhypo2152.contig.32	feature	CDS	1746	4637	.	-	0	ID=TBhypo2152.genome.CDS.1169;Product=UPF0182 protein AF1421;locus_tag=TBhypo2152.genome.CDS.1169
+TBhypo2152.contig.32	feature	tRNA	1619	1695	.	-	.	ID=TBhypo2152.genome.rna.5;Product=tRNA-Met-CAT;locus_tag=TBhypo2152.genome.rna.5
+TBhypo2152.contig.32	feature	CDS	894	1619	.	-	0	ID=TBhypo2152.genome.CDS.1168;Product=6-phosphogluconolactonase %28EC 3.1.1.31%29%2C eukaryotic type;locus_tag=TBhypo2152.genome.CDS.1168
+TBhypo2152.contig.32	feature	CDS	1	897	.	-	0	ID=TBhypo2152.genome.CDS.1167;Product=6-phosphogluconate dehydrogenase%2C decarboxylating %28EC 1.1.1.44%29;locus_tag=TBhypo2152.genome.CDS.1167
+TBhypo2152.contig.33	feature	misc_RNA	32609	33663	.	+	.	ID=TBhypo2152.genome.repeat.46;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.46
+TBhypo2152.contig.33	feature	CDS	33505	33663	.	-	0	ID=TBhypo2152.genome.CDS.1211;Product=;locus_tag=TBhypo2152.genome.CDS.1211
+TBhypo2152.contig.33	feature	CDS	32675	33508	.	-	0	ID=TBhypo2152.genome.CDS.280;Product=Quinolinate phosphoribosyltransferase %5Bdecarboxylating%5D %28EC 2.4.2.19%29;locus_tag=TBhypo2152.genome.CDS.280
+TBhypo2152.contig.33	feature	CDS	31898	32674	.	-	0	ID=TBhypo2152.genome.CDS.1209;Product=Pantothenate kinase type III%2C CoaX-like %28EC 2.7.1.33%29;locus_tag=TBhypo2152.genome.CDS.1209
+TBhypo2152.contig.33	feature	CDS	30372	31871	.	-	0	ID=TBhypo2152.genome.CDS.1208;Product=Lysyl-tRNA synthetase %28class II%29 %28EC 6.1.1.6%29;locus_tag=TBhypo2152.genome.CDS.1208
+TBhypo2152.contig.33	feature	CDS	29878	30375	.	-	0	ID=TBhypo2152.genome.CDS.1207;Product=N-acetylglutamate synthase %28EC 2.3.1.1%29;locus_tag=TBhypo2152.genome.CDS.1207
+TBhypo2152.contig.33	feature	CDS	27264	29768	.	-	0	ID=TBhypo2152.genome.CDS.1206;Product=ATP-dependent Clp protease%2C ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB;locus_tag=TBhypo2152.genome.CDS.1206
+TBhypo2152.contig.33	feature	CDS	26428	27267	.	+	0	ID=TBhypo2152.genome.CDS.1205;Product=A/G-specific adenine glycosylase %28EC 3.2.2.-%29;locus_tag=TBhypo2152.genome.CDS.1205
+TBhypo2152.contig.33	feature	CDS	25046	26416	.	+	0	ID=TBhypo2152.genome.CDS.1204;Product=DNA repair protein RadA;locus_tag=TBhypo2152.genome.CDS.1204
+TBhypo2152.contig.33	feature	CDS	24235	25065	.	+	0	ID=TBhypo2152.genome.CDS.273;Product=FIG01122970: hypothetical protein;locus_tag=TBhypo2152.genome.CDS.273
+TBhypo2152.contig.33	feature	CDS	23388	24203	.	-	0	ID=TBhypo2152.genome.CDS.272;Product=Pyrroline-5-carboxylate reductase %28EC 1.5.1.2%29;locus_tag=TBhypo2152.genome.CDS.272
+TBhypo2152.contig.33	feature	CDS	22441	23391	.	-	0	ID=TBhypo2152.genome.CDS.1201;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1201
+TBhypo2152.contig.33	feature	CDS	20100	22439	.	+	0	ID=TBhypo2152.genome.CDS.1200;Product=;locus_tag=TBhypo2152.genome.CDS.1200
+TBhypo2152.contig.33	feature	CDS	19735	19974	.	-	0	ID=TBhypo2152.genome.CDS.1199;Product=;locus_tag=TBhypo2152.genome.CDS.1199
+TBhypo2152.contig.33	feature	CDS	18099	19745	.	+	0	ID=TBhypo2152.genome.CDS.1198;Product=DNA repair helicase;locus_tag=TBhypo2152.genome.CDS.1198
+TBhypo2152.contig.33	feature	CDS	17030	18106	.	+	0	ID=TBhypo2152.genome.CDS.1197;Product=putative peptidase;locus_tag=TBhypo2152.genome.CDS.1197
+TBhypo2152.contig.33	feature	CDS	14843	16996	.	+	0	ID=TBhypo2152.genome.CDS.1196;Product=probable DNA-binding protein;locus_tag=TBhypo2152.genome.CDS.1196
+TBhypo2152.contig.33	feature	CDS	14028	14798	.	+	0	ID=TBhypo2152.genome.CDS.265;Product=Phosphoserine phosphatase %28EC 3.1.3.3%29;locus_tag=TBhypo2152.genome.CDS.265
+TBhypo2152.contig.33	feature	CDS	13371	13994	.	-	0	ID=TBhypo2152.genome.CDS.1194;Product=Hypothetical%2C related to broad specificity phosphatases COG0406;locus_tag=TBhypo2152.genome.CDS.1194
+TBhypo2152.contig.33	feature	CDS	12802	13371	.	-	0	ID=TBhypo2152.genome.CDS.1193;Product=Thiol:disulfide oxidoreductase related to ResA;locus_tag=TBhypo2152.genome.CDS.1193
+TBhypo2152.contig.33	feature	CDS	12078	12809	.	-	0	ID=TBhypo2152.genome.CDS.1192;Product=Cytochrome c-type biogenesis protein CcdA %28DsbD analog%29;locus_tag=TBhypo2152.genome.CDS.1192
+TBhypo2152.contig.33	feature	CDS	10636	12078	.	-	0	ID=TBhypo2152.genome.CDS.1191;Product=Ccs1/ResB-related putative cytochrome C-type biogenesis protein;locus_tag=TBhypo2152.genome.CDS.1191
+TBhypo2152.contig.33	feature	CDS	9743	10639	.	-	0	ID=TBhypo2152.genome.CDS.1190;Product=Cytochrome c-type biogenesis protein CcsA/ResC;locus_tag=TBhypo2152.genome.CDS.1190
+TBhypo2152.contig.33	feature	CDS	9476	9739	.	+	0	ID=TBhypo2152.genome.CDS.1189;Product=;locus_tag=TBhypo2152.genome.CDS.1189
+TBhypo2152.contig.33	feature	CDS	8567	9466	.	+	0	ID=TBhypo2152.genome.CDS.1188;Product=1%2C4-dihydroxy-2-naphthoate polyprenyltransferase %28EC 2.5.1.74%29;locus_tag=TBhypo2152.genome.CDS.1188
+TBhypo2152.contig.33	feature	CDS	7485	8570	.	+	0	ID=TBhypo2152.genome.CDS.1187;Product=O-succinylbenzoic acid--CoA ligase %28EC 6.2.1.26%29;locus_tag=TBhypo2152.genome.CDS.1187
+TBhypo2152.contig.33	feature	CDS	6538	7416	.	-	0	ID=TBhypo2152.genome.CDS.1186;Product=Naphthoate synthase %28EC 4.1.3.36%29;locus_tag=TBhypo2152.genome.CDS.1186
+TBhypo2152.contig.33	feature	CDS	5576	6532	.	-	0	ID=TBhypo2152.genome.CDS.1185;Product=O-succinylbenzoate synthase %28EC 4.2.1.113%29;locus_tag=TBhypo2152.genome.CDS.1185
+TBhypo2152.contig.33	feature	CDS	4017	5579	.	-	0	ID=TBhypo2152.genome.CDS.1184;Product=2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase %28EC 2.2.1.9%29;locus_tag=TBhypo2152.genome.CDS.1184
+TBhypo2152.contig.33	feature	CDS	2836	4062	.	+	0	ID=TBhypo2152.genome.CDS.1183;Product=Isochorismate synthase %28EC 5.4.4.2%29 %40 Menaquinone-specific isochorismate synthase %28EC 5.4.4.2%29;locus_tag=TBhypo2152.genome.CDS.1183
+TBhypo2152.contig.33	feature	CDS	2226	2816	.	+	0	ID=TBhypo2152.genome.CDS.1182;Product=Substrate-specific component BioY of biotin ECF transporter;locus_tag=TBhypo2152.genome.CDS.1182
+TBhypo2152.contig.33	feature	CDS	1450	2151	.	-	0	ID=TBhypo2152.genome.CDS.1181;Product=Demethylmenaquinone methyltransferase %28EC 2.1.1.163%29;locus_tag=TBhypo2152.genome.CDS.1181
+TBhypo2152.contig.33	feature	CDS	464	1450	.	-	0	ID=TBhypo2152.genome.CDS.1180;Product=Solanesyl diphosphate synthase %28EC 2.5.1.11%29;locus_tag=TBhypo2152.genome.CDS.1180
+TBhypo2152.contig.34	feature	CDS	5275	5619	.	-	0	ID=TBhypo2152.genome.CDS.1220;Product=Peptide deformylase %28EC 3.5.1.88%29;locus_tag=TBhypo2152.genome.CDS.1220
+TBhypo2152.contig.34	feature	CDS	4451	5269	.	-	0	ID=TBhypo2152.genome.CDS.1219;Product=Methionyl-tRNA formyltransferase %28EC 2.1.2.9%29;locus_tag=TBhypo2152.genome.CDS.1219
+TBhypo2152.contig.34	feature	CDS	4348	4482	.	-	0	ID=TBhypo2152.genome.CDS.287;Product=Methionyl-tRNA formyltransferase %28EC 2.1.2.9%29;locus_tag=TBhypo2152.genome.CDS.287
+TBhypo2152.contig.34	feature	CDS	2980	4341	.	-	0	ID=TBhypo2152.genome.CDS.1218;Product=16S rRNA %28cytosine%28967%29-C%285%29%29-methyltransferase %28EC 2.1.1.176%29;locus_tag=TBhypo2152.genome.CDS.1218
+TBhypo2152.contig.34	feature	CDS	2288	2950	.	-	0	ID=TBhypo2152.genome.CDS.1217;Product=Ribulose-phosphate 3-epimerase %28EC 5.1.3.1%29;locus_tag=TBhypo2152.genome.CDS.1217
+TBhypo2152.contig.34	feature	CDS	1984	2247	.	-	0	ID=TBhypo2152.genome.CDS.1216;Product=Phosphoribosyl-ATP pyrophosphatase %28EC 3.6.1.31%29;locus_tag=TBhypo2152.genome.CDS.1216
+TBhypo2152.contig.34	feature	CDS	1111	1956	.	-	0	ID=TBhypo2152.genome.CDS.1215;Product=ATP phosphoribosyltransferase %28EC 2.4.2.17%29;locus_tag=TBhypo2152.genome.CDS.1215
+TBhypo2152.contig.34	feature	CDS	457	1116	.	+	0	ID=TBhypo2152.genome.CDS.1214;Product=Phosphoserine phosphatase %28EC 3.1.3.3%29;locus_tag=TBhypo2152.genome.CDS.1214
+TBhypo2152.contig.34	feature	CDS	169	444	.	+	0	ID=TBhypo2152.genome.CDS.1213;Product=;locus_tag=TBhypo2152.genome.CDS.1213
+TBhypo2152.contig.34	feature	CDS	1	102	.	-	0	ID=TBhypo2152.genome.CDS.1212;Product=;locus_tag=TBhypo2152.genome.CDS.1212
+TBhypo2152.contig.35	feature	misc_RNA	2	456	.	+	.	ID=TBhypo2152.genome.repeat.4;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.4
+TBhypo2152.contig.35	feature	misc_RNA	6075	7139	.	+	.	ID=TBhypo2152.genome.repeat.5;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.5
+TBhypo2152.contig.35	feature	CDS	6906	7139	.	-	0	ID=TBhypo2152.genome.CDS.1230;Product=;locus_tag=TBhypo2152.genome.CDS.1230
+TBhypo2152.contig.35	feature	CDS	5910	6902	.	-	0	ID=TBhypo2152.genome.CDS.1229;Product=;locus_tag=TBhypo2152.genome.CDS.1229
+TBhypo2152.contig.35	feature	CDS	5207	5758	.	-	0	ID=TBhypo2152.genome.CDS.1228;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1228
+TBhypo2152.contig.35	feature	CDS	4557	4991	.	-	0	ID=TBhypo2152.genome.CDS.1227;Product=;locus_tag=TBhypo2152.genome.CDS.1227
+TBhypo2152.contig.35	feature	CDS	4122	4496	.	+	0	ID=TBhypo2152.genome.CDS.1226;Product=;locus_tag=TBhypo2152.genome.CDS.1226
+TBhypo2152.contig.35	feature	CDS	3777	4097	.	+	0	ID=TBhypo2152.genome.CDS.1225;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1225
+TBhypo2152.contig.35	feature	CDS	3497	3658	.	-	0	ID=TBhypo2152.genome.CDS.292;Product=;locus_tag=TBhypo2152.genome.CDS.292
+TBhypo2152.contig.35	feature	CDS	2859	3500	.	-	0	ID=TBhypo2152.genome.CDS.1224;Product=Ubiquinol--cytochrome c reductase%2C cytochrome B subunit %28EC 1.10.2.2%29;locus_tag=TBhypo2152.genome.CDS.1224
+TBhypo2152.contig.35	feature	CDS	1897	2862	.	-	0	ID=TBhypo2152.genome.CDS.1223;Product=;locus_tag=TBhypo2152.genome.CDS.1223
+TBhypo2152.contig.35	feature	CDS	879	1889	.	+	0	ID=TBhypo2152.genome.CDS.1222;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1222
+TBhypo2152.contig.35	feature	CDS	1	861	.	-	0	ID=TBhypo2152.genome.CDS.1221;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1221
+TBhypo2152.contig.36	feature	misc_RNA	1	811	.	+	.	ID=TBhypo2152.genome.repeat.22;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.22
+TBhypo2152.contig.36	feature	CDS	9087	9167	.	-	0	ID=TBhypo2152.genome.CDS.1246;Product=;locus_tag=TBhypo2152.genome.CDS.1246
+TBhypo2152.contig.36	feature	CDS	8491	9087	.	-	0	ID=TBhypo2152.genome.CDS.1245;Product=Recombination protein RecR;locus_tag=TBhypo2152.genome.CDS.1245
+TBhypo2152.contig.36	feature	CDS	7118	8383	.	-	0	ID=TBhypo2152.genome.CDS.1244;Product=Aspartokinase %28EC 2.7.2.4%29;locus_tag=TBhypo2152.genome.CDS.1244
+TBhypo2152.contig.36	feature	CDS	6390	7121	.	-	0	ID=TBhypo2152.genome.CDS.1243;Product=Aspartate-semialdehyde dehydrogenase %28EC 1.2.1.11%29;locus_tag=TBhypo2152.genome.CDS.1243
+TBhypo2152.contig.36	feature	CDS	6070	6393	.	-	0	ID=TBhypo2152.genome.CDS.1242;Product=Aspartate-semialdehyde dehydrogenase %28EC 1.2.1.11%29;locus_tag=TBhypo2152.genome.CDS.1242
+TBhypo2152.contig.36	feature	CDS	5245	6066	.	+	0	ID=TBhypo2152.genome.CDS.1241;Product=putative secreted protein;locus_tag=TBhypo2152.genome.CDS.1241
+TBhypo2152.contig.36	feature	CDS	4772	5230	.	-	0	ID=TBhypo2152.genome.CDS.1240;Product=Transamidase GatB domain protein;locus_tag=TBhypo2152.genome.CDS.1240
+TBhypo2152.contig.36	feature	CDS	4616	4771	.	-	0	ID=TBhypo2152.genome.CDS.1239;Product=FIG011121: hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1239
+TBhypo2152.contig.36	feature	CDS	4328	4615	.	-	0	ID=TBhypo2152.genome.CDS.1238;Product=RidA/YER057c/UK114 superfamily%2C group 1;locus_tag=TBhypo2152.genome.CDS.1238
+TBhypo2152.contig.36	feature	CDS	4158	4331	.	-	0	ID=TBhypo2152.genome.CDS.1237;Product=RidA/YER057c/UK114 superfamily%2C group 1;locus_tag=TBhypo2152.genome.CDS.1237
+TBhypo2152.contig.36	feature	CDS	3457	4149	.	+	0	ID=TBhypo2152.genome.CDS.1236;Product=cAMP-binding proteins - catabolite gene activator and regulatory subunit of cAMP-dependent protein kinases;locus_tag=TBhypo2152.genome.CDS.1236
+TBhypo2152.contig.36	feature	CDS	2685	3386	.	-	0	ID=TBhypo2152.genome.CDS.1235;Product=Endonuclease III %28EC 4.2.99.18%29;locus_tag=TBhypo2152.genome.CDS.1235
+TBhypo2152.contig.36	feature	CDS	2167	2688	.	-	0	ID=TBhypo2152.genome.CDS.1234;Product=;locus_tag=TBhypo2152.genome.CDS.1234
+TBhypo2152.contig.36	feature	CDS	1691	2170	.	-	0	ID=TBhypo2152.genome.CDS.1233;Product=;locus_tag=TBhypo2152.genome.CDS.1233
+TBhypo2152.contig.36	feature	CDS	1155	1634	.	-	0	ID=TBhypo2152.genome.CDS.1232;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1232
+TBhypo2152.contig.36	feature	CDS	1	1158	.	+	0	ID=TBhypo2152.genome.CDS.1231;Product=Acetyl-coenzyme A synthetase %28EC 6.2.1.1%29;locus_tag=TBhypo2152.genome.CDS.1231
+TBhypo2152.contig.37	feature	CDS	10786	11148	.	+	0	ID=TBhypo2152.genome.CDS.1255;Product=Exodeoxyribonuclease VII large subunit %28EC 3.1.11.6%29;locus_tag=TBhypo2152.genome.CDS.1255
+TBhypo2152.contig.37	feature	CDS	9799	10752	.	-	0	ID=TBhypo2152.genome.CDS.1254;Product=4-hydroxy-3-methylbut-2-enyl diphosphate reductase %28EC 1.17.1.2%29;locus_tag=TBhypo2152.genome.CDS.1254
+TBhypo2152.contig.37	feature	CDS	9394	9819	.	+	0	ID=TBhypo2152.genome.CDS.1253;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1253
+TBhypo2152.contig.37	feature	CDS	8454	9401	.	+	0	ID=TBhypo2152.genome.CDS.1252;Product=DNA recombination protein RmuC;locus_tag=TBhypo2152.genome.CDS.1252
+TBhypo2152.contig.37	feature	CDS	8216	8485	.	+	0	ID=TBhypo2152.genome.CDS.1251;Product=;locus_tag=TBhypo2152.genome.CDS.1251
+TBhypo2152.contig.37	feature	CDS	7091	8164	.	-	0	ID=TBhypo2152.genome.CDS.1250;Product=GTP-binding and nucleic acid-binding protein YchF;locus_tag=TBhypo2152.genome.CDS.1250
+TBhypo2152.contig.37	feature	CDS	5181	7094	.	-	0	ID=TBhypo2152.genome.CDS.1249;Product=GTP-binding protein TypA/BipA;locus_tag=TBhypo2152.genome.CDS.1249
+TBhypo2152.contig.37	feature	CDS	2011	5145	.	-	0	ID=TBhypo2152.genome.CDS.1248;Product=ATP-dependent DNA helicase SCO5183;locus_tag=TBhypo2152.genome.CDS.1248
+TBhypo2152.contig.37	feature	CDS	2	2011	.	-	0	ID=TBhypo2152.genome.CDS.1247;Product=ATP-dependent DNA helicase SCO5184;locus_tag=TBhypo2152.genome.CDS.1247
+TBhypo2152.contig.38	feature	misc_RNA	12742	12848	.	+	.	ID=TBhypo2152.genome.repeat.44;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.44
+TBhypo2152.contig.38	feature	CDS	11948	12847	.	-	0	ID=TBhypo2152.genome.CDS.1272;Product=%5BProtein-PII%5D uridylyltransferase %28EC 2.7.7.59%29;locus_tag=TBhypo2152.genome.CDS.1272
+TBhypo2152.contig.38	feature	CDS	10499	11938	.	-	0	ID=TBhypo2152.genome.CDS.1271;Product=Signal recognition particle%2C subunit Ffh SRP54 %28TC 3.A.5.1.1%29;locus_tag=TBhypo2152.genome.CDS.1271
+TBhypo2152.contig.38	feature	CDS	9743	10336	.	-	0	ID=TBhypo2152.genome.CDS.1270;Product=SSU ribosomal protein S16p;locus_tag=TBhypo2152.genome.CDS.1270
+TBhypo2152.contig.38	feature	CDS	9501	9740	.	-	0	ID=TBhypo2152.genome.CDS.1269;Product=KH domain RNA binding protein YlqC;locus_tag=TBhypo2152.genome.CDS.1269
+TBhypo2152.contig.38	feature	CDS	8983	9498	.	-	0	ID=TBhypo2152.genome.CDS.1268;Product=16S rRNA processing protein RimM;locus_tag=TBhypo2152.genome.CDS.1268
+TBhypo2152.contig.38	feature	CDS	8603	8971	.	-	0	ID=TBhypo2152.genome.CDS.336;Product=tRNA %28Guanine37-N1%29 -methyltransferase %28EC 2.1.1.31%29;locus_tag=TBhypo2152.genome.CDS.336
+TBhypo2152.contig.38	feature	CDS	8279	8551	.	-	0	ID=TBhypo2152.genome.CDS.335;Product=tRNA %28Guanine37-N1%29 -methyltransferase %28EC 2.1.1.31%29;locus_tag=TBhypo2152.genome.CDS.335
+TBhypo2152.contig.38	feature	CDS	7286	8251	.	-	0	ID=TBhypo2152.genome.CDS.1266;Product=Probable acyl-ACP desaturase%2C Stearoyl-ACP desaturase %28EC 1.14.19.2%29;locus_tag=TBhypo2152.genome.CDS.1266
+TBhypo2152.contig.38	feature	CDS	6855	7151	.	-	0	ID=TBhypo2152.genome.CDS.1265;Product=FIG01121218: hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1265
+TBhypo2152.contig.38	feature	CDS	6535	6846	.	+	0	ID=TBhypo2152.genome.CDS.332;Product=;locus_tag=TBhypo2152.genome.CDS.332
+TBhypo2152.contig.38	feature	CDS	6369	6497	.	-	0	ID=TBhypo2152.genome.CDS.331;Product=;locus_tag=TBhypo2152.genome.CDS.331
+TBhypo2152.contig.38	feature	CDS	5904	6359	.	-	0	ID=TBhypo2152.genome.CDS.1263;Product=Deoxyuridine 5%27-triphosphate nucleotidohydrolase %28EC 3.6.1.23%29;locus_tag=TBhypo2152.genome.CDS.1263
+TBhypo2152.contig.38	feature	CDS	5257	5907	.	-	0	ID=TBhypo2152.genome.CDS.1262;Product=;locus_tag=TBhypo2152.genome.CDS.1262
+TBhypo2152.contig.38	feature	CDS	4594	5253	.	+	0	ID=TBhypo2152.genome.CDS.1261;Product=Trk system potassium uptake protein TrkA;locus_tag=TBhypo2152.genome.CDS.1261
+TBhypo2152.contig.38	feature	CDS	3931	4593	.	+	0	ID=TBhypo2152.genome.CDS.327;Product=Trk system potassium uptake protein TrkA;locus_tag=TBhypo2152.genome.CDS.327
+TBhypo2152.contig.38	feature	CDS	2690	3889	.	-	0	ID=TBhypo2152.genome.CDS.1259;Product=RNA methyltransferase%2C TrmA family;locus_tag=TBhypo2152.genome.CDS.1259
+TBhypo2152.contig.38	feature	CDS	2305	2682	.	-	0	ID=TBhypo2152.genome.CDS.1258;Product=Aconitate hydratase %28EC 4.2.1.3%29;locus_tag=TBhypo2152.genome.CDS.1258
+TBhypo2152.contig.38	feature	CDS	1307	2308	.	-	0	ID=TBhypo2152.genome.CDS.1257;Product=Aconitate hydratase %28EC 4.2.1.3%29;locus_tag=TBhypo2152.genome.CDS.1257
+TBhypo2152.contig.38	feature	CDS	24	1310	.	-	0	ID=TBhypo2152.genome.CDS.1256;Product=Aconitate hydratase %28EC 4.2.1.3%29;locus_tag=TBhypo2152.genome.CDS.1256
+TBhypo2152.contig.39	feature	misc_RNA	1	448	.	+	.	ID=TBhypo2152.genome.repeat.31;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.31
+TBhypo2152.contig.39	feature	CDS	19399	20496	.	+	0	ID=TBhypo2152.genome.CDS.1293;Product=Ribonuclease D %28EC 3.1.26.3%29;locus_tag=TBhypo2152.genome.CDS.1293
+TBhypo2152.contig.39	feature	CDS	18832	19389	.	+	0	ID=TBhypo2152.genome.CDS.1292;Product=Uncharacterized protein Q1 colocalized with Q;locus_tag=TBhypo2152.genome.CDS.1292
+TBhypo2152.contig.39	feature	CDS	18291	18803	.	+	0	ID=TBhypo2152.genome.CDS.1291;Product=;locus_tag=TBhypo2152.genome.CDS.1291
+TBhypo2152.contig.39	feature	CDS	17196	18263	.	-	0	ID=TBhypo2152.genome.CDS.1290;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1290
+TBhypo2152.contig.39	feature	CDS	16046	17218	.	-	0	ID=TBhypo2152.genome.CDS.1289;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1289
+TBhypo2152.contig.39	feature	CDS	15605	16072	.	+	0	ID=TBhypo2152.genome.CDS.1288;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1288
+TBhypo2152.contig.39	feature	CDS	13714	15498	.	+	0	ID=TBhypo2152.genome.CDS.1287;Product=Long-chain-fatty-acid--CoA ligase %28EC 6.2.1.3%29;locus_tag=TBhypo2152.genome.CDS.1287
+TBhypo2152.contig.39	feature	CDS	12721	13677	.	-	0	ID=TBhypo2152.genome.CDS.1286;Product=Putative sugar kinase;locus_tag=TBhypo2152.genome.CDS.1286
+TBhypo2152.contig.39	feature	CDS	11753	12613	.	+	0	ID=TBhypo2152.genome.CDS.1285;Product=;locus_tag=TBhypo2152.genome.CDS.1285
+TBhypo2152.contig.39	feature	CDS	10884	11708	.	-	0	ID=TBhypo2152.genome.CDS.1284;Product=1-acyl-sn-glycerol-3-phosphate acyltransferase %28EC 2.3.1.51%29;locus_tag=TBhypo2152.genome.CDS.1284
+TBhypo2152.contig.39	feature	CDS	10213	10887	.	+	0	ID=TBhypo2152.genome.CDS.1283;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1283
+TBhypo2152.contig.39	feature	CDS	9533	10183	.	+	0	ID=TBhypo2152.genome.CDS.1282;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1282
+TBhypo2152.contig.39	feature	CDS	8316	9506	.	+	0	ID=TBhypo2152.genome.CDS.1281;Product=HoxN/HupN/NixA family nickel/cobalt transporter;locus_tag=TBhypo2152.genome.CDS.1281
+TBhypo2152.contig.39	feature	CDS	6772	8250	.	+	0	ID=TBhypo2152.genome.CDS.1280;Product=transmembrane efflux protein;locus_tag=TBhypo2152.genome.CDS.1280
+TBhypo2152.contig.39	feature	CDS	6593	6763	.	+	0	ID=TBhypo2152.genome.CDS.347;Product=;locus_tag=TBhypo2152.genome.CDS.347
+TBhypo2152.contig.39	feature	CDS	5153	6385	.	-	0	ID=TBhypo2152.genome.CDS.1279;Product=Glutamate-1-semialdehyde aminotransferase %28EC 5.4.3.8%29;locus_tag=TBhypo2152.genome.CDS.1279
+TBhypo2152.contig.39	feature	CDS	3549	5147	.	+	0	ID=TBhypo2152.genome.CDS.1278;Product=ABC transporter ATP-binding protein;locus_tag=TBhypo2152.genome.CDS.1278
+TBhypo2152.contig.39	feature	CDS	2009	3442	.	+	0	ID=TBhypo2152.genome.CDS.1277;Product=Glutamine synthetase type I %28EC 6.3.1.2%29;locus_tag=TBhypo2152.genome.CDS.1277
+TBhypo2152.contig.39	feature	CDS	811	1590	.	+	0	ID=TBhypo2152.genome.CDS.1275;Product=;locus_tag=TBhypo2152.genome.CDS.1275
+TBhypo2152.contig.39	feature	CDS	84	818	.	+	0	ID=TBhypo2152.genome.CDS.1274;Product=1-acyl-sn-glycerol-3-phosphate acyltransferase %28EC 2.3.1.51%29;locus_tag=TBhypo2152.genome.CDS.1274
+TBhypo2152.contig.39	feature	CDS	2	91	.	+	0	ID=TBhypo2152.genome.CDS.1273;Product=Lipoate synthase;locus_tag=TBhypo2152.genome.CDS.1273
+TBhypo2152.contig.4	feature	CDS	6412	6570	.	-	0	ID=TBhypo2152.genome.CDS.950;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.950
+TBhypo2152.contig.4	feature	CDS	5724	6341	.	+	0	ID=TBhypo2152.genome.CDS.949;Product=SOS-response repressor and protease LexA %28EC 3.4.21.88%29;locus_tag=TBhypo2152.genome.CDS.949
+TBhypo2152.contig.4	feature	CDS	5257	5565	.	-	0	ID=TBhypo2152.genome.CDS.948;Product=;locus_tag=TBhypo2152.genome.CDS.948
+TBhypo2152.contig.4	feature	CDS	4948	5235	.	-	0	ID=TBhypo2152.genome.CDS.947;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.947
+TBhypo2152.contig.4	feature	CDS	4580	4960	.	-	0	ID=TBhypo2152.genome.CDS.946;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.946
+TBhypo2152.contig.4	feature	CDS	3885	4400	.	-	0	ID=TBhypo2152.genome.CDS.945;Product=Ribonucleotide reductase transcriptional regulator NrdR;locus_tag=TBhypo2152.genome.CDS.945
+TBhypo2152.contig.4	feature	CDS	1038	3863	.	-	0	ID=TBhypo2152.genome.CDS.944;Product=Ribonucleotide reductase of class II %28coenzyme B12-dependent%29 %28EC 1.17.4.1%29;locus_tag=TBhypo2152.genome.CDS.944
+TBhypo2152.contig.4	feature	CDS	790	924	.	+	0	ID=TBhypo2152.genome.CDS.33;Product=;locus_tag=TBhypo2152.genome.CDS.33
+TBhypo2152.contig.4	feature	CDS	498	644	.	+	0	ID=TBhypo2152.genome.CDS.32;Product=;locus_tag=TBhypo2152.genome.CDS.32
+TBhypo2152.contig.4	feature	CDS	3	383	.	-	0	ID=TBhypo2152.genome.CDS.942;Product=DinG family ATP-dependent helicase YoaA;locus_tag=TBhypo2152.genome.CDS.942
+TBhypo2152.contig.40	feature	misc_RNA	1310	2583	.	+	.	ID=TBhypo2152.genome.repeat.20;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.20
+TBhypo2152.contig.40	feature	CDS	1792	2583	.	+	0	ID=TBhypo2152.genome.CDS.1296;Product=Protein export cytoplasm protein SecA ATPase RNA helicase %28TC 3.A.5.1.1%29;locus_tag=TBhypo2152.genome.CDS.1296
+TBhypo2152.contig.40	feature	CDS	1081	1779	.	+	0	ID=TBhypo2152.genome.CDS.1295;Product=Competence protein F homolog%2C phosphoribosyltransferase domain%3B protein YhgH required for utilization of DNA as sole source of carbon and energy;locus_tag=TBhypo2152.genome.CDS.1295
+TBhypo2152.contig.40	feature	CDS	3	1061	.	+	0	ID=TBhypo2152.genome.CDS.1294;Product=Sensor histidine kinase MtrB %28EC 2.7.3.-%29;locus_tag=TBhypo2152.genome.CDS.1294
+TBhypo2152.contig.41	feature	CDS	1788	2588	.	+	0	ID=TBhypo2152.genome.CDS.1299;Product=Amino acid/metabolite permease in hypothetical Actinobacterial gene cluster%3B BAT1-like;locus_tag=TBhypo2152.genome.CDS.1299
+TBhypo2152.contig.41	feature	CDS	315	1658	.	-	0	ID=TBhypo2152.genome.CDS.1298;Product=Glutamine synthetase family protein in hypothetical Actinobacterial gene cluster;locus_tag=TBhypo2152.genome.CDS.1298
+TBhypo2152.contig.41	feature	CDS	3	302	.	-	0	ID=TBhypo2152.genome.CDS.1297;Product=Aldehyde dehydrogenase in hypothetical Actinobacterial gene cluster;locus_tag=TBhypo2152.genome.CDS.1297
+TBhypo2152.contig.42	feature	misc_RNA	1911	2795	.	+	.	ID=TBhypo2152.genome.repeat.33;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.33
+TBhypo2152.contig.42	feature	CDS	2132	2794	.	-	0	ID=TBhypo2152.genome.CDS.1302;Product=D-glycero-D-manno-heptose 1-phosphate guanosyltransferase;locus_tag=TBhypo2152.genome.CDS.1302
+TBhypo2152.contig.42	feature	CDS	1717	1989	.	-	0	ID=TBhypo2152.genome.CDS.1301;Product=Sporulation regulatory protein WhiB;locus_tag=TBhypo2152.genome.CDS.1301
+TBhypo2152.contig.42	feature	CDS	2	1684	.	-	0	ID=TBhypo2152.genome.CDS.1300;Product=Glycosyl transferase%2C family 2;locus_tag=TBhypo2152.genome.CDS.1300
+TBhypo2152.contig.43	feature	CDS	2429	2701	.	+	0	ID=TBhypo2152.genome.CDS.1307;Product=;locus_tag=TBhypo2152.genome.CDS.1307
+TBhypo2152.contig.43	feature	CDS	1920	2432	.	+	0	ID=TBhypo2152.genome.CDS.1306;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1306
+TBhypo2152.contig.43	feature	CDS	735	1919	.	+	0	ID=TBhypo2152.genome.CDS.1305;Product=Chorismate synthase %28EC 4.2.3.5%29;locus_tag=TBhypo2152.genome.CDS.1305
+TBhypo2152.contig.43	feature	CDS	310	717	.	+	0	ID=TBhypo2152.genome.CDS.1304;Product=;locus_tag=TBhypo2152.genome.CDS.1304
+TBhypo2152.contig.43	feature	CDS	3	260	.	+	0	ID=TBhypo2152.genome.CDS.1303;Product=;locus_tag=TBhypo2152.genome.CDS.1303
+TBhypo2152.contig.44	feature	misc_RNA	1	268	.	+	.	ID=TBhypo2152.genome.repeat.2;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.2
+TBhypo2152.contig.44	feature	CDS	2458	2889	.	-	0	ID=TBhypo2152.genome.CDS.1310;Product=CarD-like transcriptional regulator;locus_tag=TBhypo2152.genome.CDS.1310
+TBhypo2152.contig.44	feature	CDS	1299	2447	.	-	0	ID=TBhypo2152.genome.CDS.1309;Product=2-C-methyl-D-erythritol 2%2C4-cyclodiphosphate synthase %28EC 4.6.1.12%29;locus_tag=TBhypo2152.genome.CDS.1309
+TBhypo2152.contig.44	feature	CDS	2	1264	.	-	0	ID=TBhypo2152.genome.CDS.1308;Product=Cysteinyl-tRNA synthetase %28EC 6.1.1.16%29;locus_tag=TBhypo2152.genome.CDS.1308
+TBhypo2152.contig.45	feature	misc_RNA	3337	3463	.	+	.	ID=TBhypo2152.genome.repeat.37;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.37
+TBhypo2152.contig.45	feature	CDS	2614	3462	.	+	0	ID=TBhypo2152.genome.CDS.1314;Product=Malate dehydrogenase %28EC 1.1.1.37%29;locus_tag=TBhypo2152.genome.CDS.1314
+TBhypo2152.contig.45	feature	CDS	2329	2583	.	+	0	ID=TBhypo2152.genome.CDS.377;Product=;locus_tag=TBhypo2152.genome.CDS.377
+TBhypo2152.contig.45	feature	CDS	1494	2327	.	+	0	ID=TBhypo2152.genome.CDS.1312;Product=Methylenetetrahydrofolate dehydrogenase %28NADP%2B%29 %28EC 1.5.1.5%29 / Methenyltetrahydrofolate cyclohydrolase %28EC 3.5.4.9%29;locus_tag=TBhypo2152.genome.CDS.1312
+TBhypo2152.contig.45	feature	CDS	3	1457	.	+	0	ID=TBhypo2152.genome.CDS.1311;Product=IMP cyclohydrolase %28EC 3.5.4.10%29 / Phosphoribosylaminoimidazolecarboxamide formyltransferase %28EC 2.1.2.3%29;locus_tag=TBhypo2152.genome.CDS.1311
+TBhypo2152.contig.46	feature	misc_RNA	1	127	.	+	.	ID=TBhypo2152.genome.repeat.7;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.7
+TBhypo2152.contig.46	feature	CDS	2697	3797	.	+	0	ID=TBhypo2152.genome.CDS.1318;Product=Hemolysins and related proteins containing CBS domains;locus_tag=TBhypo2152.genome.CDS.1318
+TBhypo2152.contig.46	feature	CDS	1503	2588	.	-	0	ID=TBhypo2152.genome.CDS.1317;Product=Glycerol-3-phosphate ABC transporter%2C ATP-binding protein UgpC %28TC 3.A.1.1.3%29;locus_tag=TBhypo2152.genome.CDS.1317
+TBhypo2152.contig.46	feature	CDS	234	1448	.	+	0	ID=TBhypo2152.genome.CDS.1316;Product=Isocitrate dehydrogenase %5BNADP%5D %28EC 1.1.1.42%29;locus_tag=TBhypo2152.genome.CDS.1316
+TBhypo2152.contig.46	feature	CDS	1	234	.	+	0	ID=TBhypo2152.genome.CDS.1315;Product=Malate dehydrogenase %28EC 1.1.1.37%29;locus_tag=TBhypo2152.genome.CDS.1315
+TBhypo2152.contig.47	feature	CDS	3656	3850	.	-	0	ID=TBhypo2152.genome.CDS.1324;Product=LSU ribosomal protein L28p %40 LSU ribosomal protein L28p%2C zinc-dependent;locus_tag=TBhypo2152.genome.CDS.1324
+TBhypo2152.contig.47	feature	CDS	2666	3334	.	+	0	ID=TBhypo2152.genome.CDS.1323;Product=Riboflavin transporter PnuX;locus_tag=TBhypo2152.genome.CDS.1323
+TBhypo2152.contig.47	feature	CDS	1597	2475	.	+	0	ID=TBhypo2152.genome.CDS.1322;Product=Thiamine-monophosphate kinase %28EC 2.7.4.16%29;locus_tag=TBhypo2152.genome.CDS.1322
+TBhypo2152.contig.47	feature	CDS	1315	1551	.	-	0	ID=TBhypo2152.genome.CDS.1321;Product=Transcriptional regulator%2C AsnC family;locus_tag=TBhypo2152.genome.CDS.1321
+TBhypo2152.contig.47	feature	CDS	604	1311	.	-	0	ID=TBhypo2152.genome.CDS.1320;Product=;locus_tag=TBhypo2152.genome.CDS.1320
+TBhypo2152.contig.47	feature	CDS	1	603	.	+	0	ID=TBhypo2152.genome.CDS.1319;Product=3-oxoacyl-%5Bacyl-carrier protein%5D reductase %28EC 1.1.1.100%29;locus_tag=TBhypo2152.genome.CDS.1319
+TBhypo2152.contig.48	feature	misc_RNA	1	148	.	+	.	ID=TBhypo2152.genome.repeat.29;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.29
+TBhypo2152.contig.48	feature	misc_RNA	2389	2732	.	+	.	ID=TBhypo2152.genome.repeat.30;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.30
+TBhypo2152.contig.48	feature	CDS	2354	2731	.	+	0	ID=TBhypo2152.genome.CDS.1327;Product=;locus_tag=TBhypo2152.genome.CDS.1327
+TBhypo2152.contig.48	feature	CDS	621	2303	.	+	0	ID=TBhypo2152.genome.CDS.1326;Product=Ribonuclease J2 %28endoribonuclease in RNA processing%29;locus_tag=TBhypo2152.genome.CDS.1326
+TBhypo2152.contig.48	feature	CDS	1	621	.	+	0	ID=TBhypo2152.genome.CDS.1325;Product=4-hydroxy-tetrahydrodipicolinate synthase %28EC 4.3.3.7%29;locus_tag=TBhypo2152.genome.CDS.1325
+TBhypo2152.contig.49	feature	misc_RNA	1	114	.	+	.	ID=TBhypo2152.genome.repeat.42;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.42
+TBhypo2152.contig.49	feature	CDS	3443	4333	.	-	0	ID=TBhypo2152.genome.CDS.1331;Product=Succinate-semialdehyde dehydrogenase %5BNAD%28P%29%2B%5D %28EC 1.2.1.16%29;locus_tag=TBhypo2152.genome.CDS.1331
+TBhypo2152.contig.49	feature	CDS	2643	3437	.	+	0	ID=TBhypo2152.genome.CDS.1330;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1330
+TBhypo2152.contig.49	feature	CDS	1445	2497	.	-	0	ID=TBhypo2152.genome.CDS.1329;Product=possible chromosome condensation protein;locus_tag=TBhypo2152.genome.CDS.1329
+TBhypo2152.contig.49	feature	CDS	380	1444	.	-	0	ID=TBhypo2152.genome.CDS.1328;Product=NADH-dependent flavin oxidoreductase;locus_tag=TBhypo2152.genome.CDS.1328
+TBhypo2152.contig.5	feature	misc_RNA	4123	4248	.	+	.	ID=TBhypo2152.genome.repeat.56;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.56
+TBhypo2152.contig.5	feature	CDS	4175	4246	.	-	0	ID=TBhypo2152.genome.CDS.955;Product=;locus_tag=TBhypo2152.genome.CDS.955
+TBhypo2152.contig.5	feature	CDS	2604	4088	.	-	0	ID=TBhypo2152.genome.CDS.954;Product=GTP-binding protein Obg;locus_tag=TBhypo2152.genome.CDS.954
+TBhypo2152.contig.5	feature	CDS	1819	2607	.	-	0	ID=TBhypo2152.genome.CDS.953;Product=Glutamate 5-kinase %28EC 2.7.2.11%29 / RNA-binding C-terminal domain PUA;locus_tag=TBhypo2152.genome.CDS.953
+TBhypo2152.contig.5	feature	CDS	1486	1782	.	-	0	ID=TBhypo2152.genome.CDS.952;Product=Aspartyl-tRNA%28Asn%29 amidotransferase subunit C %28EC 6.3.5.6%29 %40 Glutamyl-tRNA%28Gln%29 amidotransferase subunit C %28EC 6.3.5.7%29;locus_tag=TBhypo2152.genome.CDS.952
+TBhypo2152.contig.5	feature	CDS	2	1489	.	-	0	ID=TBhypo2152.genome.CDS.951;Product=Aspartyl-tRNA%28Asn%29 amidotransferase subunit A %28EC 6.3.5.6%29 %40 Glutamyl-tRNA%28Gln%29 amidotransferase subunit A %28EC 6.3.5.7%29;locus_tag=TBhypo2152.genome.CDS.951
+TBhypo2152.contig.50	feature	CDS	3882	4364	.	+	0	ID=TBhypo2152.genome.CDS.1336;Product=Protein-N%285%29-glutamine methyltransferase PrmC%2C methylates polypeptide chain release factors RF1 and RF2;locus_tag=TBhypo2152.genome.CDS.1336
+TBhypo2152.contig.50	feature	CDS	2794	3876	.	+	0	ID=TBhypo2152.genome.CDS.1335;Product=Peptide chain release factor 1;locus_tag=TBhypo2152.genome.CDS.1335
+TBhypo2152.contig.50	feature	CDS	2486	2704	.	+	0	ID=TBhypo2152.genome.CDS.1334;Product=LSU ribosomal protein L31p %40 LSU ribosomal protein L31p%2C zinc-dependent;locus_tag=TBhypo2152.genome.CDS.1334
+TBhypo2152.contig.50	feature	CDS	771	2417	.	+	0	ID=TBhypo2152.genome.CDS.1333;Product=Transcription termination factor Rho;locus_tag=TBhypo2152.genome.CDS.1333
+TBhypo2152.contig.50	feature	CDS	1	621	.	+	0	ID=TBhypo2152.genome.CDS.1332;Product=Homoserine kinase %28EC 2.7.1.39%29;locus_tag=TBhypo2152.genome.CDS.1332
+TBhypo2152.contig.51	feature	misc_RNA	1	127	.	+	.	ID=TBhypo2152.genome.repeat.1;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.1
+TBhypo2152.contig.51	feature	CDS	4305	4529	.	-	0	ID=TBhypo2152.genome.CDS.1340;Product=;locus_tag=TBhypo2152.genome.CDS.1340
+TBhypo2152.contig.51	feature	CDS	3176	4312	.	-	0	ID=TBhypo2152.genome.CDS.1339;Product=Carbamoyl-phosphate synthase small chain %28EC 6.3.5.5%29;locus_tag=TBhypo2152.genome.CDS.1339
+TBhypo2152.contig.51	feature	CDS	2698	3183	.	-	0	ID=TBhypo2152.genome.CDS.1338;Product=Carbamoyl-phosphate synthase large chain %28EC 6.3.5.5%29;locus_tag=TBhypo2152.genome.CDS.1338
+TBhypo2152.contig.51	feature	CDS	2	2689	.	-	0	ID=TBhypo2152.genome.CDS.1337;Product=Carbamoyl-phosphate synthase large chain %28EC 6.3.5.5%29;locus_tag=TBhypo2152.genome.CDS.1337
+TBhypo2152.contig.52	feature	misc_RNA	4249	4769	.	+	.	ID=TBhypo2152.genome.repeat.58;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.58
+TBhypo2152.contig.52	feature	CDS	4546	4767	.	-	0	ID=TBhypo2152.genome.CDS.1347;Product=;locus_tag=TBhypo2152.genome.CDS.1347
+TBhypo2152.contig.52	feature	CDS	4303	4542	.	+	0	ID=TBhypo2152.genome.CDS.1346;Product=;locus_tag=TBhypo2152.genome.CDS.1346
+TBhypo2152.contig.52	feature	CDS	3965	4267	.	+	0	ID=TBhypo2152.genome.CDS.1345;Product=;locus_tag=TBhypo2152.genome.CDS.1345
+TBhypo2152.contig.52	feature	CDS	3402	3884	.	+	0	ID=TBhypo2152.genome.CDS.1344;Product=;locus_tag=TBhypo2152.genome.CDS.1344
+TBhypo2152.contig.52	feature	tRNA	3293	3365	.	+	.	ID=TBhypo2152.genome.rna.6;Product=tRNA-Asn-GTT;locus_tag=TBhypo2152.genome.rna.6
+TBhypo2152.contig.52	feature	CDS	1396	3222	.	+	0	ID=TBhypo2152.genome.CDS.1343;Product=DNA primase %28EC 2.7.7.-%29;locus_tag=TBhypo2152.genome.CDS.1343
+TBhypo2152.contig.52	feature	CDS	104	1345	.	+	0	ID=TBhypo2152.genome.CDS.1342;Product=Deoxyguanosinetriphosphate triphosphohydrolase %28EC 3.1.5.1%29;locus_tag=TBhypo2152.genome.CDS.1342
+TBhypo2152.contig.52	feature	CDS	3	86	.	+	0	ID=TBhypo2152.genome.CDS.1341;Product=;locus_tag=TBhypo2152.genome.CDS.1341
+TBhypo2152.contig.53	feature	CDS	3691	4170	.	+	0	ID=TBhypo2152.genome.CDS.1354;Product=Aspartate carbamoyltransferase %28EC 2.1.3.2%29;locus_tag=TBhypo2152.genome.CDS.1354
+TBhypo2152.contig.53	feature	CDS	3168	3698	.	+	0	ID=TBhypo2152.genome.CDS.1353;Product=Uracil phosphoribosyltransferase %28EC 2.4.2.9%29 / Pyrimidine operon regulatory protein PyrR;locus_tag=TBhypo2152.genome.CDS.1353
+TBhypo2152.contig.53	feature	CDS	2650	3057	.	+	0	ID=TBhypo2152.genome.CDS.1352;Product=Transcription termination protein NusB;locus_tag=TBhypo2152.genome.CDS.1352
+TBhypo2152.contig.53	feature	CDS	2068	2631	.	+	0	ID=TBhypo2152.genome.CDS.1351;Product=Translation elongation factor P;locus_tag=TBhypo2152.genome.CDS.1351
+TBhypo2152.contig.53	feature	CDS	1619	2047	.	+	0	ID=TBhypo2152.genome.CDS.1350;Product=3-dehydroquinate dehydratase II %28EC 4.2.1.10%29;locus_tag=TBhypo2152.genome.CDS.1350
+TBhypo2152.contig.53	feature	CDS	561	1622	.	+	0	ID=TBhypo2152.genome.CDS.1349;Product=3-dehydroquinate synthase %28EC 4.2.3.4%29;locus_tag=TBhypo2152.genome.CDS.1349
+TBhypo2152.contig.53	feature	CDS	52	564	.	+	0	ID=TBhypo2152.genome.CDS.1348;Product=Shikimate kinase I %28EC 2.7.1.71%29;locus_tag=TBhypo2152.genome.CDS.1348
+TBhypo2152.contig.54	feature	CDS	3576	3836	.	-	0	ID=TBhypo2152.genome.CDS.1359;Product=;locus_tag=TBhypo2152.genome.CDS.1359
+TBhypo2152.contig.54	feature	CDS	3028	3579	.	+	0	ID=TBhypo2152.genome.CDS.1358;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1358
+TBhypo2152.contig.54	feature	CDS	2306	3025	.	+	0	ID=TBhypo2152.genome.CDS.1357;Product=Transcriptional regulator%2C IclR family;locus_tag=TBhypo2152.genome.CDS.1357
+TBhypo2152.contig.54	feature	CDS	842	2239	.	-	0	ID=TBhypo2152.genome.CDS.1356;Product=3-isopropylmalate dehydratase large subunit %28EC 4.2.1.33%29;locus_tag=TBhypo2152.genome.CDS.1356
+TBhypo2152.contig.54	feature	CDS	231	830	.	-	0	ID=TBhypo2152.genome.CDS.1355;Product=3-isopropylmalate dehydratase small subunit %28EC 4.2.1.33%29;locus_tag=TBhypo2152.genome.CDS.1355
+TBhypo2152.contig.55	feature	CDS	3764	5149	.	-	0	ID=TBhypo2152.genome.CDS.1366;Product=Xanthine/uracil/thiamine/ascorbate permease family protein;locus_tag=TBhypo2152.genome.CDS.1366
+TBhypo2152.contig.55	feature	CDS	3213	3779	.	-	0	ID=TBhypo2152.genome.CDS.1365;Product=Adenine phosphoribosyltransferase %28EC 2.4.2.7%29;locus_tag=TBhypo2152.genome.CDS.1365
+TBhypo2152.contig.55	feature	CDS	1833	3212	.	+	0	ID=TBhypo2152.genome.CDS.1364;Product=Inosine-5%27-monophosphate dehydrogenase %28EC 1.1.1.205%29;locus_tag=TBhypo2152.genome.CDS.1364
+TBhypo2152.contig.55	feature	CDS	1419	1745	.	-	0	ID=TBhypo2152.genome.CDS.1363;Product=;locus_tag=TBhypo2152.genome.CDS.1363
+TBhypo2152.contig.55	feature	CDS	736	1422	.	+	0	ID=TBhypo2152.genome.CDS.1362;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1362
+TBhypo2152.contig.55	feature	CDS	555	662	.	+	0	ID=TBhypo2152.genome.CDS.1361;Product=;locus_tag=TBhypo2152.genome.CDS.1361
+TBhypo2152.contig.55	feature	CDS	3	437	.	+	0	ID=TBhypo2152.genome.CDS.1360;Product=;locus_tag=TBhypo2152.genome.CDS.1360
+TBhypo2152.contig.56	feature	CDS	4158	5324	.	+	0	ID=TBhypo2152.genome.CDS.1371;Product=Cell division protein FtsW;locus_tag=TBhypo2152.genome.CDS.1371
+TBhypo2152.contig.56	feature	CDS	2809	4161	.	+	0	ID=TBhypo2152.genome.CDS.1370;Product=UDP-N-acetylmuramoylalanine--D-glutamate ligase %28EC 6.3.2.9%29;locus_tag=TBhypo2152.genome.CDS.1370
+TBhypo2152.contig.56	feature	CDS	1737	2807	.	+	0	ID=TBhypo2152.genome.CDS.427;Product=Phospho-N-acetylmuramoyl-pentapeptide-transferase %28EC 2.7.8.13%29;locus_tag=TBhypo2152.genome.CDS.427
+TBhypo2152.contig.56	feature	CDS	349	1740	.	+	0	ID=TBhypo2152.genome.CDS.1368;Product=UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase %28EC 6.3.2.10%29;locus_tag=TBhypo2152.genome.CDS.1368
+TBhypo2152.contig.56	feature	CDS	2	352	.	+	0	ID=TBhypo2152.genome.CDS.1367;Product=UDP-N-acetylmuramoylalanyl-D-glutamate--2%2C6-diaminopimelate ligase %28EC 6.3.2.13%29;locus_tag=TBhypo2152.genome.CDS.1367
+TBhypo2152.contig.57	feature	misc_RNA	1	268	.	+	.	ID=TBhypo2152.genome.repeat.41;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.41
+TBhypo2152.contig.57	feature	CDS	5410	5469	.	+	0	ID=TBhypo2152.genome.CDS.1377;Product=;locus_tag=TBhypo2152.genome.CDS.1377
+TBhypo2152.contig.57	feature	tRNA	5281	5355	.	+	.	ID=TBhypo2152.genome.rna.7;Product=tRNA-Thr-TGT;locus_tag=TBhypo2152.genome.rna.7
+TBhypo2152.contig.57	feature	CDS	4273	5199	.	-	0	ID=TBhypo2152.genome.CDS.1376;Product=Exopolyphosphatase %28EC 3.6.1.11%29;locus_tag=TBhypo2152.genome.CDS.1376
+TBhypo2152.contig.57	feature	CDS	3386	4276	.	+	0	ID=TBhypo2152.genome.CDS.1375;Product=Hydrolase MutT1 %28EC 3.6.1.-%29;locus_tag=TBhypo2152.genome.CDS.1375
+TBhypo2152.contig.57	feature	CDS	1308	3389	.	+	0	ID=TBhypo2152.genome.CDS.1374;Product=Polyphosphate kinase %28EC 2.7.4.1%29;locus_tag=TBhypo2152.genome.CDS.1374
+TBhypo2152.contig.57	feature	CDS	390	1235	.	+	0	ID=TBhypo2152.genome.CDS.1373;Product=23S rRNA %28guanosine%282251%29-2%27-O%29-methyltransferase %28EC 2.1.1.185%29;locus_tag=TBhypo2152.genome.CDS.1373
+TBhypo2152.contig.57	feature	CDS	1	390	.	+	0	ID=TBhypo2152.genome.CDS.1372;Product=Cysteinyl-tRNA synthetase %28EC 6.1.1.16%29;locus_tag=TBhypo2152.genome.CDS.1372
+TBhypo2152.contig.58	feature	CDS	2470	2856	.	-	0	ID=TBhypo2152.genome.CDS.1379;Product=ATP-dependent Clp protease ATP-binding subunit ClpX;locus_tag=TBhypo2152.genome.CDS.1379
+TBhypo2152.contig.58	feature	CDS	1	2445	.	-	0	ID=TBhypo2152.genome.CDS.1378;Product=Valyl-tRNA synthetase %28EC 6.1.1.9%29;locus_tag=TBhypo2152.genome.CDS.1378
+TBhypo2152.contig.59	feature	misc_RNA	3372	3892	.	+	.	ID=TBhypo2152.genome.repeat.47;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.47
+TBhypo2152.contig.59	feature	CDS	3599	3838	.	-	0	ID=TBhypo2152.genome.CDS.1385;Product=;locus_tag=TBhypo2152.genome.CDS.1385
+TBhypo2152.contig.59	feature	CDS	2654	3595	.	+	0	ID=TBhypo2152.genome.CDS.1384;Product=UDP-glucose 4-epimerase %28EC 5.1.3.2%29;locus_tag=TBhypo2152.genome.CDS.1384
+TBhypo2152.contig.59	feature	CDS	1346	2644	.	+	0	ID=TBhypo2152.genome.CDS.1383;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1383
+TBhypo2152.contig.59	feature	CDS	1086	1349	.	+	0	ID=TBhypo2152.genome.CDS.1382;Product=;locus_tag=TBhypo2152.genome.CDS.1382
+TBhypo2152.contig.59	feature	tRNA	968	1041	.	+	.	ID=TBhypo2152.genome.rna.8;Product=tRNA-Met-CAT;locus_tag=TBhypo2152.genome.rna.8
+TBhypo2152.contig.59	feature	CDS	677	880	.	+	0	ID=TBhypo2152.genome.CDS.1381;Product=;locus_tag=TBhypo2152.genome.CDS.1381
+TBhypo2152.contig.59	feature	CDS	1	513	.	+	0	ID=TBhypo2152.genome.CDS.1380;Product=3-oxoacyl-%5Bacyl-carrier-protein%5D synthase%2C KASII %28EC 2.3.1.179%29;locus_tag=TBhypo2152.genome.CDS.1380
+TBhypo2152.contig.6	feature	misc_RNA	3	457	.	+	.	ID=TBhypo2152.genome.repeat.53;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.53
+TBhypo2152.contig.6	feature	misc_RNA	18164	18299	.	+	.	ID=TBhypo2152.genome.repeat.54;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.54
+TBhypo2152.contig.6	feature	CDS	18195	18299	.	+	0	ID=TBhypo2152.genome.CDS.972;Product=;locus_tag=TBhypo2152.genome.CDS.972
+TBhypo2152.contig.6	feature	CDS	16998	18077	.	+	0	ID=TBhypo2152.genome.CDS.971;Product=Homoserine O-acetyltransferase %28EC 2.3.1.31%29;locus_tag=TBhypo2152.genome.CDS.971
+TBhypo2152.contig.6	feature	CDS	15629	16993	.	+	0	ID=TBhypo2152.genome.CDS.970;Product=O-acetylhomoserine sulfhydrylase %28EC 2.5.1.49%29 / O-succinylhomoserine sulfhydrylase %28EC 2.5.1.48%29;locus_tag=TBhypo2152.genome.CDS.970
+TBhypo2152.contig.6	feature	CDS	13724	15424	.	+	0	ID=TBhypo2152.genome.CDS.969;Product=NAD synthetase %28EC 6.3.1.5%29 / Glutamine amidotransferase chain of NAD synthetase;locus_tag=TBhypo2152.genome.CDS.969
+TBhypo2152.contig.6	feature	CDS	12779	13609	.	-	0	ID=TBhypo2152.genome.CDS.968;Product=3-methyl-2-oxobutanoate hydroxymethyltransferase %28EC 2.1.2.11%29;locus_tag=TBhypo2152.genome.CDS.968
+TBhypo2152.contig.6	feature	CDS	11480	12748	.	-	0	ID=TBhypo2152.genome.CDS.967;Product=;locus_tag=TBhypo2152.genome.CDS.967
+TBhypo2152.contig.6	feature	CDS	11088	11354	.	-	0	ID=TBhypo2152.genome.CDS.966;Product=;locus_tag=TBhypo2152.genome.CDS.966
+TBhypo2152.contig.6	feature	CDS	10510	11007	.	+	0	ID=TBhypo2152.genome.CDS.965;Product=Transcriptional regulator%2C MarR family;locus_tag=TBhypo2152.genome.CDS.965
+TBhypo2152.contig.6	feature	CDS	8477	10438	.	-	0	ID=TBhypo2152.genome.CDS.964;Product=Metallopeptidase;locus_tag=TBhypo2152.genome.CDS.964
+TBhypo2152.contig.6	feature	CDS	7505	8476	.	+	0	ID=TBhypo2152.genome.CDS.963;Product=Oligopeptide transport ATP-binding protein OppF %28TC 3.A.1.5.1%29;locus_tag=TBhypo2152.genome.CDS.963
+TBhypo2152.contig.6	feature	CDS	6477	7505	.	+	0	ID=TBhypo2152.genome.CDS.962;Product=Oligopeptide transport ATP-binding protein OppD %28TC 3.A.1.5.1%29;locus_tag=TBhypo2152.genome.CDS.962
+TBhypo2152.contig.6	feature	CDS	5482	6480	.	+	0	ID=TBhypo2152.genome.CDS.961;Product=Oligopeptide transport system permease protein OppB %28TC 3.A.1.5.1%29;locus_tag=TBhypo2152.genome.CDS.961
+TBhypo2152.contig.6	feature	CDS	3602	5359	.	+	0	ID=TBhypo2152.genome.CDS.960;Product=Oligopeptide ABC transporter%2C periplasmic oligopeptide-binding protein OppA %28TC 3.A.1.5.1%29;locus_tag=TBhypo2152.genome.CDS.960
+TBhypo2152.contig.6	feature	CDS	2518	3480	.	+	0	ID=TBhypo2152.genome.CDS.959;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.959
+TBhypo2152.contig.6	feature	CDS	1272	2498	.	-	0	ID=TBhypo2152.genome.CDS.46;Product=tRNA-guanine transglycosylase %28EC 2.4.2.29%29;locus_tag=TBhypo2152.genome.CDS.46
+TBhypo2152.contig.6	feature	CDS	505	1275	.	+	0	ID=TBhypo2152.genome.CDS.957;Product=Putative cytoplasmic protein;locus_tag=TBhypo2152.genome.CDS.957
+TBhypo2152.contig.6	feature	CDS	3	476	.	+	0	ID=TBhypo2152.genome.CDS.956;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.956
+TBhypo2152.contig.60	feature	CDS	1507	2826	.	+	0	ID=TBhypo2152.genome.CDS.1388;Product=Tyrosyl-tRNA synthetase %28EC 6.1.1.1%29;locus_tag=TBhypo2152.genome.CDS.1388
+TBhypo2152.contig.60	feature	CDS	128	1555	.	+	0	ID=TBhypo2152.genome.CDS.1387;Product=Argininosuccinate lyase %28EC 4.3.2.1%29;locus_tag=TBhypo2152.genome.CDS.1387
+TBhypo2152.contig.60	feature	CDS	3	128	.	+	0	ID=TBhypo2152.genome.CDS.1386;Product=Arginine pathway regulatory protein ArgR%2C repressor of arg regulon;locus_tag=TBhypo2152.genome.CDS.1386
+TBhypo2152.contig.61	feature	CDS	3178	3690	.	-	0	ID=TBhypo2152.genome.CDS.1392;Product=Formyltetrahydrofolate deformylase %28EC 3.5.1.10%29;locus_tag=TBhypo2152.genome.CDS.1392
+TBhypo2152.contig.61	feature	tRNA	3095	3170	.	+	.	ID=TBhypo2152.genome.rna.9;Product=tRNA-Arg-CCT;locus_tag=TBhypo2152.genome.rna.9
+TBhypo2152.contig.61	feature	CDS	2647	3081	.	+	0	ID=TBhypo2152.genome.CDS.1391;Product=;locus_tag=TBhypo2152.genome.CDS.1391
+TBhypo2152.contig.61	feature	CDS	1218	2618	.	-	0	ID=TBhypo2152.genome.CDS.1390;Product=diguanylate cyclase/phosphodiesterase %28GGDEF %26 EAL domains%29 with PAS/PAC sensor%28s%29;locus_tag=TBhypo2152.genome.CDS.1390
+TBhypo2152.contig.61	feature	CDS	1	1221	.	+	0	ID=TBhypo2152.genome.CDS.1389;Product=Deoxyribodipyrimidine photolyase %28EC 4.1.99.3%29;locus_tag=TBhypo2152.genome.CDS.1389
+TBhypo2152.contig.62	feature	CDS	5835	6980	.	+	0	ID=TBhypo2152.genome.CDS.1398;Product=DNA polymerase III alpha subunit %28EC 2.7.7.7%29;locus_tag=TBhypo2152.genome.CDS.1398
+TBhypo2152.contig.62	feature	CDS	4798	5757	.	+	0	ID=TBhypo2152.genome.CDS.1397;Product=Ribosomal large subunit pseudouridine synthase D %28EC 4.2.1.70%29;locus_tag=TBhypo2152.genome.CDS.1397
+TBhypo2152.contig.62	feature	CDS	4545	4811	.	+	0	ID=TBhypo2152.genome.CDS.1396;Product=Lipoprotein signal peptidase %28EC 3.4.23.36%29;locus_tag=TBhypo2152.genome.CDS.1396
+TBhypo2152.contig.62	feature	CDS	3511	4305	.	+	0	ID=TBhypo2152.genome.CDS.1395;Product=putative DNA-binding protein;locus_tag=TBhypo2152.genome.CDS.1395
+TBhypo2152.contig.62	feature	CDS	231	3371	.	-	0	ID=TBhypo2152.genome.CDS.1394;Product=Isoleucyl-tRNA synthetase %28EC 6.1.1.5%29;locus_tag=TBhypo2152.genome.CDS.1394
+TBhypo2152.contig.62	feature	CDS	3	248	.	+	0	ID=TBhypo2152.genome.CDS.1393;Product=FIG021764: Possible membrane protein;locus_tag=TBhypo2152.genome.CDS.1393
+TBhypo2152.contig.63	feature	misc_RNA	1	127	.	+	.	ID=TBhypo2152.genome.repeat.43;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.43
+TBhypo2152.contig.63	feature	CDS	6843	7055	.	-	0	ID=TBhypo2152.genome.CDS.1406;Product=Acetolactate synthase small subunit %28EC 2.2.1.6%29;locus_tag=TBhypo2152.genome.CDS.1406
+TBhypo2152.contig.63	feature	CDS	6100	6801	.	-	0	ID=TBhypo2152.genome.CDS.1405;Product=Ketol-acid reductoisomerase %28EC 1.1.1.86%29;locus_tag=TBhypo2152.genome.CDS.1405
+TBhypo2152.contig.63	feature	CDS	5771	6088	.	-	0	ID=TBhypo2152.genome.CDS.1404;Product=Ketol-acid reductoisomerase %28EC 1.1.1.86%29;locus_tag=TBhypo2152.genome.CDS.1404
+TBhypo2152.contig.63	feature	CDS	4186	5778	.	-	0	ID=TBhypo2152.genome.CDS.1403;Product=D-3-phosphoglycerate dehydrogenase %28EC 1.1.1.95%29;locus_tag=TBhypo2152.genome.CDS.1403
+TBhypo2152.contig.63	feature	CDS	3152	4186	.	-	0	ID=TBhypo2152.genome.CDS.1402;Product=3-isopropylmalate dehydrogenase %28EC 1.1.1.85%29;locus_tag=TBhypo2152.genome.CDS.1402
+TBhypo2152.contig.63	feature	CDS	2063	3151	.	-	0	ID=TBhypo2152.genome.CDS.1401;Product=Branched-chain amino acid aminotransferase %28EC 2.6.1.42%29;locus_tag=TBhypo2152.genome.CDS.1401
+TBhypo2152.contig.63	feature	CDS	471	2066	.	-	0	ID=TBhypo2152.genome.CDS.1400;Product=%28R%29-citramalate synthase %28EC 2.3.1.182%29;locus_tag=TBhypo2152.genome.CDS.1400
+TBhypo2152.contig.63	feature	CDS	2	469	.	-	0	ID=TBhypo2152.genome.CDS.1399;Product=Tyrosine recombinase XerC;locus_tag=TBhypo2152.genome.CDS.1399
+TBhypo2152.contig.64	feature	misc_RNA	6991	7117	.	+	.	ID=TBhypo2152.genome.repeat.34;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.34
+TBhypo2152.contig.64	feature	CDS	6435	7061	.	-	0	ID=TBhypo2152.genome.CDS.1414;Product=SSU ribosomal protein S4p %28S9e%29 %40 SSU ribosomal protein S4p %28S9e%29%2C zinc-dependent;locus_tag=TBhypo2152.genome.CDS.1414
+TBhypo2152.contig.64	feature	CDS	5363	6376	.	-	0	ID=TBhypo2152.genome.CDS.1413;Product=DNA-directed RNA polymerase alpha subunit %28EC 2.7.7.6%29;locus_tag=TBhypo2152.genome.CDS.1413
+TBhypo2152.contig.64	feature	CDS	4997	5353	.	-	0	ID=TBhypo2152.genome.CDS.1412;Product=LSU ribosomal protein L17p;locus_tag=TBhypo2152.genome.CDS.1412
+TBhypo2152.contig.64	feature	CDS	4116	4979	.	-	0	ID=TBhypo2152.genome.CDS.1411;Product=tRNA pseudouridine synthase A %28EC 4.2.1.70%29;locus_tag=TBhypo2152.genome.CDS.1411
+TBhypo2152.contig.64	feature	CDS	3524	3979	.	-	0	ID=TBhypo2152.genome.CDS.1410;Product=LSU ribosomal protein L13p %28L13Ae%29;locus_tag=TBhypo2152.genome.CDS.1410
+TBhypo2152.contig.64	feature	CDS	3031	3513	.	-	0	ID=TBhypo2152.genome.CDS.1409;Product=SSU ribosomal protein S9p %28S16e%29;locus_tag=TBhypo2152.genome.CDS.1409
+TBhypo2152.contig.64	feature	CDS	1660	3000	.	-	0	ID=TBhypo2152.genome.CDS.1408;Product=Phosphoglucosamine mutase %28EC 5.4.2.10%29;locus_tag=TBhypo2152.genome.CDS.1408
+TBhypo2152.contig.64	feature	CDS	1	1632	.	-	0	ID=TBhypo2152.genome.CDS.1407;Product=Glucosamine--fructose-6-phosphate aminotransferase %5Bisomerizing%5D %28EC 2.6.1.16%29;locus_tag=TBhypo2152.genome.CDS.1407
+TBhypo2152.contig.65	feature	misc_RNA	1	524	.	+	.	ID=TBhypo2152.genome.repeat.18;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.18
+TBhypo2152.contig.65	feature	CDS	2935	4242	.	-	0	ID=TBhypo2152.genome.CDS.1419;Product=GMP synthase %5Bglutamine-hydrolyzing%5D %28EC 6.3.5.2%29;locus_tag=TBhypo2152.genome.CDS.1419
+TBhypo2152.contig.65	feature	CDS	2285	2944	.	-	0	ID=TBhypo2152.genome.CDS.1418;Product=;locus_tag=TBhypo2152.genome.CDS.1418
+TBhypo2152.contig.65	feature	CDS	1559	2284	.	+	0	ID=TBhypo2152.genome.CDS.1417;Product=LmbE family protein;locus_tag=TBhypo2152.genome.CDS.1417
+TBhypo2152.contig.65	feature	CDS	3	1526	.	-	0	ID=TBhypo2152.genome.CDS.1416;Product=ATP-dependent DNA helicase UvrD/PcrA;locus_tag=TBhypo2152.genome.CDS.1416
+TBhypo2152.contig.66	feature	CDS	4289	5023	.	-	0	ID=TBhypo2152.genome.CDS.1424;Product=FIG011065: hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1424
+TBhypo2152.contig.66	feature	CDS	3817	4269	.	-	0	ID=TBhypo2152.genome.CDS.1423;Product=FIG000325: clustered with transcription termination protein NusA;locus_tag=TBhypo2152.genome.CDS.1423
+TBhypo2152.contig.66	feature	CDS	2795	3817	.	-	0	ID=TBhypo2152.genome.CDS.1422;Product=Transcription termination protein NusA;locus_tag=TBhypo2152.genome.CDS.1422
+TBhypo2152.contig.66	feature	CDS	2520	2783	.	-	0	ID=TBhypo2152.genome.CDS.1421;Product=;locus_tag=TBhypo2152.genome.CDS.1421
+TBhypo2152.contig.66	feature	CDS	253	2400	.	-	0	ID=TBhypo2152.genome.CDS.1420;Product=Translation initiation factor 2;locus_tag=TBhypo2152.genome.CDS.1420
+TBhypo2152.contig.67	feature	misc_RNA	7337	7472	.	+	.	ID=TBhypo2152.genome.repeat.32;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.32
+TBhypo2152.contig.67	feature	CDS	5990	7441	.	-	0	ID=TBhypo2152.genome.CDS.1431;Product=RNA polymerase sigma factor RpoD;locus_tag=TBhypo2152.genome.CDS.1431
+TBhypo2152.contig.67	feature	CDS	5795	5980	.	-	0	ID=TBhypo2152.genome.CDS.1430;Product=;locus_tag=TBhypo2152.genome.CDS.1430
+TBhypo2152.contig.67	feature	CDS	5569	5790	.	+	0	ID=TBhypo2152.genome.CDS.1429;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1429
+TBhypo2152.contig.67	feature	CDS	3325	5397	.	-	0	ID=TBhypo2152.genome.CDS.1428;Product=Topoisomerase IV subunit B %28EC 5.99.1.-%29;locus_tag=TBhypo2152.genome.CDS.1428
+TBhypo2152.contig.67	feature	CDS	1819	3318	.	+	0	ID=TBhypo2152.genome.CDS.1427;Product=Topoisomerase IV subunit A %28EC 5.99.1.-%29;locus_tag=TBhypo2152.genome.CDS.1427
+TBhypo2152.contig.67	feature	CDS	684	1778	.	-	0	ID=TBhypo2152.genome.CDS.1426;Product=Alkaline phosphodiesterase I %28EC 3.1.4.1%29 / Nucleotide pyrophosphatase %28EC 3.6.1.9%29;locus_tag=TBhypo2152.genome.CDS.1426
+TBhypo2152.contig.67	feature	CDS	2	712	.	+	0	ID=TBhypo2152.genome.CDS.1425;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1425
+TBhypo2152.contig.68	feature	misc_RNA	5376	6840	.	+	.	ID=TBhypo2152.genome.repeat.61;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.61
+TBhypo2152.contig.68	feature	CDS	6693	6839	.	+	0	ID=TBhypo2152.genome.CDS.1439;Product=Cysteine desulfurase %28EC 2.8.1.7%29%2C SufS subfamily;locus_tag=TBhypo2152.genome.CDS.1439
+TBhypo2152.contig.68	feature	CDS	5928	6680	.	+	0	ID=TBhypo2152.genome.CDS.1438;Product=Iron-sulfur cluster assembly ATPase protein SufC;locus_tag=TBhypo2152.genome.CDS.1438
+TBhypo2152.contig.68	feature	CDS	5638	5931	.	+	0	ID=TBhypo2152.genome.CDS.1437;Product=Ferredoxin%2C 2Fe-2S;locus_tag=TBhypo2152.genome.CDS.1437
+TBhypo2152.contig.68	feature	CDS	4528	5610	.	+	0	ID=TBhypo2152.genome.CDS.1436;Product=Iron-sulfur cluster assembly protein SufD;locus_tag=TBhypo2152.genome.CDS.1436
+TBhypo2152.contig.68	feature	CDS	3113	4528	.	+	0	ID=TBhypo2152.genome.CDS.1435;Product=Iron-sulfur cluster assembly protein SufB;locus_tag=TBhypo2152.genome.CDS.1435
+TBhypo2152.contig.68	feature	CDS	2406	3116	.	+	0	ID=TBhypo2152.genome.CDS.1434;Product=Iron-sulfur cluster regulator SufR;locus_tag=TBhypo2152.genome.CDS.1434
+TBhypo2152.contig.68	feature	CDS	1487	2383	.	-	0	ID=TBhypo2152.genome.CDS.1433;Product=Cytochrome oxidase assembly protein;locus_tag=TBhypo2152.genome.CDS.1433
+TBhypo2152.contig.68	feature	CDS	1	1455	.	-	0	ID=TBhypo2152.genome.CDS.1432;Product=Transketolase %28EC 2.2.1.1%29;locus_tag=TBhypo2152.genome.CDS.1432
+TBhypo2152.contig.69	feature	misc_RNA	6712	7037	.	+	.	ID=TBhypo2152.genome.repeat.55;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.55
+TBhypo2152.contig.69	feature	CDS	6130	7035	.	-	0	ID=TBhypo2152.genome.CDS.1449;Product=;locus_tag=TBhypo2152.genome.CDS.1449
+TBhypo2152.contig.69	feature	CDS	5933	6130	.	-	0	ID=TBhypo2152.genome.CDS.1448;Product=;locus_tag=TBhypo2152.genome.CDS.1448
+TBhypo2152.contig.69	feature	CDS	4950	5936	.	+	0	ID=TBhypo2152.genome.CDS.1447;Product=putative Adenosine kinase %28EC 2.7.1.20%29;locus_tag=TBhypo2152.genome.CDS.1447
+TBhypo2152.contig.69	feature	CDS	4568	4933	.	+	0	ID=TBhypo2152.genome.CDS.1446;Product=probable iron binding protein from the HesB_IscA_SufA family;locus_tag=TBhypo2152.genome.CDS.1446
+TBhypo2152.contig.69	feature	CDS	3342	4496	.	-	0	ID=TBhypo2152.genome.CDS.1445;Product=Quinolinate synthetase %28EC 2.5.1.72%29;locus_tag=TBhypo2152.genome.CDS.1445
+TBhypo2152.contig.69	feature	CDS	2825	3337	.	-	0	ID=TBhypo2152.genome.CDS.1444;Product=CblZ%2C a non-orthologous displasment for Alpha-ribazole-5%27-phosphate phosphatase;locus_tag=TBhypo2152.genome.CDS.1444
+TBhypo2152.contig.69	feature	CDS	1693	2550	.	-	0	ID=TBhypo2152.genome.CDS.1443;Product=Vitamin B12 ABC transporter%2C B12-binding component BtuF;locus_tag=TBhypo2152.genome.CDS.1443
+TBhypo2152.contig.69	feature	CDS	1183	1689	.	-	0	ID=TBhypo2152.genome.CDS.1442;Product=Adenosylcobinamide kinase %28EC 2.7.1.156%29 / Adenosylcobinamide-phosphate guanylyltransferase %28EC 2.7.7.62%29;locus_tag=TBhypo2152.genome.CDS.1442
+TBhypo2152.contig.69	feature	CDS	428	1186	.	-	0	ID=TBhypo2152.genome.CDS.1441;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1441
+TBhypo2152.contig.69	feature	CDS	3	431	.	-	0	ID=TBhypo2152.genome.CDS.1440;Product=;locus_tag=TBhypo2152.genome.CDS.1440
+TBhypo2152.contig.7	feature	misc_RNA	1	1065	.	+	.	ID=TBhypo2152.genome.repeat.45;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.45
+TBhypo2152.contig.7	feature	CDS	9149	9541	.	-	0	ID=TBhypo2152.genome.CDS.985;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.985
+TBhypo2152.contig.7	feature	CDS	8630	9028	.	-	0	ID=TBhypo2152.genome.CDS.984;Product=;locus_tag=TBhypo2152.genome.CDS.984
+TBhypo2152.contig.7	feature	CDS	8381	8545	.	+	0	ID=TBhypo2152.genome.CDS.983;Product=;locus_tag=TBhypo2152.genome.CDS.983
+TBhypo2152.contig.7	feature	CDS	6284	8020	.	-	0	ID=TBhypo2152.genome.CDS.982;Product=Lipid A export ATP-binding/permease protein MsbA;locus_tag=TBhypo2152.genome.CDS.982
+TBhypo2152.contig.7	feature	CDS	4341	6287	.	-	0	ID=TBhypo2152.genome.CDS.981;Product=Lipid A export ATP-binding/permease protein MsbA;locus_tag=TBhypo2152.genome.CDS.981
+TBhypo2152.contig.7	feature	CDS	3764	4201	.	-	0	ID=TBhypo2152.genome.CDS.980;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.980
+TBhypo2152.contig.7	feature	CDS	3434	3736	.	+	0	ID=TBhypo2152.genome.CDS.979;Product=;locus_tag=TBhypo2152.genome.CDS.979
+TBhypo2152.contig.7	feature	CDS	3045	3371	.	-	0	ID=TBhypo2152.genome.CDS.65;Product=;locus_tag=TBhypo2152.genome.CDS.65
+TBhypo2152.contig.7	feature	CDS	2577	3020	.	-	0	ID=TBhypo2152.genome.CDS.977;Product=3-demethylubiquinone-9 3-methyltransferase;locus_tag=TBhypo2152.genome.CDS.977
+TBhypo2152.contig.7	feature	CDS	1917	2573	.	+	0	ID=TBhypo2152.genome.CDS.976;Product=UPF0246 protein YaaA;locus_tag=TBhypo2152.genome.CDS.976
+TBhypo2152.contig.7	feature	CDS	1369	1857	.	-	0	ID=TBhypo2152.genome.CDS.975;Product=;locus_tag=TBhypo2152.genome.CDS.975
+TBhypo2152.contig.7	feature	CDS	832	1245	.	-	0	ID=TBhypo2152.genome.CDS.974;Product=;locus_tag=TBhypo2152.genome.CDS.974
+TBhypo2152.contig.7	feature	CDS	1	822	.	-	0	ID=TBhypo2152.genome.CDS.973;Product=;locus_tag=TBhypo2152.genome.CDS.973
+TBhypo2152.contig.70	feature	misc_RNA	6176	6302	.	+	.	ID=TBhypo2152.genome.repeat.21;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.21
+TBhypo2152.contig.70	feature	CDS	5181	6302	.	-	0	ID=TBhypo2152.genome.CDS.1457;Product=Branched-chain amino acid ABC transporter%2C amino acid-binding protein %28TC 3.A.1.4.1%29;locus_tag=TBhypo2152.genome.CDS.1457
+TBhypo2152.contig.70	feature	CDS	4100	5047	.	-	0	ID=TBhypo2152.genome.CDS.1456;Product=High-affinity branched-chain amino acid transport system permease protein LivH %28TC 3.A.1.4.1%29;locus_tag=TBhypo2152.genome.CDS.1456
+TBhypo2152.contig.70	feature	CDS	3046	4092	.	-	0	ID=TBhypo2152.genome.CDS.1455;Product=Branched-chain amino acid transport system permease protein LivM %28TC 3.A.1.4.1%29;locus_tag=TBhypo2152.genome.CDS.1455
+TBhypo2152.contig.70	feature	CDS	2277	3053	.	-	0	ID=TBhypo2152.genome.CDS.1454;Product=Branched-chain amino acid transport ATP-binding protein LivG %28TC 3.A.1.4.1%29;locus_tag=TBhypo2152.genome.CDS.1454
+TBhypo2152.contig.70	feature	CDS	1562	2287	.	-	0	ID=TBhypo2152.genome.CDS.1453;Product=Branched-chain amino acid transport ATP-binding protein LivF %28TC 3.A.1.4.1%29;locus_tag=TBhypo2152.genome.CDS.1453
+TBhypo2152.contig.70	feature	CDS	869	1549	.	+	0	ID=TBhypo2152.genome.CDS.1452;Product=salicylate esterase;locus_tag=TBhypo2152.genome.CDS.1452
+TBhypo2152.contig.70	feature	CDS	465	872	.	+	0	ID=TBhypo2152.genome.CDS.1451;Product=ComA operon protein 2;locus_tag=TBhypo2152.genome.CDS.1451
+TBhypo2152.contig.70	feature	CDS	3	293	.	-	0	ID=TBhypo2152.genome.CDS.1450;Product=DNA polymerase I %28EC 2.7.7.7%29;locus_tag=TBhypo2152.genome.CDS.1450
+TBhypo2152.contig.71	feature	CDS	3053	3718	.	-	0	ID=TBhypo2152.genome.CDS.1463;Product=Replicative DNA helicase %28DnaB%29 %28EC 3.6.4.12%29;locus_tag=TBhypo2152.genome.CDS.1463
+TBhypo2152.contig.71	feature	CDS	2562	3056	.	+	0	ID=TBhypo2152.genome.CDS.1462;Product=Carbonic anhydrase %28EC 4.2.1.1%29;locus_tag=TBhypo2152.genome.CDS.1462
+TBhypo2152.contig.71	feature	CDS	1640	2569	.	+	0	ID=TBhypo2152.genome.CDS.508;Product=;locus_tag=TBhypo2152.genome.CDS.508
+TBhypo2152.contig.71	feature	CDS	1018	1596	.	-	0	ID=TBhypo2152.genome.CDS.1460;Product=Deoxycytidine triphosphate deaminase %28EC 3.5.4.13%29;locus_tag=TBhypo2152.genome.CDS.1460
+TBhypo2152.contig.71	feature	CDS	417	971	.	-	0	ID=TBhypo2152.genome.CDS.1459;Product=LemA protein;locus_tag=TBhypo2152.genome.CDS.1459
+TBhypo2152.contig.71	feature	CDS	1	414	.	-	0	ID=TBhypo2152.genome.CDS.1458;Product=;locus_tag=TBhypo2152.genome.CDS.1458
+TBhypo2152.contig.72	feature	CDS	3066	3752	.	+	0	ID=TBhypo2152.genome.CDS.1466;Product=Acetolactate synthase large subunit %28EC 2.2.1.6%29;locus_tag=TBhypo2152.genome.CDS.1466
+TBhypo2152.contig.72	feature	CDS	1185	2849	.	+	0	ID=TBhypo2152.genome.CDS.1465;Product=Dihydroxy-acid dehydratase %28EC 4.2.1.9%29;locus_tag=TBhypo2152.genome.CDS.1465
+TBhypo2152.contig.72	feature	CDS	3	1154	.	+	0	ID=TBhypo2152.genome.CDS.1464;Product=Aspartyl-tRNA%28Asn%29 amidotransferase subunit B %28EC 6.3.5.6%29 %40 Glutamyl-tRNA%28Gln%29 amidotransferase subunit B %28EC 6.3.5.7%29;locus_tag=TBhypo2152.genome.CDS.1464
+TBhypo2152.contig.73	feature	CDS	4218	5171	.	-	0	ID=TBhypo2152.genome.CDS.1472;Product=Alanine racemase %28EC 5.1.1.1%29;locus_tag=TBhypo2152.genome.CDS.1472
+TBhypo2152.contig.73	feature	CDS	3802	4221	.	-	0	ID=TBhypo2152.genome.CDS.1471;Product=TsaE protein%2C required for threonylcarbamoyladenosine t%286%29A37 formation in tRNA;locus_tag=TBhypo2152.genome.CDS.1471
+TBhypo2152.contig.73	feature	CDS	2822	3805	.	-	0	ID=TBhypo2152.genome.CDS.1470;Product=TsaB protein%2C required for threonylcarbamoyladenosine %28t%286%29A%29 formation in tRNA;locus_tag=TBhypo2152.genome.CDS.1470
+TBhypo2152.contig.73	feature	CDS	1809	2825	.	-	0	ID=TBhypo2152.genome.CDS.1469;Product=Kinase-Associated Endopeptidase %28Kae1%29%2C required for threonylcarbamoyladenosine t%286%29A37 formation in tRNA;locus_tag=TBhypo2152.genome.CDS.1469
+TBhypo2152.contig.73	feature	CDS	1402	1698	.	-	0	ID=TBhypo2152.genome.CDS.1468;Product=Heat shock protein 60 family co-chaperone GroES;locus_tag=TBhypo2152.genome.CDS.1468
+TBhypo2152.contig.73	feature	CDS	2	1399	.	-	0	ID=TBhypo2152.genome.CDS.1467;Product=Heat shock protein 60 family chaperone GroEL;locus_tag=TBhypo2152.genome.CDS.1467
+TBhypo2152.contig.74	feature	misc_RNA	1	593	.	+	.	ID=TBhypo2152.genome.repeat.72;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.72
+TBhypo2152.contig.74	feature	CDS	6457	7821	.	-	0	ID=TBhypo2152.genome.CDS.1480;Product=Serine/threonine protein kinase PrkC%2C regulator of stationary phase;locus_tag=TBhypo2152.genome.CDS.1480
+TBhypo2152.contig.74	feature	CDS	5572	6447	.	-	0	ID=TBhypo2152.genome.CDS.1479;Product=Endonuclease IV %28EC 3.1.21.2%29;locus_tag=TBhypo2152.genome.CDS.1479
+TBhypo2152.contig.74	feature	CDS	4691	5575	.	-	0	ID=TBhypo2152.genome.CDS.1478;Product=Permease of the drug/metabolite transporter %28DMT%29 superfamily;locus_tag=TBhypo2152.genome.CDS.1478
+TBhypo2152.contig.74	feature	CDS	3652	4698	.	-	0	ID=TBhypo2152.genome.CDS.1477;Product=Low-specificity L-threonine aldolase %28EC 4.1.2.48%29;locus_tag=TBhypo2152.genome.CDS.1477
+TBhypo2152.contig.74	feature	CDS	3187	3681	.	+	0	ID=TBhypo2152.genome.CDS.1476;Product=;locus_tag=TBhypo2152.genome.CDS.1476
+TBhypo2152.contig.74	feature	CDS	1825	3168	.	+	0	ID=TBhypo2152.genome.CDS.1475;Product=2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase II %28EC 2.5.1.54%29;locus_tag=TBhypo2152.genome.CDS.1475
+TBhypo2152.contig.74	feature	CDS	758	1783	.	+	0	ID=TBhypo2152.genome.CDS.1474;Product=6-phosphofructokinase %28EC 2.7.1.11%29;locus_tag=TBhypo2152.genome.CDS.1474
+TBhypo2152.contig.74	feature	CDS	2	523	.	-	0	ID=TBhypo2152.genome.CDS.1473;Product=Xylulose kinase %28EC 2.7.1.17%29;locus_tag=TBhypo2152.genome.CDS.1473
+TBhypo2152.contig.75	feature	CDS	3522	4160	.	+	0	ID=TBhypo2152.genome.CDS.1487;Product=tRNA dihydrouridine synthase B %28EC 1.-.-.-%29;locus_tag=TBhypo2152.genome.CDS.1487
+TBhypo2152.contig.75	feature	CDS	2295	3515	.	+	0	ID=TBhypo2152.genome.CDS.1486;Product=Glycyl-tRNA synthetase %28EC 6.1.1.14%29;locus_tag=TBhypo2152.genome.CDS.1486
+TBhypo2152.contig.75	feature	CDS	2137	2250	.	+	0	ID=TBhypo2152.genome.CDS.1485;Product=Glycyl-tRNA synthetase %28EC 6.1.1.14%29;locus_tag=TBhypo2152.genome.CDS.1485
+TBhypo2152.contig.75	feature	CDS	1313	2050	.	+	0	ID=TBhypo2152.genome.CDS.1484;Product=;locus_tag=TBhypo2152.genome.CDS.1484
+TBhypo2152.contig.75	feature	CDS	947	1282	.	+	0	ID=TBhypo2152.genome.CDS.528;Product=Trans%2Cpolycis-decaprenyl diphosphate synthase %28EC 2.5.1.86%29;locus_tag=TBhypo2152.genome.CDS.528
+TBhypo2152.contig.75	feature	CDS	561	959	.	+	0	ID=TBhypo2152.genome.CDS.1482;Product=Trans%2Cpolycis-decaprenyl diphosphate synthase %28EC 2.5.1.86%29;locus_tag=TBhypo2152.genome.CDS.1482
+TBhypo2152.contig.75	feature	CDS	1	558	.	+	0	ID=TBhypo2152.genome.CDS.1481;Product=DNA recombination and repair protein RecO;locus_tag=TBhypo2152.genome.CDS.1481
+TBhypo2152.contig.76	feature	misc_RNA	9109	9235	.	+	.	ID=TBhypo2152.genome.repeat.68;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.68
+TBhypo2152.contig.76	feature	CDS	9023	9235	.	-	0	ID=TBhypo2152.genome.CDS.1499;Product=;locus_tag=TBhypo2152.genome.CDS.1499
+TBhypo2152.contig.76	feature	CDS	8162	9022	.	-	0	ID=TBhypo2152.genome.CDS.1498;Product=Dihydroorotate dehydrogenase electron transfer subunit %28EC 1.3.3.1%29;locus_tag=TBhypo2152.genome.CDS.1498
+TBhypo2152.contig.76	feature	CDS	7221	8165	.	-	0	ID=TBhypo2152.genome.CDS.1497;Product=Dihydroorotate dehydrogenase%2C catalytic subunit %28EC 1.3.3.1%29;locus_tag=TBhypo2152.genome.CDS.1497
+TBhypo2152.contig.76	feature	CDS	6530	7231	.	-	0	ID=TBhypo2152.genome.CDS.1496;Product=Orotidine 5%27-phosphate decarboxylase %28EC 4.1.1.23%29;locus_tag=TBhypo2152.genome.CDS.1496
+TBhypo2152.contig.76	feature	CDS	5658	6491	.	-	0	ID=TBhypo2152.genome.CDS.1495;Product=Guanylate kinase %28EC 2.7.4.8%29;locus_tag=TBhypo2152.genome.CDS.1495
+TBhypo2152.contig.76	feature	CDS	5344	5622	.	-	0	ID=TBhypo2152.genome.CDS.1494;Product=DNA-directed RNA polymerase omega subunit %28EC 2.7.7.6%29;locus_tag=TBhypo2152.genome.CDS.1494
+TBhypo2152.contig.76	feature	CDS	4752	5324	.	-	0	ID=TBhypo2152.genome.CDS.1493;Product=Phosphopantothenoylcysteine decarboxylase %28EC 4.1.1.36%29 / Phosphopantothenoylcysteine synthetase %28EC 6.3.2.5%29;locus_tag=TBhypo2152.genome.CDS.1493
+TBhypo2152.contig.76	feature	CDS	4138	4614	.	-	0	ID=TBhypo2152.genome.CDS.1492;Product=Phosphopantothenoylcysteine decarboxylase %28EC 4.1.1.36%29 / Phosphopantothenoylcysteine synthetase %28EC 6.3.2.5%29;locus_tag=TBhypo2152.genome.CDS.1492
+TBhypo2152.contig.76	feature	CDS	2940	4133	.	-	0	ID=TBhypo2152.genome.CDS.1491;Product=S-adenosylmethionine synthetase %28EC 2.5.1.6%29;locus_tag=TBhypo2152.genome.CDS.1491
+TBhypo2152.contig.76	feature	CDS	1056	2933	.	-	0	ID=TBhypo2152.genome.CDS.1490;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1490
+TBhypo2152.contig.76	feature	CDS	454	1014	.	-	0	ID=TBhypo2152.genome.CDS.1489;Product=Peptide deformylase %28EC 3.5.1.88%29;locus_tag=TBhypo2152.genome.CDS.1489
+TBhypo2152.contig.76	feature	CDS	2	448	.	-	0	ID=TBhypo2152.genome.CDS.1488;Product=Methionyl-tRNA formyltransferase %28EC 2.1.2.9%29;locus_tag=TBhypo2152.genome.CDS.1488
+TBhypo2152.contig.77	feature	misc_RNA	9662	10121	.	+	.	ID=TBhypo2152.genome.repeat.70;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.70
+TBhypo2152.contig.77	feature	CDS	9599	10120	.	+	0	ID=TBhypo2152.genome.CDS.1511;Product=Ribosome small subunit-stimulated GTPase EngC;locus_tag=TBhypo2152.genome.CDS.1511
+TBhypo2152.contig.77	feature	CDS	8292	9581	.	+	0	ID=TBhypo2152.genome.CDS.1510;Product=5-Enolpyruvylshikimate-3-phosphate synthase %28EC 2.5.1.19%29;locus_tag=TBhypo2152.genome.CDS.1510
+TBhypo2152.contig.77	feature	CDS	7543	8196	.	-	0	ID=TBhypo2152.genome.CDS.1509;Product=;locus_tag=TBhypo2152.genome.CDS.1509
+TBhypo2152.contig.77	feature	CDS	7157	7534	.	-	0	ID=TBhypo2152.genome.CDS.1508;Product=;locus_tag=TBhypo2152.genome.CDS.1508
+TBhypo2152.contig.77	feature	CDS	6689	7072	.	-	0	ID=TBhypo2152.genome.CDS.1507;Product=;locus_tag=TBhypo2152.genome.CDS.1507
+TBhypo2152.contig.77	feature	CDS	6299	6688	.	+	0	ID=TBhypo2152.genome.CDS.1506;Product=Nickel-dependent superoxide dismutase %28EC 1.15.1.1%29;locus_tag=TBhypo2152.genome.CDS.1506
+TBhypo2152.contig.77	feature	CDS	5921	6259	.	-	0	ID=TBhypo2152.genome.CDS.1505;Product=;locus_tag=TBhypo2152.genome.CDS.1505
+TBhypo2152.contig.77	feature	CDS	2196	5924	.	+	0	ID=TBhypo2152.genome.CDS.1504;Product=2-oxoglutarate dehydrogenase E1 component %28EC 1.2.4.2%29;locus_tag=TBhypo2152.genome.CDS.1504
+TBhypo2152.contig.77	feature	CDS	1370	2071	.	-	0	ID=TBhypo2152.genome.CDS.1503;Product=3-oxoacyl-%5Bacyl-carrier protein%5D reductase %28EC 1.1.1.100%29;locus_tag=TBhypo2152.genome.CDS.1503
+TBhypo2152.contig.77	feature	CDS	981	1358	.	+	0	ID=TBhypo2152.genome.CDS.1502;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1502
+TBhypo2152.contig.77	feature	CDS	507	950	.	-	0	ID=TBhypo2152.genome.CDS.1501;Product=;locus_tag=TBhypo2152.genome.CDS.1501
+TBhypo2152.contig.77	feature	CDS	3	449	.	-	0	ID=TBhypo2152.genome.CDS.1500;Product=Argininosuccinate synthase %28EC 6.3.4.5%29;locus_tag=TBhypo2152.genome.CDS.1500
+TBhypo2152.contig.78	feature	misc_RNA	1	107	.	+	.	ID=TBhypo2152.genome.repeat.35;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.35
+TBhypo2152.contig.78	feature	CDS	1839	2594	.	-	0	ID=TBhypo2152.genome.CDS.1515;Product=Ammonium transporter;locus_tag=TBhypo2152.genome.CDS.1515
+TBhypo2152.contig.78	feature	CDS	1491	1829	.	-	0	ID=TBhypo2152.genome.CDS.1514;Product=Nitrogen regulatory protein P-II;locus_tag=TBhypo2152.genome.CDS.1514
+TBhypo2152.contig.78	feature	CDS	1156	1467	.	-	0	ID=TBhypo2152.genome.CDS.1513;Product=%5BProtein-PII%5D uridylyltransferase %28EC 2.7.7.59%29;locus_tag=TBhypo2152.genome.CDS.1513
+TBhypo2152.contig.78	feature	CDS	2	1159	.	-	0	ID=TBhypo2152.genome.CDS.1512;Product=%5BProtein-PII%5D uridylyltransferase %28EC 2.7.7.59%29;locus_tag=TBhypo2152.genome.CDS.1512
+TBhypo2152.contig.79	feature	misc_RNA	9987	10312	.	+	.	ID=TBhypo2152.genome.repeat.19;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.19
+TBhypo2152.contig.79	feature	CDS	9824	10312	.	+	0	ID=TBhypo2152.genome.CDS.1526;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1526
+TBhypo2152.contig.79	feature	CDS	9049	9795	.	-	0	ID=TBhypo2152.genome.CDS.1525;Product=Cytochrome c oxidase polypeptide II %28EC 1.9.3.1%29;locus_tag=TBhypo2152.genome.CDS.1525
+TBhypo2152.contig.79	feature	CDS	7381	9045	.	-	0	ID=TBhypo2152.genome.CDS.1524;Product=Cytochrome c oxidase polypeptide I %28EC 1.9.3.1%29;locus_tag=TBhypo2152.genome.CDS.1524
+TBhypo2152.contig.79	feature	CDS	6975	7376	.	-	0	ID=TBhypo2152.genome.CDS.1523;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1523
+TBhypo2152.contig.79	feature	CDS	6446	6964	.	+	0	ID=TBhypo2152.genome.CDS.563;Product=;locus_tag=TBhypo2152.genome.CDS.563
+TBhypo2152.contig.79	feature	CDS	5197	6378	.	+	0	ID=TBhypo2152.genome.CDS.1521;Product=PROBABLE INTEGRAL MEMBRANE PROTEIN;locus_tag=TBhypo2152.genome.CDS.1521
+TBhypo2152.contig.79	feature	CDS	3597	5171	.	+	0	ID=TBhypo2152.genome.CDS.1520;Product=Ubiquinol--cytochrome c reductase%2C cytochrome B subunit %28EC 1.10.2.2%29;locus_tag=TBhypo2152.genome.CDS.1520
+TBhypo2152.contig.79	feature	CDS	2577	3575	.	+	0	ID=TBhypo2152.genome.CDS.1519;Product=Ubiquinol-cytochrome C reductase iron-sulfur subunit %28EC 1.10.2.2%29;locus_tag=TBhypo2152.genome.CDS.1519
+TBhypo2152.contig.79	feature	CDS	1781	2575	.	+	0	ID=TBhypo2152.genome.CDS.1518;Product=ubiquinol cytochrome C oxidoreductase%2C cytochrome C1 subunit;locus_tag=TBhypo2152.genome.CDS.1518
+TBhypo2152.contig.79	feature	CDS	1149	1772	.	+	0	ID=TBhypo2152.genome.CDS.1517;Product=Cytochrome c oxidase polypeptide III %28EC 1.9.3.1%29;locus_tag=TBhypo2152.genome.CDS.1517
+TBhypo2152.contig.79	feature	CDS	1	1047	.	-	0	ID=TBhypo2152.genome.CDS.1516;Product=Anthranilate phosphoribosyltransferase %28EC 2.4.2.18%29;locus_tag=TBhypo2152.genome.CDS.1516
+TBhypo2152.contig.8	feature	CDS	8950	9468	.	+	0	ID=TBhypo2152.genome.CDS.994;Product=Flavodoxin reductases %28ferredoxin-NADPH reductases%29 family 1;locus_tag=TBhypo2152.genome.CDS.994
+TBhypo2152.contig.8	feature	CDS	7991	8752	.	-	0	ID=TBhypo2152.genome.CDS.993;Product=;locus_tag=TBhypo2152.genome.CDS.993
+TBhypo2152.contig.8	feature	CDS	6471	7823	.	-	0	ID=TBhypo2152.genome.CDS.992;Product=Various polyols ABC transporter%2C periplasmic substrate-binding protein;locus_tag=TBhypo2152.genome.CDS.992
+TBhypo2152.contig.8	feature	CDS	5434	6345	.	-	0	ID=TBhypo2152.genome.CDS.991;Product=Various polyols ABC transporter%2C permease component 1;locus_tag=TBhypo2152.genome.CDS.991
+TBhypo2152.contig.8	feature	CDS	4607	5437	.	-	0	ID=TBhypo2152.genome.CDS.990;Product=Various polyols ABC transporter%2C permease component 2;locus_tag=TBhypo2152.genome.CDS.990
+TBhypo2152.contig.8	feature	CDS	3135	4607	.	-	0	ID=TBhypo2152.genome.CDS.989;Product=Multiple polyol-specific dehydrogenase %28EC 1.1.1.-%29;locus_tag=TBhypo2152.genome.CDS.989
+TBhypo2152.contig.8	feature	tRNA	2968	3059	.	-	.	ID=TBhypo2152.genome.rna.1;Product=tRNA-Ser-GCT;locus_tag=TBhypo2152.genome.rna.1
+TBhypo2152.contig.8	feature	CDS	1895	2923	.	-	0	ID=TBhypo2152.genome.CDS.988;Product=;locus_tag=TBhypo2152.genome.CDS.988
+TBhypo2152.contig.8	feature	CDS	1155	1892	.	+	0	ID=TBhypo2152.genome.CDS.987;Product=3-oxoacyl-%5Bacyl-carrier protein%5D reductase %28EC 1.1.1.100%29;locus_tag=TBhypo2152.genome.CDS.987
+TBhypo2152.contig.8	feature	CDS	57	1076	.	-	0	ID=TBhypo2152.genome.CDS.986;Product=;locus_tag=TBhypo2152.genome.CDS.986
+TBhypo2152.contig.80	feature	misc_RNA	2914	3036	.	-	.	ID=TBhypo2152.genome.rna.1;Product=5S rRNA %23%23 5S ribosomal RNA;locus_tag=TBhypo2152.genome.rna.1
+TBhypo2152.contig.80	feature	CDS	2447	2890	.	-	0	ID=TBhypo2152.genome.CDS.1531;Product=;locus_tag=TBhypo2152.genome.CDS.1531
+TBhypo2152.contig.80	feature	CDS	2290	2433	.	-	0	ID=TBhypo2152.genome.CDS.1530;Product=;locus_tag=TBhypo2152.genome.CDS.1530
+TBhypo2152.contig.80	feature	CDS	1495	2283	.	-	0	ID=TBhypo2152.genome.CDS.1529;Product=RNA binding methyltransferase FtsJ like;locus_tag=TBhypo2152.genome.CDS.1529
+TBhypo2152.contig.80	feature	CDS	623	1468	.	-	0	ID=TBhypo2152.genome.CDS.1528;Product=NAD kinase %28EC 2.7.1.23%29;locus_tag=TBhypo2152.genome.CDS.1528
+TBhypo2152.contig.80	feature	CDS	1	630	.	-	0	ID=TBhypo2152.genome.CDS.1527;Product=DNA repair protein RecN;locus_tag=TBhypo2152.genome.CDS.1527
+TBhypo2152.contig.81	feature	CDS	11148	11360	.	+	0	ID=TBhypo2152.genome.CDS.1544;Product=;locus_tag=TBhypo2152.genome.CDS.1544
+TBhypo2152.contig.81	feature	CDS	10795	11130	.	+	0	ID=TBhypo2152.genome.CDS.1543;Product=;locus_tag=TBhypo2152.genome.CDS.1543
+TBhypo2152.contig.81	feature	CDS	10047	10778	.	+	0	ID=TBhypo2152.genome.CDS.1542;Product=Ribosomal RNA small subunit methyltransferase E %28EC 2.1.1.-%29;locus_tag=TBhypo2152.genome.CDS.1542
+TBhypo2152.contig.81	feature	CDS	8932	10047	.	+	0	ID=TBhypo2152.genome.CDS.1541;Product=Chaperone protein DnaJ;locus_tag=TBhypo2152.genome.CDS.1541
+TBhypo2152.contig.81	feature	CDS	8214	8939	.	+	0	ID=TBhypo2152.genome.CDS.1540;Product=Heat-inducible transcription repressor HrcA;locus_tag=TBhypo2152.genome.CDS.1540
+TBhypo2152.contig.81	feature	CDS	7051	8199	.	+	0	ID=TBhypo2152.genome.CDS.1539;Product=Hypothetical radical SAM family enzyme in heat shock gene cluster%2C similarity with CPO of BS HemN-type;locus_tag=TBhypo2152.genome.CDS.1539
+TBhypo2152.contig.81	feature	CDS	6617	7045	.	+	0	ID=TBhypo2152.genome.CDS.1538;Product=Translation elongation factor LepA;locus_tag=TBhypo2152.genome.CDS.1538
+TBhypo2152.contig.81	feature	CDS	5166	6659	.	+	0	ID=TBhypo2152.genome.CDS.1537;Product=Translation elongation factor LepA;locus_tag=TBhypo2152.genome.CDS.1537
+TBhypo2152.contig.81	feature	CDS	4866	5132	.	+	0	ID=TBhypo2152.genome.CDS.1536;Product=SSU ribosomal protein S20p;locus_tag=TBhypo2152.genome.CDS.1536
+TBhypo2152.contig.81	feature	CDS	3806	4759	.	+	0	ID=TBhypo2152.genome.CDS.1535;Product=DNA polymerase III delta subunit %28EC 2.7.7.7%29;locus_tag=TBhypo2152.genome.CDS.1535
+TBhypo2152.contig.81	feature	CDS	2478	3824	.	+	0	ID=TBhypo2152.genome.CDS.1534;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1534
+TBhypo2152.contig.81	feature	CDS	1786	2394	.	+	0	ID=TBhypo2152.genome.CDS.1533;Product=;locus_tag=TBhypo2152.genome.CDS.1533
+TBhypo2152.contig.81	feature	CDS	3	1727	.	+	0	ID=TBhypo2152.genome.CDS.1532;Product=Leucyl-tRNA synthetase %28EC 6.1.1.4%29;locus_tag=TBhypo2152.genome.CDS.1532
+TBhypo2152.contig.82	feature	CDS	8288	8677	.	+	0	ID=TBhypo2152.genome.CDS.1558;Product=LSU ribosomal protein L7/L12 %28P1/P2%29;locus_tag=TBhypo2152.genome.CDS.1558
+TBhypo2152.contig.82	feature	CDS	7613	8272	.	+	0	ID=TBhypo2152.genome.CDS.1557;Product=LSU ribosomal protein L10p %28P0%29;locus_tag=TBhypo2152.genome.CDS.1557
+TBhypo2152.contig.82	feature	CDS	6665	7375	.	+	0	ID=TBhypo2152.genome.CDS.1556;Product=LSU ribosomal protein L1p %28L10Ae%29;locus_tag=TBhypo2152.genome.CDS.1556
+TBhypo2152.contig.82	feature	CDS	6160	6591	.	+	0	ID=TBhypo2152.genome.CDS.1555;Product=LSU ribosomal protein L11p %28L12e%29;locus_tag=TBhypo2152.genome.CDS.1555
+TBhypo2152.contig.82	feature	CDS	5689	6135	.	+	0	ID=TBhypo2152.genome.CDS.1554;Product=Transcription antitermination protein NusG;locus_tag=TBhypo2152.genome.CDS.1554
+TBhypo2152.contig.82	feature	CDS	5360	5533	.	+	0	ID=TBhypo2152.genome.CDS.1553;Product=;locus_tag=TBhypo2152.genome.CDS.1553
+TBhypo2152.contig.82	feature	CDS	5125	5349	.	+	0	ID=TBhypo2152.genome.CDS.1552;Product=Preprotein translocase subunit SecE %28TC 3.A.5.1.1%29;locus_tag=TBhypo2152.genome.CDS.1552
+TBhypo2152.contig.82	feature	tRNA	4987	5063	.	+	.	ID=TBhypo2152.genome.rna.12;Product=tRNA-Trp-CCA;locus_tag=TBhypo2152.genome.rna.12
+TBhypo2152.contig.82	feature	CDS	3639	4850	.	-	0	ID=TBhypo2152.genome.CDS.1551;Product=Aspartate aminotransferase %28EC 2.6.1.1%29;locus_tag=TBhypo2152.genome.CDS.1551
+TBhypo2152.contig.82	feature	CDS	2621	3637	.	+	0	ID=TBhypo2152.genome.CDS.1550;Product=UDP-N-acetylenolpyruvoylglucosamine reductase %28EC 1.3.1.98%29;locus_tag=TBhypo2152.genome.CDS.1550
+TBhypo2152.contig.82	feature	CDS	1862	2611	.	+	0	ID=TBhypo2152.genome.CDS.1549;Product=;locus_tag=TBhypo2152.genome.CDS.1549
+TBhypo2152.contig.82	feature	CDS	1450	1848	.	+	0	ID=TBhypo2152.genome.CDS.1548;Product=MaoC family protein;locus_tag=TBhypo2152.genome.CDS.1548
+TBhypo2152.contig.82	feature	CDS	1070	1453	.	+	0	ID=TBhypo2152.genome.CDS.1547;Product=;locus_tag=TBhypo2152.genome.CDS.1547
+TBhypo2152.contig.82	feature	CDS	896	1066	.	+	0	ID=TBhypo2152.genome.CDS.1546;Product=LSU ribosomal protein L33p %40 LSU ribosomal protein L33p%2C zinc-dependent;locus_tag=TBhypo2152.genome.CDS.1546
+TBhypo2152.contig.82	feature	tRNA	711	787	.	+	.	ID=TBhypo2152.genome.rna.11;Product=tRNA-Met-CAT;locus_tag=TBhypo2152.genome.rna.11
+TBhypo2152.contig.82	feature	tRNA	580	655	.	+	.	ID=TBhypo2152.genome.rna.10;Product=tRNA-Thr-GGT;locus_tag=TBhypo2152.genome.rna.10
+TBhypo2152.contig.82	feature	CDS	1	534	.	-	0	ID=TBhypo2152.genome.CDS.1545;Product=;locus_tag=TBhypo2152.genome.CDS.1545
+TBhypo2152.contig.83	feature	CDS	8310	8558	.	+	0	ID=TBhypo2152.genome.CDS.1567;Product=Anthranilate synthase%2C aminase component %28EC 4.1.3.27%29;locus_tag=TBhypo2152.genome.CDS.1567
+TBhypo2152.contig.83	feature	CDS	7967	8317	.	+	0	ID=TBhypo2152.genome.CDS.1566;Product=Phosphoribosyl-AMP cyclohydrolase %28EC 3.5.4.19%29;locus_tag=TBhypo2152.genome.CDS.1566
+TBhypo2152.contig.83	feature	CDS	7181	7942	.	+	0	ID=TBhypo2152.genome.CDS.1565;Product=Imidazole glycerol phosphate synthase cyclase subunit %28EC 4.1.3.-%29;locus_tag=TBhypo2152.genome.CDS.1565
+TBhypo2152.contig.83	feature	CDS	6450	7184	.	+	0	ID=TBhypo2152.genome.CDS.1564;Product=Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase %28EC 5.3.1.16%29 %40 Acting phosphoribosylanthranilate isomerase %28EC 5.3.1.24%29;locus_tag=TBhypo2152.genome.CDS.1564
+TBhypo2152.contig.83	feature	CDS	5854	6450	.	+	0	ID=TBhypo2152.genome.CDS.1563;Product=Imidazole glycerol phosphate synthase amidotransferase subunit %28EC 2.4.2.-%29;locus_tag=TBhypo2152.genome.CDS.1563
+TBhypo2152.contig.83	feature	CDS	5264	5857	.	+	0	ID=TBhypo2152.genome.CDS.1562;Product=Imidazoleglycerol-phosphate dehydratase %28EC 4.2.1.19%29;locus_tag=TBhypo2152.genome.CDS.1562
+TBhypo2152.contig.83	feature	CDS	4124	5224	.	+	0	ID=TBhypo2152.genome.CDS.1561;Product=Histidinol-phosphate aminotransferase %28EC 2.6.1.9%29;locus_tag=TBhypo2152.genome.CDS.1561
+TBhypo2152.contig.83	feature	CDS	2793	4124	.	+	0	ID=TBhypo2152.genome.CDS.1560;Product=Histidinol dehydrogenase %28EC 1.1.1.23%29;locus_tag=TBhypo2152.genome.CDS.1560
+TBhypo2152.contig.83	feature	CDS	2	2746	.	+	0	ID=TBhypo2152.genome.CDS.1559;Product=DNA polymerase III alpha subunit %28EC 2.7.7.7%29;locus_tag=TBhypo2152.genome.CDS.1559
+TBhypo2152.contig.84	feature	misc_RNA	7247	7373	.	+	.	ID=TBhypo2152.genome.repeat.13;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.13
+TBhypo2152.contig.84	feature	CDS	7205	7372	.	+	0	ID=TBhypo2152.genome.CDS.1572;Product=;locus_tag=TBhypo2152.genome.CDS.1572
+TBhypo2152.contig.84	feature	CDS	6420	7028	.	+	0	ID=TBhypo2152.genome.CDS.1571;Product=Response regulator NasT;locus_tag=TBhypo2152.genome.CDS.1571
+TBhypo2152.contig.84	feature	tRNA	6343	6415	.	+	.	ID=TBhypo2152.genome.rna.13;Product=tRNA-Leu-CAA;locus_tag=TBhypo2152.genome.rna.13
+TBhypo2152.contig.84	feature	CDS	4897	6258	.	+	0	ID=TBhypo2152.genome.CDS.1570;Product=Pyruvate kinase %28EC 2.7.1.40%29;locus_tag=TBhypo2152.genome.CDS.1570
+TBhypo2152.contig.84	feature	CDS	4815	4937	.	+	0	ID=TBhypo2152.genome.CDS.607;Product=Pyruvate kinase %28EC 2.7.1.40%29;locus_tag=TBhypo2152.genome.CDS.607
+TBhypo2152.contig.84	feature	CDS	3323	4780	.	+	0	ID=TBhypo2152.genome.CDS.1569;Product=Glutamate synthase %5BNADPH%5D small chain %28EC 1.4.1.13%29;locus_tag=TBhypo2152.genome.CDS.1569
+TBhypo2152.contig.84	feature	CDS	1	3330	.	+	0	ID=TBhypo2152.genome.CDS.1568;Product=Glutamate synthase %5BNADPH%5D large chain %28EC 1.4.1.13%29;locus_tag=TBhypo2152.genome.CDS.1568
+TBhypo2152.contig.85	feature	misc_RNA	1	148	.	+	.	ID=TBhypo2152.genome.repeat.66;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.66
+TBhypo2152.contig.85	feature	CDS	7237	7812	.	-	0	ID=TBhypo2152.genome.CDS.1582;Product=Riboflavin kinase %28EC 2.7.1.26%29 / FMN adenylyltransferase %28EC 2.7.7.2%29;locus_tag=TBhypo2152.genome.CDS.1582
+TBhypo2152.contig.85	feature	CDS	6847	7116	.	-	0	ID=TBhypo2152.genome.CDS.1581;Product=SSU ribosomal protein S15p %28S13e%29;locus_tag=TBhypo2152.genome.CDS.1581
+TBhypo2152.contig.85	feature	CDS	4514	6706	.	-	0	ID=TBhypo2152.genome.CDS.1580;Product=Polyribonucleotide nucleotidyltransferase %28EC 2.7.7.8%29;locus_tag=TBhypo2152.genome.CDS.1580
+TBhypo2152.contig.85	feature	CDS	3232	4503	.	-	0	ID=TBhypo2152.genome.CDS.1579;Product=FIG007959: peptidase%2C M16 family;locus_tag=TBhypo2152.genome.CDS.1579
+TBhypo2152.contig.85	feature	CDS	2486	3235	.	-	0	ID=TBhypo2152.genome.CDS.1578;Product=4-hydroxy-tetrahydrodipicolinate reductase %28EC 1.17.1.8%29;locus_tag=TBhypo2152.genome.CDS.1578
+TBhypo2152.contig.85	feature	CDS	2201	2455	.	-	0	ID=TBhypo2152.genome.CDS.1577;Product=;locus_tag=TBhypo2152.genome.CDS.1577
+TBhypo2152.contig.85	feature	CDS	1884	2195	.	+	0	ID=TBhypo2152.genome.CDS.1576;Product=;locus_tag=TBhypo2152.genome.CDS.1576
+TBhypo2152.contig.85	feature	CDS	1222	1884	.	+	0	ID=TBhypo2152.genome.CDS.1575;Product=;locus_tag=TBhypo2152.genome.CDS.1575
+TBhypo2152.contig.85	feature	CDS	461	1189	.	-	0	ID=TBhypo2152.genome.CDS.1574;Product=Thymidylate synthase thyX %28EC 2.1.1.-%29;locus_tag=TBhypo2152.genome.CDS.1574
+TBhypo2152.contig.85	feature	CDS	2	442	.	-	0	ID=TBhypo2152.genome.CDS.1573;Product=4-hydroxy-tetrahydrodipicolinate synthase %28EC 4.3.3.7%29;locus_tag=TBhypo2152.genome.CDS.1573
+TBhypo2152.contig.86	feature	misc_RNA	14148	14388	.	+	.	ID=TBhypo2152.genome.repeat.25;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.25
+TBhypo2152.contig.86	feature	CDS	13586	14296	.	+	0	ID=TBhypo2152.genome.CDS.1595;Product=Dolichol-phosphate mannosyltransferase %28EC 2.4.1.83%29 in lipid-linked oligosaccharide synthesis cluster;locus_tag=TBhypo2152.genome.CDS.1595
+TBhypo2152.contig.86	feature	CDS	12684	13583	.	+	0	ID=TBhypo2152.genome.CDS.1594;Product=DNA polymerase I %28EC 2.7.7.7%29;locus_tag=TBhypo2152.genome.CDS.1594
+TBhypo2152.contig.86	feature	CDS	10321	12687	.	+	0	ID=TBhypo2152.genome.CDS.1593;Product=FIG005666: putative helicase;locus_tag=TBhypo2152.genome.CDS.1593
+TBhypo2152.contig.86	feature	CDS	9443	10324	.	+	0	ID=TBhypo2152.genome.CDS.1592;Product=;locus_tag=TBhypo2152.genome.CDS.1592
+TBhypo2152.contig.86	feature	CDS	8679	9446	.	+	0	ID=TBhypo2152.genome.CDS.1591;Product=Twin-arginine translocation protein TatC;locus_tag=TBhypo2152.genome.CDS.1591
+TBhypo2152.contig.86	feature	CDS	8448	8639	.	+	0	ID=TBhypo2152.genome.CDS.1590;Product=Twin-arginine translocation protein TatA;locus_tag=TBhypo2152.genome.CDS.1590
+TBhypo2152.contig.86	feature	CDS	7494	8438	.	+	0	ID=TBhypo2152.genome.CDS.1589;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1589
+TBhypo2152.contig.86	feature	CDS	6563	7501	.	+	0	ID=TBhypo2152.genome.CDS.1588;Product=FIG005453: Putative DeoR-family transcriptional regulator;locus_tag=TBhypo2152.genome.CDS.1588
+TBhypo2152.contig.86	feature	CDS	6020	6508	.	-	0	ID=TBhypo2152.genome.CDS.1587;Product=FKBP-type peptidyl-prolyl cis-trans isomerase;locus_tag=TBhypo2152.genome.CDS.1587
+TBhypo2152.contig.86	feature	CDS	5170	6027	.	+	0	ID=TBhypo2152.genome.CDS.1586;Product=tRNA %28adenine%2858%29-N%281%29%29-methyltransferase %28EC 2.1.1.220%29;locus_tag=TBhypo2152.genome.CDS.1586
+TBhypo2152.contig.86	feature	CDS	1696	5160	.	+	0	ID=TBhypo2152.genome.CDS.1585;Product=5-methyltetrahydrofolate--homocysteine methyltransferase %28EC 2.1.1.13%29;locus_tag=TBhypo2152.genome.CDS.1585
+TBhypo2152.contig.86	feature	CDS	371	1624	.	+	0	ID=TBhypo2152.genome.CDS.1584;Product=L-cysteine:1D-myo-inosityl 2-amino-2-deoxy-alpha-D-glucopyranoside ligase MshC;locus_tag=TBhypo2152.genome.CDS.1584
+TBhypo2152.contig.86	feature	CDS	3	344	.	+	0	ID=TBhypo2152.genome.CDS.1583;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1583
+TBhypo2152.contig.87	feature	CDS	16172	16801	.	+	0	ID=TBhypo2152.genome.CDS.1613;Product=Phytoene synthase %28EC 2.5.1.32%29;locus_tag=TBhypo2152.genome.CDS.1613
+TBhypo2152.contig.87	feature	CDS	14685	16169	.	+	0	ID=TBhypo2152.genome.CDS.1612;Product=Phytoene dehydrogenase %28EC 1.14.99.-%29;locus_tag=TBhypo2152.genome.CDS.1612
+TBhypo2152.contig.87	feature	CDS	13610	14677	.	+	0	ID=TBhypo2152.genome.CDS.1611;Product=Geranylgeranyl diphosphate synthase %28EC 2.5.1.29%29;locus_tag=TBhypo2152.genome.CDS.1611
+TBhypo2152.contig.87	feature	CDS	12737	13585	.	-	0	ID=TBhypo2152.genome.CDS.1610;Product=5%2C10-methylenetetrahydrofolate reductase %28EC 1.5.1.20%29;locus_tag=TBhypo2152.genome.CDS.1610
+TBhypo2152.contig.87	feature	CDS	12102	12740	.	-	0	ID=TBhypo2152.genome.CDS.1609;Product=;locus_tag=TBhypo2152.genome.CDS.1609
+TBhypo2152.contig.87	feature	CDS	10956	12131	.	+	0	ID=TBhypo2152.genome.CDS.644;Product=Phytoene dehydrogenase %28EC 1.14.99.-%29;locus_tag=TBhypo2152.genome.CDS.644
+TBhypo2152.contig.87	feature	CDS	10633	10938	.	+	0	ID=TBhypo2152.genome.CDS.643;Product=;locus_tag=TBhypo2152.genome.CDS.643
+TBhypo2152.contig.87	feature	CDS	9620	10636	.	+	0	ID=TBhypo2152.genome.CDS.1607;Product=;locus_tag=TBhypo2152.genome.CDS.1607
+TBhypo2152.contig.87	feature	CDS	8743	9555	.	+	0	ID=TBhypo2152.genome.CDS.1606;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1606
+TBhypo2152.contig.87	feature	CDS	8051	8725	.	+	0	ID=TBhypo2152.genome.CDS.1605;Product=Spheroidene monooxygenase;locus_tag=TBhypo2152.genome.CDS.1605
+TBhypo2152.contig.87	feature	CDS	7296	8054	.	+	0	ID=TBhypo2152.genome.CDS.1604;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1604
+TBhypo2152.contig.87	feature	CDS	5988	7199	.	-	0	ID=TBhypo2152.genome.CDS.1603;Product=DNA polymerase IV %28EC 2.7.7.7%29;locus_tag=TBhypo2152.genome.CDS.1603
+TBhypo2152.contig.87	feature	CDS	5601	5963	.	-	0	ID=TBhypo2152.genome.CDS.1602;Product=;locus_tag=TBhypo2152.genome.CDS.1602
+TBhypo2152.contig.87	feature	CDS	4947	5378	.	-	0	ID=TBhypo2152.genome.CDS.1601;Product=Cell division protein MraZ;locus_tag=TBhypo2152.genome.CDS.1601
+TBhypo2152.contig.87	feature	CDS	3814	4782	.	-	0	ID=TBhypo2152.genome.CDS.1600;Product=rRNA small subunit methyltransferase H;locus_tag=TBhypo2152.genome.CDS.1600
+TBhypo2152.contig.87	feature	CDS	3419	3814	.	-	0	ID=TBhypo2152.genome.CDS.1599;Product=;locus_tag=TBhypo2152.genome.CDS.1599
+TBhypo2152.contig.87	feature	CDS	1602	3422	.	-	0	ID=TBhypo2152.genome.CDS.1598;Product=Cell division protein FtsI %5BPeptidoglycan synthetase%5D %28EC 2.4.1.129%29;locus_tag=TBhypo2152.genome.CDS.1598
+TBhypo2152.contig.87	feature	CDS	76	1599	.	-	0	ID=TBhypo2152.genome.CDS.1597;Product=UDP-N-acetylmuramoylalanyl-D-glutamate--2%2C6-diaminopimelate ligase %28EC 6.3.2.13%29;locus_tag=TBhypo2152.genome.CDS.1597
+TBhypo2152.contig.87	feature	CDS	2	79	.	-	0	ID=TBhypo2152.genome.CDS.1596;Product=;locus_tag=TBhypo2152.genome.CDS.1596
+TBhypo2152.contig.88	feature	misc_RNA	1	127	.	+	.	ID=TBhypo2152.genome.repeat.51;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.51
+TBhypo2152.contig.88	feature	misc_RNA	4371	4611	.	+	.	ID=TBhypo2152.genome.repeat.52;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.52
+TBhypo2152.contig.88	feature	CDS	4463	4597	.	-	0	ID=TBhypo2152.genome.CDS.653;Product=;locus_tag=TBhypo2152.genome.CDS.653
+TBhypo2152.contig.88	feature	CDS	1583	4438	.	+	0	ID=TBhypo2152.genome.CDS.1617;Product=Glycine dehydrogenase %5Bdecarboxylating%5D %28glycine cleavage system P protein%29 %28EC 1.4.4.2%29;locus_tag=TBhypo2152.genome.CDS.1617
+TBhypo2152.contig.88	feature	CDS	994	1512	.	+	0	ID=TBhypo2152.genome.CDS.1616;Product=transcriptional regulator%2C MerR family;locus_tag=TBhypo2152.genome.CDS.1616
+TBhypo2152.contig.88	feature	CDS	434	862	.	+	0	ID=TBhypo2152.genome.CDS.1615;Product=FIG01121484: hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1615
+TBhypo2152.contig.88	feature	CDS	1	390	.	+	0	ID=TBhypo2152.genome.CDS.1614;Product=transcriptional regulator%2C MerR family;locus_tag=TBhypo2152.genome.CDS.1614
+TBhypo2152.contig.89	feature	CDS	16308	17240	.	-	0	ID=TBhypo2152.genome.CDS.1636;Product=Phosphoserine aminotransferase %28EC 2.6.1.52%29;locus_tag=TBhypo2152.genome.CDS.1636
+TBhypo2152.contig.89	feature	CDS	15005	16240	.	+	0	ID=TBhypo2152.genome.CDS.1635;Product=transporter%2C putative;locus_tag=TBhypo2152.genome.CDS.1635
+TBhypo2152.contig.89	feature	CDS	14763	14945	.	-	0	ID=TBhypo2152.genome.CDS.1634;Product=;locus_tag=TBhypo2152.genome.CDS.1634
+TBhypo2152.contig.89	feature	CDS	14377	14766	.	+	0	ID=TBhypo2152.genome.CDS.1633;Product=Cold shock protein CspC;locus_tag=TBhypo2152.genome.CDS.1633
+TBhypo2152.contig.89	feature	CDS	13609	14286	.	+	0	ID=TBhypo2152.genome.CDS.1632;Product=FIG01121526: hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1632
+TBhypo2152.contig.89	feature	CDS	11912	13534	.	+	0	ID=TBhypo2152.genome.CDS.1631;Product=Heat shock protein 60 family chaperone GroEL;locus_tag=TBhypo2152.genome.CDS.1631
+TBhypo2152.contig.89	feature	CDS	11351	11701	.	-	0	ID=TBhypo2152.genome.CDS.1630;Product=;locus_tag=TBhypo2152.genome.CDS.1630
+TBhypo2152.contig.89	feature	CDS	11222	11347	.	-	0	ID=TBhypo2152.genome.CDS.666;Product=;locus_tag=TBhypo2152.genome.CDS.666
+TBhypo2152.contig.89	feature	CDS	10959	11213	.	+	0	ID=TBhypo2152.genome.CDS.1629;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1629
+TBhypo2152.contig.89	feature	CDS	9393	10910	.	+	0	ID=TBhypo2152.genome.CDS.1628;Product=Putative nucleoside-diphosphate-sugar epimerase;locus_tag=TBhypo2152.genome.CDS.1628
+TBhypo2152.contig.89	feature	CDS	8012	9337	.	-	0	ID=TBhypo2152.genome.CDS.1627;Product=NADH dehydrogenase %28EC 1.6.99.3%29;locus_tag=TBhypo2152.genome.CDS.1627
+TBhypo2152.contig.89	feature	CDS	7239	8003	.	-	0	ID=TBhypo2152.genome.CDS.1626;Product=;locus_tag=TBhypo2152.genome.CDS.1626
+TBhypo2152.contig.89	feature	CDS	5728	7242	.	+	0	ID=TBhypo2152.genome.CDS.1625;Product=NADH-ubiquinone oxidoreductase chain N %28EC 1.6.5.3%29;locus_tag=TBhypo2152.genome.CDS.1625
+TBhypo2152.contig.89	feature	CDS	4223	5728	.	+	0	ID=TBhypo2152.genome.CDS.1624;Product=NADH-ubiquinone oxidoreductase chain M %28EC 1.6.5.3%29;locus_tag=TBhypo2152.genome.CDS.1624
+TBhypo2152.contig.89	feature	CDS	2334	4226	.	+	0	ID=TBhypo2152.genome.CDS.1623;Product=NADH-ubiquinone oxidoreductase chain L %28EC 1.6.5.3%29;locus_tag=TBhypo2152.genome.CDS.1623
+TBhypo2152.contig.89	feature	CDS	2035	2334	.	+	0	ID=TBhypo2152.genome.CDS.1622;Product=NADH-ubiquinone oxidoreductase chain K %28EC 1.6.5.3%29;locus_tag=TBhypo2152.genome.CDS.1622
+TBhypo2152.contig.89	feature	CDS	1399	2034	.	+	0	ID=TBhypo2152.genome.CDS.1621;Product=NADH-ubiquinone oxidoreductase chain J %28EC 1.6.5.3%29;locus_tag=TBhypo2152.genome.CDS.1621
+TBhypo2152.contig.89	feature	CDS	1250	1399	.	+	0	ID=TBhypo2152.genome.CDS.1620;Product=NADH-ubiquinone oxidoreductase chain J %28EC 1.6.5.3%29;locus_tag=TBhypo2152.genome.CDS.1620
+TBhypo2152.contig.89	feature	CDS	705	1250	.	+	0	ID=TBhypo2152.genome.CDS.1619;Product=NADH-ubiquinone oxidoreductase chain I %28EC 1.6.5.3%29;locus_tag=TBhypo2152.genome.CDS.1619
+TBhypo2152.contig.89	feature	CDS	2	712	.	+	0	ID=TBhypo2152.genome.CDS.1618;Product=NADH-ubiquinone oxidoreductase chain H %28EC 1.6.5.3%29;locus_tag=TBhypo2152.genome.CDS.1618
+TBhypo2152.contig.9	feature	CDS	8099	8794	.	-	0	ID=TBhypo2152.genome.CDS.1003;Product=;locus_tag=TBhypo2152.genome.CDS.1003
+TBhypo2152.contig.9	feature	CDS	6996	8057	.	-	0	ID=TBhypo2152.genome.CDS.1002;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1002
+TBhypo2152.contig.9	feature	CDS	6465	6995	.	-	0	ID=TBhypo2152.genome.CDS.1001;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1001
+TBhypo2152.contig.9	feature	CDS	5580	6338	.	-	0	ID=TBhypo2152.genome.CDS.1000;Product=Fructose ABC transporter%2C ATP-binding component FrcA;locus_tag=TBhypo2152.genome.CDS.1000
+TBhypo2152.contig.9	feature	CDS	4500	5579	.	-	0	ID=TBhypo2152.genome.CDS.999;Product=Ribose ABC transport system%2C permease protein RbsC %28TC 3.A.1.2.1%29;locus_tag=TBhypo2152.genome.CDS.999
+TBhypo2152.contig.9	feature	CDS	3520	4488	.	-	0	ID=TBhypo2152.genome.CDS.998;Product=ribose ABC transporter%2C periplasmic binding protein;locus_tag=TBhypo2152.genome.CDS.998
+TBhypo2152.contig.9	feature	CDS	2423	3349	.	-	0	ID=TBhypo2152.genome.CDS.997;Product=1-phosphofructokinase %28EC 2.7.1.56%29;locus_tag=TBhypo2152.genome.CDS.997
+TBhypo2152.contig.9	feature	CDS	1426	2430	.	-	0	ID=TBhypo2152.genome.CDS.996;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.996
+TBhypo2152.contig.9	feature	CDS	23	1429	.	-	0	ID=TBhypo2152.genome.CDS.995;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.995
+TBhypo2152.contig.90	feature	misc_RNA	3291	3417	.	+	.	ID=TBhypo2152.genome.repeat.28;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.28
+TBhypo2152.contig.90	feature	CDS	3347	3415	.	+	0	ID=TBhypo2152.genome.CDS.1643;Product=SSU ribosomal protein S4p %28S9e%29 %40 SSU ribosomal protein S4p %28S9e%29%2C zinc-dependent;locus_tag=TBhypo2152.genome.CDS.1643
+TBhypo2152.contig.90	feature	CDS	2900	3331	.	+	0	ID=TBhypo2152.genome.CDS.1642;Product=SSU ribosomal protein S11p %28S14e%29;locus_tag=TBhypo2152.genome.CDS.1642
+TBhypo2152.contig.90	feature	CDS	2523	2900	.	+	0	ID=TBhypo2152.genome.CDS.1641;Product=SSU ribosomal protein S13p %28S18e%29;locus_tag=TBhypo2152.genome.CDS.1641
+TBhypo2152.contig.90	feature	CDS	2278	2391	.	+	0	ID=TBhypo2152.genome.CDS.678;Product=LSU ribosomal protein L36p %40 LSU ribosomal protein L36p%2C zinc-dependent;locus_tag=TBhypo2152.genome.CDS.678
+TBhypo2152.contig.90	feature	CDS	2044	2265	.	+	0	ID=TBhypo2152.genome.CDS.1640;Product=Translation initiation factor 1;locus_tag=TBhypo2152.genome.CDS.1640
+TBhypo2152.contig.90	feature	CDS	1125	1937	.	+	0	ID=TBhypo2152.genome.CDS.1639;Product=Methionine aminopeptidase %28EC 3.4.11.18%29;locus_tag=TBhypo2152.genome.CDS.1639
+TBhypo2152.contig.90	feature	CDS	478	1119	.	+	0	ID=TBhypo2152.genome.CDS.1638;Product=Adenylate kinase %28EC 2.7.4.3%29;locus_tag=TBhypo2152.genome.CDS.1638
+TBhypo2152.contig.90	feature	CDS	2	478	.	+	0	ID=TBhypo2152.genome.CDS.1637;Product=Preprotein translocase secY subunit %28TC 3.A.5.1.1%29;locus_tag=TBhypo2152.genome.CDS.1637
+TBhypo2152.contig.91	feature	misc_RNA	21559	21778	.	+	.	ID=TBhypo2152.genome.repeat.8;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.8
+TBhypo2152.contig.91	feature	CDS	21240	21776	.	-	0	ID=TBhypo2152.genome.CDS.1670;Product=CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase %28EC 2.7.8.5%29;locus_tag=TBhypo2152.genome.CDS.1670
+TBhypo2152.contig.91	feature	CDS	20767	21243	.	-	0	ID=TBhypo2152.genome.CDS.1669;Product=;locus_tag=TBhypo2152.genome.CDS.1669
+TBhypo2152.contig.91	feature	CDS	20501	20770	.	-	0	ID=TBhypo2152.genome.CDS.1668;Product=;locus_tag=TBhypo2152.genome.CDS.1668
+TBhypo2152.contig.91	feature	CDS	19978	20463	.	-	0	ID=TBhypo2152.genome.CDS.1667;Product=transcriptional regulator%2C TetR family;locus_tag=TBhypo2152.genome.CDS.1667
+TBhypo2152.contig.91	feature	CDS	17868	19970	.	+	0	ID=TBhypo2152.genome.CDS.1666;Product=;locus_tag=TBhypo2152.genome.CDS.1666
+TBhypo2152.contig.91	feature	CDS	17625	17816	.	-	0	ID=TBhypo2152.genome.CDS.1665;Product=;locus_tag=TBhypo2152.genome.CDS.1665
+TBhypo2152.contig.91	feature	CDS	16363	17445	.	-	0	ID=TBhypo2152.genome.CDS.1664;Product=RecA protein;locus_tag=TBhypo2152.genome.CDS.1664
+TBhypo2152.contig.91	feature	CDS	15874	16359	.	-	0	ID=TBhypo2152.genome.CDS.1663;Product=;locus_tag=TBhypo2152.genome.CDS.1663
+TBhypo2152.contig.91	feature	CDS	14421	15854	.	-	0	ID=TBhypo2152.genome.CDS.1662;Product=tRNA-i%286%29A37 methylthiotransferase;locus_tag=TBhypo2152.genome.CDS.1662
+TBhypo2152.contig.91	feature	CDS	13522	14424	.	-	0	ID=TBhypo2152.genome.CDS.1661;Product=tRNA dimethylallyltransferase %28EC 2.5.1.75%29;locus_tag=TBhypo2152.genome.CDS.1661
+TBhypo2152.contig.91	feature	CDS	12737	13525	.	-	0	ID=TBhypo2152.genome.CDS.1660;Product=Diaminopimelate epimerase %28EC 5.1.1.7%29;locus_tag=TBhypo2152.genome.CDS.1660
+TBhypo2152.contig.91	feature	CDS	11292	12740	.	-	0	ID=TBhypo2152.genome.CDS.1659;Product=GTP-binding protein HflX;locus_tag=TBhypo2152.genome.CDS.1659
+TBhypo2152.contig.91	feature	CDS	10633	11292	.	-	0	ID=TBhypo2152.genome.CDS.1658;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1658
+TBhypo2152.contig.91	feature	CDS	9352	10623	.	-	0	ID=TBhypo2152.genome.CDS.1657;Product=Serine hydroxymethyltransferase %28EC 2.1.2.1%29;locus_tag=TBhypo2152.genome.CDS.1657
+TBhypo2152.contig.91	feature	CDS	8212	9327	.	-	0	ID=TBhypo2152.genome.CDS.1656;Product=Undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase %28EC 2.7.8.-%29;locus_tag=TBhypo2152.genome.CDS.1656
+TBhypo2152.contig.91	feature	CDS	7989	8219	.	-	0	ID=TBhypo2152.genome.CDS.1655;Product=;locus_tag=TBhypo2152.genome.CDS.1655
+TBhypo2152.contig.91	feature	CDS	7777	7974	.	-	0	ID=TBhypo2152.genome.CDS.1654;Product=;locus_tag=TBhypo2152.genome.CDS.1654
+TBhypo2152.contig.91	feature	CDS	7581	7772	.	-	0	ID=TBhypo2152.genome.CDS.1653;Product=ATP synthase protein I;locus_tag=TBhypo2152.genome.CDS.1653
+TBhypo2152.contig.91	feature	CDS	6681	7469	.	-	0	ID=TBhypo2152.genome.CDS.1652;Product=ATP synthase F0 sector subunit a %28EC 3.6.3.14%29;locus_tag=TBhypo2152.genome.CDS.1652
+TBhypo2152.contig.91	feature	CDS	6412	6618	.	-	0	ID=TBhypo2152.genome.CDS.1651;Product=ATP synthase F0 sector subunit c %28EC 3.6.3.14%29;locus_tag=TBhypo2152.genome.CDS.1651
+TBhypo2152.contig.91	feature	CDS	5854	6366	.	-	0	ID=TBhypo2152.genome.CDS.1650;Product=ATP synthase F0 sector subunit b %28EC 3.6.3.14%29;locus_tag=TBhypo2152.genome.CDS.1650
+TBhypo2152.contig.91	feature	CDS	5030	5857	.	-	0	ID=TBhypo2152.genome.CDS.1649;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1649
+TBhypo2152.contig.91	feature	CDS	3418	4974	.	-	0	ID=TBhypo2152.genome.CDS.1648;Product=ATP synthase alpha chain %28EC 3.6.3.14%29;locus_tag=TBhypo2152.genome.CDS.1648
+TBhypo2152.contig.91	feature	CDS	2499	3410	.	-	0	ID=TBhypo2152.genome.CDS.1647;Product=ATP synthase gamma chain %28EC 3.6.3.14%29;locus_tag=TBhypo2152.genome.CDS.1647
+TBhypo2152.contig.91	feature	CDS	1063	2499	.	-	0	ID=TBhypo2152.genome.CDS.1646;Product=ATP synthase beta chain %28EC 3.6.3.14%29;locus_tag=TBhypo2152.genome.CDS.1646
+TBhypo2152.contig.91	feature	CDS	803	1060	.	-	0	ID=TBhypo2152.genome.CDS.1645;Product=ATP synthase epsilon chain %28EC 3.6.3.14%29;locus_tag=TBhypo2152.genome.CDS.1645
+TBhypo2152.contig.91	feature	CDS	3	806	.	+	0	ID=TBhypo2152.genome.CDS.1644;Product=UDP-N-acetylglucosamine 1-carboxyvinyltransferase %28EC 2.5.1.7%29;locus_tag=TBhypo2152.genome.CDS.1644
+TBhypo2152.contig.92	feature	misc_RNA	4	463	.	+	.	ID=TBhypo2152.genome.repeat.6;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.6
+TBhypo2152.contig.92	feature	CDS	2196	3107	.	-	0	ID=TBhypo2152.genome.CDS.1674;Product=Glucose-6-phosphate 1-dehydrogenase %28EC 1.1.1.49%29;locus_tag=TBhypo2152.genome.CDS.1674
+TBhypo2152.contig.92	feature	CDS	1718	2194	.	+	0	ID=TBhypo2152.genome.CDS.1673;Product=;locus_tag=TBhypo2152.genome.CDS.1673
+TBhypo2152.contig.92	feature	CDS	936	1718	.	+	0	ID=TBhypo2152.genome.CDS.1672;Product=Histidinol-phosphatase %5Balternative form%5D %28EC 3.1.3.15%29;locus_tag=TBhypo2152.genome.CDS.1672
+TBhypo2152.contig.92	feature	CDS	1	939	.	+	0	ID=TBhypo2152.genome.CDS.1671;Product=Ribosome small subunit-stimulated GTPase EngC;locus_tag=TBhypo2152.genome.CDS.1671
+TBhypo2152.contig.93	feature	misc_RNA	1	114	.	+	.	ID=TBhypo2152.genome.repeat.62;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.62
+TBhypo2152.contig.93	feature	CDS	3584	4597	.	-	0	ID=TBhypo2152.genome.CDS.1679;Product=NAD%28P%29 transhydrogenase alpha subunit %28EC 1.6.1.2%29;locus_tag=TBhypo2152.genome.CDS.1679
+TBhypo2152.contig.93	feature	CDS	3259	3573	.	-	0	ID=TBhypo2152.genome.CDS.1678;Product=NAD%28P%29 transhydrogenase alpha subunit %28EC 1.6.1.2%29;locus_tag=TBhypo2152.genome.CDS.1678
+TBhypo2152.contig.93	feature	CDS	1883	3262	.	-	0	ID=TBhypo2152.genome.CDS.1677;Product=NAD%28P%29 transhydrogenase subunit beta %28EC 1.6.1.2%29;locus_tag=TBhypo2152.genome.CDS.1677
+TBhypo2152.contig.93	feature	CDS	705	1847	.	-	0	ID=TBhypo2152.genome.CDS.1676;Product=Carboxyl-terminal protease %28EC 3.4.21.102%29;locus_tag=TBhypo2152.genome.CDS.1676
+TBhypo2152.contig.93	feature	CDS	176	655	.	-	0	ID=TBhypo2152.genome.CDS.1675;Product=tmRNA-binding protein SmpB;locus_tag=TBhypo2152.genome.CDS.1675
+TBhypo2152.contig.94	feature	misc_RNA	1	1274	.	+	.	ID=TBhypo2152.genome.repeat.36;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.36
+TBhypo2152.contig.94	feature	CDS	16695	17624	.	-	0	ID=TBhypo2152.genome.CDS.1700;Product=probable glycosyltransferase WbpH;locus_tag=TBhypo2152.genome.CDS.1700
+TBhypo2152.contig.94	feature	CDS	16067	16669	.	-	0	ID=TBhypo2152.genome.CDS.1699;Product=putative acetyltransferase;locus_tag=TBhypo2152.genome.CDS.1699
+TBhypo2152.contig.94	feature	CDS	15363	16070	.	-	0	ID=TBhypo2152.genome.CDS.1698;Product=UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase %28EC 2.6.1.87%29;locus_tag=TBhypo2152.genome.CDS.1698
+TBhypo2152.contig.94	feature	CDS	14989	15366	.	-	0	ID=TBhypo2152.genome.CDS.1697;Product=UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase %28EC 2.6.1.-%29;locus_tag=TBhypo2152.genome.CDS.1697
+TBhypo2152.contig.94	feature	CDS	13977	14987	.	-	0	ID=TBhypo2152.genome.CDS.1696;Product=NAD-dependent dehydrogenase %28EC 1.1.1.18%29;locus_tag=TBhypo2152.genome.CDS.1696
+TBhypo2152.contig.94	feature	CDS	13029	13976	.	-	0	ID=TBhypo2152.genome.CDS.1695;Product=UDP-N-acetyl-D-mannosaminuronic acid dehydrogenase;locus_tag=TBhypo2152.genome.CDS.1695
+TBhypo2152.contig.94	feature	CDS	11415	12704	.	+	0	ID=TBhypo2152.genome.CDS.1693;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.1693
+TBhypo2152.contig.94	feature	CDS	11026	11418	.	+	0	ID=TBhypo2152.genome.CDS.1692;Product=;locus_tag=TBhypo2152.genome.CDS.1692
+TBhypo2152.contig.94	feature	CDS	10869	11021	.	+	0	ID=TBhypo2152.genome.CDS.1691;Product=;locus_tag=TBhypo2152.genome.CDS.1691
+TBhypo2152.contig.94	feature	CDS	9667	10803	.	+	0	ID=TBhypo2152.genome.CDS.1690;Product=O-acetylhomoserine sulfhydrylase %28EC 2.5.1.49%29 / O-succinylhomoserine sulfhydrylase %28EC 2.5.1.48%29;locus_tag=TBhypo2152.genome.CDS.1690
+TBhypo2152.contig.94	feature	CDS	8732	9637	.	+	0	ID=TBhypo2152.genome.CDS.1689;Product=Integral membrane protein TerC;locus_tag=TBhypo2152.genome.CDS.1689
+TBhypo2152.contig.94	feature	CDS	8068	8703	.	-	0	ID=TBhypo2152.genome.CDS.1688;Product=DNA-3-methyladenine glycosylase II %28EC 3.2.2.21%29;locus_tag=TBhypo2152.genome.CDS.1688
+TBhypo2152.contig.94	feature	CDS	7530	8078	.	+	0	ID=TBhypo2152.genome.CDS.1687;Product=Peptide methionine sulfoxide reductase MsrA %28EC 1.8.4.11%29;locus_tag=TBhypo2152.genome.CDS.1687
+TBhypo2152.contig.94	feature	tRNA	7399	7470	.	-	.	ID=TBhypo2152.genome.rna.14;Product=tRNA-Arg-CCG;locus_tag=TBhypo2152.genome.rna.14
+TBhypo2152.contig.94	feature	CDS	6951	7220	.	-	0	ID=TBhypo2152.genome.CDS.1686;Product=WhiB-like transcription regulator;locus_tag=TBhypo2152.genome.CDS.1686
+TBhypo2152.contig.94	feature	CDS	5491	6954	.	+	0	ID=TBhypo2152.genome.CDS.1685;Product=Signal transduction histidine kinase%2C subgroup 2;locus_tag=TBhypo2152.genome.CDS.1685
+TBhypo2152.contig.94	feature	CDS	4409	5467	.	+	0	ID=TBhypo2152.genome.CDS.1684;Product=;locus_tag=TBhypo2152.genome.CDS.1684
+TBhypo2152.contig.94	feature	CDS	3829	4419	.	+	0	ID=TBhypo2152.genome.CDS.1683;Product=;locus_tag=TBhypo2152.genome.CDS.1683
+TBhypo2152.contig.94	feature	CDS	3169	3711	.	-	0	ID=TBhypo2152.genome.CDS.1682;Product=;locus_tag=TBhypo2152.genome.CDS.1682
+TBhypo2152.contig.94	feature	CDS	483	3164	.	+	0	ID=TBhypo2152.genome.CDS.1681;Product=Protein export cytoplasm protein SecA ATPase RNA helicase %28TC 3.A.5.1.1%29;locus_tag=TBhypo2152.genome.CDS.1681
+TBhypo2152.contig.94	feature	CDS	3	470	.	+	0	ID=TBhypo2152.genome.CDS.1680;Product=Competence protein F homolog%2C phosphoribosyltransferase domain%3B protein YhgH required for utilization of DNA as sole source of carbon and energy;locus_tag=TBhypo2152.genome.CDS.1680
+TBhypo2152.contig.95	feature	misc_RNA	1	413	.	+	.	ID=TBhypo2152.genome.repeat.73;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.73
+TBhypo2152.contig.95	feature	CDS	6203	7153	.	+	0	ID=TBhypo2152.genome.CDS.1709;Product=UDP-N-acetylglucosamine 1-carboxyvinyltransferase %28EC 2.5.1.7%29;locus_tag=TBhypo2152.genome.CDS.1709
+TBhypo2152.contig.95	feature	CDS	5567	6142	.	-	0	ID=TBhypo2152.genome.CDS.1708;Product=ATP:Cob%28I%29alamin adenosyltransferase %28EC 2.5.1.17%29;locus_tag=TBhypo2152.genome.CDS.1708
+TBhypo2152.contig.95	feature	CDS	4845	5561	.	+	0	ID=TBhypo2152.genome.CDS.1707;Product=;locus_tag=TBhypo2152.genome.CDS.1707
+TBhypo2152.contig.95	feature	CDS	4066	4848	.	+	0	ID=TBhypo2152.genome.CDS.1706;Product=ABC-type multidrug transport system%2C permease component;locus_tag=TBhypo2152.genome.CDS.1706
+TBhypo2152.contig.95	feature	CDS	3218	4069	.	+	0	ID=TBhypo2152.genome.CDS.1705;Product=ABC-type multidrug transport system%2C ATPase component;locus_tag=TBhypo2152.genome.CDS.1705
+TBhypo2152.contig.95	feature	CDS	2816	3127	.	-	0	ID=TBhypo2152.genome.CDS.1704;Product=;locus_tag=TBhypo2152.genome.CDS.1704
+TBhypo2152.contig.95	feature	CDS	1351	2805	.	+	0	ID=TBhypo2152.genome.CDS.1703;Product=Aldehyde dehydrogenase %28EC 1.2.1.3%29;locus_tag=TBhypo2152.genome.CDS.1703
+TBhypo2152.contig.95	feature	CDS	618	1328	.	-	0	ID=TBhypo2152.genome.CDS.739;Product=FIG01173569: hypothetical protein;locus_tag=TBhypo2152.genome.CDS.739
+TBhypo2152.contig.95	feature	CDS	1	621	.	+	0	ID=TBhypo2152.genome.CDS.1701;Product=Putative membrane protein actII-3;locus_tag=TBhypo2152.genome.CDS.1701
+TBhypo2152.contig.96	feature	misc_RNA	1	836	.	+	.	ID=TBhypo2152.genome.repeat.59;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.59
+TBhypo2152.contig.96	feature	misc_RNA	3603	4487	.	+	.	ID=TBhypo2152.genome.repeat.60;Product=repeat region;locus_tag=TBhypo2152.genome.repeat.60
+TBhypo2152.contig.96	feature	CDS	4409	4486	.	+	0	ID=TBhypo2152.genome.CDS.1716;Product=;locus_tag=TBhypo2152.genome.CDS.1716
+TBhypo2152.contig.96	feature	CDS	3268	4266	.	+	0	ID=TBhypo2152.genome.CDS.1715;Product=;locus_tag=TBhypo2152.genome.CDS.1715
+TBhypo2152.contig.96	feature	CDS	2236	3258	.	+	0	ID=TBhypo2152.genome.CDS.1714;Product=N-succinyl-L%2CL-diaminopimelate aminotransferase %28EC 2.6.1.17%29%2C type 2;locus_tag=TBhypo2152.genome.CDS.1714
+TBhypo2152.contig.96	feature	CDS	1864	2187	.	+	0	ID=TBhypo2152.genome.CDS.1713;Product=Ferredoxin;locus_tag=TBhypo2152.genome.CDS.1713
+TBhypo2152.contig.96	feature	CDS	1542	1742	.	-	0	ID=TBhypo2152.genome.CDS.1712;Product=;locus_tag=TBhypo2152.genome.CDS.1712
+TBhypo2152.contig.96	feature	CDS	125	1549	.	-	0	ID=TBhypo2152.genome.CDS.1711;Product=Cysteinyl-tRNA synthetase %28EC 6.1.1.16%29;locus_tag=TBhypo2152.genome.CDS.1711
+TBhypo2152.contig.97	feature	CDS	4895	5602	.	+	0	ID=TBhypo2152.genome.CDS.1722;Product=putative succinate dehydrogenase %5Bmembrane anchor subunit%5D %28succinic dehydrogenase%29;locus_tag=TBhypo2152.genome.CDS.1722
+TBhypo2152.contig.97	feature	tRNA	4713	4798	.	+	.	ID=TBhypo2152.genome.rna.15;Product=tRNA-Ser-TGA;locus_tag=TBhypo2152.genome.rna.15
+TBhypo2152.contig.97	feature	CDS	4003	4662	.	+	0	ID=TBhypo2152.genome.CDS.1721;Product=HMP-PP hydrolase %28pyridoxal phosphatase%29 Cof%2C detected in genetic screen for thiamin metabolic genes %28PMID:15292217%29;locus_tag=TBhypo2152.genome.CDS.1721
+TBhypo2152.contig.97	feature	CDS	2591	3853	.	+	0	ID=TBhypo2152.genome.CDS.1720;Product=Seryl-tRNA synthetase %28EC 6.1.1.11%29;locus_tag=TBhypo2152.genome.CDS.1720
+TBhypo2152.contig.97	feature	CDS	1736	2581	.	+	0	ID=TBhypo2152.genome.CDS.1719;Product=Prephenate dehydratase %28EC 4.2.1.51%29;locus_tag=TBhypo2152.genome.CDS.1719
+TBhypo2152.contig.97	feature	CDS	892	1689	.	-	0	ID=TBhypo2152.genome.CDS.1718;Product=Protein serine/threonine phosphatase PrpC%2C regulation of stationary phase;locus_tag=TBhypo2152.genome.CDS.1718
+TBhypo2152.contig.97	feature	CDS	2	895	.	-	0	ID=TBhypo2152.genome.CDS.1717;Product=Serine/threonine protein kinase PrkC%2C regulator of stationary phase;locus_tag=TBhypo2152.genome.CDS.1717
+TBhypo2152.contig.98	feature	CDS	6688	7710	.	-	0	ID=TBhypo2152.genome.CDS.1730;Product=ATP-dependent DNA helicase RecG %28EC 3.6.1.-%29;locus_tag=TBhypo2152.genome.CDS.1730
+TBhypo2152.contig.98	feature	CDS	6414	6701	.	-	0	ID=TBhypo2152.genome.CDS.1729;Product=ATP-dependent DNA helicase RecG %28EC 3.6.1.-%29;locus_tag=TBhypo2152.genome.CDS.1729
+TBhypo2152.contig.98	feature	CDS	5835	6407	.	-	0	ID=TBhypo2152.genome.CDS.1728;Product=;locus_tag=TBhypo2152.genome.CDS.1728
+TBhypo2152.contig.98	feature	CDS	5239	5832	.	-	0	ID=TBhypo2152.genome.CDS.762;Product=Phosphopantetheine adenylyltransferase %28EC 2.7.7.3%29;locus_tag=TBhypo2152.genome.CDS.762
+TBhypo2152.contig.98	feature	CDS	4857	5252	.	-	0	ID=TBhypo2152.genome.CDS.761;Product=hypothetical protein;locus_tag=TBhypo2152.genome.CDS.761
+TBhypo2152.contig.98	feature	CDS	4275	4838	.	-	0	ID=TBhypo2152.genome.CDS.1726;Product=COG1399 protein%2C clustered with ribosomal protein L32p;locus_tag=TBhypo2152.genome.CDS.1726
+TBhypo2152.contig.98	feature	CDS	3996	4169	.	-	0	ID=TBhypo2152.genome.CDS.758;Product=LSU ribosomal protein L32p %40 LSU ribosomal protein L32p%2C zinc-dependent;locus_tag=TBhypo2152.genome.CDS.758
+TBhypo2152.contig.98	feature	CDS	3314	3946	.	-	0	ID=TBhypo2152.genome.CDS.1725;Product=Ribonuclease III %28EC 3.1.26.3%29;locus_tag=TBhypo2152.genome.CDS.1725
+TBhypo2152.contig.98	feature	CDS	628	3246	.	-	0	ID=TBhypo2152.genome.CDS.1724;Product=Chromosome partition protein smc;locus_tag=TBhypo2152.genome.CDS.1724
+TBhypo2152.contig.98	feature	CDS	1	618	.	-	0	ID=TBhypo2152.genome.CDS.1723;Product=Signal recognition particle receptor protein FtsY %28%3Dalpha subunit%29 %28TC 3.A.5.1.1%29;locus_tag=TBhypo2152.genome.CDS.1723
+TBhypo2152.contig.99	feature	CDS	7744	8913	.	+	0	ID=TBhypo2152.genome.CDS.1737;Product=putative integral membrane transport protein;locus_tag=TBhypo2152.genome.CDS.1737
+TBhypo2152.contig.99	feature	CDS	6496	7728	.	+	0	ID=TBhypo2152.genome.CDS.1736;Product=Ribose ABC transport system%2C permease protein RbsC %28TC 3.A.1.2.1%29;locus_tag=TBhypo2152.genome.CDS.1736
+TBhypo2152.contig.99	feature	CDS	5744	6499	.	+	0	ID=TBhypo2152.genome.CDS.1735;Product=D-xylose transport ATP-binding protein XylG;locus_tag=TBhypo2152.genome.CDS.1735
+TBhypo2152.contig.99	feature	CDS	4471	5538	.	+	0	ID=TBhypo2152.genome.CDS.1734;Product=Xylose ABC transporter%2C periplasmic xylose-binding protein XylF;locus_tag=TBhypo2152.genome.CDS.1734
+TBhypo2152.contig.99	feature	CDS	2606	4288	.	-	0	ID=TBhypo2152.genome.CDS.1733;Product=Arginyl-tRNA synthetase %28EC 6.1.1.19%29;locus_tag=TBhypo2152.genome.CDS.1733
+TBhypo2152.contig.99	feature	CDS	1251	2582	.	-	0	ID=TBhypo2152.genome.CDS.1732;Product=Diaminopimelate decarboxylase %28EC 4.1.1.20%29;locus_tag=TBhypo2152.genome.CDS.1732
+TBhypo2152.contig.99	feature	CDS	1	1188	.	-	0	ID=TBhypo2152.genome.CDS.1731;Product=Homoserine dehydrogenase %28EC 1.1.1.3%29;locus_tag=TBhypo2152.genome.CDS.1731

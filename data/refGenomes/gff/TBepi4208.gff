@@ -1,0 +1,1138 @@
+##gff-version 3
+TBepi4208.contig.1	feature	CDS	36236	37813	.	+	0	ID=TBepi4208.genome.CDS.1039;Product=Epi-inositol hydrolase %28EC 3.7.1.-%29;locus_tag=TBepi4208.genome.CDS.1039
+TBepi4208.contig.1	feature	CDS	34828	36219	.	+	0	ID=TBepi4208.genome.CDS.1038;Product=Aldehyde dehydrogenase %28EC 1.2.1.3%29;locus_tag=TBepi4208.genome.CDS.1038
+TBepi4208.contig.1	feature	CDS	33748	34827	.	+	0	ID=TBepi4208.genome.CDS.1037;Product=;locus_tag=TBepi4208.genome.CDS.1037
+TBepi4208.contig.1	feature	CDS	32777	33751	.	+	0	ID=TBepi4208.genome.CDS.1036;Product=dTDP-4-dehydrorhamnose reductase %28EC 1.1.1.133%29;locus_tag=TBepi4208.genome.CDS.1036
+TBepi4208.contig.1	feature	CDS	31717	32679	.	-	0	ID=TBepi4208.genome.CDS.1035;Product=5-keto-2-deoxygluconokinase %28EC 2.7.1.92%29;locus_tag=TBepi4208.genome.CDS.1035
+TBepi4208.contig.1	feature	CDS	30842	31717	.	-	0	ID=TBepi4208.genome.CDS.1034;Product=5-keto-2-deoxy-D-gluconate-6 phosphate aldolase %5Bform 2%5D %28EC 4.1.2.29%29;locus_tag=TBepi4208.genome.CDS.1034
+TBepi4208.contig.1	feature	CDS	29327	30823	.	-	0	ID=TBepi4208.genome.CDS.1033;Product=Methylmalonate-semialdehyde dehydrogenase %5Binositol%5D %28EC 1.2.1.27%29;locus_tag=TBepi4208.genome.CDS.1033
+TBepi4208.contig.1	feature	CDS	28429	29322	.	-	0	ID=TBepi4208.genome.CDS.36;Product=5-deoxy-glucuronate isomerase %28EC 5.3.1.-%29;locus_tag=TBepi4208.genome.CDS.36
+TBepi4208.contig.1	feature	CDS	27494	28402	.	-	0	ID=TBepi4208.genome.CDS.1031;Product=Rhodanese domain protein UPF0176%2C Actinobacterial subgroup;locus_tag=TBepi4208.genome.CDS.1031
+TBepi4208.contig.1	feature	CDS	27195	27497	.	+	0	ID=TBepi4208.genome.CDS.1030;Product=;locus_tag=TBepi4208.genome.CDS.1030
+TBepi4208.contig.1	feature	CDS	26065	27030	.	+	0	ID=TBepi4208.genome.CDS.1029;Product=putative oxidoreductase;locus_tag=TBepi4208.genome.CDS.1029
+TBepi4208.contig.1	feature	CDS	25051	26031	.	+	0	ID=TBepi4208.genome.CDS.1028;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1028
+TBepi4208.contig.1	feature	CDS	24419	25054	.	+	0	ID=TBepi4208.genome.CDS.1027;Product=Ubiquinol--cytochrome c reductase%2C cytochrome B subunit %28EC 1.10.2.2%29;locus_tag=TBepi4208.genome.CDS.1027
+TBepi4208.contig.1	feature	CDS	24255	24422	.	+	0	ID=TBepi4208.genome.CDS.1026;Product=;locus_tag=TBepi4208.genome.CDS.1026
+TBepi4208.contig.1	feature	CDS	22923	24140	.	+	0	ID=TBepi4208.genome.CDS.1025;Product=L-lactate dehydrogenase %28EC 1.1.2.3%29;locus_tag=TBepi4208.genome.CDS.1025
+TBepi4208.contig.1	feature	CDS	22600	22878	.	-	0	ID=TBepi4208.genome.CDS.1024;Product=;locus_tag=TBepi4208.genome.CDS.1024
+TBepi4208.contig.1	feature	CDS	21791	22603	.	-	0	ID=TBepi4208.genome.CDS.1023;Product=;locus_tag=TBepi4208.genome.CDS.1023
+TBepi4208.contig.1	feature	CDS	20617	21798	.	-	0	ID=TBepi4208.genome.CDS.1022;Product=Altronate hydrolase %28EC 4.2.1.7%29;locus_tag=TBepi4208.genome.CDS.1022
+TBepi4208.contig.1	feature	CDS	19440	20624	.	+	0	ID=TBepi4208.genome.CDS.1021;Product=Methyltransferase %28EC 2.1.1.-%29;locus_tag=TBepi4208.genome.CDS.1021
+TBepi4208.contig.1	feature	CDS	18380	19423	.	+	0	ID=TBepi4208.genome.CDS.1020;Product=N-succinyl-L%2CL-diaminopimelate aminotransferase %28EC 2.6.1.17%29%2C type 2;locus_tag=TBepi4208.genome.CDS.1020
+TBepi4208.contig.1	feature	CDS	18022	18339	.	+	0	ID=TBepi4208.genome.CDS.1019;Product=Ferredoxin;locus_tag=TBepi4208.genome.CDS.1019
+TBepi4208.contig.1	feature	CDS	17714	17959	.	-	0	ID=TBepi4208.genome.CDS.1018;Product=;locus_tag=TBepi4208.genome.CDS.1018
+TBepi4208.contig.1	feature	CDS	16314	17717	.	-	0	ID=TBepi4208.genome.CDS.1017;Product=Cysteinyl-tRNA synthetase %28EC 6.1.1.16%29;locus_tag=TBepi4208.genome.CDS.1017
+TBepi4208.contig.1	feature	CDS	15442	16311	.	+	0	ID=TBepi4208.genome.CDS.1016;Product=1D-myo-inositol 2-acetamido-2-deoxy-alpha-D-glucopyranoside deacetylase %28EC 3.5.1.103%29;locus_tag=TBepi4208.genome.CDS.1016
+TBepi4208.contig.1	feature	CDS	15080	15442	.	+	0	ID=TBepi4208.genome.CDS.1015;Product=Sulfur carrier protein adenylyltransferase ThiF;locus_tag=TBepi4208.genome.CDS.1015
+TBepi4208.contig.1	feature	CDS	14350	14964	.	-	0	ID=TBepi4208.genome.CDS.1014;Product=Transcriptional regulator%2C TetR family;locus_tag=TBepi4208.genome.CDS.1014
+TBepi4208.contig.1	feature	CDS	14046	14303	.	-	0	ID=TBepi4208.genome.CDS.1013;Product=;locus_tag=TBepi4208.genome.CDS.1013
+TBepi4208.contig.1	feature	CDS	13417	14040	.	+	0	ID=TBepi4208.genome.CDS.1012;Product=;locus_tag=TBepi4208.genome.CDS.1012
+TBepi4208.contig.1	feature	CDS	12556	13401	.	+	0	ID=TBepi4208.genome.CDS.1011;Product=FIG00031715: Predicted metal-dependent phosphoesterases %28PHP family%29;locus_tag=TBepi4208.genome.CDS.1011
+TBepi4208.contig.1	feature	CDS	11664	12563	.	+	0	ID=TBepi4208.genome.CDS.1010;Product=;locus_tag=TBepi4208.genome.CDS.1010
+TBepi4208.contig.1	feature	CDS	10384	11649	.	+	0	ID=TBepi4208.genome.CDS.1009;Product=Manganese transport protein MntH;locus_tag=TBepi4208.genome.CDS.1009
+TBepi4208.contig.1	feature	CDS	9092	10384	.	+	0	ID=TBepi4208.genome.CDS.1008;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1008
+TBepi4208.contig.1	feature	CDS	8012	9049	.	+	0	ID=TBepi4208.genome.CDS.1007;Product=Mrp protein homolog;locus_tag=TBepi4208.genome.CDS.1007
+TBepi4208.contig.1	feature	CDS	7624	7929	.	+	0	ID=TBepi4208.genome.CDS.1006;Product=Twin-arginine translocation protein TatB;locus_tag=TBepi4208.genome.CDS.1006
+TBepi4208.contig.1	feature	CDS	6442	7587	.	+	0	ID=TBepi4208.genome.CDS.1005;Product=HtrA protease/chaperone protein;locus_tag=TBepi4208.genome.CDS.1005
+TBepi4208.contig.1	feature	CDS	5776	6417	.	+	0	ID=TBepi4208.genome.CDS.8;Product=FIG00945644: hypothetical protein;locus_tag=TBepi4208.genome.CDS.8
+TBepi4208.contig.1	feature	CDS	4224	5750	.	+	0	ID=TBepi4208.genome.CDS.1003;Product=Cytosol aminopeptidase PepA %28EC 3.4.11.1%29;locus_tag=TBepi4208.genome.CDS.1003
+TBepi4208.contig.1	feature	CDS	4034	4213	.	+	0	ID=TBepi4208.genome.CDS.1002;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1002
+TBepi4208.contig.1	feature	CDS	3736	3924	.	+	0	ID=TBepi4208.genome.CDS.1001;Product=;locus_tag=TBepi4208.genome.CDS.1001
+TBepi4208.contig.1	feature	CDS	3197	3739	.	+	0	ID=TBepi4208.genome.CDS.1000;Product=Lysine decarboxylase family;locus_tag=TBepi4208.genome.CDS.1000
+TBepi4208.contig.1	feature	CDS	2223	3140	.	-	0	ID=TBepi4208.genome.CDS.999;Product=2%2C3%2C4%2C5-tetrahydropyridine-2%2C6-dicarboxylate N-succinyltransferase %28EC 2.3.1.117%29;locus_tag=TBepi4208.genome.CDS.999
+TBepi4208.contig.1	feature	CDS	976	2226	.	+	0	ID=TBepi4208.genome.CDS.998;Product=;locus_tag=TBepi4208.genome.CDS.998
+TBepi4208.contig.1	feature	CDS	2	979	.	+	0	ID=TBepi4208.genome.CDS.997;Product=Dolichol-phosphate mannosyltransferase %28EC 2.4.1.83%29 in lipid-linked oligosaccharide synthesis cluster;locus_tag=TBepi4208.genome.CDS.997
+TBepi4208.contig.10	feature	CDS	19250	19531	.	+	0	ID=TBepi4208.genome.CDS.1199;Product=;locus_tag=TBepi4208.genome.CDS.1199
+TBepi4208.contig.10	feature	CDS	18790	19263	.	+	0	ID=TBepi4208.genome.CDS.1198;Product=;locus_tag=TBepi4208.genome.CDS.1198
+TBepi4208.contig.10	feature	CDS	18570	18689	.	+	0	ID=TBepi4208.genome.CDS.1197;Product=;locus_tag=TBepi4208.genome.CDS.1197
+TBepi4208.contig.10	feature	CDS	16520	18559	.	+	0	ID=TBepi4208.genome.CDS.1196;Product=DNA ligase %28EC 6.5.1.2%29;locus_tag=TBepi4208.genome.CDS.1196
+TBepi4208.contig.10	feature	CDS	15434	16510	.	+	0	ID=TBepi4208.genome.CDS.1195;Product=tRNA-specific 2-thiouridylase MnmA;locus_tag=TBepi4208.genome.CDS.1195
+TBepi4208.contig.10	feature	CDS	14261	15433	.	+	0	ID=TBepi4208.genome.CDS.1194;Product=Cysteine desulfurase %28EC 2.8.1.7%29;locus_tag=TBepi4208.genome.CDS.1194
+TBepi4208.contig.10	feature	CDS	13302	14231	.	+	0	ID=TBepi4208.genome.CDS.1193;Product=Electron transfer flavoprotein%2C alpha subunit;locus_tag=TBepi4208.genome.CDS.1193
+TBepi4208.contig.10	feature	CDS	12496	13305	.	+	0	ID=TBepi4208.genome.CDS.1192;Product=Electron transfer flavoprotein%2C beta subunit;locus_tag=TBepi4208.genome.CDS.1192
+TBepi4208.contig.10	feature	CDS	11495	12418	.	-	0	ID=TBepi4208.genome.CDS.1191;Product=Malonyl CoA-acyl carrier protein transacylase %28EC 2.3.1.39%29;locus_tag=TBepi4208.genome.CDS.1191
+TBepi4208.contig.10	feature	CDS	10473	11495	.	-	0	ID=TBepi4208.genome.CDS.1190;Product=3-oxoacyl-%5Bacyl-carrier-protein%5D synthase%2C KASIII %28EC 2.3.1.180%29;locus_tag=TBepi4208.genome.CDS.1190
+TBepi4208.contig.10	feature	CDS	10174	10422	.	-	0	ID=TBepi4208.genome.CDS.1189;Product=Acyl carrier protein;locus_tag=TBepi4208.genome.CDS.1189
+TBepi4208.contig.10	feature	CDS	8910	10157	.	-	0	ID=TBepi4208.genome.CDS.1188;Product=3-oxoacyl-%5Bacyl-carrier-protein%5D synthase%2C KASII %28EC 2.3.1.179%29;locus_tag=TBepi4208.genome.CDS.1188
+TBepi4208.contig.10	feature	CDS	8079	8855	.	+	0	ID=TBepi4208.genome.CDS.1187;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1187
+TBepi4208.contig.10	feature	CDS	7447	8076	.	+	0	ID=TBepi4208.genome.CDS.1186;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1186
+TBepi4208.contig.10	feature	CDS	7092	7295	.	-	0	ID=TBepi4208.genome.CDS.1185;Product=Cold shock protein CspA;locus_tag=TBepi4208.genome.CDS.1185
+TBepi4208.contig.10	feature	CDS	5685	7019	.	-	0	ID=TBepi4208.genome.CDS.1184;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1184
+TBepi4208.contig.10	feature	CDS	5098	5688	.	+	0	ID=TBepi4208.genome.CDS.1183;Product=Membrane proteins related to metalloendopeptidases;locus_tag=TBepi4208.genome.CDS.1183
+TBepi4208.contig.10	feature	CDS	4019	5074	.	+	0	ID=TBepi4208.genome.CDS.1182;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1182
+TBepi4208.contig.10	feature	CDS	2786	4006	.	+	0	ID=TBepi4208.genome.CDS.1181;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1181
+TBepi4208.contig.10	feature	CDS	1118	2782	.	+	0	ID=TBepi4208.genome.CDS.1180;Product=;locus_tag=TBepi4208.genome.CDS.1180
+TBepi4208.contig.10	feature	CDS	370	1125	.	+	0	ID=TBepi4208.genome.CDS.1179;Product=;locus_tag=TBepi4208.genome.CDS.1179
+TBepi4208.contig.10	feature	CDS	1	360	.	+	0	ID=TBepi4208.genome.CDS.1178;Product=;locus_tag=TBepi4208.genome.CDS.1178
+TBepi4208.contig.11	feature	CDS	13690	14553	.	+	0	ID=TBepi4208.genome.CDS.1214;Product=;locus_tag=TBepi4208.genome.CDS.1214
+TBepi4208.contig.11	feature	CDS	12874	13689	.	+	0	ID=TBepi4208.genome.CDS.1213;Product=ABC transporter%2C permease protein;locus_tag=TBepi4208.genome.CDS.1213
+TBepi4208.contig.11	feature	CDS	11992	12873	.	+	0	ID=TBepi4208.genome.CDS.1212;Product=Multiple sugar ABC transporter%2C membrane-spanning permease protein MsmF;locus_tag=TBepi4208.genome.CDS.1212
+TBepi4208.contig.11	feature	CDS	10617	11903	.	+	0	ID=TBepi4208.genome.CDS.1211;Product=;locus_tag=TBepi4208.genome.CDS.1211
+TBepi4208.contig.11	feature	CDS	8812	10536	.	+	0	ID=TBepi4208.genome.CDS.1210;Product=Dihydroxy-acid dehydratase %28EC 4.2.1.9%29;locus_tag=TBepi4208.genome.CDS.1210
+TBepi4208.contig.11	feature	CDS	7751	8752	.	-	0	ID=TBepi4208.genome.CDS.1209;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1209
+TBepi4208.contig.11	feature	CDS	6996	7754	.	+	0	ID=TBepi4208.genome.CDS.1208;Product=3-oxoacyl-%5Bacyl-carrier protein%5D reductase %28EC 1.1.1.100%29;locus_tag=TBepi4208.genome.CDS.1208
+TBepi4208.contig.11	feature	CDS	6349	6978	.	+	0	ID=TBepi4208.genome.CDS.1207;Product=;locus_tag=TBepi4208.genome.CDS.1207
+TBepi4208.contig.11	feature	CDS	5435	6352	.	+	0	ID=TBepi4208.genome.CDS.1206;Product=2-dehydro-3-deoxygluconate kinase %28EC 2.7.1.45%29;locus_tag=TBepi4208.genome.CDS.1206
+TBepi4208.contig.11	feature	CDS	4654	5421	.	+	0	ID=TBepi4208.genome.CDS.1205;Product=short-chain dehydrogenase/reductase SDR;locus_tag=TBepi4208.genome.CDS.1205
+TBepi4208.contig.11	feature	CDS	3680	4561	.	-	0	ID=TBepi4208.genome.CDS.1204;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1204
+TBepi4208.contig.11	feature	CDS	2726	3649	.	-	0	ID=TBepi4208.genome.CDS.1203;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1203
+TBepi4208.contig.11	feature	CDS	2026	2712	.	-	0	ID=TBepi4208.genome.CDS.1202;Product=;locus_tag=TBepi4208.genome.CDS.1202
+TBepi4208.contig.11	feature	CDS	1032	2006	.	-	0	ID=TBepi4208.genome.CDS.1201;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1201
+TBepi4208.contig.11	feature	CDS	1	1035	.	-	0	ID=TBepi4208.genome.CDS.1200;Product=Enolase %28EC 4.2.1.11%29;locus_tag=TBepi4208.genome.CDS.1200
+TBepi4208.contig.12	feature	CDS	14033	14206	.	+	0	ID=TBepi4208.genome.CDS.1226;Product=;locus_tag=TBepi4208.genome.CDS.1226
+TBepi4208.contig.12	feature	CDS	13271	13888	.	-	0	ID=TBepi4208.genome.CDS.1225;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1225
+TBepi4208.contig.12	feature	CDS	11574	13268	.	+	0	ID=TBepi4208.genome.CDS.1224;Product=;locus_tag=TBepi4208.genome.CDS.1224
+TBepi4208.contig.12	feature	CDS	10815	11507	.	-	0	ID=TBepi4208.genome.CDS.1223;Product=;locus_tag=TBepi4208.genome.CDS.1223
+TBepi4208.contig.12	feature	CDS	10041	10814	.	+	0	ID=TBepi4208.genome.CDS.1222;Product=;locus_tag=TBepi4208.genome.CDS.1222
+TBepi4208.contig.12	feature	CDS	7952	9832	.	-	0	ID=TBepi4208.genome.CDS.1221;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1221
+TBepi4208.contig.12	feature	CDS	6838	7860	.	-	0	ID=TBepi4208.genome.CDS.1220;Product=Rod shape-determining protein MreB;locus_tag=TBepi4208.genome.CDS.1220
+TBepi4208.contig.12	feature	CDS	6398	6838	.	-	0	ID=TBepi4208.genome.CDS.1219;Product=;locus_tag=TBepi4208.genome.CDS.1219
+TBepi4208.contig.12	feature	CDS	4168	6369	.	-	0	ID=TBepi4208.genome.CDS.1218;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1218
+TBepi4208.contig.12	feature	tRNA	4046	4122	.	-	.	ID=TBepi4208.genome.rna.6;Product=tRNA-Met-CAT;locus_tag=TBepi4208.genome.rna.6
+TBepi4208.contig.12	feature	CDS	2915	4015	.	+	0	ID=TBepi4208.genome.CDS.1217;Product=;locus_tag=TBepi4208.genome.CDS.1217
+TBepi4208.contig.12	feature	CDS	712	2874	.	+	0	ID=TBepi4208.genome.CDS.1216;Product=Catalase %28EC 1.11.1.6%29 / Peroxidase %28EC 1.11.1.7%29;locus_tag=TBepi4208.genome.CDS.1216
+TBepi4208.contig.12	feature	CDS	3	632	.	-	0	ID=TBepi4208.genome.CDS.1215;Product=;locus_tag=TBepi4208.genome.CDS.1215
+TBepi4208.contig.13	feature	CDS	12274	13908	.	+	0	ID=TBepi4208.genome.CDS.1241;Product=Heat shock protein 60 family chaperone GroEL;locus_tag=TBepi4208.genome.CDS.1241
+TBepi4208.contig.13	feature	CDS	11971	12267	.	+	0	ID=TBepi4208.genome.CDS.1240;Product=Heat shock protein 60 family co-chaperone GroES;locus_tag=TBepi4208.genome.CDS.1240
+TBepi4208.contig.13	feature	CDS	10818	11852	.	+	0	ID=TBepi4208.genome.CDS.1239;Product=Kinase-Associated Endopeptidase %28Kae1%29%2C required for threonylcarbamoyladenosine t%286%29A37 formation in tRNA;locus_tag=TBepi4208.genome.CDS.1239
+TBepi4208.contig.13	feature	CDS	9826	10821	.	+	0	ID=TBepi4208.genome.CDS.1238;Product=TsaB protein%2C required for threonylcarbamoyladenosine %28t%286%29A%29 formation in tRNA;locus_tag=TBepi4208.genome.CDS.1238
+TBepi4208.contig.13	feature	CDS	9377	9829	.	+	0	ID=TBepi4208.genome.CDS.1237;Product=TsaE protein%2C required for threonylcarbamoyladenosine t%286%29A37 formation in tRNA;locus_tag=TBepi4208.genome.CDS.1237
+TBepi4208.contig.13	feature	CDS	7651	9303	.	+	0	ID=TBepi4208.genome.CDS.1236;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1236
+TBepi4208.contig.13	feature	CDS	6344	7654	.	+	0	ID=TBepi4208.genome.CDS.1235;Product=;locus_tag=TBepi4208.genome.CDS.1235
+TBepi4208.contig.13	feature	CDS	5316	6296	.	+	0	ID=TBepi4208.genome.CDS.1234;Product=;locus_tag=TBepi4208.genome.CDS.1234
+TBepi4208.contig.13	feature	CDS	4430	5323	.	+	0	ID=TBepi4208.genome.CDS.1233;Product=High-affinity branched-chain amino acid transport system permease protein LivH %28TC 3.A.1.4.1%29;locus_tag=TBepi4208.genome.CDS.1233
+TBepi4208.contig.13	feature	CDS	3717	4427	.	+	0	ID=TBepi4208.genome.CDS.1232;Product=Branched-chain amino acid transport ATP-binding protein LivF %28TC 3.A.1.4.1%29;locus_tag=TBepi4208.genome.CDS.1232
+TBepi4208.contig.13	feature	CDS	2956	3717	.	+	0	ID=TBepi4208.genome.CDS.1231;Product=Branched-chain amino acid transport ATP-binding protein LivG %28TC 3.A.1.4.1%29;locus_tag=TBepi4208.genome.CDS.1231
+TBepi4208.contig.13	feature	CDS	1865	2959	.	+	0	ID=TBepi4208.genome.CDS.1230;Product=Alanine racemase %28EC 5.1.1.1%29;locus_tag=TBepi4208.genome.CDS.1230
+TBepi4208.contig.13	feature	CDS	1509	1862	.	+	0	ID=TBepi4208.genome.CDS.1229;Product=Holo-%5Bacyl-carrier protein%5D synthase %28EC 2.7.8.7%29;locus_tag=TBepi4208.genome.CDS.1229
+TBepi4208.contig.13	feature	CDS	841	1512	.	+	0	ID=TBepi4208.genome.CDS.1228;Product=Oligopeptide transport system permease protein OppB %28TC 3.A.1.5.1%29;locus_tag=TBepi4208.genome.CDS.1228
+TBepi4208.contig.13	feature	CDS	2	826	.	+	0	ID=TBepi4208.genome.CDS.1227;Product=Glucosamine--fructose-6-phosphate aminotransferase %5Bisomerizing%5D %28EC 2.6.1.16%29;locus_tag=TBepi4208.genome.CDS.1227
+TBepi4208.contig.14	feature	misc_RNA	11520	13176	.	+	.	ID=TBepi4208.genome.repeat.26;Product=repeat region;locus_tag=TBepi4208.genome.repeat.26
+TBepi4208.contig.14	feature	CDS	12415	13176	.	-	0	ID=TBepi4208.genome.CDS.1254;Product=Sensor histidine kinase mtrB %28EC 2.7.3.-%29;locus_tag=TBepi4208.genome.CDS.1254
+TBepi4208.contig.14	feature	CDS	11589	12152	.	-	0	ID=TBepi4208.genome.CDS.1253;Product=;locus_tag=TBepi4208.genome.CDS.1253
+TBepi4208.contig.14	feature	CDS	8745	11420	.	-	0	ID=TBepi4208.genome.CDS.1252;Product=Protein export cytoplasm protein SecA ATPase RNA helicase %28TC 3.A.5.1.1%29;locus_tag=TBepi4208.genome.CDS.1252
+TBepi4208.contig.14	feature	CDS	8187	8741	.	+	0	ID=TBepi4208.genome.CDS.1251;Product=;locus_tag=TBepi4208.genome.CDS.1251
+TBepi4208.contig.14	feature	CDS	7417	8040	.	-	0	ID=TBepi4208.genome.CDS.1250;Product=;locus_tag=TBepi4208.genome.CDS.1250
+TBepi4208.contig.14	feature	CDS	6790	7365	.	+	0	ID=TBepi4208.genome.CDS.242;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.242
+TBepi4208.contig.14	feature	CDS	6399	6812	.	-	0	ID=TBepi4208.genome.CDS.243;Product=;locus_tag=TBepi4208.genome.CDS.243
+TBepi4208.contig.14	feature	CDS	4914	6380	.	-	0	ID=TBepi4208.genome.CDS.1248;Product=Signal transduction histidine kinase%2C subgroup 2;locus_tag=TBepi4208.genome.CDS.1248
+TBepi4208.contig.14	feature	CDS	4562	4831	.	+	0	ID=TBepi4208.genome.CDS.1247;Product=WhiB-like transcription regulator;locus_tag=TBepi4208.genome.CDS.1247
+TBepi4208.contig.14	feature	tRNA	4346	4420	.	+	.	ID=TBepi4208.genome.rna.7;Product=tRNA-Arg-CCG;locus_tag=TBepi4208.genome.rna.7
+TBepi4208.contig.14	feature	CDS	3738	4292	.	-	0	ID=TBepi4208.genome.CDS.1246;Product=Peptide methionine sulfoxide reductase MsrA %28EC 1.8.4.11%29;locus_tag=TBepi4208.genome.CDS.1246
+TBepi4208.contig.14	feature	CDS	3002	3652	.	+	0	ID=TBepi4208.genome.CDS.238;Product=DNA-3-methyladenine glycosylase II %28EC 3.2.2.21%29;locus_tag=TBepi4208.genome.CDS.238
+TBepi4208.contig.14	feature	CDS	2047	2976	.	-	0	ID=TBepi4208.genome.CDS.1244;Product=Integral membrane protein TerC;locus_tag=TBepi4208.genome.CDS.1244
+TBepi4208.contig.14	feature	CDS	845	1987	.	-	0	ID=TBepi4208.genome.CDS.1243;Product=Aspartate aminotransferase %28EC 2.6.1.1%29;locus_tag=TBepi4208.genome.CDS.1243
+TBepi4208.contig.14	feature	CDS	2	838	.	-	0	ID=TBepi4208.genome.CDS.1242;Product=Beta-carotene ketolase;locus_tag=TBepi4208.genome.CDS.1242
+TBepi4208.contig.15	feature	CDS	9741	10541	.	+	0	ID=TBepi4208.genome.CDS.1266;Product=TsaC protein %28YrdC-Sua5 domains%29 required for threonylcarbamoyladenosine t%286%29A37 modification in tRNA;locus_tag=TBepi4208.genome.CDS.1266
+TBepi4208.contig.15	feature	CDS	8978	9679	.	-	0	ID=TBepi4208.genome.CDS.1265;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1265
+TBepi4208.contig.15	feature	tRNA	8849	8924	.	-	.	ID=TBepi4208.genome.rna.8;Product=tRNA-Glu-TTC;locus_tag=TBepi4208.genome.rna.8
+TBepi4208.contig.15	feature	tRNA	8637	8713	.	-	.	ID=TBepi4208.genome.rna.9;Product=tRNA-Asp-GTC;locus_tag=TBepi4208.genome.rna.9
+TBepi4208.contig.15	feature	tRNA	8470	8543	.	-	.	ID=TBepi4208.genome.rna.10;Product=tRNA-Phe-GAA;locus_tag=TBepi4208.genome.rna.10
+TBepi4208.contig.15	feature	CDS	8182	8334	.	-	0	ID=TBepi4208.genome.CDS.1264;Product=;locus_tag=TBepi4208.genome.CDS.1264
+TBepi4208.contig.15	feature	CDS	6518	8179	.	+	0	ID=TBepi4208.genome.CDS.1263;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1263
+TBepi4208.contig.15	feature	CDS	4533	6413	.	+	0	ID=TBepi4208.genome.CDS.1262;Product=;locus_tag=TBepi4208.genome.CDS.1262
+TBepi4208.contig.15	feature	CDS	3752	4417	.	+	0	ID=TBepi4208.genome.CDS.1261;Product=;locus_tag=TBepi4208.genome.CDS.1261
+TBepi4208.contig.15	feature	CDS	3153	3755	.	+	0	ID=TBepi4208.genome.CDS.254;Product=;locus_tag=TBepi4208.genome.CDS.254
+TBepi4208.contig.15	feature	CDS	2144	3130	.	+	0	ID=TBepi4208.genome.CDS.1259;Product=;locus_tag=TBepi4208.genome.CDS.1259
+TBepi4208.contig.15	feature	CDS	1025	2062	.	+	0	ID=TBepi4208.genome.CDS.1258;Product=Undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase %28EC 2.7.8.-%29;locus_tag=TBepi4208.genome.CDS.1258
+TBepi4208.contig.15	feature	CDS	812	1015	.	+	0	ID=TBepi4208.genome.CDS.1257;Product=;locus_tag=TBepi4208.genome.CDS.1257
+TBepi4208.contig.15	feature	CDS	627	812	.	+	0	ID=TBepi4208.genome.CDS.1256;Product=Excisionase/Xis%2C DNA-binding;locus_tag=TBepi4208.genome.CDS.1256
+TBepi4208.contig.15	feature	CDS	3	608	.	+	0	ID=TBepi4208.genome.CDS.1255;Product=;locus_tag=TBepi4208.genome.CDS.1255
+TBepi4208.contig.16	feature	misc_RNA	9868	10382	.	+	.	ID=TBepi4208.genome.repeat.23;Product=repeat region;locus_tag=TBepi4208.genome.repeat.23
+TBepi4208.contig.16	feature	CDS	9613	10380	.	-	0	ID=TBepi4208.genome.CDS.1278;Product=Cytochrome c oxidase polypeptide II %28EC 1.9.3.1%29;locus_tag=TBepi4208.genome.CDS.1278
+TBepi4208.contig.16	feature	CDS	7937	9610	.	-	0	ID=TBepi4208.genome.CDS.1277;Product=Cytochrome c oxidase polypeptide I %28EC 1.9.3.1%29;locus_tag=TBepi4208.genome.CDS.1277
+TBepi4208.contig.16	feature	CDS	7531	7932	.	-	0	ID=TBepi4208.genome.CDS.1276;Product=;locus_tag=TBepi4208.genome.CDS.1276
+TBepi4208.contig.16	feature	CDS	6994	7521	.	+	0	ID=TBepi4208.genome.CDS.1275;Product=;locus_tag=TBepi4208.genome.CDS.1275
+TBepi4208.contig.16	feature	CDS	6509	6997	.	+	0	ID=TBepi4208.genome.CDS.1274;Product=Histone acetyltransferase HPA2 and related acetyltransferases;locus_tag=TBepi4208.genome.CDS.1274
+TBepi4208.contig.16	feature	CDS	4895	6487	.	+	0	ID=TBepi4208.genome.CDS.1273;Product=Ubiquinol--cytochrome c reductase%2C cytochrome B subunit %28EC 1.10.2.2%29;locus_tag=TBepi4208.genome.CDS.1273
+TBepi4208.contig.16	feature	CDS	3906	4898	.	+	0	ID=TBepi4208.genome.CDS.1272;Product=Ubiquinol-cytochrome C reductase iron-sulfur subunit %28EC 1.10.2.2%29;locus_tag=TBepi4208.genome.CDS.1272
+TBepi4208.contig.16	feature	CDS	3093	3899	.	+	0	ID=TBepi4208.genome.CDS.1271;Product=ubiquinol cytochrome C oxidoreductase%2C cytochrome C1 subunit;locus_tag=TBepi4208.genome.CDS.1271
+TBepi4208.contig.16	feature	CDS	2441	3073	.	+	0	ID=TBepi4208.genome.CDS.1270;Product=Cytochrome c oxidase polypeptide III %28EC 1.9.3.1%29;locus_tag=TBepi4208.genome.CDS.1270
+TBepi4208.contig.16	feature	CDS	1883	2281	.	-	0	ID=TBepi4208.genome.CDS.1269;Product=;locus_tag=TBepi4208.genome.CDS.1269
+TBepi4208.contig.16	feature	CDS	815	1879	.	-	0	ID=TBepi4208.genome.CDS.1268;Product=Anthranilate phosphoribosyltransferase %28EC 2.4.2.18%29;locus_tag=TBepi4208.genome.CDS.1268
+TBepi4208.contig.16	feature	CDS	139	813	.	+	0	ID=TBepi4208.genome.CDS.1267;Product=DNA polymerase III epsilon subunit %28EC 2.7.7.7%29;locus_tag=TBepi4208.genome.CDS.1267
+TBepi4208.contig.16	feature	tRNA	64	135	.	+	.	ID=TBepi4208.genome.rna.11;Product=tRNA-Val-GAC;locus_tag=TBepi4208.genome.rna.11
+TBepi4208.contig.17	feature	CDS	9897	10067	.	-	0	ID=TBepi4208.genome.CDS.1287;Product=;locus_tag=TBepi4208.genome.CDS.1287
+TBepi4208.contig.17	feature	CDS	9243	9896	.	-	0	ID=TBepi4208.genome.CDS.1286;Product=;locus_tag=TBepi4208.genome.CDS.1286
+TBepi4208.contig.17	feature	tRNA	9131	9203	.	-	.	ID=TBepi4208.genome.rna.12;Product=tRNA-Ala-GGC;locus_tag=TBepi4208.genome.rna.12
+TBepi4208.contig.17	feature	CDS	8126	9127	.	-	0	ID=TBepi4208.genome.CDS.1285;Product=probable oxidoreductase/Short-chain dehydrogenase;locus_tag=TBepi4208.genome.CDS.1285
+TBepi4208.contig.17	feature	CDS	5677	8133	.	-	0	ID=TBepi4208.genome.CDS.1284;Product=Leucyl-tRNA synthetase %28EC 6.1.1.4%29;locus_tag=TBepi4208.genome.CDS.1284
+TBepi4208.contig.17	feature	CDS	4990	5619	.	-	0	ID=TBepi4208.genome.CDS.1283;Product=comE operon protein 1%2C putative;locus_tag=TBepi4208.genome.CDS.1283
+TBepi4208.contig.17	feature	CDS	2750	4900	.	-	0	ID=TBepi4208.genome.CDS.1282;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1282
+TBepi4208.contig.17	feature	CDS	1824	2759	.	-	0	ID=TBepi4208.genome.CDS.1281;Product=DNA polymerase III delta subunit %28EC 2.7.7.7%29;locus_tag=TBepi4208.genome.CDS.1281
+TBepi4208.contig.17	feature	CDS	1486	1752	.	-	0	ID=TBepi4208.genome.CDS.1280;Product=SSU ribosomal protein S20p;locus_tag=TBepi4208.genome.CDS.1280
+TBepi4208.contig.17	feature	CDS	3	1424	.	-	0	ID=TBepi4208.genome.CDS.1279;Product=Translation elongation factor LepA;locus_tag=TBepi4208.genome.CDS.1279
+TBepi4208.contig.18	feature	CDS	8401	9447	.	-	0	ID=TBepi4208.genome.CDS.1297;Product=ATP synthase alpha chain %28EC 3.6.3.14%29;locus_tag=TBepi4208.genome.CDS.1297
+TBepi4208.contig.18	feature	CDS	7489	8397	.	-	0	ID=TBepi4208.genome.CDS.1296;Product=ATP synthase gamma chain %28EC 3.6.3.14%29;locus_tag=TBepi4208.genome.CDS.1296
+TBepi4208.contig.18	feature	CDS	6062	7489	.	-	0	ID=TBepi4208.genome.CDS.1295;Product=ATP synthase beta chain %28EC 3.6.3.14%29;locus_tag=TBepi4208.genome.CDS.1295
+TBepi4208.contig.18	feature	CDS	5801	6055	.	-	0	ID=TBepi4208.genome.CDS.1294;Product=ATP synthase epsilon chain %28EC 3.6.3.14%29;locus_tag=TBepi4208.genome.CDS.1294
+TBepi4208.contig.18	feature	CDS	4529	5797	.	+	0	ID=TBepi4208.genome.CDS.1293;Product=UDP-N-acetylglucosamine 1-carboxyvinyltransferase %28EC 2.5.1.7%29;locus_tag=TBepi4208.genome.CDS.1293
+TBepi4208.contig.18	feature	CDS	3917	4492	.	-	0	ID=TBepi4208.genome.CDS.1292;Product=ATP:Cob%28I%29alamin adenosyltransferase %28EC 2.5.1.17%29;locus_tag=TBepi4208.genome.CDS.1292
+TBepi4208.contig.18	feature	CDS	3221	3898	.	+	0	ID=TBepi4208.genome.CDS.1291;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1291
+TBepi4208.contig.18	feature	CDS	2436	3224	.	+	0	ID=TBepi4208.genome.CDS.1290;Product=ABC-type multidrug transport system%2C permease component;locus_tag=TBepi4208.genome.CDS.1290
+TBepi4208.contig.18	feature	CDS	1642	2439	.	+	0	ID=TBepi4208.genome.CDS.1289;Product=ABC-type multidrug transport system%2C ATPase component;locus_tag=TBepi4208.genome.CDS.1289
+TBepi4208.contig.18	feature	CDS	1190	1513	.	-	0	ID=TBepi4208.genome.CDS.280;Product=;locus_tag=TBepi4208.genome.CDS.280
+TBepi4208.contig.18	feature	CDS	3	1187	.	+	0	ID=TBepi4208.genome.CDS.1288;Product=Aldehyde dehydrogenase %28EC 1.2.1.3%29;locus_tag=TBepi4208.genome.CDS.1288
+TBepi4208.contig.19	feature	misc_RNA	8234	8637	.	+	.	ID=TBepi4208.genome.repeat.7;Product=repeat region;locus_tag=TBepi4208.genome.repeat.7
+TBepi4208.contig.19	feature	CDS	7594	8637	.	-	0	ID=TBepi4208.genome.CDS.1306;Product=Branched-chain amino acid aminotransferase %28EC 2.6.1.42%29;locus_tag=TBepi4208.genome.CDS.1306
+TBepi4208.contig.19	feature	CDS	6011	7594	.	-	0	ID=TBepi4208.genome.CDS.1305;Product=%28R%29-citramalate synthase %28EC 2.3.1.182%29;locus_tag=TBepi4208.genome.CDS.1305
+TBepi4208.contig.19	feature	CDS	5102	6001	.	-	0	ID=TBepi4208.genome.CDS.1304;Product=Site-specific tyrosine recombinase XerC;locus_tag=TBepi4208.genome.CDS.1304
+TBepi4208.contig.19	feature	CDS	3976	4755	.	-	0	ID=TBepi4208.genome.CDS.1303;Product=SSU ribosomal protein S2p %28SAe%29;locus_tag=TBepi4208.genome.CDS.1303
+TBepi4208.contig.19	feature	CDS	3143	3970	.	-	0	ID=TBepi4208.genome.CDS.1302;Product=Translation elongation factor Ts;locus_tag=TBepi4208.genome.CDS.1302
+TBepi4208.contig.19	feature	CDS	2358	3074	.	-	0	ID=TBepi4208.genome.CDS.1301;Product=Uridine monophosphate kinase %28EC 2.7.4.22%29;locus_tag=TBepi4208.genome.CDS.1301
+TBepi4208.contig.19	feature	CDS	1737	2300	.	-	0	ID=TBepi4208.genome.CDS.1300;Product=Ribosome recycling factor;locus_tag=TBepi4208.genome.CDS.1300
+TBepi4208.contig.19	feature	CDS	870	1718	.	-	0	ID=TBepi4208.genome.CDS.1299;Product=Phosphatidate cytidylyltransferase %28EC 2.7.7.41%29;locus_tag=TBepi4208.genome.CDS.1299
+TBepi4208.contig.19	feature	CDS	2	862	.	-	0	ID=TBepi4208.genome.CDS.1298;Product=Ribosomal RNA large subunit methyltransferase N %28EC 2.1.1.-%29;locus_tag=TBepi4208.genome.CDS.1298
+TBepi4208.contig.2	feature	CDS	5167	5490	.	-	0	ID=TBepi4208.genome.CDS.1045;Product=Geranylgeranyl diphosphate synthase %28EC 2.5.1.29%29;locus_tag=TBepi4208.genome.CDS.1045
+TBepi4208.contig.2	feature	CDS	3683	5167	.	-	0	ID=TBepi4208.genome.CDS.1044;Product=Phytoene dehydrogenase %28EC 1.14.99.-%29;locus_tag=TBepi4208.genome.CDS.1044
+TBepi4208.contig.2	feature	CDS	2771	3679	.	-	0	ID=TBepi4208.genome.CDS.1043;Product=Phytoene synthase %28EC 2.5.1.32%29;locus_tag=TBepi4208.genome.CDS.1043
+TBepi4208.contig.2	feature	CDS	2055	2651	.	-	0	ID=TBepi4208.genome.CDS.1042;Product=;locus_tag=TBepi4208.genome.CDS.1042
+TBepi4208.contig.2	feature	CDS	1529	2080	.	-	0	ID=TBepi4208.genome.CDS.1041;Product=Cytidylate kinase %28EC 2.7.4.25%29;locus_tag=TBepi4208.genome.CDS.1041
+TBepi4208.contig.2	feature	CDS	2	1519	.	-	0	ID=TBepi4208.genome.CDS.1040;Product=Serine/threonine protein kinase PrkC%2C regulator of stationary phase;locus_tag=TBepi4208.genome.CDS.1040
+TBepi4208.contig.20	feature	misc_RNA	1	443	.	+	.	ID=TBepi4208.genome.repeat.25;Product=repeat region;locus_tag=TBepi4208.genome.repeat.25
+TBepi4208.contig.20	feature	CDS	6650	7534	.	-	0	ID=TBepi4208.genome.CDS.1313;Product=Diaminopimelate decarboxylase %28EC 4.1.1.20%29;locus_tag=TBepi4208.genome.CDS.1313
+TBepi4208.contig.20	feature	CDS	5297	6598	.	-	0	ID=TBepi4208.genome.CDS.1312;Product=Homoserine dehydrogenase %28EC 1.1.1.3%29;locus_tag=TBepi4208.genome.CDS.1312
+TBepi4208.contig.20	feature	CDS	4221	5300	.	-	0	ID=TBepi4208.genome.CDS.1311;Product=Threonine synthase %28EC 4.2.3.1%29;locus_tag=TBepi4208.genome.CDS.1311
+TBepi4208.contig.20	feature	CDS	3267	4220	.	-	0	ID=TBepi4208.genome.CDS.1310;Product=Homoserine kinase %28EC 2.7.1.39%29;locus_tag=TBepi4208.genome.CDS.1310
+TBepi4208.contig.20	feature	CDS	3112	3234	.	+	0	ID=TBepi4208.genome.CDS.301;Product=;locus_tag=TBepi4208.genome.CDS.301
+TBepi4208.contig.20	feature	CDS	1349	3025	.	-	0	ID=TBepi4208.genome.CDS.1309;Product=Transcription termination factor Rho;locus_tag=TBepi4208.genome.CDS.1309
+TBepi4208.contig.20	feature	CDS	1009	1233	.	-	0	ID=TBepi4208.genome.CDS.1308;Product=LSU ribosomal protein L31p %40 LSU ribosomal protein L31p%2C zinc-dependent;locus_tag=TBepi4208.genome.CDS.1308
+TBepi4208.contig.20	feature	CDS	1	894	.	-	0	ID=TBepi4208.genome.CDS.1307;Product=Peptide chain release factor 1;locus_tag=TBepi4208.genome.CDS.1307
+TBepi4208.contig.21	feature	misc_RNA	7014	7456	.	+	.	ID=TBepi4208.genome.repeat.37;Product=repeat region;locus_tag=TBepi4208.genome.repeat.37
+TBepi4208.contig.21	feature	CDS	6816	7454	.	-	0	ID=TBepi4208.genome.CDS.1319;Product=Peptide chain release factor 1;locus_tag=TBepi4208.genome.CDS.1319
+TBepi4208.contig.21	feature	CDS	5981	6826	.	-	0	ID=TBepi4208.genome.CDS.1318;Product=Protein-N%285%29-glutamine methyltransferase PrmC%2C methylates polypeptide chain release factors RF1 and RF2;locus_tag=TBepi4208.genome.CDS.1318
+TBepi4208.contig.21	feature	CDS	4753	5979	.	+	0	ID=TBepi4208.genome.CDS.1317;Product=4-hydroxybutyrate coenzyme A transferase;locus_tag=TBepi4208.genome.CDS.1317
+TBepi4208.contig.21	feature	CDS	2961	4694	.	-	0	ID=TBepi4208.genome.CDS.1316;Product=Lipid A export ATP-binding/permease protein MsbA;locus_tag=TBepi4208.genome.CDS.1316
+TBepi4208.contig.21	feature	CDS	982	2964	.	-	0	ID=TBepi4208.genome.CDS.1315;Product=Lipid A export ATP-binding/permease protein MsbA;locus_tag=TBepi4208.genome.CDS.1315
+TBepi4208.contig.21	feature	CDS	1	927	.	-	0	ID=TBepi4208.genome.CDS.1314;Product=Ketoglutarate semialdehyde dehydrogenase %28EC 1.2.1.26%29;locus_tag=TBepi4208.genome.CDS.1314
+TBepi4208.contig.22	feature	CDS	6444	6929	.	-	0	ID=TBepi4208.genome.CDS.1331;Product=Trk system potassium uptake protein TrkA;locus_tag=TBepi4208.genome.CDS.1331
+TBepi4208.contig.22	feature	CDS	5783	6439	.	-	0	ID=TBepi4208.genome.CDS.1330;Product=Trk system potassium uptake protein TrkA;locus_tag=TBepi4208.genome.CDS.1330
+TBepi4208.contig.22	feature	CDS	5188	5793	.	+	0	ID=TBepi4208.genome.CDS.1329;Product=;locus_tag=TBepi4208.genome.CDS.1329
+TBepi4208.contig.22	feature	CDS	4745	5188	.	+	0	ID=TBepi4208.genome.CDS.1328;Product=Deoxyuridine 5%27-triphosphate nucleotidohydrolase %28EC 3.6.1.23%29;locus_tag=TBepi4208.genome.CDS.1328
+TBepi4208.contig.22	feature	CDS	4164	4748	.	+	0	ID=TBepi4208.genome.CDS.1327;Product=FIG01123415: hypothetical protein;locus_tag=TBepi4208.genome.CDS.1327
+TBepi4208.contig.22	feature	CDS	3576	4064	.	-	0	ID=TBepi4208.genome.CDS.1326;Product=;locus_tag=TBepi4208.genome.CDS.1326
+TBepi4208.contig.22	feature	CDS	3283	3579	.	+	0	ID=TBepi4208.genome.CDS.1325;Product=FIG01121218: hypothetical protein;locus_tag=TBepi4208.genome.CDS.1325
+TBepi4208.contig.22	feature	CDS	2220	3203	.	+	0	ID=TBepi4208.genome.CDS.1324;Product=Probable acyl-ACP desaturase%2C Stearoyl-ACP desaturase %28EC 1.14.19.2%29;locus_tag=TBepi4208.genome.CDS.1324
+TBepi4208.contig.22	feature	CDS	1459	2163	.	+	0	ID=TBepi4208.genome.CDS.1323;Product=tRNA %28Guanine37-N1%29 -methyltransferase %28EC 2.1.1.31%29;locus_tag=TBepi4208.genome.CDS.1323
+TBepi4208.contig.22	feature	CDS	963	1466	.	+	0	ID=TBepi4208.genome.CDS.1322;Product=16S rRNA processing protein RimM;locus_tag=TBepi4208.genome.CDS.1322
+TBepi4208.contig.22	feature	CDS	721	960	.	+	0	ID=TBepi4208.genome.CDS.1321;Product=KH domain RNA binding protein YlqC;locus_tag=TBepi4208.genome.CDS.1321
+TBepi4208.contig.22	feature	CDS	167	718	.	+	0	ID=TBepi4208.genome.CDS.1320;Product=SSU ribosomal protein S16p;locus_tag=TBepi4208.genome.CDS.1320
+TBepi4208.contig.23	feature	misc_RNA	5843	6874	.	+	.	ID=TBepi4208.genome.repeat.27;Product=repeat region;locus_tag=TBepi4208.genome.repeat.27
+TBepi4208.contig.23	feature	CDS	6656	6874	.	+	0	ID=TBepi4208.genome.CDS.1338;Product=;locus_tag=TBepi4208.genome.CDS.1338
+TBepi4208.contig.23	feature	CDS	5590	6633	.	+	0	ID=TBepi4208.genome.CDS.1337;Product=Rod shape-determining protein MreB;locus_tag=TBepi4208.genome.CDS.1337
+TBepi4208.contig.23	feature	CDS	5153	5587	.	+	0	ID=TBepi4208.genome.CDS.1336;Product=Nucleoside diphosphate kinase %28EC 2.7.4.6%29;locus_tag=TBepi4208.genome.CDS.1336
+TBepi4208.contig.23	feature	CDS	4787	5116	.	+	0	ID=TBepi4208.genome.CDS.1335;Product=;locus_tag=TBepi4208.genome.CDS.1335
+TBepi4208.contig.23	feature	CDS	3435	4790	.	+	0	ID=TBepi4208.genome.CDS.1334;Product=Dihydrofolate synthase %28EC 6.3.2.12%29 %40 Folylpolyglutamate synthase %28EC 6.3.2.17%29;locus_tag=TBepi4208.genome.CDS.1334
+TBepi4208.contig.23	feature	CDS	850	3435	.	+	0	ID=TBepi4208.genome.CDS.1333;Product=Valyl-tRNA synthetase %28EC 6.1.1.9%29;locus_tag=TBepi4208.genome.CDS.1333
+TBepi4208.contig.23	feature	CDS	3	833	.	+	0	ID=TBepi4208.genome.CDS.1332;Product=ATP-dependent Clp protease ATP-binding subunit ClpX;locus_tag=TBepi4208.genome.CDS.1332
+TBepi4208.contig.24	feature	CDS	3587	4231	.	+	0	ID=TBepi4208.genome.CDS.1343;Product=Inosose dehydratase %28EC 4.2.1.44%29;locus_tag=TBepi4208.genome.CDS.1343
+TBepi4208.contig.24	feature	CDS	2638	3570	.	+	0	ID=TBepi4208.genome.CDS.1342;Product=D-3-phosphoglycerate dehydrogenase %28EC 1.1.1.95%29;locus_tag=TBepi4208.genome.CDS.1342
+TBepi4208.contig.24	feature	CDS	1421	2635	.	+	0	ID=TBepi4208.genome.CDS.1341;Product=Myo-inositol 2-dehydrogenase %28EC 1.1.1.18%29;locus_tag=TBepi4208.genome.CDS.1341
+TBepi4208.contig.24	feature	CDS	651	1418	.	+	0	ID=TBepi4208.genome.CDS.1340;Product=2%2C4-dihydroxyhept-2-ene-1%2C7-dioic acid aldolase %28EC 4.1.2.n4%29;locus_tag=TBepi4208.genome.CDS.1340
+TBepi4208.contig.24	feature	CDS	72	650	.	+	0	ID=TBepi4208.genome.CDS.329;Product=Epi-inositol hydrolase %28EC 3.7.1.-%29;locus_tag=TBepi4208.genome.CDS.329
+TBepi4208.contig.25	feature	CDS	6037	6546	.	+	0	ID=TBepi4208.genome.CDS.1352;Product=Enoyl-CoA hydratase %28EC 4.2.1.17%29;locus_tag=TBepi4208.genome.CDS.1352
+TBepi4208.contig.25	feature	CDS	5634	5948	.	-	0	ID=TBepi4208.genome.CDS.1351;Product=;locus_tag=TBepi4208.genome.CDS.1351
+TBepi4208.contig.25	feature	CDS	4840	5436	.	-	0	ID=TBepi4208.genome.CDS.1350;Product=;locus_tag=TBepi4208.genome.CDS.1350
+TBepi4208.contig.25	feature	CDS	4108	4758	.	-	0	ID=TBepi4208.genome.CDS.1349;Product=;locus_tag=TBepi4208.genome.CDS.1349
+TBepi4208.contig.25	feature	CDS	3396	4079	.	-	0	ID=TBepi4208.genome.CDS.1348;Product=;locus_tag=TBepi4208.genome.CDS.1348
+TBepi4208.contig.25	feature	CDS	2655	3395	.	+	0	ID=TBepi4208.genome.CDS.1347;Product=1-acyl-sn-glycerol-3-phosphate acyltransferase %28EC 2.3.1.51%29;locus_tag=TBepi4208.genome.CDS.1347
+TBepi4208.contig.25	feature	CDS	1444	2571	.	-	0	ID=TBepi4208.genome.CDS.1346;Product=putative esterase/lipase;locus_tag=TBepi4208.genome.CDS.1346
+TBepi4208.contig.25	feature	CDS	481	1443	.	+	0	ID=TBepi4208.genome.CDS.1345;Product=Putative sugar kinase;locus_tag=TBepi4208.genome.CDS.1345
+TBepi4208.contig.25	feature	CDS	3	476	.	+	0	ID=TBepi4208.genome.CDS.1344;Product=;locus_tag=TBepi4208.genome.CDS.1344
+TBepi4208.contig.26	feature	misc_RNA	4	1092	.	+	.	ID=TBepi4208.genome.repeat.16;Product=repeat region;locus_tag=TBepi4208.genome.repeat.16
+TBepi4208.contig.26	feature	CDS	5749	6024	.	+	0	ID=TBepi4208.genome.CDS.1359;Product=;locus_tag=TBepi4208.genome.CDS.1359
+TBepi4208.contig.26	feature	CDS	4916	5752	.	+	0	ID=TBepi4208.genome.CDS.1358;Product=Methylenetetrahydrofolate dehydrogenase %28NADP%2B%29 %28EC 1.5.1.5%29 / Methenyltetrahydrofolate cyclohydrolase %28EC 3.5.4.9%29;locus_tag=TBepi4208.genome.CDS.1358
+TBepi4208.contig.26	feature	CDS	3362	4903	.	+	0	ID=TBepi4208.genome.CDS.1357;Product=IMP cyclohydrolase %28EC 3.5.4.10%29 / Phosphoribosylaminoimidazolecarboxamide formyltransferase %28EC 2.1.2.3%29;locus_tag=TBepi4208.genome.CDS.1357
+TBepi4208.contig.26	feature	CDS	2799	3362	.	+	0	ID=TBepi4208.genome.CDS.1356;Product=Phosphoribosylglycinamide formyltransferase %28EC 2.1.2.2%29;locus_tag=TBepi4208.genome.CDS.1356
+TBepi4208.contig.26	feature	CDS	1689	2798	.	+	0	ID=TBepi4208.genome.CDS.1355;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1355
+TBepi4208.contig.26	feature	CDS	766	1653	.	+	0	ID=TBepi4208.genome.CDS.1354;Product=Succinyl-CoA ligase %5BADP-forming%5D alpha chain %28EC 6.2.1.5%29;locus_tag=TBepi4208.genome.CDS.1354
+TBepi4208.contig.26	feature	CDS	1	765	.	+	0	ID=TBepi4208.genome.CDS.1353;Product=Succinyl-CoA ligase %5BADP-forming%5D beta chain %28EC 6.2.1.5%29;locus_tag=TBepi4208.genome.CDS.1353
+TBepi4208.contig.27	feature	CDS	5531	6022	.	+	0	ID=TBepi4208.genome.CDS.1367;Product=putative acetyltransferase;locus_tag=TBepi4208.genome.CDS.1367
+TBepi4208.contig.27	feature	CDS	4424	5521	.	+	0	ID=TBepi4208.genome.CDS.1366;Product=probable glycosyltransferase WbpH;locus_tag=TBepi4208.genome.CDS.1366
+TBepi4208.contig.27	feature	CDS	3631	4410	.	+	0	ID=TBepi4208.genome.CDS.351;Product=Teichoic acid export ATP-binding protein TagH %28EC 3.6.3.40%29;locus_tag=TBepi4208.genome.CDS.351
+TBepi4208.contig.27	feature	CDS	2724	3617	.	+	0	ID=TBepi4208.genome.CDS.1364;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1364
+TBepi4208.contig.27	feature	CDS	2193	2552	.	-	0	ID=TBepi4208.genome.CDS.1363;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1363
+TBepi4208.contig.27	feature	CDS	1337	2092	.	+	0	ID=TBepi4208.genome.CDS.1362;Product=NAD%28P%29HX epimerase / NAD%28P%29HX dehydratase;locus_tag=TBepi4208.genome.CDS.1362
+TBepi4208.contig.27	feature	CDS	175	1335	.	-	0	ID=TBepi4208.genome.CDS.1361;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1361
+TBepi4208.contig.27	feature	CDS	3	182	.	-	0	ID=TBepi4208.genome.CDS.1360;Product=;locus_tag=TBepi4208.genome.CDS.1360
+TBepi4208.contig.28	feature	misc_RNA	1	504	.	+	.	ID=TBepi4208.genome.repeat.9;Product=repeat region;locus_tag=TBepi4208.genome.repeat.9
+TBepi4208.contig.28	feature	CDS	5120	5602	.	+	0	ID=TBepi4208.genome.CDS.1374;Product=GTP-binding protein HflX;locus_tag=TBepi4208.genome.CDS.1374
+TBepi4208.contig.28	feature	CDS	4332	5123	.	+	0	ID=TBepi4208.genome.CDS.1373;Product=Diaminopimelate epimerase %28EC 5.1.1.7%29;locus_tag=TBepi4208.genome.CDS.1373
+TBepi4208.contig.28	feature	CDS	3412	4335	.	+	0	ID=TBepi4208.genome.CDS.1372;Product=tRNA dimethylallyltransferase %28EC 2.5.1.75%29;locus_tag=TBepi4208.genome.CDS.1372
+TBepi4208.contig.28	feature	CDS	1955	3412	.	+	0	ID=TBepi4208.genome.CDS.1371;Product=tRNA-i%286%29A37 methylthiotransferase;locus_tag=TBepi4208.genome.CDS.1371
+TBepi4208.contig.28	feature	CDS	1625	1924	.	+	0	ID=TBepi4208.genome.CDS.1370;Product=;locus_tag=TBepi4208.genome.CDS.1370
+TBepi4208.contig.28	feature	CDS	341	1423	.	+	0	ID=TBepi4208.genome.CDS.1369;Product=RecA protein;locus_tag=TBepi4208.genome.CDS.1369
+TBepi4208.contig.28	feature	CDS	1	117	.	+	0	ID=TBepi4208.genome.CDS.1368;Product=;locus_tag=TBepi4208.genome.CDS.1368
+TBepi4208.contig.29	feature	misc_RNA	1	542	.	+	.	ID=TBepi4208.genome.repeat.44;Product=repeat region;locus_tag=TBepi4208.genome.repeat.44
+TBepi4208.contig.29	feature	CDS	4237	5451	.	-	0	ID=TBepi4208.genome.CDS.1379;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1379
+TBepi4208.contig.29	feature	CDS	3254	4216	.	-	0	ID=TBepi4208.genome.CDS.1378;Product=tRNA%28Ile%29-lysidine synthetase %28EC 6.3.4.19%29;locus_tag=TBepi4208.genome.CDS.1378
+TBepi4208.contig.29	feature	CDS	2636	3187	.	-	0	ID=TBepi4208.genome.CDS.1377;Product=Hypoxanthine-guanine phosphoribosyltransferase %28EC 2.4.2.8%29;locus_tag=TBepi4208.genome.CDS.1377
+TBepi4208.contig.29	feature	CDS	531	2639	.	-	0	ID=TBepi4208.genome.CDS.1376;Product=Cell division protein FtsH %28EC 3.4.24.-%29;locus_tag=TBepi4208.genome.CDS.1376
+TBepi4208.contig.29	feature	CDS	2	499	.	-	0	ID=TBepi4208.genome.CDS.1375;Product=GTP cyclohydrolase I %28EC 3.5.4.16%29 type 1;locus_tag=TBepi4208.genome.CDS.1375
+TBepi4208.contig.3	feature	CDS	22692	23204	.	-	0	ID=TBepi4208.genome.CDS.1068;Product=Thymidine kinase %28EC 2.7.1.21%29;locus_tag=TBepi4208.genome.CDS.1068
+TBepi4208.contig.3	feature	CDS	21602	22642	.	-	0	ID=TBepi4208.genome.CDS.1067;Product=Alcohol dehydrogenase %28EC 1.1.1.1%29;locus_tag=TBepi4208.genome.CDS.1067
+TBepi4208.contig.3	feature	CDS	20868	21605	.	+	0	ID=TBepi4208.genome.CDS.1066;Product=membrane protein%2C putative;locus_tag=TBepi4208.genome.CDS.1066
+TBepi4208.contig.3	feature	CDS	20141	20815	.	-	0	ID=TBepi4208.genome.CDS.1065;Product=;locus_tag=TBepi4208.genome.CDS.1065
+TBepi4208.contig.3	feature	CDS	19356	20138	.	+	0	ID=TBepi4208.genome.CDS.1064;Product=;locus_tag=TBepi4208.genome.CDS.1064
+TBepi4208.contig.3	feature	CDS	18047	19297	.	-	0	ID=TBepi4208.genome.CDS.1063;Product=Phosphoserine phosphatase %28EC 3.1.3.3%29;locus_tag=TBepi4208.genome.CDS.1063
+TBepi4208.contig.3	feature	CDS	17202	18050	.	+	0	ID=TBepi4208.genome.CDS.1062;Product=ATP phosphoribosyltransferase %28EC 2.4.2.17%29;locus_tag=TBepi4208.genome.CDS.1062
+TBepi4208.contig.3	feature	CDS	16930	17193	.	+	0	ID=TBepi4208.genome.CDS.1061;Product=Phosphoribosyl-ATP pyrophosphatase %28EC 3.6.1.31%29;locus_tag=TBepi4208.genome.CDS.1061
+TBepi4208.contig.3	feature	CDS	16205	16873	.	+	0	ID=TBepi4208.genome.CDS.1060;Product=Ribulose-phosphate 3-epimerase %28EC 5.1.3.1%29;locus_tag=TBepi4208.genome.CDS.1060
+TBepi4208.contig.3	feature	CDS	14834	16201	.	+	0	ID=TBepi4208.genome.CDS.1059;Product=16S rRNA %28cytosine%28967%29-C%285%29%29-methyltransferase %28EC 2.1.1.176%29;locus_tag=TBepi4208.genome.CDS.1059
+TBepi4208.contig.3	feature	CDS	13933	14850	.	+	0	ID=TBepi4208.genome.CDS.1058;Product=Methionyl-tRNA formyltransferase %28EC 2.1.2.9%29;locus_tag=TBepi4208.genome.CDS.1058
+TBepi4208.contig.3	feature	CDS	13372	13932	.	+	0	ID=TBepi4208.genome.CDS.1057;Product=Peptide deformylase %28EC 3.5.1.88%29;locus_tag=TBepi4208.genome.CDS.1057
+TBepi4208.contig.3	feature	CDS	11448	13148	.	+	0	ID=TBepi4208.genome.CDS.1056;Product=Helicase PriA essential for oriC/DnaA-independent DNA replication;locus_tag=TBepi4208.genome.CDS.1056
+TBepi4208.contig.3	feature	CDS	10239	11432	.	+	0	ID=TBepi4208.genome.CDS.1055;Product=S-adenosylmethionine synthetase %28EC 2.5.1.6%29;locus_tag=TBepi4208.genome.CDS.1055
+TBepi4208.contig.3	feature	CDS	9026	10234	.	+	0	ID=TBepi4208.genome.CDS.1054;Product=Phosphopantothenoylcysteine decarboxylase %28EC 4.1.1.36%29 / Phosphopantothenoylcysteine synthetase %28EC 6.3.2.5%29;locus_tag=TBepi4208.genome.CDS.1054
+TBepi4208.contig.3	feature	CDS	8743	9015	.	+	0	ID=TBepi4208.genome.CDS.1053;Product=DNA-directed RNA polymerase omega subunit %28EC 2.7.7.6%29;locus_tag=TBepi4208.genome.CDS.1053
+TBepi4208.contig.3	feature	CDS	7820	8698	.	+	0	ID=TBepi4208.genome.CDS.1052;Product=Guanylate kinase %28EC 2.7.4.8%29;locus_tag=TBepi4208.genome.CDS.1052
+TBepi4208.contig.3	feature	CDS	7105	7794	.	+	0	ID=TBepi4208.genome.CDS.1051;Product=Orotidine 5%27-phosphate decarboxylase %28EC 4.1.1.23%29;locus_tag=TBepi4208.genome.CDS.1051
+TBepi4208.contig.3	feature	CDS	6173	7108	.	+	0	ID=TBepi4208.genome.CDS.1050;Product=Dihydroorotate dehydrogenase%2C catalytic subunit %28EC 1.3.3.1%29;locus_tag=TBepi4208.genome.CDS.1050
+TBepi4208.contig.3	feature	CDS	5327	6172	.	+	0	ID=TBepi4208.genome.CDS.1049;Product=Dihydroorotate dehydrogenase electron transfer subunit %28EC 1.3.3.1%29;locus_tag=TBepi4208.genome.CDS.1049
+TBepi4208.contig.3	feature	CDS	2034	5330	.	+	0	ID=TBepi4208.genome.CDS.1048;Product=Carbamoyl-phosphate synthase large chain %28EC 6.3.5.5%29;locus_tag=TBepi4208.genome.CDS.1048
+TBepi4208.contig.3	feature	CDS	922	2034	.	+	0	ID=TBepi4208.genome.CDS.1047;Product=Carbamoyl-phosphate synthase small chain %28EC 6.3.5.5%29;locus_tag=TBepi4208.genome.CDS.1047
+TBepi4208.contig.3	feature	CDS	2	922	.	+	0	ID=TBepi4208.genome.CDS.1046;Product=Dihydroorotase %28EC 3.5.2.3%29;locus_tag=TBepi4208.genome.CDS.1046
+TBepi4208.contig.30	feature	misc_RNA	1	1657	.	+	.	ID=TBepi4208.genome.repeat.2;Product=repeat region;locus_tag=TBepi4208.genome.repeat.2
+TBepi4208.contig.30	feature	CDS	4555	5403	.	-	0	ID=TBepi4208.genome.CDS.1385;Product=Phosphomannomutase %28EC 5.4.2.8%29;locus_tag=TBepi4208.genome.CDS.1385
+TBepi4208.contig.30	feature	CDS	3153	4430	.	-	0	ID=TBepi4208.genome.CDS.1384;Product=Adenosylhomocysteinase %28EC 3.3.1.1%29;locus_tag=TBepi4208.genome.CDS.1384
+TBepi4208.contig.30	feature	CDS	2467	3153	.	-	0	ID=TBepi4208.genome.CDS.1383;Product=DNA-binding response regulator mtrA;locus_tag=TBepi4208.genome.CDS.1383
+TBepi4208.contig.30	feature	CDS	896	2443	.	-	0	ID=TBepi4208.genome.CDS.1382;Product=Sensor histidine kinase MtrB %28EC 2.7.3.-%29;locus_tag=TBepi4208.genome.CDS.1382
+TBepi4208.contig.30	feature	CDS	70	633	.	-	0	ID=TBepi4208.genome.CDS.1381;Product=;locus_tag=TBepi4208.genome.CDS.1381
+TBepi4208.contig.31	feature	CDS	4141	5145	.	+	0	ID=TBepi4208.genome.CDS.1390;Product=Phosphoribosylamine--glycine ligase %28EC 6.3.4.13%29;locus_tag=TBepi4208.genome.CDS.1390
+TBepi4208.contig.31	feature	CDS	2861	4144	.	+	0	ID=TBepi4208.genome.CDS.1389;Product=Adenylosuccinate synthetase %28EC 6.3.4.4%29;locus_tag=TBepi4208.genome.CDS.1389
+TBepi4208.contig.31	feature	CDS	1827	2861	.	+	0	ID=TBepi4208.genome.CDS.1388;Product=Fructose-bisphosphate aldolase class II %28EC 4.1.2.13%29;locus_tag=TBepi4208.genome.CDS.1388
+TBepi4208.contig.31	feature	CDS	1697	1810	.	+	0	ID=TBepi4208.genome.CDS.369;Product=;locus_tag=TBepi4208.genome.CDS.369
+TBepi4208.contig.31	feature	CDS	1485	1634	.	+	0	ID=TBepi4208.genome.CDS.1387;Product=;locus_tag=TBepi4208.genome.CDS.1387
+TBepi4208.contig.31	feature	CDS	1	1326	.	-	0	ID=TBepi4208.genome.CDS.1386;Product=Acetyl-coenzyme A synthetase %28EC 6.2.1.1%29;locus_tag=TBepi4208.genome.CDS.1386
+TBepi4208.contig.32	feature	CDS	3530	4486	.	-	0	ID=TBepi4208.genome.CDS.1394;Product=Malate dehydrogenase %28EC 1.1.1.37%29;locus_tag=TBepi4208.genome.CDS.1394
+TBepi4208.contig.32	feature	CDS	2287	3501	.	-	0	ID=TBepi4208.genome.CDS.1393;Product=Isocitrate dehydrogenase %5BNADP%5D %28EC 1.1.1.42%29;locus_tag=TBepi4208.genome.CDS.1393
+TBepi4208.contig.32	feature	CDS	1125	2213	.	+	0	ID=TBepi4208.genome.CDS.1392;Product=Glycerol-3-phosphate ABC transporter%2C ATP-binding protein UgpC %28TC 3.A.1.1.3%29;locus_tag=TBepi4208.genome.CDS.1392
+TBepi4208.contig.32	feature	CDS	2	994	.	-	0	ID=TBepi4208.genome.CDS.1391;Product=Hemolysins and related proteins containing CBS domains;locus_tag=TBepi4208.genome.CDS.1391
+TBepi4208.contig.33	feature	CDS	3379	4134	.	+	0	ID=TBepi4208.genome.CDS.1399;Product=UDP-N-acetylglucosamine 2-epimerase %28EC 5.1.3.14%29;locus_tag=TBepi4208.genome.CDS.1399
+TBepi4208.contig.33	feature	CDS	1546	3300	.	-	0	ID=TBepi4208.genome.CDS.1398;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1398
+TBepi4208.contig.33	feature	CDS	1117	1500	.	+	0	ID=TBepi4208.genome.CDS.1397;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1397
+TBepi4208.contig.33	feature	CDS	981	1127	.	+	0	ID=TBepi4208.genome.CDS.1396;Product=;locus_tag=TBepi4208.genome.CDS.1396
+TBepi4208.contig.33	feature	CDS	1	924	.	+	0	ID=TBepi4208.genome.CDS.1395;Product=Cystathionine beta-lyase %28EC 4.4.1.8%29;locus_tag=TBepi4208.genome.CDS.1395
+TBepi4208.contig.34	feature	misc_RNA	3840	4047	.	+	.	ID=TBepi4208.genome.repeat.39;Product=repeat region;locus_tag=TBepi4208.genome.repeat.39
+TBepi4208.contig.34	feature	CDS	3341	4045	.	+	0	ID=TBepi4208.genome.CDS.1404;Product=;locus_tag=TBepi4208.genome.CDS.1404
+TBepi4208.contig.34	feature	CDS	2316	3338	.	+	0	ID=TBepi4208.genome.CDS.1403;Product=Galactitol-1-phosphate 5-dehydrogenase %28EC 1.1.1.251%29;locus_tag=TBepi4208.genome.CDS.1403
+TBepi4208.contig.34	feature	CDS	1600	2310	.	+	0	ID=TBepi4208.genome.CDS.1402;Product=D-arabino-3-hexulose 6-phosphate formaldehyde-lyase %28EC 4.1.2.43%29;locus_tag=TBepi4208.genome.CDS.1402
+TBepi4208.contig.34	feature	CDS	465	1526	.	-	0	ID=TBepi4208.genome.CDS.1401;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1401
+TBepi4208.contig.34	feature	CDS	2	472	.	-	0	ID=TBepi4208.genome.CDS.1400;Product=Uronate isomerase %28EC 5.3.1.12%29;locus_tag=TBepi4208.genome.CDS.1400
+TBepi4208.contig.35	feature	CDS	3737	3967	.	+	0	ID=TBepi4208.genome.CDS.1410;Product=Ornithine carbamoyltransferase %28EC 2.1.3.3%29;locus_tag=TBepi4208.genome.CDS.1410
+TBepi4208.contig.35	feature	CDS	3425	3679	.	-	0	ID=TBepi4208.genome.CDS.1409;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1409
+TBepi4208.contig.35	feature	CDS	1651	3447	.	-	0	ID=TBepi4208.genome.CDS.1408;Product=;locus_tag=TBepi4208.genome.CDS.1408
+TBepi4208.contig.35	feature	CDS	1349	1645	.	-	0	ID=TBepi4208.genome.CDS.1407;Product=ATP-dependent Clp protease adaptor protein ClpS;locus_tag=TBepi4208.genome.CDS.1407
+TBepi4208.contig.35	feature	CDS	790	1344	.	-	0	ID=TBepi4208.genome.CDS.1406;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1406
+TBepi4208.contig.35	feature	CDS	2	736	.	-	0	ID=TBepi4208.genome.CDS.1405;Product=Glutamate racemase %28EC 5.1.1.3%29;locus_tag=TBepi4208.genome.CDS.1405
+TBepi4208.contig.36	feature	CDS	3205	3426	.	-	0	ID=TBepi4208.genome.CDS.1414;Product=Thymidylate synthase thyX %28EC 2.1.1.-%29;locus_tag=TBepi4208.genome.CDS.1414
+TBepi4208.contig.36	feature	CDS	2297	3187	.	-	0	ID=TBepi4208.genome.CDS.1413;Product=4-hydroxy-tetrahydrodipicolinate synthase %28EC 4.3.3.7%29;locus_tag=TBepi4208.genome.CDS.1413
+TBepi4208.contig.36	feature	CDS	615	2297	.	-	0	ID=TBepi4208.genome.CDS.1412;Product=Ribonuclease J2 %28endoribonuclease in RNA processing%29;locus_tag=TBepi4208.genome.CDS.1412
+TBepi4208.contig.36	feature	CDS	2	565	.	-	0	ID=TBepi4208.genome.CDS.1411;Product=Cell division protein FtsK;locus_tag=TBepi4208.genome.CDS.1411
+TBepi4208.contig.37	feature	misc_RNA	1	208	.	+	.	ID=TBepi4208.genome.repeat.3;Product=repeat region;locus_tag=TBepi4208.genome.repeat.3
+TBepi4208.contig.37	feature	CDS	2820	3239	.	-	0	ID=TBepi4208.genome.CDS.1419;Product=Predicted beta-glucoside-regulated ABC transport system%2C permease component 2%2C COG0395;locus_tag=TBepi4208.genome.CDS.1419
+TBepi4208.contig.37	feature	CDS	1827	2720	.	-	0	ID=TBepi4208.genome.CDS.1418;Product=;locus_tag=TBepi4208.genome.CDS.1418
+TBepi4208.contig.37	feature	CDS	1174	1830	.	+	0	ID=TBepi4208.genome.CDS.1417;Product=;locus_tag=TBepi4208.genome.CDS.1417
+TBepi4208.contig.37	feature	CDS	287	1171	.	+	0	ID=TBepi4208.genome.CDS.1416;Product=C-compound%2C carbohydrate catabolism;locus_tag=TBepi4208.genome.CDS.1416
+TBepi4208.contig.37	feature	CDS	3	287	.	+	0	ID=TBepi4208.genome.CDS.1415;Product=;locus_tag=TBepi4208.genome.CDS.1415
+TBepi4208.contig.38	feature	CDS	1593	2984	.	+	0	ID=TBepi4208.genome.CDS.1423;Product=;locus_tag=TBepi4208.genome.CDS.1423
+TBepi4208.contig.38	feature	CDS	1433	1549	.	-	0	ID=TBepi4208.genome.CDS.398;Product=;locus_tag=TBepi4208.genome.CDS.398
+TBepi4208.contig.38	feature	CDS	1170	1421	.	+	0	ID=TBepi4208.genome.CDS.1422;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1422
+TBepi4208.contig.38	feature	CDS	541	1113	.	-	0	ID=TBepi4208.genome.CDS.1421;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1421
+TBepi4208.contig.38	feature	CDS	2	529	.	-	0	ID=TBepi4208.genome.CDS.1420;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1420
+TBepi4208.contig.39	feature	CDS	2237	2755	.	-	0	ID=TBepi4208.genome.CDS.1427;Product=;locus_tag=TBepi4208.genome.CDS.1427
+TBepi4208.contig.39	feature	CDS	1239	2237	.	-	0	ID=TBepi4208.genome.CDS.1426;Product=D-glycero-D-manno-heptose 1-phosphate guanosyltransferase;locus_tag=TBepi4208.genome.CDS.1426
+TBepi4208.contig.39	feature	CDS	1058	1216	.	-	0	ID=TBepi4208.genome.CDS.400;Product=;locus_tag=TBepi4208.genome.CDS.400
+TBepi4208.contig.39	feature	CDS	774	1061	.	-	0	ID=TBepi4208.genome.CDS.1425;Product=Sporulation regulatory protein WhiB;locus_tag=TBepi4208.genome.CDS.1425
+TBepi4208.contig.39	feature	CDS	3	710	.	-	0	ID=TBepi4208.genome.CDS.1424;Product=Glycosyl transferase%2C family 2;locus_tag=TBepi4208.genome.CDS.1424
+TBepi4208.contig.4	feature	misc_RNA	1	1360	.	+	.	ID=TBepi4208.genome.repeat.40;Product=repeat region;locus_tag=TBepi4208.genome.repeat.40
+TBepi4208.contig.4	feature	CDS	4944	5600	.	-	0	ID=TBepi4208.genome.CDS.1075;Product=;locus_tag=TBepi4208.genome.CDS.1075
+TBepi4208.contig.4	feature	CDS	4395	4850	.	-	0	ID=TBepi4208.genome.CDS.1074;Product=Ribose 5-phosphate isomerase B %28EC 5.3.1.6%29 / Galactose 6-phosphate isomerase;locus_tag=TBepi4208.genome.CDS.1074
+TBepi4208.contig.4	feature	CDS	3724	4398	.	+	0	ID=TBepi4208.genome.CDS.1073;Product=tRNA %28guanine46-N7-%29-methyltransferase %28EC 2.1.1.33%29;locus_tag=TBepi4208.genome.CDS.1073
+TBepi4208.contig.4	feature	CDS	1139	3676	.	-	0	ID=TBepi4208.genome.CDS.1072;Product=Membrane alanine aminopeptidase N %28EC 3.4.11.2%29;locus_tag=TBepi4208.genome.CDS.1072
+TBepi4208.contig.4	feature	CDS	957	1142	.	+	0	ID=TBepi4208.genome.CDS.1071;Product=;locus_tag=TBepi4208.genome.CDS.1071
+TBepi4208.contig.4	feature	CDS	402	932	.	+	0	ID=TBepi4208.genome.CDS.1070;Product=HNH endonuclease family protein;locus_tag=TBepi4208.genome.CDS.1070
+TBepi4208.contig.4	feature	CDS	3	290	.	-	0	ID=TBepi4208.genome.CDS.1069;Product=;locus_tag=TBepi4208.genome.CDS.1069
+TBepi4208.contig.40	feature	CDS	2094	2537	.	+	0	ID=TBepi4208.genome.CDS.1431;Product=O-acetylhomoserine sulfhydrylase %28EC 2.5.1.49%29 / O-succinylhomoserine sulfhydrylase %28EC 2.5.1.48%29;locus_tag=TBepi4208.genome.CDS.1431
+TBepi4208.contig.40	feature	CDS	1126	2025	.	-	0	ID=TBepi4208.genome.CDS.1430;Product=ABC transporter%2C ATP-binding protein;locus_tag=TBepi4208.genome.CDS.1430
+TBepi4208.contig.40	feature	CDS	338	1129	.	-	0	ID=TBepi4208.genome.CDS.1429;Product=;locus_tag=TBepi4208.genome.CDS.1429
+TBepi4208.contig.40	feature	CDS	1	240	.	-	0	ID=TBepi4208.genome.CDS.1428;Product=;locus_tag=TBepi4208.genome.CDS.1428
+TBepi4208.contig.41	feature	misc_RNA	2434	2550	.	+	.	ID=TBepi4208.genome.repeat.19;Product=repeat region;locus_tag=TBepi4208.genome.repeat.19
+TBepi4208.contig.41	feature	CDS	2140	2550	.	+	0	ID=TBepi4208.genome.CDS.1437;Product=Transcription elongation factor GreA;locus_tag=TBepi4208.genome.CDS.1437
+TBepi4208.contig.41	feature	CDS	1726	2127	.	+	0	ID=TBepi4208.genome.CDS.1436;Product=;locus_tag=TBepi4208.genome.CDS.1436
+TBepi4208.contig.41	feature	CDS	1538	1702	.	-	0	ID=TBepi4208.genome.CDS.409;Product=;locus_tag=TBepi4208.genome.CDS.409
+TBepi4208.contig.41	feature	CDS	811	1515	.	-	0	ID=TBepi4208.genome.CDS.1435;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1435
+TBepi4208.contig.41	feature	CDS	461	814	.	-	0	ID=TBepi4208.genome.CDS.1434;Product=;locus_tag=TBepi4208.genome.CDS.1434
+TBepi4208.contig.41	feature	CDS	1	477	.	-	0	ID=TBepi4208.genome.CDS.1433;Product=%282E%2C6Z%29-farnesyl diphosphate synthase %28EC 2.5.1.68%29;locus_tag=TBepi4208.genome.CDS.1433
+TBepi4208.contig.42	feature	misc_RNA	1	127	.	+	.	ID=TBepi4208.genome.repeat.11;Product=repeat region;locus_tag=TBepi4208.genome.repeat.11
+TBepi4208.contig.42	feature	CDS	5520	5792	.	-	0	ID=TBepi4208.genome.CDS.1443;Product=NADH-ubiquinone oxidoreductase chain I %28EC 1.6.5.3%29;locus_tag=TBepi4208.genome.CDS.1443
+TBepi4208.contig.42	feature	CDS	4745	5527	.	-	0	ID=TBepi4208.genome.CDS.1442;Product=NADH-ubiquinone oxidoreductase chain J %28EC 1.6.5.3%29;locus_tag=TBepi4208.genome.CDS.1442
+TBepi4208.contig.42	feature	CDS	4445	4744	.	-	0	ID=TBepi4208.genome.CDS.1441;Product=NADH-ubiquinone oxidoreductase chain K %28EC 1.6.5.3%29;locus_tag=TBepi4208.genome.CDS.1441
+TBepi4208.contig.42	feature	CDS	2556	4445	.	-	0	ID=TBepi4208.genome.CDS.1440;Product=NADH-ubiquinone oxidoreductase chain L %28EC 1.6.5.3%29;locus_tag=TBepi4208.genome.CDS.1440
+TBepi4208.contig.42	feature	CDS	1051	2559	.	-	0	ID=TBepi4208.genome.CDS.1439;Product=NADH-ubiquinone oxidoreductase chain M %28EC 1.6.5.3%29;locus_tag=TBepi4208.genome.CDS.1439
+TBepi4208.contig.42	feature	CDS	2	1051	.	-	0	ID=TBepi4208.genome.CDS.1438;Product=NADH-ubiquinone oxidoreductase chain N %28EC 1.6.5.3%29;locus_tag=TBepi4208.genome.CDS.1438
+TBepi4208.contig.43	feature	misc_RNA	1	134	.	+	.	ID=TBepi4208.genome.repeat.21;Product=repeat region;locus_tag=TBepi4208.genome.repeat.21
+TBepi4208.contig.43	feature	misc_RNA	10569	10687	.	+	.	ID=TBepi4208.genome.repeat.22;Product=repeat region;locus_tag=TBepi4208.genome.repeat.22
+TBepi4208.contig.43	feature	CDS	10369	10686	.	+	0	ID=TBepi4208.genome.CDS.1456;Product=;locus_tag=TBepi4208.genome.CDS.1456
+TBepi4208.contig.43	feature	CDS	9254	10372	.	+	0	ID=TBepi4208.genome.CDS.1455;Product=;locus_tag=TBepi4208.genome.CDS.1455
+TBepi4208.contig.43	feature	CDS	8670	9257	.	+	0	ID=TBepi4208.genome.CDS.1454;Product=MutT/nudix family protein;locus_tag=TBepi4208.genome.CDS.1454
+TBepi4208.contig.43	feature	CDS	7195	8637	.	-	0	ID=TBepi4208.genome.CDS.1453;Product=tRNA nucleotidyltransferase %28EC 2.7.7.27%29;locus_tag=TBepi4208.genome.CDS.1453
+TBepi4208.contig.43	feature	CDS	5394	5903	.	-	0	ID=TBepi4208.genome.CDS.1451;Product=FIG00945513: hypothetical protein;locus_tag=TBepi4208.genome.CDS.1451
+TBepi4208.contig.43	feature	CDS	3386	5371	.	-	0	ID=TBepi4208.genome.CDS.1450;Product=Multimodular transpeptidase-transglycosylase %28EC 2.4.1.129%29 %28EC 3.4.-.-%29;locus_tag=TBepi4208.genome.CDS.1450
+TBepi4208.contig.43	feature	CDS	2183	3382	.	-	0	ID=TBepi4208.genome.CDS.1449;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1449
+TBepi4208.contig.43	feature	CDS	1791	2075	.	-	0	ID=TBepi4208.genome.CDS.1448;Product=SSU ribosomal protein S6p;locus_tag=TBepi4208.genome.CDS.1448
+TBepi4208.contig.43	feature	CDS	1233	1730	.	-	0	ID=TBepi4208.genome.CDS.1447;Product=Single-stranded DNA-binding protein;locus_tag=TBepi4208.genome.CDS.1447
+TBepi4208.contig.43	feature	CDS	888	1175	.	-	0	ID=TBepi4208.genome.CDS.1446;Product=SSU ribosomal protein S18p %40 SSU ribosomal protein S18p%2C zinc-dependent;locus_tag=TBepi4208.genome.CDS.1446
+TBepi4208.contig.43	feature	CDS	421	870	.	-	0	ID=TBepi4208.genome.CDS.1445;Product=LSU ribosomal protein L9p;locus_tag=TBepi4208.genome.CDS.1445
+TBepi4208.contig.43	feature	CDS	1	294	.	-	0	ID=TBepi4208.genome.CDS.1444;Product=Replicative DNA helicase %28DnaB%29 %28EC 3.6.4.12%29;locus_tag=TBepi4208.genome.CDS.1444
+TBepi4208.contig.44	feature	misc_RNA	11969	12818	.	+	.	ID=TBepi4208.genome.repeat.29;Product=repeat region;locus_tag=TBepi4208.genome.repeat.29
+TBepi4208.contig.44	feature	CDS	12476	12817	.	-	0	ID=TBepi4208.genome.CDS.1470;Product=;locus_tag=TBepi4208.genome.CDS.1470
+TBepi4208.contig.44	feature	CDS	11885	12475	.	+	0	ID=TBepi4208.genome.CDS.1469;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1469
+TBepi4208.contig.44	feature	CDS	10960	11892	.	+	0	ID=TBepi4208.genome.CDS.1468;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1468
+TBepi4208.contig.44	feature	CDS	9827	10960	.	+	0	ID=TBepi4208.genome.CDS.1467;Product=Cell envelope-associated transcriptional attenuator LytR-CpsA-Psr%2C subfamily A1 %28as in PMID19099556%29;locus_tag=TBepi4208.genome.CDS.1467
+TBepi4208.contig.44	feature	CDS	9044	9784	.	-	0	ID=TBepi4208.genome.CDS.1466;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1466
+TBepi4208.contig.44	feature	CDS	8667	9047	.	-	0	ID=TBepi4208.genome.CDS.1465;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1465
+TBepi4208.contig.44	feature	CDS	7438	8664	.	-	0	ID=TBepi4208.genome.CDS.1464;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1464
+TBepi4208.contig.44	feature	CDS	6209	7375	.	-	0	ID=TBepi4208.genome.CDS.1463;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1463
+TBepi4208.contig.44	feature	CDS	5208	6212	.	+	0	ID=TBepi4208.genome.CDS.1462;Product=;locus_tag=TBepi4208.genome.CDS.1462
+TBepi4208.contig.44	feature	CDS	3788	5074	.	-	0	ID=TBepi4208.genome.CDS.1461;Product=extracellular solute-binding protein%2C family 1;locus_tag=TBepi4208.genome.CDS.1461
+TBepi4208.contig.44	feature	CDS	2794	3702	.	-	0	ID=TBepi4208.genome.CDS.1460;Product=N-Acetyl-D-glucosamine ABC transport system%2C permease protein 1;locus_tag=TBepi4208.genome.CDS.1460
+TBepi4208.contig.44	feature	CDS	1961	2797	.	-	0	ID=TBepi4208.genome.CDS.1459;Product=Multiple sugar ABC transporter%2C membrane-spanning permease protein MsmG;locus_tag=TBepi4208.genome.CDS.1459
+TBepi4208.contig.44	feature	CDS	281	1960	.	-	0	ID=TBepi4208.genome.CDS.1458;Product=Alpha-glucosidase %28EC 3.2.1.20%29;locus_tag=TBepi4208.genome.CDS.1458
+TBepi4208.contig.44	feature	CDS	92	280	.	+	0	ID=TBepi4208.genome.CDS.426;Product=Tryptophan 2%2C3-dioxygenase %28EC 1.13.11.11%29;locus_tag=TBepi4208.genome.CDS.426
+TBepi4208.contig.45	feature	misc_RNA	15504	16353	.	+	.	ID=TBepi4208.genome.repeat.42;Product=repeat region;locus_tag=TBepi4208.genome.repeat.42
+TBepi4208.contig.45	feature	CDS	15847	16362	.	-	0	ID=TBepi4208.genome.CDS.1485;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1485
+TBepi4208.contig.45	feature	CDS	14881	15846	.	+	0	ID=TBepi4208.genome.CDS.1484;Product=;locus_tag=TBepi4208.genome.CDS.1484
+TBepi4208.contig.45	feature	CDS	14388	14870	.	+	0	ID=TBepi4208.genome.CDS.1483;Product=;locus_tag=TBepi4208.genome.CDS.1483
+TBepi4208.contig.45	feature	CDS	13405	14304	.	-	0	ID=TBepi4208.genome.CDS.1482;Product=Heme ABC transporter%2C cell surface heme and hemoprotein receptor HmuT;locus_tag=TBepi4208.genome.CDS.1482
+TBepi4208.contig.45	feature	CDS	12425	13408	.	-	0	ID=TBepi4208.genome.CDS.1481;Product=Hemin ABC transporter%2C permease protein;locus_tag=TBepi4208.genome.CDS.1481
+TBepi4208.contig.45	feature	CDS	11830	12432	.	-	0	ID=TBepi4208.genome.CDS.1480;Product=;locus_tag=TBepi4208.genome.CDS.1480
+TBepi4208.contig.45	feature	CDS	10050	11843	.	+	0	ID=TBepi4208.genome.CDS.1479;Product=ATP-dependent RNA helicase;locus_tag=TBepi4208.genome.CDS.1479
+TBepi4208.contig.45	feature	CDS	9277	9912	.	+	0	ID=TBepi4208.genome.CDS.1478;Product=;locus_tag=TBepi4208.genome.CDS.1478
+TBepi4208.contig.45	feature	CDS	8579	9277	.	+	0	ID=TBepi4208.genome.CDS.1477;Product=Putative amidotransferase similar to cobyric acid synthase;locus_tag=TBepi4208.genome.CDS.1477
+TBepi4208.contig.45	feature	CDS	7461	8582	.	+	0	ID=TBepi4208.genome.CDS.1476;Product=proposed amino acid ligase found clustered with an amidotransferase;locus_tag=TBepi4208.genome.CDS.1476
+TBepi4208.contig.45	feature	CDS	5390	7444	.	+	0	ID=TBepi4208.genome.CDS.1475;Product=O-antigen acetylase;locus_tag=TBepi4208.genome.CDS.1475
+TBepi4208.contig.45	feature	tRNA	5255	5329	.	+	.	ID=TBepi4208.genome.rna.13;Product=tRNA-Thr-CGT;locus_tag=TBepi4208.genome.rna.13
+TBepi4208.contig.45	feature	CDS	4590	5234	.	+	0	ID=TBepi4208.genome.CDS.1474;Product=;locus_tag=TBepi4208.genome.CDS.1474
+TBepi4208.contig.45	feature	CDS	3082	4560	.	+	0	ID=TBepi4208.genome.CDS.1473;Product=probable exported protease %5BEC:3.4.-.-%5D;locus_tag=TBepi4208.genome.CDS.1473
+TBepi4208.contig.45	feature	CDS	1943	3085	.	+	0	ID=TBepi4208.genome.CDS.1472;Product=DNA polymerase III delta prime subunit %28EC 2.7.7.7%29;locus_tag=TBepi4208.genome.CDS.1472
+TBepi4208.contig.45	feature	CDS	3	1943	.	+	0	ID=TBepi4208.genome.CDS.1471;Product=Thymidylate kinase %28EC 2.7.4.9%29;locus_tag=TBepi4208.genome.CDS.1471
+TBepi4208.contig.46	feature	misc_RNA	1	119	.	+	.	ID=TBepi4208.genome.repeat.34;Product=repeat region;locus_tag=TBepi4208.genome.repeat.34
+TBepi4208.contig.46	feature	CDS	19561	20472	.	+	0	ID=TBepi4208.genome.CDS.1506;Product=FIG00474716: hypothetical protein;locus_tag=TBepi4208.genome.CDS.1506
+TBepi4208.contig.46	feature	tRNA	19429	19501	.	+	.	ID=TBepi4208.genome.rna.15;Product=tRNA-Ala-TGC;locus_tag=TBepi4208.genome.rna.15
+TBepi4208.contig.46	feature	tRNA	19286	19363	.	+	.	ID=TBepi4208.genome.rna.14;Product=tRNA-Ile-GAT;locus_tag=TBepi4208.genome.rna.14
+TBepi4208.contig.46	feature	CDS	17763	19220	.	+	0	ID=TBepi4208.genome.CDS.1505;Product=DNA gyrase subunit A %28EC 5.99.1.3%29;locus_tag=TBepi4208.genome.CDS.1505
+TBepi4208.contig.46	feature	CDS	16730	17806	.	+	0	ID=TBepi4208.genome.CDS.1504;Product=DNA gyrase subunit A %28EC 5.99.1.3%29;locus_tag=TBepi4208.genome.CDS.1504
+TBepi4208.contig.46	feature	CDS	14775	16730	.	+	0	ID=TBepi4208.genome.CDS.1503;Product=DNA gyrase subunit B %28EC 5.99.1.3%29;locus_tag=TBepi4208.genome.CDS.1503
+TBepi4208.contig.46	feature	CDS	14162	14623	.	+	0	ID=TBepi4208.genome.CDS.1502;Product=Zn-ribbon-containing%2C possibly RNA-binding protein and truncated derivatives;locus_tag=TBepi4208.genome.CDS.1502
+TBepi4208.contig.46	feature	CDS	13068	14162	.	+	0	ID=TBepi4208.genome.CDS.1501;Product=DNA recombination and repair protein RecF;locus_tag=TBepi4208.genome.CDS.1501
+TBepi4208.contig.46	feature	CDS	11928	13055	.	+	0	ID=TBepi4208.genome.CDS.1500;Product=DNA polymerase III beta subunit %28EC 2.7.7.7%29;locus_tag=TBepi4208.genome.CDS.1500
+TBepi4208.contig.46	feature	CDS	10208	11626	.	+	0	ID=TBepi4208.genome.CDS.1499;Product=Chromosomal replication initiator protein DnaA;locus_tag=TBepi4208.genome.CDS.1499
+TBepi4208.contig.46	feature	CDS	9741	9878	.	-	0	ID=TBepi4208.genome.CDS.1498;Product=LSU ribosomal protein L34p;locus_tag=TBepi4208.genome.CDS.1498
+TBepi4208.contig.46	feature	CDS	9378	9728	.	-	0	ID=TBepi4208.genome.CDS.1497;Product=Ribonuclease P protein component %28EC 3.1.26.5%29;locus_tag=TBepi4208.genome.CDS.1497
+TBepi4208.contig.46	feature	CDS	9160	9381	.	-	0	ID=TBepi4208.genome.CDS.1496;Product=Protein YidD;locus_tag=TBepi4208.genome.CDS.1496
+TBepi4208.contig.46	feature	CDS	8234	9163	.	-	0	ID=TBepi4208.genome.CDS.1495;Product=Inner membrane protein translocase component YidC%2C long form;locus_tag=TBepi4208.genome.CDS.1495
+TBepi4208.contig.46	feature	CDS	7652	8149	.	-	0	ID=TBepi4208.genome.CDS.1494;Product=RNA-binding protein Jag;locus_tag=TBepi4208.genome.CDS.1494
+TBepi4208.contig.46	feature	CDS	6995	7615	.	-	0	ID=TBepi4208.genome.CDS.1493;Product=rRNA small subunit 7-methylguanosine %28m7G%29 methyltransferase GidB;locus_tag=TBepi4208.genome.CDS.1493
+TBepi4208.contig.46	feature	CDS	6035	6985	.	-	0	ID=TBepi4208.genome.CDS.1492;Product=Chromosome %28plasmid%29 partitioning protein ParA;locus_tag=TBepi4208.genome.CDS.1492
+TBepi4208.contig.46	feature	CDS	5175	6038	.	-	0	ID=TBepi4208.genome.CDS.1491;Product=Chromosome %28plasmid%29 partitioning protein ParB;locus_tag=TBepi4208.genome.CDS.1491
+TBepi4208.contig.46	feature	CDS	3929	5182	.	+	0	ID=TBepi4208.genome.CDS.1490;Product=Aspartate aminotransferase %28AspB-4%29 %28EC 2.6.1.1%29;locus_tag=TBepi4208.genome.CDS.1490
+TBepi4208.contig.46	feature	CDS	2774	3871	.	+	0	ID=TBepi4208.genome.CDS.1489;Product=N-acetylmuramoyl-L-alanine amidase %28EC 3.5.1.28%29;locus_tag=TBepi4208.genome.CDS.1489
+TBepi4208.contig.46	feature	CDS	2428	2751	.	+	0	ID=TBepi4208.genome.CDS.1488;Product=Thioredoxin;locus_tag=TBepi4208.genome.CDS.1488
+TBepi4208.contig.46	feature	CDS	1408	2343	.	+	0	ID=TBepi4208.genome.CDS.1487;Product=Thioredoxin reductase %28EC 1.8.1.9%29;locus_tag=TBepi4208.genome.CDS.1487
+TBepi4208.contig.46	feature	CDS	2	1411	.	+	0	ID=TBepi4208.genome.CDS.1486;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1486
+TBepi4208.contig.47	feature	CDS	2568	3524	.	+	0	ID=TBepi4208.genome.CDS.1508;Product=;locus_tag=TBepi4208.genome.CDS.1508
+TBepi4208.contig.47	feature	CDS	1	2571	.	+	0	ID=TBepi4208.genome.CDS.1507;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1507
+TBepi4208.contig.48	feature	CDS	4949	5500	.	-	0	ID=TBepi4208.genome.CDS.1513;Product=L-fuconolactone hydrolase;locus_tag=TBepi4208.genome.CDS.1513
+TBepi4208.contig.48	feature	CDS	3833	4822	.	-	0	ID=TBepi4208.genome.CDS.1512;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1512
+TBepi4208.contig.48	feature	CDS	2163	3668	.	-	0	ID=TBepi4208.genome.CDS.1511;Product=Ribose ABC transport system%2C ATP-binding protein RbsA %28TC 3.A.1.2.1%29;locus_tag=TBepi4208.genome.CDS.1511
+TBepi4208.contig.48	feature	CDS	1134	2144	.	-	0	ID=TBepi4208.genome.CDS.1510;Product=Ribose ABC transport system%2C permease protein RbsC %28TC 3.A.1.2.1%29;locus_tag=TBepi4208.genome.CDS.1510
+TBepi4208.contig.48	feature	CDS	92	1072	.	-	0	ID=TBepi4208.genome.CDS.1509;Product=Aldo-keto reductase;locus_tag=TBepi4208.genome.CDS.1509
+TBepi4208.contig.49	feature	CDS	4791	5324	.	-	0	ID=TBepi4208.genome.CDS.1520;Product=putative secreted protein;locus_tag=TBepi4208.genome.CDS.1520
+TBepi4208.contig.49	feature	CDS	4104	4820	.	+	0	ID=TBepi4208.genome.CDS.1519;Product=;locus_tag=TBepi4208.genome.CDS.1519
+TBepi4208.contig.49	feature	CDS	3805	4062	.	-	0	ID=TBepi4208.genome.CDS.1518;Product=;locus_tag=TBepi4208.genome.CDS.1518
+TBepi4208.contig.49	feature	CDS	2933	3670	.	-	0	ID=TBepi4208.genome.CDS.1517;Product=DNA-binding response regulator;locus_tag=TBepi4208.genome.CDS.1517
+TBepi4208.contig.49	feature	CDS	1443	2918	.	-	0	ID=TBepi4208.genome.CDS.1516;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1516
+TBepi4208.contig.49	feature	CDS	522	1436	.	+	0	ID=TBepi4208.genome.CDS.1515;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1515
+TBepi4208.contig.49	feature	CDS	1	519	.	+	0	ID=TBepi4208.genome.CDS.1514;Product=LemA protein;locus_tag=TBepi4208.genome.CDS.1514
+TBepi4208.contig.5	feature	misc_RNA	307	916	.	+	.	ID=TBepi4208.genome.repeat.20;Product=repeat region;locus_tag=TBepi4208.genome.repeat.20
+TBepi4208.contig.5	feature	CDS	13031	14458	.	+	0	ID=TBepi4208.genome.CDS.1088;Product=Xaa-Pro aminopeptidase %28EC 3.4.11.9%29;locus_tag=TBepi4208.genome.CDS.1088
+TBepi4208.contig.5	feature	CDS	12381	13001	.	-	0	ID=TBepi4208.genome.CDS.1087;Product=Pantothenate kinase %28EC 2.7.1.33%29;locus_tag=TBepi4208.genome.CDS.1087
+TBepi4208.contig.5	feature	CDS	11839	12384	.	+	0	ID=TBepi4208.genome.CDS.1086;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1086
+TBepi4208.contig.5	feature	tRNA	11637	11725	.	-	.	ID=TBepi4208.genome.rna.1;Product=tRNA-Ser-GCT;locus_tag=TBepi4208.genome.rna.1
+TBepi4208.contig.5	feature	CDS	9925	11604	.	-	0	ID=TBepi4208.genome.CDS.1085;Product=drug transport protein%2C putative;locus_tag=TBepi4208.genome.CDS.1085
+TBepi4208.contig.5	feature	CDS	8634	9914	.	-	0	ID=TBepi4208.genome.CDS.1084;Product=Ferredoxin--NADP%28%2B%29 reductase%2C actinobacterial %28eukaryote-like%29 type %28EC 1.18.1.2%29;locus_tag=TBepi4208.genome.CDS.1084
+TBepi4208.contig.5	feature	tRNA	8521	8596	.	-	.	ID=TBepi4208.genome.rna.2;Product=tRNA-Arg-ACG;locus_tag=TBepi4208.genome.rna.2
+TBepi4208.contig.5	feature	CDS	7137	8456	.	-	0	ID=TBepi4208.genome.CDS.1083;Product=;locus_tag=TBepi4208.genome.CDS.1083
+TBepi4208.contig.5	feature	CDS	6477	7127	.	-	0	ID=TBepi4208.genome.CDS.1082;Product=;locus_tag=TBepi4208.genome.CDS.1082
+TBepi4208.contig.5	feature	CDS	5309	6487	.	+	0	ID=TBepi4208.genome.CDS.1081;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1081
+TBepi4208.contig.5	feature	CDS	3237	5210	.	-	0	ID=TBepi4208.genome.CDS.1080;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1080
+TBepi4208.contig.5	feature	CDS	2185	3189	.	-	0	ID=TBepi4208.genome.CDS.1079;Product=Myo-inositol 2-dehydrogenase %28EC 1.1.1.18%29;locus_tag=TBepi4208.genome.CDS.1079
+TBepi4208.contig.5	feature	CDS	1898	2185	.	-	0	ID=TBepi4208.genome.CDS.1078;Product=;locus_tag=TBepi4208.genome.CDS.1078
+TBepi4208.contig.5	feature	CDS	277	1905	.	+	0	ID=TBepi4208.genome.CDS.1077;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1077
+TBepi4208.contig.5	feature	CDS	3	245	.	+	0	ID=TBepi4208.genome.CDS.1076;Product=;locus_tag=TBepi4208.genome.CDS.1076
+TBepi4208.contig.50	feature	CDS	6444	7415	.	-	0	ID=TBepi4208.genome.CDS.1528;Product=Membrane-associated zinc metalloprotease;locus_tag=TBepi4208.genome.CDS.1528
+TBepi4208.contig.50	feature	CDS	5278	6429	.	-	0	ID=TBepi4208.genome.CDS.1527;Product=1-hydroxy-2-methyl-2-%28E%29-butenyl 4-diphosphate synthase %28EC 1.17.7.1%29;locus_tag=TBepi4208.genome.CDS.1527
+TBepi4208.contig.50	feature	CDS	4957	5226	.	-	0	ID=TBepi4208.genome.CDS.495;Product=Prolyl-tRNA synthetase %28EC 6.1.1.15%29%2C bacterial type;locus_tag=TBepi4208.genome.CDS.495
+TBepi4208.contig.50	feature	CDS	3496	4875	.	-	0	ID=TBepi4208.genome.CDS.494;Product=Prolyl-tRNA synthetase %28EC 6.1.1.15%29%2C bacterial type;locus_tag=TBepi4208.genome.CDS.494
+TBepi4208.contig.50	feature	CDS	2707	3483	.	-	0	ID=TBepi4208.genome.CDS.1525;Product=;locus_tag=TBepi4208.genome.CDS.1525
+TBepi4208.contig.50	feature	CDS	2230	2664	.	-	0	ID=TBepi4208.genome.CDS.1524;Product=FIG000325: clustered with transcription termination protein NusA;locus_tag=TBepi4208.genome.CDS.1524
+TBepi4208.contig.50	feature	CDS	1178	2233	.	-	0	ID=TBepi4208.genome.CDS.1523;Product=Transcription termination protein NusA;locus_tag=TBepi4208.genome.CDS.1523
+TBepi4208.contig.50	feature	CDS	858	1103	.	-	0	ID=TBepi4208.genome.CDS.1522;Product=;locus_tag=TBepi4208.genome.CDS.1522
+TBepi4208.contig.50	feature	CDS	1	708	.	-	0	ID=TBepi4208.genome.CDS.1521;Product=Translation initiation factor 2;locus_tag=TBepi4208.genome.CDS.1521
+TBepi4208.contig.51	feature	CDS	9076	9903	.	+	0	ID=TBepi4208.genome.CDS.1537;Product=Heat shock protein 60 family chaperone GroEL;locus_tag=TBepi4208.genome.CDS.1537
+TBepi4208.contig.51	feature	CDS	8035	8913	.	+	0	ID=TBepi4208.genome.CDS.1536;Product=;locus_tag=TBepi4208.genome.CDS.1536
+TBepi4208.contig.51	feature	CDS	6804	8042	.	+	0	ID=TBepi4208.genome.CDS.1535;Product=Cell division protein FtsX;locus_tag=TBepi4208.genome.CDS.1535
+TBepi4208.contig.51	feature	CDS	6106	6807	.	+	0	ID=TBepi4208.genome.CDS.1534;Product=Cell division transporter%2C ATP-binding protein FtsE %28TC 3.A.5.1.1%29;locus_tag=TBepi4208.genome.CDS.1534
+TBepi4208.contig.51	feature	CDS	4577	6106	.	+	0	ID=TBepi4208.genome.CDS.1533;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1533
+TBepi4208.contig.51	feature	CDS	4232	4498	.	+	0	ID=TBepi4208.genome.CDS.1532;Product=FIG00822394: hypothetical protein;locus_tag=TBepi4208.genome.CDS.1532
+TBepi4208.contig.51	feature	CDS	2837	4189	.	+	0	ID=TBepi4208.genome.CDS.1531;Product=Aromatic-L-amino-acid decarboxylase %28EC 4.1.1.28%29;locus_tag=TBepi4208.genome.CDS.1531
+TBepi4208.contig.51	feature	CDS	1328	2833	.	+	0	ID=TBepi4208.genome.CDS.1530;Product=Putative nucleoside-diphosphate-sugar epimerase;locus_tag=TBepi4208.genome.CDS.1530
+TBepi4208.contig.51	feature	CDS	66	1304	.	-	0	ID=TBepi4208.genome.CDS.1529;Product=NADH dehydrogenase %28EC 1.6.99.3%29;locus_tag=TBepi4208.genome.CDS.1529
+TBepi4208.contig.52	feature	misc_RNA	1	153	.	+	.	ID=TBepi4208.genome.repeat.17;Product=repeat region;locus_tag=TBepi4208.genome.repeat.17
+TBepi4208.contig.52	feature	CDS	9117	9443	.	+	0	ID=TBepi4208.genome.CDS.1549;Product=Tryptophan synthase alpha chain %28EC 4.2.1.20%29;locus_tag=TBepi4208.genome.CDS.1549
+TBepi4208.contig.52	feature	CDS	7906	9120	.	+	0	ID=TBepi4208.genome.CDS.1548;Product=Tryptophan synthase beta chain %28EC 4.2.1.20%29;locus_tag=TBepi4208.genome.CDS.1548
+TBepi4208.contig.52	feature	CDS	7102	7878	.	+	0	ID=TBepi4208.genome.CDS.1547;Product=Indole-3-glycerol phosphate synthase %28EC 4.1.1.48%29;locus_tag=TBepi4208.genome.CDS.1547
+TBepi4208.contig.52	feature	CDS	6956	7105	.	+	0	ID=TBepi4208.genome.CDS.1546;Product=;locus_tag=TBepi4208.genome.CDS.1546
+TBepi4208.contig.52	feature	CDS	5454	6959	.	+	0	ID=TBepi4208.genome.CDS.1545;Product=Anthranilate synthase%2C aminase component %28EC 4.1.3.27%29;locus_tag=TBepi4208.genome.CDS.1545
+TBepi4208.contig.52	feature	CDS	5085	5426	.	+	0	ID=TBepi4208.genome.CDS.1544;Product=Phosphoribosyl-AMP cyclohydrolase %28EC 3.5.4.19%29;locus_tag=TBepi4208.genome.CDS.1544
+TBepi4208.contig.52	feature	CDS	4299	5060	.	+	0	ID=TBepi4208.genome.CDS.1543;Product=Imidazole glycerol phosphate synthase cyclase subunit %28EC 4.1.3.-%29;locus_tag=TBepi4208.genome.CDS.1543
+TBepi4208.contig.52	feature	CDS	3568	4302	.	+	0	ID=TBepi4208.genome.CDS.1542;Product=Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase %28EC 5.3.1.16%29 %40 Acting phosphoribosylanthranilate isomerase %28EC 5.3.1.24%29;locus_tag=TBepi4208.genome.CDS.1542
+TBepi4208.contig.52	feature	CDS	2975	3571	.	+	0	ID=TBepi4208.genome.CDS.1541;Product=Imidazole glycerol phosphate synthase amidotransferase subunit %28EC 2.4.2.-%29;locus_tag=TBepi4208.genome.CDS.1541
+TBepi4208.contig.52	feature	CDS	2394	2978	.	+	0	ID=TBepi4208.genome.CDS.1540;Product=Imidazoleglycerol-phosphate dehydratase %28EC 4.2.1.19%29;locus_tag=TBepi4208.genome.CDS.1540
+TBepi4208.contig.52	feature	CDS	1235	2341	.	+	0	ID=TBepi4208.genome.CDS.1539;Product=Histidinol-phosphate aminotransferase %28EC 2.6.1.9%29;locus_tag=TBepi4208.genome.CDS.1539
+TBepi4208.contig.52	feature	CDS	1	1248	.	+	0	ID=TBepi4208.genome.CDS.1538;Product=Histidinol dehydrogenase %28EC 1.1.1.23%29;locus_tag=TBepi4208.genome.CDS.1538
+TBepi4208.contig.53	feature	CDS	9380	10480	.	-	0	ID=TBepi4208.genome.CDS.1558;Product=ABC transporter ATP-binding protein;locus_tag=TBepi4208.genome.CDS.1558
+TBepi4208.contig.53	feature	CDS	8054	9361	.	+	0	ID=TBepi4208.genome.CDS.1557;Product=Glutamate-1-semialdehyde aminotransferase %28EC 5.4.3.8%29;locus_tag=TBepi4208.genome.CDS.1557
+TBepi4208.contig.53	feature	CDS	7045	7755	.	-	0	ID=TBepi4208.genome.CDS.1556;Product=;locus_tag=TBepi4208.genome.CDS.1556
+TBepi4208.contig.53	feature	CDS	5449	6990	.	+	0	ID=TBepi4208.genome.CDS.1555;Product=Amino acid/metabolite permease in hypothetical Actinobacterial gene cluster%3B BAT1-like;locus_tag=TBepi4208.genome.CDS.1555
+TBepi4208.contig.53	feature	CDS	3881	5230	.	-	0	ID=TBepi4208.genome.CDS.1554;Product=Glutamine synthetase family protein in hypothetical Actinobacterial gene cluster;locus_tag=TBepi4208.genome.CDS.1554
+TBepi4208.contig.53	feature	CDS	2511	3875	.	-	0	ID=TBepi4208.genome.CDS.1553;Product=Aldehyde dehydrogenase in hypothetical Actinobacterial gene cluster;locus_tag=TBepi4208.genome.CDS.1553
+TBepi4208.contig.53	feature	CDS	1720	2490	.	-	0	ID=TBepi4208.genome.CDS.1552;Product=Short-chain dehydrogenase/reductase in hypothetical Actinobacterial gene cluster;locus_tag=TBepi4208.genome.CDS.1552
+TBepi4208.contig.53	feature	CDS	968	1693	.	-	0	ID=TBepi4208.genome.CDS.1551;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1551
+TBepi4208.contig.53	feature	CDS	3	947	.	-	0	ID=TBepi4208.genome.CDS.1550;Product=transmembrane efflux protein;locus_tag=TBepi4208.genome.CDS.1550
+TBepi4208.contig.54	feature	tRNA	9133	9220	.	-	.	ID=TBepi4208.genome.rna.16;Product=tRNA-Ser-GGA;locus_tag=TBepi4208.genome.rna.16
+TBepi4208.contig.54	feature	CDS	8533	9024	.	-	0	ID=TBepi4208.genome.CDS.1567;Product=;locus_tag=TBepi4208.genome.CDS.1567
+TBepi4208.contig.54	feature	CDS	8357	8518	.	-	0	ID=TBepi4208.genome.CDS.532;Product=;locus_tag=TBepi4208.genome.CDS.532
+TBepi4208.contig.54	feature	CDS	6936	8360	.	+	0	ID=TBepi4208.genome.CDS.1565;Product=Succinate-semialdehyde dehydrogenase %5BNAD%28P%29%2B%5D %28EC 1.2.1.16%29;locus_tag=TBepi4208.genome.CDS.1565
+TBepi4208.contig.54	feature	CDS	4514	6862	.	-	0	ID=TBepi4208.genome.CDS.1564;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1564
+TBepi4208.contig.54	feature	CDS	3716	4498	.	-	0	ID=TBepi4208.genome.CDS.1563;Product=Protein serine/threonine phosphatase PrpC%2C regulation of stationary phase;locus_tag=TBepi4208.genome.CDS.1563
+TBepi4208.contig.54	feature	CDS	2176	3729	.	-	0	ID=TBepi4208.genome.CDS.1562;Product=Serine/threonine protein kinase PrkC%2C regulator of stationary phase;locus_tag=TBepi4208.genome.CDS.1562
+TBepi4208.contig.54	feature	CDS	1541	2179	.	+	0	ID=TBepi4208.genome.CDS.1561;Product=Anthranilate synthase%2C amidotransferase component %28EC 4.1.3.27%29 %40 Para-aminobenzoate synthase%2C amidotransferase component %28EC 2.6.1.85%29;locus_tag=TBepi4208.genome.CDS.1561
+TBepi4208.contig.54	feature	CDS	485	1540	.	+	0	ID=TBepi4208.genome.CDS.1560;Product=Aspartate-semialdehyde dehydrogenase %28EC 1.2.1.11%29;locus_tag=TBepi4208.genome.CDS.1560
+TBepi4208.contig.54	feature	CDS	3	488	.	+	0	ID=TBepi4208.genome.CDS.1559;Product=Aspartokinase %28EC 2.7.2.4%29;locus_tag=TBepi4208.genome.CDS.1559
+TBepi4208.contig.55	feature	misc_RNA	1	515	.	+	.	ID=TBepi4208.genome.repeat.35;Product=repeat region;locus_tag=TBepi4208.genome.repeat.35
+TBepi4208.contig.55	feature	CDS	13872	13958	.	+	0	ID=TBepi4208.genome.CDS.1583;Product=;locus_tag=TBepi4208.genome.CDS.1583
+TBepi4208.contig.55	feature	CDS	12176	13858	.	+	0	ID=TBepi4208.genome.CDS.1582;Product=Dihydrolipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex %28EC 2.3.1.168%29;locus_tag=TBepi4208.genome.CDS.1582
+TBepi4208.contig.55	feature	CDS	10794	12161	.	+	0	ID=TBepi4208.genome.CDS.1581;Product=Dihydrolipoamide dehydrogenase of branched-chain alpha-keto acid dehydrogenase %28EC 1.8.1.4%29;locus_tag=TBepi4208.genome.CDS.1581
+TBepi4208.contig.55	feature	CDS	9168	10700	.	+	0	ID=TBepi4208.genome.CDS.1580;Product=Cytosol aminopeptidase PepA %28EC 3.4.11.1%29;locus_tag=TBepi4208.genome.CDS.1580
+TBepi4208.contig.55	feature	CDS	8011	9126	.	-	0	ID=TBepi4208.genome.CDS.1579;Product=Aminomethyltransferase %28glycine cleavage system T protein%29 %28EC 2.1.2.10%29;locus_tag=TBepi4208.genome.CDS.1579
+TBepi4208.contig.55	feature	CDS	7260	8018	.	+	0	ID=TBepi4208.genome.CDS.1578;Product=;locus_tag=TBepi4208.genome.CDS.1578
+TBepi4208.contig.55	feature	CDS	6226	7263	.	+	0	ID=TBepi4208.genome.CDS.1577;Product=Vitamin B12 ABC transporter%2C permease component BtuC;locus_tag=TBepi4208.genome.CDS.1577
+TBepi4208.contig.55	feature	CDS	5349	6200	.	+	0	ID=TBepi4208.genome.CDS.1576;Product=Vitamin B12 ABC transporter%2C B12-binding component BtuF;locus_tag=TBepi4208.genome.CDS.1576
+TBepi4208.contig.55	feature	CDS	4871	5131	.	+	0	ID=TBepi4208.genome.CDS.1575;Product=;locus_tag=TBepi4208.genome.CDS.1575
+TBepi4208.contig.55	feature	CDS	4312	4848	.	+	0	ID=TBepi4208.genome.CDS.1574;Product=CblZ%2C a non-orthologous displasment for Alpha-ribazole-5%27-phosphate phosphatase;locus_tag=TBepi4208.genome.CDS.1574
+TBepi4208.contig.55	feature	CDS	3122	4273	.	+	0	ID=TBepi4208.genome.CDS.1573;Product=Quinolinate synthetase %28EC 2.5.1.72%29;locus_tag=TBepi4208.genome.CDS.1573
+TBepi4208.contig.55	feature	CDS	2713	3093	.	-	0	ID=TBepi4208.genome.CDS.1572;Product=probable iron binding protein from the HesB_IscA_SufA family;locus_tag=TBepi4208.genome.CDS.1572
+TBepi4208.contig.55	feature	CDS	1689	2678	.	-	0	ID=TBepi4208.genome.CDS.1571;Product=putative Adenosine kinase %28EC 2.7.1.20%29;locus_tag=TBepi4208.genome.CDS.1571
+TBepi4208.contig.55	feature	CDS	656	1663	.	+	0	ID=TBepi4208.genome.CDS.1570;Product=;locus_tag=TBepi4208.genome.CDS.1570
+TBepi4208.contig.55	feature	CDS	1	561	.	-	0	ID=TBepi4208.genome.CDS.1569;Product=Cytochrome c oxidase polypeptide II %28EC 1.9.3.1%29;locus_tag=TBepi4208.genome.CDS.1569
+TBepi4208.contig.56	feature	CDS	8832	9911	.	+	0	ID=TBepi4208.genome.CDS.1594;Product=Seryl-tRNA synthetase %28EC 6.1.1.11%29;locus_tag=TBepi4208.genome.CDS.1594
+TBepi4208.contig.56	feature	CDS	7999	8835	.	+	0	ID=TBepi4208.genome.CDS.1593;Product=Prephenate dehydratase %28EC 4.2.1.51%29;locus_tag=TBepi4208.genome.CDS.1593
+TBepi4208.contig.56	feature	CDS	7330	7995	.	+	0	ID=TBepi4208.genome.CDS.1592;Product=Glycerophosphoryl diester phosphodiesterase %28EC 3.1.4.46%29;locus_tag=TBepi4208.genome.CDS.1592
+TBepi4208.contig.56	feature	tRNA	7199	7288	.	+	.	ID=TBepi4208.genome.rna.17;Product=tRNA-Ser-CGA;locus_tag=TBepi4208.genome.rna.17
+TBepi4208.contig.56	feature	CDS	6740	7171	.	+	0	ID=TBepi4208.genome.CDS.553;Product=tRNA-specific adenosine-34 deaminase %28EC 3.5.4.-%29;locus_tag=TBepi4208.genome.CDS.553
+TBepi4208.contig.56	feature	CDS	6265	6726	.	+	0	ID=TBepi4208.genome.CDS.1590;Product=;locus_tag=TBepi4208.genome.CDS.1590
+TBepi4208.contig.56	feature	CDS	5517	6221	.	-	0	ID=TBepi4208.genome.CDS.1589;Product=Uracil phosphoribosyltransferase %28EC 2.4.2.9%29;locus_tag=TBepi4208.genome.CDS.1589
+TBepi4208.contig.56	feature	CDS	4128	5516	.	-	0	ID=TBepi4208.genome.CDS.1588;Product=NADP-dependent malic enzyme %28EC 1.1.1.40%29;locus_tag=TBepi4208.genome.CDS.1588
+TBepi4208.contig.56	feature	CDS	3248	4156	.	+	0	ID=TBepi4208.genome.CDS.1587;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1587
+TBepi4208.contig.56	feature	CDS	1414	3195	.	+	0	ID=TBepi4208.genome.CDS.1586;Product=COG0488: ATPase components of ABC transporters with duplicated ATPase domains;locus_tag=TBepi4208.genome.CDS.1586
+TBepi4208.contig.56	feature	CDS	103	1377	.	-	0	ID=TBepi4208.genome.CDS.1585;Product=Kynureninase %28EC 3.7.1.3%29;locus_tag=TBepi4208.genome.CDS.1585
+TBepi4208.contig.56	feature	CDS	2	106	.	-	0	ID=TBepi4208.genome.CDS.1584;Product=Tryptophan 2%2C3-dioxygenase %28EC 1.13.11.11%29;locus_tag=TBepi4208.genome.CDS.1584
+TBepi4208.contig.57	feature	misc_RNA	1	153	.	+	.	ID=TBepi4208.genome.repeat.43;Product=repeat region;locus_tag=TBepi4208.genome.repeat.43
+TBepi4208.contig.57	feature	CDS	31881	32087	.	+	0	ID=TBepi4208.genome.CDS.1622;Product=;locus_tag=TBepi4208.genome.CDS.1622
+TBepi4208.contig.57	feature	CDS	31325	31666	.	-	0	ID=TBepi4208.genome.CDS.1621;Product=;locus_tag=TBepi4208.genome.CDS.1621
+TBepi4208.contig.57	feature	CDS	27973	31305	.	-	0	ID=TBepi4208.genome.CDS.1620;Product=DNA polymerase III alpha subunit %28EC 2.7.7.7%29;locus_tag=TBepi4208.genome.CDS.1620
+TBepi4208.contig.57	feature	CDS	26793	27980	.	-	0	ID=TBepi4208.genome.CDS.1619;Product=DNA polymerase IV %28EC 2.7.7.7%29;locus_tag=TBepi4208.genome.CDS.1619
+TBepi4208.contig.57	feature	CDS	26415	26780	.	-	0	ID=TBepi4208.genome.CDS.1618;Product=;locus_tag=TBepi4208.genome.CDS.1618
+TBepi4208.contig.57	feature	CDS	25768	26199	.	-	0	ID=TBepi4208.genome.CDS.1617;Product=Cell division protein MraZ;locus_tag=TBepi4208.genome.CDS.1617
+TBepi4208.contig.57	feature	CDS	24616	25560	.	-	0	ID=TBepi4208.genome.CDS.1616;Product=rRNA small subunit methyltransferase H;locus_tag=TBepi4208.genome.CDS.1616
+TBepi4208.contig.57	feature	CDS	24254	24616	.	-	0	ID=TBepi4208.genome.CDS.1615;Product=;locus_tag=TBepi4208.genome.CDS.1615
+TBepi4208.contig.57	feature	CDS	22464	24257	.	-	0	ID=TBepi4208.genome.CDS.1614;Product=Cell division protein FtsI %5BPeptidoglycan synthetase%5D %28EC 2.4.1.129%29;locus_tag=TBepi4208.genome.CDS.1614
+TBepi4208.contig.57	feature	CDS	20986	22467	.	-	0	ID=TBepi4208.genome.CDS.1613;Product=UDP-N-acetylmuramoylalanyl-D-glutamate--2%2C6-diaminopimelate ligase %28EC 6.3.2.13%29;locus_tag=TBepi4208.genome.CDS.1613
+TBepi4208.contig.57	feature	CDS	19586	20989	.	-	0	ID=TBepi4208.genome.CDS.1612;Product=UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase %28EC 6.3.2.10%29;locus_tag=TBepi4208.genome.CDS.1612
+TBepi4208.contig.57	feature	CDS	18521	19585	.	-	0	ID=TBepi4208.genome.CDS.1611;Product=Phospho-N-acetylmuramoyl-pentapeptide-transferase %28EC 2.7.8.13%29;locus_tag=TBepi4208.genome.CDS.1611
+TBepi4208.contig.57	feature	CDS	17163	18521	.	-	0	ID=TBepi4208.genome.CDS.1610;Product=UDP-N-acetylmuramoylalanine--D-glutamate ligase %28EC 6.3.2.9%29;locus_tag=TBepi4208.genome.CDS.1610
+TBepi4208.contig.57	feature	CDS	15985	17163	.	-	0	ID=TBepi4208.genome.CDS.1609;Product=Cell division protein FtsW;locus_tag=TBepi4208.genome.CDS.1609
+TBepi4208.contig.57	feature	CDS	14897	15988	.	-	0	ID=TBepi4208.genome.CDS.1608;Product=UDP-N-acetylglucosamine--N-acetylmuramyl-%28pentapeptide%29 pyrophosphoryl-undecaprenol N-acetylglucosamine transferase %28EC 2.4.1.227%29;locus_tag=TBepi4208.genome.CDS.1608
+TBepi4208.contig.57	feature	CDS	13491	14894	.	-	0	ID=TBepi4208.genome.CDS.1607;Product=UDP-N-acetylmuramate--alanine ligase %28EC 6.3.2.8%29;locus_tag=TBepi4208.genome.CDS.1607
+TBepi4208.contig.57	feature	CDS	12767	13498	.	-	0	ID=TBepi4208.genome.CDS.1606;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1606
+TBepi4208.contig.57	feature	CDS	11494	12636	.	-	0	ID=TBepi4208.genome.CDS.1605;Product=Cell division protein FtsZ %28EC 3.4.24.-%29;locus_tag=TBepi4208.genome.CDS.1605
+TBepi4208.contig.57	feature	CDS	10880	11485	.	-	0	ID=TBepi4208.genome.CDS.1604;Product=COG1496: Uncharacterized conserved protein;locus_tag=TBepi4208.genome.CDS.1604
+TBepi4208.contig.57	feature	CDS	10164	10880	.	-	0	ID=TBepi4208.genome.CDS.1603;Product=Hypothetical protein YggS%2C proline synthase co-transcribed bacterial homolog PROSC;locus_tag=TBepi4208.genome.CDS.1603
+TBepi4208.contig.57	feature	CDS	9645	10142	.	-	0	ID=TBepi4208.genome.CDS.1602;Product=FIG021292: hypothetical protein;locus_tag=TBepi4208.genome.CDS.1602
+TBepi4208.contig.57	feature	CDS	9327	9614	.	-	0	ID=TBepi4208.genome.CDS.1601;Product=FIG021764: Possible membrane protein;locus_tag=TBepi4208.genome.CDS.1601
+TBepi4208.contig.57	feature	CDS	6211	9330	.	+	0	ID=TBepi4208.genome.CDS.1600;Product=Isoleucyl-tRNA synthetase %28EC 6.1.1.5%29;locus_tag=TBepi4208.genome.CDS.1600
+TBepi4208.contig.57	feature	CDS	5275	6069	.	-	0	ID=TBepi4208.genome.CDS.1599;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1599
+TBepi4208.contig.57	feature	CDS	4793	5227	.	-	0	ID=TBepi4208.genome.CDS.1598;Product=Lipoprotein signal peptidase %28EC 3.4.23.36%29;locus_tag=TBepi4208.genome.CDS.1598
+TBepi4208.contig.57	feature	CDS	3847	4788	.	-	0	ID=TBepi4208.genome.CDS.1597;Product=Ribosomal large subunit pseudouridine synthase D %28EC 4.2.1.70%29;locus_tag=TBepi4208.genome.CDS.1597
+TBepi4208.contig.57	feature	CDS	310	3825	.	-	0	ID=TBepi4208.genome.CDS.1596;Product=DNA polymerase III alpha subunit %28EC 2.7.7.7%29;locus_tag=TBepi4208.genome.CDS.1596
+TBepi4208.contig.57	feature	CDS	1	249	.	-	0	ID=TBepi4208.genome.CDS.1595;Product=;locus_tag=TBepi4208.genome.CDS.1595
+TBepi4208.contig.58	feature	CDS	28946	29008	.	+	0	ID=TBepi4208.genome.CDS.1652;Product=;locus_tag=TBepi4208.genome.CDS.1652
+TBepi4208.contig.58	feature	CDS	27977	28906	.	-	0	ID=TBepi4208.genome.CDS.1651;Product=O-succinylbenzoic acid--CoA ligase %28EC 6.2.1.26%29;locus_tag=TBepi4208.genome.CDS.1651
+TBepi4208.contig.58	feature	CDS	27094	27966	.	-	0	ID=TBepi4208.genome.CDS.1650;Product=1%2C4-dihydroxy-2-naphthoate polyprenyltransferase %28EC 2.5.1.74%29;locus_tag=TBepi4208.genome.CDS.1650
+TBepi4208.contig.58	feature	CDS	26824	27078	.	-	0	ID=TBepi4208.genome.CDS.1649;Product=;locus_tag=TBepi4208.genome.CDS.1649
+TBepi4208.contig.58	feature	CDS	25927	26820	.	+	0	ID=TBepi4208.genome.CDS.1648;Product=Cytochrome c-type biogenesis protein CcsA/ResC;locus_tag=TBepi4208.genome.CDS.1648
+TBepi4208.contig.58	feature	CDS	24470	25930	.	+	0	ID=TBepi4208.genome.CDS.1647;Product=Ccs1/ResB-related putative cytochrome C-type biogenesis protein;locus_tag=TBepi4208.genome.CDS.1647
+TBepi4208.contig.58	feature	CDS	23738	24469	.	+	0	ID=TBepi4208.genome.CDS.1646;Product=Cytochrome c-type biogenesis protein CcdA %28DsbD analog%29;locus_tag=TBepi4208.genome.CDS.1646
+TBepi4208.contig.58	feature	CDS	23194	23745	.	+	0	ID=TBepi4208.genome.CDS.1645;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1645
+TBepi4208.contig.58	feature	CDS	22577	23197	.	+	0	ID=TBepi4208.genome.CDS.1644;Product=Hypothetical%2C related to broad specificity phosphatases COG0406;locus_tag=TBepi4208.genome.CDS.1644
+TBepi4208.contig.58	feature	CDS	21768	22541	.	-	0	ID=TBepi4208.genome.CDS.1643;Product=Phosphoserine phosphatase %28EC 3.1.3.3%29;locus_tag=TBepi4208.genome.CDS.1643
+TBepi4208.contig.58	feature	CDS	19575	21731	.	-	0	ID=TBepi4208.genome.CDS.1642;Product=probable DNA-binding protein;locus_tag=TBepi4208.genome.CDS.1642
+TBepi4208.contig.58	feature	CDS	18484	19560	.	-	0	ID=TBepi4208.genome.CDS.1641;Product=putative peptidase;locus_tag=TBepi4208.genome.CDS.1641
+TBepi4208.contig.58	feature	CDS	16851	18491	.	-	0	ID=TBepi4208.genome.CDS.1640;Product=DNA repair helicase;locus_tag=TBepi4208.genome.CDS.1640
+TBepi4208.contig.58	feature	CDS	14185	16557	.	-	0	ID=TBepi4208.genome.CDS.1638;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1638
+TBepi4208.contig.58	feature	CDS	13243	14199	.	+	0	ID=TBepi4208.genome.CDS.1637;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1637
+TBepi4208.contig.58	feature	CDS	12431	13246	.	+	0	ID=TBepi4208.genome.CDS.1636;Product=Pyrroline-5-carboxylate reductase %28EC 1.5.1.2%29;locus_tag=TBepi4208.genome.CDS.1636
+TBepi4208.contig.58	feature	CDS	11543	12361	.	-	0	ID=TBepi4208.genome.CDS.1635;Product=FIG01122970: hypothetical protein;locus_tag=TBepi4208.genome.CDS.1635
+TBepi4208.contig.58	feature	CDS	10575	11534	.	+	0	ID=TBepi4208.genome.CDS.1634;Product=Cobalt-zinc-cadmium resistance protein CzcA%3B Cation efflux system protein CusA;locus_tag=TBepi4208.genome.CDS.1634
+TBepi4208.contig.58	feature	CDS	10202	10537	.	-	0	ID=TBepi4208.genome.CDS.1633;Product=;locus_tag=TBepi4208.genome.CDS.1633
+TBepi4208.contig.58	feature	CDS	9897	10205	.	-	0	ID=TBepi4208.genome.CDS.1632;Product=Lycopene cyclase;locus_tag=TBepi4208.genome.CDS.1632
+TBepi4208.contig.58	feature	CDS	9656	9895	.	+	0	ID=TBepi4208.genome.CDS.1631;Product=;locus_tag=TBepi4208.genome.CDS.1631
+TBepi4208.contig.58	feature	CDS	8810	9580	.	+	0	ID=TBepi4208.genome.CDS.1630;Product=Proteorhodopsin;locus_tag=TBepi4208.genome.CDS.1630
+TBepi4208.contig.58	feature	CDS	7217	8593	.	-	0	ID=TBepi4208.genome.CDS.1629;Product=DNA repair protein RadA;locus_tag=TBepi4208.genome.CDS.1629
+TBepi4208.contig.58	feature	CDS	4713	7220	.	+	0	ID=TBepi4208.genome.CDS.1628;Product=ATP-dependent Clp protease%2C ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB;locus_tag=TBepi4208.genome.CDS.1628
+TBepi4208.contig.58	feature	CDS	4038	4535	.	+	0	ID=TBepi4208.genome.CDS.1627;Product=N-acetylglutamate synthase %28EC 2.3.1.1%29;locus_tag=TBepi4208.genome.CDS.1627
+TBepi4208.contig.58	feature	CDS	2524	4041	.	+	0	ID=TBepi4208.genome.CDS.1626;Product=Lysyl-tRNA synthetase %28class II%29 %28EC 6.1.1.6%29;locus_tag=TBepi4208.genome.CDS.1626
+TBepi4208.contig.58	feature	CDS	1717	2493	.	+	0	ID=TBepi4208.genome.CDS.1625;Product=Pantothenate kinase type III%2C CoaX-like %28EC 2.7.1.33%29;locus_tag=TBepi4208.genome.CDS.1625
+TBepi4208.contig.58	feature	CDS	836	1714	.	+	0	ID=TBepi4208.genome.CDS.1624;Product=Quinolinate phosphoribosyltransferase %5Bdecarboxylating%5D %28EC 2.4.2.19%29;locus_tag=TBepi4208.genome.CDS.1624
+TBepi4208.contig.58	feature	CDS	3	836	.	+	0	ID=TBepi4208.genome.CDS.1623;Product=L-aspartate oxidase %28EC 1.4.3.16%29;locus_tag=TBepi4208.genome.CDS.1623
+TBepi4208.contig.59	feature	CDS	3089	3247	.	-	0	ID=TBepi4208.genome.CDS.615;Product=tRNA-guanine transglycosylase %28EC 2.4.2.29%29;locus_tag=TBepi4208.genome.CDS.615
+TBepi4208.contig.59	feature	CDS	2348	3118	.	+	0	ID=TBepi4208.genome.CDS.1656;Product=Putative cytoplasmic protein;locus_tag=TBepi4208.genome.CDS.1656
+TBepi4208.contig.59	feature	CDS	1452	2351	.	+	0	ID=TBepi4208.genome.CDS.1655;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1655
+TBepi4208.contig.59	feature	CDS	827	1468	.	+	0	ID=TBepi4208.genome.CDS.1654;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1654
+TBepi4208.contig.59	feature	CDS	57	707	.	-	0	ID=TBepi4208.genome.CDS.1653;Product=UPF0246 protein YaaA;locus_tag=TBepi4208.genome.CDS.1653
+TBepi4208.contig.6	feature	CDS	37413	38387	.	-	0	ID=TBepi4208.genome.CDS.1125;Product=Serine/threonine protein kinase PrkC%2C regulator of stationary phase;locus_tag=TBepi4208.genome.CDS.1125
+TBepi4208.contig.6	feature	CDS	36492	37382	.	-	0	ID=TBepi4208.genome.CDS.1124;Product=Endonuclease IV %28EC 3.1.21.2%29;locus_tag=TBepi4208.genome.CDS.1124
+TBepi4208.contig.6	feature	CDS	35614	36495	.	-	0	ID=TBepi4208.genome.CDS.1123;Product=Permease of the drug/metabolite transporter %28DMT%29 superfamily;locus_tag=TBepi4208.genome.CDS.1123
+TBepi4208.contig.6	feature	CDS	34578	35621	.	-	0	ID=TBepi4208.genome.CDS.1122;Product=L-allo-threonine aldolase %28EC 2.1.2.1%29;locus_tag=TBepi4208.genome.CDS.1122
+TBepi4208.contig.6	feature	CDS	34110	34604	.	+	0	ID=TBepi4208.genome.CDS.1121;Product=Methylated-DNA--protein-cysteine methyltransferase %28EC 2.1.1.63%29;locus_tag=TBepi4208.genome.CDS.1121
+TBepi4208.contig.6	feature	CDS	32727	34070	.	+	0	ID=TBepi4208.genome.CDS.1120;Product=2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase II %28EC 2.5.1.54%29;locus_tag=TBepi4208.genome.CDS.1120
+TBepi4208.contig.6	feature	CDS	31660	32685	.	+	0	ID=TBepi4208.genome.CDS.1119;Product=6-phosphofructokinase %28EC 2.7.1.11%29;locus_tag=TBepi4208.genome.CDS.1119
+TBepi4208.contig.6	feature	CDS	30123	31529	.	-	0	ID=TBepi4208.genome.CDS.1118;Product=Xylulose kinase %28EC 2.7.1.17%29;locus_tag=TBepi4208.genome.CDS.1118
+TBepi4208.contig.6	feature	CDS	29188	30120	.	-	0	ID=TBepi4208.genome.CDS.1117;Product=;locus_tag=TBepi4208.genome.CDS.1117
+TBepi4208.contig.6	feature	CDS	28306	29178	.	-	0	ID=TBepi4208.genome.CDS.1116;Product=Permease of the drug/metabolite transporter %28DMT%29 superfamily;locus_tag=TBepi4208.genome.CDS.1116
+TBepi4208.contig.6	feature	CDS	27387	28319	.	+	0	ID=TBepi4208.genome.CDS.1115;Product=GTP-binding protein Era;locus_tag=TBepi4208.genome.CDS.1115
+TBepi4208.contig.6	feature	CDS	26493	27374	.	+	0	ID=TBepi4208.genome.CDS.1114;Product=Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake;locus_tag=TBepi4208.genome.CDS.1114
+TBepi4208.contig.6	feature	CDS	24970	26496	.	+	0	ID=TBepi4208.genome.CDS.1113;Product=MG%282%2B%29 CHELATASE FAMILY PROTEIN / ComM-related protein;locus_tag=TBepi4208.genome.CDS.1113
+TBepi4208.contig.6	feature	CDS	24611	24970	.	+	0	ID=TBepi4208.genome.CDS.1112;Product=Endonuclease %28EC 3.1.-.-%29;locus_tag=TBepi4208.genome.CDS.1112
+TBepi4208.contig.6	feature	CDS	23928	24530	.	+	0	ID=TBepi4208.genome.CDS.1111;Product=Ribonuclease HII %28EC 3.1.26.4%29;locus_tag=TBepi4208.genome.CDS.1111
+TBepi4208.contig.6	feature	CDS	23235	23918	.	+	0	ID=TBepi4208.genome.CDS.1110;Product=Signal peptidase I %28EC 3.4.21.89%29;locus_tag=TBepi4208.genome.CDS.1110
+TBepi4208.contig.6	feature	CDS	22668	23213	.	+	0	ID=TBepi4208.genome.CDS.1109;Product=LSU ribosomal protein L19p;locus_tag=TBepi4208.genome.CDS.1109
+TBepi4208.contig.6	feature	CDS	21711	22523	.	+	0	ID=TBepi4208.genome.CDS.1108;Product=Inositol-1-monophosphatase %28EC 3.1.3.25%29;locus_tag=TBepi4208.genome.CDS.1108
+TBepi4208.contig.6	feature	CDS	20787	21623	.	-	0	ID=TBepi4208.genome.CDS.1107;Product=;locus_tag=TBepi4208.genome.CDS.1107
+TBepi4208.contig.6	feature	CDS	19671	20786	.	+	0	ID=TBepi4208.genome.CDS.107;Product=Alkaline phosphodiesterase I %28EC 3.1.4.1%29 / Nucleotide pyrophosphatase %28EC 3.6.1.9%29;locus_tag=TBepi4208.genome.CDS.107
+TBepi4208.contig.6	feature	CDS	18111	19607	.	-	0	ID=TBepi4208.genome.CDS.1105;Product=Topoisomerase IV subunit A %28EC 5.99.1.-%29;locus_tag=TBepi4208.genome.CDS.1105
+TBepi4208.contig.6	feature	CDS	16008	18074	.	+	0	ID=TBepi4208.genome.CDS.1104;Product=Topoisomerase IV subunit B %28EC 5.99.1.-%29;locus_tag=TBepi4208.genome.CDS.1104
+TBepi4208.contig.6	feature	CDS	15528	15758	.	-	0	ID=TBepi4208.genome.CDS.1103;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1103
+TBepi4208.contig.6	feature	CDS	15336	15527	.	+	0	ID=TBepi4208.genome.CDS.1102;Product=;locus_tag=TBepi4208.genome.CDS.1102
+TBepi4208.contig.6	feature	CDS	13689	15305	.	+	0	ID=TBepi4208.genome.CDS.1101;Product=RNA polymerase sigma factor RpoD;locus_tag=TBepi4208.genome.CDS.1101
+TBepi4208.contig.6	feature	CDS	12477	13580	.	+	0	ID=TBepi4208.genome.CDS.1100;Product=Homoserine O-acetyltransferase %28EC 2.3.1.31%29;locus_tag=TBepi4208.genome.CDS.1100
+TBepi4208.contig.6	feature	CDS	11127	12449	.	+	0	ID=TBepi4208.genome.CDS.1099;Product=O-acetylhomoserine sulfhydrylase %28EC 2.5.1.49%29 / O-succinylhomoserine sulfhydrylase %28EC 2.5.1.48%29;locus_tag=TBepi4208.genome.CDS.1099
+TBepi4208.contig.6	feature	CDS	9212	10924	.	+	0	ID=TBepi4208.genome.CDS.1098;Product=NAD synthetase %28EC 6.3.1.5%29 / Glutamine amidotransferase chain of NAD synthetase;locus_tag=TBepi4208.genome.CDS.1098
+TBepi4208.contig.6	feature	CDS	8288	9121	.	-	0	ID=TBepi4208.genome.CDS.1097;Product=3-methyl-2-oxobutanoate hydroxymethyltransferase %28EC 2.1.2.11%29;locus_tag=TBepi4208.genome.CDS.1097
+TBepi4208.contig.6	feature	CDS	6970	8256	.	-	0	ID=TBepi4208.genome.CDS.1096;Product=FIG01124839: hypothetical protein;locus_tag=TBepi4208.genome.CDS.1096
+TBepi4208.contig.6	feature	CDS	6447	6746	.	-	0	ID=TBepi4208.genome.CDS.1095;Product=;locus_tag=TBepi4208.genome.CDS.1095
+TBepi4208.contig.6	feature	CDS	5873	6349	.	+	0	ID=TBepi4208.genome.CDS.1094;Product=Transcriptional regulator%2C MarR family;locus_tag=TBepi4208.genome.CDS.1094
+TBepi4208.contig.6	feature	CDS	3798	5762	.	-	0	ID=TBepi4208.genome.CDS.1093;Product=Metallopeptidase;locus_tag=TBepi4208.genome.CDS.1093
+TBepi4208.contig.6	feature	CDS	2761	3732	.	+	0	ID=TBepi4208.genome.CDS.1092;Product=Oligopeptide transport ATP-binding protein OppF %28TC 3.A.1.5.1%29;locus_tag=TBepi4208.genome.CDS.1092
+TBepi4208.contig.6	feature	CDS	1731	2759	.	+	0	ID=TBepi4208.genome.CDS.1091;Product=Oligopeptide transport ATP-binding protein OppD %28TC 3.A.1.5.1%29;locus_tag=TBepi4208.genome.CDS.1091
+TBepi4208.contig.6	feature	CDS	725	1723	.	+	0	ID=TBepi4208.genome.CDS.1090;Product=Oligopeptide transport system permease protein OppB %28TC 3.A.1.5.1%29;locus_tag=TBepi4208.genome.CDS.1090
+TBepi4208.contig.6	feature	CDS	2	595	.	+	0	ID=TBepi4208.genome.CDS.1089;Product=;locus_tag=TBepi4208.genome.CDS.1089
+TBepi4208.contig.60	feature	CDS	2377	3810	.	-	0	ID=TBepi4208.genome.CDS.1660;Product=Amino acid permease;locus_tag=TBepi4208.genome.CDS.1660
+TBepi4208.contig.60	feature	CDS	1896	2300	.	-	0	ID=TBepi4208.genome.CDS.1659;Product=Arsenate reductase %28EC 1.20.4.1%29;locus_tag=TBepi4208.genome.CDS.1659
+TBepi4208.contig.60	feature	CDS	1487	1891	.	-	0	ID=TBepi4208.genome.CDS.1658;Product=Bis%285%27-nucleosyl%29-tetraphosphatase %28asymmetrical%29 %28EC 3.6.1.17%29;locus_tag=TBepi4208.genome.CDS.1658
+TBepi4208.contig.60	feature	CDS	18	1490	.	+	0	ID=TBepi4208.genome.CDS.1657;Product=FIG004436: Protein related to deoxyribodipyrimidine photolyase;locus_tag=TBepi4208.genome.CDS.1657
+TBepi4208.contig.61	feature	misc_RNA	2	543	.	+	.	ID=TBepi4208.genome.repeat.12;Product=repeat region;locus_tag=TBepi4208.genome.repeat.12
+TBepi4208.contig.61	feature	CDS	3106	3828	.	+	0	ID=TBepi4208.genome.CDS.1666;Product=L-aspartate oxidase %28EC 1.4.3.16%29;locus_tag=TBepi4208.genome.CDS.1666
+TBepi4208.contig.61	feature	CDS	2309	3109	.	+	0	ID=TBepi4208.genome.CDS.1665;Product=Pantoate--beta-alanine ligase %28EC 6.3.2.1%29;locus_tag=TBepi4208.genome.CDS.1665
+TBepi4208.contig.61	feature	CDS	1804	2268	.	+	0	ID=TBepi4208.genome.CDS.1664;Product=2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase %28EC 2.7.6.3%29;locus_tag=TBepi4208.genome.CDS.1664
+TBepi4208.contig.61	feature	CDS	1445	1807	.	+	0	ID=TBepi4208.genome.CDS.1663;Product=Dihydroneopterin aldolase %28EC 4.1.2.25%29;locus_tag=TBepi4208.genome.CDS.1663
+TBepi4208.contig.61	feature	CDS	645	1448	.	+	0	ID=TBepi4208.genome.CDS.1662;Product=Dihydropteroate synthase %28EC 2.5.1.15%29;locus_tag=TBepi4208.genome.CDS.1662
+TBepi4208.contig.61	feature	CDS	3	644	.	+	0	ID=TBepi4208.genome.CDS.1661;Product=GTP cyclohydrolase I %28EC 3.5.4.16%29 type 1;locus_tag=TBepi4208.genome.CDS.1661
+TBepi4208.contig.62	feature	CDS	2169	2654	.	+	0	ID=TBepi4208.genome.CDS.1671;Product=;locus_tag=TBepi4208.genome.CDS.1671
+TBepi4208.contig.62	feature	tRNA	2057	2129	.	+	.	ID=TBepi4208.genome.rna.19;Product=tRNA-Lys-CTT;locus_tag=TBepi4208.genome.rna.19
+TBepi4208.contig.62	feature	CDS	1654	1992	.	+	0	ID=TBepi4208.genome.CDS.1670;Product=Nitrogen regulatory protein P-II;locus_tag=TBepi4208.genome.CDS.1670
+TBepi4208.contig.62	feature	CDS	1169	1651	.	+	0	ID=TBepi4208.genome.CDS.1669;Product=Inorganic pyrophosphatase %28EC 3.6.1.1%29;locus_tag=TBepi4208.genome.CDS.1669
+TBepi4208.contig.62	feature	tRNA	1050	1125	.	+	.	ID=TBepi4208.genome.rna.18;Product=tRNA-His-GTG;locus_tag=TBepi4208.genome.rna.18
+TBepi4208.contig.62	feature	CDS	528	1034	.	+	0	ID=TBepi4208.genome.CDS.1668;Product=3%27-to-5%27 oligoribonuclease %28orn%29;locus_tag=TBepi4208.genome.CDS.1668
+TBepi4208.contig.62	feature	CDS	2	385	.	-	0	ID=TBepi4208.genome.CDS.1667;Product=Phosphate transport system permease protein PstC %28TC 3.A.1.7.1%29;locus_tag=TBepi4208.genome.CDS.1667
+TBepi4208.contig.63	feature	CDS	4430	5056	.	-	0	ID=TBepi4208.genome.CDS.1679;Product=LSU ribosomal protein L25p;locus_tag=TBepi4208.genome.CDS.1679
+TBepi4208.contig.63	feature	CDS	3835	4401	.	-	0	ID=TBepi4208.genome.CDS.1678;Product=Peptidyl-tRNA hydrolase %28EC 3.1.1.29%29;locus_tag=TBepi4208.genome.CDS.1678
+TBepi4208.contig.63	feature	CDS	3210	3788	.	-	0	ID=TBepi4208.genome.CDS.1677;Product=;locus_tag=TBepi4208.genome.CDS.1677
+TBepi4208.contig.63	feature	CDS	2281	3138	.	-	0	ID=TBepi4208.genome.CDS.1676;Product=;locus_tag=TBepi4208.genome.CDS.1676
+TBepi4208.contig.63	feature	CDS	1441	2265	.	-	0	ID=TBepi4208.genome.CDS.1675;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1675
+TBepi4208.contig.63	feature	CDS	1172	1438	.	-	0	ID=TBepi4208.genome.CDS.1674;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1674
+TBepi4208.contig.63	feature	CDS	615	1130	.	-	0	ID=TBepi4208.genome.CDS.1673;Product=;locus_tag=TBepi4208.genome.CDS.1673
+TBepi4208.contig.63	feature	CDS	3	611	.	+	0	ID=TBepi4208.genome.CDS.1672;Product=Phosphoenolpyruvate carboxylase %28EC 4.1.1.31%29;locus_tag=TBepi4208.genome.CDS.1672
+TBepi4208.contig.64	feature	CDS	4698	5438	.	+	0	ID=TBepi4208.genome.CDS.1688;Product=5%27-methylthioadenosine phosphorylase %28EC 2.4.2.28%29;locus_tag=TBepi4208.genome.CDS.1688
+TBepi4208.contig.64	feature	CDS	4531	4668	.	+	0	ID=TBepi4208.genome.CDS.1687;Product=;locus_tag=TBepi4208.genome.CDS.1687
+TBepi4208.contig.64	feature	CDS	4181	4324	.	+	0	ID=TBepi4208.genome.CDS.1685;Product=;locus_tag=TBepi4208.genome.CDS.1685
+TBepi4208.contig.64	feature	CDS	3795	4184	.	+	0	ID=TBepi4208.genome.CDS.642;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.642
+TBepi4208.contig.64	feature	CDS	2213	3814	.	+	0	ID=TBepi4208.genome.CDS.1683;Product=Predicted rhamnulose-1-phosphate aldolase %28EC 4.1.2.19%29 / Predicted lactaldehyde dehydrogenase %28EC 1.2.1.22%29;locus_tag=TBepi4208.genome.CDS.1683
+TBepi4208.contig.64	feature	CDS	1203	2216	.	+	0	ID=TBepi4208.genome.CDS.1682;Product=Methylthioribose-1-phosphate isomerase %28EC 5.3.1.23%29;locus_tag=TBepi4208.genome.CDS.1682
+TBepi4208.contig.64	feature	CDS	361	1152	.	+	0	ID=TBepi4208.genome.CDS.1681;Product=tRNA pseudouridine synthase A %28EC 4.2.1.70%29;locus_tag=TBepi4208.genome.CDS.1681
+TBepi4208.contig.64	feature	CDS	35	331	.	+	0	ID=TBepi4208.genome.CDS.638;Product=LSU ribosomal protein L17p;locus_tag=TBepi4208.genome.CDS.638
+TBepi4208.contig.65	feature	misc_RNA	4515	5712	.	+	.	ID=TBepi4208.genome.repeat.31;Product=repeat region;locus_tag=TBepi4208.genome.repeat.31
+TBepi4208.contig.65	feature	CDS	5233	5712	.	+	0	ID=TBepi4208.genome.CDS.1696;Product=Pyridoxine biosynthesis glutamine amidotransferase%2C synthase subunit %28EC 2.4.2.-%29;locus_tag=TBepi4208.genome.CDS.1696
+TBepi4208.contig.65	feature	CDS	4149	5201	.	+	0	ID=TBepi4208.genome.CDS.1695;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1695
+TBepi4208.contig.65	feature	CDS	3643	4149	.	+	0	ID=TBepi4208.genome.CDS.1694;Product=;locus_tag=TBepi4208.genome.CDS.1694
+TBepi4208.contig.65	feature	CDS	2478	3650	.	+	0	ID=TBepi4208.genome.CDS.1693;Product=Phosphatidylinositol alpha-mannosyltransferase %28EC 2.4.1.57%29;locus_tag=TBepi4208.genome.CDS.1693
+TBepi4208.contig.65	feature	CDS	1615	2481	.	+	0	ID=TBepi4208.genome.CDS.1692;Product=Lauroyl/myristoyl acyltransferase involved in lipid A biosynthesis %28Lauroyl/myristoyl acyltransferase%29;locus_tag=TBepi4208.genome.CDS.1692
+TBepi4208.contig.65	feature	CDS	1013	1612	.	+	0	ID=TBepi4208.genome.CDS.1691;Product=CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase %28EC 2.7.8.5%29;locus_tag=TBepi4208.genome.CDS.1691
+TBepi4208.contig.65	feature	CDS	406	996	.	-	0	ID=TBepi4208.genome.CDS.1690;Product=;locus_tag=TBepi4208.genome.CDS.1690
+TBepi4208.contig.65	feature	CDS	1	423	.	+	0	ID=TBepi4208.genome.CDS.1689;Product=FIG049476: HIT family protein;locus_tag=TBepi4208.genome.CDS.1689
+TBepi4208.contig.66	feature	misc_RNA	1	1360	.	+	.	ID=TBepi4208.genome.repeat.8;Product=repeat region;locus_tag=TBepi4208.genome.repeat.8
+TBepi4208.contig.66	feature	CDS	5523	5798	.	-	0	ID=TBepi4208.genome.CDS.1705;Product=;locus_tag=TBepi4208.genome.CDS.1705
+TBepi4208.contig.66	feature	tRNA	5370	5446	.	+	.	ID=TBepi4208.genome.rna.20;Product=tRNA-Arg-TCT;locus_tag=TBepi4208.genome.rna.20
+TBepi4208.contig.66	feature	CDS	3648	5315	.	-	0	ID=TBepi4208.genome.CDS.1704;Product=ABC transporter ATP-binding protein;locus_tag=TBepi4208.genome.CDS.1704
+TBepi4208.contig.66	feature	CDS	3244	3648	.	-	0	ID=TBepi4208.genome.CDS.1703;Product=;locus_tag=TBepi4208.genome.CDS.1703
+TBepi4208.contig.66	feature	CDS	1998	3263	.	-	0	ID=TBepi4208.genome.CDS.1702;Product=putative integral membrane transport protein;locus_tag=TBepi4208.genome.CDS.1702
+TBepi4208.contig.66	feature	CDS	1625	2011	.	-	0	ID=TBepi4208.genome.CDS.1701;Product=Hemoglobin-like protein HbO;locus_tag=TBepi4208.genome.CDS.1701
+TBepi4208.contig.66	feature	CDS	1071	1628	.	+	0	ID=TBepi4208.genome.CDS.1700;Product=Potassium efflux system KefA protein / Small-conductance mechanosensitive channel;locus_tag=TBepi4208.genome.CDS.1700
+TBepi4208.contig.66	feature	CDS	429	959	.	-	0	ID=TBepi4208.genome.CDS.1699;Product=HNH endonuclease family protein;locus_tag=TBepi4208.genome.CDS.1699
+TBepi4208.contig.66	feature	CDS	219	404	.	-	0	ID=TBepi4208.genome.CDS.1698;Product=;locus_tag=TBepi4208.genome.CDS.1698
+TBepi4208.contig.66	feature	CDS	1	222	.	+	0	ID=TBepi4208.genome.CDS.1697;Product=;locus_tag=TBepi4208.genome.CDS.1697
+TBepi4208.contig.67	feature	misc_RNA	5010	5136	.	+	.	ID=TBepi4208.genome.repeat.41;Product=repeat region;locus_tag=TBepi4208.genome.repeat.41
+TBepi4208.contig.67	feature	CDS	4546	5136	.	-	0	ID=TBepi4208.genome.CDS.1711;Product=NADH-ubiquinone oxidoreductase chain N %28EC 1.6.5.3%29;locus_tag=TBepi4208.genome.CDS.1711
+TBepi4208.contig.67	feature	CDS	3557	4546	.	-	0	ID=TBepi4208.genome.CDS.1710;Product=Solanesyl diphosphate synthase %28EC 2.5.1.11%29;locus_tag=TBepi4208.genome.CDS.1710
+TBepi4208.contig.67	feature	CDS	2699	3598	.	+	0	ID=TBepi4208.genome.CDS.1709;Product=Protein rarD;locus_tag=TBepi4208.genome.CDS.1709
+TBepi4208.contig.67	feature	CDS	2207	2695	.	+	0	ID=TBepi4208.genome.CDS.1708;Product=FIG001943: hypothetical protein YajQ;locus_tag=TBepi4208.genome.CDS.1708
+TBepi4208.contig.67	feature	CDS	932	2152	.	-	0	ID=TBepi4208.genome.CDS.1707;Product=L-lactate dehydrogenase %28EC 1.1.2.3%29;locus_tag=TBepi4208.genome.CDS.1707
+TBepi4208.contig.67	feature	CDS	147	929	.	-	0	ID=TBepi4208.genome.CDS.1706;Product=3-oxoacyl-%5Bacyl-carrier protein%5D reductase %28EC 1.1.1.100%29;locus_tag=TBepi4208.genome.CDS.1706
+TBepi4208.contig.67	feature	tRNA	6	90	.	-	.	ID=TBepi4208.genome.rna.21;Product=tRNA-Tyr-GTA;locus_tag=TBepi4208.genome.rna.21
+TBepi4208.contig.68	feature	CDS	2581	2727	.	-	0	ID=TBepi4208.genome.CDS.1715;Product=;locus_tag=TBepi4208.genome.CDS.1715
+TBepi4208.contig.68	feature	CDS	1949	2548	.	+	0	ID=TBepi4208.genome.CDS.1714;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1714
+TBepi4208.contig.68	feature	CDS	1073	1855	.	+	0	ID=TBepi4208.genome.CDS.1713;Product=;locus_tag=TBepi4208.genome.CDS.1713
+TBepi4208.contig.68	feature	tRNA	950	1022	.	-	.	ID=TBepi4208.genome.rna.22;Product=tRNA-Arg-CCT;locus_tag=TBepi4208.genome.rna.22
+TBepi4208.contig.68	feature	CDS	102	938	.	+	0	ID=TBepi4208.genome.CDS.1712;Product=Formyltetrahydrofolate deformylase %28EC 3.5.1.10%29;locus_tag=TBepi4208.genome.CDS.1712
+TBepi4208.contig.69	feature	CDS	6875	7057	.	-	0	ID=TBepi4208.genome.CDS.1726;Product=;locus_tag=TBepi4208.genome.CDS.1726
+TBepi4208.contig.69	feature	CDS	6297	6881	.	-	0	ID=TBepi4208.genome.CDS.1725;Product=DUF1801 domain-containing protein;locus_tag=TBepi4208.genome.CDS.1725
+TBepi4208.contig.69	feature	CDS	5822	6304	.	-	0	ID=TBepi4208.genome.CDS.1724;Product=;locus_tag=TBepi4208.genome.CDS.1724
+TBepi4208.contig.69	feature	CDS	5706	5825	.	+	0	ID=TBepi4208.genome.CDS.681;Product=;locus_tag=TBepi4208.genome.CDS.681
+TBepi4208.contig.69	feature	CDS	5313	5678	.	+	0	ID=TBepi4208.genome.CDS.1723;Product=;locus_tag=TBepi4208.genome.CDS.1723
+TBepi4208.contig.69	feature	CDS	5034	5267	.	-	0	ID=TBepi4208.genome.CDS.679;Product=3-demethylubiquinone-9 3-methyltransferase;locus_tag=TBepi4208.genome.CDS.679
+TBepi4208.contig.69	feature	CDS	4424	4987	.	-	0	ID=TBepi4208.genome.CDS.1722;Product=;locus_tag=TBepi4208.genome.CDS.1722
+TBepi4208.contig.69	feature	CDS	3969	4427	.	+	0	ID=TBepi4208.genome.CDS.1721;Product=;locus_tag=TBepi4208.genome.CDS.1721
+TBepi4208.contig.69	feature	CDS	2527	3966	.	+	0	ID=TBepi4208.genome.CDS.1720;Product=;locus_tag=TBepi4208.genome.CDS.1720
+TBepi4208.contig.69	feature	CDS	1436	2470	.	-	0	ID=TBepi4208.genome.CDS.1719;Product=Gamma-aminobutyrate:alpha-ketoglutarate aminotransferase %28EC 2.6.1.19%29;locus_tag=TBepi4208.genome.CDS.1719
+TBepi4208.contig.69	feature	CDS	1125	1442	.	-	0	ID=TBepi4208.genome.CDS.674;Product=Gamma-aminobutyrate:alpha-ketoglutarate aminotransferase %28EC 2.6.1.19%29;locus_tag=TBepi4208.genome.CDS.674
+TBepi4208.contig.69	feature	CDS	502	1128	.	+	0	ID=TBepi4208.genome.CDS.1717;Product=;locus_tag=TBepi4208.genome.CDS.1717
+TBepi4208.contig.69	feature	CDS	3	518	.	+	0	ID=TBepi4208.genome.CDS.1716;Product=;locus_tag=TBepi4208.genome.CDS.1716
+TBepi4208.contig.7	feature	misc_RNA	2341	2842	.	+	.	ID=TBepi4208.genome.repeat.4;Product=repeat region;locus_tag=TBepi4208.genome.repeat.4
+TBepi4208.contig.7	feature	CDS	2679	2840	.	+	0	ID=TBepi4208.genome.CDS.1130;Product=RecA protein;locus_tag=TBepi4208.genome.CDS.1130
+TBepi4208.contig.7	feature	CDS	985	2457	.	+	0	ID=TBepi4208.genome.CDS.1129;Product=;locus_tag=TBepi4208.genome.CDS.1129
+TBepi4208.contig.7	feature	CDS	729	920	.	+	0	ID=TBepi4208.genome.CDS.1128;Product=;locus_tag=TBepi4208.genome.CDS.1128
+TBepi4208.contig.7	feature	CDS	200	691	.	+	0	ID=TBepi4208.genome.CDS.1127;Product=;locus_tag=TBepi4208.genome.CDS.1127
+TBepi4208.contig.7	feature	CDS	3	179	.	+	0	ID=TBepi4208.genome.CDS.1126;Product=;locus_tag=TBepi4208.genome.CDS.1126
+TBepi4208.contig.70	feature	CDS	6378	7154	.	-	0	ID=TBepi4208.genome.CDS.1734;Product=Ornithine carbamoyltransferase %28EC 2.1.3.3%29;locus_tag=TBepi4208.genome.CDS.1734
+TBepi4208.contig.70	feature	CDS	5184	6314	.	-	0	ID=TBepi4208.genome.CDS.1733;Product=NAD%28P%29 transhydrogenase alpha subunit %28EC 1.6.1.2%29;locus_tag=TBepi4208.genome.CDS.1733
+TBepi4208.contig.70	feature	CDS	4900	5187	.	-	0	ID=TBepi4208.genome.CDS.1732;Product=NAD%28P%29 transhydrogenase alpha subunit %28EC 1.6.1.2%29;locus_tag=TBepi4208.genome.CDS.1732
+TBepi4208.contig.70	feature	CDS	3512	4900	.	-	0	ID=TBepi4208.genome.CDS.1731;Product=NAD%28P%29 transhydrogenase subunit beta %28EC 1.6.1.2%29;locus_tag=TBepi4208.genome.CDS.1731
+TBepi4208.contig.70	feature	CDS	2463	3515	.	+	0	ID=TBepi4208.genome.CDS.1730;Product=possible chromosome condensation protein;locus_tag=TBepi4208.genome.CDS.1730
+TBepi4208.contig.70	feature	CDS	1517	2401	.	-	0	ID=TBepi4208.genome.CDS.1729;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1729
+TBepi4208.contig.70	feature	CDS	859	1506	.	-	0	ID=TBepi4208.genome.CDS.1728;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1728
+TBepi4208.contig.70	feature	CDS	3	857	.	+	0	ID=TBepi4208.genome.CDS.1727;Product=PROBABLE INTEGRAL MEMBRANE PROTEIN;locus_tag=TBepi4208.genome.CDS.1727
+TBepi4208.contig.71	feature	CDS	1687	2727	.	-	0	ID=TBepi4208.genome.CDS.1737;Product=transmembrane efflux protein;locus_tag=TBepi4208.genome.CDS.1737
+TBepi4208.contig.71	feature	CDS	696	1526	.	+	0	ID=TBepi4208.genome.CDS.1736;Product=Short-chain dehydrogenase/reductase SDR;locus_tag=TBepi4208.genome.CDS.1736
+TBepi4208.contig.71	feature	CDS	2	691	.	+	0	ID=TBepi4208.genome.CDS.1735;Product=Enoyl-CoA hydratase %28EC 4.2.1.17%29;locus_tag=TBepi4208.genome.CDS.1735
+TBepi4208.contig.72	feature	CDS	4490	5179	.	-	0	ID=TBepi4208.genome.CDS.1742;Product=Cell division inhibitor;locus_tag=TBepi4208.genome.CDS.1742
+TBepi4208.contig.72	feature	CDS	3355	4497	.	+	0	ID=TBepi4208.genome.CDS.698;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.698
+TBepi4208.contig.72	feature	CDS	1187	3337	.	+	0	ID=TBepi4208.genome.CDS.1740;Product=possible membrane protein;locus_tag=TBepi4208.genome.CDS.1740
+TBepi4208.contig.72	feature	CDS	394	1041	.	-	0	ID=TBepi4208.genome.CDS.1739;Product=Octanoate-%5Bacyl-carrier-protein%5D-protein-N-octanoyltransferase;locus_tag=TBepi4208.genome.CDS.1739
+TBepi4208.contig.72	feature	CDS	2	397	.	-	0	ID=TBepi4208.genome.CDS.1738;Product=Lipoate synthase;locus_tag=TBepi4208.genome.CDS.1738
+TBepi4208.contig.73	feature	misc_RNA	4633	5664	.	+	.	ID=TBepi4208.genome.repeat.5;Product=repeat region;locus_tag=TBepi4208.genome.repeat.5
+TBepi4208.contig.73	feature	CDS	4874	5662	.	-	0	ID=TBepi4208.genome.CDS.1747;Product=Rod shape-determining protein MreB;locus_tag=TBepi4208.genome.CDS.1747
+TBepi4208.contig.73	feature	CDS	3877	4851	.	-	0	ID=TBepi4208.genome.CDS.1746;Product=Rod shape-determining protein MreC;locus_tag=TBepi4208.genome.CDS.1746
+TBepi4208.contig.73	feature	CDS	3359	3880	.	-	0	ID=TBepi4208.genome.CDS.1745;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1745
+TBepi4208.contig.73	feature	CDS	1275	3362	.	-	0	ID=TBepi4208.genome.CDS.1744;Product=Penicillin-binding protein 2 %28PBP-2%29;locus_tag=TBepi4208.genome.CDS.1744
+TBepi4208.contig.73	feature	CDS	118	1278	.	-	0	ID=TBepi4208.genome.CDS.1743;Product=Rod shape-determining protein RodA;locus_tag=TBepi4208.genome.CDS.1743
+TBepi4208.contig.74	feature	misc_RNA	1	117	.	+	.	ID=TBepi4208.genome.repeat.1;Product=repeat region;locus_tag=TBepi4208.genome.repeat.1
+TBepi4208.contig.74	feature	CDS	3706	4641	.	+	0	ID=TBepi4208.genome.CDS.1752;Product=permease of the major facilitator superfamily;locus_tag=TBepi4208.genome.CDS.1752
+TBepi4208.contig.74	feature	CDS	2103	3713	.	+	0	ID=TBepi4208.genome.CDS.1751;Product=Multidrug resistance protein B;locus_tag=TBepi4208.genome.CDS.1751
+TBepi4208.contig.74	feature	CDS	997	1983	.	-	0	ID=TBepi4208.genome.CDS.1750;Product=Methionine ABC transporter ATP-binding protein;locus_tag=TBepi4208.genome.CDS.1750
+TBepi4208.contig.74	feature	CDS	197	1000	.	-	0	ID=TBepi4208.genome.CDS.1749;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1749
+TBepi4208.contig.74	feature	CDS	1	192	.	+	0	ID=TBepi4208.genome.CDS.1748;Product=Transcription elongation factor GreA;locus_tag=TBepi4208.genome.CDS.1748
+TBepi4208.contig.75	feature	CDS	3728	4471	.	-	0	ID=TBepi4208.genome.CDS.1757;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1757
+TBepi4208.contig.75	feature	CDS	2331	3728	.	-	0	ID=TBepi4208.genome.CDS.1756;Product=Glycolate oxidase subunit;locus_tag=TBepi4208.genome.CDS.1756
+TBepi4208.contig.75	feature	CDS	1284	2327	.	-	0	ID=TBepi4208.genome.CDS.1755;Product=Glycolate dehydrogenase %28EC 1.1.99.14%29%2C iron-sulfur subunit GlcF;locus_tag=TBepi4208.genome.CDS.1755
+TBepi4208.contig.75	feature	CDS	1015	1284	.	-	0	ID=TBepi4208.genome.CDS.1754;Product=;locus_tag=TBepi4208.genome.CDS.1754
+TBepi4208.contig.75	feature	CDS	2	1018	.	-	0	ID=TBepi4208.genome.CDS.1753;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1753
+TBepi4208.contig.76	feature	misc_RNA	9187	10275	.	+	.	ID=TBepi4208.genome.repeat.6;Product=repeat region;locus_tag=TBepi4208.genome.repeat.6
+TBepi4208.contig.76	feature	CDS	9949	10275	.	+	0	ID=TBepi4208.genome.CDS.1767;Product=Succinyl-CoA ligase %5BADP-forming%5D alpha chain %28EC 6.2.1.5%29;locus_tag=TBepi4208.genome.CDS.1767
+TBepi4208.contig.76	feature	CDS	8788	9948	.	+	0	ID=TBepi4208.genome.CDS.1766;Product=Succinyl-CoA ligase %5BADP-forming%5D beta chain %28EC 6.2.1.5%29;locus_tag=TBepi4208.genome.CDS.1766
+TBepi4208.contig.76	feature	CDS	6498	8723	.	+	0	ID=TBepi4208.genome.CDS.1765;Product=ATP-dependent DNA helicase UvrD/PcrA;locus_tag=TBepi4208.genome.CDS.1765
+TBepi4208.contig.76	feature	CDS	5724	6455	.	-	0	ID=TBepi4208.genome.CDS.1764;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1764
+TBepi4208.contig.76	feature	CDS	5040	5723	.	+	0	ID=TBepi4208.genome.CDS.1763;Product=;locus_tag=TBepi4208.genome.CDS.1763
+TBepi4208.contig.76	feature	CDS	3437	4930	.	+	0	ID=TBepi4208.genome.CDS.1762;Product=GMP synthase %5Bglutamine-hydrolyzing%5D %28EC 6.3.5.2%29;locus_tag=TBepi4208.genome.CDS.1762
+TBepi4208.contig.76	feature	CDS	2332	3444	.	+	0	ID=TBepi4208.genome.CDS.1761;Product=Inosine-5%27-monophosphate dehydrogenase%2C catalytic domain %28EC 1.1.1.205%29;locus_tag=TBepi4208.genome.CDS.1761
+TBepi4208.contig.76	feature	CDS	1174	2295	.	+	0	ID=TBepi4208.genome.CDS.1760;Product=Inosine-5%27-monophosphate dehydrogenase %28EC 1.1.1.205%29 / CBS domain;locus_tag=TBepi4208.genome.CDS.1760
+TBepi4208.contig.76	feature	CDS	701	1000	.	-	0	ID=TBepi4208.genome.CDS.1759;Product=Sporulation regulatory protein WhiD;locus_tag=TBepi4208.genome.CDS.1759
+TBepi4208.contig.76	feature	CDS	2	673	.	+	0	ID=TBepi4208.genome.CDS.1758;Product=Polyphosphate glucokinase %28EC 2.7.1.63%29;locus_tag=TBepi4208.genome.CDS.1758
+TBepi4208.contig.77	feature	CDS	3182	3640	.	+	0	ID=TBepi4208.genome.CDS.1771;Product=;locus_tag=TBepi4208.genome.CDS.1771
+TBepi4208.contig.77	feature	CDS	2212	3009	.	-	0	ID=TBepi4208.genome.CDS.1770;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1770
+TBepi4208.contig.77	feature	CDS	437	2203	.	-	0	ID=TBepi4208.genome.CDS.1769;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1769
+TBepi4208.contig.77	feature	CDS	3	440	.	+	0	ID=TBepi4208.genome.CDS.1768;Product=;locus_tag=TBepi4208.genome.CDS.1768
+TBepi4208.contig.78	feature	CDS	12775	13053	.	+	0	ID=TBepi4208.genome.CDS.1785;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1785
+TBepi4208.contig.78	feature	tRNA	12661	12736	.	+	.	ID=TBepi4208.genome.rna.23;Product=tRNA-Leu-TAA;locus_tag=TBepi4208.genome.rna.23
+TBepi4208.contig.78	feature	CDS	11040	12560	.	+	0	ID=TBepi4208.genome.CDS.1784;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1784
+TBepi4208.contig.78	feature	CDS	10603	10794	.	+	0	ID=TBepi4208.genome.CDS.1783;Product=;locus_tag=TBepi4208.genome.CDS.1783
+TBepi4208.contig.78	feature	CDS	10420	10590	.	+	0	ID=TBepi4208.genome.CDS.1782;Product=;locus_tag=TBepi4208.genome.CDS.1782
+TBepi4208.contig.78	feature	CDS	8957	10405	.	+	0	ID=TBepi4208.genome.CDS.1781;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1781
+TBepi4208.contig.78	feature	CDS	8241	8960	.	+	0	ID=TBepi4208.genome.CDS.1780;Product=Glycosyltransferase;locus_tag=TBepi4208.genome.CDS.1780
+TBepi4208.contig.78	feature	CDS	7534	8241	.	+	0	ID=TBepi4208.genome.CDS.1779;Product=Uracil-DNA glycosylase%2C family 5;locus_tag=TBepi4208.genome.CDS.1779
+TBepi4208.contig.78	feature	CDS	6638	7561	.	+	0	ID=TBepi4208.genome.CDS.1778;Product=Exopolyphosphatase %28EC 3.6.1.11%29;locus_tag=TBepi4208.genome.CDS.1778
+TBepi4208.contig.78	feature	CDS	6141	6641	.	+	0	ID=TBepi4208.genome.CDS.1777;Product=FIG004853: possible toxin to DivIC;locus_tag=TBepi4208.genome.CDS.1777
+TBepi4208.contig.78	feature	CDS	5733	6137	.	+	0	ID=TBepi4208.genome.CDS.1776;Product=;locus_tag=TBepi4208.genome.CDS.1776
+TBepi4208.contig.78	feature	CDS	4463	5740	.	+	0	ID=TBepi4208.genome.CDS.1775;Product=Enolase %28EC 4.2.1.11%29;locus_tag=TBepi4208.genome.CDS.1775
+TBepi4208.contig.78	feature	CDS	3729	4373	.	+	0	ID=TBepi4208.genome.CDS.1774;Product=Nucleoside triphosphate pyrophosphohydrolase MazG %28EC 3.6.1.8%29;locus_tag=TBepi4208.genome.CDS.1774
+TBepi4208.contig.78	feature	CDS	3122	3715	.	+	0	ID=TBepi4208.genome.CDS.1773;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1773
+TBepi4208.contig.78	feature	CDS	2	3109	.	+	0	ID=TBepi4208.genome.CDS.1772;Product=Transcription-repair coupling factor;locus_tag=TBepi4208.genome.CDS.1772
+TBepi4208.contig.79	feature	CDS	15494	16810	.	-	0	ID=TBepi4208.genome.CDS.1802;Product=UDP-glucose 6-dehydrogenase %28EC 1.1.1.22%29;locus_tag=TBepi4208.genome.CDS.1802
+TBepi4208.contig.79	feature	CDS	14988	15497	.	+	0	ID=TBepi4208.genome.CDS.1801;Product=Phosphoribosylaminoimidazole carboxylase catalytic subunit %28EC 4.1.1.21%29;locus_tag=TBepi4208.genome.CDS.1801
+TBepi4208.contig.79	feature	CDS	13883	14995	.	+	0	ID=TBepi4208.genome.CDS.1800;Product=Phosphoribosylaminoimidazole carboxylase ATPase subunit %28EC 4.1.1.21%29;locus_tag=TBepi4208.genome.CDS.1800
+TBepi4208.contig.79	feature	CDS	13137	13883	.	+	0	ID=TBepi4208.genome.CDS.1799;Product=Biotin--protein ligase %28EC 6.3.4.9%2C EC 6.3.4.10%2C EC 6.3.4.11%2C EC 6.3.4.15%29;locus_tag=TBepi4208.genome.CDS.1799
+TBepi4208.contig.79	feature	CDS	11566	13095	.	-	0	ID=TBepi4208.genome.CDS.1798;Product=Acetyl-coenzyme A carboxyl transferase alpha chain %28EC 6.4.1.2%29 / Acetyl-coenzyme A carboxyl transferase beta chain %28EC 6.4.1.2%29%3B Propionyl-CoA carboxylase beta chain %28EC 6.4.1.3%29;locus_tag=TBepi4208.genome.CDS.1798
+TBepi4208.contig.79	feature	CDS	11390	11566	.	-	0	ID=TBepi4208.genome.CDS.1797;Product=;locus_tag=TBepi4208.genome.CDS.1797
+TBepi4208.contig.79	feature	CDS	10758	11390	.	-	0	ID=TBepi4208.genome.CDS.1796;Product=Septum formation protein Maf;locus_tag=TBepi4208.genome.CDS.1796
+TBepi4208.contig.79	feature	CDS	9046	10761	.	-	0	ID=TBepi4208.genome.CDS.1795;Product=Biotin carboxylase of acetyl-CoA carboxylase %28EC 6.3.4.14%29 / Biotin carboxyl carrier protein of acetyl-CoA carboxylase;locus_tag=TBepi4208.genome.CDS.1795
+TBepi4208.contig.79	feature	CDS	8185	9003	.	-	0	ID=TBepi4208.genome.CDS.1794;Product=Purine nucleoside phosphorylase %28EC 2.4.2.1%29;locus_tag=TBepi4208.genome.CDS.1794
+TBepi4208.contig.79	feature	CDS	6554	8188	.	-	0	ID=TBepi4208.genome.CDS.1793;Product=Phosphomannomutase %28EC 5.4.2.8%29;locus_tag=TBepi4208.genome.CDS.1793
+TBepi4208.contig.79	feature	CDS	5622	6557	.	-	0	ID=TBepi4208.genome.CDS.1792;Product=Deoxyribose-phosphate aldolase %28EC 4.1.2.4%29;locus_tag=TBepi4208.genome.CDS.1792
+TBepi4208.contig.79	feature	CDS	4168	5610	.	-	0	ID=TBepi4208.genome.CDS.1791;Product=Aldehyde dehydrogenase %28EC 1.2.1.3%29;locus_tag=TBepi4208.genome.CDS.1791
+TBepi4208.contig.79	feature	CDS	3329	4168	.	-	0	ID=TBepi4208.genome.CDS.1790;Product=Aldehyde dehydrogenase %28EC 1.2.1.3%29;locus_tag=TBepi4208.genome.CDS.1790
+TBepi4208.contig.79	feature	CDS	2237	3328	.	+	0	ID=TBepi4208.genome.CDS.1789;Product=Adenosine deaminase %28EC 3.5.4.4%29;locus_tag=TBepi4208.genome.CDS.1789
+TBepi4208.contig.79	feature	CDS	940	2235	.	+	0	ID=TBepi4208.genome.CDS.1788;Product=Thymidine phosphorylase %28EC 2.4.2.4%29;locus_tag=TBepi4208.genome.CDS.1788
+TBepi4208.contig.79	feature	CDS	536	943	.	+	0	ID=TBepi4208.genome.CDS.1787;Product=Cytidine deaminase %28EC 3.5.4.5%29;locus_tag=TBepi4208.genome.CDS.1787
+TBepi4208.contig.79	feature	CDS	3	539	.	+	0	ID=TBepi4208.genome.CDS.1786;Product=;locus_tag=TBepi4208.genome.CDS.1786
+TBepi4208.contig.8	feature	misc_RNA	26086	28083	.	+	.	ID=TBepi4208.genome.repeat.14;Product=repeat region;locus_tag=TBepi4208.genome.repeat.14
+TBepi4208.contig.8	feature	CDS	27800	28081	.	+	0	ID=TBepi4208.genome.CDS.1153;Product=Excinuclease ABC subunit C;locus_tag=TBepi4208.genome.CDS.1153
+TBepi4208.contig.8	feature	CDS	24955	27798	.	+	0	ID=TBepi4208.genome.CDS.1152;Product=Excinuclease ABC subunit A;locus_tag=TBepi4208.genome.CDS.1152
+TBepi4208.contig.8	feature	CDS	22877	24958	.	+	0	ID=TBepi4208.genome.CDS.1151;Product=Excinuclease ABC subunit B;locus_tag=TBepi4208.genome.CDS.1151
+TBepi4208.contig.8	feature	CDS	22259	22867	.	+	0	ID=TBepi4208.genome.CDS.1150;Product=Dephospho-CoA kinase %28EC 2.7.1.24%29;locus_tag=TBepi4208.genome.CDS.1150
+TBepi4208.contig.8	feature	CDS	20833	22179	.	+	0	ID=TBepi4208.genome.CDS.1149;Product=SSU ribosomal protein S1p;locus_tag=TBepi4208.genome.CDS.1149
+TBepi4208.contig.8	feature	CDS	19486	20712	.	-	0	ID=TBepi4208.genome.CDS.1148;Product=;locus_tag=TBepi4208.genome.CDS.1148
+TBepi4208.contig.8	feature	CDS	16883	19489	.	+	0	ID=TBepi4208.genome.CDS.1147;Product=DNA polymerase I %28EC 2.7.7.7%29;locus_tag=TBepi4208.genome.CDS.1147
+TBepi4208.contig.8	feature	CDS	16443	16850	.	-	0	ID=TBepi4208.genome.CDS.1146;Product=ComA operon protein 2;locus_tag=TBepi4208.genome.CDS.1146
+TBepi4208.contig.8	feature	CDS	15702	16436	.	+	0	ID=TBepi4208.genome.CDS.1145;Product=Branched-chain amino acid transport ATP-binding protein LivF %28TC 3.A.1.4.1%29;locus_tag=TBepi4208.genome.CDS.1145
+TBepi4208.contig.8	feature	CDS	14936	15712	.	+	0	ID=TBepi4208.genome.CDS.1144;Product=Branched-chain amino acid transport ATP-binding protein LivG %28TC 3.A.1.4.1%29;locus_tag=TBepi4208.genome.CDS.1144
+TBepi4208.contig.8	feature	CDS	13914	14939	.	+	0	ID=TBepi4208.genome.CDS.1143;Product=Branched-chain amino acid transport system permease protein LivM %28TC 3.A.1.4.1%29;locus_tag=TBepi4208.genome.CDS.1143
+TBepi4208.contig.8	feature	CDS	12958	13911	.	+	0	ID=TBepi4208.genome.CDS.1142;Product=High-affinity branched-chain amino acid transport system permease protein LivH %28TC 3.A.1.4.1%29;locus_tag=TBepi4208.genome.CDS.1142
+TBepi4208.contig.8	feature	CDS	11688	12854	.	+	0	ID=TBepi4208.genome.CDS.1141;Product=Branched-chain amino acid ABC transporter%2C amino acid-binding protein %28TC 3.A.1.4.1%29;locus_tag=TBepi4208.genome.CDS.1141
+TBepi4208.contig.8	feature	CDS	10903	11511	.	+	0	ID=TBepi4208.genome.CDS.1140;Product=response regulator;locus_tag=TBepi4208.genome.CDS.1140
+TBepi4208.contig.8	feature	tRNA	10829	10901	.	+	.	ID=TBepi4208.genome.rna.3;Product=tRNA-Leu-CAA;locus_tag=TBepi4208.genome.rna.3
+TBepi4208.contig.8	feature	CDS	9353	10795	.	+	0	ID=TBepi4208.genome.CDS.1139;Product=Pyruvate kinase %28EC 2.7.1.40%29;locus_tag=TBepi4208.genome.CDS.1139
+TBepi4208.contig.8	feature	CDS	7855	9312	.	+	0	ID=TBepi4208.genome.CDS.1138;Product=Glutamate synthase %5BNADPH%5D small chain %28EC 1.4.1.13%29;locus_tag=TBepi4208.genome.CDS.1138
+TBepi4208.contig.8	feature	CDS	3742	7854	.	+	0	ID=TBepi4208.genome.CDS.1137;Product=Glutamate synthase %5BNADPH%5D large chain %28EC 1.4.1.13%29;locus_tag=TBepi4208.genome.CDS.1137
+TBepi4208.contig.8	feature	CDS	3287	3679	.	+	0	ID=TBepi4208.genome.CDS.1136;Product=Glutamate synthase %5BNADPH%5D large chain %28EC 1.4.1.13%29;locus_tag=TBepi4208.genome.CDS.1136
+TBepi4208.contig.8	feature	CDS	2491	3198	.	+	0	ID=TBepi4208.genome.CDS.1135;Product=;locus_tag=TBepi4208.genome.CDS.1135
+TBepi4208.contig.8	feature	CDS	1657	2481	.	+	0	ID=TBepi4208.genome.CDS.1134;Product=Prolipoprotein diacylglyceryl transferase %28EC 2.4.99.-%29;locus_tag=TBepi4208.genome.CDS.1134
+TBepi4208.contig.8	feature	CDS	969	1649	.	+	0	ID=TBepi4208.genome.CDS.1133;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1133
+TBepi4208.contig.8	feature	CDS	468	932	.	+	0	ID=TBepi4208.genome.CDS.1132;Product=;locus_tag=TBepi4208.genome.CDS.1132
+TBepi4208.contig.8	feature	CDS	1	471	.	+	0	ID=TBepi4208.genome.CDS.1131;Product=Tryptophan synthase alpha chain %28EC 4.2.1.20%29;locus_tag=TBepi4208.genome.CDS.1131
+TBepi4208.contig.80	feature	CDS	16961	18172	.	-	0	ID=TBepi4208.genome.CDS.1816;Product=Protein-export membrane protein SecD %28TC 3.A.5.1.1%29;locus_tag=TBepi4208.genome.CDS.1816
+TBepi4208.contig.80	feature	CDS	15893	16960	.	-	0	ID=TBepi4208.genome.CDS.1815;Product=Protein-export membrane protein SecF %28TC 3.A.5.1.1%29;locus_tag=TBepi4208.genome.CDS.1815
+TBepi4208.contig.80	feature	CDS	13671	15842	.	-	0	ID=TBepi4208.genome.CDS.1814;Product=GTP pyrophosphokinase %28EC 2.7.6.5%29%2C %28p%29ppGpp synthetase I;locus_tag=TBepi4208.genome.CDS.1814
+TBepi4208.contig.80	feature	CDS	12352	13674	.	+	0	ID=TBepi4208.genome.CDS.1813;Product=ATPase involved in DNA repair;locus_tag=TBepi4208.genome.CDS.1813
+TBepi4208.contig.80	feature	CDS	11466	12158	.	-	0	ID=TBepi4208.genome.CDS.1812;Product=Hydroxyacylglutathione hydrolase %28EC 3.1.2.6%29;locus_tag=TBepi4208.genome.CDS.1812
+TBepi4208.contig.80	feature	CDS	10136	11410	.	-	0	ID=TBepi4208.genome.CDS.1811;Product=Histidyl-tRNA synthetase %28EC 6.1.1.21%29;locus_tag=TBepi4208.genome.CDS.1811
+TBepi4208.contig.80	feature	CDS	8364	10139	.	-	0	ID=TBepi4208.genome.CDS.1810;Product=Aspartyl-tRNA synthetase %28EC 6.1.1.12%29 %40 Aspartyl-tRNA%28Asn%29 synthetase %28EC 6.1.1.23%29;locus_tag=TBepi4208.genome.CDS.1810
+TBepi4208.contig.80	feature	CDS	7699	8343	.	-	0	ID=TBepi4208.genome.CDS.1809;Product=;locus_tag=TBepi4208.genome.CDS.1809
+TBepi4208.contig.80	feature	CDS	5441	7702	.	-	0	ID=TBepi4208.genome.CDS.1808;Product=Cell division protein FtsH %28EC 3.4.24.-%29;locus_tag=TBepi4208.genome.CDS.1808
+TBepi4208.contig.80	feature	CDS	5002	5388	.	-	0	ID=TBepi4208.genome.CDS.1807;Product=;locus_tag=TBepi4208.genome.CDS.1807
+TBepi4208.contig.80	feature	CDS	2314	4998	.	-	0	ID=TBepi4208.genome.CDS.1806;Product=Alanyl-tRNA synthetase %28EC 6.1.1.7%29;locus_tag=TBepi4208.genome.CDS.1806
+TBepi4208.contig.80	feature	CDS	1868	2314	.	-	0	ID=TBepi4208.genome.CDS.1805;Product=;locus_tag=TBepi4208.genome.CDS.1805
+TBepi4208.contig.80	feature	CDS	849	1871	.	-	0	ID=TBepi4208.genome.CDS.1804;Product=FIG004453: protein YceG like;locus_tag=TBepi4208.genome.CDS.1804
+TBepi4208.contig.80	feature	CDS	55	852	.	-	0	ID=TBepi4208.genome.CDS.1803;Product=Shikimate 5-dehydrogenase I alpha %28EC 1.1.1.25%29;locus_tag=TBepi4208.genome.CDS.1803
+TBepi4208.contig.81	feature	misc_RNA	16258	18255	.	+	.	ID=TBepi4208.genome.repeat.10;Product=repeat region;locus_tag=TBepi4208.genome.repeat.10
+TBepi4208.contig.81	feature	CDS	16543	18255	.	-	0	ID=TBepi4208.genome.CDS.1833;Product=Excinuclease ABC subunit A;locus_tag=TBepi4208.genome.CDS.1833
+TBepi4208.contig.81	feature	CDS	14640	16541	.	-	0	ID=TBepi4208.genome.CDS.1832;Product=Excinuclease ABC subunit C;locus_tag=TBepi4208.genome.CDS.1832
+TBepi4208.contig.81	feature	CDS	13752	14627	.	-	0	ID=TBepi4208.genome.CDS.1831;Product=FIG000506: Predicted P-loop-containing kinase;locus_tag=TBepi4208.genome.CDS.1831
+TBepi4208.contig.81	feature	CDS	12806	13738	.	-	0	ID=TBepi4208.genome.CDS.1830;Product=FIG002813: LPPG:FO 2-phospho-L-lactate transferase like%2C CofD-like;locus_tag=TBepi4208.genome.CDS.1830
+TBepi4208.contig.81	feature	CDS	11809	12786	.	-	0	ID=TBepi4208.genome.CDS.1829;Product=FIG001886: Cytoplasmic hypothetical protein;locus_tag=TBepi4208.genome.CDS.1829
+TBepi4208.contig.81	feature	CDS	10726	11727	.	-	0	ID=TBepi4208.genome.CDS.1828;Product=NAD-dependent glyceraldehyde-3-phosphate dehydrogenase %28EC 1.2.1.12%29;locus_tag=TBepi4208.genome.CDS.1828
+TBepi4208.contig.81	feature	CDS	9536	10726	.	-	0	ID=TBepi4208.genome.CDS.1827;Product=Phosphoglycerate kinase %28EC 2.7.2.3%29;locus_tag=TBepi4208.genome.CDS.1827
+TBepi4208.contig.81	feature	CDS	8696	9475	.	-	0	ID=TBepi4208.genome.CDS.1826;Product=Triosephosphate isomerase %28EC 5.3.1.1%29;locus_tag=TBepi4208.genome.CDS.1826
+TBepi4208.contig.81	feature	CDS	8372	8602	.	-	0	ID=TBepi4208.genome.CDS.1825;Product=Preprotein translocase subunit SecG %28TC 3.A.5.1.1%29;locus_tag=TBepi4208.genome.CDS.1825
+TBepi4208.contig.81	feature	CDS	7956	8291	.	-	0	ID=TBepi4208.genome.CDS.1824;Product=putative electron transport protein;locus_tag=TBepi4208.genome.CDS.1824
+TBepi4208.contig.81	feature	CDS	6418	7959	.	+	0	ID=TBepi4208.genome.CDS.1823;Product=Glucose-6-phosphate isomerase %28EC 5.3.1.9%29;locus_tag=TBepi4208.genome.CDS.1823
+TBepi4208.contig.81	feature	CDS	5305	6396	.	+	0	ID=TBepi4208.genome.CDS.1822;Product=Transaldolase %28EC 2.2.1.2%29;locus_tag=TBepi4208.genome.CDS.1822
+TBepi4208.contig.81	feature	CDS	3248	5308	.	+	0	ID=TBepi4208.genome.CDS.1821;Product=Transketolase %28EC 2.2.1.1%29;locus_tag=TBepi4208.genome.CDS.1821
+TBepi4208.contig.81	feature	CDS	2286	3224	.	+	0	ID=TBepi4208.genome.CDS.1820;Product=Cytochrome oxidase assembly protein;locus_tag=TBepi4208.genome.CDS.1820
+TBepi4208.contig.81	feature	CDS	1538	2197	.	-	0	ID=TBepi4208.genome.CDS.1819;Product=Iron-sulfur cluster regulator SufR;locus_tag=TBepi4208.genome.CDS.1819
+TBepi4208.contig.81	feature	CDS	123	1541	.	-	0	ID=TBepi4208.genome.CDS.1818;Product=Iron-sulfur cluster assembly protein SufB;locus_tag=TBepi4208.genome.CDS.1818
+TBepi4208.contig.81	feature	CDS	1	123	.	-	0	ID=TBepi4208.genome.CDS.1817;Product=Iron-sulfur cluster assembly protein SufD;locus_tag=TBepi4208.genome.CDS.1817
+TBepi4208.contig.82	feature	misc_RNA	1	610	.	+	.	ID=TBepi4208.genome.repeat.36;Product=repeat region;locus_tag=TBepi4208.genome.repeat.36
+TBepi4208.contig.82	feature	CDS	18627	19679	.	+	0	ID=TBepi4208.genome.CDS.1854;Product=D-alanyl-D-alanine carboxypeptidase %28EC 3.4.16.4%29;locus_tag=TBepi4208.genome.CDS.1854
+TBepi4208.contig.82	feature	CDS	17714	18619	.	+	0	ID=TBepi4208.genome.CDS.1853;Product=Permease of the drug/metabolite transporter %28DMT%29 superfamily;locus_tag=TBepi4208.genome.CDS.1853
+TBepi4208.contig.82	feature	CDS	17059	17691	.	-	0	ID=TBepi4208.genome.CDS.1852;Product=SpoU rRNA methylase family protein;locus_tag=TBepi4208.genome.CDS.1852
+TBepi4208.contig.82	feature	CDS	16123	17055	.	+	0	ID=TBepi4208.genome.CDS.1851;Product=;locus_tag=TBepi4208.genome.CDS.1851
+TBepi4208.contig.82	feature	CDS	15321	16031	.	-	0	ID=TBepi4208.genome.CDS.1850;Product=;locus_tag=TBepi4208.genome.CDS.1850
+TBepi4208.contig.82	feature	CDS	14215	15324	.	-	0	ID=TBepi4208.genome.CDS.1849;Product=surface antigen gene;locus_tag=TBepi4208.genome.CDS.1849
+TBepi4208.contig.82	feature	CDS	13997	14218	.	-	0	ID=TBepi4208.genome.CDS.1848;Product=;locus_tag=TBepi4208.genome.CDS.1848
+TBepi4208.contig.82	feature	CDS	12538	14010	.	-	0	ID=TBepi4208.genome.CDS.1847;Product=L-O-lysylphosphatidylglycerol synthase %28EC 2.3.2.3%29;locus_tag=TBepi4208.genome.CDS.1847
+TBepi4208.contig.82	feature	CDS	11404	12522	.	+	0	ID=TBepi4208.genome.CDS.1846;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1846
+TBepi4208.contig.82	feature	CDS	9930	11360	.	-	0	ID=TBepi4208.genome.CDS.1845;Product=Inosine-5%27-monophosphate dehydrogenase %28EC 1.1.1.205%29 / CBS domain;locus_tag=TBepi4208.genome.CDS.1845
+TBepi4208.contig.82	feature	CDS	9699	9929	.	+	0	ID=TBepi4208.genome.CDS.1844;Product=;locus_tag=TBepi4208.genome.CDS.1844
+TBepi4208.contig.82	feature	CDS	8918	9706	.	+	0	ID=TBepi4208.genome.CDS.1843;Product=;locus_tag=TBepi4208.genome.CDS.1843
+TBepi4208.contig.82	feature	CDS	8036	8779	.	-	0	ID=TBepi4208.genome.CDS.1842;Product=;locus_tag=TBepi4208.genome.CDS.1842
+TBepi4208.contig.82	feature	CDS	7248	8039	.	-	0	ID=TBepi4208.genome.CDS.1841;Product=Cytochrome c oxidase polypeptide II %28EC 1.9.3.1%29;locus_tag=TBepi4208.genome.CDS.1841
+TBepi4208.contig.82	feature	CDS	5380	7251	.	-	0	ID=TBepi4208.genome.CDS.1840;Product=Cytochrome c oxidase polypeptide I %28EC 1.9.3.1%29;locus_tag=TBepi4208.genome.CDS.1840
+TBepi4208.contig.82	feature	CDS	4784	5380	.	-	0	ID=TBepi4208.genome.CDS.1839;Product=;locus_tag=TBepi4208.genome.CDS.1839
+TBepi4208.contig.82	feature	CDS	3327	4742	.	+	0	ID=TBepi4208.genome.CDS.1838;Product=Cytosine/purine/uracil/thiamine/allantoin permease family protein;locus_tag=TBepi4208.genome.CDS.1838
+TBepi4208.contig.82	feature	CDS	2115	3281	.	-	0	ID=TBepi4208.genome.CDS.1837;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1837
+TBepi4208.contig.82	feature	CDS	1052	2077	.	-	0	ID=TBepi4208.genome.CDS.1836;Product=Mannose-6-phosphate isomerase %28EC 5.3.1.8%29;locus_tag=TBepi4208.genome.CDS.1836
+TBepi4208.contig.82	feature	CDS	654	1019	.	-	0	ID=TBepi4208.genome.CDS.1835;Product=;locus_tag=TBepi4208.genome.CDS.1835
+TBepi4208.contig.82	feature	CDS	2	640	.	-	0	ID=TBepi4208.genome.CDS.1834;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1834
+TBepi4208.contig.83	feature	misc_RNA	19771	20174	.	+	.	ID=TBepi4208.genome.repeat.24;Product=repeat region;locus_tag=TBepi4208.genome.repeat.24
+TBepi4208.contig.83	feature	CDS	19729	20175	.	+	0	ID=TBepi4208.genome.CDS.1872;Product=Branched-chain amino acid aminotransferase %28EC 2.6.1.42%29;locus_tag=TBepi4208.genome.CDS.1872
+TBepi4208.contig.83	feature	CDS	18695	19732	.	+	0	ID=TBepi4208.genome.CDS.1871;Product=3-isopropylmalate dehydrogenase %28EC 1.1.1.85%29;locus_tag=TBepi4208.genome.CDS.1871
+TBepi4208.contig.83	feature	CDS	17099	18691	.	+	0	ID=TBepi4208.genome.CDS.1870;Product=D-3-phosphoglycerate dehydrogenase %28EC 1.1.1.95%29;locus_tag=TBepi4208.genome.CDS.1870
+TBepi4208.contig.83	feature	CDS	16072	17106	.	+	0	ID=TBepi4208.genome.CDS.1869;Product=Ketol-acid reductoisomerase %28EC 1.1.1.86%29;locus_tag=TBepi4208.genome.CDS.1869
+TBepi4208.contig.83	feature	CDS	15475	16029	.	+	0	ID=TBepi4208.genome.CDS.1868;Product=Acetolactate synthase small subunit %28EC 2.2.1.6%29;locus_tag=TBepi4208.genome.CDS.1868
+TBepi4208.contig.83	feature	CDS	13726	15474	.	+	0	ID=TBepi4208.genome.CDS.1867;Product=Acetolactate synthase large subunit %28EC 2.2.1.6%29;locus_tag=TBepi4208.genome.CDS.1867
+TBepi4208.contig.83	feature	CDS	11820	13496	.	+	0	ID=TBepi4208.genome.CDS.1866;Product=Dihydroxy-acid dehydratase %28EC 4.2.1.9%29;locus_tag=TBepi4208.genome.CDS.1866
+TBepi4208.contig.83	feature	CDS	10317	11816	.	+	0	ID=TBepi4208.genome.CDS.1865;Product=Aspartyl-tRNA%28Asn%29 amidotransferase subunit B %28EC 6.3.5.6%29 %40 Glutamyl-tRNA%28Gln%29 amidotransferase subunit B %28EC 6.3.5.7%29;locus_tag=TBepi4208.genome.CDS.1865
+TBepi4208.contig.83	feature	CDS	8818	10317	.	+	0	ID=TBepi4208.genome.CDS.1864;Product=Aspartyl-tRNA%28Asn%29 amidotransferase subunit A %28EC 6.3.5.6%29 %40 Glutamyl-tRNA%28Gln%29 amidotransferase subunit A %28EC 6.3.5.7%29;locus_tag=TBepi4208.genome.CDS.1864
+TBepi4208.contig.83	feature	CDS	8521	8817	.	+	0	ID=TBepi4208.genome.CDS.1863;Product=Aspartyl-tRNA%28Asn%29 amidotransferase subunit C %28EC 6.3.5.6%29 %40 Glutamyl-tRNA%28Gln%29 amidotransferase subunit C %28EC 6.3.5.7%29;locus_tag=TBepi4208.genome.CDS.1863
+TBepi4208.contig.83	feature	CDS	7209	8477	.	+	0	ID=TBepi4208.genome.CDS.1862;Product=Gamma-glutamyl phosphate reductase %28EC 1.2.1.41%29;locus_tag=TBepi4208.genome.CDS.1862
+TBepi4208.contig.83	feature	CDS	6010	7176	.	-	0	ID=TBepi4208.genome.CDS.1861;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1861
+TBepi4208.contig.83	feature	CDS	5242	6036	.	+	0	ID=TBepi4208.genome.CDS.1860;Product=Glutamate 5-kinase %28EC 2.7.2.11%29 / RNA-binding C-terminal domain PUA;locus_tag=TBepi4208.genome.CDS.1860
+TBepi4208.contig.83	feature	CDS	3774	5249	.	+	0	ID=TBepi4208.genome.CDS.1859;Product=GTP-binding protein Obg;locus_tag=TBepi4208.genome.CDS.1859
+TBepi4208.contig.83	feature	CDS	3391	3660	.	+	0	ID=TBepi4208.genome.CDS.1858;Product=LSU ribosomal protein L27p;locus_tag=TBepi4208.genome.CDS.1858
+TBepi4208.contig.83	feature	CDS	3027	3335	.	+	0	ID=TBepi4208.genome.CDS.1857;Product=LSU ribosomal protein L21p;locus_tag=TBepi4208.genome.CDS.1857
+TBepi4208.contig.83	feature	CDS	824	2944	.	+	0	ID=TBepi4208.genome.CDS.1856;Product=Cytoplasmic axial filament protein CafA and Ribonuclease G %28EC 3.1.4.-%29;locus_tag=TBepi4208.genome.CDS.1856
+TBepi4208.contig.83	feature	CDS	2	610	.	+	0	ID=TBepi4208.genome.CDS.1855;Product=Rod shape-determining protein RodA;locus_tag=TBepi4208.genome.CDS.1855
+TBepi4208.contig.84	feature	misc_RNA	1	127	.	+	.	ID=TBepi4208.genome.repeat.13;Product=repeat region;locus_tag=TBepi4208.genome.repeat.13
+TBepi4208.contig.84	feature	CDS	20087	20416	.	+	0	ID=TBepi4208.genome.CDS.1896;Product=Argininosuccinate synthase %28EC 6.3.4.5%29;locus_tag=TBepi4208.genome.CDS.1896
+TBepi4208.contig.84	feature	CDS	19625	20047	.	+	0	ID=TBepi4208.genome.CDS.1895;Product=;locus_tag=TBepi4208.genome.CDS.1895
+TBepi4208.contig.84	feature	CDS	18168	19571	.	-	0	ID=TBepi4208.genome.CDS.1894;Product=;locus_tag=TBepi4208.genome.CDS.1894
+TBepi4208.contig.84	feature	CDS	16864	17346	.	+	0	ID=TBepi4208.genome.CDS.1893;Product=tmRNA-binding protein SmpB;locus_tag=TBepi4208.genome.CDS.1893
+TBepi4208.contig.84	feature	CDS	15584	16762	.	+	0	ID=TBepi4208.genome.CDS.1892;Product=Carboxyl-terminal protease %28EC 3.4.21.102%29;locus_tag=TBepi4208.genome.CDS.1892
+TBepi4208.contig.84	feature	CDS	14598	15500	.	+	0	ID=TBepi4208.genome.CDS.1891;Product=Cell division protein FtsX;locus_tag=TBepi4208.genome.CDS.1891
+TBepi4208.contig.84	feature	CDS	13899	14588	.	+	0	ID=TBepi4208.genome.CDS.1890;Product=Cell division transporter%2C ATP-binding protein FtsE %28TC 3.A.5.1.1%29;locus_tag=TBepi4208.genome.CDS.1890
+TBepi4208.contig.84	feature	CDS	12678	13784	.	+	0	ID=TBepi4208.genome.CDS.1889;Product=Peptide chain release factor 2;locus_tag=TBepi4208.genome.CDS.1889
+TBepi4208.contig.84	feature	CDS	12128	12658	.	+	0	ID=TBepi4208.genome.CDS.1888;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1888
+TBepi4208.contig.84	feature	CDS	11607	12131	.	+	0	ID=TBepi4208.genome.CDS.1887;Product=;locus_tag=TBepi4208.genome.CDS.1887
+TBepi4208.contig.84	feature	CDS	11167	11598	.	+	0	ID=TBepi4208.genome.CDS.1886;Product=;locus_tag=TBepi4208.genome.CDS.1886
+TBepi4208.contig.84	feature	CDS	10544	11170	.	+	0	ID=TBepi4208.genome.CDS.1885;Product=;locus_tag=TBepi4208.genome.CDS.1885
+TBepi4208.contig.84	feature	CDS	9670	10455	.	+	0	ID=TBepi4208.genome.CDS.1884;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1884
+TBepi4208.contig.84	feature	CDS	8822	9673	.	+	0	ID=TBepi4208.genome.CDS.1883;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1883
+TBepi4208.contig.84	feature	CDS	7794	8825	.	+	0	ID=TBepi4208.genome.CDS.1882;Product=type II secretion system protein E;locus_tag=TBepi4208.genome.CDS.1882
+TBepi4208.contig.84	feature	CDS	7234	7644	.	+	0	ID=TBepi4208.genome.CDS.1881;Product=;locus_tag=TBepi4208.genome.CDS.1881
+TBepi4208.contig.84	feature	CDS	6821	7189	.	-	0	ID=TBepi4208.genome.CDS.1880;Product=;locus_tag=TBepi4208.genome.CDS.1880
+TBepi4208.contig.84	feature	CDS	2994	6725	.	-	0	ID=TBepi4208.genome.CDS.1879;Product=2-oxoglutarate dehydrogenase E1 component %28EC 1.2.4.2%29;locus_tag=TBepi4208.genome.CDS.1879
+TBepi4208.contig.84	feature	CDS	2474	2839	.	+	0	ID=TBepi4208.genome.CDS.830;Product=;locus_tag=TBepi4208.genome.CDS.830
+TBepi4208.contig.84	feature	CDS	2033	2431	.	-	0	ID=TBepi4208.genome.CDS.1877;Product=Nickel-dependent superoxide dismutase %28EC 1.15.1.1%29;locus_tag=TBepi4208.genome.CDS.1877
+TBepi4208.contig.84	feature	CDS	1463	1882	.	+	0	ID=TBepi4208.genome.CDS.1876;Product=;locus_tag=TBepi4208.genome.CDS.1876
+TBepi4208.contig.84	feature	CDS	1086	1457	.	+	0	ID=TBepi4208.genome.CDS.1875;Product=;locus_tag=TBepi4208.genome.CDS.1875
+TBepi4208.contig.84	feature	CDS	388	1038	.	+	0	ID=TBepi4208.genome.CDS.1874;Product=;locus_tag=TBepi4208.genome.CDS.1874
+TBepi4208.contig.84	feature	CDS	3	353	.	+	0	ID=TBepi4208.genome.CDS.1873;Product=;locus_tag=TBepi4208.genome.CDS.1873
+TBepi4208.contig.85	feature	misc_RNA	1	127	.	+	.	ID=TBepi4208.genome.repeat.32;Product=repeat region;locus_tag=TBepi4208.genome.repeat.32
+TBepi4208.contig.85	feature	CDS	20237	20923	.	-	0	ID=TBepi4208.genome.CDS.1916;Product=ATP-dependent DNA helicase SCO5184;locus_tag=TBepi4208.genome.CDS.1916
+TBepi4208.contig.85	feature	CDS	19473	20267	.	+	0	ID=TBepi4208.genome.CDS.1915;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1915
+TBepi4208.contig.85	feature	CDS	18441	19436	.	-	0	ID=TBepi4208.genome.CDS.1914;Product=NADH pyrophosphatase %28EC 3.6.1.22%29;locus_tag=TBepi4208.genome.CDS.1914
+TBepi4208.contig.85	feature	CDS	16767	18404	.	-	0	ID=TBepi4208.genome.CDS.1913;Product=ATP-dependent DNA helicase UvrD/PcrA%2C actinomycete paralog;locus_tag=TBepi4208.genome.CDS.1913
+TBepi4208.contig.85	feature	CDS	16553	16714	.	-	0	ID=TBepi4208.genome.CDS.864;Product=;locus_tag=TBepi4208.genome.CDS.864
+TBepi4208.contig.85	feature	CDS	16060	16401	.	-	0	ID=TBepi4208.genome.CDS.1912;Product=WhiB-family transcriptional regulator;locus_tag=TBepi4208.genome.CDS.1912
+TBepi4208.contig.85	feature	CDS	14778	16025	.	+	0	ID=TBepi4208.genome.CDS.1911;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1911
+TBepi4208.contig.85	feature	CDS	14428	14586	.	+	0	ID=TBepi4208.genome.CDS.1910;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1910
+TBepi4208.contig.85	feature	CDS	13651	14322	.	+	0	ID=TBepi4208.genome.CDS.1909;Product=;locus_tag=TBepi4208.genome.CDS.1909
+TBepi4208.contig.85	feature	CDS	13385	13630	.	+	0	ID=TBepi4208.genome.CDS.859;Product=;locus_tag=TBepi4208.genome.CDS.859
+TBepi4208.contig.85	feature	CDS	11878	13158	.	+	0	ID=TBepi4208.genome.CDS.1908;Product=diguanylate cyclase/phosphodiesterase %28GGDEF %26 EAL domains%29 with PAS/PAC sensor%28s%29;locus_tag=TBepi4208.genome.CDS.1908
+TBepi4208.contig.85	feature	CDS	11535	11756	.	-	0	ID=TBepi4208.genome.CDS.1907;Product=;locus_tag=TBepi4208.genome.CDS.1907
+TBepi4208.contig.85	feature	CDS	10719	11393	.	-	0	ID=TBepi4208.genome.CDS.856;Product=;locus_tag=TBepi4208.genome.CDS.856
+TBepi4208.contig.85	feature	CDS	7805	10705	.	-	0	ID=TBepi4208.genome.CDS.1905;Product=INTEGRAL MEMBRANE PROTEIN %28Rhomboid family%29;locus_tag=TBepi4208.genome.CDS.1905
+TBepi4208.contig.85	feature	tRNA	7655	7731	.	-	.	ID=TBepi4208.genome.rna.24;Product=tRNA-Met-CAT;locus_tag=TBepi4208.genome.rna.24
+TBepi4208.contig.85	feature	CDS	6834	7586	.	-	0	ID=TBepi4208.genome.CDS.1904;Product=6-phosphogluconolactonase %28EC 3.1.1.31%29%2C eukaryotic type;locus_tag=TBepi4208.genome.CDS.1904
+TBepi4208.contig.85	feature	CDS	5800	6834	.	-	0	ID=TBepi4208.genome.CDS.1903;Product=6-phosphogluconate dehydrogenase%2C decarboxylating %28EC 1.1.1.44%29;locus_tag=TBepi4208.genome.CDS.1903
+TBepi4208.contig.85	feature	CDS	4409	5803	.	-	0	ID=TBepi4208.genome.CDS.1902;Product=Glucose-6-phosphate 1-dehydrogenase %28EC 1.1.1.49%29;locus_tag=TBepi4208.genome.CDS.1902
+TBepi4208.contig.85	feature	CDS	3752	4390	.	+	0	ID=TBepi4208.genome.CDS.1901;Product=;locus_tag=TBepi4208.genome.CDS.1901
+TBepi4208.contig.85	feature	CDS	2918	3751	.	+	0	ID=TBepi4208.genome.CDS.1900;Product=Histidinol-phosphatase %5Balternative form%5D %28EC 3.1.3.15%29;locus_tag=TBepi4208.genome.CDS.1900
+TBepi4208.contig.85	feature	CDS	1881	2903	.	+	0	ID=TBepi4208.genome.CDS.1899;Product=Ribosome small subunit-stimulated GTPase EngC;locus_tag=TBepi4208.genome.CDS.1899
+TBepi4208.contig.85	feature	CDS	567	1862	.	+	0	ID=TBepi4208.genome.CDS.1898;Product=5-Enolpyruvylshikimate-3-phosphate synthase %28EC 2.5.1.19%29;locus_tag=TBepi4208.genome.CDS.1898
+TBepi4208.contig.85	feature	CDS	3	518	.	-	0	ID=TBepi4208.genome.CDS.1897;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1897
+TBepi4208.contig.86	feature	CDS	20285	21118	.	-	0	ID=TBepi4208.genome.CDS.1938;Product=Iron-sulfur cluster assembly protein SufD;locus_tag=TBepi4208.genome.CDS.1938
+TBepi4208.contig.86	feature	CDS	19965	20288	.	-	0	ID=TBepi4208.genome.CDS.1937;Product=Ferredoxin%2C 2Fe-2S;locus_tag=TBepi4208.genome.CDS.1937
+TBepi4208.contig.86	feature	CDS	19212	19964	.	-	0	ID=TBepi4208.genome.CDS.1936;Product=Iron-sulfur cluster assembly ATPase protein SufC;locus_tag=TBepi4208.genome.CDS.1936
+TBepi4208.contig.86	feature	CDS	17956	19206	.	-	0	ID=TBepi4208.genome.CDS.1935;Product=Cysteine desulfurase %28EC 2.8.1.7%29%2C SufS subfamily;locus_tag=TBepi4208.genome.CDS.1935
+TBepi4208.contig.86	feature	CDS	17509	17949	.	-	0	ID=TBepi4208.genome.CDS.1934;Product=Putative iron-sulfur cluster assembly scaffold protein for SUF system%2C SufE2;locus_tag=TBepi4208.genome.CDS.1934
+TBepi4208.contig.86	feature	CDS	17146	17466	.	-	0	ID=TBepi4208.genome.CDS.1933;Product=PaaD-like protein %28DUF59%29 involved in Fe-S cluster assembly;locus_tag=TBepi4208.genome.CDS.1933
+TBepi4208.contig.86	feature	CDS	15267	17135	.	-	0	ID=TBepi4208.genome.CDS.1932;Product=ABC transporter%2C ATP-binding/permease protein;locus_tag=TBepi4208.genome.CDS.1932
+TBepi4208.contig.86	feature	CDS	14554	15270	.	+	0	ID=TBepi4208.genome.CDS.1931;Product=;locus_tag=TBepi4208.genome.CDS.1931
+TBepi4208.contig.86	feature	CDS	14274	14570	.	+	0	ID=TBepi4208.genome.CDS.883;Product=FIG00761799: membrane protein;locus_tag=TBepi4208.genome.CDS.883
+TBepi4208.contig.86	feature	CDS	13475	14194	.	-	0	ID=TBepi4208.genome.CDS.1930;Product=3-oxoacyl-%5Bacyl-carrier protein%5D reductase %28EC 1.1.1.100%29;locus_tag=TBepi4208.genome.CDS.1930
+TBepi4208.contig.86	feature	CDS	12699	13472	.	-	0	ID=TBepi4208.genome.CDS.1929;Product=Enoyl-%5Bacyl-carrier-protein%5D reductase %5BNADH%5D %28EC 1.3.1.9%29;locus_tag=TBepi4208.genome.CDS.1929
+TBepi4208.contig.86	feature	CDS	11892	12569	.	-	0	ID=TBepi4208.genome.CDS.1928;Product=Translation initiation factor 3;locus_tag=TBepi4208.genome.CDS.1928
+TBepi4208.contig.86	feature	CDS	11679	11876	.	-	0	ID=TBepi4208.genome.CDS.1927;Product=LSU ribosomal protein L35p;locus_tag=TBepi4208.genome.CDS.1927
+TBepi4208.contig.86	feature	CDS	11301	11663	.	-	0	ID=TBepi4208.genome.CDS.1926;Product=LSU ribosomal protein L20p;locus_tag=TBepi4208.genome.CDS.1926
+TBepi4208.contig.86	feature	CDS	10475	11308	.	-	0	ID=TBepi4208.genome.CDS.1925;Product=;locus_tag=TBepi4208.genome.CDS.1925
+TBepi4208.contig.86	feature	CDS	9447	10463	.	-	0	ID=TBepi4208.genome.CDS.1924;Product=Phenylalanyl-tRNA synthetase alpha chain %28EC 6.1.1.20%29;locus_tag=TBepi4208.genome.CDS.1924
+TBepi4208.contig.86	feature	CDS	6988	9450	.	-	0	ID=TBepi4208.genome.CDS.1923;Product=Phenylalanyl-tRNA synthetase beta chain %28EC 6.1.1.20%29;locus_tag=TBepi4208.genome.CDS.1923
+TBepi4208.contig.86	feature	CDS	5882	6904	.	-	0	ID=TBepi4208.genome.CDS.1922;Product=N-acetyl-gamma-glutamyl-phosphate reductase %28EC 1.2.1.38%29;locus_tag=TBepi4208.genome.CDS.1922
+TBepi4208.contig.86	feature	CDS	5115	5882	.	-	0	ID=TBepi4208.genome.CDS.1921;Product=Acetylglutamate kinase %28EC 2.7.2.8%29;locus_tag=TBepi4208.genome.CDS.1921
+TBepi4208.contig.86	feature	CDS	3940	5118	.	-	0	ID=TBepi4208.genome.CDS.1920;Product=Acetylornithine aminotransferase %28EC 2.6.1.11%29;locus_tag=TBepi4208.genome.CDS.1920
+TBepi4208.contig.86	feature	CDS	3414	3950	.	-	0	ID=TBepi4208.genome.CDS.1919;Product=Arginine pathway regulatory protein ArgR%2C repressor of arg regulon;locus_tag=TBepi4208.genome.CDS.1919
+TBepi4208.contig.86	feature	CDS	1986	3413	.	-	0	ID=TBepi4208.genome.CDS.1918;Product=Argininosuccinate lyase %28EC 4.3.2.1%29;locus_tag=TBepi4208.genome.CDS.1918
+TBepi4208.contig.86	feature	CDS	715	1989	.	-	0	ID=TBepi4208.genome.CDS.1917;Product=Tyrosyl-tRNA synthetase %28EC 6.1.1.1%29;locus_tag=TBepi4208.genome.CDS.1917
+TBepi4208.contig.87	feature	CDS	11945	12274	.	+	0	ID=TBepi4208.genome.CDS.1951;Product=NADH-ubiquinone oxidoreductase chain I %28EC 1.6.5.3%29;locus_tag=TBepi4208.genome.CDS.1951
+TBepi4208.contig.87	feature	CDS	10729	11952	.	+	0	ID=TBepi4208.genome.CDS.1950;Product=NADH-ubiquinone oxidoreductase chain H %28EC 1.6.5.3%29;locus_tag=TBepi4208.genome.CDS.1950
+TBepi4208.contig.87	feature	CDS	8393	10732	.	+	0	ID=TBepi4208.genome.CDS.1949;Product=NADH-ubiquinone oxidoreductase chain G %28EC 1.6.5.3%29;locus_tag=TBepi4208.genome.CDS.1949
+TBepi4208.contig.87	feature	CDS	7086	8393	.	+	0	ID=TBepi4208.genome.CDS.1948;Product=NADH-ubiquinone oxidoreductase chain F %28EC 1.6.5.3%29;locus_tag=TBepi4208.genome.CDS.1948
+TBepi4208.contig.87	feature	CDS	6448	7083	.	+	0	ID=TBepi4208.genome.CDS.1947;Product=NADH-ubiquinone oxidoreductase chain E %28EC 1.6.5.3%29;locus_tag=TBepi4208.genome.CDS.1947
+TBepi4208.contig.87	feature	CDS	5105	6448	.	+	0	ID=TBepi4208.genome.CDS.1946;Product=NADH-ubiquinone oxidoreductase chain D %28EC 1.6.5.3%29;locus_tag=TBepi4208.genome.CDS.1946
+TBepi4208.contig.87	feature	CDS	4470	5108	.	+	0	ID=TBepi4208.genome.CDS.1945;Product=NADH-ubiquinone oxidoreductase chain C %28EC 1.6.5.3%29;locus_tag=TBepi4208.genome.CDS.1945
+TBepi4208.contig.87	feature	CDS	3919	4473	.	+	0	ID=TBepi4208.genome.CDS.1944;Product=NADH-ubiquinone oxidoreductase chain B %28EC 1.6.5.3%29;locus_tag=TBepi4208.genome.CDS.1944
+TBepi4208.contig.87	feature	CDS	3556	3915	.	+	0	ID=TBepi4208.genome.CDS.896;Product=NADH ubiquinone oxidoreductase chain A %28EC 1.6.5.3%29;locus_tag=TBepi4208.genome.CDS.896
+TBepi4208.contig.87	feature	CDS	2798	3445	.	+	0	ID=TBepi4208.genome.CDS.1942;Product=Demethylmenaquinone methyltransferase %28EC 2.1.1.163%29;locus_tag=TBepi4208.genome.CDS.1942
+TBepi4208.contig.87	feature	CDS	2102	2686	.	-	0	ID=TBepi4208.genome.CDS.1941;Product=Substrate-specific component BioY of biotin ECF transporter;locus_tag=TBepi4208.genome.CDS.1941
+TBepi4208.contig.87	feature	CDS	846	2090	.	-	0	ID=TBepi4208.genome.CDS.1940;Product=Isochorismate synthase %28EC 5.4.4.2%29 %40 Menaquinone-specific isochorismate synthase %28EC 5.4.4.2%29;locus_tag=TBepi4208.genome.CDS.1940
+TBepi4208.contig.87	feature	CDS	1	894	.	+	0	ID=TBepi4208.genome.CDS.1939;Product=2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase %28EC 2.2.1.9%29;locus_tag=TBepi4208.genome.CDS.1939
+TBepi4208.contig.88	feature	misc_RNA	1	325	.	+	.	ID=TBepi4208.genome.repeat.28;Product=repeat region;locus_tag=TBepi4208.genome.repeat.28
+TBepi4208.contig.88	feature	CDS	30893	31114	.	-	0	ID=TBepi4208.genome.CDS.1982;Product=;locus_tag=TBepi4208.genome.CDS.1982
+TBepi4208.contig.88	feature	CDS	30226	30909	.	-	0	ID=TBepi4208.genome.CDS.1981;Product=FIG00820755: hypothetical protein;locus_tag=TBepi4208.genome.CDS.1981
+TBepi4208.contig.88	feature	CDS	28956	30200	.	-	0	ID=TBepi4208.genome.CDS.933;Product=L-cysteine:1D-myo-inosityl 2-amino-2-deoxy-alpha-D-glucopyranoside ligase MshC;locus_tag=TBepi4208.genome.CDS.933
+TBepi4208.contig.88	feature	CDS	25393	28890	.	-	0	ID=TBepi4208.genome.CDS.1979;Product=5-methyltetrahydrofolate--homocysteine methyltransferase %28EC 2.1.1.13%29;locus_tag=TBepi4208.genome.CDS.1979
+TBepi4208.contig.88	feature	CDS	24537	25403	.	-	0	ID=TBepi4208.genome.CDS.1978;Product=tRNA %28adenine%2858%29-N%281%29%29-methyltransferase %28EC 2.1.1.220%29;locus_tag=TBepi4208.genome.CDS.1978
+TBepi4208.contig.88	feature	CDS	24007	24540	.	+	0	ID=TBepi4208.genome.CDS.1977;Product=FKBP-type peptidyl-prolyl cis-trans isomerase;locus_tag=TBepi4208.genome.CDS.1977
+TBepi4208.contig.88	feature	CDS	22986	23915	.	-	0	ID=TBepi4208.genome.CDS.1976;Product=FIG005453: Putative DeoR-family transcriptional regulator;locus_tag=TBepi4208.genome.CDS.1976
+TBepi4208.contig.88	feature	CDS	22064	22993	.	-	0	ID=TBepi4208.genome.CDS.1975;Product=FIG019733: possible DNA-binding protein;locus_tag=TBepi4208.genome.CDS.1975
+TBepi4208.contig.88	feature	CDS	21880	22008	.	-	0	ID=TBepi4208.genome.CDS.1974;Product=Twin-arginine translocation protein TatA;locus_tag=TBepi4208.genome.CDS.1974
+TBepi4208.contig.88	feature	CDS	21028	21819	.	-	0	ID=TBepi4208.genome.CDS.926;Product=Twin-arginine translocation protein TatC;locus_tag=TBepi4208.genome.CDS.926
+TBepi4208.contig.88	feature	CDS	20144	21028	.	-	0	ID=TBepi4208.genome.CDS.1972;Product=Diacylglycerol kinase-related protein;locus_tag=TBepi4208.genome.CDS.1972
+TBepi4208.contig.88	feature	CDS	17791	20154	.	-	0	ID=TBepi4208.genome.CDS.1971;Product=FIG005666: putative helicase;locus_tag=TBepi4208.genome.CDS.1971
+TBepi4208.contig.88	feature	CDS	16891	17790	.	-	0	ID=TBepi4208.genome.CDS.1970;Product=DNA polymerase I %28EC 2.7.7.7%29;locus_tag=TBepi4208.genome.CDS.1970
+TBepi4208.contig.88	feature	CDS	16146	16880	.	-	0	ID=TBepi4208.genome.CDS.1969;Product=;locus_tag=TBepi4208.genome.CDS.1969
+TBepi4208.contig.88	feature	CDS	13213	16080	.	+	0	ID=TBepi4208.genome.CDS.1968;Product=Glycine dehydrogenase %5Bdecarboxylating%5D %28glycine cleavage system P protein%29 %28EC 1.4.4.2%29;locus_tag=TBepi4208.genome.CDS.1968
+TBepi4208.contig.88	feature	CDS	12626	13153	.	+	0	ID=TBepi4208.genome.CDS.1967;Product=transcriptional regulator%2C MerR family;locus_tag=TBepi4208.genome.CDS.1967
+TBepi4208.contig.88	feature	CDS	12023	12493	.	+	0	ID=TBepi4208.genome.CDS.1966;Product=FIG01121484: hypothetical protein;locus_tag=TBepi4208.genome.CDS.1966
+TBepi4208.contig.88	feature	CDS	11271	11984	.	+	0	ID=TBepi4208.genome.CDS.1965;Product=transcriptional regulator%2C MerR family;locus_tag=TBepi4208.genome.CDS.1965
+TBepi4208.contig.88	feature	CDS	10788	11270	.	+	0	ID=TBepi4208.genome.CDS.1964;Product=;locus_tag=TBepi4208.genome.CDS.1964
+TBepi4208.contig.88	feature	CDS	10322	10702	.	+	0	ID=TBepi4208.genome.CDS.1963;Product=Glycine cleavage system H protein;locus_tag=TBepi4208.genome.CDS.1963
+TBepi4208.contig.88	feature	CDS	9727	10302	.	+	0	ID=TBepi4208.genome.CDS.1962;Product=CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase %28EC 2.7.8.5%29;locus_tag=TBepi4208.genome.CDS.1962
+TBepi4208.contig.88	feature	CDS	7761	9725	.	+	0	ID=TBepi4208.genome.CDS.1961;Product=GTP-binding protein EngA;locus_tag=TBepi4208.genome.CDS.1961
+TBepi4208.contig.88	feature	CDS	6669	7751	.	+	0	ID=TBepi4208.genome.CDS.1960;Product=Arogenate dehydrogenase %28EC 1.3.1.43%29;locus_tag=TBepi4208.genome.CDS.1960
+TBepi4208.contig.88	feature	CDS	6299	6679	.	+	0	ID=TBepi4208.genome.CDS.1959;Product=Chorismate mutase II %28EC 5.4.99.5%29;locus_tag=TBepi4208.genome.CDS.1959
+TBepi4208.contig.88	feature	CDS	5322	6056	.	+	0	ID=TBepi4208.genome.CDS.1958;Product=Ribosomal large subunit pseudouridine synthase B %28EC 4.2.1.70%29;locus_tag=TBepi4208.genome.CDS.1958
+TBepi4208.contig.88	feature	CDS	4663	5220	.	+	0	ID=TBepi4208.genome.CDS.1957;Product=Segregation and condensation protein B;locus_tag=TBepi4208.genome.CDS.1957
+TBepi4208.contig.88	feature	CDS	3804	4670	.	+	0	ID=TBepi4208.genome.CDS.1956;Product=Segregation and condensation protein A;locus_tag=TBepi4208.genome.CDS.1956
+TBepi4208.contig.88	feature	CDS	2794	3714	.	-	0	ID=TBepi4208.genome.CDS.1955;Product=Chromosome %28plasmid%29 partitioning protein ParA;locus_tag=TBepi4208.genome.CDS.1955
+TBepi4208.contig.88	feature	CDS	2399	2797	.	-	0	ID=TBepi4208.genome.CDS.1954;Product=FIG059443: hypothetical protein;locus_tag=TBepi4208.genome.CDS.1954
+TBepi4208.contig.88	feature	CDS	1451	2380	.	+	0	ID=TBepi4208.genome.CDS.1953;Product=Site-specific tyrosine recombinase XerD;locus_tag=TBepi4208.genome.CDS.1953
+TBepi4208.contig.88	feature	CDS	1	1458	.	+	0	ID=TBepi4208.genome.CDS.1952;Product=CTP synthase %28EC 6.3.4.2%29;locus_tag=TBepi4208.genome.CDS.1952
+TBepi4208.contig.89	feature	CDS	4292	6007	.	+	0	ID=TBepi4208.genome.CDS.1987;Product=DinG family ATP-dependent helicase YoaA;locus_tag=TBepi4208.genome.CDS.1987
+TBepi4208.contig.89	feature	CDS	3855	4256	.	+	0	ID=TBepi4208.genome.CDS.1986;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1986
+TBepi4208.contig.89	feature	CDS	2381	3559	.	+	0	ID=TBepi4208.genome.CDS.1985;Product=Ribonucleotide reductase of class II %28coenzyme B12-dependent%29 %28EC 1.17.4.1%29;locus_tag=TBepi4208.genome.CDS.1985
+TBepi4208.contig.89	feature	CDS	702	2381	.	+	0	ID=TBepi4208.genome.CDS.1984;Product=Ribonucleotide reductase of class II %28coenzyme B12-dependent%29 %28EC 1.17.4.1%29;locus_tag=TBepi4208.genome.CDS.1984
+TBepi4208.contig.89	feature	CDS	188	673	.	+	0	ID=TBepi4208.genome.CDS.1983;Product=Ribonucleotide reductase transcriptional regulator NrdR;locus_tag=TBepi4208.genome.CDS.1983
+TBepi4208.contig.9	feature	misc_RNA	22557	23099	.	+	.	ID=TBepi4208.genome.repeat.33;Product=repeat region;locus_tag=TBepi4208.genome.repeat.33
+TBepi4208.contig.9	feature	tRNA	23012	23086	.	-	.	ID=TBepi4208.genome.rna.4;Product=tRNA-Gln-CTG;locus_tag=TBepi4208.genome.rna.4
+TBepi4208.contig.9	feature	tRNA	22912	22987	.	-	.	ID=TBepi4208.genome.rna.5;Product=tRNA-Glu-CTC;locus_tag=TBepi4208.genome.rna.5
+TBepi4208.contig.9	feature	CDS	22405	22896	.	+	0	ID=TBepi4208.genome.CDS.1177;Product=;locus_tag=TBepi4208.genome.CDS.1177
+TBepi4208.contig.9	feature	CDS	21666	22385	.	+	0	ID=TBepi4208.genome.CDS.1176;Product=Transcriptional regulator%2C IclR family;locus_tag=TBepi4208.genome.CDS.1176
+TBepi4208.contig.9	feature	CDS	20163	21560	.	-	0	ID=TBepi4208.genome.CDS.1175;Product=3-isopropylmalate dehydratase large subunit %28EC 4.2.1.33%29;locus_tag=TBepi4208.genome.CDS.1175
+TBepi4208.contig.9	feature	CDS	19515	20114	.	-	0	ID=TBepi4208.genome.CDS.1174;Product=3-isopropylmalate dehydratase small subunit %28EC 4.2.1.33%29;locus_tag=TBepi4208.genome.CDS.1174
+TBepi4208.contig.9	feature	CDS	18885	19319	.	-	0	ID=TBepi4208.genome.CDS.1173;Product=;locus_tag=TBepi4208.genome.CDS.1173
+TBepi4208.contig.9	feature	CDS	18028	18822	.	-	0	ID=TBepi4208.genome.CDS.1172;Product=1-acyl-sn-glycerol-3-phosphate acyltransferase %28EC 2.3.1.51%29;locus_tag=TBepi4208.genome.CDS.1172
+TBepi4208.contig.9	feature	CDS	17019	18017	.	-	0	ID=TBepi4208.genome.CDS.1171;Product=Glycerol-3-phosphate dehydrogenase %5BNAD%28P%29%2B%5D %28EC 1.1.1.94%29;locus_tag=TBepi4208.genome.CDS.1171
+TBepi4208.contig.9	feature	CDS	15979	17019	.	-	0	ID=TBepi4208.genome.CDS.1170;Product=D-alanine--D-alanine ligase %28EC 6.3.2.4%29;locus_tag=TBepi4208.genome.CDS.1170
+TBepi4208.contig.9	feature	CDS	15736	15972	.	+	0	ID=TBepi4208.genome.CDS.1169;Product=Transcriptional regulator%2C AsnC family;locus_tag=TBepi4208.genome.CDS.1169
+TBepi4208.contig.9	feature	CDS	14679	15611	.	-	0	ID=TBepi4208.genome.CDS.1168;Product=Thiamine-monophosphate kinase %28EC 2.7.4.16%29;locus_tag=TBepi4208.genome.CDS.1168
+TBepi4208.contig.9	feature	CDS	13646	14662	.	-	0	ID=TBepi4208.genome.CDS.1167;Product=1-aminocyclopropane-1-carboxylate deaminase %28EC 3.5.99.7%29;locus_tag=TBepi4208.genome.CDS.1167
+TBepi4208.contig.9	feature	CDS	13448	13633	.	+	0	ID=TBepi4208.genome.CDS.1166;Product=LSU ribosomal protein L28p %40 LSU ribosomal protein L28p%2C zinc-dependent;locus_tag=TBepi4208.genome.CDS.1166
+TBepi4208.contig.9	feature	CDS	11096	13312	.	-	0	ID=TBepi4208.genome.CDS.1165;Product=ATP-dependent DNA helicase RecG %28EC 3.6.1.-%29;locus_tag=TBepi4208.genome.CDS.1165
+TBepi4208.contig.9	feature	CDS	10517	11092	.	-	0	ID=TBepi4208.genome.CDS.1164;Product=Ribosomal RNA small subunit methyltransferase D %28EC 2.1.1.-%29;locus_tag=TBepi4208.genome.CDS.1164
+TBepi4208.contig.9	feature	CDS	10041	10520	.	-	0	ID=TBepi4208.genome.CDS.1163;Product=Phosphopantetheine adenylyltransferase %28EC 2.7.7.3%29;locus_tag=TBepi4208.genome.CDS.1163
+TBepi4208.contig.9	feature	CDS	9503	9985	.	-	0	ID=TBepi4208.genome.CDS.1162;Product=;locus_tag=TBepi4208.genome.CDS.1162
+TBepi4208.contig.9	feature	CDS	8897	9490	.	-	0	ID=TBepi4208.genome.CDS.1161;Product=COG1399 protein%2C clustered with ribosomal protein L32p;locus_tag=TBepi4208.genome.CDS.1161
+TBepi4208.contig.9	feature	CDS	8589	8762	.	-	0	ID=TBepi4208.genome.CDS.158;Product=LSU ribosomal protein L32p %40 LSU ribosomal protein L32p%2C zinc-dependent;locus_tag=TBepi4208.genome.CDS.158
+TBepi4208.contig.9	feature	CDS	7907	8539	.	-	0	ID=TBepi4208.genome.CDS.1160;Product=Ribonuclease III %28EC 3.1.26.3%29;locus_tag=TBepi4208.genome.CDS.1160
+TBepi4208.contig.9	feature	CDS	7084	7923	.	-	0	ID=TBepi4208.genome.CDS.1159;Product=Formamidopyrimidine-DNA glycosylase %28EC 3.2.2.23%29;locus_tag=TBepi4208.genome.CDS.1159
+TBepi4208.contig.9	feature	CDS	3514	7056	.	-	0	ID=TBepi4208.genome.CDS.1158;Product=Chromosome partition protein smc;locus_tag=TBepi4208.genome.CDS.1158
+TBepi4208.contig.9	feature	CDS	2654	3505	.	-	0	ID=TBepi4208.genome.CDS.1157;Product=Signal recognition particle receptor protein FtsY %28%3Dalpha subunit%29 %28TC 3.A.5.1.1%29;locus_tag=TBepi4208.genome.CDS.1157
+TBepi4208.contig.9	feature	CDS	1263	2495	.	-	0	ID=TBepi4208.genome.CDS.1156;Product=Ammonium transporter;locus_tag=TBepi4208.genome.CDS.1156
+TBepi4208.contig.9	feature	CDS	899	1237	.	-	0	ID=TBepi4208.genome.CDS.1155;Product=Nitrogen regulatory protein P-II;locus_tag=TBepi4208.genome.CDS.1155
+TBepi4208.contig.9	feature	CDS	1	885	.	-	0	ID=TBepi4208.genome.CDS.1154;Product=%5BProtein-PII%5D uridylyltransferase %28EC 2.7.7.59%29;locus_tag=TBepi4208.genome.CDS.1154
+TBepi4208.contig.90	feature	CDS	11495	11602	.	+	0	ID=TBepi4208.genome.CDS.2000;Product=;locus_tag=TBepi4208.genome.CDS.2000
+TBepi4208.contig.90	feature	CDS	10504	11484	.	+	0	ID=TBepi4208.genome.CDS.1999;Product=Ribose-phosphate pyrophosphokinase %28EC 2.7.6.1%29;locus_tag=TBepi4208.genome.CDS.1999
+TBepi4208.contig.90	feature	CDS	9155	10489	.	+	0	ID=TBepi4208.genome.CDS.1998;Product=N-acetylglucosamine-1-phosphate uridyltransferase %28EC 2.7.7.23%29 / Glucosamine-1-phosphate N-acetyltransferase %28EC 2.3.1.157%29;locus_tag=TBepi4208.genome.CDS.1998
+TBepi4208.contig.90	feature	tRNA	9026	9100	.	+	.	ID=TBepi4208.genome.rna.25;Product=tRNA-Gln-TTG;locus_tag=TBepi4208.genome.rna.25
+TBepi4208.contig.90	feature	CDS	8036	8956	.	+	0	ID=TBepi4208.genome.CDS.1997;Product=4-diphosphocytidyl-2-C-methyl-D-erythritol kinase %28EC 2.7.1.148%29;locus_tag=TBepi4208.genome.CDS.1997
+TBepi4208.contig.90	feature	CDS	7200	8039	.	+	0	ID=TBepi4208.genome.CDS.1996;Product=SSU rRNA %28adenine%281518%29-N%286%29/adenine%281519%29-N%286%29%29-dimethyltransferase %28EC 2.1.1.182%29;locus_tag=TBepi4208.genome.CDS.1996
+TBepi4208.contig.90	feature	CDS	6345	7199	.	+	0	ID=TBepi4208.genome.CDS.1995;Product=Putative deoxyribonuclease YcfH;locus_tag=TBepi4208.genome.CDS.1995
+TBepi4208.contig.90	feature	CDS	4773	6341	.	+	0	ID=TBepi4208.genome.CDS.1994;Product=Methionyl-tRNA synthetase %28EC 6.1.1.10%29;locus_tag=TBepi4208.genome.CDS.1994
+TBepi4208.contig.90	feature	CDS	3928	4776	.	+	0	ID=TBepi4208.genome.CDS.1993;Product=rRNA small subunit methyltransferase I;locus_tag=TBepi4208.genome.CDS.1993
+TBepi4208.contig.90	feature	CDS	2574	3896	.	-	0	ID=TBepi4208.genome.CDS.1992;Product=CONSERVED MEMBRANE PROTEIN;locus_tag=TBepi4208.genome.CDS.1992
+TBepi4208.contig.90	feature	CDS	1805	2557	.	+	0	ID=TBepi4208.genome.CDS.1991;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.1991
+TBepi4208.contig.90	feature	CDS	1152	1724	.	+	0	ID=TBepi4208.genome.CDS.1990;Product=Ribosomal-protein-S5p-alanine acetyltransferase;locus_tag=TBepi4208.genome.CDS.1990
+TBepi4208.contig.90	feature	CDS	245	1159	.	+	0	ID=TBepi4208.genome.CDS.1989;Product=Molybdopterin biosynthesis protein MoeA;locus_tag=TBepi4208.genome.CDS.1989
+TBepi4208.contig.90	feature	CDS	1	201	.	-	0	ID=TBepi4208.genome.CDS.1988;Product=;locus_tag=TBepi4208.genome.CDS.1988
+TBepi4208.contig.91	feature	CDS	670	3054	.	-	0	ID=TBepi4208.genome.CDS.2002;Product=Pyruvate dehydrogenase E1 component %28EC 1.2.4.1%29;locus_tag=TBepi4208.genome.CDS.2002
+TBepi4208.contig.91	feature	CDS	3	668	.	+	0	ID=TBepi4208.genome.CDS.2001;Product=;locus_tag=TBepi4208.genome.CDS.2001
+TBepi4208.contig.92	feature	misc_RNA	1	1198	.	+	.	ID=TBepi4208.genome.repeat.38;Product=repeat region;locus_tag=TBepi4208.genome.repeat.38
+TBepi4208.contig.92	feature	CDS	4171	5193	.	+	0	ID=TBepi4208.genome.CDS.2009;Product=Holliday junction DNA helicase RuvB;locus_tag=TBepi4208.genome.CDS.2009
+TBepi4208.contig.92	feature	CDS	3572	4174	.	+	0	ID=TBepi4208.genome.CDS.2008;Product=Holliday junction DNA helicase RuvA;locus_tag=TBepi4208.genome.CDS.2008
+TBepi4208.contig.92	feature	CDS	3015	3575	.	+	0	ID=TBepi4208.genome.CDS.2007;Product=Crossover junction endodeoxyribonuclease RuvC %28EC 3.1.22.4%29;locus_tag=TBepi4208.genome.CDS.2007
+TBepi4208.contig.92	feature	CDS	2266	3015	.	+	0	ID=TBepi4208.genome.CDS.2006;Product=FIG000859: hypothetical protein YebC;locus_tag=TBepi4208.genome.CDS.2006
+TBepi4208.contig.92	feature	CDS	1620	2210	.	+	0	ID=TBepi4208.genome.CDS.2005;Product=Pyridoxine biosynthesis glutamine amidotransferase%2C glutaminase subunit %28EC 2.4.2.-%29;locus_tag=TBepi4208.genome.CDS.2005
+TBepi4208.contig.92	feature	CDS	719	1618	.	+	0	ID=TBepi4208.genome.CDS.2004;Product=Pyridoxine biosynthesis glutamine amidotransferase%2C synthase subunit %28EC 2.4.2.-%29;locus_tag=TBepi4208.genome.CDS.2004
+TBepi4208.contig.92	feature	CDS	1	687	.	+	0	ID=TBepi4208.genome.CDS.2003;Product=;locus_tag=TBepi4208.genome.CDS.2003
+TBepi4208.contig.93	feature	CDS	6017	6085	.	-	0	ID=TBepi4208.genome.CDS.2018;Product=;locus_tag=TBepi4208.genome.CDS.2018
+TBepi4208.contig.93	feature	CDS	5199	6020	.	-	0	ID=TBepi4208.genome.CDS.2017;Product=HMP-PP hydrolase %28pyridoxal phosphatase%29 Cof%2C detected in genetic screen for thiamin metabolic genes %28PMID:15292217%29;locus_tag=TBepi4208.genome.CDS.2017
+TBepi4208.contig.93	feature	tRNA	5088	5173	.	-	.	ID=TBepi4208.genome.rna.26;Product=tRNA-Ser-TGA;locus_tag=TBepi4208.genome.rna.26
+TBepi4208.contig.93	feature	CDS	4200	5003	.	-	0	ID=TBepi4208.genome.CDS.2016;Product=putative succinate dehydrogenase %5Bmembrane anchor subunit%5D %28succinic dehydrogenase%29;locus_tag=TBepi4208.genome.CDS.2016
+TBepi4208.contig.93	feature	CDS	2294	4189	.	-	0	ID=TBepi4208.genome.CDS.2015;Product=Succinate dehydrogenase flavoprotein subunit %28EC 1.3.99.1%29;locus_tag=TBepi4208.genome.CDS.2015
+TBepi4208.contig.93	feature	CDS	1533	2294	.	-	0	ID=TBepi4208.genome.CDS.2014;Product=Succinate dehydrogenase iron-sulfur protein %28EC 1.3.99.1%29;locus_tag=TBepi4208.genome.CDS.2014
+TBepi4208.contig.93	feature	CDS	805	1218	.	-	0	ID=TBepi4208.genome.CDS.2012;Product=;locus_tag=TBepi4208.genome.CDS.2012
+TBepi4208.contig.93	feature	CDS	464	808	.	-	0	ID=TBepi4208.genome.CDS.2011;Product=;locus_tag=TBepi4208.genome.CDS.2011
+TBepi4208.contig.93	feature	CDS	2	475	.	+	0	ID=TBepi4208.genome.CDS.2010;Product=Xaa-Pro aminopeptidase %28EC 3.4.11.9%29;locus_tag=TBepi4208.genome.CDS.2010
+TBepi4208.contig.94	feature	misc_RNA	1	325	.	+	.	ID=TBepi4208.genome.repeat.30;Product=repeat region;locus_tag=TBepi4208.genome.repeat.30
+TBepi4208.contig.94	feature	misc_RNA	4758	4880	.	-	.	ID=TBepi4208.genome.rna.1;Product=5S rRNA %23%23 5S ribosomal RNA;locus_tag=TBepi4208.genome.rna.1
+TBepi4208.contig.94	feature	CDS	4312	4623	.	+	0	ID=TBepi4208.genome.CDS.972;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.972
+TBepi4208.contig.94	feature	CDS	4119	4277	.	-	0	ID=TBepi4208.genome.CDS.971;Product=;locus_tag=TBepi4208.genome.CDS.971
+TBepi4208.contig.94	feature	CDS	3892	4065	.	-	0	ID=TBepi4208.genome.CDS.2023;Product=;locus_tag=TBepi4208.genome.CDS.2023
+TBepi4208.contig.94	feature	CDS	3093	3881	.	-	0	ID=TBepi4208.genome.CDS.2022;Product=RNA binding methyltransferase FtsJ like;locus_tag=TBepi4208.genome.CDS.2022
+TBepi4208.contig.94	feature	CDS	2227	3093	.	-	0	ID=TBepi4208.genome.CDS.2021;Product=NAD kinase %28EC 2.7.1.23%29;locus_tag=TBepi4208.genome.CDS.2021
+TBepi4208.contig.94	feature	CDS	525	2243	.	-	0	ID=TBepi4208.genome.CDS.2020;Product=DNA repair protein RecN;locus_tag=TBepi4208.genome.CDS.2020
+TBepi4208.contig.94	feature	CDS	2	502	.	-	0	ID=TBepi4208.genome.CDS.2019;Product=CTP synthase %28EC 6.3.4.2%29;locus_tag=TBepi4208.genome.CDS.2019
+TBepi4208.contig.95	feature	CDS	5566	6123	.	+	0	ID=TBepi4208.genome.CDS.2031;Product=4-hydroxy-tetrahydrodipicolinate reductase %28EC 1.17.1.8%29;locus_tag=TBepi4208.genome.CDS.2031
+TBepi4208.contig.95	feature	CDS	4298	5569	.	+	0	ID=TBepi4208.genome.CDS.2030;Product=FIG007959: peptidase%2C M16 family;locus_tag=TBepi4208.genome.CDS.2030
+TBepi4208.contig.95	feature	CDS	2066	4282	.	+	0	ID=TBepi4208.genome.CDS.2029;Product=Polyribonucleotide nucleotidyltransferase %28EC 2.7.7.8%29;locus_tag=TBepi4208.genome.CDS.2029
+TBepi4208.contig.95	feature	CDS	1673	1942	.	+	0	ID=TBepi4208.genome.CDS.2028;Product=SSU ribosomal protein S15p %28S13e%29;locus_tag=TBepi4208.genome.CDS.2028
+TBepi4208.contig.95	feature	CDS	679	1554	.	+	0	ID=TBepi4208.genome.CDS.2027;Product=Riboflavin kinase %28EC 2.7.1.26%29 / FMN adenylyltransferase %28EC 2.7.7.2%29;locus_tag=TBepi4208.genome.CDS.2027
+TBepi4208.contig.95	feature	CDS	3	674	.	+	0	ID=TBepi4208.genome.CDS.2026;Product=tRNA pseudouridine synthase B %28EC 4.2.1.70%29;locus_tag=TBepi4208.genome.CDS.2026
+TBepi4208.contig.96	feature	misc_RNA	1	543	.	+	.	ID=TBepi4208.genome.repeat.18;Product=repeat region;locus_tag=TBepi4208.genome.repeat.18
+TBepi4208.contig.96	feature	CDS	4217	4975	.	-	0	ID=TBepi4208.genome.CDS.983;Product=Phosphate starvation-inducible protein PhoH%2C predicted ATPase;locus_tag=TBepi4208.genome.CDS.983
+TBepi4208.contig.96	feature	CDS	3771	4211	.	-	0	ID=TBepi4208.genome.CDS.2036;Product=Metal-dependent hydrolase YbeY%2C involved in rRNA and/or ribosome maturation and assembly;locus_tag=TBepi4208.genome.CDS.2036
+TBepi4208.contig.96	feature	CDS	2902	3732	.	-	0	ID=TBepi4208.genome.CDS.2035;Product=Magnesium and cobalt efflux protein CorC;locus_tag=TBepi4208.genome.CDS.2035
+TBepi4208.contig.96	feature	CDS	2056	2847	.	-	0	ID=TBepi4208.genome.CDS.2034;Product=Fumarylacetoacetate hydrolase family protein;locus_tag=TBepi4208.genome.CDS.2034
+TBepi4208.contig.96	feature	CDS	600	2066	.	-	0	ID=TBepi4208.genome.CDS.979;Product=Glutamyl-tRNA synthetase %28EC 6.1.1.17%29 %40 Glutamyl-tRNA%28Gln%29 synthetase %28EC 6.1.1.24%29;locus_tag=TBepi4208.genome.CDS.979
+TBepi4208.contig.96	feature	tRNA	456	530	.	-	.	ID=TBepi4208.genome.rna.27;Product=tRNA-Gln-CTG;locus_tag=TBepi4208.genome.rna.27
+TBepi4208.contig.96	feature	tRNA	356	431	.	-	.	ID=TBepi4208.genome.rna.28;Product=tRNA-Glu-CTC;locus_tag=TBepi4208.genome.rna.28
+TBepi4208.contig.96	feature	CDS	2	340	.	+	0	ID=TBepi4208.genome.CDS.2032;Product=;locus_tag=TBepi4208.genome.CDS.2032
+TBepi4208.contig.97	feature	CDS	4843	5853	.	+	0	ID=TBepi4208.genome.CDS.2044;Product=Unspecified monosaccharide ABC transport system%2C permease component Ia %28FIG025991%29 / Unspecified monosaccharide ABC transport system%2C permease component Ib %28FIG143636%29;locus_tag=TBepi4208.genome.CDS.2044
+TBepi4208.contig.97	feature	CDS	3797	4846	.	+	0	ID=TBepi4208.genome.CDS.988;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.988
+TBepi4208.contig.97	feature	CDS	2641	3690	.	+	0	ID=TBepi4208.genome.CDS.2042;Product=Surface lipoprotein;locus_tag=TBepi4208.genome.CDS.2042
+TBepi4208.contig.97	feature	CDS	1851	2519	.	+	0	ID=TBepi4208.genome.CDS.2041;Product=hypothetical protein;locus_tag=TBepi4208.genome.CDS.2041
+TBepi4208.contig.97	feature	CDS	1421	1858	.	+	0	ID=TBepi4208.genome.CDS.2040;Product=;locus_tag=TBepi4208.genome.CDS.2040
+TBepi4208.contig.97	feature	CDS	109	1419	.	+	0	ID=TBepi4208.genome.CDS.2039;Product=S-adenosylhomocysteine deaminase %28EC 3.5.4.28%29%3B Methylthioadenosine deaminase;locus_tag=TBepi4208.genome.CDS.2039
+TBepi4208.contig.97	feature	CDS	1	87	.	+	0	ID=TBepi4208.genome.CDS.2038;Product=;locus_tag=TBepi4208.genome.CDS.2038
+TBepi4208.contig.98	feature	CDS	2436	3455	.	-	0	ID=TBepi4208.genome.CDS.2048;Product=4-aminobutyraldehyde dehydrogenase %28EC 1.2.1.19%29;locus_tag=TBepi4208.genome.CDS.2048
+TBepi4208.contig.98	feature	CDS	1395	2393	.	-	0	ID=TBepi4208.genome.CDS.2047;Product=Agmatinase %28EC 3.5.3.11%29;locus_tag=TBepi4208.genome.CDS.2047
+TBepi4208.contig.98	feature	CDS	245	1381	.	-	0	ID=TBepi4208.genome.CDS.2046;Product=1-deoxy-D-xylulose 5-phosphate reductoisomerase %28EC 1.1.1.267%29;locus_tag=TBepi4208.genome.CDS.2046
+TBepi4208.contig.98	feature	CDS	3	245	.	-	0	ID=TBepi4208.genome.CDS.2045;Product=Membrane-associated zinc metalloprotease;locus_tag=TBepi4208.genome.CDS.2045
+TBepi4208.contig.99	feature	misc_RNA	1	134	.	+	.	ID=TBepi4208.genome.repeat.15;Product=repeat region;locus_tag=TBepi4208.genome.repeat.15
+TBepi4208.contig.99	feature	CDS	2863	4563	.	-	0	ID=TBepi4208.genome.CDS.2052;Product=3-methylmercaptopropionyl-CoA dehydrogenase %28DmdC%29;locus_tag=TBepi4208.genome.CDS.2052
+TBepi4208.contig.99	feature	CDS	1901	2824	.	-	0	ID=TBepi4208.genome.CDS.2051;Product=;locus_tag=TBepi4208.genome.CDS.2051
+TBepi4208.contig.99	feature	CDS	1386	1880	.	-	0	ID=TBepi4208.genome.CDS.2050;Product=Carbonic anhydrase %28EC 4.2.1.1%29;locus_tag=TBepi4208.genome.CDS.2050
+TBepi4208.contig.99	feature	CDS	3	1385	.	+	0	ID=TBepi4208.genome.CDS.2049;Product=Replicative DNA helicase %28DnaB%29 %28EC 3.6.4.12%29;locus_tag=TBepi4208.genome.CDS.2049

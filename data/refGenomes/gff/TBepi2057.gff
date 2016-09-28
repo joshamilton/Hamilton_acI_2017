@@ -1,0 +1,1133 @@
+##gff-version 3
+TBepi2057.contig.1	feature	CDS	35165	36208	.	-	0	ID=TBepi2057.genome.CDS.997;Product=ABC transporter ATP-binding protein;locus_tag=TBepi2057.genome.CDS.997
+TBepi2057.contig.1	feature	CDS	33698	35164	.	+	0	ID=TBepi2057.genome.CDS.996;Product=Glutamate-1-semialdehyde aminotransferase %28EC 5.4.3.8%29;locus_tag=TBepi2057.genome.CDS.996
+TBepi2057.contig.1	feature	CDS	32065	33552	.	-	0	ID=TBepi2057.genome.CDS.995;Product=putative transmembrane efflux protein;locus_tag=TBepi2057.genome.CDS.995
+TBepi2057.contig.1	feature	CDS	30752	31954	.	-	0	ID=TBepi2057.genome.CDS.994;Product=HoxN/HupN/NixA family nickel/cobalt transporter;locus_tag=TBepi2057.genome.CDS.994
+TBepi2057.contig.1	feature	CDS	29741	30739	.	+	0	ID=TBepi2057.genome.CDS.993;Product=;locus_tag=TBepi2057.genome.CDS.993
+TBepi2057.contig.1	feature	CDS	28916	29683	.	+	0	ID=TBepi2057.genome.CDS.992;Product=Fructose ABC transporter%2C ATP-binding component FrcA;locus_tag=TBepi2057.genome.CDS.992
+TBepi2057.contig.1	feature	CDS	27927	28907	.	+	0	ID=TBepi2057.genome.CDS.991;Product=Ribose ABC transport system%2C permease protein RbsC %28TC 3.A.1.2.1%29;locus_tag=TBepi2057.genome.CDS.991
+TBepi2057.contig.1	feature	CDS	26779	27777	.	+	0	ID=TBepi2057.genome.CDS.990;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.990
+TBepi2057.contig.1	feature	CDS	26085	26549	.	-	0	ID=TBepi2057.genome.CDS.989;Product=;locus_tag=TBepi2057.genome.CDS.989
+TBepi2057.contig.1	feature	CDS	24939	26021	.	+	0	ID=TBepi2057.genome.CDS.988;Product=Inositol-1-phosphate synthase %28EC 5.5.1.4%29;locus_tag=TBepi2057.genome.CDS.988
+TBepi2057.contig.1	feature	CDS	24406	24942	.	+	0	ID=TBepi2057.genome.CDS.987;Product=Transcriptional regulator%2C PadR family;locus_tag=TBepi2057.genome.CDS.987
+TBepi2057.contig.1	feature	CDS	23636	24283	.	-	0	ID=TBepi2057.genome.CDS.986;Product=;locus_tag=TBepi2057.genome.CDS.986
+TBepi2057.contig.1	feature	CDS	22876	23550	.	-	0	ID=TBepi2057.genome.CDS.985;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.985
+TBepi2057.contig.1	feature	CDS	22175	22879	.	+	0	ID=TBepi2057.genome.CDS.984;Product=1-acyl-sn-glycerol-3-phosphate acyltransferase %28EC 2.3.1.51%29;locus_tag=TBepi2057.genome.CDS.984
+TBepi2057.contig.1	feature	CDS	20911	22050	.	-	0	ID=TBepi2057.genome.CDS.983;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.983
+TBepi2057.contig.1	feature	CDS	19929	20897	.	+	0	ID=TBepi2057.genome.CDS.982;Product=Putative sugar kinase;locus_tag=TBepi2057.genome.CDS.982
+TBepi2057.contig.1	feature	CDS	19479	19865	.	-	0	ID=TBepi2057.genome.CDS.981;Product=Long-chain-fatty-acid--CoA ligase %28EC 6.2.1.3%29;locus_tag=TBepi2057.genome.CDS.981
+TBepi2057.contig.1	feature	CDS	18082	19326	.	-	0	ID=TBepi2057.genome.CDS.980;Product=Long-chain-fatty-acid--CoA ligase %28EC 6.2.1.3%29;locus_tag=TBepi2057.genome.CDS.980
+TBepi2057.contig.1	feature	CDS	17529	18089	.	-	0	ID=TBepi2057.genome.CDS.979;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.979
+TBepi2057.contig.1	feature	CDS	16948	17532	.	-	0	ID=TBepi2057.genome.CDS.978;Product=;locus_tag=TBepi2057.genome.CDS.978
+TBepi2057.contig.1	feature	CDS	15793	16956	.	+	0	ID=TBepi2057.genome.CDS.977;Product=;locus_tag=TBepi2057.genome.CDS.977
+TBepi2057.contig.1	feature	CDS	15227	15763	.	-	0	ID=TBepi2057.genome.CDS.976;Product=;locus_tag=TBepi2057.genome.CDS.976
+TBepi2057.contig.1	feature	CDS	14611	15201	.	-	0	ID=TBepi2057.genome.CDS.975;Product=Uncharacterized protein Q1 colocalized with Q;locus_tag=TBepi2057.genome.CDS.975
+TBepi2057.contig.1	feature	CDS	13307	14554	.	-	0	ID=TBepi2057.genome.CDS.974;Product=Ribonuclease D %28EC 3.1.26.3%29;locus_tag=TBepi2057.genome.CDS.974
+TBepi2057.contig.1	feature	CDS	11383	13320	.	+	0	ID=TBepi2057.genome.CDS.973;Product=1-deoxy-D-xylulose 5-phosphate synthase %28EC 2.2.1.7%29;locus_tag=TBepi2057.genome.CDS.973
+TBepi2057.contig.1	feature	CDS	8642	11299	.	+	0	ID=TBepi2057.genome.CDS.972;Product=Aconitate hydratase %28EC 4.2.1.3%29;locus_tag=TBepi2057.genome.CDS.972
+TBepi2057.contig.1	feature	CDS	7349	8581	.	+	0	ID=TBepi2057.genome.CDS.971;Product=23S rRNA %28Uracil-5-%29 -methyltransferase RumA %28EC 2.1.1.-%29;locus_tag=TBepi2057.genome.CDS.971
+TBepi2057.contig.1	feature	CDS	6598	7266	.	-	0	ID=TBepi2057.genome.CDS.970;Product=Trk system potassium uptake protein TrkA;locus_tag=TBepi2057.genome.CDS.970
+TBepi2057.contig.1	feature	CDS	5934	6593	.	-	0	ID=TBepi2057.genome.CDS.969;Product=Trk system potassium uptake protein TrkA;locus_tag=TBepi2057.genome.CDS.969
+TBepi2057.contig.1	feature	CDS	5313	5948	.	+	0	ID=TBepi2057.genome.CDS.968;Product=;locus_tag=TBepi2057.genome.CDS.968
+TBepi2057.contig.1	feature	CDS	4879	5316	.	+	0	ID=TBepi2057.genome.CDS.967;Product=Deoxyuridine 5%27-triphosphate nucleotidohydrolase %28EC 3.6.1.23%29;locus_tag=TBepi2057.genome.CDS.967
+TBepi2057.contig.1	feature	CDS	4373	4822	.	-	0	ID=TBepi2057.genome.CDS.966;Product=;locus_tag=TBepi2057.genome.CDS.966
+TBepi2057.contig.1	feature	CDS	4040	4336	.	+	0	ID=TBepi2057.genome.CDS.965;Product=FIG01121218: hypothetical protein;locus_tag=TBepi2057.genome.CDS.965
+TBepi2057.contig.1	feature	CDS	2889	3857	.	+	0	ID=TBepi2057.genome.CDS.964;Product=Probable acyl-ACP desaturase%2C Stearoyl-ACP desaturase %28EC 1.14.19.2%29;locus_tag=TBepi2057.genome.CDS.964
+TBepi2057.contig.1	feature	CDS	2077	2796	.	+	0	ID=TBepi2057.genome.CDS.963;Product=tRNA %28Guanine37-N1%29 -methyltransferase %28EC 2.1.1.31%29;locus_tag=TBepi2057.genome.CDS.963
+TBepi2057.contig.1	feature	CDS	1518	2069	.	+	0	ID=TBepi2057.genome.CDS.962;Product=16S rRNA processing protein RimM;locus_tag=TBepi2057.genome.CDS.962
+TBepi2057.contig.1	feature	CDS	1276	1515	.	+	0	ID=TBepi2057.genome.CDS.961;Product=KH domain RNA binding protein YlqC;locus_tag=TBepi2057.genome.CDS.961
+TBepi2057.contig.1	feature	CDS	722	1273	.	+	0	ID=TBepi2057.genome.CDS.960;Product=SSU ribosomal protein S16p;locus_tag=TBepi2057.genome.CDS.960
+TBepi2057.contig.1	feature	CDS	3	554	.	+	0	ID=TBepi2057.genome.CDS.959;Product=Signal recognition particle%2C subunit Ffh SRP54 %28TC 3.A.5.1.1%29;locus_tag=TBepi2057.genome.CDS.959
+TBepi2057.contig.10	feature	misc_RNA	1	313	.	+	.	ID=TBepi2057.genome.repeat.3;Product=repeat region;locus_tag=TBepi2057.genome.repeat.3
+TBepi2057.contig.10	feature	CDS	20798	21010	.	-	0	ID=TBepi2057.genome.CDS.1203;Product=RNA binding methyltransferase FtsJ like;locus_tag=TBepi2057.genome.CDS.1203
+TBepi2057.contig.10	feature	CDS	19935	20798	.	-	0	ID=TBepi2057.genome.CDS.1202;Product=NAD kinase %28EC 2.7.1.23%29;locus_tag=TBepi2057.genome.CDS.1202
+TBepi2057.contig.10	feature	CDS	18221	19942	.	-	0	ID=TBepi2057.genome.CDS.1201;Product=DNA repair protein RecN;locus_tag=TBepi2057.genome.CDS.1201
+TBepi2057.contig.10	feature	CDS	16494	18161	.	-	0	ID=TBepi2057.genome.CDS.1200;Product=CTP synthase %28EC 6.3.4.2%29;locus_tag=TBepi2057.genome.CDS.1200
+TBepi2057.contig.10	feature	CDS	15596	16507	.	-	0	ID=TBepi2057.genome.CDS.1199;Product=Site-specific tyrosine recombinase XerD;locus_tag=TBepi2057.genome.CDS.1199
+TBepi2057.contig.10	feature	CDS	15167	15565	.	+	0	ID=TBepi2057.genome.CDS.1198;Product=FIG059443: hypothetical protein;locus_tag=TBepi2057.genome.CDS.1198
+TBepi2057.contig.10	feature	CDS	14250	15170	.	+	0	ID=TBepi2057.genome.CDS.1197;Product=Chromosome %28plasmid%29 partitioning protein ParA;locus_tag=TBepi2057.genome.CDS.1197
+TBepi2057.contig.10	feature	CDS	13205	14164	.	-	0	ID=TBepi2057.genome.CDS.1196;Product=Segregation and condensation protein A;locus_tag=TBepi2057.genome.CDS.1196
+TBepi2057.contig.10	feature	CDS	12647	13204	.	-	0	ID=TBepi2057.genome.CDS.1195;Product=Segregation and condensation protein B;locus_tag=TBepi2057.genome.CDS.1195
+TBepi2057.contig.10	feature	CDS	11796	12530	.	-	0	ID=TBepi2057.genome.CDS.1194;Product=Ribosomal large subunit pseudouridine synthase B %28EC 4.2.1.70%29;locus_tag=TBepi2057.genome.CDS.1194
+TBepi2057.contig.10	feature	CDS	11175	11537	.	-	0	ID=TBepi2057.genome.CDS.1193;Product=;locus_tag=TBepi2057.genome.CDS.1193
+TBepi2057.contig.10	feature	CDS	10098	11162	.	-	0	ID=TBepi2057.genome.CDS.1192;Product=Arogenate dehydrogenase %28EC 1.3.1.43%29;locus_tag=TBepi2057.genome.CDS.1192
+TBepi2057.contig.10	feature	CDS	8060	10066	.	-	0	ID=TBepi2057.genome.CDS.1191;Product=GTP-binding protein EngA;locus_tag=TBepi2057.genome.CDS.1191
+TBepi2057.contig.10	feature	CDS	7408	7971	.	-	0	ID=TBepi2057.genome.CDS.1190;Product=CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase %28EC 2.7.8.5%29;locus_tag=TBepi2057.genome.CDS.1190
+TBepi2057.contig.10	feature	CDS	7018	7395	.	-	0	ID=TBepi2057.genome.CDS.1189;Product=Glycine cleavage system H protein;locus_tag=TBepi2057.genome.CDS.1189
+TBepi2057.contig.10	feature	CDS	6423	6908	.	-	0	ID=TBepi2057.genome.CDS.1188;Product=FIG00672531: hypothetical protein;locus_tag=TBepi2057.genome.CDS.1188
+TBepi2057.contig.10	feature	CDS	5713	6426	.	-	0	ID=TBepi2057.genome.CDS.1187;Product=transcriptional regulator%2C MerR family;locus_tag=TBepi2057.genome.CDS.1187
+TBepi2057.contig.10	feature	CDS	5207	5674	.	-	0	ID=TBepi2057.genome.CDS.1186;Product=FIG01121484: hypothetical protein;locus_tag=TBepi2057.genome.CDS.1186
+TBepi2057.contig.10	feature	CDS	4550	5065	.	-	0	ID=TBepi2057.genome.CDS.1185;Product=transcriptional regulator%2C MerR family;locus_tag=TBepi2057.genome.CDS.1185
+TBepi2057.contig.10	feature	CDS	1649	4513	.	-	0	ID=TBepi2057.genome.CDS.1184;Product=Glycine dehydrogenase %5Bdecarboxylating%5D %28glycine cleavage system P protein%29 %28EC 1.4.4.2%29;locus_tag=TBepi2057.genome.CDS.1184
+TBepi2057.contig.10	feature	CDS	888	1619	.	+	0	ID=TBepi2057.genome.CDS.1183;Product=Dolichol-phosphate mannosyltransferase %28EC 2.4.1.83%29 in lipid-linked oligosaccharide synthesis cluster;locus_tag=TBepi2057.genome.CDS.1183
+TBepi2057.contig.10	feature	CDS	1	891	.	+	0	ID=TBepi2057.genome.CDS.1182;Product=DNA polymerase I %28EC 2.7.7.7%29;locus_tag=TBepi2057.genome.CDS.1182
+TBepi2057.contig.11	feature	misc_RNA	18645	18771	.	+	.	ID=TBepi2057.genome.repeat.10;Product=repeat region;locus_tag=TBepi2057.genome.repeat.10
+TBepi2057.contig.11	feature	CDS	18182	18769	.	+	0	ID=TBepi2057.genome.CDS.1222;Product=;locus_tag=TBepi2057.genome.CDS.1222
+TBepi2057.contig.11	feature	CDS	17638	18120	.	+	0	ID=TBepi2057.genome.CDS.1221;Product=;locus_tag=TBepi2057.genome.CDS.1221
+TBepi2057.contig.11	feature	CDS	16832	17641	.	+	0	ID=TBepi2057.genome.CDS.1220;Product=Tryptophan synthase alpha chain %28EC 4.2.1.20%29;locus_tag=TBepi2057.genome.CDS.1220
+TBepi2057.contig.11	feature	CDS	15632	16831	.	+	0	ID=TBepi2057.genome.CDS.1219;Product=Tryptophan synthase beta chain %28EC 4.2.1.20%29;locus_tag=TBepi2057.genome.CDS.1219
+TBepi2057.contig.11	feature	CDS	14838	15611	.	+	0	ID=TBepi2057.genome.CDS.1218;Product=Indole-3-glycerol phosphate synthase %28EC 4.1.1.48%29;locus_tag=TBepi2057.genome.CDS.1218
+TBepi2057.contig.11	feature	CDS	14686	14841	.	+	0	ID=TBepi2057.genome.CDS.1217;Product=;locus_tag=TBepi2057.genome.CDS.1217
+TBepi2057.contig.11	feature	CDS	13187	14686	.	+	0	ID=TBepi2057.genome.CDS.1216;Product=Anthranilate synthase%2C aminase component %28EC 4.1.3.27%29;locus_tag=TBepi2057.genome.CDS.1216
+TBepi2057.contig.11	feature	CDS	12846	13190	.	+	0	ID=TBepi2057.genome.CDS.1215;Product=Phosphoribosyl-AMP cyclohydrolase %28EC 3.5.4.19%29;locus_tag=TBepi2057.genome.CDS.1215
+TBepi2057.contig.11	feature	CDS	12045	12821	.	+	0	ID=TBepi2057.genome.CDS.1214;Product=Imidazole glycerol phosphate synthase cyclase subunit %28EC 4.1.3.-%29;locus_tag=TBepi2057.genome.CDS.1214
+TBepi2057.contig.11	feature	CDS	11306	12040	.	+	0	ID=TBepi2057.genome.CDS.1213;Product=Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase %28EC 5.3.1.16%29 %40 Acting phosphoribosylanthranilate isomerase %28EC 5.3.1.24%29;locus_tag=TBepi2057.genome.CDS.1213
+TBepi2057.contig.11	feature	CDS	10713	11309	.	+	0	ID=TBepi2057.genome.CDS.1212;Product=Imidazole glycerol phosphate synthase amidotransferase subunit %28EC 2.4.2.-%29;locus_tag=TBepi2057.genome.CDS.1212
+TBepi2057.contig.11	feature	CDS	10123	10716	.	+	0	ID=TBepi2057.genome.CDS.1211;Product=Imidazoleglycerol-phosphate dehydratase %28EC 4.2.1.19%29;locus_tag=TBepi2057.genome.CDS.1211
+TBepi2057.contig.11	feature	CDS	8971	10092	.	+	0	ID=TBepi2057.genome.CDS.1210;Product=Histidinol-phosphate aminotransferase %28EC 2.6.1.9%29;locus_tag=TBepi2057.genome.CDS.1210
+TBepi2057.contig.11	feature	CDS	7721	8968	.	+	0	ID=TBepi2057.genome.CDS.1209;Product=Histidinol dehydrogenase %28EC 1.1.1.23%29;locus_tag=TBepi2057.genome.CDS.1209
+TBepi2057.contig.11	feature	CDS	4112	7579	.	+	0	ID=TBepi2057.genome.CDS.1208;Product=DNA polymerase III alpha subunit %28EC 2.7.7.7%29;locus_tag=TBepi2057.genome.CDS.1208
+TBepi2057.contig.11	feature	CDS	3063	4037	.	+	0	ID=TBepi2057.genome.CDS.1207;Product=Ribosomal large subunit pseudouridine synthase D %28EC 4.2.1.70%29;locus_tag=TBepi2057.genome.CDS.1207
+TBepi2057.contig.11	feature	CDS	2624	3073	.	+	0	ID=TBepi2057.genome.CDS.1206;Product=Lipoprotein signal peptidase %28EC 3.4.23.36%29;locus_tag=TBepi2057.genome.CDS.1206
+TBepi2057.contig.11	feature	CDS	1572	2579	.	+	0	ID=TBepi2057.genome.CDS.1205;Product=putative DNA-binding protein;locus_tag=TBepi2057.genome.CDS.1205
+TBepi2057.contig.11	feature	CDS	1	1380	.	-	0	ID=TBepi2057.genome.CDS.1204;Product=Isoleucyl-tRNA synthetase %28EC 6.1.1.5%29;locus_tag=TBepi2057.genome.CDS.1204
+TBepi2057.contig.12	feature	misc_RNA	18023	18149	.	+	.	ID=TBepi2057.genome.repeat.48;Product=repeat region;locus_tag=TBepi2057.genome.repeat.48
+TBepi2057.contig.12	feature	CDS	17929	18147	.	-	0	ID=TBepi2057.genome.CDS.1240;Product=;locus_tag=TBepi2057.genome.CDS.1240
+TBepi2057.contig.12	feature	CDS	17577	17915	.	-	0	ID=TBepi2057.genome.CDS.1239;Product=;locus_tag=TBepi2057.genome.CDS.1239
+TBepi2057.contig.12	feature	CDS	16117	17580	.	+	0	ID=TBepi2057.genome.CDS.1238;Product=Aldehyde dehydrogenase %28EC 1.2.1.3%29;locus_tag=TBepi2057.genome.CDS.1238
+TBepi2057.contig.12	feature	CDS	15384	16064	.	-	0	ID=TBepi2057.genome.CDS.275;Product=FIG01173569: hypothetical protein;locus_tag=TBepi2057.genome.CDS.275
+TBepi2057.contig.12	feature	CDS	14269	15387	.	+	0	ID=TBepi2057.genome.CDS.1236;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1236
+TBepi2057.contig.12	feature	CDS	12966	14222	.	-	0	ID=TBepi2057.genome.CDS.1235;Product=Chromosome segregation ATPases;locus_tag=TBepi2057.genome.CDS.1235
+TBepi2057.contig.12	feature	CDS	12061	12969	.	-	0	ID=TBepi2057.genome.CDS.1234;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1234
+TBepi2057.contig.12	feature	CDS	10853	12064	.	-	0	ID=TBepi2057.genome.CDS.1233;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1233
+TBepi2057.contig.12	feature	CDS	8117	10834	.	+	0	ID=TBepi2057.genome.CDS.1232;Product=Pyruvate dehydrogenase E1 component %28EC 1.2.4.1%29;locus_tag=TBepi2057.genome.CDS.1232
+TBepi2057.contig.12	feature	CDS	7632	8054	.	-	0	ID=TBepi2057.genome.CDS.1231;Product=FIG00819990: hypothetical protein;locus_tag=TBepi2057.genome.CDS.1231
+TBepi2057.contig.12	feature	CDS	7147	7605	.	-	0	ID=TBepi2057.genome.CDS.1230;Product=Alkyl hydroperoxide reductase subunit C-like protein;locus_tag=TBepi2057.genome.CDS.1230
+TBepi2057.contig.12	feature	tRNA	6935	7009	.	-	.	ID=TBepi2057.genome.rna.10;Product=tRNA-Val-TAC;locus_tag=TBepi2057.genome.rna.10
+TBepi2057.contig.12	feature	CDS	6171	6896	.	-	0	ID=TBepi2057.genome.CDS.1229;Product=FIG137478: Hypothetical protein;locus_tag=TBepi2057.genome.CDS.1229
+TBepi2057.contig.12	feature	CDS	5083	6168	.	-	0	ID=TBepi2057.genome.CDS.1228;Product=FIG006762: Phosphoglycerate mutase family;locus_tag=TBepi2057.genome.CDS.1228
+TBepi2057.contig.12	feature	CDS	4481	5074	.	-	0	ID=TBepi2057.genome.CDS.1227;Product=;locus_tag=TBepi2057.genome.CDS.1227
+TBepi2057.contig.12	feature	CDS	3143	4450	.	-	0	ID=TBepi2057.genome.CDS.1226;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1226
+TBepi2057.contig.12	feature	CDS	2375	3142	.	+	0	ID=TBepi2057.genome.CDS.1225;Product=ATP-binding protein;locus_tag=TBepi2057.genome.CDS.1225
+TBepi2057.contig.12	feature	CDS	1500	2378	.	+	0	ID=TBepi2057.genome.CDS.1224;Product=;locus_tag=TBepi2057.genome.CDS.1224
+TBepi2057.contig.12	feature	CDS	668	1516	.	+	0	ID=TBepi2057.genome.CDS.1223;Product=;locus_tag=TBepi2057.genome.CDS.1223
+TBepi2057.contig.13	feature	misc_RNA	1	473	.	+	.	ID=TBepi2057.genome.repeat.21;Product=repeat region;locus_tag=TBepi2057.genome.repeat.21
+TBepi2057.contig.13	feature	CDS	15285	16331	.	-	0	ID=TBepi2057.genome.CDS.1257;Product=Low-specificity L-threonine aldolase %28EC 4.1.2.48%29;locus_tag=TBepi2057.genome.CDS.1257
+TBepi2057.contig.13	feature	CDS	14820	15311	.	+	0	ID=TBepi2057.genome.CDS.1256;Product=;locus_tag=TBepi2057.genome.CDS.1256
+TBepi2057.contig.13	feature	CDS	13414	14757	.	+	0	ID=TBepi2057.genome.CDS.1255;Product=2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase II %28EC 2.5.1.54%29;locus_tag=TBepi2057.genome.CDS.1255
+TBepi2057.contig.13	feature	CDS	12346	13371	.	+	0	ID=TBepi2057.genome.CDS.1254;Product=6-phosphofructokinase %28EC 2.7.1.11%29;locus_tag=TBepi2057.genome.CDS.1254
+TBepi2057.contig.13	feature	CDS	11359	12234	.	-	0	ID=TBepi2057.genome.CDS.1253;Product=Permease of the drug/metabolite transporter %28DMT%29 superfamily;locus_tag=TBepi2057.genome.CDS.1253
+TBepi2057.contig.13	feature	CDS	10415	11341	.	+	0	ID=TBepi2057.genome.CDS.1252;Product=GTP-binding protein Era;locus_tag=TBepi2057.genome.CDS.1252
+TBepi2057.contig.13	feature	CDS	9506	10402	.	+	0	ID=TBepi2057.genome.CDS.1251;Product=Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake;locus_tag=TBepi2057.genome.CDS.1251
+TBepi2057.contig.13	feature	CDS	7986	9509	.	+	0	ID=TBepi2057.genome.CDS.1250;Product=MG%282%2B%29 CHELATASE FAMILY PROTEIN / ComM-related protein;locus_tag=TBepi2057.genome.CDS.1250
+TBepi2057.contig.13	feature	CDS	7630	7986	.	+	0	ID=TBepi2057.genome.CDS.1249;Product=;locus_tag=TBepi2057.genome.CDS.1249
+TBepi2057.contig.13	feature	CDS	6948	7550	.	+	0	ID=TBepi2057.genome.CDS.1248;Product=Ribonuclease HII %28EC 3.1.26.4%29;locus_tag=TBepi2057.genome.CDS.1248
+TBepi2057.contig.13	feature	CDS	6247	6924	.	+	0	ID=TBepi2057.genome.CDS.1247;Product=Signal peptidase I %28EC 3.4.21.89%29;locus_tag=TBepi2057.genome.CDS.1247
+TBepi2057.contig.13	feature	CDS	5726	6223	.	+	0	ID=TBepi2057.genome.CDS.1246;Product=LSU ribosomal protein L19p;locus_tag=TBepi2057.genome.CDS.1246
+TBepi2057.contig.13	feature	CDS	4820	5596	.	+	0	ID=TBepi2057.genome.CDS.1245;Product=Inositol-1-monophosphatase %28EC 3.1.3.25%29;locus_tag=TBepi2057.genome.CDS.1245
+TBepi2057.contig.13	feature	CDS	3825	4721	.	-	0	ID=TBepi2057.genome.CDS.1244;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1244
+TBepi2057.contig.13	feature	CDS	2736	3845	.	+	0	ID=TBepi2057.genome.CDS.1243;Product=Alkaline phosphodiesterase I %28EC 3.1.4.1%29 / Nucleotide pyrophosphatase %28EC 3.6.1.9%29;locus_tag=TBepi2057.genome.CDS.1243
+TBepi2057.contig.13	feature	CDS	1144	2646	.	-	0	ID=TBepi2057.genome.CDS.1242;Product=Topoisomerase IV subunit A %28EC 5.99.1.-%29;locus_tag=TBepi2057.genome.CDS.1242
+TBepi2057.contig.13	feature	CDS	1	1071	.	+	0	ID=TBepi2057.genome.CDS.1241;Product=Topoisomerase IV subunit B %28EC 5.99.1.-%29;locus_tag=TBepi2057.genome.CDS.1241
+TBepi2057.contig.14	feature	CDS	14950	16344	.	-	0	ID=TBepi2057.genome.CDS.1271;Product=SSU ribosomal protein S1p;locus_tag=TBepi2057.genome.CDS.1271
+TBepi2057.contig.14	feature	CDS	14253	14855	.	-	0	ID=TBepi2057.genome.CDS.1270;Product=Dephospho-CoA kinase %28EC 2.7.1.24%29;locus_tag=TBepi2057.genome.CDS.1270
+TBepi2057.contig.14	feature	CDS	12175	14256	.	-	0	ID=TBepi2057.genome.CDS.1269;Product=Excinuclease ABC subunit B;locus_tag=TBepi2057.genome.CDS.1269
+TBepi2057.contig.14	feature	CDS	9338	12178	.	-	0	ID=TBepi2057.genome.CDS.1268;Product=Excinuclease ABC subunit A;locus_tag=TBepi2057.genome.CDS.1268
+TBepi2057.contig.14	feature	CDS	9036	9338	.	-	0	ID=TBepi2057.genome.CDS.305;Product=Excinuclease ABC subunit C;locus_tag=TBepi2057.genome.CDS.305
+TBepi2057.contig.14	feature	CDS	7428	8921	.	-	0	ID=TBepi2057.genome.CDS.304;Product=Excinuclease ABC subunit C;locus_tag=TBepi2057.genome.CDS.304
+TBepi2057.contig.14	feature	CDS	6531	7403	.	-	0	ID=TBepi2057.genome.CDS.1266;Product=FIG000506: Predicted P-loop-containing kinase;locus_tag=TBepi2057.genome.CDS.1266
+TBepi2057.contig.14	feature	CDS	5590	6534	.	-	0	ID=TBepi2057.genome.CDS.1265;Product=FIG002813: LPPG:FO 2-phospho-L-lactate transferase like%2C CofD-like;locus_tag=TBepi2057.genome.CDS.1265
+TBepi2057.contig.14	feature	CDS	4605	5585	.	-	0	ID=TBepi2057.genome.CDS.1264;Product=FIG001886: Cytoplasmic hypothetical protein;locus_tag=TBepi2057.genome.CDS.1264
+TBepi2057.contig.14	feature	CDS	3516	4520	.	-	0	ID=TBepi2057.genome.CDS.1263;Product=NAD-dependent glyceraldehyde-3-phosphate dehydrogenase %28EC 1.2.1.12%29;locus_tag=TBepi2057.genome.CDS.1263
+TBepi2057.contig.14	feature	CDS	2299	3516	.	-	0	ID=TBepi2057.genome.CDS.1262;Product=Phosphoglycerate kinase %28EC 2.7.2.3%29;locus_tag=TBepi2057.genome.CDS.1262
+TBepi2057.contig.14	feature	CDS	1530	2306	.	-	0	ID=TBepi2057.genome.CDS.1261;Product=Triosephosphate isomerase %28EC 5.3.1.1%29;locus_tag=TBepi2057.genome.CDS.1261
+TBepi2057.contig.14	feature	CDS	1134	1361	.	-	0	ID=TBepi2057.genome.CDS.1260;Product=Preprotein translocase subunit SecG %28TC 3.A.5.1.1%29;locus_tag=TBepi2057.genome.CDS.1260
+TBepi2057.contig.14	feature	CDS	696	1037	.	-	0	ID=TBepi2057.genome.CDS.1259;Product=putative electron transport protein;locus_tag=TBepi2057.genome.CDS.1259
+TBepi2057.contig.14	feature	CDS	1	699	.	+	0	ID=TBepi2057.genome.CDS.1258;Product=Glucose-6-phosphate isomerase %28EC 5.3.1.9%29;locus_tag=TBepi2057.genome.CDS.1258
+TBepi2057.contig.15	feature	CDS	15967	16041	.	+	0	ID=TBepi2057.genome.CDS.1283;Product=Formamidopyrimidine-DNA glycosylase %28EC 3.2.2.23%29;locus_tag=TBepi2057.genome.CDS.1283
+TBepi2057.contig.15	feature	tRNA	15832	15904	.	+	.	ID=TBepi2057.genome.rna.11;Product=tRNA-Leu-TAA;locus_tag=TBepi2057.genome.rna.11
+TBepi2057.contig.15	feature	CDS	14347	15741	.	+	0	ID=TBepi2057.genome.CDS.1282;Product=Beta-glucosidase %28EC 3.2.1.21%29;locus_tag=TBepi2057.genome.CDS.1282
+TBepi2057.contig.15	feature	CDS	13001	14341	.	+	0	ID=TBepi2057.genome.CDS.1281;Product=;locus_tag=TBepi2057.genome.CDS.1281
+TBepi2057.contig.15	feature	CDS	10969	12993	.	+	0	ID=TBepi2057.genome.CDS.1280;Product=Alpha-xylosidase %28EC 3.2.1.-%29;locus_tag=TBepi2057.genome.CDS.1280
+TBepi2057.contig.15	feature	CDS	9715	10953	.	+	0	ID=TBepi2057.genome.CDS.1279;Product=Xylose ABC transporter%2C permease protein XylH;locus_tag=TBepi2057.genome.CDS.1279
+TBepi2057.contig.15	feature	CDS	8948	9712	.	+	0	ID=TBepi2057.genome.CDS.1278;Product=D-xylose transport ATP-binding protein XylG;locus_tag=TBepi2057.genome.CDS.1278
+TBepi2057.contig.15	feature	CDS	7706	8752	.	+	0	ID=TBepi2057.genome.CDS.1277;Product=;locus_tag=TBepi2057.genome.CDS.1277
+TBepi2057.contig.15	feature	CDS	5810	7498	.	+	0	ID=TBepi2057.genome.CDS.1276;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1276
+TBepi2057.contig.15	feature	CDS	4143	5546	.	+	0	ID=TBepi2057.genome.CDS.1275;Product=Xylulose kinase %28EC 2.7.1.17%29;locus_tag=TBepi2057.genome.CDS.1275
+TBepi2057.contig.15	feature	CDS	2983	4143	.	+	0	ID=TBepi2057.genome.CDS.1274;Product=Xylose isomerase %28EC 5.3.1.5%29;locus_tag=TBepi2057.genome.CDS.1274
+TBepi2057.contig.15	feature	CDS	1707	2939	.	-	0	ID=TBepi2057.genome.CDS.1273;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1273
+TBepi2057.contig.15	feature	CDS	1	1689	.	-	0	ID=TBepi2057.genome.CDS.1272;Product=Dipeptidyl carboxypeptidase Dcp %28EC 3.4.15.5%29;locus_tag=TBepi2057.genome.CDS.1272
+TBepi2057.contig.16	feature	misc_RNA	1	1403	.	+	.	ID=TBepi2057.genome.repeat.67;Product=repeat region;locus_tag=TBepi2057.genome.repeat.67
+TBepi2057.contig.16	feature	CDS	14432	15022	.	-	0	ID=TBepi2057.genome.CDS.1300;Product=Permease%2C multidrug efflux;locus_tag=TBepi2057.genome.CDS.1300
+TBepi2057.contig.16	feature	CDS	14155	14448	.	-	0	ID=TBepi2057.genome.CDS.1299;Product=;locus_tag=TBepi2057.genome.CDS.1299
+TBepi2057.contig.16	feature	CDS	12833	14158	.	-	0	ID=TBepi2057.genome.CDS.1298;Product=;locus_tag=TBepi2057.genome.CDS.1298
+TBepi2057.contig.16	feature	CDS	11866	12816	.	-	0	ID=TBepi2057.genome.CDS.1297;Product=UDP-glucose 4-epimerase %28EC 5.1.3.2%29;locus_tag=TBepi2057.genome.CDS.1297
+TBepi2057.contig.16	feature	CDS	11608	11847	.	+	0	ID=TBepi2057.genome.CDS.1296;Product=;locus_tag=TBepi2057.genome.CDS.1296
+TBepi2057.contig.16	feature	CDS	10657	11532	.	+	0	ID=TBepi2057.genome.CDS.1295;Product=;locus_tag=TBepi2057.genome.CDS.1295
+TBepi2057.contig.16	feature	tRNA	10517	10589	.	+	.	ID=TBepi2057.genome.rna.12;Product=tRNA-Asn-GTT;locus_tag=TBepi2057.genome.rna.12
+TBepi2057.contig.16	feature	CDS	8583	10412	.	+	0	ID=TBepi2057.genome.CDS.1294;Product=DNA primase %28EC 2.7.7.-%29;locus_tag=TBepi2057.genome.CDS.1294
+TBepi2057.contig.16	feature	CDS	7253	8503	.	+	0	ID=TBepi2057.genome.CDS.1293;Product=dNTP triphosphohydrolase%2C broad substrate specificity%2C subgroup 2;locus_tag=TBepi2057.genome.CDS.1293
+TBepi2057.contig.16	feature	CDS	6614	7240	.	+	0	ID=TBepi2057.genome.CDS.1292;Product=;locus_tag=TBepi2057.genome.CDS.1292
+TBepi2057.contig.16	feature	CDS	5439	6611	.	+	0	ID=TBepi2057.genome.CDS.1291;Product=tRNA dihydrouridine synthase B %28EC 1.-.-.-%29;locus_tag=TBepi2057.genome.CDS.1291
+TBepi2057.contig.16	feature	CDS	5033	5410	.	+	0	ID=TBepi2057.genome.CDS.1290;Product=Glycyl-tRNA synthetase %28EC 6.1.1.14%29;locus_tag=TBepi2057.genome.CDS.1290
+TBepi2057.contig.16	feature	CDS	4027	5046	.	+	0	ID=TBepi2057.genome.CDS.1289;Product=Glycyl-tRNA synthetase %28EC 6.1.1.14%29;locus_tag=TBepi2057.genome.CDS.1289
+TBepi2057.contig.16	feature	CDS	3169	3912	.	+	0	ID=TBepi2057.genome.CDS.1288;Product=;locus_tag=TBepi2057.genome.CDS.1288
+TBepi2057.contig.16	feature	CDS	1641	3146	.	+	0	ID=TBepi2057.genome.CDS.1287;Product=probable sulfite oxidase;locus_tag=TBepi2057.genome.CDS.1287
+TBepi2057.contig.16	feature	CDS	913	1644	.	+	0	ID=TBepi2057.genome.CDS.1286;Product=Trans%2Cpolycis-decaprenyl diphosphate synthase %28EC 2.5.1.86%29;locus_tag=TBepi2057.genome.CDS.1286
+TBepi2057.contig.16	feature	CDS	176	910	.	+	0	ID=TBepi2057.genome.CDS.1285;Product=DNA recombination and repair protein RecO;locus_tag=TBepi2057.genome.CDS.1285
+TBepi2057.contig.16	feature	CDS	1	156	.	+	0	ID=TBepi2057.genome.CDS.1284;Product=2-isopropylmalate synthase %28EC 2.3.3.13%29;locus_tag=TBepi2057.genome.CDS.1284
+TBepi2057.contig.17	feature	misc_RNA	12678	14351	.	+	.	ID=TBepi2057.genome.repeat.36;Product=repeat region;locus_tag=TBepi2057.genome.repeat.36
+TBepi2057.contig.17	feature	CDS	13904	14350	.	+	0	ID=TBepi2057.genome.CDS.1314;Product=Aminomethyltransferase %28glycine cleavage system T protein%29 %28EC 2.1.2.10%29;locus_tag=TBepi2057.genome.CDS.1314
+TBepi2057.contig.17	feature	CDS	12317	13804	.	-	0	ID=TBepi2057.genome.CDS.1313;Product=Cytosol aminopeptidase PepA %28EC 3.4.11.1%29;locus_tag=TBepi2057.genome.CDS.1313
+TBepi2057.contig.17	feature	CDS	10821	12188	.	-	0	ID=TBepi2057.genome.CDS.1312;Product=Dihydrolipoamide dehydrogenase of branched-chain alpha-keto acid dehydrogenase %28EC 1.8.1.4%29;locus_tag=TBepi2057.genome.CDS.1312
+TBepi2057.contig.17	feature	CDS	9097	10806	.	-	0	ID=TBepi2057.genome.CDS.1311;Product=Dihydrolipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex %28EC 2.3.1.168%29;locus_tag=TBepi2057.genome.CDS.1311
+TBepi2057.contig.17	feature	CDS	8203	9093	.	-	0	ID=TBepi2057.genome.CDS.1310;Product=Cell division inhibitor;locus_tag=TBepi2057.genome.CDS.1310
+TBepi2057.contig.17	feature	CDS	7162	8199	.	+	0	ID=TBepi2057.genome.CDS.1309;Product=Myo-inositol 2-dehydrogenase %28EC 1.1.1.18%29;locus_tag=TBepi2057.genome.CDS.1309
+TBepi2057.contig.17	feature	CDS	6465	7133	.	-	0	ID=TBepi2057.genome.CDS.1308;Product=Octanoate-%5Bacyl-carrier-protein%5D-protein-N-octanoyltransferase;locus_tag=TBepi2057.genome.CDS.1308
+TBepi2057.contig.17	feature	CDS	5526	6464	.	-	0	ID=TBepi2057.genome.CDS.1307;Product=Lipoate synthase;locus_tag=TBepi2057.genome.CDS.1307
+TBepi2057.contig.17	feature	CDS	4784	5533	.	-	0	ID=TBepi2057.genome.CDS.1306;Product=1-acyl-sn-glycerol-3-phosphate acyltransferase %28EC 2.3.1.51%29;locus_tag=TBepi2057.genome.CDS.1306
+TBepi2057.contig.17	feature	CDS	4115	4783	.	-	0	ID=TBepi2057.genome.CDS.1305;Product=Transmembrane protein MT2276%2C clustered with lipoate gene;locus_tag=TBepi2057.genome.CDS.1305
+TBepi2057.contig.17	feature	CDS	3736	4095	.	+	0	ID=TBepi2057.genome.CDS.1304;Product=;locus_tag=TBepi2057.genome.CDS.1304
+TBepi2057.contig.17	feature	CDS	2195	3628	.	-	0	ID=TBepi2057.genome.CDS.1303;Product=Glutamine synthetase type I %28EC 6.3.1.2%29;locus_tag=TBepi2057.genome.CDS.1303
+TBepi2057.contig.17	feature	CDS	1450	2076	.	-	0	ID=TBepi2057.genome.CDS.1302;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1302
+TBepi2057.contig.17	feature	CDS	57	1412	.	-	0	ID=TBepi2057.genome.CDS.1301;Product=Aromatic-L-amino-acid decarboxylase %28EC 4.1.1.28%29;locus_tag=TBepi2057.genome.CDS.1301
+TBepi2057.contig.18	feature	CDS	13218	14063	.	-	0	ID=TBepi2057.genome.CDS.1329;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1329
+TBepi2057.contig.18	feature	CDS	12686	13204	.	+	0	ID=TBepi2057.genome.CDS.1328;Product=Formyltetrahydrofolate deformylase %28EC 3.5.1.10%29;locus_tag=TBepi2057.genome.CDS.1328
+TBepi2057.contig.18	feature	CDS	11517	12290	.	+	0	ID=TBepi2057.genome.CDS.1327;Product=Formyltetrahydrofolate deformylase %28EC 3.5.1.10%29;locus_tag=TBepi2057.genome.CDS.1327
+TBepi2057.contig.18	feature	CDS	11281	11421	.	-	0	ID=TBepi2057.genome.CDS.360;Product=;locus_tag=TBepi2057.genome.CDS.360
+TBepi2057.contig.18	feature	CDS	11050	11247	.	+	0	ID=TBepi2057.genome.CDS.1326;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1326
+TBepi2057.contig.18	feature	CDS	10326	10967	.	-	0	ID=TBepi2057.genome.CDS.1325;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1325
+TBepi2057.contig.18	feature	CDS	8400	10313	.	-	0	ID=TBepi2057.genome.CDS.1324;Product=Copper resistance protein D;locus_tag=TBepi2057.genome.CDS.1324
+TBepi2057.contig.18	feature	CDS	7868	8428	.	+	0	ID=TBepi2057.genome.CDS.1323;Product=5-formyltetrahydrofolate cyclo-ligase %28EC 6.3.3.2%29;locus_tag=TBepi2057.genome.CDS.1323
+TBepi2057.contig.18	feature	CDS	6821	7798	.	-	0	ID=TBepi2057.genome.CDS.1322;Product=;locus_tag=TBepi2057.genome.CDS.1322
+TBepi2057.contig.18	feature	CDS	6236	6808	.	-	0	ID=TBepi2057.genome.CDS.1321;Product=Ribosomal-protein-S5p-alanine acetyltransferase;locus_tag=TBepi2057.genome.CDS.1321
+TBepi2057.contig.18	feature	CDS	5394	6161	.	-	0	ID=TBepi2057.genome.CDS.1320;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1320
+TBepi2057.contig.18	feature	CDS	4056	5378	.	+	0	ID=TBepi2057.genome.CDS.1319;Product=CONSERVED MEMBRANE PROTEIN;locus_tag=TBepi2057.genome.CDS.1319
+TBepi2057.contig.18	feature	CDS	3190	4023	.	-	0	ID=TBepi2057.genome.CDS.1318;Product=rRNA small subunit methyltransferase I;locus_tag=TBepi2057.genome.CDS.1318
+TBepi2057.contig.18	feature	CDS	1621	3180	.	-	0	ID=TBepi2057.genome.CDS.1317;Product=Methionyl-tRNA synthetase %28EC 6.1.1.10%29;locus_tag=TBepi2057.genome.CDS.1317
+TBepi2057.contig.18	feature	CDS	745	1620	.	-	0	ID=TBepi2057.genome.CDS.1316;Product=Putative deoxyribonuclease YcfH;locus_tag=TBepi2057.genome.CDS.1316
+TBepi2057.contig.18	feature	CDS	2	745	.	-	0	ID=TBepi2057.genome.CDS.1315;Product=SSU rRNA %28adenine%281518%29-N%286%29/adenine%281519%29-N%286%29%29-dimethyltransferase %28EC 2.1.1.182%29;locus_tag=TBepi2057.genome.CDS.1315
+TBepi2057.contig.19	feature	CDS	12900	13880	.	-	0	ID=TBepi2057.genome.CDS.1349;Product=Ribose-phosphate pyrophosphokinase %28EC 2.7.6.1%29;locus_tag=TBepi2057.genome.CDS.1349
+TBepi2057.contig.19	feature	CDS	12206	12793	.	-	0	ID=TBepi2057.genome.CDS.1348;Product=LSU ribosomal protein L25p;locus_tag=TBepi2057.genome.CDS.1348
+TBepi2057.contig.19	feature	CDS	11611	12174	.	-	0	ID=TBepi2057.genome.CDS.1347;Product=Peptidyl-tRNA hydrolase %28EC 3.1.1.29%29;locus_tag=TBepi2057.genome.CDS.1347
+TBepi2057.contig.19	feature	CDS	11313	11597	.	+	0	ID=TBepi2057.genome.CDS.1346;Product=;locus_tag=TBepi2057.genome.CDS.1346
+TBepi2057.contig.19	feature	CDS	10510	10956	.	-	0	ID=TBepi2057.genome.CDS.1345;Product=Succinyl-CoA synthetase%2C alpha subunit-related enzymes;locus_tag=TBepi2057.genome.CDS.1345
+TBepi2057.contig.19	feature	CDS	10111	10524	.	+	0	ID=TBepi2057.genome.CDS.377;Product=Peptide methionine sulfoxide reductase MsrB %28EC 1.8.4.12%29;locus_tag=TBepi2057.genome.CDS.377
+TBepi2057.contig.19	feature	CDS	9478	10056	.	-	0	ID=TBepi2057.genome.CDS.1343;Product=;locus_tag=TBepi2057.genome.CDS.1343
+TBepi2057.contig.19	feature	CDS	9021	9470	.	-	0	ID=TBepi2057.genome.CDS.1342;Product=;locus_tag=TBepi2057.genome.CDS.1342
+TBepi2057.contig.19	feature	CDS	8346	9005	.	+	0	ID=TBepi2057.genome.CDS.1341;Product=Mlr1763 protein;locus_tag=TBepi2057.genome.CDS.1341
+TBepi2057.contig.19	feature	CDS	6673	8349	.	+	0	ID=TBepi2057.genome.CDS.1340;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1340
+TBepi2057.contig.19	feature	tRNA	6528	6603	.	-	.	ID=TBepi2057.genome.rna.13;Product=tRNA-Thr-GGT;locus_tag=TBepi2057.genome.rna.13
+TBepi2057.contig.19	feature	tRNA	6444	6516	.	-	.	ID=TBepi2057.genome.rna.14;Product=tRNA-Met-CAT;locus_tag=TBepi2057.genome.rna.14
+TBepi2057.contig.19	feature	CDS	6130	6300	.	-	0	ID=TBepi2057.genome.CDS.1339;Product=LSU ribosomal protein L33p %40 LSU ribosomal protein L33p%2C zinc-dependent;locus_tag=TBepi2057.genome.CDS.1339
+TBepi2057.contig.19	feature	CDS	5345	5785	.	-	0	ID=TBepi2057.genome.CDS.1337;Product=MaoC family protein;locus_tag=TBepi2057.genome.CDS.1337
+TBepi2057.contig.19	feature	CDS	4315	5334	.	-	0	ID=TBepi2057.genome.CDS.1336;Product=UDP-N-acetylenolpyruvoylglucosamine reductase %28EC 1.3.1.98%29;locus_tag=TBepi2057.genome.CDS.1336
+TBepi2057.contig.19	feature	CDS	3098	4309	.	+	0	ID=TBepi2057.genome.CDS.1335;Product=Aspartate aminotransferase %28EC 2.6.1.1%29;locus_tag=TBepi2057.genome.CDS.1335
+TBepi2057.contig.19	feature	tRNA	2835	2908	.	-	.	ID=TBepi2057.genome.rna.15;Product=tRNA-Trp-CCA;locus_tag=TBepi2057.genome.rna.15
+TBepi2057.contig.19	feature	CDS	2538	2771	.	-	0	ID=TBepi2057.genome.CDS.1334;Product=Preprotein translocase subunit SecE %28TC 3.A.5.1.1%29;locus_tag=TBepi2057.genome.CDS.1334
+TBepi2057.contig.19	feature	CDS	1707	2528	.	-	0	ID=TBepi2057.genome.CDS.1333;Product=Transcription antitermination protein NusG;locus_tag=TBepi2057.genome.CDS.1333
+TBepi2057.contig.19	feature	CDS	1223	1651	.	-	0	ID=TBepi2057.genome.CDS.1332;Product=LSU ribosomal protein L11p %28L12e%29;locus_tag=TBepi2057.genome.CDS.1332
+TBepi2057.contig.19	feature	CDS	405	1115	.	-	0	ID=TBepi2057.genome.CDS.1331;Product=LSU ribosomal protein L1p %28L10Ae%29;locus_tag=TBepi2057.genome.CDS.1331
+TBepi2057.contig.19	feature	CDS	1	123	.	-	0	ID=TBepi2057.genome.CDS.1330;Product=LSU ribosomal protein L10p %28P0%29;locus_tag=TBepi2057.genome.CDS.1330
+TBepi2057.contig.2	feature	CDS	24333	25091	.	-	0	ID=TBepi2057.genome.CDS.1025;Product=;locus_tag=TBepi2057.genome.CDS.1025
+TBepi2057.contig.2	feature	CDS	23540	24355	.	+	0	ID=TBepi2057.genome.CDS.1024;Product=putative secreted protein;locus_tag=TBepi2057.genome.CDS.1024
+TBepi2057.contig.2	feature	CDS	23061	23519	.	-	0	ID=TBepi2057.genome.CDS.1023;Product=Transamidase GatB domain protein;locus_tag=TBepi2057.genome.CDS.1023
+TBepi2057.contig.2	feature	CDS	22905	23060	.	-	0	ID=TBepi2057.genome.CDS.1022;Product=FIG011121: hypothetical protein;locus_tag=TBepi2057.genome.CDS.1022
+TBepi2057.contig.2	feature	CDS	22446	22904	.	-	0	ID=TBepi2057.genome.CDS.1021;Product=RidA/YER057c/UK114 superfamily%2C group 1;locus_tag=TBepi2057.genome.CDS.1021
+TBepi2057.contig.2	feature	CDS	21712	22404	.	+	0	ID=TBepi2057.genome.CDS.1020;Product=cAMP-binding proteins - catabolite gene activator and regulatory subunit of cAMP-dependent protein kinases;locus_tag=TBepi2057.genome.CDS.1020
+TBepi2057.contig.2	feature	CDS	20958	21659	.	-	0	ID=TBepi2057.genome.CDS.1019;Product=Endonuclease III %28EC 4.2.99.18%29;locus_tag=TBepi2057.genome.CDS.1019
+TBepi2057.contig.2	feature	CDS	20407	20949	.	-	0	ID=TBepi2057.genome.CDS.1018;Product=;locus_tag=TBepi2057.genome.CDS.1018
+TBepi2057.contig.2	feature	CDS	19916	20404	.	-	0	ID=TBepi2057.genome.CDS.1017;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1017
+TBepi2057.contig.2	feature	CDS	19295	19885	.	-	0	ID=TBepi2057.genome.CDS.1016;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1016
+TBepi2057.contig.2	feature	CDS	17283	19238	.	+	0	ID=TBepi2057.genome.CDS.1015;Product=Acetyl-coenzyme A synthetase %28EC 6.2.1.1%29;locus_tag=TBepi2057.genome.CDS.1015
+TBepi2057.contig.2	feature	CDS	16575	17120	.	-	0	ID=TBepi2057.genome.CDS.1014;Product=;locus_tag=TBepi2057.genome.CDS.1014
+TBepi2057.contig.2	feature	CDS	16247	16405	.	-	0	ID=TBepi2057.genome.CDS.56;Product=;locus_tag=TBepi2057.genome.CDS.56
+TBepi2057.contig.2	feature	CDS	15063	16097	.	-	0	ID=TBepi2057.genome.CDS.1013;Product=Fructose-bisphosphate aldolase class II %28EC 4.1.2.13%29;locus_tag=TBepi2057.genome.CDS.1013
+TBepi2057.contig.2	feature	CDS	13731	15014	.	-	0	ID=TBepi2057.genome.CDS.1012;Product=Adenylosuccinate synthetase %28EC 6.3.4.4%29;locus_tag=TBepi2057.genome.CDS.1012
+TBepi2057.contig.2	feature	CDS	12472	13734	.	-	0	ID=TBepi2057.genome.CDS.1011;Product=Phosphoribosylamine--glycine ligase %28EC 6.3.4.13%29;locus_tag=TBepi2057.genome.CDS.1011
+TBepi2057.contig.2	feature	CDS	11066	12469	.	-	0	ID=TBepi2057.genome.CDS.1010;Product=Adenylosuccinate lyase %28EC 4.3.2.2%29;locus_tag=TBepi2057.genome.CDS.1010
+TBepi2057.contig.2	feature	CDS	10197	11060	.	-	0	ID=TBepi2057.genome.CDS.1009;Product=Phosphoribosylaminoimidazole-succinocarboxamide synthase %28EC 6.3.2.6%29;locus_tag=TBepi2057.genome.CDS.1009
+TBepi2057.contig.2	feature	CDS	9952	10197	.	-	0	ID=TBepi2057.genome.CDS.1008;Product=Phosphoribosylformylglycinamidine synthase%2C PurS subunit %28EC 6.3.5.3%29;locus_tag=TBepi2057.genome.CDS.1008
+TBepi2057.contig.2	feature	CDS	9281	9952	.	-	0	ID=TBepi2057.genome.CDS.1007;Product=Phosphoribosylformylglycinamidine synthase%2C glutamine amidotransferase subunit %28EC 6.3.5.3%29;locus_tag=TBepi2057.genome.CDS.1007
+TBepi2057.contig.2	feature	CDS	7057	9279	.	-	0	ID=TBepi2057.genome.CDS.1006;Product=Phosphoribosylformylglycinamidine synthase%2C synthetase subunit %28EC 6.3.5.3%29;locus_tag=TBepi2057.genome.CDS.1006
+TBepi2057.contig.2	feature	CDS	6730	7044	.	-	0	ID=TBepi2057.genome.CDS.1005;Product=FIG00820565: hypothetical protein;locus_tag=TBepi2057.genome.CDS.1005
+TBepi2057.contig.2	feature	CDS	5258	6733	.	-	0	ID=TBepi2057.genome.CDS.1004;Product=Amidophosphoribosyltransferase %28EC 2.4.2.14%29;locus_tag=TBepi2057.genome.CDS.1004
+TBepi2057.contig.2	feature	CDS	4206	5261	.	-	0	ID=TBepi2057.genome.CDS.1003;Product=Phosphoribosylformylglycinamidine cyclo-ligase %28EC 6.3.3.1%29;locus_tag=TBepi2057.genome.CDS.1003
+TBepi2057.contig.2	feature	CDS	3951	4142	.	-	0	ID=TBepi2057.genome.CDS.1002;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1002
+TBepi2057.contig.2	feature	CDS	3104	3919	.	-	0	ID=TBepi2057.genome.CDS.1001;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1001
+TBepi2057.contig.2	feature	CDS	2699	2905	.	-	0	ID=TBepi2057.genome.CDS.1000;Product=;locus_tag=TBepi2057.genome.CDS.1000
+TBepi2057.contig.2	feature	CDS	1619	2689	.	-	0	ID=TBepi2057.genome.CDS.999;Product=Undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase %28EC 2.7.8.-%29;locus_tag=TBepi2057.genome.CDS.999
+TBepi2057.contig.2	feature	tRNA	1511	1584	.	+	.	ID=TBepi2057.genome.rna.3;Product=tRNA-Phe-GAA;locus_tag=TBepi2057.genome.rna.3
+TBepi2057.contig.2	feature	tRNA	1318	1391	.	+	.	ID=TBepi2057.genome.rna.2;Product=tRNA-Asp-GTC;locus_tag=TBepi2057.genome.rna.2
+TBepi2057.contig.2	feature	tRNA	1117	1189	.	+	.	ID=TBepi2057.genome.rna.1;Product=tRNA-Glu-TTC;locus_tag=TBepi2057.genome.rna.1
+TBepi2057.contig.2	feature	CDS	68	1051	.	-	0	ID=TBepi2057.genome.CDS.998;Product=TsaC protein %28YrdC-Sua5 domains%29 required for threonylcarbamoyladenosine t%286%29A37 modification in tRNA;locus_tag=TBepi2057.genome.CDS.998
+TBepi2057.contig.20	feature	CDS	13465	13629	.	+	0	ID=TBepi2057.genome.CDS.1367;Product=FIG000859: hypothetical protein YebC;locus_tag=TBepi2057.genome.CDS.1367
+TBepi2057.contig.20	feature	CDS	12784	13377	.	+	0	ID=TBepi2057.genome.CDS.400;Product=Pyridoxine biosynthesis glutamine amidotransferase%2C glutaminase subunit %28EC 2.4.2.-%29;locus_tag=TBepi2057.genome.CDS.400
+TBepi2057.contig.20	feature	CDS	11880	12779	.	+	0	ID=TBepi2057.genome.CDS.1365;Product=Pyridoxine biosynthesis glutamine amidotransferase%2C synthase subunit %28EC 2.4.2.-%29;locus_tag=TBepi2057.genome.CDS.1365
+TBepi2057.contig.20	feature	CDS	10733	11803	.	+	0	ID=TBepi2057.genome.CDS.1364;Product=secreted protein;locus_tag=TBepi2057.genome.CDS.1364
+TBepi2057.contig.20	feature	CDS	10230	10733	.	+	0	ID=TBepi2057.genome.CDS.1363;Product=;locus_tag=TBepi2057.genome.CDS.1363
+TBepi2057.contig.20	feature	CDS	9036	10229	.	+	0	ID=TBepi2057.genome.CDS.1362;Product=Phosphatidylinositol alpha-mannosyltransferase %28EC 2.4.1.57%29;locus_tag=TBepi2057.genome.CDS.1362
+TBepi2057.contig.20	feature	CDS	8174	9058	.	+	0	ID=TBepi2057.genome.CDS.1361;Product=Lauroyl/myristoyl acyltransferase involved in lipid A biosynthesis %28Lauroyl/myristoyl acyltransferase%29;locus_tag=TBepi2057.genome.CDS.1361
+TBepi2057.contig.20	feature	CDS	7559	8170	.	+	0	ID=TBepi2057.genome.CDS.1360;Product=CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase %28EC 2.7.8.5%29;locus_tag=TBepi2057.genome.CDS.1360
+TBepi2057.contig.20	feature	CDS	6953	7537	.	-	0	ID=TBepi2057.genome.CDS.1359;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1359
+TBepi2057.contig.20	feature	CDS	6443	6979	.	+	0	ID=TBepi2057.genome.CDS.1358;Product=HIT family protein;locus_tag=TBepi2057.genome.CDS.1358
+TBepi2057.contig.20	feature	CDS	4446	6431	.	+	0	ID=TBepi2057.genome.CDS.1357;Product=Threonyl-tRNA synthetase %28EC 6.1.1.3%29;locus_tag=TBepi2057.genome.CDS.1357
+TBepi2057.contig.20	feature	tRNA	4246	4318	.	-	.	ID=TBepi2057.genome.rna.16;Product=tRNA-Gly-GCC;locus_tag=TBepi2057.genome.rna.16
+TBepi2057.contig.20	feature	tRNA	4116	4189	.	-	.	ID=TBepi2057.genome.rna.17;Product=tRNA-Cys-GCA;locus_tag=TBepi2057.genome.rna.17
+TBepi2057.contig.20	feature	CDS	3719	4039	.	-	0	ID=TBepi2057.genome.CDS.1356;Product=;locus_tag=TBepi2057.genome.CDS.1356
+TBepi2057.contig.20	feature	CDS	3141	3674	.	-	0	ID=TBepi2057.genome.CDS.1355;Product=;locus_tag=TBepi2057.genome.CDS.1355
+TBepi2057.contig.20	feature	CDS	2752	3096	.	-	0	ID=TBepi2057.genome.CDS.1354;Product=Mannose-1-phosphate guanylyltransferase %28GDP%29 %28EC 2.7.7.22%29;locus_tag=TBepi2057.genome.CDS.1354
+TBepi2057.contig.20	feature	tRNA	2615	2689	.	-	.	ID=TBepi2057.genome.rna.18;Product=tRNA-Val-GAC;locus_tag=TBepi2057.genome.rna.18
+TBepi2057.contig.20	feature	CDS	2209	2577	.	+	0	ID=TBepi2057.genome.CDS.1353;Product=;locus_tag=TBepi2057.genome.CDS.1353
+TBepi2057.contig.20	feature	CDS	1535	2170	.	+	0	ID=TBepi2057.genome.CDS.1352;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1352
+TBepi2057.contig.20	feature	CDS	603	1538	.	+	0	ID=TBepi2057.genome.CDS.1351;Product=putative oxidoreductase;locus_tag=TBepi2057.genome.CDS.1351
+TBepi2057.contig.20	feature	CDS	3	599	.	+	0	ID=TBepi2057.genome.CDS.1350;Product=putative esterase/lipase;locus_tag=TBepi2057.genome.CDS.1350
+TBepi2057.contig.21	feature	CDS	13419	13541	.	+	0	ID=TBepi2057.genome.CDS.1382;Product=;locus_tag=TBepi2057.genome.CDS.1382
+TBepi2057.contig.21	feature	CDS	12237	13274	.	+	0	ID=TBepi2057.genome.CDS.1381;Product=possible chromosome condensation protein;locus_tag=TBepi2057.genome.CDS.1381
+TBepi2057.contig.21	feature	CDS	10725	12134	.	+	0	ID=TBepi2057.genome.CDS.1380;Product=NAD%28P%29 transhydrogenase subunit beta %28EC 1.6.1.2%29;locus_tag=TBepi2057.genome.CDS.1380
+TBepi2057.contig.21	feature	CDS	10414	10725	.	+	0	ID=TBepi2057.genome.CDS.1379;Product=NAD%28P%29 transhydrogenase alpha subunit %28EC 1.6.1.2%29;locus_tag=TBepi2057.genome.CDS.1379
+TBepi2057.contig.21	feature	CDS	9286	10401	.	+	0	ID=TBepi2057.genome.CDS.1378;Product=NAD%28P%29 transhydrogenase alpha subunit %28EC 1.6.1.2%29;locus_tag=TBepi2057.genome.CDS.1378
+TBepi2057.contig.21	feature	CDS	8253	9191	.	+	0	ID=TBepi2057.genome.CDS.1377;Product=Ornithine carbamoyltransferase %28EC 2.1.3.3%29;locus_tag=TBepi2057.genome.CDS.1377
+TBepi2057.contig.21	feature	CDS	7872	8207	.	-	0	ID=TBepi2057.genome.CDS.1376;Product=FIG01050400: hypothetical protein;locus_tag=TBepi2057.genome.CDS.1376
+TBepi2057.contig.21	feature	CDS	5992	7875	.	-	0	ID=TBepi2057.genome.CDS.1375;Product=;locus_tag=TBepi2057.genome.CDS.1375
+TBepi2057.contig.21	feature	CDS	5633	5923	.	-	0	ID=TBepi2057.genome.CDS.1374;Product=ATP-dependent Clp protease adaptor protein ClpS;locus_tag=TBepi2057.genome.CDS.1374
+TBepi2057.contig.21	feature	CDS	5064	5630	.	-	0	ID=TBepi2057.genome.CDS.1373;Product=;locus_tag=TBepi2057.genome.CDS.1373
+TBepi2057.contig.21	feature	CDS	4225	5034	.	-	0	ID=TBepi2057.genome.CDS.1372;Product=Glutamate racemase %28EC 5.1.1.3%29;locus_tag=TBepi2057.genome.CDS.1372
+TBepi2057.contig.21	feature	CDS	3503	4228	.	-	0	ID=TBepi2057.genome.CDS.1371;Product=Ribonuclease PH %28EC 2.7.7.56%29;locus_tag=TBepi2057.genome.CDS.1371
+TBepi2057.contig.21	feature	CDS	2843	3484	.	-	0	ID=TBepi2057.genome.CDS.1370;Product=Nucleoside 5-triphosphatase RdgB %28dHAPTP%2C dITP%2C XTP-specific%29 %28EC 3.6.1.15%29;locus_tag=TBepi2057.genome.CDS.1370
+TBepi2057.contig.21	feature	CDS	1794	2765	.	-	0	ID=TBepi2057.genome.CDS.1369;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1369
+TBepi2057.contig.21	feature	CDS	2	1621	.	+	0	ID=TBepi2057.genome.CDS.1368;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1368
+TBepi2057.contig.22	feature	CDS	12461	13393	.	+	0	ID=TBepi2057.genome.CDS.1397;Product=2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase %28EC 2.2.1.9%29;locus_tag=TBepi2057.genome.CDS.1397
+TBepi2057.contig.22	feature	CDS	11520	12464	.	+	0	ID=TBepi2057.genome.CDS.1396;Product=O-succinylbenzoate synthase %28EC 4.2.1.113%29;locus_tag=TBepi2057.genome.CDS.1396
+TBepi2057.contig.22	feature	CDS	10636	11514	.	+	0	ID=TBepi2057.genome.CDS.1394;Product=Naphthoate synthase %28EC 4.1.3.36%29;locus_tag=TBepi2057.genome.CDS.1394
+TBepi2057.contig.22	feature	CDS	9451	10536	.	-	0	ID=TBepi2057.genome.CDS.1393;Product=O-succinylbenzoic acid--CoA ligase %28EC 6.2.1.26%29;locus_tag=TBepi2057.genome.CDS.1393
+TBepi2057.contig.22	feature	CDS	8536	9396	.	-	0	ID=TBepi2057.genome.CDS.1392;Product=1%2C4-dihydroxy-2-naphthoate polyprenyltransferase %28EC 2.5.1.74%29;locus_tag=TBepi2057.genome.CDS.1392
+TBepi2057.contig.22	feature	CDS	8237	8500	.	-	0	ID=TBepi2057.genome.CDS.1391;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1391
+TBepi2057.contig.22	feature	CDS	7326	8222	.	+	0	ID=TBepi2057.genome.CDS.1390;Product=Cytochrome c-type biogenesis protein CcsA/ResC;locus_tag=TBepi2057.genome.CDS.1390
+TBepi2057.contig.22	feature	CDS	5842	7329	.	+	0	ID=TBepi2057.genome.CDS.1389;Product=Ccs1/ResB-related putative cytochrome C-type biogenesis protein;locus_tag=TBepi2057.genome.CDS.1389
+TBepi2057.contig.22	feature	CDS	5111	5842	.	+	0	ID=TBepi2057.genome.CDS.419;Product=Cytochrome c-type biogenesis protein CcdA %28DsbD analog%29;locus_tag=TBepi2057.genome.CDS.419
+TBepi2057.contig.22	feature	CDS	4558	5118	.	+	0	ID=TBepi2057.genome.CDS.1387;Product=Thiol:disulfide oxidoreductase related to ResA;locus_tag=TBepi2057.genome.CDS.1387
+TBepi2057.contig.22	feature	CDS	3890	4561	.	+	0	ID=TBepi2057.genome.CDS.1386;Product=Hypothetical%2C related to broad specificity phosphatases COG0406;locus_tag=TBepi2057.genome.CDS.1386
+TBepi2057.contig.22	feature	CDS	2978	3793	.	-	0	ID=TBepi2057.genome.CDS.1385;Product=Phosphoserine phosphatase %28EC 3.1.3.3%29;locus_tag=TBepi2057.genome.CDS.1385
+TBepi2057.contig.22	feature	CDS	805	2955	.	-	0	ID=TBepi2057.genome.CDS.1384;Product=probable DNA-binding protein;locus_tag=TBepi2057.genome.CDS.1384
+TBepi2057.contig.22	feature	CDS	1	780	.	-	0	ID=TBepi2057.genome.CDS.1383;Product=Carboxypeptidase G2;locus_tag=TBepi2057.genome.CDS.1383
+TBepi2057.contig.23	feature	CDS	12881	13030	.	+	0	ID=TBepi2057.genome.CDS.1411;Product=;locus_tag=TBepi2057.genome.CDS.1411
+TBepi2057.contig.23	feature	CDS	12330	12881	.	+	0	ID=TBepi2057.genome.CDS.1410;Product=Hypoxanthine-guanine phosphoribosyltransferase %28EC 2.4.2.8%29;locus_tag=TBepi2057.genome.CDS.1410
+TBepi2057.contig.23	feature	CDS	11336	12289	.	+	0	ID=TBepi2057.genome.CDS.1409;Product=tRNA%28Ile%29-lysidine synthetase %28EC 6.3.4.19%29;locus_tag=TBepi2057.genome.CDS.1409
+TBepi2057.contig.23	feature	CDS	10099	11331	.	+	0	ID=TBepi2057.genome.CDS.1408;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1408
+TBepi2057.contig.23	feature	CDS	9237	10010	.	+	0	ID=TBepi2057.genome.CDS.1407;Product=;locus_tag=TBepi2057.genome.CDS.1407
+TBepi2057.contig.23	feature	CDS	8329	9240	.	+	0	ID=TBepi2057.genome.CDS.1406;Product=ABC transporter%2C ATP-binding protein;locus_tag=TBepi2057.genome.CDS.1406
+TBepi2057.contig.23	feature	CDS	7376	8260	.	+	0	ID=TBepi2057.genome.CDS.1405;Product=Heme O synthase%2C protoheme IX farnesyltransferase %28EC 2.5.1.-%29 COX10-CtaB;locus_tag=TBepi2057.genome.CDS.1405
+TBepi2057.contig.23	feature	CDS	6226	7362	.	+	0	ID=TBepi2057.genome.CDS.1404;Product=D-alanyl-D-alanine carboxypeptidase %28EC 3.4.16.4%29;locus_tag=TBepi2057.genome.CDS.1404
+TBepi2057.contig.23	feature	CDS	5516	6175	.	-	0	ID=TBepi2057.genome.CDS.1403;Product=;locus_tag=TBepi2057.genome.CDS.1403
+TBepi2057.contig.23	feature	CDS	4591	5538	.	+	0	ID=TBepi2057.genome.CDS.1402;Product=;locus_tag=TBepi2057.genome.CDS.1402
+TBepi2057.contig.23	feature	CDS	3699	4433	.	-	0	ID=TBepi2057.genome.CDS.1401;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1401
+TBepi2057.contig.23	feature	CDS	2558	3676	.	-	0	ID=TBepi2057.genome.CDS.1400;Product=surface antigen gene;locus_tag=TBepi2057.genome.CDS.1400
+TBepi2057.contig.23	feature	CDS	891	2558	.	-	0	ID=TBepi2057.genome.CDS.1399;Product=L-O-lysylphosphatidylglycerol synthase %28EC 2.3.2.3%29 / Lysyl-tRNA synthetase %28class II%29 %28EC 6.1.1.6%29 fused to L-O-lysylphosphatidylglycerol synthetase;locus_tag=TBepi2057.genome.CDS.1399
+TBepi2057.contig.23	feature	CDS	1	894	.	+	0	ID=TBepi2057.genome.CDS.1398;Product=;locus_tag=TBepi2057.genome.CDS.1398
+TBepi2057.contig.24	feature	misc_RNA	12908	13030	.	+	.	ID=TBepi2057.genome.repeat.22;Product=repeat region;locus_tag=TBepi2057.genome.repeat.22
+TBepi2057.contig.24	feature	CDS	12210	13028	.	+	0	ID=TBepi2057.genome.CDS.1424;Product=tRNA-i%286%29A37 methylthiotransferase;locus_tag=TBepi2057.genome.CDS.1424
+TBepi2057.contig.24	feature	CDS	11691	12191	.	+	0	ID=TBepi2057.genome.CDS.1423;Product=;locus_tag=TBepi2057.genome.CDS.1423
+TBepi2057.contig.24	feature	CDS	10602	11687	.	+	0	ID=TBepi2057.genome.CDS.1422;Product=RecA protein;locus_tag=TBepi2057.genome.CDS.1422
+TBepi2057.contig.24	feature	CDS	10102	10293	.	+	0	ID=TBepi2057.genome.CDS.1421;Product=;locus_tag=TBepi2057.genome.CDS.1421
+TBepi2057.contig.24	feature	CDS	7955	10057	.	-	0	ID=TBepi2057.genome.CDS.1420;Product=;locus_tag=TBepi2057.genome.CDS.1420
+TBepi2057.contig.24	feature	CDS	7455	7940	.	+	0	ID=TBepi2057.genome.CDS.1419;Product=;locus_tag=TBepi2057.genome.CDS.1419
+TBepi2057.contig.24	feature	CDS	7168	7437	.	+	0	ID=TBepi2057.genome.CDS.1418;Product=;locus_tag=TBepi2057.genome.CDS.1418
+TBepi2057.contig.24	feature	CDS	6695	7171	.	+	0	ID=TBepi2057.genome.CDS.1417;Product=;locus_tag=TBepi2057.genome.CDS.1417
+TBepi2057.contig.24	feature	CDS	6351	6698	.	+	0	ID=TBepi2057.genome.CDS.1416;Product=CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase %28EC 2.7.8.5%29;locus_tag=TBepi2057.genome.CDS.1416
+TBepi2057.contig.24	feature	CDS	5353	6177	.	+	0	ID=TBepi2057.genome.CDS.1415;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1415
+TBepi2057.contig.24	feature	CDS	2898	5267	.	+	0	ID=TBepi2057.genome.CDS.1414;Product=DNA translocase FtsK;locus_tag=TBepi2057.genome.CDS.1414
+TBepi2057.contig.24	feature	CDS	1157	2839	.	+	0	ID=TBepi2057.genome.CDS.1413;Product=Ribonuclease J2 %28endoribonuclease in RNA processing%29;locus_tag=TBepi2057.genome.CDS.1413
+TBepi2057.contig.24	feature	CDS	243	1157	.	+	0	ID=TBepi2057.genome.CDS.1412;Product=4-hydroxy-tetrahydrodipicolinate synthase %28EC 4.3.3.7%29;locus_tag=TBepi2057.genome.CDS.1412
+TBepi2057.contig.25	feature	CDS	11250	12929	.	+	0	ID=TBepi2057.genome.CDS.1434;Product=Catalase %28EC 1.11.1.6%29 / Peroxidase %28EC 1.11.1.7%29;locus_tag=TBepi2057.genome.CDS.1434
+TBepi2057.contig.25	feature	CDS	8516	11137	.	+	0	ID=TBepi2057.genome.CDS.1433;Product=Phosphoenolpyruvate carboxylase %28EC 4.1.1.31%29;locus_tag=TBepi2057.genome.CDS.1433
+TBepi2057.contig.25	feature	CDS	4938	8387	.	-	0	ID=TBepi2057.genome.CDS.1432;Product=Transcription-repair coupling factor;locus_tag=TBepi2057.genome.CDS.1432
+TBepi2057.contig.25	feature	CDS	4159	4926	.	-	0	ID=TBepi2057.genome.CDS.1431;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1431
+TBepi2057.contig.25	feature	CDS	3467	4123	.	-	0	ID=TBepi2057.genome.CDS.1430;Product=Nucleoside triphosphate pyrophosphohydrolase MazG %28EC 3.6.1.8%29;locus_tag=TBepi2057.genome.CDS.1430
+TBepi2057.contig.25	feature	CDS	2151	3428	.	-	0	ID=TBepi2057.genome.CDS.1429;Product=Enolase %28EC 4.2.1.11%29;locus_tag=TBepi2057.genome.CDS.1429
+TBepi2057.contig.25	feature	CDS	1741	2130	.	-	0	ID=TBepi2057.genome.CDS.1428;Product=Cell division protein DivIC %28FtsB%29%2C stabilizes FtsL against RasP cleavage;locus_tag=TBepi2057.genome.CDS.1428
+TBepi2057.contig.25	feature	CDS	1252	1740	.	-	0	ID=TBepi2057.genome.CDS.1427;Product=FIG004853: possible toxin to DivIC;locus_tag=TBepi2057.genome.CDS.1427
+TBepi2057.contig.25	feature	CDS	344	1261	.	-	0	ID=TBepi2057.genome.CDS.1426;Product=Exopolyphosphatase %28EC 3.6.1.11%29;locus_tag=TBepi2057.genome.CDS.1426
+TBepi2057.contig.25	feature	CDS	1	378	.	-	0	ID=TBepi2057.genome.CDS.1425;Product=Uracil-DNA glycosylase%2C family 5;locus_tag=TBepi2057.genome.CDS.1425
+TBepi2057.contig.26	feature	CDS	11775	12908	.	-	0	ID=TBepi2057.genome.CDS.1449;Product=ABC transporter%2C ATP-binding/permease protein;locus_tag=TBepi2057.genome.CDS.1449
+TBepi2057.contig.26	feature	CDS	11468	11758	.	+	0	ID=TBepi2057.genome.CDS.1448;Product=;locus_tag=TBepi2057.genome.CDS.1448
+TBepi2057.contig.26	feature	CDS	10553	11299	.	-	0	ID=TBepi2057.genome.CDS.1447;Product=3-oxoacyl-%5Bacyl-carrier protein%5D reductase %28EC 1.1.1.100%29;locus_tag=TBepi2057.genome.CDS.1447
+TBepi2057.contig.26	feature	CDS	9783	10553	.	-	0	ID=TBepi2057.genome.CDS.1446;Product=Enoyl-%5Bacyl-carrier-protein%5D reductase %5BNADH%5D %28EC 1.3.1.9%29;locus_tag=TBepi2057.genome.CDS.1446
+TBepi2057.contig.26	feature	CDS	8960	9733	.	-	0	ID=TBepi2057.genome.CDS.1445;Product=Translation initiation factor 3;locus_tag=TBepi2057.genome.CDS.1445
+TBepi2057.contig.26	feature	CDS	8711	8908	.	-	0	ID=TBepi2057.genome.CDS.1444;Product=LSU ribosomal protein L35p;locus_tag=TBepi2057.genome.CDS.1444
+TBepi2057.contig.26	feature	CDS	8338	8697	.	-	0	ID=TBepi2057.genome.CDS.1443;Product=LSU ribosomal protein L20p;locus_tag=TBepi2057.genome.CDS.1443
+TBepi2057.contig.26	feature	CDS	7526	8341	.	-	0	ID=TBepi2057.genome.CDS.1442;Product=FIG011178: rRNA methylase;locus_tag=TBepi2057.genome.CDS.1442
+TBepi2057.contig.26	feature	CDS	6486	7511	.	-	0	ID=TBepi2057.genome.CDS.1441;Product=Phenylalanyl-tRNA synthetase alpha chain %28EC 6.1.1.20%29;locus_tag=TBepi2057.genome.CDS.1441
+TBepi2057.contig.26	feature	CDS	4036	6489	.	-	0	ID=TBepi2057.genome.CDS.1440;Product=Phenylalanyl-tRNA synthetase beta chain %28EC 6.1.1.20%29;locus_tag=TBepi2057.genome.CDS.1440
+TBepi2057.contig.26	feature	CDS	2926	3951	.	-	0	ID=TBepi2057.genome.CDS.1439;Product=N-acetyl-gamma-glutamyl-phosphate reductase %28EC 1.2.1.38%29;locus_tag=TBepi2057.genome.CDS.1439
+TBepi2057.contig.26	feature	CDS	2141	2929	.	-	0	ID=TBepi2057.genome.CDS.1438;Product=Acetylglutamate kinase %28EC 2.7.2.8%29;locus_tag=TBepi2057.genome.CDS.1438
+TBepi2057.contig.26	feature	CDS	966	2144	.	-	0	ID=TBepi2057.genome.CDS.1437;Product=Acetylornithine aminotransferase %28EC 2.6.1.11%29;locus_tag=TBepi2057.genome.CDS.1437
+TBepi2057.contig.26	feature	CDS	479	973	.	-	0	ID=TBepi2057.genome.CDS.1436;Product=Arginine pathway regulatory protein ArgR%2C repressor of arg regulon;locus_tag=TBepi2057.genome.CDS.1436
+TBepi2057.contig.26	feature	CDS	2	478	.	-	0	ID=TBepi2057.genome.CDS.1435;Product=Argininosuccinate lyase %28EC 4.3.2.1%29;locus_tag=TBepi2057.genome.CDS.1435
+TBepi2057.contig.27	feature	misc_RNA	3	697	.	+	.	ID=TBepi2057.genome.repeat.56;Product=repeat region;locus_tag=TBepi2057.genome.repeat.56
+TBepi2057.contig.27	feature	misc_RNA	11365	12761	.	+	.	ID=TBepi2057.genome.repeat.57;Product=repeat region;locus_tag=TBepi2057.genome.repeat.57
+TBepi2057.contig.27	feature	CDS	12343	12762	.	+	0	ID=TBepi2057.genome.CDS.1460;Product=Branched-chain amino acid aminotransferase %28EC 2.6.1.42%29;locus_tag=TBepi2057.genome.CDS.1460
+TBepi2057.contig.27	feature	CDS	11305	12342	.	+	0	ID=TBepi2057.genome.CDS.1459;Product=3-isopropylmalate dehydrogenase %28EC 1.1.1.85%29;locus_tag=TBepi2057.genome.CDS.1459
+TBepi2057.contig.27	feature	CDS	9709	11301	.	+	0	ID=TBepi2057.genome.CDS.1458;Product=D-3-phosphoglycerate dehydrogenase %28EC 1.1.1.95%29;locus_tag=TBepi2057.genome.CDS.1458
+TBepi2057.contig.27	feature	CDS	8682	9716	.	+	0	ID=TBepi2057.genome.CDS.1457;Product=Ketol-acid reductoisomerase %28EC 1.1.1.86%29;locus_tag=TBepi2057.genome.CDS.1457
+TBepi2057.contig.27	feature	CDS	8115	8630	.	+	0	ID=TBepi2057.genome.CDS.1456;Product=Acetolactate synthase small subunit %28EC 2.2.1.6%29;locus_tag=TBepi2057.genome.CDS.1456
+TBepi2057.contig.27	feature	CDS	6376	8115	.	+	0	ID=TBepi2057.genome.CDS.1455;Product=Acetolactate synthase large subunit %28EC 2.2.1.6%29;locus_tag=TBepi2057.genome.CDS.1455
+TBepi2057.contig.27	feature	CDS	4439	6133	.	+	0	ID=TBepi2057.genome.CDS.1454;Product=Dihydroxy-acid dehydratase %28EC 4.2.1.9%29;locus_tag=TBepi2057.genome.CDS.1454
+TBepi2057.contig.27	feature	CDS	2917	4416	.	+	0	ID=TBepi2057.genome.CDS.1453;Product=Aspartyl-tRNA%28Asn%29 amidotransferase subunit B %28EC 6.3.5.6%29 %40 Glutamyl-tRNA%28Gln%29 amidotransferase subunit B %28EC 6.3.5.7%29;locus_tag=TBepi2057.genome.CDS.1453
+TBepi2057.contig.27	feature	CDS	1410	2915	.	+	0	ID=TBepi2057.genome.CDS.1452;Product=Aspartyl-tRNA%28Asn%29 amidotransferase subunit A %28EC 6.3.5.6%29 %40 Glutamyl-tRNA%28Gln%29 amidotransferase subunit A %28EC 6.3.5.7%29;locus_tag=TBepi2057.genome.CDS.1452
+TBepi2057.contig.27	feature	CDS	1110	1406	.	+	0	ID=TBepi2057.genome.CDS.1451;Product=Aspartyl-tRNA%28Asn%29 amidotransferase subunit C %28EC 6.3.5.6%29 %40 Glutamyl-tRNA%28Gln%29 amidotransferase subunit C %28EC 6.3.5.7%29;locus_tag=TBepi2057.genome.CDS.1451
+TBepi2057.contig.27	feature	CDS	3	1091	.	+	0	ID=TBepi2057.genome.CDS.1450;Product=Glutamate 5-kinase %28EC 2.7.2.11%29 / RNA-binding C-terminal domain PUA;locus_tag=TBepi2057.genome.CDS.1450
+TBepi2057.contig.28	feature	misc_RNA	371	497	.	+	.	ID=TBepi2057.genome.repeat.44;Product=repeat region;locus_tag=TBepi2057.genome.repeat.44
+TBepi2057.contig.28	feature	misc_RNA	12141	12267	.	+	.	ID=TBepi2057.genome.repeat.45;Product=repeat region;locus_tag=TBepi2057.genome.repeat.45
+TBepi2057.contig.28	feature	CDS	11809	12267	.	-	0	ID=TBepi2057.genome.CDS.1471;Product=Phosphomannomutase %28EC 5.4.2.8%29;locus_tag=TBepi2057.genome.CDS.1471
+TBepi2057.contig.28	feature	CDS	10464	11738	.	-	0	ID=TBepi2057.genome.CDS.1470;Product=Adenosylhomocysteinase %28EC 3.3.1.1%29;locus_tag=TBepi2057.genome.CDS.1470
+TBepi2057.contig.28	feature	CDS	9784	10464	.	-	0	ID=TBepi2057.genome.CDS.1469;Product=DNA-binding response regulator mtrA;locus_tag=TBepi2057.genome.CDS.1469
+TBepi2057.contig.28	feature	CDS	8202	9656	.	-	0	ID=TBepi2057.genome.CDS.1468;Product=Sensor histidine kinase mtrB %28EC 2.7.3.-%29;locus_tag=TBepi2057.genome.CDS.1468
+TBepi2057.contig.28	feature	CDS	7444	7941	.	-	0	ID=TBepi2057.genome.CDS.1467;Product=Competence protein F homolog%2C phosphoribosyltransferase domain%3B protein YhgH required for utilization of DNA as sole source of carbon and energy;locus_tag=TBepi2057.genome.CDS.1467
+TBepi2057.contig.28	feature	CDS	4692	7385	.	-	0	ID=TBepi2057.genome.CDS.1466;Product=Protein export cytoplasm protein SecA ATPase RNA helicase %28TC 3.A.5.1.1%29;locus_tag=TBepi2057.genome.CDS.1466
+TBepi2057.contig.28	feature	CDS	4010	4687	.	+	0	ID=TBepi2057.genome.CDS.489;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.489
+TBepi2057.contig.28	feature	CDS	3421	4011	.	-	0	ID=TBepi2057.genome.CDS.1464;Product=;locus_tag=TBepi2057.genome.CDS.1464
+TBepi2057.contig.28	feature	CDS	2292	3431	.	-	0	ID=TBepi2057.genome.CDS.1463;Product=;locus_tag=TBepi2057.genome.CDS.1463
+TBepi2057.contig.28	feature	CDS	767	2272	.	-	0	ID=TBepi2057.genome.CDS.1462;Product=Signal transduction histidine kinase%2C subgroup 2;locus_tag=TBepi2057.genome.CDS.1462
+TBepi2057.contig.28	feature	CDS	412	681	.	+	0	ID=TBepi2057.genome.CDS.1461;Product=WhiB-like transcription regulator;locus_tag=TBepi2057.genome.CDS.1461
+TBepi2057.contig.29	feature	misc_RNA	3	697	.	+	.	ID=TBepi2057.genome.repeat.65;Product=repeat region;locus_tag=TBepi2057.genome.repeat.65
+TBepi2057.contig.29	feature	CDS	11552	11965	.	-	0	ID=TBepi2057.genome.CDS.1482;Product=Nucleoside diphosphate kinase %28EC 2.7.4.6%29;locus_tag=TBepi2057.genome.CDS.1482
+TBepi2057.contig.29	feature	CDS	10466	11533	.	-	0	ID=TBepi2057.genome.CDS.1481;Product=Rod shape-determining protein MreB;locus_tag=TBepi2057.genome.CDS.1481
+TBepi2057.contig.29	feature	CDS	9435	10424	.	-	0	ID=TBepi2057.genome.CDS.1480;Product=Rod shape-determining protein MreC;locus_tag=TBepi2057.genome.CDS.1480
+TBepi2057.contig.29	feature	CDS	8911	9429	.	-	0	ID=TBepi2057.genome.CDS.1479;Product=;locus_tag=TBepi2057.genome.CDS.1479
+TBepi2057.contig.29	feature	CDS	6812	8911	.	-	0	ID=TBepi2057.genome.CDS.1478;Product=Cell division protein FtsI %5BPeptidoglycan synthetase%5D %28EC 2.4.1.129%29;locus_tag=TBepi2057.genome.CDS.1478
+TBepi2057.contig.29	feature	CDS	5618	6769	.	-	0	ID=TBepi2057.genome.CDS.1477;Product=Rod shape-determining protein RodA;locus_tag=TBepi2057.genome.CDS.1477
+TBepi2057.contig.29	feature	CDS	3040	5397	.	-	0	ID=TBepi2057.genome.CDS.1476;Product=Cytoplasmic axial filament protein CafA and Ribonuclease G %28EC 3.1.4.-%29;locus_tag=TBepi2057.genome.CDS.1476
+TBepi2057.contig.29	feature	CDS	2579	2887	.	-	0	ID=TBepi2057.genome.CDS.1475;Product=LSU ribosomal protein L21p;locus_tag=TBepi2057.genome.CDS.1475
+TBepi2057.contig.29	feature	CDS	2301	2567	.	-	0	ID=TBepi2057.genome.CDS.1474;Product=LSU ribosomal protein L27p;locus_tag=TBepi2057.genome.CDS.1474
+TBepi2057.contig.29	feature	CDS	724	2193	.	-	0	ID=TBepi2057.genome.CDS.1473;Product=GTP-binding protein Obg;locus_tag=TBepi2057.genome.CDS.1473
+TBepi2057.contig.29	feature	CDS	2	724	.	-	0	ID=TBepi2057.genome.CDS.1472;Product=Glutamate 5-kinase %28EC 2.7.2.11%29 / RNA-binding C-terminal domain PUA;locus_tag=TBepi2057.genome.CDS.1472
+TBepi2057.contig.3	feature	misc_RNA	1	372	.	+	.	ID=TBepi2057.genome.repeat.58;Product=repeat region;locus_tag=TBepi2057.genome.repeat.58
+TBepi2057.contig.3	feature	misc_RNA	1783	1940	.	+	.	ID=TBepi2057.genome.repeat.59;Product=repeat region;locus_tag=TBepi2057.genome.repeat.59
+TBepi2057.contig.3	feature	CDS	24379	24615	.	+	0	ID=TBepi2057.genome.CDS.1049;Product=Phosphoribosylaminoimidazole carboxylase catalytic subunit %28EC 4.1.1.21%29;locus_tag=TBepi2057.genome.CDS.1049
+TBepi2057.contig.3	feature	CDS	23262	24386	.	+	0	ID=TBepi2057.genome.CDS.1048;Product=Phosphoribosylaminoimidazole carboxylase ATPase subunit %28EC 4.1.1.21%29;locus_tag=TBepi2057.genome.CDS.1048
+TBepi2057.contig.3	feature	CDS	22625	23239	.	+	0	ID=TBepi2057.genome.CDS.1047;Product=Biotin--protein ligase %28EC 6.3.4.9%29%28EC 6.3.4.10%29%28EC 6.3.4.11%29%28EC 6.3.4.15%29;locus_tag=TBepi2057.genome.CDS.1047
+TBepi2057.contig.3	feature	CDS	22462	22632	.	-	0	ID=TBepi2057.genome.CDS.91;Product=;locus_tag=TBepi2057.genome.CDS.91
+TBepi2057.contig.3	feature	CDS	20873	22435	.	-	0	ID=TBepi2057.genome.CDS.1046;Product=Acetyl-coenzyme A carboxyl transferase alpha chain %28EC 6.4.1.2%29 / Acetyl-coenzyme A carboxyl transferase beta chain %28EC 6.4.1.2%29%3B Propionyl-CoA carboxylase beta chain %28EC 6.4.1.3%29;locus_tag=TBepi2057.genome.CDS.1046
+TBepi2057.contig.3	feature	CDS	20659	20862	.	-	0	ID=TBepi2057.genome.CDS.1045;Product=;locus_tag=TBepi2057.genome.CDS.1045
+TBepi2057.contig.3	feature	CDS	20027	20662	.	-	0	ID=TBepi2057.genome.CDS.1044;Product=Septum formation protein Maf;locus_tag=TBepi2057.genome.CDS.1044
+TBepi2057.contig.3	feature	CDS	18291	20030	.	-	0	ID=TBepi2057.genome.CDS.1043;Product=Biotin carboxylase of acetyl-CoA carboxylase %28EC 6.3.4.14%29 / Biotin carboxyl carrier protein of acetyl-CoA carboxylase;locus_tag=TBepi2057.genome.CDS.1043
+TBepi2057.contig.3	feature	CDS	17287	18273	.	+	0	ID=TBepi2057.genome.CDS.1042;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1042
+TBepi2057.contig.3	feature	CDS	16275	17279	.	+	0	ID=TBepi2057.genome.CDS.1041;Product=Tryptophanyl-tRNA synthetase %28EC 6.1.1.2%29;locus_tag=TBepi2057.genome.CDS.1041
+TBepi2057.contig.3	feature	CDS	14897	16282	.	+	0	ID=TBepi2057.genome.CDS.1040;Product=Hemolysins and related proteins containing CBS domains;locus_tag=TBepi2057.genome.CDS.1040
+TBepi2057.contig.3	feature	CDS	13677	14759	.	-	0	ID=TBepi2057.genome.CDS.1039;Product=ABC transporter ATP-binding protein;locus_tag=TBepi2057.genome.CDS.1039
+TBepi2057.contig.3	feature	CDS	12403	13617	.	+	0	ID=TBepi2057.genome.CDS.1038;Product=Isocitrate dehydrogenase %5BNADP%5D %28EC 1.1.1.42%29;locus_tag=TBepi2057.genome.CDS.1038
+TBepi2057.contig.3	feature	CDS	11430	12386	.	+	0	ID=TBepi2057.genome.CDS.1037;Product=Malate dehydrogenase %28EC 1.1.1.37%29;locus_tag=TBepi2057.genome.CDS.1037
+TBepi2057.contig.3	feature	CDS	10273	11118	.	+	0	ID=TBepi2057.genome.CDS.1036;Product=Methylenetetrahydrofolate dehydrogenase %28NADP%2B%29 %28EC 1.5.1.5%29 / Methenyltetrahydrofolate cyclohydrolase %28EC 3.5.4.9%29;locus_tag=TBepi2057.genome.CDS.1036
+TBepi2057.contig.3	feature	CDS	8626	10173	.	+	0	ID=TBepi2057.genome.CDS.1035;Product=IMP cyclohydrolase %28EC 3.5.4.10%29 / Phosphoribosylaminoimidazolecarboxamide formyltransferase %28EC 2.1.2.3%29;locus_tag=TBepi2057.genome.CDS.1035
+TBepi2057.contig.3	feature	CDS	8066	8629	.	+	0	ID=TBepi2057.genome.CDS.1034;Product=Phosphoribosylglycinamide formyltransferase %28EC 2.1.2.2%29;locus_tag=TBepi2057.genome.CDS.1034
+TBepi2057.contig.3	feature	CDS	6943	8073	.	+	0	ID=TBepi2057.genome.CDS.1033;Product=;locus_tag=TBepi2057.genome.CDS.1033
+TBepi2057.contig.3	feature	CDS	6039	6923	.	+	0	ID=TBepi2057.genome.CDS.1032;Product=Succinyl-CoA ligase %5BADP-forming%5D alpha chain %28EC 6.2.1.5%29;locus_tag=TBepi2057.genome.CDS.1032
+TBepi2057.contig.3	feature	CDS	5439	6038	.	+	0	ID=TBepi2057.genome.CDS.1031;Product=Succinyl-CoA ligase %5BADP-forming%5D beta chain %28EC 6.2.1.5%29;locus_tag=TBepi2057.genome.CDS.1031
+TBepi2057.contig.3	feature	CDS	4880	5470	.	+	0	ID=TBepi2057.genome.CDS.1030;Product=Succinyl-CoA ligase %5BADP-forming%5D beta chain %28EC 6.2.1.5%29;locus_tag=TBepi2057.genome.CDS.1030
+TBepi2057.contig.3	feature	CDS	2546	4768	.	+	0	ID=TBepi2057.genome.CDS.1029;Product=ATP-dependent DNA helicase UvrD/PcrA;locus_tag=TBepi2057.genome.CDS.1029
+TBepi2057.contig.3	feature	CDS	1787	2512	.	-	0	ID=TBepi2057.genome.CDS.1028;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1028
+TBepi2057.contig.3	feature	CDS	408	1790	.	+	0	ID=TBepi2057.genome.CDS.1027;Product=;locus_tag=TBepi2057.genome.CDS.1027
+TBepi2057.contig.3	feature	CDS	1	372	.	+	0	ID=TBepi2057.genome.CDS.1026;Product=Peptidyl-prolyl cis-trans isomerase %28EC 5.2.1.8%29;locus_tag=TBepi2057.genome.CDS.1026
+TBepi2057.contig.30	feature	misc_RNA	11830	11956	.	+	.	ID=TBepi2057.genome.repeat.50;Product=repeat region;locus_tag=TBepi2057.genome.repeat.50
+TBepi2057.contig.30	feature	CDS	11114	11956	.	-	0	ID=TBepi2057.genome.CDS.1493;Product=5-Enolpyruvylshikimate-3-phosphate synthase %28EC 2.5.1.19%29;locus_tag=TBepi2057.genome.CDS.1493
+TBepi2057.contig.30	feature	CDS	10128	11117	.	-	0	ID=TBepi2057.genome.CDS.1492;Product=Ribosome small subunit-stimulated GTPase EngC;locus_tag=TBepi2057.genome.CDS.1492
+TBepi2057.contig.30	feature	CDS	9346	10131	.	-	0	ID=TBepi2057.genome.CDS.1491;Product=Histidinol-phosphatase %5Balternative form%5D %28EC 3.1.3.15%29;locus_tag=TBepi2057.genome.CDS.1491
+TBepi2057.contig.30	feature	CDS	8888	9349	.	-	0	ID=TBepi2057.genome.CDS.1490;Product=;locus_tag=TBepi2057.genome.CDS.1490
+TBepi2057.contig.30	feature	CDS	7502	8887	.	+	0	ID=TBepi2057.genome.CDS.1489;Product=Glucose-6-phosphate 1-dehydrogenase %28EC 1.1.1.49%29;locus_tag=TBepi2057.genome.CDS.1489
+TBepi2057.contig.30	feature	CDS	6483	7502	.	+	0	ID=TBepi2057.genome.CDS.1488;Product=6-phosphogluconate dehydrogenase%2C decarboxylating %28EC 1.1.1.44%29;locus_tag=TBepi2057.genome.CDS.1488
+TBepi2057.contig.30	feature	CDS	5727	6431	.	+	0	ID=TBepi2057.genome.CDS.1487;Product=;locus_tag=TBepi2057.genome.CDS.1487
+TBepi2057.contig.30	feature	tRNA	5651	5727	.	+	.	ID=TBepi2057.genome.rna.19;Product=tRNA-Met-CAT;locus_tag=TBepi2057.genome.rna.19
+TBepi2057.contig.30	feature	CDS	2652	5552	.	+	0	ID=TBepi2057.genome.CDS.1486;Product=INTEGRAL MEMBRANE PROTEIN %28Rhomboid family%29;locus_tag=TBepi2057.genome.CDS.1486
+TBepi2057.contig.30	feature	CDS	2363	2611	.	+	0	ID=TBepi2057.genome.CDS.1485;Product=;locus_tag=TBepi2057.genome.CDS.1485
+TBepi2057.contig.30	feature	CDS	971	2194	.	-	0	ID=TBepi2057.genome.CDS.1484;Product=;locus_tag=TBepi2057.genome.CDS.1484
+TBepi2057.contig.30	feature	CDS	57	698	.	-	0	ID=TBepi2057.genome.CDS.1483;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1483
+TBepi2057.contig.31	feature	misc_RNA	11314	11903	.	+	.	ID=TBepi2057.genome.repeat.62;Product=repeat region;locus_tag=TBepi2057.genome.repeat.62
+TBepi2057.contig.31	feature	CDS	11746	11901	.	-	0	ID=TBepi2057.genome.CDS.1505;Product=;locus_tag=TBepi2057.genome.CDS.1505
+TBepi2057.contig.31	feature	CDS	11246	11749	.	-	0	ID=TBepi2057.genome.CDS.1504;Product=Phosphopantetheine adenylyltransferase %28EC 2.7.7.3%29;locus_tag=TBepi2057.genome.CDS.1504
+TBepi2057.contig.31	feature	CDS	10714	11229	.	-	0	ID=TBepi2057.genome.CDS.1503;Product=;locus_tag=TBepi2057.genome.CDS.1503
+TBepi2057.contig.31	feature	CDS	10128	10703	.	-	0	ID=TBepi2057.genome.CDS.1502;Product=COG1399 protein%2C clustered with ribosomal protein L32p;locus_tag=TBepi2057.genome.CDS.1502
+TBepi2057.contig.31	feature	CDS	9837	10010	.	-	0	ID=TBepi2057.genome.CDS.1501;Product=LSU ribosomal protein L32p %40 LSU ribosomal protein L32p%2C zinc-dependent;locus_tag=TBepi2057.genome.CDS.1501
+TBepi2057.contig.31	feature	CDS	9131	9757	.	-	0	ID=TBepi2057.genome.CDS.1500;Product=Ribonuclease III %28EC 3.1.26.3%29;locus_tag=TBepi2057.genome.CDS.1500
+TBepi2057.contig.31	feature	CDS	5519	9055	.	-	0	ID=TBepi2057.genome.CDS.1499;Product=Chromosome partition protein smc;locus_tag=TBepi2057.genome.CDS.1499
+TBepi2057.contig.31	feature	CDS	4641	5495	.	-	0	ID=TBepi2057.genome.CDS.1498;Product=Signal recognition particle receptor protein FtsY %28%3Dalpha subunit%29 %28TC 3.A.5.1.1%29;locus_tag=TBepi2057.genome.CDS.1498
+TBepi2057.contig.31	feature	CDS	3194	4567	.	-	0	ID=TBepi2057.genome.CDS.1497;Product=Ammonium transporter;locus_tag=TBepi2057.genome.CDS.1497
+TBepi2057.contig.31	feature	CDS	2834	3172	.	-	0	ID=TBepi2057.genome.CDS.1496;Product=Nitrogen regulatory protein P-II;locus_tag=TBepi2057.genome.CDS.1496
+TBepi2057.contig.31	feature	CDS	544	2805	.	-	0	ID=TBepi2057.genome.CDS.1495;Product=%5BProtein-PII%5D uridylyltransferase %28EC 2.7.7.59%29;locus_tag=TBepi2057.genome.CDS.1495
+TBepi2057.contig.31	feature	CDS	2	478	.	-	0	ID=TBepi2057.genome.CDS.1494;Product=Signal recognition particle%2C subunit Ffh SRP54 %28TC 3.A.5.1.1%29;locus_tag=TBepi2057.genome.CDS.1494
+TBepi2057.contig.32	feature	misc_RNA	11065	11596	.	+	.	ID=TBepi2057.genome.repeat.31;Product=repeat region;locus_tag=TBepi2057.genome.repeat.31
+TBepi2057.contig.32	feature	CDS	10053	11594	.	-	0	ID=TBepi2057.genome.CDS.1516;Product=Glutamate synthase %5BNADPH%5D large chain %28EC 1.4.1.13%29;locus_tag=TBepi2057.genome.CDS.1516
+TBepi2057.contig.32	feature	CDS	8606	10060	.	-	0	ID=TBepi2057.genome.CDS.1515;Product=Glutamate synthase %5BNADPH%5D small chain %28EC 1.4.1.13%29;locus_tag=TBepi2057.genome.CDS.1515
+TBepi2057.contig.32	feature	CDS	7154	8596	.	-	0	ID=TBepi2057.genome.CDS.1514;Product=Pyruvate kinase %28EC 2.7.1.40%29;locus_tag=TBepi2057.genome.CDS.1514
+TBepi2057.contig.32	feature	tRNA	6960	7032	.	-	.	ID=TBepi2057.genome.rna.20;Product=tRNA-Leu-CAA;locus_tag=TBepi2057.genome.rna.20
+TBepi2057.contig.32	feature	CDS	6350	6958	.	-	0	ID=TBepi2057.genome.CDS.1513;Product=Response regulator NasT;locus_tag=TBepi2057.genome.CDS.1513
+TBepi2057.contig.32	feature	CDS	4962	6125	.	-	0	ID=TBepi2057.genome.CDS.1512;Product=;locus_tag=TBepi2057.genome.CDS.1512
+TBepi2057.contig.32	feature	CDS	3818	4771	.	-	0	ID=TBepi2057.genome.CDS.1511;Product=High-affinity branched-chain amino acid transport system permease protein LivH %28TC 3.A.1.4.1%29;locus_tag=TBepi2057.genome.CDS.1511
+TBepi2057.contig.32	feature	CDS	2705	3808	.	-	0	ID=TBepi2057.genome.CDS.1510;Product=Branched-chain amino acid transport system permease protein LivM %28TC 3.A.1.4.1%29;locus_tag=TBepi2057.genome.CDS.1510
+TBepi2057.contig.32	feature	CDS	1929	2708	.	-	0	ID=TBepi2057.genome.CDS.1509;Product=Branched-chain amino acid transport ATP-binding protein LivG %28TC 3.A.1.4.1%29;locus_tag=TBepi2057.genome.CDS.1509
+TBepi2057.contig.32	feature	CDS	1211	1939	.	-	0	ID=TBepi2057.genome.CDS.1508;Product=Branched-chain amino acid transport ATP-binding protein LivF %28TC 3.A.1.4.1%29;locus_tag=TBepi2057.genome.CDS.1508
+TBepi2057.contig.32	feature	CDS	781	1182	.	+	0	ID=TBepi2057.genome.CDS.1507;Product=ComA operon protein 2;locus_tag=TBepi2057.genome.CDS.1507
+TBepi2057.contig.32	feature	CDS	1	741	.	-	0	ID=TBepi2057.genome.CDS.1506;Product=DNA polymerase I %28EC 2.7.7.7%29;locus_tag=TBepi2057.genome.CDS.1506
+TBepi2057.contig.33	feature	misc_RNA	10680	11163	.	+	.	ID=TBepi2057.genome.repeat.53;Product=repeat region;locus_tag=TBepi2057.genome.repeat.53
+TBepi2057.contig.33	feature	CDS	9980	11161	.	-	0	ID=TBepi2057.genome.CDS.1528;Product=Nucleoside ABC transporter%2C permease protein 2;locus_tag=TBepi2057.genome.CDS.1528
+TBepi2057.contig.33	feature	CDS	9579	9983	.	-	0	ID=TBepi2057.genome.CDS.1527;Product=Cytidine deaminase %28EC 3.5.4.5%29;locus_tag=TBepi2057.genome.CDS.1527
+TBepi2057.contig.33	feature	CDS	8287	9582	.	-	0	ID=TBepi2057.genome.CDS.1526;Product=Thymidine phosphorylase %28EC 2.4.2.4%29;locus_tag=TBepi2057.genome.CDS.1526
+TBepi2057.contig.33	feature	CDS	7184	8278	.	-	0	ID=TBepi2057.genome.CDS.1525;Product=Adenosine deaminase %28EC 3.5.4.4%29;locus_tag=TBepi2057.genome.CDS.1525
+TBepi2057.contig.33	feature	CDS	6464	7174	.	-	0	ID=TBepi2057.genome.CDS.1524;Product=Deoxyribose-phosphate aldolase %28EC 4.1.2.4%29;locus_tag=TBepi2057.genome.CDS.1524
+TBepi2057.contig.33	feature	CDS	4040	4858	.	+	0	ID=TBepi2057.genome.CDS.1522;Product=Purine nucleoside phosphorylase %28EC 2.4.2.1%29;locus_tag=TBepi2057.genome.CDS.1522
+TBepi2057.contig.33	feature	CDS	3365	4021	.	-	0	ID=TBepi2057.genome.CDS.1521;Product=UPF0246 protein YaaA;locus_tag=TBepi2057.genome.CDS.1521
+TBepi2057.contig.33	feature	CDS	2583	3368	.	+	0	ID=TBepi2057.genome.CDS.1520;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1520
+TBepi2057.contig.33	feature	CDS	1807	2550	.	+	0	ID=TBepi2057.genome.CDS.1519;Product=short-chain dehydrogenase/reductase SDR;locus_tag=TBepi2057.genome.CDS.1519
+TBepi2057.contig.33	feature	CDS	1153	1797	.	+	0	ID=TBepi2057.genome.CDS.1518;Product=2-hydroxychromene-2-carboxylate isomerase/DsbA-like thioredoxin domain;locus_tag=TBepi2057.genome.CDS.1518
+TBepi2057.contig.33	feature	CDS	3	1121	.	+	0	ID=TBepi2057.genome.CDS.1517;Product=putative integral membrane transport protein;locus_tag=TBepi2057.genome.CDS.1517
+TBepi2057.contig.34	feature	misc_RNA	1	127	.	+	.	ID=TBepi2057.genome.repeat.23;Product=repeat region;locus_tag=TBepi2057.genome.repeat.23
+TBepi2057.contig.34	feature	CDS	10130	11056	.	+	0	ID=TBepi2057.genome.CDS.1540;Product=Cysteine synthase %28EC 2.5.1.47%29;locus_tag=TBepi2057.genome.CDS.1540
+TBepi2057.contig.34	feature	CDS	9099	10016	.	-	0	ID=TBepi2057.genome.CDS.1539;Product=Aldo-keto reductase;locus_tag=TBepi2057.genome.CDS.1539
+TBepi2057.contig.34	feature	CDS	7741	9066	.	+	0	ID=TBepi2057.genome.CDS.1538;Product=Argininosuccinate synthase %28EC 6.3.4.5%29;locus_tag=TBepi2057.genome.CDS.1538
+TBepi2057.contig.34	feature	CDS	7266	7703	.	+	0	ID=TBepi2057.genome.CDS.1537;Product=;locus_tag=TBepi2057.genome.CDS.1537
+TBepi2057.contig.34	feature	CDS	6823	7200	.	-	0	ID=TBepi2057.genome.CDS.1536;Product=;locus_tag=TBepi2057.genome.CDS.1536
+TBepi2057.contig.34	feature	CDS	2948	6703	.	-	0	ID=TBepi2057.genome.CDS.1535;Product=2-oxoglutarate dehydrogenase E1 component %28EC 1.2.4.2%29;locus_tag=TBepi2057.genome.CDS.1535
+TBepi2057.contig.34	feature	CDS	2595	2951	.	+	0	ID=TBepi2057.genome.CDS.1534;Product=;locus_tag=TBepi2057.genome.CDS.1534
+TBepi2057.contig.34	feature	CDS	2137	2526	.	-	0	ID=TBepi2057.genome.CDS.1533;Product=Nickel-dependent superoxide dismutase %28EC 1.15.1.1%29;locus_tag=TBepi2057.genome.CDS.1533
+TBepi2057.contig.34	feature	CDS	1717	2136	.	+	0	ID=TBepi2057.genome.CDS.1532;Product=;locus_tag=TBepi2057.genome.CDS.1532
+TBepi2057.contig.34	feature	CDS	1287	1664	.	+	0	ID=TBepi2057.genome.CDS.1531;Product=;locus_tag=TBepi2057.genome.CDS.1531
+TBepi2057.contig.34	feature	CDS	644	1294	.	+	0	ID=TBepi2057.genome.CDS.1530;Product=;locus_tag=TBepi2057.genome.CDS.1530
+TBepi2057.contig.34	feature	CDS	2	571	.	-	0	ID=TBepi2057.genome.CDS.1529;Product=5-Enolpyruvylshikimate-3-phosphate synthase %28EC 2.5.1.19%29;locus_tag=TBepi2057.genome.CDS.1529
+TBepi2057.contig.35	feature	misc_RNA	9253	10936	.	+	.	ID=TBepi2057.genome.repeat.14;Product=repeat region;locus_tag=TBepi2057.genome.repeat.14
+TBepi2057.contig.35	feature	CDS	9810	10934	.	+	0	ID=TBepi2057.genome.CDS.1552;Product=Cytosol aminopeptidase PepA %28EC 3.4.11.1%29;locus_tag=TBepi2057.genome.CDS.1552
+TBepi2057.contig.35	feature	CDS	8636	9754	.	-	0	ID=TBepi2057.genome.CDS.1551;Product=Aminomethyltransferase %28glycine cleavage system T protein%29 %28EC 2.1.2.10%29;locus_tag=TBepi2057.genome.CDS.1551
+TBepi2057.contig.35	feature	CDS	7848	8639	.	+	0	ID=TBepi2057.genome.CDS.1550;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1550
+TBepi2057.contig.35	feature	CDS	6823	7848	.	+	0	ID=TBepi2057.genome.CDS.1549;Product=Vitamin B12 ABC transporter%2C permease component BtuC;locus_tag=TBepi2057.genome.CDS.1549
+TBepi2057.contig.35	feature	CDS	5933	6790	.	+	0	ID=TBepi2057.genome.CDS.1548;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1548
+TBepi2057.contig.35	feature	CDS	4644	5645	.	-	0	ID=TBepi2057.genome.CDS.1547;Product=Potassium channel beta chain;locus_tag=TBepi2057.genome.CDS.1547
+TBepi2057.contig.35	feature	CDS	4050	4607	.	+	0	ID=TBepi2057.genome.CDS.1546;Product=CblZ%2C a non-orthologous displasment for Alpha-ribazole-5%27-phosphate phosphatase;locus_tag=TBepi2057.genome.CDS.1546
+TBepi2057.contig.35	feature	CDS	2948	4090	.	+	0	ID=TBepi2057.genome.CDS.1545;Product=Quinolinate synthetase %28EC 2.5.1.72%29;locus_tag=TBepi2057.genome.CDS.1545
+TBepi2057.contig.35	feature	CDS	2498	2863	.	-	0	ID=TBepi2057.genome.CDS.1544;Product=probable iron binding protein from the HesB_IscA_SufA family;locus_tag=TBepi2057.genome.CDS.1544
+TBepi2057.contig.35	feature	CDS	1472	2461	.	-	0	ID=TBepi2057.genome.CDS.1543;Product=putative Adenosine kinase %28EC 2.7.1.20%29;locus_tag=TBepi2057.genome.CDS.1543
+TBepi2057.contig.35	feature	CDS	421	1494	.	+	0	ID=TBepi2057.genome.CDS.1542;Product=Cysteine desulfurase %28EC 2.8.1.7%29;locus_tag=TBepi2057.genome.CDS.1542
+TBepi2057.contig.35	feature	CDS	3	362	.	-	0	ID=TBepi2057.genome.CDS.1541;Product=Cytochrome c oxidase polypeptide II %28EC 1.9.3.1%29;locus_tag=TBepi2057.genome.CDS.1541
+TBepi2057.contig.36	feature	misc_RNA	10592	10714	.	+	.	ID=TBepi2057.genome.repeat.37;Product=repeat region;locus_tag=TBepi2057.genome.repeat.37
+TBepi2057.contig.36	feature	CDS	10408	10713	.	-	0	ID=TBepi2057.genome.CDS.1564;Product=;locus_tag=TBepi2057.genome.CDS.1564
+TBepi2057.contig.36	feature	CDS	9136	10398	.	-	0	ID=TBepi2057.genome.CDS.1563;Product=Seryl-tRNA synthetase %28EC 6.1.1.11%29;locus_tag=TBepi2057.genome.CDS.1563
+TBepi2057.contig.36	feature	CDS	8303	8977	.	-	0	ID=TBepi2057.genome.CDS.1562;Product=;locus_tag=TBepi2057.genome.CDS.1562
+TBepi2057.contig.36	feature	tRNA	8207	8292	.	-	.	ID=TBepi2057.genome.rna.21;Product=tRNA-Ser-TGA;locus_tag=TBepi2057.genome.rna.21
+TBepi2057.contig.36	feature	CDS	7254	8087	.	-	0	ID=TBepi2057.genome.CDS.1561;Product=putative succinate dehydrogenase %5Bmembrane anchor subunit%5D %28succinic dehydrogenase%29;locus_tag=TBepi2057.genome.CDS.1561
+TBepi2057.contig.36	feature	CDS	5337	7229	.	-	0	ID=TBepi2057.genome.CDS.1560;Product=Succinate dehydrogenase flavoprotein subunit %28EC 1.3.99.1%29;locus_tag=TBepi2057.genome.CDS.1560
+TBepi2057.contig.36	feature	CDS	4693	5337	.	-	0	ID=TBepi2057.genome.CDS.1559;Product=Succinate dehydrogenase iron-sulfur protein %28EC 1.3.99.1%29;locus_tag=TBepi2057.genome.CDS.1559
+TBepi2057.contig.36	feature	CDS	4575	4733	.	-	0	ID=TBepi2057.genome.CDS.574;Product=Succinate dehydrogenase iron-sulfur protein %28EC 1.3.99.1%29;locus_tag=TBepi2057.genome.CDS.574
+TBepi2057.contig.36	feature	CDS	4219	4572	.	-	0	ID=TBepi2057.genome.CDS.1558;Product=;locus_tag=TBepi2057.genome.CDS.1558
+TBepi2057.contig.36	feature	CDS	3813	4214	.	-	0	ID=TBepi2057.genome.CDS.1557;Product=CrcB protein;locus_tag=TBepi2057.genome.CDS.1557
+TBepi2057.contig.36	feature	CDS	3475	3816	.	-	0	ID=TBepi2057.genome.CDS.1556;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1556
+TBepi2057.contig.36	feature	CDS	2011	3468	.	+	0	ID=TBepi2057.genome.CDS.1555;Product=Xaa-Pro aminopeptidase %28EC 3.4.11.9%29;locus_tag=TBepi2057.genome.CDS.1555
+TBepi2057.contig.36	feature	CDS	992	1969	.	-	0	ID=TBepi2057.genome.CDS.1554;Product=;locus_tag=TBepi2057.genome.CDS.1554
+TBepi2057.contig.36	feature	CDS	1	921	.	-	0	ID=TBepi2057.genome.CDS.1553;Product=Sucrose-6-phosphate hydrolase %28EC 3.2.1.B3%29;locus_tag=TBepi2057.genome.CDS.1553
+TBepi2057.contig.37	feature	misc_RNA	1	1403	.	+	.	ID=TBepi2057.genome.repeat.42;Product=repeat region;locus_tag=TBepi2057.genome.repeat.42
+TBepi2057.contig.37	feature	CDS	10249	10599	.	-	0	ID=TBepi2057.genome.CDS.1574;Product=Ribonucleotide reductase of class II %28coenzyme B12-dependent%29 %28EC 1.17.4.1%29;locus_tag=TBepi2057.genome.CDS.1574
+TBepi2057.contig.37	feature	CDS	8066	10096	.	-	0	ID=TBepi2057.genome.CDS.1573;Product=DinG family ATP-dependent helicase YoaA;locus_tag=TBepi2057.genome.CDS.1573
+TBepi2057.contig.37	feature	CDS	7600	8064	.	+	0	ID=TBepi2057.genome.CDS.1572;Product=Possible mutator protein MutT3 %287%2C8-dihydro-8-oxoguanine-triphosphatase%29;locus_tag=TBepi2057.genome.CDS.1572
+TBepi2057.contig.37	feature	CDS	6697	7503	.	-	0	ID=TBepi2057.genome.CDS.1571;Product=;locus_tag=TBepi2057.genome.CDS.1571
+TBepi2057.contig.37	feature	CDS	5620	6633	.	-	0	ID=TBepi2057.genome.CDS.1570;Product=;locus_tag=TBepi2057.genome.CDS.1570
+TBepi2057.contig.37	feature	CDS	4520	5599	.	-	0	ID=TBepi2057.genome.CDS.1569;Product=Alanine dehydrogenase %28EC 1.4.1.1%29;locus_tag=TBepi2057.genome.CDS.1569
+TBepi2057.contig.37	feature	CDS	3113	4426	.	-	0	ID=TBepi2057.genome.CDS.1568;Product=Glutamine synthetase type I %28EC 6.3.1.2%29;locus_tag=TBepi2057.genome.CDS.1568
+TBepi2057.contig.37	feature	CDS	1248	2972	.	-	0	ID=TBepi2057.genome.CDS.1567;Product=2-isopropylmalate synthase %28EC 2.3.3.13%29;locus_tag=TBepi2057.genome.CDS.1567
+TBepi2057.contig.37	feature	CDS	494	1228	.	-	0	ID=TBepi2057.genome.CDS.1566;Product=DNA recombination and repair protein RecO;locus_tag=TBepi2057.genome.CDS.1566
+TBepi2057.contig.37	feature	CDS	3	491	.	-	0	ID=TBepi2057.genome.CDS.1565;Product=Trans%2Cpolycis-decaprenyl diphosphate synthase %28EC 2.5.1.86%29;locus_tag=TBepi2057.genome.CDS.1565
+TBepi2057.contig.38	feature	misc_RNA	1	123	.	+	.	ID=TBepi2057.genome.repeat.8;Product=repeat region;locus_tag=TBepi2057.genome.repeat.8
+TBepi2057.contig.38	feature	misc_RNA	8914	10463	.	+	.	ID=TBepi2057.genome.repeat.9;Product=repeat region;locus_tag=TBepi2057.genome.repeat.9
+TBepi2057.contig.38	feature	CDS	9745	10461	.	+	0	ID=TBepi2057.genome.CDS.1588;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1588
+TBepi2057.contig.38	feature	CDS	9200	9748	.	+	0	ID=TBepi2057.genome.CDS.1587;Product=ATP synthase F0 sector subunit b %28EC 3.6.3.14%29;locus_tag=TBepi2057.genome.CDS.1587
+TBepi2057.contig.38	feature	CDS	8960	9166	.	+	0	ID=TBepi2057.genome.CDS.1586;Product=ATP synthase F0 sector subunit c %28EC 3.6.3.14%29;locus_tag=TBepi2057.genome.CDS.1586
+TBepi2057.contig.38	feature	CDS	8112	8876	.	+	0	ID=TBepi2057.genome.CDS.1585;Product=ATP synthase F0 sector subunit a %28EC 3.6.3.14%29;locus_tag=TBepi2057.genome.CDS.1585
+TBepi2057.contig.38	feature	CDS	7716	7943	.	+	0	ID=TBepi2057.genome.CDS.1584;Product=;locus_tag=TBepi2057.genome.CDS.1584
+TBepi2057.contig.38	feature	CDS	7265	7708	.	+	0	ID=TBepi2057.genome.CDS.1583;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1583
+TBepi2057.contig.38	feature	CDS	7065	7262	.	+	0	ID=TBepi2057.genome.CDS.1582;Product=;locus_tag=TBepi2057.genome.CDS.1582
+TBepi2057.contig.38	feature	CDS	5959	7068	.	+	0	ID=TBepi2057.genome.CDS.1581;Product=Undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase %28EC 2.7.8.-%29;locus_tag=TBepi2057.genome.CDS.1581
+TBepi2057.contig.38	feature	CDS	4668	5933	.	+	0	ID=TBepi2057.genome.CDS.1580;Product=Serine hydroxymethyltransferase %28EC 2.1.2.1%29;locus_tag=TBepi2057.genome.CDS.1580
+TBepi2057.contig.38	feature	CDS	3945	4607	.	+	0	ID=TBepi2057.genome.CDS.1579;Product=;locus_tag=TBepi2057.genome.CDS.1579
+TBepi2057.contig.38	feature	CDS	2451	3935	.	+	0	ID=TBepi2057.genome.CDS.1578;Product=GTP-binding protein HflX;locus_tag=TBepi2057.genome.CDS.1578
+TBepi2057.contig.38	feature	CDS	1669	2454	.	+	0	ID=TBepi2057.genome.CDS.1577;Product=Diaminopimelate epimerase %28EC 5.1.1.7%29;locus_tag=TBepi2057.genome.CDS.1577
+TBepi2057.contig.38	feature	CDS	742	1668	.	+	0	ID=TBepi2057.genome.CDS.1576;Product=tRNA dimethylallyltransferase %28EC 2.5.1.75%29;locus_tag=TBepi2057.genome.CDS.1576
+TBepi2057.contig.38	feature	CDS	2	745	.	+	0	ID=TBepi2057.genome.CDS.1575;Product=tRNA-i%286%29A37 methylthiotransferase;locus_tag=TBepi2057.genome.CDS.1575
+TBepi2057.contig.39	feature	CDS	9328	10413	.	+	0	ID=TBepi2057.genome.CDS.1601;Product=Carbamoyl-phosphate synthase small chain %28EC 6.3.5.5%29;locus_tag=TBepi2057.genome.CDS.1601
+TBepi2057.contig.39	feature	CDS	8034	9335	.	+	0	ID=TBepi2057.genome.CDS.1600;Product=Dihydroorotase %28EC 3.5.2.3%29;locus_tag=TBepi2057.genome.CDS.1600
+TBepi2057.contig.39	feature	CDS	7090	8031	.	+	0	ID=TBepi2057.genome.CDS.1599;Product=Aspartate carbamoyltransferase %28EC 2.1.3.2%29;locus_tag=TBepi2057.genome.CDS.1599
+TBepi2057.contig.39	feature	CDS	6566	7090	.	+	0	ID=TBepi2057.genome.CDS.1598;Product=Uracil phosphoribosyltransferase %28EC 2.4.2.9%29 / Pyrimidine operon regulatory protein PyrR;locus_tag=TBepi2057.genome.CDS.1598
+TBepi2057.contig.39	feature	CDS	6080	6490	.	+	0	ID=TBepi2057.genome.CDS.1597;Product=Transcription termination protein NusB;locus_tag=TBepi2057.genome.CDS.1597
+TBepi2057.contig.39	feature	CDS	5505	6065	.	+	0	ID=TBepi2057.genome.CDS.1596;Product=Translation elongation factor P;locus_tag=TBepi2057.genome.CDS.1596
+TBepi2057.contig.39	feature	CDS	5008	5442	.	+	0	ID=TBepi2057.genome.CDS.1595;Product=3-dehydroquinate dehydratase II %28EC 4.2.1.10%29;locus_tag=TBepi2057.genome.CDS.1595
+TBepi2057.contig.39	feature	CDS	3950	5011	.	+	0	ID=TBepi2057.genome.CDS.1594;Product=3-dehydroquinate synthase %28EC 4.2.3.4%29;locus_tag=TBepi2057.genome.CDS.1594
+TBepi2057.contig.39	feature	CDS	3432	3953	.	+	0	ID=TBepi2057.genome.CDS.1593;Product=;locus_tag=TBepi2057.genome.CDS.1593
+TBepi2057.contig.39	feature	CDS	2247	3431	.	+	0	ID=TBepi2057.genome.CDS.1592;Product=Chorismate synthase %28EC 4.2.3.5%29;locus_tag=TBepi2057.genome.CDS.1592
+TBepi2057.contig.39	feature	CDS	1811	2209	.	+	0	ID=TBepi2057.genome.CDS.1591;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1591
+TBepi2057.contig.39	feature	CDS	940	1746	.	+	0	ID=TBepi2057.genome.CDS.1590;Product=Shikimate 5-dehydrogenase I alpha %28EC 1.1.1.25%29;locus_tag=TBepi2057.genome.CDS.1590
+TBepi2057.contig.39	feature	CDS	2	943	.	+	0	ID=TBepi2057.genome.CDS.1589;Product=FIG004453: protein YceG like;locus_tag=TBepi2057.genome.CDS.1589
+TBepi2057.contig.4	feature	misc_RNA	2	1398	.	+	.	ID=TBepi2057.genome.repeat.11;Product=repeat region;locus_tag=TBepi2057.genome.repeat.11
+TBepi2057.contig.4	feature	misc_RNA	22026	23078	.	+	.	ID=TBepi2057.genome.repeat.12;Product=repeat region;locus_tag=TBepi2057.genome.repeat.12
+TBepi2057.contig.4	feature	CDS	22145	23008	.	+	0	ID=TBepi2057.genome.CDS.1072;Product=Riboflavin kinase %28EC 2.7.1.26%29 / FMN adenylyltransferase %28EC 2.7.7.2%29;locus_tag=TBepi2057.genome.CDS.1072
+TBepi2057.contig.4	feature	CDS	21265	22140	.	+	0	ID=TBepi2057.genome.CDS.1071;Product=tRNA pseudouridine synthase B %28EC 4.2.1.70%29;locus_tag=TBepi2057.genome.CDS.1071
+TBepi2057.contig.4	feature	CDS	20833	21249	.	+	0	ID=TBepi2057.genome.CDS.1070;Product=Ribosome-binding factor A;locus_tag=TBepi2057.genome.CDS.1070
+TBepi2057.contig.4	feature	CDS	18082	20832	.	+	0	ID=TBepi2057.genome.CDS.1069;Product=Translation initiation factor 2;locus_tag=TBepi2057.genome.CDS.1069
+TBepi2057.contig.4	feature	CDS	17700	17972	.	+	0	ID=TBepi2057.genome.CDS.1068;Product=;locus_tag=TBepi2057.genome.CDS.1068
+TBepi2057.contig.4	feature	CDS	16555	17688	.	+	0	ID=TBepi2057.genome.CDS.1067;Product=Transcription termination protein NusA;locus_tag=TBepi2057.genome.CDS.1067
+TBepi2057.contig.4	feature	CDS	16106	16552	.	+	0	ID=TBepi2057.genome.CDS.1066;Product=FIG000325: clustered with transcription termination protein NusA;locus_tag=TBepi2057.genome.CDS.1066
+TBepi2057.contig.4	feature	CDS	15298	16065	.	+	0	ID=TBepi2057.genome.CDS.1065;Product=;locus_tag=TBepi2057.genome.CDS.1065
+TBepi2057.contig.4	feature	CDS	13567	15294	.	+	0	ID=TBepi2057.genome.CDS.1064;Product=Prolyl-tRNA synthetase %28EC 6.1.1.15%29%2C bacterial type;locus_tag=TBepi2057.genome.CDS.1064
+TBepi2057.contig.4	feature	CDS	12387	13538	.	+	0	ID=TBepi2057.genome.CDS.1063;Product=1-hydroxy-2-methyl-2-%28E%29-butenyl 4-diphosphate synthase %28EC 1.17.7.1%29;locus_tag=TBepi2057.genome.CDS.1063
+TBepi2057.contig.4	feature	CDS	11177	12367	.	+	0	ID=TBepi2057.genome.CDS.1062;Product=Membrane-associated zinc metalloprotease;locus_tag=TBepi2057.genome.CDS.1062
+TBepi2057.contig.4	feature	CDS	9976	11157	.	+	0	ID=TBepi2057.genome.CDS.1061;Product=1-deoxy-D-xylulose 5-phosphate reductoisomerase %28EC 1.1.1.267%29;locus_tag=TBepi2057.genome.CDS.1061
+TBepi2057.contig.4	feature	CDS	8811	9962	.	+	0	ID=TBepi2057.genome.CDS.1060;Product=Ribosomal RNA large subunit methyltransferase N %28EC 2.1.1.-%29;locus_tag=TBepi2057.genome.CDS.1060
+TBepi2057.contig.4	feature	CDS	7952	8800	.	+	0	ID=TBepi2057.genome.CDS.1059;Product=Phosphatidate cytidylyltransferase %28EC 2.7.7.41%29;locus_tag=TBepi2057.genome.CDS.1059
+TBepi2057.contig.4	feature	CDS	7365	7928	.	+	0	ID=TBepi2057.genome.CDS.1058;Product=Ribosome recycling factor;locus_tag=TBepi2057.genome.CDS.1058
+TBepi2057.contig.4	feature	CDS	6571	7290	.	+	0	ID=TBepi2057.genome.CDS.1057;Product=Uridine monophosphate kinase %28EC 2.7.4.22%29;locus_tag=TBepi2057.genome.CDS.1057
+TBepi2057.contig.4	feature	CDS	5696	6526	.	+	0	ID=TBepi2057.genome.CDS.1056;Product=Translation elongation factor Ts;locus_tag=TBepi2057.genome.CDS.1056
+TBepi2057.contig.4	feature	CDS	4811	5650	.	+	0	ID=TBepi2057.genome.CDS.1055;Product=SSU ribosomal protein S2p %28SAe%29;locus_tag=TBepi2057.genome.CDS.1055
+TBepi2057.contig.4	feature	CDS	4387	4563	.	+	0	ID=TBepi2057.genome.CDS.98;Product=Site-specific tyrosine recombinase XerC;locus_tag=TBepi2057.genome.CDS.98
+TBepi2057.contig.4	feature	CDS	3663	4331	.	+	0	ID=TBepi2057.genome.CDS.1053;Product=Tyrosine recombinase XerD;locus_tag=TBepi2057.genome.CDS.1053
+TBepi2057.contig.4	feature	CDS	2055	3641	.	+	0	ID=TBepi2057.genome.CDS.1052;Product=%28R%29-citramalate synthase %28EC 2.3.1.182%29;locus_tag=TBepi2057.genome.CDS.1052
+TBepi2057.contig.4	feature	CDS	980	2065	.	+	0	ID=TBepi2057.genome.CDS.1051;Product=Branched-chain amino acid aminotransferase %28EC 2.6.1.42%29;locus_tag=TBepi2057.genome.CDS.1051
+TBepi2057.contig.4	feature	CDS	2	979	.	+	0	ID=TBepi2057.genome.CDS.1050;Product=3-isopropylmalate dehydrogenase %28EC 1.1.1.85%29;locus_tag=TBepi2057.genome.CDS.1050
+TBepi2057.contig.40	feature	misc_RNA	2	422	.	+	.	ID=TBepi2057.genome.repeat.68;Product=repeat region;locus_tag=TBepi2057.genome.repeat.68
+TBepi2057.contig.40	feature	CDS	9858	9941	.	-	0	ID=TBepi2057.genome.CDS.1612;Product=Catalase %28EC 1.11.1.6%29 / Peroxidase %28EC 1.11.1.7%29;locus_tag=TBepi2057.genome.CDS.1612
+TBepi2057.contig.40	feature	tRNA	9708	9792	.	+	.	ID=TBepi2057.genome.rna.22;Product=tRNA-Tyr-GTA;locus_tag=TBepi2057.genome.rna.22
+TBepi2057.contig.40	feature	CDS	9189	9668	.	+	0	ID=TBepi2057.genome.CDS.1611;Product=;locus_tag=TBepi2057.genome.CDS.1611
+TBepi2057.contig.40	feature	CDS	7551	9122	.	+	0	ID=TBepi2057.genome.CDS.1610;Product=;locus_tag=TBepi2057.genome.CDS.1610
+TBepi2057.contig.40	feature	CDS	6506	7558	.	+	0	ID=TBepi2057.genome.CDS.1609;Product=Putrescine transport ATP-binding protein PotA %28TC 3.A.1.11.1%29;locus_tag=TBepi2057.genome.CDS.1609
+TBepi2057.contig.40	feature	CDS	5724	6506	.	+	0	ID=TBepi2057.genome.CDS.1608;Product=;locus_tag=TBepi2057.genome.CDS.1608
+TBepi2057.contig.40	feature	CDS	4816	5727	.	+	0	ID=TBepi2057.genome.CDS.1607;Product=;locus_tag=TBepi2057.genome.CDS.1607
+TBepi2057.contig.40	feature	CDS	3557	4798	.	+	0	ID=TBepi2057.genome.CDS.1606;Product=Ferric iron ABC transporter%2C iron-binding protein;locus_tag=TBepi2057.genome.CDS.1606
+TBepi2057.contig.40	feature	CDS	2765	3445	.	+	0	ID=TBepi2057.genome.CDS.1605;Product=;locus_tag=TBepi2057.genome.CDS.1605
+TBepi2057.contig.40	feature	CDS	1632	2768	.	+	0	ID=TBepi2057.genome.CDS.1604;Product=putative secreted oxidoreductase;locus_tag=TBepi2057.genome.CDS.1604
+TBepi2057.contig.40	feature	CDS	1133	1561	.	+	0	ID=TBepi2057.genome.CDS.1603;Product=;locus_tag=TBepi2057.genome.CDS.1603
+TBepi2057.contig.40	feature	CDS	1	1056	.	-	0	ID=TBepi2057.genome.CDS.1602;Product=Cytosine/purine/uracil/thiamine/allantoin permease family protein;locus_tag=TBepi2057.genome.CDS.1602
+TBepi2057.contig.41	feature	misc_RNA	8974	9507	.	+	.	ID=TBepi2057.genome.repeat.40;Product=repeat region;locus_tag=TBepi2057.genome.repeat.40
+TBepi2057.contig.41	feature	CDS	9385	9507	.	-	0	ID=TBepi2057.genome.CDS.1622;Product=;locus_tag=TBepi2057.genome.CDS.1622
+TBepi2057.contig.41	feature	CDS	8337	9380	.	+	0	ID=TBepi2057.genome.CDS.1621;Product=Nucleoside ABC transporter%2C periplasmic nucleoside-binding protein;locus_tag=TBepi2057.genome.CDS.1621
+TBepi2057.contig.41	feature	CDS	7558	8052	.	-	0	ID=TBepi2057.genome.CDS.1620;Product=;locus_tag=TBepi2057.genome.CDS.1620
+TBepi2057.contig.41	feature	CDS	7148	7513	.	+	0	ID=TBepi2057.genome.CDS.1619;Product=;locus_tag=TBepi2057.genome.CDS.1619
+TBepi2057.contig.41	feature	CDS	6184	7068	.	-	0	ID=TBepi2057.genome.CDS.1618;Product=;locus_tag=TBepi2057.genome.CDS.1618
+TBepi2057.contig.41	feature	CDS	5006	6172	.	+	0	ID=TBepi2057.genome.CDS.1617;Product=tRNA-guanine transglycosylase %28EC 2.4.2.29%29;locus_tag=TBepi2057.genome.CDS.1617
+TBepi2057.contig.41	feature	CDS	2891	4750	.	-	0	ID=TBepi2057.genome.CDS.1616;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1616
+TBepi2057.contig.41	feature	CDS	1176	2702	.	-	0	ID=TBepi2057.genome.CDS.1615;Product=Oligopeptide transport system permease protein OppB %28TC 3.A.1.5.1%29;locus_tag=TBepi2057.genome.CDS.1615
+TBepi2057.contig.41	feature	CDS	121	1179	.	-	0	ID=TBepi2057.genome.CDS.1614;Product=Oligopeptide transport system permease protein OppC %28TC 3.A.1.5.1%29;locus_tag=TBepi2057.genome.CDS.1614
+TBepi2057.contig.42	feature	CDS	8977	9288	.	-	0	ID=TBepi2057.genome.CDS.1634;Product=Cell division protein FtsH %28EC 3.4.24.-%29;locus_tag=TBepi2057.genome.CDS.1634
+TBepi2057.contig.42	feature	CDS	8348	8974	.	-	0	ID=TBepi2057.genome.CDS.1633;Product=GTP cyclohydrolase I %28EC 3.5.4.16%29 type 1;locus_tag=TBepi2057.genome.CDS.1633
+TBepi2057.contig.42	feature	CDS	7545	8351	.	-	0	ID=TBepi2057.genome.CDS.1632;Product=Dihydropteroate synthase %28EC 2.5.1.15%29;locus_tag=TBepi2057.genome.CDS.1632
+TBepi2057.contig.42	feature	CDS	7189	7548	.	-	0	ID=TBepi2057.genome.CDS.1631;Product=Dihydroneopterin aldolase %28EC 4.1.2.25%29;locus_tag=TBepi2057.genome.CDS.1631
+TBepi2057.contig.42	feature	CDS	6743	7192	.	-	0	ID=TBepi2057.genome.CDS.1630;Product=2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase %28EC 2.7.6.3%29;locus_tag=TBepi2057.genome.CDS.1630
+TBepi2057.contig.42	feature	CDS	5928	6689	.	-	0	ID=TBepi2057.genome.CDS.1629;Product=Pantoate--beta-alanine ligase %28EC 6.3.2.1%29;locus_tag=TBepi2057.genome.CDS.1629
+TBepi2057.contig.42	feature	CDS	4318	5931	.	-	0	ID=TBepi2057.genome.CDS.1628;Product=L-aspartate oxidase %28EC 1.4.3.16%29;locus_tag=TBepi2057.genome.CDS.1628
+TBepi2057.contig.42	feature	CDS	3482	4321	.	-	0	ID=TBepi2057.genome.CDS.1627;Product=Quinolinate phosphoribosyltransferase %5Bdecarboxylating%5D %28EC 2.4.2.19%29;locus_tag=TBepi2057.genome.CDS.1627
+TBepi2057.contig.42	feature	CDS	2675	3481	.	-	0	ID=TBepi2057.genome.CDS.1626;Product=Pantothenate kinase type III%2C CoaX-like %28EC 2.7.1.33%29;locus_tag=TBepi2057.genome.CDS.1626
+TBepi2057.contig.42	feature	CDS	1161	2672	.	-	0	ID=TBepi2057.genome.CDS.1625;Product=Lysyl-tRNA synthetase %28class II%29 %28EC 6.1.1.6%29;locus_tag=TBepi2057.genome.CDS.1625
+TBepi2057.contig.42	feature	CDS	651	1151	.	-	0	ID=TBepi2057.genome.CDS.1624;Product=Acetyltransferase%2C GNAT family;locus_tag=TBepi2057.genome.CDS.1624
+TBepi2057.contig.42	feature	CDS	2	502	.	-	0	ID=TBepi2057.genome.CDS.1623;Product=ATP-dependent Clp protease%2C ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB;locus_tag=TBepi2057.genome.CDS.1623
+TBepi2057.contig.43	feature	misc_RNA	1	447	.	+	.	ID=TBepi2057.genome.repeat.29;Product=repeat region;locus_tag=TBepi2057.genome.repeat.29
+TBepi2057.contig.43	feature	misc_RNA	8552	8873	.	+	.	ID=TBepi2057.genome.repeat.30;Product=repeat region;locus_tag=TBepi2057.genome.repeat.30
+TBepi2057.contig.43	feature	CDS	7624	8877	.	+	0	ID=TBepi2057.genome.CDS.1643;Product=Serine/threonine protein kinase PrkC%2C regulator of stationary phase;locus_tag=TBepi2057.genome.CDS.1643
+TBepi2057.contig.43	feature	CDS	7087	7605	.	+	0	ID=TBepi2057.genome.CDS.1642;Product=;locus_tag=TBepi2057.genome.CDS.1642
+TBepi2057.contig.43	feature	CDS	6178	7077	.	+	0	ID=TBepi2057.genome.CDS.1641;Product=Phytoene synthase %28EC 2.5.1.32%29;locus_tag=TBepi2057.genome.CDS.1641
+TBepi2057.contig.43	feature	CDS	4685	6166	.	+	0	ID=TBepi2057.genome.CDS.1640;Product=Phytoene dehydrogenase %28EC 1.14.99.-%29;locus_tag=TBepi2057.genome.CDS.1640
+TBepi2057.contig.43	feature	CDS	3558	4688	.	+	0	ID=TBepi2057.genome.CDS.1639;Product=Geranylgeranyl diphosphate synthase %28EC 2.5.1.29%29;locus_tag=TBepi2057.genome.CDS.1639
+TBepi2057.contig.43	feature	CDS	2694	3545	.	-	0	ID=TBepi2057.genome.CDS.1638;Product=5%2C10-methylenetetrahydrofolate reductase %28EC 1.5.1.20%29;locus_tag=TBepi2057.genome.CDS.1638
+TBepi2057.contig.43	feature	CDS	589	2109	.	+	0	ID=TBepi2057.genome.CDS.1636;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1636
+TBepi2057.contig.43	feature	CDS	1	585	.	+	0	ID=TBepi2057.genome.CDS.1635;Product=;locus_tag=TBepi2057.genome.CDS.1635
+TBepi2057.contig.44	feature	CDS	8447	8809	.	+	0	ID=TBepi2057.genome.CDS.1652;Product=N-acetylglucosamine-1-phosphate uridyltransferase %28EC 2.7.7.23%29 / Glucosamine-1-phosphate N-acetyltransferase %28EC 2.3.1.157%29;locus_tag=TBepi2057.genome.CDS.1652
+TBepi2057.contig.44	feature	CDS	7145	8326	.	+	0	ID=TBepi2057.genome.CDS.1651;Product=;locus_tag=TBepi2057.genome.CDS.1651
+TBepi2057.contig.44	feature	CDS	6297	7133	.	+	0	ID=TBepi2057.genome.CDS.1650;Product=;locus_tag=TBepi2057.genome.CDS.1650
+TBepi2057.contig.44	feature	CDS	5358	6236	.	+	0	ID=TBepi2057.genome.CDS.1649;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1649
+TBepi2057.contig.44	feature	CDS	3647	5218	.	-	0	ID=TBepi2057.genome.CDS.1648;Product=RNA polymerase sigma factor RpoD;locus_tag=TBepi2057.genome.CDS.1648
+TBepi2057.contig.44	feature	CDS	2998	3333	.	-	0	ID=TBepi2057.genome.CDS.1647;Product=;locus_tag=TBepi2057.genome.CDS.1647
+TBepi2057.contig.44	feature	CDS	1740	2969	.	-	0	ID=TBepi2057.genome.CDS.1646;Product=;locus_tag=TBepi2057.genome.CDS.1646
+TBepi2057.contig.44	feature	CDS	959	1537	.	+	0	ID=TBepi2057.genome.CDS.1645;Product=;locus_tag=TBepi2057.genome.CDS.1645
+TBepi2057.contig.44	feature	CDS	273	965	.	+	0	ID=TBepi2057.genome.CDS.1644;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1644
+TBepi2057.contig.45	feature	CDS	8452	8808	.	+	0	ID=TBepi2057.genome.CDS.1665;Product=2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase %28EC 2.7.7.60%29;locus_tag=TBepi2057.genome.CDS.1665
+TBepi2057.contig.45	feature	CDS	7945	8427	.	+	0	ID=TBepi2057.genome.CDS.1664;Product=CarD-like transcriptional regulator;locus_tag=TBepi2057.genome.CDS.1664
+TBepi2057.contig.45	feature	CDS	7289	7825	.	-	0	ID=TBepi2057.genome.CDS.1663;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1663
+TBepi2057.contig.45	feature	CDS	6592	7275	.	+	0	ID=TBepi2057.genome.CDS.1662;Product=Phosphate regulon transcriptional regulatory protein PhoB %28SphR%29;locus_tag=TBepi2057.genome.CDS.1662
+TBepi2057.contig.45	feature	CDS	5467	6591	.	+	0	ID=TBepi2057.genome.CDS.1661;Product=Phosphate regulon sensor protein PhoR %28SphS%29 %28EC 2.7.13.3%29;locus_tag=TBepi2057.genome.CDS.1661
+TBepi2057.contig.45	feature	CDS	4662	5324	.	-	0	ID=TBepi2057.genome.CDS.1660;Product=Phosphate transport system regulatory protein PhoU;locus_tag=TBepi2057.genome.CDS.1660
+TBepi2057.contig.45	feature	CDS	3906	4652	.	+	0	ID=TBepi2057.genome.CDS.1659;Product=Phosphoglycerate mutase %28EC 5.4.2.11%29;locus_tag=TBepi2057.genome.CDS.1659
+TBepi2057.contig.45	feature	CDS	2641	3909	.	+	0	ID=TBepi2057.genome.CDS.1658;Product=Glycosyltransferase MshA involved in mycothiol biosynthesis %28EC 2.4.1.-%29;locus_tag=TBepi2057.genome.CDS.1658
+TBepi2057.contig.45	feature	CDS	1704	2639	.	+	0	ID=TBepi2057.genome.CDS.1657;Product=Hypothetical protein of L-Asparaginase type 2-like superfamily;locus_tag=TBepi2057.genome.CDS.1657
+TBepi2057.contig.45	feature	CDS	1190	1690	.	+	0	ID=TBepi2057.genome.CDS.1656;Product=DUF1794;locus_tag=TBepi2057.genome.CDS.1656
+TBepi2057.contig.45	feature	CDS	1032	1190	.	+	0	ID=TBepi2057.genome.CDS.1655;Product=;locus_tag=TBepi2057.genome.CDS.1655
+TBepi2057.contig.45	feature	CDS	114	1022	.	+	0	ID=TBepi2057.genome.CDS.1654;Product=Folate-dependent protein for Fe/S cluster synthesis/repair in oxidative stress;locus_tag=TBepi2057.genome.CDS.1654
+TBepi2057.contig.45	feature	CDS	3	104	.	+	0	ID=TBepi2057.genome.CDS.1653;Product=;locus_tag=TBepi2057.genome.CDS.1653
+TBepi2057.contig.46	feature	misc_RNA	1	447	.	+	.	ID=TBepi2057.genome.repeat.52;Product=repeat region;locus_tag=TBepi2057.genome.repeat.52
+TBepi2057.contig.46	feature	CDS	8196	8561	.	+	0	ID=TBepi2057.genome.CDS.1673;Product=;locus_tag=TBepi2057.genome.CDS.1673
+TBepi2057.contig.46	feature	CDS	6924	8123	.	+	0	ID=TBepi2057.genome.CDS.1672;Product=DNA polymerase IV %28EC 2.7.7.7%29;locus_tag=TBepi2057.genome.CDS.1672
+TBepi2057.contig.46	feature	CDS	3749	6931	.	+	0	ID=TBepi2057.genome.CDS.1671;Product=DNA polymerase III alpha subunit %28EC 2.7.7.7%29;locus_tag=TBepi2057.genome.CDS.1671
+TBepi2057.contig.46	feature	CDS	3360	3746	.	+	0	ID=TBepi2057.genome.CDS.674;Product=;locus_tag=TBepi2057.genome.CDS.674
+TBepi2057.contig.46	feature	CDS	2469	3284	.	-	0	ID=TBepi2057.genome.CDS.1669;Product=;locus_tag=TBepi2057.genome.CDS.1669
+TBepi2057.contig.46	feature	CDS	1771	2472	.	-	0	ID=TBepi2057.genome.CDS.1668;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1668
+TBepi2057.contig.46	feature	CDS	954	1766	.	-	0	ID=TBepi2057.genome.CDS.1667;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1667
+TBepi2057.contig.46	feature	CDS	1	951	.	-	0	ID=TBepi2057.genome.CDS.1666;Product=Glycosyl transferase%2C family 2;locus_tag=TBepi2057.genome.CDS.1666
+TBepi2057.contig.47	feature	misc_RNA	1	127	.	+	.	ID=TBepi2057.genome.repeat.38;Product=repeat region;locus_tag=TBepi2057.genome.repeat.38
+TBepi2057.contig.47	feature	misc_RNA	7107	8656	.	+	.	ID=TBepi2057.genome.repeat.39;Product=repeat region;locus_tag=TBepi2057.genome.repeat.39
+TBepi2057.contig.47	feature	CDS	8404	8610	.	-	0	ID=TBepi2057.genome.CDS.1683;Product=ATP synthase F0 sector subunit c %28EC 3.6.3.14%29;locus_tag=TBepi2057.genome.CDS.1683
+TBepi2057.contig.47	feature	CDS	7822	8370	.	-	0	ID=TBepi2057.genome.CDS.1682;Product=ATP synthase F0 sector subunit b %28EC 3.6.3.14%29;locus_tag=TBepi2057.genome.CDS.1682
+TBepi2057.contig.47	feature	CDS	6998	7825	.	-	0	ID=TBepi2057.genome.CDS.1681;Product=ATP synthase delta chain %28EC 3.6.3.14%29;locus_tag=TBepi2057.genome.CDS.1681
+TBepi2057.contig.47	feature	CDS	5375	6931	.	-	0	ID=TBepi2057.genome.CDS.1680;Product=ATP synthase alpha chain %28EC 3.6.3.14%29;locus_tag=TBepi2057.genome.CDS.1680
+TBepi2057.contig.47	feature	CDS	4471	5367	.	-	0	ID=TBepi2057.genome.CDS.1679;Product=ATP synthase gamma chain %28EC 3.6.3.14%29;locus_tag=TBepi2057.genome.CDS.1679
+TBepi2057.contig.47	feature	CDS	3044	4471	.	-	0	ID=TBepi2057.genome.CDS.1678;Product=ATP synthase beta chain %28EC 3.6.3.14%29;locus_tag=TBepi2057.genome.CDS.1678
+TBepi2057.contig.47	feature	CDS	2782	3039	.	-	0	ID=TBepi2057.genome.CDS.1677;Product=ATP synthase epsilon chain %28EC 3.6.3.14%29;locus_tag=TBepi2057.genome.CDS.1677
+TBepi2057.contig.47	feature	CDS	1467	2735	.	+	0	ID=TBepi2057.genome.CDS.1676;Product=UDP-N-acetylglucosamine 1-carboxyvinyltransferase %28EC 2.5.1.7%29;locus_tag=TBepi2057.genome.CDS.1676
+TBepi2057.contig.47	feature	CDS	810	1385	.	-	0	ID=TBepi2057.genome.CDS.1675;Product=ATP:Cob%28I%29alamin adenosyltransferase %28EC 2.5.1.17%29;locus_tag=TBepi2057.genome.CDS.1675
+TBepi2057.contig.47	feature	CDS	1	789	.	+	0	ID=TBepi2057.genome.CDS.1674;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1674
+TBepi2057.contig.48	feature	misc_RNA	8165	8291	.	+	.	ID=TBepi2057.genome.repeat.35;Product=repeat region;locus_tag=TBepi2057.genome.repeat.35
+TBepi2057.contig.48	feature	CDS	7880	8290	.	+	0	ID=TBepi2057.genome.CDS.1692;Product=FIG00031715: Predicted metal-dependent phosphoesterases %28PHP family%29;locus_tag=TBepi2057.genome.CDS.1692
+TBepi2057.contig.48	feature	CDS	6961	7875	.	+	0	ID=TBepi2057.genome.CDS.1691;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1691
+TBepi2057.contig.48	feature	CDS	5707	6657	.	+	0	ID=TBepi2057.genome.CDS.1689;Product=Manganese transport protein MntH;locus_tag=TBepi2057.genome.CDS.1689
+TBepi2057.contig.48	feature	CDS	4373	5710	.	+	0	ID=TBepi2057.genome.CDS.1688;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1688
+TBepi2057.contig.48	feature	CDS	3183	4313	.	+	0	ID=TBepi2057.genome.CDS.1687;Product=Mrp protein homolog;locus_tag=TBepi2057.genome.CDS.1687
+TBepi2057.contig.48	feature	CDS	1989	3173	.	+	0	ID=TBepi2057.genome.CDS.1686;Product=putative protease;locus_tag=TBepi2057.genome.CDS.1686
+TBepi2057.contig.48	feature	CDS	1298	1927	.	+	0	ID=TBepi2057.genome.CDS.1685;Product=FIG00945644: hypothetical protein;locus_tag=TBepi2057.genome.CDS.1685
+TBepi2057.contig.48	feature	CDS	3	1301	.	+	0	ID=TBepi2057.genome.CDS.1684;Product=Cytosol aminopeptidase PepA %28EC 3.4.11.1%29;locus_tag=TBepi2057.genome.CDS.1684
+TBepi2057.contig.49	feature	CDS	7064	8275	.	-	0	ID=TBepi2057.genome.CDS.1702;Product=Replicative DNA helicase %28DnaB%29 %28EC 3.6.4.12%29;locus_tag=TBepi2057.genome.CDS.1702
+TBepi2057.contig.49	feature	CDS	6540	7034	.	+	0	ID=TBepi2057.genome.CDS.1701;Product=Carbonic anhydrase %28EC 4.2.1.1%29;locus_tag=TBepi2057.genome.CDS.1701
+TBepi2057.contig.49	feature	CDS	5600	6547	.	+	0	ID=TBepi2057.genome.CDS.1700;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1700
+TBepi2057.contig.49	feature	CDS	4979	5557	.	-	0	ID=TBepi2057.genome.CDS.1699;Product=Deoxycytidine triphosphate deaminase %28EC 3.5.4.13%29;locus_tag=TBepi2057.genome.CDS.1699
+TBepi2057.contig.49	feature	CDS	4394	4948	.	-	0	ID=TBepi2057.genome.CDS.1698;Product=LemA protein;locus_tag=TBepi2057.genome.CDS.1698
+TBepi2057.contig.49	feature	CDS	3468	4388	.	-	0	ID=TBepi2057.genome.CDS.1697;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1697
+TBepi2057.contig.49	feature	CDS	2638	3471	.	-	0	ID=TBepi2057.genome.CDS.1696;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1696
+TBepi2057.contig.49	feature	CDS	1430	2641	.	-	0	ID=TBepi2057.genome.CDS.1695;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1695
+TBepi2057.contig.49	feature	CDS	925	1404	.	-	0	ID=TBepi2057.genome.CDS.1694;Product=;locus_tag=TBepi2057.genome.CDS.1694
+TBepi2057.contig.49	feature	CDS	2	778	.	-	0	ID=TBepi2057.genome.CDS.1693;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1693
+TBepi2057.contig.5	feature	misc_RNA	22146	22619	.	+	.	ID=TBepi2057.genome.repeat.13;Product=repeat region;locus_tag=TBepi2057.genome.repeat.13
+TBepi2057.contig.5	feature	CDS	22237	22617	.	+	0	ID=TBepi2057.genome.CDS.1095;Product=Deoxyribodipyrimidine photolyase %28EC 4.1.99.3%29;locus_tag=TBepi2057.genome.CDS.1095
+TBepi2057.contig.5	feature	CDS	21074	22189	.	+	0	ID=TBepi2057.genome.CDS.1094;Product=Citrate synthase %28si%29 %28EC 2.3.3.1%29;locus_tag=TBepi2057.genome.CDS.1094
+TBepi2057.contig.5	feature	CDS	20258	20965	.	-	0	ID=TBepi2057.genome.CDS.1093;Product=Pyridoxamine 5%27-phosphate oxidase %28EC 1.4.3.5%29;locus_tag=TBepi2057.genome.CDS.1093
+TBepi2057.contig.5	feature	CDS	19108	20247	.	-	0	ID=TBepi2057.genome.CDS.1092;Product=Phosphoserine aminotransferase %28EC 2.6.1.52%29;locus_tag=TBepi2057.genome.CDS.1092
+TBepi2057.contig.5	feature	CDS	17782	19017	.	+	0	ID=TBepi2057.genome.CDS.1091;Product=;locus_tag=TBepi2057.genome.CDS.1091
+TBepi2057.contig.5	feature	CDS	17547	17756	.	-	0	ID=TBepi2057.genome.CDS.1090;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1090
+TBepi2057.contig.5	feature	CDS	17167	17550	.	+	0	ID=TBepi2057.genome.CDS.1089;Product=Cold shock protein CspC;locus_tag=TBepi2057.genome.CDS.1089
+TBepi2057.contig.5	feature	CDS	16420	17142	.	+	0	ID=TBepi2057.genome.CDS.1088;Product=FIG01121526: hypothetical protein;locus_tag=TBepi2057.genome.CDS.1088
+TBepi2057.contig.5	feature	CDS	14720	16339	.	+	0	ID=TBepi2057.genome.CDS.1087;Product=Heat shock protein 60 family chaperone GroEL;locus_tag=TBepi2057.genome.CDS.1087
+TBepi2057.contig.5	feature	CDS	14254	14562	.	+	0	ID=TBepi2057.genome.CDS.130;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.130
+TBepi2057.contig.5	feature	CDS	12613	14148	.	+	0	ID=TBepi2057.genome.CDS.1085;Product=Putative nucleoside-diphosphate-sugar epimerase;locus_tag=TBepi2057.genome.CDS.1085
+TBepi2057.contig.5	feature	CDS	11557	12537	.	-	0	ID=TBepi2057.genome.CDS.1084;Product=NADH dehydrogenase %28EC 1.6.99.3%29;locus_tag=TBepi2057.genome.CDS.1084
+TBepi2057.contig.5	feature	CDS	11313	11513	.	-	0	ID=TBepi2057.genome.CDS.127;Product=NADH dehydrogenase %28EC 1.6.99.3%29;locus_tag=TBepi2057.genome.CDS.127
+TBepi2057.contig.5	feature	CDS	10515	11288	.	-	0	ID=TBepi2057.genome.CDS.1082;Product=;locus_tag=TBepi2057.genome.CDS.1082
+TBepi2057.contig.5	feature	CDS	8081	10546	.	+	0	ID=TBepi2057.genome.CDS.1081;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1081
+TBepi2057.contig.5	feature	tRNA	7766	7840	.	+	.	ID=TBepi2057.genome.rna.4;Product=tRNA-Thr-TGT;locus_tag=TBepi2057.genome.rna.4
+TBepi2057.contig.5	feature	CDS	6687	7631	.	-	0	ID=TBepi2057.genome.CDS.1080;Product=Exopolyphosphatase %28EC 3.6.1.11%29;locus_tag=TBepi2057.genome.CDS.1080
+TBepi2057.contig.5	feature	CDS	5771	6661	.	+	0	ID=TBepi2057.genome.CDS.1079;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1079
+TBepi2057.contig.5	feature	CDS	3693	5774	.	+	0	ID=TBepi2057.genome.CDS.1078;Product=Polyphosphate kinase %28EC 2.7.4.1%29;locus_tag=TBepi2057.genome.CDS.1078
+TBepi2057.contig.5	feature	CDS	2755	3597	.	+	0	ID=TBepi2057.genome.CDS.1077;Product=23S rRNA %28guanosine%282251%29-2%27-O%29-methyltransferase %28EC 2.1.1.185%29;locus_tag=TBepi2057.genome.CDS.1077
+TBepi2057.contig.5	feature	CDS	1367	2755	.	+	0	ID=TBepi2057.genome.CDS.1076;Product=Cysteinyl-tRNA synthetase %28EC 6.1.1.16%29;locus_tag=TBepi2057.genome.CDS.1076
+TBepi2057.contig.5	feature	CDS	746	1357	.	+	0	ID=TBepi2057.genome.CDS.119;Product=2-C-methyl-D-erythritol 2%2C4-cyclodiphosphate synthase %28EC 4.6.1.12%29;locus_tag=TBepi2057.genome.CDS.119
+TBepi2057.contig.5	feature	CDS	202	792	.	+	0	ID=TBepi2057.genome.CDS.1074;Product=2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase %28EC 2.7.7.60%29;locus_tag=TBepi2057.genome.CDS.1074
+TBepi2057.contig.5	feature	CDS	1	177	.	+	0	ID=TBepi2057.genome.CDS.1073;Product=CarD-like transcriptional regulator;locus_tag=TBepi2057.genome.CDS.1073
+TBepi2057.contig.50	feature	misc_RNA	1	277	.	+	.	ID=TBepi2057.genome.repeat.2;Product=repeat region;locus_tag=TBepi2057.genome.repeat.2
+TBepi2057.contig.50	feature	CDS	6491	8095	.	-	0	ID=TBepi2057.genome.CDS.1708;Product=Cell division protein FtsI %5BPeptidoglycan synthetase%5D %28EC 2.4.1.129%29;locus_tag=TBepi2057.genome.CDS.1708
+TBepi2057.contig.50	feature	CDS	4998	6494	.	-	0	ID=TBepi2057.genome.CDS.1707;Product=UDP-N-acetylmuramoylalanyl-D-glutamate--2%2C6-diaminopimelate ligase %28EC 6.3.2.13%29;locus_tag=TBepi2057.genome.CDS.1707
+TBepi2057.contig.50	feature	CDS	3619	5001	.	-	0	ID=TBepi2057.genome.CDS.1706;Product=UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase %28EC 6.3.2.10%29;locus_tag=TBepi2057.genome.CDS.1706
+TBepi2057.contig.50	feature	CDS	2549	3619	.	-	0	ID=TBepi2057.genome.CDS.1705;Product=Phospho-N-acetylmuramoyl-pentapeptide-transferase %28EC 2.7.8.13%29;locus_tag=TBepi2057.genome.CDS.1705
+TBepi2057.contig.50	feature	CDS	1180	2547	.	-	0	ID=TBepi2057.genome.CDS.1704;Product=UDP-N-acetylmuramoylalanine--D-glutamate ligase %28EC 6.3.2.9%29;locus_tag=TBepi2057.genome.CDS.1704
+TBepi2057.contig.50	feature	CDS	2	1183	.	-	0	ID=TBepi2057.genome.CDS.1703;Product=Cell division protein FtsW;locus_tag=TBepi2057.genome.CDS.1703
+TBepi2057.contig.51	feature	misc_RNA	5	455	.	+	.	ID=TBepi2057.genome.repeat.24;Product=repeat region;locus_tag=TBepi2057.genome.repeat.24
+TBepi2057.contig.51	feature	CDS	7694	7765	.	+	0	ID=TBepi2057.genome.CDS.1716;Product=Aspartokinase %28EC 2.7.2.4%29;locus_tag=TBepi2057.genome.CDS.1716
+TBepi2057.contig.51	feature	CDS	5492	7576	.	+	0	ID=TBepi2057.genome.CDS.716;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.716
+TBepi2057.contig.51	feature	CDS	4818	5414	.	+	0	ID=TBepi2057.genome.CDS.1714;Product=Recombination protein RecR;locus_tag=TBepi2057.genome.CDS.1714
+TBepi2057.contig.51	feature	CDS	3181	4815	.	+	0	ID=TBepi2057.genome.CDS.1713;Product=DNA polymerase III subunits gamma and tau %28EC 2.7.7.7%29;locus_tag=TBepi2057.genome.CDS.1713
+TBepi2057.contig.51	feature	tRNA	2911	2998	.	-	.	ID=TBepi2057.genome.rna.23;Product=tRNA-Ser-GGA;locus_tag=TBepi2057.genome.rna.23
+TBepi2057.contig.51	feature	tRNA	2789	2874	.	-	.	ID=TBepi2057.genome.rna.24;Product=tRNA-Ser-CGA;locus_tag=TBepi2057.genome.rna.24
+TBepi2057.contig.51	feature	CDS	2372	2695	.	-	0	ID=TBepi2057.genome.CDS.1712;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1712
+TBepi2057.contig.51	feature	CDS	1976	2299	.	-	0	ID=TBepi2057.genome.CDS.1711;Product=;locus_tag=TBepi2057.genome.CDS.1711
+TBepi2057.contig.51	feature	CDS	765	1964	.	+	0	ID=TBepi2057.genome.CDS.1710;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1710
+TBepi2057.contig.51	feature	CDS	1	696	.	-	0	ID=TBepi2057.genome.CDS.1709;Product=Amino acid permease;locus_tag=TBepi2057.genome.CDS.1709
+TBepi2057.contig.52	feature	misc_RNA	6652	7704	.	+	.	ID=TBepi2057.genome.repeat.41;Product=repeat region;locus_tag=TBepi2057.genome.repeat.41
+TBepi2057.contig.52	feature	CDS	7590	7703	.	-	0	ID=TBepi2057.genome.CDS.1727;Product=;locus_tag=TBepi2057.genome.CDS.1727
+TBepi2057.contig.52	feature	CDS	6722	7585	.	-	0	ID=TBepi2057.genome.CDS.1726;Product=Riboflavin kinase %28EC 2.7.1.26%29 / FMN adenylyltransferase %28EC 2.7.7.2%29;locus_tag=TBepi2057.genome.CDS.1726
+TBepi2057.contig.52	feature	CDS	6336	6605	.	-	0	ID=TBepi2057.genome.CDS.1725;Product=SSU ribosomal protein S15p %28S13e%29;locus_tag=TBepi2057.genome.CDS.1725
+TBepi2057.contig.52	feature	CDS	5434	6123	.	-	0	ID=TBepi2057.genome.CDS.1724;Product=Polyribonucleotide nucleotidyltransferase %28EC 2.7.7.8%29;locus_tag=TBepi2057.genome.CDS.1724
+TBepi2057.contig.52	feature	CDS	3894	5450	.	-	0	ID=TBepi2057.genome.CDS.723;Product=Polyribonucleotide nucleotidyltransferase %28EC 2.7.7.8%29;locus_tag=TBepi2057.genome.CDS.723
+TBepi2057.contig.52	feature	CDS	2615	3886	.	-	0	ID=TBepi2057.genome.CDS.1722;Product=FIG007959: peptidase%2C M16 family;locus_tag=TBepi2057.genome.CDS.1722
+TBepi2057.contig.52	feature	CDS	1869	2618	.	-	0	ID=TBepi2057.genome.CDS.1721;Product=4-hydroxy-tetrahydrodipicolinate reductase %28EC 1.17.1.8%29;locus_tag=TBepi2057.genome.CDS.1721
+TBepi2057.contig.52	feature	CDS	1574	1831	.	-	0	ID=TBepi2057.genome.CDS.1720;Product=;locus_tag=TBepi2057.genome.CDS.1720
+TBepi2057.contig.52	feature	CDS	1255	1566	.	+	0	ID=TBepi2057.genome.CDS.1719;Product=;locus_tag=TBepi2057.genome.CDS.1719
+TBepi2057.contig.52	feature	CDS	616	1254	.	+	0	ID=TBepi2057.genome.CDS.1718;Product=AzlC protein;locus_tag=TBepi2057.genome.CDS.1718
+TBepi2057.contig.52	feature	CDS	1	558	.	-	0	ID=TBepi2057.genome.CDS.1717;Product=Thymidylate synthase thyX %28EC 2.1.1.-%29;locus_tag=TBepi2057.genome.CDS.1717
+TBepi2057.contig.53	feature	CDS	7213	7506	.	-	0	ID=TBepi2057.genome.CDS.1736;Product=Dienelactone hydrolase family;locus_tag=TBepi2057.genome.CDS.1736
+TBepi2057.contig.53	feature	CDS	5291	7162	.	-	0	ID=TBepi2057.genome.CDS.1735;Product=FIG00945442: hypothetical protein;locus_tag=TBepi2057.genome.CDS.1735
+TBepi2057.contig.53	feature	CDS	4792	5307	.	-	0	ID=TBepi2057.genome.CDS.1734;Product=;locus_tag=TBepi2057.genome.CDS.1734
+TBepi2057.contig.53	feature	CDS	4132	4779	.	-	0	ID=TBepi2057.genome.CDS.1733;Product=;locus_tag=TBepi2057.genome.CDS.1733
+TBepi2057.contig.53	feature	CDS	3692	4135	.	+	0	ID=TBepi2057.genome.CDS.1732;Product=Cytosine deaminase %28EC 3.5.4.1%29;locus_tag=TBepi2057.genome.CDS.1732
+TBepi2057.contig.53	feature	CDS	2085	3512	.	-	0	ID=TBepi2057.genome.CDS.1731;Product=Cytosine/purine/uracil/thiamine/allantoin permease family protein;locus_tag=TBepi2057.genome.CDS.1731
+TBepi2057.contig.53	feature	CDS	878	2056	.	+	0	ID=TBepi2057.genome.CDS.1730;Product=Inosine-5%27-monophosphate dehydrogenase %28EC 1.1.1.205%29;locus_tag=TBepi2057.genome.CDS.1730
+TBepi2057.contig.53	feature	CDS	255	569	.	-	0	ID=TBepi2057.genome.CDS.1729;Product=;locus_tag=TBepi2057.genome.CDS.1729
+TBepi2057.contig.53	feature	CDS	1	258	.	+	0	ID=TBepi2057.genome.CDS.1728;Product=;locus_tag=TBepi2057.genome.CDS.1728
+TBepi2057.contig.54	feature	misc_RNA	6651	7416	.	+	.	ID=TBepi2057.genome.repeat.49;Product=repeat region;locus_tag=TBepi2057.genome.repeat.49
+TBepi2057.contig.54	feature	CDS	7217	7414	.	-	0	ID=TBepi2057.genome.CDS.1747;Product=Translation elongation factor LepA;locus_tag=TBepi2057.genome.CDS.1747
+TBepi2057.contig.54	feature	CDS	6072	7220	.	-	0	ID=TBepi2057.genome.CDS.1746;Product=Hypothetical radical SAM family enzyme in heat shock gene cluster%2C similarity with CPO of BS HemN-type;locus_tag=TBepi2057.genome.CDS.1746
+TBepi2057.contig.54	feature	CDS	5294	6016	.	-	0	ID=TBepi2057.genome.CDS.1745;Product=Heat-inducible transcription repressor HrcA;locus_tag=TBepi2057.genome.CDS.1745
+TBepi2057.contig.54	feature	CDS	4770	5294	.	-	0	ID=TBepi2057.genome.CDS.1744;Product=Chaperone protein DnaJ;locus_tag=TBepi2057.genome.CDS.1744
+TBepi2057.contig.54	feature	CDS	4165	4773	.	-	0	ID=TBepi2057.genome.CDS.1743;Product=Chaperone protein DnaJ;locus_tag=TBepi2057.genome.CDS.1743
+TBepi2057.contig.54	feature	CDS	3436	4152	.	-	0	ID=TBepi2057.genome.CDS.1742;Product=Ribosomal RNA small subunit methyltransferase E %28EC 2.1.1.-%29;locus_tag=TBepi2057.genome.CDS.1742
+TBepi2057.contig.54	feature	CDS	3086	3403	.	-	0	ID=TBepi2057.genome.CDS.1741;Product=;locus_tag=TBepi2057.genome.CDS.1741
+TBepi2057.contig.54	feature	CDS	2114	3067	.	-	0	ID=TBepi2057.genome.CDS.1740;Product=Phosphate starvation-inducible protein PhoH%2C predicted ATPase;locus_tag=TBepi2057.genome.CDS.1740
+TBepi2057.contig.54	feature	CDS	1671	2111	.	-	0	ID=TBepi2057.genome.CDS.1739;Product=Metal-dependent hydrolase YbeY%2C involved in rRNA and/or ribosome maturation and assembly;locus_tag=TBepi2057.genome.CDS.1739
+TBepi2057.contig.54	feature	CDS	808	1674	.	-	0	ID=TBepi2057.genome.CDS.1738;Product=Magnesium and cobalt efflux protein CorC;locus_tag=TBepi2057.genome.CDS.1738
+TBepi2057.contig.54	feature	CDS	1	774	.	-	0	ID=TBepi2057.genome.CDS.1737;Product=Fumarylacetoacetate hydrolase family protein;locus_tag=TBepi2057.genome.CDS.1737
+TBepi2057.contig.55	feature	CDS	5482	7332	.	+	0	ID=TBepi2057.genome.CDS.1755;Product=ABC transporter%2C ATP-binding/permease protein;locus_tag=TBepi2057.genome.CDS.1755
+TBepi2057.contig.55	feature	CDS	5114	5434	.	+	0	ID=TBepi2057.genome.CDS.1754;Product=PaaD-like protein %28DUF59%29 involved in Fe-S cluster assembly;locus_tag=TBepi2057.genome.CDS.1754
+TBepi2057.contig.55	feature	CDS	4668	5117	.	+	0	ID=TBepi2057.genome.CDS.1753;Product=Putative iron-sulfur cluster assembly scaffold protein for SUF system%2C SufE2;locus_tag=TBepi2057.genome.CDS.1753
+TBepi2057.contig.55	feature	CDS	3417	4667	.	+	0	ID=TBepi2057.genome.CDS.1752;Product=Cysteine desulfurase %28EC 2.8.1.7%29%2C SufS subfamily;locus_tag=TBepi2057.genome.CDS.1752
+TBepi2057.contig.55	feature	CDS	2631	3383	.	+	0	ID=TBepi2057.genome.CDS.1751;Product=Iron-sulfur cluster assembly ATPase protein SufC;locus_tag=TBepi2057.genome.CDS.1751
+TBepi2057.contig.55	feature	CDS	2317	2631	.	+	0	ID=TBepi2057.genome.CDS.1750;Product=Ferredoxin%2C 2Fe-2S;locus_tag=TBepi2057.genome.CDS.1750
+TBepi2057.contig.55	feature	CDS	1232	2317	.	+	0	ID=TBepi2057.genome.CDS.1749;Product=Iron-sulfur cluster assembly protein SufD;locus_tag=TBepi2057.genome.CDS.1749
+TBepi2057.contig.55	feature	CDS	3	1232	.	+	0	ID=TBepi2057.genome.CDS.1748;Product=Iron-sulfur cluster assembly protein SufB;locus_tag=TBepi2057.genome.CDS.1748
+TBepi2057.contig.56	feature	misc_RNA	6721	7193	.	+	.	ID=TBepi2057.genome.repeat.55;Product=repeat region;locus_tag=TBepi2057.genome.repeat.55
+TBepi2057.contig.56	feature	CDS	5719	7191	.	+	0	ID=TBepi2057.genome.CDS.1762;Product=Topoisomerase IV subunit B %28EC 5.99.1.-%29;locus_tag=TBepi2057.genome.CDS.1762
+TBepi2057.contig.56	feature	CDS	5296	5514	.	-	0	ID=TBepi2057.genome.CDS.1761;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1761
+TBepi2057.contig.56	feature	CDS	5097	5285	.	+	0	ID=TBepi2057.genome.CDS.1760;Product=;locus_tag=TBepi2057.genome.CDS.1760
+TBepi2057.contig.56	feature	CDS	3522	5072	.	+	0	ID=TBepi2057.genome.CDS.1759;Product=RNA polymerase sigma factor RpoD;locus_tag=TBepi2057.genome.CDS.1759
+TBepi2057.contig.56	feature	CDS	2373	3497	.	+	0	ID=TBepi2057.genome.CDS.1758;Product=Homoserine O-acetyltransferase %28EC 2.3.1.31%29;locus_tag=TBepi2057.genome.CDS.1758
+TBepi2057.contig.56	feature	CDS	1035	2354	.	+	0	ID=TBepi2057.genome.CDS.1757;Product=O-acetylhomoserine sulfhydrylase %28EC 2.5.1.49%29 / O-succinylhomoserine sulfhydrylase %28EC 2.5.1.48%29;locus_tag=TBepi2057.genome.CDS.1757
+TBepi2057.contig.56	feature	CDS	2	814	.	+	0	ID=TBepi2057.genome.CDS.1756;Product=NAD synthetase %28EC 6.3.1.5%29 / Glutamine amidotransferase chain of NAD synthetase;locus_tag=TBepi2057.genome.CDS.1756
+TBepi2057.contig.57	feature	misc_RNA	1	119	.	+	.	ID=TBepi2057.genome.repeat.1;Product=repeat region;locus_tag=TBepi2057.genome.repeat.1
+TBepi2057.contig.57	feature	CDS	6941	7144	.	-	0	ID=TBepi2057.genome.CDS.1771;Product=Alanine racemase %28EC 5.1.1.1%29;locus_tag=TBepi2057.genome.CDS.1771
+TBepi2057.contig.57	feature	CDS	6528	6944	.	-	0	ID=TBepi2057.genome.CDS.1770;Product=TsaE protein%2C required for threonylcarbamoyladenosine t%286%29A37 formation in tRNA;locus_tag=TBepi2057.genome.CDS.1770
+TBepi2057.contig.57	feature	CDS	5545	6531	.	-	0	ID=TBepi2057.genome.CDS.1769;Product=TsaB protein%2C required for threonylcarbamoyladenosine %28t%286%29A%29 formation in tRNA;locus_tag=TBepi2057.genome.CDS.1769
+TBepi2057.contig.57	feature	CDS	4520	5548	.	-	0	ID=TBepi2057.genome.CDS.1768;Product=Kinase-Associated Endopeptidase %28Kae1%29%2C required for threonylcarbamoyladenosine t%286%29A37 formation in tRNA;locus_tag=TBepi2057.genome.CDS.1768
+TBepi2057.contig.57	feature	CDS	3726	4523	.	+	0	ID=TBepi2057.genome.CDS.1767;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1767
+TBepi2057.contig.57	feature	CDS	3205	3501	.	-	0	ID=TBepi2057.genome.CDS.1766;Product=Heat shock protein 60 family co-chaperone GroES;locus_tag=TBepi2057.genome.CDS.1766
+TBepi2057.contig.57	feature	CDS	1556	3193	.	-	0	ID=TBepi2057.genome.CDS.1765;Product=Heat shock protein 60 family chaperone GroEL;locus_tag=TBepi2057.genome.CDS.1765
+TBepi2057.contig.57	feature	CDS	1141	1485	.	+	0	ID=TBepi2057.genome.CDS.1764;Product=Sporulation regulatory protein WhiD;locus_tag=TBepi2057.genome.CDS.1764
+TBepi2057.contig.57	feature	CDS	39	983	.	-	0	ID=TBepi2057.genome.CDS.1763;Product=;locus_tag=TBepi2057.genome.CDS.1763
+TBepi2057.contig.58	feature	misc_RNA	1	478	.	+	.	ID=TBepi2057.genome.repeat.26;Product=repeat region;locus_tag=TBepi2057.genome.repeat.26
+TBepi2057.contig.58	feature	CDS	6579	6941	.	+	0	ID=TBepi2057.genome.CDS.1778;Product=3%27-to-5%27 oligoribonuclease %28orn%29;locus_tag=TBepi2057.genome.CDS.1778
+TBepi2057.contig.58	feature	CDS	5409	6395	.	-	0	ID=TBepi2057.genome.CDS.1777;Product=Phosphate transport system permease protein PstC %28TC 3.A.1.7.1%29;locus_tag=TBepi2057.genome.CDS.1777
+TBepi2057.contig.58	feature	CDS	4339	5409	.	-	0	ID=TBepi2057.genome.CDS.1776;Product=Phosphate transport system permease protein PstA %28TC 3.A.1.7.1%29;locus_tag=TBepi2057.genome.CDS.1776
+TBepi2057.contig.58	feature	CDS	3455	4342	.	-	0	ID=TBepi2057.genome.CDS.1775;Product=Phosphate transport ATP-binding protein PstB %28TC 3.A.1.7.1%29;locus_tag=TBepi2057.genome.CDS.1775
+TBepi2057.contig.58	feature	CDS	2098	3249	.	-	0	ID=TBepi2057.genome.CDS.1774;Product=Phosphate ABC transporter%2C periplasmic phosphate-binding protein PstS %28TC 3.A.1.7.1%29;locus_tag=TBepi2057.genome.CDS.1774
+TBepi2057.contig.58	feature	tRNA	1924	1997	.	+	.	ID=TBepi2057.genome.rna.25;Product=tRNA-Arg-TCT;locus_tag=TBepi2057.genome.rna.25
+TBepi2057.contig.58	feature	CDS	207	1874	.	-	0	ID=TBepi2057.genome.CDS.1773;Product=ABC transporter ATP-binding protein;locus_tag=TBepi2057.genome.CDS.1773
+TBepi2057.contig.58	feature	CDS	3	170	.	-	0	ID=TBepi2057.genome.CDS.1772;Product=;locus_tag=TBepi2057.genome.CDS.1772
+TBepi2057.contig.59	feature	CDS	6192	6851	.	+	0	ID=TBepi2057.genome.CDS.1787;Product=predicted protein;locus_tag=TBepi2057.genome.CDS.1787
+TBepi2057.contig.59	feature	CDS	5790	6119	.	-	0	ID=TBepi2057.genome.CDS.1786;Product=;locus_tag=TBepi2057.genome.CDS.1786
+TBepi2057.contig.59	feature	CDS	5485	5793	.	-	0	ID=TBepi2057.genome.CDS.1785;Product=;locus_tag=TBepi2057.genome.CDS.1785
+TBepi2057.contig.59	feature	CDS	4545	5468	.	-	0	ID=TBepi2057.genome.CDS.1784;Product=Rhodanese domain protein UPF0176%2C Actinobacterial subgroup;locus_tag=TBepi2057.genome.CDS.1784
+TBepi2057.contig.59	feature	CDS	4081	4530	.	+	0	ID=TBepi2057.genome.CDS.776;Product=;locus_tag=TBepi2057.genome.CDS.776
+TBepi2057.contig.59	feature	CDS	3051	4028	.	-	0	ID=TBepi2057.genome.CDS.1782;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1782
+TBepi2057.contig.59	feature	CDS	2035	3054	.	+	0	ID=TBepi2057.genome.CDS.1781;Product=FIG00474716: hypothetical protein;locus_tag=TBepi2057.genome.CDS.1781
+TBepi2057.contig.59	feature	CDS	908	1981	.	+	0	ID=TBepi2057.genome.CDS.1780;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1780
+TBepi2057.contig.59	feature	CDS	3	911	.	+	0	ID=TBepi2057.genome.CDS.1779;Product=;locus_tag=TBepi2057.genome.CDS.1779
+TBepi2057.contig.6	feature	misc_RNA	22283	22595	.	+	.	ID=TBepi2057.genome.repeat.32;Product=repeat region;locus_tag=TBepi2057.genome.repeat.32
+TBepi2057.contig.6	feature	CDS	22274	22594	.	+	0	ID=TBepi2057.genome.CDS.1118;Product=DNA polymerase I %28EC 2.7.7.7%29;locus_tag=TBepi2057.genome.CDS.1118
+TBepi2057.contig.6	feature	CDS	19878	22277	.	+	0	ID=TBepi2057.genome.CDS.1117;Product=FIG005666: putative helicase;locus_tag=TBepi2057.genome.CDS.1117
+TBepi2057.contig.6	feature	CDS	19082	19846	.	+	0	ID=TBepi2057.genome.CDS.1116;Product=Twin-arginine translocation protein TatC;locus_tag=TBepi2057.genome.CDS.1116
+TBepi2057.contig.6	feature	CDS	18886	19071	.	+	0	ID=TBepi2057.genome.CDS.1115;Product=Twin-arginine translocation protein TatA;locus_tag=TBepi2057.genome.CDS.1115
+TBepi2057.contig.6	feature	CDS	17899	18873	.	+	0	ID=TBepi2057.genome.CDS.1114;Product=;locus_tag=TBepi2057.genome.CDS.1114
+TBepi2057.contig.6	feature	CDS	16967	17902	.	+	0	ID=TBepi2057.genome.CDS.1113;Product=FIG005453: Putative DeoR-family transcriptional regulator;locus_tag=TBepi2057.genome.CDS.1113
+TBepi2057.contig.6	feature	CDS	16306	16887	.	-	0	ID=TBepi2057.genome.CDS.1112;Product=FKBP-type peptidyl-prolyl cis-trans isomerase;locus_tag=TBepi2057.genome.CDS.1112
+TBepi2057.contig.6	feature	CDS	15431	16294	.	+	0	ID=TBepi2057.genome.CDS.1111;Product=tRNA %28adenine%2858%29-N%281%29%29-methyltransferase %28EC 2.1.1.220%29;locus_tag=TBepi2057.genome.CDS.1111
+TBepi2057.contig.6	feature	CDS	11893	15381	.	+	0	ID=TBepi2057.genome.CDS.1110;Product=5-methyltetrahydrofolate--homocysteine methyltransferase %28EC 2.1.1.13%29;locus_tag=TBepi2057.genome.CDS.1110
+TBepi2057.contig.6	feature	CDS	10748	11875	.	+	0	ID=TBepi2057.genome.CDS.1109;Product=L-cysteine:1D-myo-inosityl 2-amino-2-deoxy-alpha-D-glucopyranoside ligase MshC;locus_tag=TBepi2057.genome.CDS.1109
+TBepi2057.contig.6	feature	CDS	9852	10547	.	+	0	ID=TBepi2057.genome.CDS.1108;Product=FIG00820755: hypothetical protein;locus_tag=TBepi2057.genome.CDS.1108
+TBepi2057.contig.6	feature	CDS	9288	9851	.	+	0	ID=TBepi2057.genome.CDS.1107;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1107
+TBepi2057.contig.6	feature	CDS	8617	9291	.	+	0	ID=TBepi2057.genome.CDS.1106;Product=Alcohol dehydrogenase %28EC 1.1.1.1%29;locus_tag=TBepi2057.genome.CDS.1106
+TBepi2057.contig.6	feature	CDS	7599	8552	.	-	0	ID=TBepi2057.genome.CDS.1105;Product=putative oxidoreductase;locus_tag=TBepi2057.genome.CDS.1105
+TBepi2057.contig.6	feature	CDS	6245	7558	.	+	0	ID=TBepi2057.genome.CDS.1104;Product=putative peptidase;locus_tag=TBepi2057.genome.CDS.1104
+TBepi2057.contig.6	feature	tRNA	6038	6124	.	-	.	ID=TBepi2057.genome.rna.5;Product=tRNA-Leu-GAG;locus_tag=TBepi2057.genome.rna.5
+TBepi2057.contig.6	feature	CDS	5362	5997	.	-	0	ID=TBepi2057.genome.CDS.1103;Product=Thymidine kinase %28EC 2.7.1.21%29;locus_tag=TBepi2057.genome.CDS.1103
+TBepi2057.contig.6	feature	CDS	4277	5317	.	-	0	ID=TBepi2057.genome.CDS.1102;Product=Alcohol dehydrogenase %28EC 1.1.1.1%29;locus_tag=TBepi2057.genome.CDS.1102
+TBepi2057.contig.6	feature	CDS	3512	4246	.	+	0	ID=TBepi2057.genome.CDS.1101;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1101
+TBepi2057.contig.6	feature	CDS	2652	3512	.	+	0	ID=TBepi2057.genome.CDS.1100;Product=Undecaprenyl-diphosphatase %28EC 3.6.1.27%29;locus_tag=TBepi2057.genome.CDS.1100
+TBepi2057.contig.6	feature	CDS	1867	2652	.	+	0	ID=TBepi2057.genome.CDS.1099;Product=;locus_tag=TBepi2057.genome.CDS.1099
+TBepi2057.contig.6	feature	CDS	1542	1817	.	-	0	ID=TBepi2057.genome.CDS.1098;Product=;locus_tag=TBepi2057.genome.CDS.1098
+TBepi2057.contig.6	feature	CDS	887	1531	.	-	0	ID=TBepi2057.genome.CDS.1097;Product=Phosphoserine phosphatase %28EC 3.1.3.3%29;locus_tag=TBepi2057.genome.CDS.1097
+TBepi2057.contig.6	feature	CDS	24	869	.	+	0	ID=TBepi2057.genome.CDS.1096;Product=ATP phosphoribosyltransferase %28EC 2.4.2.17%29;locus_tag=TBepi2057.genome.CDS.1096
+TBepi2057.contig.60	feature	misc_RNA	6706	6832	.	+	.	ID=TBepi2057.genome.repeat.7;Product=repeat region;locus_tag=TBepi2057.genome.repeat.7
+TBepi2057.contig.60	feature	CDS	6747	6830	.	+	0	ID=TBepi2057.genome.CDS.1796;Product=WhiB-like transcription regulator;locus_tag=TBepi2057.genome.CDS.1796
+TBepi2057.contig.60	feature	tRNA	6317	6388	.	+	.	ID=TBepi2057.genome.rna.26;Product=tRNA-Arg-CCG;locus_tag=TBepi2057.genome.rna.26
+TBepi2057.contig.60	feature	CDS	5625	6239	.	-	0	ID=TBepi2057.genome.CDS.787;Product=Peptide methionine sulfoxide reductase MsrA %28EC 1.8.4.11%29;locus_tag=TBepi2057.genome.CDS.787
+TBepi2057.contig.60	feature	CDS	4997	5635	.	+	0	ID=TBepi2057.genome.CDS.1794;Product=DNA-3-methyladenine glycosylase II %28EC 3.2.2.21%29;locus_tag=TBepi2057.genome.CDS.1794
+TBepi2057.contig.60	feature	CDS	3920	4825	.	-	0	ID=TBepi2057.genome.CDS.1793;Product=Integral membrane protein TerC;locus_tag=TBepi2057.genome.CDS.1793
+TBepi2057.contig.60	feature	CDS	2620	3780	.	-	0	ID=TBepi2057.genome.CDS.1792;Product=O-acetylhomoserine sulfhydrylase %28EC 2.5.1.49%29 / O-succinylhomoserine sulfhydrylase %28EC 2.5.1.48%29;locus_tag=TBepi2057.genome.CDS.1792
+TBepi2057.contig.60	feature	CDS	2427	2579	.	-	0	ID=TBepi2057.genome.CDS.1791;Product=;locus_tag=TBepi2057.genome.CDS.1791
+TBepi2057.contig.60	feature	CDS	2040	2426	.	-	0	ID=TBepi2057.genome.CDS.1790;Product=;locus_tag=TBepi2057.genome.CDS.1790
+TBepi2057.contig.60	feature	CDS	690	2018	.	-	0	ID=TBepi2057.genome.CDS.1789;Product=;locus_tag=TBepi2057.genome.CDS.1789
+TBepi2057.contig.60	feature	CDS	3	599	.	+	0	ID=TBepi2057.genome.CDS.1788;Product=UDP-N-acetyl-D-mannosaminuronic acid dehydrogenase;locus_tag=TBepi2057.genome.CDS.1788
+TBepi2057.contig.61	feature	CDS	6251	6769	.	+	0	ID=TBepi2057.genome.CDS.1802;Product=Histidyl-tRNA synthetase %28EC 6.1.1.21%29;locus_tag=TBepi2057.genome.CDS.1802
+TBepi2057.contig.61	feature	CDS	5564	6250	.	+	0	ID=TBepi2057.genome.CDS.1801;Product=Hydroxyacylglutathione hydrolase %28EC 3.1.2.6%29;locus_tag=TBepi2057.genome.CDS.1801
+TBepi2057.contig.61	feature	CDS	5318	5533	.	+	0	ID=TBepi2057.genome.CDS.792;Product=;locus_tag=TBepi2057.genome.CDS.792
+TBepi2057.contig.61	feature	CDS	4018	5319	.	-	0	ID=TBepi2057.genome.CDS.1800;Product=ATPase involved in DNA repair;locus_tag=TBepi2057.genome.CDS.1800
+TBepi2057.contig.61	feature	CDS	1849	4014	.	+	0	ID=TBepi2057.genome.CDS.1799;Product=GTP pyrophosphokinase %28EC 2.7.6.5%29%2C %28p%29ppGpp synthetase I;locus_tag=TBepi2057.genome.CDS.1799
+TBepi2057.contig.61	feature	CDS	709	1800	.	+	0	ID=TBepi2057.genome.CDS.1798;Product=Protein-export membrane protein SecF %28TC 3.A.5.1.1%29;locus_tag=TBepi2057.genome.CDS.1798
+TBepi2057.contig.61	feature	CDS	1	708	.	+	0	ID=TBepi2057.genome.CDS.1797;Product=Protein-export membrane protein SecD %28TC 3.A.5.1.1%29;locus_tag=TBepi2057.genome.CDS.1797
+TBepi2057.contig.62	feature	CDS	5913	6761	.	-	0	ID=TBepi2057.genome.CDS.1809;Product=;locus_tag=TBepi2057.genome.CDS.1809
+TBepi2057.contig.62	feature	CDS	5338	5760	.	-	0	ID=TBepi2057.genome.CDS.1808;Product=;locus_tag=TBepi2057.genome.CDS.1808
+TBepi2057.contig.62	feature	CDS	4786	5271	.	+	0	ID=TBepi2057.genome.CDS.1807;Product=Transcriptional regulator%2C MarR family;locus_tag=TBepi2057.genome.CDS.1807
+TBepi2057.contig.62	feature	CDS	2698	4680	.	-	0	ID=TBepi2057.genome.CDS.1806;Product=Metallopeptidase;locus_tag=TBepi2057.genome.CDS.1806
+TBepi2057.contig.62	feature	CDS	1019	2665	.	+	0	ID=TBepi2057.genome.CDS.1805;Product=Dipeptide transport ATP-binding protein DppD %28TC 3.A.1.5.2%29;locus_tag=TBepi2057.genome.CDS.1805
+TBepi2057.contig.62	feature	CDS	366	899	.	-	0	ID=TBepi2057.genome.CDS.1804;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1804
+TBepi2057.contig.62	feature	CDS	1	369	.	+	0	ID=TBepi2057.genome.CDS.1803;Product=Oligopeptide transport system permease protein OppC %28TC 3.A.1.5.1%29;locus_tag=TBepi2057.genome.CDS.1803
+TBepi2057.contig.63	feature	misc_RNA	4	280	.	+	.	ID=TBepi2057.genome.repeat.54;Product=repeat region;locus_tag=TBepi2057.genome.repeat.54
+TBepi2057.contig.63	feature	CDS	6149	6670	.	+	0	ID=TBepi2057.genome.CDS.1817;Product=FIG021292: hypothetical protein;locus_tag=TBepi2057.genome.CDS.1817
+TBepi2057.contig.63	feature	CDS	5441	6139	.	+	0	ID=TBepi2057.genome.CDS.1816;Product=Hypothetical protein YggS%2C proline synthase co-transcribed bacterial homolog PROSC;locus_tag=TBepi2057.genome.CDS.1816
+TBepi2057.contig.63	feature	CDS	4836	5444	.	+	0	ID=TBepi2057.genome.CDS.1815;Product=COG1496: Uncharacterized conserved protein;locus_tag=TBepi2057.genome.CDS.1815
+TBepi2057.contig.63	feature	CDS	3670	4824	.	+	0	ID=TBepi2057.genome.CDS.1814;Product=Cell division protein FtsZ %28EC 3.4.24.-%29;locus_tag=TBepi2057.genome.CDS.1814
+TBepi2057.contig.63	feature	CDS	2803	3522	.	+	0	ID=TBepi2057.genome.CDS.1813;Product=;locus_tag=TBepi2057.genome.CDS.1813
+TBepi2057.contig.63	feature	CDS	1434	2822	.	+	0	ID=TBepi2057.genome.CDS.1812;Product=UDP-N-acetylmuramate--alanine ligase %28EC 6.3.2.8%29;locus_tag=TBepi2057.genome.CDS.1812
+TBepi2057.contig.63	feature	CDS	299	1441	.	+	0	ID=TBepi2057.genome.CDS.1811;Product=UDP-N-acetylglucosamine--N-acetylmuramyl-%28pentapeptide%29 pyrophosphoryl-undecaprenol N-acetylglucosamine transferase %28EC 2.4.1.227%29;locus_tag=TBepi2057.genome.CDS.1811
+TBepi2057.contig.63	feature	CDS	1	312	.	+	0	ID=TBepi2057.genome.CDS.1810;Product=Cell division protein FtsW;locus_tag=TBepi2057.genome.CDS.1810
+TBepi2057.contig.64	feature	CDS	4236	6695	.	+	0	ID=TBepi2057.genome.CDS.1823;Product=Alanyl-tRNA synthetase %28EC 6.1.1.7%29;locus_tag=TBepi2057.genome.CDS.1823
+TBepi2057.contig.64	feature	CDS	3941	4231	.	+	0	ID=TBepi2057.genome.CDS.1822;Product=;locus_tag=TBepi2057.genome.CDS.1822
+TBepi2057.contig.64	feature	CDS	2121	3899	.	+	0	ID=TBepi2057.genome.CDS.1821;Product=Aspartyl-tRNA synthetase %28EC 6.1.1.12%29 %40 Aspartyl-tRNA%28Asn%29 synthetase %28EC 6.1.1.23%29;locus_tag=TBepi2057.genome.CDS.1821
+TBepi2057.contig.64	feature	CDS	850	2121	.	+	0	ID=TBepi2057.genome.CDS.1820;Product=Histidyl-tRNA synthetase %28EC 6.1.1.21%29;locus_tag=TBepi2057.genome.CDS.1820
+TBepi2057.contig.64	feature	CDS	163	849	.	+	0	ID=TBepi2057.genome.CDS.1819;Product=Hydroxyacylglutathione hydrolase %28EC 3.1.2.6%29;locus_tag=TBepi2057.genome.CDS.1819
+TBepi2057.contig.64	feature	CDS	1	132	.	+	0	ID=TBepi2057.genome.CDS.1818;Product=;locus_tag=TBepi2057.genome.CDS.1818
+TBepi2057.contig.65	feature	CDS	6213	6620	.	-	0	ID=TBepi2057.genome.CDS.1830;Product=ATP-dependent Clp protease%2C ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB;locus_tag=TBepi2057.genome.CDS.1830
+TBepi2057.contig.65	feature	CDS	5380	6216	.	+	0	ID=TBepi2057.genome.CDS.1829;Product=A/G-specific adenine glycosylase %28EC 3.2.2.-%29;locus_tag=TBepi2057.genome.CDS.1829
+TBepi2057.contig.65	feature	CDS	4008	5378	.	+	0	ID=TBepi2057.genome.CDS.1828;Product=DNA repair protein RadA;locus_tag=TBepi2057.genome.CDS.1828
+TBepi2057.contig.65	feature	CDS	3176	3994	.	+	0	ID=TBepi2057.genome.CDS.1827;Product=FIG01122970: hypothetical protein;locus_tag=TBepi2057.genome.CDS.1827
+TBepi2057.contig.65	feature	CDS	2271	3101	.	-	0	ID=TBepi2057.genome.CDS.1826;Product=Pyrroline-5-carboxylate reductase %28EC 1.5.1.2%29;locus_tag=TBepi2057.genome.CDS.1826
+TBepi2057.contig.65	feature	CDS	1288	2274	.	-	0	ID=TBepi2057.genome.CDS.1825;Product=;locus_tag=TBepi2057.genome.CDS.1825
+TBepi2057.contig.65	feature	CDS	1	1284	.	+	0	ID=TBepi2057.genome.CDS.1824;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1824
+TBepi2057.contig.66	feature	misc_RNA	1	421	.	+	.	ID=TBepi2057.genome.repeat.33;Product=repeat region;locus_tag=TBepi2057.genome.repeat.33
+TBepi2057.contig.66	feature	CDS	5703	6329	.	-	0	ID=TBepi2057.genome.CDS.1838;Product=2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase %28EC 2.2.1.9%29;locus_tag=TBepi2057.genome.CDS.1838
+TBepi2057.contig.66	feature	CDS	4528	5748	.	+	0	ID=TBepi2057.genome.CDS.1837;Product=Isochorismate synthase %28EC 5.4.4.2%29 %40 Menaquinone-specific isochorismate synthase %28EC 5.4.4.2%29;locus_tag=TBepi2057.genome.CDS.1837
+TBepi2057.contig.66	feature	CDS	3910	4503	.	+	0	ID=TBepi2057.genome.CDS.1836;Product=Substrate-specific component BioY of biotin ECF transporter;locus_tag=TBepi2057.genome.CDS.1836
+TBepi2057.contig.66	feature	CDS	3148	3849	.	-	0	ID=TBepi2057.genome.CDS.824;Product=Demethylmenaquinone methyltransferase %28EC 2.1.1.163%29;locus_tag=TBepi2057.genome.CDS.824
+TBepi2057.contig.66	feature	CDS	2159	3145	.	-	0	ID=TBepi2057.genome.CDS.1834;Product=Solanesyl diphosphate synthase %28EC 2.5.1.11%29;locus_tag=TBepi2057.genome.CDS.1834
+TBepi2057.contig.66	feature	CDS	1301	2200	.	+	0	ID=TBepi2057.genome.CDS.1833;Product=Protein rarD;locus_tag=TBepi2057.genome.CDS.1833
+TBepi2057.contig.66	feature	CDS	808	1296	.	+	0	ID=TBepi2057.genome.CDS.1832;Product=FIG001943: hypothetical protein YajQ;locus_tag=TBepi2057.genome.CDS.1832
+TBepi2057.contig.66	feature	CDS	3	815	.	+	0	ID=TBepi2057.genome.CDS.1831;Product=Cytosine/purine/uracil/thiamine/allantoin permease family protein;locus_tag=TBepi2057.genome.CDS.1831
+TBepi2057.contig.67	feature	misc_RNA	5760	6237	.	+	.	ID=TBepi2057.genome.repeat.4;Product=repeat region;locus_tag=TBepi2057.genome.repeat.4
+TBepi2057.contig.67	feature	CDS	5966	6238	.	-	0	ID=TBepi2057.genome.CDS.1846;Product=ABC transporter ATP-binding protein;locus_tag=TBepi2057.genome.CDS.1846
+TBepi2057.contig.67	feature	CDS	5534	5929	.	-	0	ID=TBepi2057.genome.CDS.1845;Product=Hemoglobin-like protein HbO;locus_tag=TBepi2057.genome.CDS.1845
+TBepi2057.contig.67	feature	CDS	4348	5541	.	-	0	ID=TBepi2057.genome.CDS.1844;Product=Benzoate transport protein;locus_tag=TBepi2057.genome.CDS.1844
+TBepi2057.contig.67	feature	CDS	3736	4341	.	+	0	ID=TBepi2057.genome.CDS.1843;Product=Potassium efflux system KefA protein / Small-conductance mechanosensitive channel;locus_tag=TBepi2057.genome.CDS.1843
+TBepi2057.contig.67	feature	CDS	3098	3622	.	-	0	ID=TBepi2057.genome.CDS.1842;Product=HNH endonuclease family protein;locus_tag=TBepi2057.genome.CDS.1842
+TBepi2057.contig.67	feature	CDS	2884	3060	.	-	0	ID=TBepi2057.genome.CDS.1841;Product=;locus_tag=TBepi2057.genome.CDS.1841
+TBepi2057.contig.67	feature	CDS	324	2870	.	+	0	ID=TBepi2057.genome.CDS.1840;Product=Membrane alanine aminopeptidase N %28EC 3.4.11.2%29;locus_tag=TBepi2057.genome.CDS.1840
+TBepi2057.contig.67	feature	CDS	2	244	.	-	0	ID=TBepi2057.genome.CDS.1839;Product=;locus_tag=TBepi2057.genome.CDS.1839
+TBepi2057.contig.68	feature	CDS	5866	6126	.	+	0	ID=TBepi2057.genome.CDS.1852;Product=;locus_tag=TBepi2057.genome.CDS.1852
+TBepi2057.contig.68	feature	CDS	4097	5869	.	+	0	ID=TBepi2057.genome.CDS.1851;Product=Ferric iron ABC transporter%2C permease protein;locus_tag=TBepi2057.genome.CDS.1851
+TBepi2057.contig.68	feature	CDS	3005	4063	.	+	0	ID=TBepi2057.genome.CDS.1850;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1850
+TBepi2057.contig.68	feature	CDS	1660	2874	.	+	0	ID=TBepi2057.genome.CDS.1849;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1849
+TBepi2057.contig.68	feature	CDS	1116	1610	.	+	0	ID=TBepi2057.genome.CDS.1848;Product=Serine acetyltransferase %28EC 2.3.1.30%29;locus_tag=TBepi2057.genome.CDS.1848
+TBepi2057.contig.68	feature	CDS	65	1099	.	+	0	ID=TBepi2057.genome.CDS.1847;Product=Cysteine synthase %28EC 2.5.1.47%29;locus_tag=TBepi2057.genome.CDS.1847
+TBepi2057.contig.69	feature	CDS	5367	5789	.	+	0	ID=TBepi2057.genome.CDS.1859;Product=D-alanine--D-alanine ligase %28EC 6.3.2.4%29;locus_tag=TBepi2057.genome.CDS.1859
+TBepi2057.contig.69	feature	CDS	4369	5367	.	+	0	ID=TBepi2057.genome.CDS.1858;Product=Glycerol-3-phosphate dehydrogenase %5BNAD%28P%29%2B%5D %28EC 1.1.1.94%29;locus_tag=TBepi2057.genome.CDS.1858
+TBepi2057.contig.69	feature	CDS	3748	4245	.	+	0	ID=TBepi2057.genome.CDS.1857;Product=;locus_tag=TBepi2057.genome.CDS.1857
+TBepi2057.contig.69	feature	CDS	2912	3511	.	+	0	ID=TBepi2057.genome.CDS.1856;Product=3-isopropylmalate dehydratase small subunit %28EC 4.2.1.33%29;locus_tag=TBepi2057.genome.CDS.1856
+TBepi2057.contig.69	feature	CDS	1500	2897	.	+	0	ID=TBepi2057.genome.CDS.1855;Product=3-isopropylmalate dehydratase large subunit %28EC 4.2.1.33%29;locus_tag=TBepi2057.genome.CDS.1855
+TBepi2057.contig.69	feature	CDS	727	1446	.	-	0	ID=TBepi2057.genome.CDS.1854;Product=Transcriptional regulator%2C IclR family;locus_tag=TBepi2057.genome.CDS.1854
+TBepi2057.contig.69	feature	CDS	183	713	.	+	0	ID=TBepi2057.genome.CDS.1853;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1853
+TBepi2057.contig.7	feature	CDS	21797	22276	.	-	0	ID=TBepi2057.genome.CDS.1141;Product=;locus_tag=TBepi2057.genome.CDS.1141
+TBepi2057.contig.7	feature	CDS	20883	21782	.	+	0	ID=TBepi2057.genome.CDS.1140;Product=D-3-phosphoglycerate dehydrogenase %28EC 1.1.1.95%29;locus_tag=TBepi2057.genome.CDS.1140
+TBepi2057.contig.7	feature	CDS	19873	20886	.	+	0	ID=TBepi2057.genome.CDS.1139;Product=L-idonate 5-dehydrogenase %28EC 1.1.1.264%29;locus_tag=TBepi2057.genome.CDS.1139
+TBepi2057.contig.7	feature	CDS	18978	19856	.	+	0	ID=TBepi2057.genome.CDS.1138;Product=2-hydroxy-3-oxopropionate reductase %28EC 1.1.1.60%29;locus_tag=TBepi2057.genome.CDS.1138
+TBepi2057.contig.7	feature	CDS	17956	18981	.	+	0	ID=TBepi2057.genome.CDS.1137;Product=D-3-phosphoglycerate dehydrogenase %28EC 1.1.1.95%29;locus_tag=TBepi2057.genome.CDS.1137
+TBepi2057.contig.7	feature	CDS	16994	17956	.	+	0	ID=TBepi2057.genome.CDS.1136;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1136
+TBepi2057.contig.7	feature	CDS	16114	16917	.	-	0	ID=TBepi2057.genome.CDS.1135;Product=Transcriptional regulator%2C IclR family;locus_tag=TBepi2057.genome.CDS.1135
+TBepi2057.contig.7	feature	CDS	14448	15932	.	-	0	ID=TBepi2057.genome.CDS.1134;Product=Ribose ABC transport system%2C ATP-binding protein RbsA %28TC 3.A.1.2.1%29;locus_tag=TBepi2057.genome.CDS.1134
+TBepi2057.contig.7	feature	CDS	13809	14444	.	-	0	ID=TBepi2057.genome.CDS.1133;Product=Ribose ABC transport system%2C permease protein RbsC %28TC 3.A.1.2.1%29;locus_tag=TBepi2057.genome.CDS.1133
+TBepi2057.contig.7	feature	CDS	13390	13806	.	-	0	ID=TBepi2057.genome.CDS.1132;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1132
+TBepi2057.contig.7	feature	CDS	12267	13403	.	-	0	ID=TBepi2057.genome.CDS.1131;Product=Ribose ABC transporter%2C periplasmic ribose-binding protein;locus_tag=TBepi2057.genome.CDS.1131
+TBepi2057.contig.7	feature	CDS	11092	12135	.	-	0	ID=TBepi2057.genome.CDS.1130;Product=;locus_tag=TBepi2057.genome.CDS.1130
+TBepi2057.contig.7	feature	CDS	10574	11095	.	-	0	ID=TBepi2057.genome.CDS.1129;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1129
+TBepi2057.contig.7	feature	CDS	10061	10594	.	+	0	ID=TBepi2057.genome.CDS.1128;Product=Orotate phosphoribosyltransferase %28EC 2.4.2.10%29;locus_tag=TBepi2057.genome.CDS.1128
+TBepi2057.contig.7	feature	CDS	9661	10047	.	+	0	ID=TBepi2057.genome.CDS.1127;Product=HspR%2C transcriptional repressor of DnaK operon;locus_tag=TBepi2057.genome.CDS.1127
+TBepi2057.contig.7	feature	CDS	8741	9664	.	+	0	ID=TBepi2057.genome.CDS.1126;Product=Chaperone protein DnaJ;locus_tag=TBepi2057.genome.CDS.1126
+TBepi2057.contig.7	feature	CDS	8222	8740	.	+	0	ID=TBepi2057.genome.CDS.1125;Product=Heat shock protein GrpE;locus_tag=TBepi2057.genome.CDS.1125
+TBepi2057.contig.7	feature	CDS	6369	8213	.	+	0	ID=TBepi2057.genome.CDS.1124;Product=Chaperone protein DnaK;locus_tag=TBepi2057.genome.CDS.1124
+TBepi2057.contig.7	feature	CDS	5396	5983	.	+	0	ID=TBepi2057.genome.CDS.1122;Product=FIG056164: rhomboid family serine protease;locus_tag=TBepi2057.genome.CDS.1122
+TBepi2057.contig.7	feature	CDS	4906	5373	.	+	0	ID=TBepi2057.genome.CDS.1121;Product=Peptidyl-prolyl cis-trans isomerase %28EC 5.2.1.8%29;locus_tag=TBepi2057.genome.CDS.1121
+TBepi2057.contig.7	feature	tRNA	4759	4834	.	+	.	ID=TBepi2057.genome.rna.7;Product=tRNA-Ala-TGC;locus_tag=TBepi2057.genome.rna.7
+TBepi2057.contig.7	feature	tRNA	4598	4672	.	+	.	ID=TBepi2057.genome.rna.6;Product=tRNA-Ile-GAT;locus_tag=TBepi2057.genome.rna.6
+TBepi2057.contig.7	feature	CDS	1974	4517	.	+	0	ID=TBepi2057.genome.CDS.1120;Product=DNA gyrase subunit A %28EC 5.99.1.3%29;locus_tag=TBepi2057.genome.CDS.1120
+TBepi2057.contig.7	feature	CDS	19	1974	.	+	0	ID=TBepi2057.genome.CDS.1119;Product=DNA gyrase subunit B %28EC 5.99.1.3%29;locus_tag=TBepi2057.genome.CDS.1119
+TBepi2057.contig.70	feature	CDS	4997	5662	.	+	0	ID=TBepi2057.genome.CDS.1866;Product=Ubiquinol--cytochrome c reductase%2C cytochrome B subunit %28EC 1.10.2.2%29;locus_tag=TBepi2057.genome.CDS.1866
+TBepi2057.contig.70	feature	CDS	4003	5004	.	+	0	ID=TBepi2057.genome.CDS.1865;Product=Ubiquinol-cytochrome C reductase iron-sulfur subunit %28EC 1.10.2.2%29;locus_tag=TBepi2057.genome.CDS.1865
+TBepi2057.contig.70	feature	CDS	3189	4001	.	+	0	ID=TBepi2057.genome.CDS.1864;Product=ubiquinol cytochrome C oxidoreductase%2C cytochrome C1 subunit;locus_tag=TBepi2057.genome.CDS.1864
+TBepi2057.contig.70	feature	CDS	2546	3169	.	+	0	ID=TBepi2057.genome.CDS.1863;Product=Cytochrome c oxidase polypeptide III %28EC 1.9.3.1%29;locus_tag=TBepi2057.genome.CDS.1863
+TBepi2057.contig.70	feature	CDS	1395	2444	.	-	0	ID=TBepi2057.genome.CDS.1862;Product=Anthranilate phosphoribosyltransferase %28EC 2.4.2.18%29;locus_tag=TBepi2057.genome.CDS.1862
+TBepi2057.contig.70	feature	CDS	755	1369	.	+	0	ID=TBepi2057.genome.CDS.1861;Product=DNA polymerase III epsilon subunit %28EC 2.7.7.7%29;locus_tag=TBepi2057.genome.CDS.1861
+TBepi2057.contig.70	feature	CDS	3	686	.	-	0	ID=TBepi2057.genome.CDS.1860;Product=;locus_tag=TBepi2057.genome.CDS.1860
+TBepi2057.contig.71	feature	CDS	5172	5615	.	+	0	ID=TBepi2057.genome.CDS.1871;Product=Dihydrofolate synthase %28EC 6.3.2.12%29 %40 Folylpolyglutamate synthase %28EC 6.3.2.17%29;locus_tag=TBepi2057.genome.CDS.1871
+TBepi2057.contig.71	feature	CDS	2571	5153	.	+	0	ID=TBepi2057.genome.CDS.1870;Product=Valyl-tRNA synthetase %28EC 6.1.1.9%29;locus_tag=TBepi2057.genome.CDS.1870
+TBepi2057.contig.71	feature	CDS	1232	2527	.	+	0	ID=TBepi2057.genome.CDS.1869;Product=ATP-dependent Clp protease ATP-binding subunit ClpX;locus_tag=TBepi2057.genome.CDS.1869
+TBepi2057.contig.71	feature	CDS	519	1151	.	+	0	ID=TBepi2057.genome.CDS.1868;Product=ATP-dependent Clp protease proteolytic subunit %28EC 3.4.21.92%29;locus_tag=TBepi2057.genome.CDS.1868
+TBepi2057.contig.71	feature	CDS	1	522	.	+	0	ID=TBepi2057.genome.CDS.1867;Product=ATP-dependent Clp protease proteolytic subunit %28EC 3.4.21.92%29;locus_tag=TBepi2057.genome.CDS.1867
+TBepi2057.contig.72	feature	CDS	4885	5316	.	-	0	ID=TBepi2057.genome.CDS.1879;Product=Thiamin ABC transporter%2C substrate-binding component;locus_tag=TBepi2057.genome.CDS.1879
+TBepi2057.contig.72	feature	CDS	4322	4744	.	-	0	ID=TBepi2057.genome.CDS.1878;Product=Thiamin ABC transporter%2C substrate-binding component;locus_tag=TBepi2057.genome.CDS.1878
+TBepi2057.contig.72	feature	CDS	2785	4329	.	-	0	ID=TBepi2057.genome.CDS.859;Product=Thiamin ABC transporter%2C transmembrane component;locus_tag=TBepi2057.genome.CDS.859
+TBepi2057.contig.72	feature	CDS	2343	2783	.	+	0	ID=TBepi2057.genome.CDS.1876;Product=3-demethylubiquinone-9 3-methyltransferase;locus_tag=TBepi2057.genome.CDS.1876
+TBepi2057.contig.72	feature	CDS	2060	2350	.	+	0	ID=TBepi2057.genome.CDS.1875;Product=;locus_tag=TBepi2057.genome.CDS.1875
+TBepi2057.contig.72	feature	CDS	1017	1916	.	+	0	ID=TBepi2057.genome.CDS.1874;Product=Permease of the drug/metabolite transporter %28DMT%29 superfamily;locus_tag=TBepi2057.genome.CDS.1874
+TBepi2057.contig.72	feature	CDS	193	963	.	+	0	ID=TBepi2057.genome.CDS.1873;Product=Putative cytoplasmic protein;locus_tag=TBepi2057.genome.CDS.1873
+TBepi2057.contig.72	feature	CDS	1	147	.	+	0	ID=TBepi2057.genome.CDS.1872;Product=;locus_tag=TBepi2057.genome.CDS.1872
+TBepi2057.contig.73	feature	misc_RNA	5	536	.	+	.	ID=TBepi2057.genome.repeat.46;Product=repeat region;locus_tag=TBepi2057.genome.repeat.46
+TBepi2057.contig.73	feature	misc_RNA	5268	5394	.	+	.	ID=TBepi2057.genome.repeat.47;Product=repeat region;locus_tag=TBepi2057.genome.repeat.47
+TBepi2057.contig.73	feature	CDS	5168	5392	.	-	0	ID=TBepi2057.genome.CDS.1883;Product=;locus_tag=TBepi2057.genome.CDS.1883
+TBepi2057.contig.73	feature	CDS	4323	5120	.	-	0	ID=TBepi2057.genome.CDS.1882;Product=Prolipoprotein diacylglyceryl transferase %28EC 2.4.99.-%29;locus_tag=TBepi2057.genome.CDS.1882
+TBepi2057.contig.73	feature	CDS	3601	4299	.	-	0	ID=TBepi2057.genome.CDS.1881;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1881
+TBepi2057.contig.73	feature	CDS	1	3507	.	-	0	ID=TBepi2057.genome.CDS.1880;Product=Glutamate synthase %5BNADPH%5D large chain %28EC 1.4.1.13%29;locus_tag=TBepi2057.genome.CDS.1880
+TBepi2057.contig.74	feature	misc_RNA	4904	5261	.	+	.	ID=TBepi2057.genome.repeat.28;Product=repeat region;locus_tag=TBepi2057.genome.repeat.28
+TBepi2057.contig.74	feature	CDS	4405	5259	.	-	0	ID=TBepi2057.genome.CDS.1890;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1890
+TBepi2057.contig.74	feature	CDS	3795	4355	.	-	0	ID=TBepi2057.genome.CDS.1889;Product=Peptide deformylase %28EC 3.5.1.88%29;locus_tag=TBepi2057.genome.CDS.1889
+TBepi2057.contig.74	feature	CDS	2851	3789	.	-	0	ID=TBepi2057.genome.CDS.1888;Product=Methionyl-tRNA formyltransferase %28EC 2.1.2.9%29;locus_tag=TBepi2057.genome.CDS.1888
+TBepi2057.contig.74	feature	CDS	1469	2842	.	-	0	ID=TBepi2057.genome.CDS.1887;Product=16S rRNA %28cytosine%28967%29-C%285%29%29-methyltransferase %28EC 2.1.1.176%29;locus_tag=TBepi2057.genome.CDS.1887
+TBepi2057.contig.74	feature	CDS	768	1427	.	-	0	ID=TBepi2057.genome.CDS.1886;Product=Ribulose-phosphate 3-epimerase %28EC 5.1.3.1%29;locus_tag=TBepi2057.genome.CDS.1886
+TBepi2057.contig.74	feature	CDS	464	727	.	-	0	ID=TBepi2057.genome.CDS.1885;Product=Phosphoribosyl-ATP pyrophosphatase %28EC 3.6.1.31%29;locus_tag=TBepi2057.genome.CDS.1885
+TBepi2057.contig.74	feature	CDS	1	411	.	-	0	ID=TBepi2057.genome.CDS.1884;Product=ATP phosphoribosyltransferase %28EC 2.4.2.17%29;locus_tag=TBepi2057.genome.CDS.1884
+TBepi2057.contig.75	feature	CDS	4974	5072	.	+	0	ID=TBepi2057.genome.CDS.1896;Product=;locus_tag=TBepi2057.genome.CDS.1896
+TBepi2057.contig.75	feature	CDS	3616	4899	.	-	0	ID=TBepi2057.genome.CDS.1895;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1895
+TBepi2057.contig.75	feature	CDS	2212	3660	.	+	0	ID=TBepi2057.genome.CDS.1894;Product=tRNA nucleotidyltransferase %28EC 2.7.7.27%29;locus_tag=TBepi2057.genome.CDS.1894
+TBepi2057.contig.75	feature	CDS	1587	2180	.	-	0	ID=TBepi2057.genome.CDS.1893;Product=MutT/nudix family protein;locus_tag=TBepi2057.genome.CDS.1893
+TBepi2057.contig.75	feature	CDS	451	1590	.	-	0	ID=TBepi2057.genome.CDS.1892;Product=Methyl-accepting chemotaxis protein I %28serine chemoreceptor protein%29;locus_tag=TBepi2057.genome.CDS.1892
+TBepi2057.contig.75	feature	CDS	2	454	.	-	0	ID=TBepi2057.genome.CDS.1891;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1891
+TBepi2057.contig.76	feature	CDS	4368	4838	.	-	0	ID=TBepi2057.genome.CDS.1901;Product=LSU ribosomal protein L13p %28L13Ae%29;locus_tag=TBepi2057.genome.CDS.1901
+TBepi2057.contig.76	feature	CDS	3853	4356	.	-	0	ID=TBepi2057.genome.CDS.1900;Product=SSU ribosomal protein S9p %28S16e%29;locus_tag=TBepi2057.genome.CDS.1900
+TBepi2057.contig.76	feature	CDS	2473	3825	.	-	0	ID=TBepi2057.genome.CDS.1899;Product=Phosphoglucosamine mutase %28EC 5.4.2.10%29;locus_tag=TBepi2057.genome.CDS.1899
+TBepi2057.contig.76	feature	CDS	610	2430	.	-	0	ID=TBepi2057.genome.CDS.1898;Product=Glucosamine--fructose-6-phosphate aminotransferase %5Bisomerizing%5D %28EC 2.6.1.16%29;locus_tag=TBepi2057.genome.CDS.1898
+TBepi2057.contig.76	feature	CDS	2	613	.	-	0	ID=TBepi2057.genome.CDS.1897;Product=;locus_tag=TBepi2057.genome.CDS.1897
+TBepi2057.contig.77	feature	CDS	4436	4744	.	+	0	ID=TBepi2057.genome.CDS.1908;Product=Isochorismatase %28EC 3.3.2.1%29;locus_tag=TBepi2057.genome.CDS.1908
+TBepi2057.contig.77	feature	CDS	3565	4401	.	-	0	ID=TBepi2057.genome.CDS.1907;Product=;locus_tag=TBepi2057.genome.CDS.1907
+TBepi2057.contig.77	feature	CDS	3098	3541	.	-	0	ID=TBepi2057.genome.CDS.1906;Product=;locus_tag=TBepi2057.genome.CDS.1906
+TBepi2057.contig.77	feature	CDS	2302	3108	.	+	0	ID=TBepi2057.genome.CDS.1905;Product=;locus_tag=TBepi2057.genome.CDS.1905
+TBepi2057.contig.77	feature	CDS	1380	2240	.	-	0	ID=TBepi2057.genome.CDS.1904;Product=Homocysteine S-methyltransferase %28EC 2.1.1.10%29;locus_tag=TBepi2057.genome.CDS.1904
+TBepi2057.contig.77	feature	CDS	263	1231	.	-	0	ID=TBepi2057.genome.CDS.1903;Product=;locus_tag=TBepi2057.genome.CDS.1903
+TBepi2057.contig.77	feature	CDS	2	262	.	+	0	ID=TBepi2057.genome.CDS.1902;Product=ABC-type multidrug transport system%2C permease component;locus_tag=TBepi2057.genome.CDS.1902
+TBepi2057.contig.78	feature	misc_RNA	3890	4708	.	+	.	ID=TBepi2057.genome.repeat.34;Product=repeat region;locus_tag=TBepi2057.genome.repeat.34
+TBepi2057.contig.78	feature	CDS	3627	4709	.	+	0	ID=TBepi2057.genome.CDS.1916;Product=Predicted ATPase related to phosphate starvation-inducible protein PhoH;locus_tag=TBepi2057.genome.CDS.1916
+TBepi2057.contig.78	feature	CDS	2719	3510	.	+	0	ID=TBepi2057.genome.CDS.1915;Product=%282E%2C6Z%29-farnesyl diphosphate synthase %28EC 2.5.1.68%29;locus_tag=TBepi2057.genome.CDS.1915
+TBepi2057.contig.78	feature	CDS	2390	2701	.	+	0	ID=TBepi2057.genome.CDS.1914;Product=;locus_tag=TBepi2057.genome.CDS.1914
+TBepi2057.contig.78	feature	CDS	1610	2380	.	+	0	ID=TBepi2057.genome.CDS.1913;Product=;locus_tag=TBepi2057.genome.CDS.1913
+TBepi2057.contig.78	feature	CDS	1442	1591	.	+	0	ID=TBepi2057.genome.CDS.1912;Product=;locus_tag=TBepi2057.genome.CDS.1912
+TBepi2057.contig.78	feature	CDS	1015	1416	.	-	0	ID=TBepi2057.genome.CDS.1911;Product=;locus_tag=TBepi2057.genome.CDS.1911
+TBepi2057.contig.78	feature	CDS	524	997	.	-	0	ID=TBepi2057.genome.CDS.1910;Product=Transcription elongation factor GreA;locus_tag=TBepi2057.genome.CDS.1910
+TBepi2057.contig.78	feature	CDS	2	484	.	+	0	ID=TBepi2057.genome.CDS.1909;Product=;locus_tag=TBepi2057.genome.CDS.1909
+TBepi2057.contig.79	feature	misc_RNA	1	119	.	+	.	ID=TBepi2057.genome.repeat.18;Product=repeat region;locus_tag=TBepi2057.genome.repeat.18
+TBepi2057.contig.79	feature	misc_RNA	4158	4529	.	+	.	ID=TBepi2057.genome.repeat.19;Product=repeat region;locus_tag=TBepi2057.genome.repeat.19
+TBepi2057.contig.79	feature	misc_RNA	4533	4690	.	+	.	ID=TBepi2057.genome.repeat.20;Product=repeat region;locus_tag=TBepi2057.genome.repeat.20
+TBepi2057.contig.79	feature	CDS	4537	4689	.	-	0	ID=TBepi2057.genome.CDS.1921;Product=;locus_tag=TBepi2057.genome.CDS.1921
+TBepi2057.contig.79	feature	CDS	3870	4529	.	+	0	ID=TBepi2057.genome.CDS.1920;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1920
+TBepi2057.contig.79	feature	CDS	2323	3867	.	+	0	ID=TBepi2057.genome.CDS.1919;Product=GMP synthase %5Bglutamine-hydrolyzing%5D %28EC 6.3.5.2%29;locus_tag=TBepi2057.genome.CDS.1919
+TBepi2057.contig.79	feature	CDS	1217	2323	.	+	0	ID=TBepi2057.genome.CDS.1918;Product=Inosine-5%27-monophosphate dehydrogenase%2C catalytic domain %28EC 1.1.1.205%29;locus_tag=TBepi2057.genome.CDS.1918
+TBepi2057.contig.79	feature	CDS	91	1209	.	+	0	ID=TBepi2057.genome.CDS.1917;Product=Inosine-5%27-monophosphate dehydrogenase %28EC 1.1.1.205%29 / CBS domain;locus_tag=TBepi2057.genome.CDS.1917
+TBepi2057.contig.8	feature	misc_RNA	20875	21640	.	+	.	ID=TBepi2057.genome.repeat.64;Product=repeat region;locus_tag=TBepi2057.genome.repeat.64
+TBepi2057.contig.8	feature	CDS	21071	21640	.	+	0	ID=TBepi2057.genome.CDS.1163;Product=Hypothetical radical SAM family enzyme in heat shock gene cluster%2C similarity with CPO of BS HemN-type;locus_tag=TBepi2057.genome.CDS.1163
+TBepi2057.contig.8	feature	CDS	19200	21074	.	+	0	ID=TBepi2057.genome.CDS.1162;Product=Translation elongation factor LepA;locus_tag=TBepi2057.genome.CDS.1162
+TBepi2057.contig.8	feature	CDS	18913	19182	.	+	0	ID=TBepi2057.genome.CDS.1161;Product=SSU ribosomal protein S20p;locus_tag=TBepi2057.genome.CDS.1161
+TBepi2057.contig.8	feature	CDS	17864	18805	.	+	0	ID=TBepi2057.genome.CDS.1160;Product=DNA polymerase III delta subunit %28EC 2.7.7.7%29;locus_tag=TBepi2057.genome.CDS.1160
+TBepi2057.contig.8	feature	CDS	16477	17859	.	+	0	ID=TBepi2057.genome.CDS.1159;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1159
+TBepi2057.contig.8	feature	CDS	15737	16396	.	+	0	ID=TBepi2057.genome.CDS.1158;Product=;locus_tag=TBepi2057.genome.CDS.1158
+TBepi2057.contig.8	feature	CDS	13222	15678	.	+	0	ID=TBepi2057.genome.CDS.1157;Product=Leucyl-tRNA synthetase %28EC 6.1.1.4%29;locus_tag=TBepi2057.genome.CDS.1157
+TBepi2057.contig.8	feature	tRNA	13122	13197	.	+	.	ID=TBepi2057.genome.rna.8;Product=tRNA-Ala-GGC;locus_tag=TBepi2057.genome.rna.8
+TBepi2057.contig.8	feature	CDS	12691	13053	.	+	0	ID=TBepi2057.genome.CDS.1156;Product=;locus_tag=TBepi2057.genome.CDS.1156
+TBepi2057.contig.8	feature	CDS	12228	12704	.	+	0	ID=TBepi2057.genome.CDS.1155;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1155
+TBepi2057.contig.8	feature	CDS	11972	12121	.	+	0	ID=TBepi2057.genome.CDS.1154;Product=;locus_tag=TBepi2057.genome.CDS.1154
+TBepi2057.contig.8	feature	CDS	9907	11967	.	+	0	ID=TBepi2057.genome.CDS.1153;Product=DNA ligase %28EC 6.5.1.2%29;locus_tag=TBepi2057.genome.CDS.1153
+TBepi2057.contig.8	feature	CDS	8818	9897	.	+	0	ID=TBepi2057.genome.CDS.1152;Product=tRNA-specific 2-thiouridylase MnmA;locus_tag=TBepi2057.genome.CDS.1152
+TBepi2057.contig.8	feature	CDS	7679	8821	.	+	0	ID=TBepi2057.genome.CDS.1151;Product=Cysteine desulfurase %28EC 2.8.1.7%29;locus_tag=TBepi2057.genome.CDS.1151
+TBepi2057.contig.8	feature	CDS	6419	7552	.	-	0	ID=TBepi2057.genome.CDS.1150;Product=Glycosyltransferase;locus_tag=TBepi2057.genome.CDS.1150
+TBepi2057.contig.8	feature	CDS	5253	6422	.	-	0	ID=TBepi2057.genome.CDS.1149;Product=Dolichol-phosphate mannosyltransferase %28EC 2.4.1.83%29 in lipid-linked oligosaccharide synthesis cluster;locus_tag=TBepi2057.genome.CDS.1149
+TBepi2057.contig.8	feature	CDS	4474	5253	.	-	0	ID=TBepi2057.genome.CDS.1148;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1148
+TBepi2057.contig.8	feature	CDS	3433	4365	.	-	0	ID=TBepi2057.genome.CDS.1147;Product=Malonyl CoA-acyl carrier protein transacylase %28EC 2.3.1.39%29;locus_tag=TBepi2057.genome.CDS.1147
+TBepi2057.contig.8	feature	CDS	2411	3433	.	-	0	ID=TBepi2057.genome.CDS.1146;Product=3-oxoacyl-%5Bacyl-carrier-protein%5D synthase%2C KASIII %28EC 2.3.1.180%29;locus_tag=TBepi2057.genome.CDS.1146
+TBepi2057.contig.8	feature	CDS	2133	2378	.	-	0	ID=TBepi2057.genome.CDS.1145;Product=Acyl carrier protein;locus_tag=TBepi2057.genome.CDS.1145
+TBepi2057.contig.8	feature	CDS	820	2061	.	-	0	ID=TBepi2057.genome.CDS.1144;Product=3-oxoacyl-%5Bacyl-carrier-protein%5D synthase%2C KASII %28EC 2.3.1.179%29;locus_tag=TBepi2057.genome.CDS.1144
+TBepi2057.contig.8	feature	CDS	361	564	.	-	0	ID=TBepi2057.genome.CDS.1143;Product=;locus_tag=TBepi2057.genome.CDS.1143
+TBepi2057.contig.8	feature	tRNA	185	258	.	-	.	ID=TBepi2057.genome.rna.9;Product=tRNA-Met-CAT;locus_tag=TBepi2057.genome.rna.9
+TBepi2057.contig.8	feature	CDS	2	151	.	+	0	ID=TBepi2057.genome.CDS.1142;Product=Succinate-semialdehyde dehydrogenase %5BNAD%28P%29%2B%5D %28EC 1.2.1.16%29;locus_tag=TBepi2057.genome.CDS.1142
+TBepi2057.contig.80	feature	CDS	3907	4614	.	-	0	ID=TBepi2057.genome.CDS.1925;Product=Galactose-1-phosphate uridylyltransferase %28EC 2.7.7.10%29;locus_tag=TBepi2057.genome.CDS.1925
+TBepi2057.contig.80	feature	CDS	2146	3903	.	+	0	ID=TBepi2057.genome.CDS.1924;Product=COG0488: ATPase components of ABC transporters with duplicated ATPase domains;locus_tag=TBepi2057.genome.CDS.1924
+TBepi2057.contig.80	feature	CDS	928	2091	.	+	0	ID=TBepi2057.genome.CDS.1923;Product=HtrA protease/chaperone protein;locus_tag=TBepi2057.genome.CDS.1923
+TBepi2057.contig.80	feature	CDS	2	868	.	+	0	ID=TBepi2057.genome.CDS.1922;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1922
+TBepi2057.contig.81	feature	CDS	4444	4560	.	-	0	ID=TBepi2057.genome.CDS.1930;Product=LSU ribosomal protein L31p %40 LSU ribosomal protein L31p%2C zinc-dependent;locus_tag=TBepi2057.genome.CDS.1930
+TBepi2057.contig.81	feature	CDS	3236	4327	.	-	0	ID=TBepi2057.genome.CDS.1929;Product=Peptide chain release factor 1;locus_tag=TBepi2057.genome.CDS.1929
+TBepi2057.contig.81	feature	CDS	2373	3236	.	-	0	ID=TBepi2057.genome.CDS.1928;Product=Protein-N%285%29-glutamine methyltransferase PrmC%2C methylates polypeptide chain release factors RF1 and RF2;locus_tag=TBepi2057.genome.CDS.1928
+TBepi2057.contig.81	feature	CDS	1251	2360	.	+	0	ID=TBepi2057.genome.CDS.1927;Product=Cyclopropane-fatty-acyl-phospholipid synthase %28EC 2.1.1.79%29;locus_tag=TBepi2057.genome.CDS.1927
+TBepi2057.contig.81	feature	CDS	23	1183	.	-	0	ID=TBepi2057.genome.CDS.1926;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1926
+TBepi2057.contig.82	feature	misc_RNA	1	127	.	+	.	ID=TBepi2057.genome.repeat.66;Product=repeat region;locus_tag=TBepi2057.genome.repeat.66
+TBepi2057.contig.82	feature	CDS	4198	4470	.	+	0	ID=TBepi2057.genome.CDS.1938;Product=N-acetylglucosamine-1-phosphate uridyltransferase %28EC 2.7.7.23%29 / Glucosamine-1-phosphate N-acetyltransferase %28EC 2.3.1.157%29;locus_tag=TBepi2057.genome.CDS.1938
+TBepi2057.contig.82	feature	CDS	3143	4186	.	+	0	ID=TBepi2057.genome.CDS.1937;Product=N-succinyl-L%2CL-diaminopimelate aminotransferase %28EC 2.6.1.17%29%2C type 2;locus_tag=TBepi2057.genome.CDS.1937
+TBepi2057.contig.82	feature	CDS	2778	3101	.	+	0	ID=TBepi2057.genome.CDS.1936;Product=Ferredoxin;locus_tag=TBepi2057.genome.CDS.1936
+TBepi2057.contig.82	feature	CDS	2448	2726	.	-	0	ID=TBepi2057.genome.CDS.1935;Product=;locus_tag=TBepi2057.genome.CDS.1935
+TBepi2057.contig.82	feature	CDS	1449	2411	.	+	0	ID=TBepi2057.genome.CDS.1934;Product=1D-myo-inositol 2-acetamido-2-deoxy-alpha-D-glucopyranoside deacetylase %28EC 3.5.1.103%29;locus_tag=TBepi2057.genome.CDS.1934
+TBepi2057.contig.82	feature	CDS	825	1430	.	-	0	ID=TBepi2057.genome.CDS.1933;Product=Transcriptional regulator%2C TetR family;locus_tag=TBepi2057.genome.CDS.1933
+TBepi2057.contig.82	feature	CDS	557	811	.	-	0	ID=TBepi2057.genome.CDS.1932;Product=;locus_tag=TBepi2057.genome.CDS.1932
+TBepi2057.contig.82	feature	CDS	1	570	.	+	0	ID=TBepi2057.genome.CDS.1931;Product=FIG00031715: Predicted metal-dependent phosphoesterases %28PHP family%29;locus_tag=TBepi2057.genome.CDS.1931
+TBepi2057.contig.83	feature	misc_RNA	1	123	.	+	.	ID=TBepi2057.genome.repeat.61;Product=repeat region;locus_tag=TBepi2057.genome.repeat.61
+TBepi2057.contig.83	feature	CDS	4236	4466	.	+	0	ID=TBepi2057.genome.CDS.1944;Product=;locus_tag=TBepi2057.genome.CDS.1944
+TBepi2057.contig.83	feature	CDS	3786	4061	.	+	0	ID=TBepi2057.genome.CDS.1943;Product=Cell division protein CrgA;locus_tag=TBepi2057.genome.CDS.1943
+TBepi2057.contig.83	feature	CDS	3094	3726	.	-	0	ID=TBepi2057.genome.CDS.1942;Product=Anthranilate synthase%2C amidotransferase component %28EC 4.1.3.27%29 %40 Para-aminobenzoate synthase%2C amidotransferase component %28EC 2.6.1.85%29;locus_tag=TBepi2057.genome.CDS.1942
+TBepi2057.contig.83	feature	CDS	1515	3068	.	+	0	ID=TBepi2057.genome.CDS.1941;Product=Serine/threonine protein kinase PrkC%2C regulator of stationary phase;locus_tag=TBepi2057.genome.CDS.1941
+TBepi2057.contig.83	feature	CDS	736	1518	.	+	0	ID=TBepi2057.genome.CDS.1940;Product=Protein serine/threonine phosphatase PrpC%2C regulation of stationary phase;locus_tag=TBepi2057.genome.CDS.1940
+TBepi2057.contig.83	feature	CDS	3	689	.	-	0	ID=TBepi2057.genome.CDS.1939;Product=Prephenate dehydratase %28EC 4.2.1.51%29;locus_tag=TBepi2057.genome.CDS.1939
+TBepi2057.contig.84	feature	misc_RNA	3987	4460	.	+	.	ID=TBepi2057.genome.repeat.27;Product=repeat region;locus_tag=TBepi2057.genome.repeat.27
+TBepi2057.contig.84	feature	CDS	3002	4369	.	-	0	ID=TBepi2057.genome.CDS.1948;Product=Deoxyribodipyrimidine photolyase %28EC 4.1.99.3%29;locus_tag=TBepi2057.genome.CDS.1948
+TBepi2057.contig.84	feature	CDS	1636	3042	.	+	0	ID=TBepi2057.genome.CDS.1947;Product=diguanylate cyclase/phosphodiesterase %28GGDEF %26 EAL domains%29 with PAS/PAC sensor%28s%29;locus_tag=TBepi2057.genome.CDS.1947
+TBepi2057.contig.84	feature	CDS	1139	1573	.	-	0	ID=TBepi2057.genome.CDS.1946;Product=;locus_tag=TBepi2057.genome.CDS.1946
+TBepi2057.contig.84	feature	CDS	374	1111	.	+	0	ID=TBepi2057.genome.CDS.1945;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1945
+TBepi2057.contig.84	feature	tRNA	100	175	.	-	.	ID=TBepi2057.genome.rna.27;Product=tRNA-Arg-CCT;locus_tag=TBepi2057.genome.rna.27
+TBepi2057.contig.85	feature	misc_RNA	1	590	.	+	.	ID=TBepi2057.genome.repeat.51;Product=repeat region;locus_tag=TBepi2057.genome.repeat.51
+TBepi2057.contig.85	feature	CDS	3626	4300	.	+	0	ID=TBepi2057.genome.CDS.1953;Product=Glycerophosphoryl diester phosphodiesterase %28EC 3.1.4.46%29;locus_tag=TBepi2057.genome.CDS.1953
+TBepi2057.contig.85	feature	CDS	3401	3586	.	+	0	ID=TBepi2057.genome.CDS.1952;Product=LSU ribosomal protein L28p %40 LSU ribosomal protein L28p%2C zinc-dependent;locus_tag=TBepi2057.genome.CDS.1952
+TBepi2057.contig.85	feature	CDS	1029	3278	.	-	0	ID=TBepi2057.genome.CDS.1951;Product=ATP-dependent DNA helicase RecG %28EC 3.6.1.-%29;locus_tag=TBepi2057.genome.CDS.1951
+TBepi2057.contig.85	feature	CDS	433	1026	.	-	0	ID=TBepi2057.genome.CDS.1950;Product=16S rRNA %28guanine%28966%29-N%282%29%29-methyltransferase %28EC 2.1.1.171%29;locus_tag=TBepi2057.genome.CDS.1950
+TBepi2057.contig.85	feature	CDS	2	436	.	-	0	ID=TBepi2057.genome.CDS.1949;Product=Phosphopantetheine adenylyltransferase %28EC 2.7.7.3%29;locus_tag=TBepi2057.genome.CDS.1949
+TBepi2057.contig.86	feature	CDS	1119	4262	.	+	0	ID=TBepi2057.genome.CDS.1955;Product=Carbamoyl-phosphate synthase large chain %28EC 6.3.5.5%29;locus_tag=TBepi2057.genome.CDS.1955
+TBepi2057.contig.86	feature	CDS	2	1126	.	+	0	ID=TBepi2057.genome.CDS.1954;Product=Carbamoyl-phosphate synthase small chain %28EC 6.3.5.5%29;locus_tag=TBepi2057.genome.CDS.1954
+TBepi2057.contig.87	feature	misc_RNA	1	451	.	+	.	ID=TBepi2057.genome.repeat.60;Product=repeat region;locus_tag=TBepi2057.genome.repeat.60
+TBepi2057.contig.87	feature	CDS	3782	4258	.	+	0	ID=TBepi2057.genome.CDS.1960;Product=NADP-dependent malic enzyme %28EC 1.1.1.40%29;locus_tag=TBepi2057.genome.CDS.1960
+TBepi2057.contig.87	feature	CDS	3138	3782	.	+	0	ID=TBepi2057.genome.CDS.1959;Product=Uracil phosphoribosyltransferase %28EC 2.4.2.9%29;locus_tag=TBepi2057.genome.CDS.1959
+TBepi2057.contig.87	feature	CDS	2579	3073	.	-	0	ID=TBepi2057.genome.CDS.1958;Product=;locus_tag=TBepi2057.genome.CDS.1958
+TBepi2057.contig.87	feature	CDS	2134	2592	.	-	0	ID=TBepi2057.genome.CDS.1957;Product=tRNA-specific adenosine-34 deaminase %28EC 3.5.4.-%29;locus_tag=TBepi2057.genome.CDS.1957
+TBepi2057.contig.87	feature	CDS	3	2105	.	+	0	ID=TBepi2057.genome.CDS.1956;Product=Amino acid permease;locus_tag=TBepi2057.genome.CDS.1956
+TBepi2057.contig.88	feature	CDS	2934	4037	.	+	0	ID=TBepi2057.genome.CDS.1965;Product=Alpha-glucosidase %28EC 3.2.1.20%29;locus_tag=TBepi2057.genome.CDS.1965
+TBepi2057.contig.88	feature	CDS	2524	2847	.	-	0	ID=TBepi2057.genome.CDS.1964;Product=;locus_tag=TBepi2057.genome.CDS.1964
+TBepi2057.contig.88	feature	CDS	1750	2511	.	+	0	ID=TBepi2057.genome.CDS.1963;Product=NAD%28P%29HX epimerase / NAD%28P%29HX dehydratase;locus_tag=TBepi2057.genome.CDS.1963
+TBepi2057.contig.88	feature	CDS	951	1742	.	+	0	ID=TBepi2057.genome.CDS.1962;Product=Tryptophan 2%2C3-dioxygenase %28EC 1.13.11.11%29;locus_tag=TBepi2057.genome.CDS.1962
+TBepi2057.contig.88	feature	CDS	1	954	.	+	0	ID=TBepi2057.genome.CDS.1961;Product=Kynureninase %28EC 3.7.1.3%29;locus_tag=TBepi2057.genome.CDS.1961
+TBepi2057.contig.89	feature	misc_RNA	2	485	.	+	.	ID=TBepi2057.genome.repeat.16;Product=repeat region;locus_tag=TBepi2057.genome.repeat.16
+TBepi2057.contig.89	feature	misc_RNA	3225	3758	.	+	.	ID=TBepi2057.genome.repeat.17;Product=repeat region;locus_tag=TBepi2057.genome.repeat.17
+TBepi2057.contig.89	feature	CDS	3352	3756	.	-	0	ID=TBepi2057.genome.CDS.1969;Product=;locus_tag=TBepi2057.genome.CDS.1969
+TBepi2057.contig.89	feature	CDS	1735	3237	.	-	0	ID=TBepi2057.genome.CDS.1968;Product=ABC transporter ATP-binding protein;locus_tag=TBepi2057.genome.CDS.1968
+TBepi2057.contig.89	feature	CDS	564	1742	.	-	0	ID=TBepi2057.genome.CDS.1967;Product=Nucleoside ABC transporter%2C permease protein 1;locus_tag=TBepi2057.genome.CDS.1967
+TBepi2057.contig.89	feature	CDS	1	561	.	-	0	ID=TBepi2057.genome.CDS.1966;Product=;locus_tag=TBepi2057.genome.CDS.1966
+TBepi2057.contig.9	feature	misc_RNA	20467	21285	.	+	.	ID=TBepi2057.genome.repeat.25;Product=repeat region;locus_tag=TBepi2057.genome.repeat.25
+TBepi2057.contig.9	feature	CDS	20244	21284	.	-	0	ID=TBepi2057.genome.CDS.1181;Product=Predicted ATPase related to phosphate starvation-inducible protein PhoH;locus_tag=TBepi2057.genome.CDS.1181
+TBepi2057.contig.9	feature	CDS	19330	19923	.	-	0	ID=TBepi2057.genome.CDS.1180;Product=;locus_tag=TBepi2057.genome.CDS.1180
+TBepi2057.contig.9	feature	CDS	17654	19306	.	+	0	ID=TBepi2057.genome.CDS.1179;Product=Fumarate hydratase class I %28EC 4.2.1.2%29;locus_tag=TBepi2057.genome.CDS.1179
+TBepi2057.contig.9	feature	CDS	17434	17661	.	+	0	ID=TBepi2057.genome.CDS.1178;Product=Exodeoxyribonuclease VII small subunit %28EC 3.1.11.6%29;locus_tag=TBepi2057.genome.CDS.1178
+TBepi2057.contig.9	feature	CDS	16272	17423	.	+	0	ID=TBepi2057.genome.CDS.1177;Product=Exodeoxyribonuclease VII large subunit %28EC 3.1.11.6%29;locus_tag=TBepi2057.genome.CDS.1177
+TBepi2057.contig.9	feature	CDS	15285	16238	.	-	0	ID=TBepi2057.genome.CDS.1176;Product=4-hydroxy-3-methylbut-2-enyl diphosphate reductase %28EC 1.17.1.2%29;locus_tag=TBepi2057.genome.CDS.1176
+TBepi2057.contig.9	feature	CDS	14886	15305	.	+	0	ID=TBepi2057.genome.CDS.1175;Product=;locus_tag=TBepi2057.genome.CDS.1175
+TBepi2057.contig.9	feature	CDS	13688	14893	.	+	0	ID=TBepi2057.genome.CDS.1174;Product=DNA recombination protein RmuC;locus_tag=TBepi2057.genome.CDS.1174
+TBepi2057.contig.9	feature	CDS	12563	13636	.	-	0	ID=TBepi2057.genome.CDS.1173;Product=GTP-binding and nucleic acid-binding protein YchF;locus_tag=TBepi2057.genome.CDS.1173
+TBepi2057.contig.9	feature	CDS	10653	12566	.	-	0	ID=TBepi2057.genome.CDS.1172;Product=GTP-binding protein TypA/BipA;locus_tag=TBepi2057.genome.CDS.1172
+TBepi2057.contig.9	feature	CDS	7468	10578	.	-	0	ID=TBepi2057.genome.CDS.1171;Product=ATP-dependent DNA helicase SCO5183;locus_tag=TBepi2057.genome.CDS.1171
+TBepi2057.contig.9	feature	CDS	4211	7471	.	-	0	ID=TBepi2057.genome.CDS.1170;Product=ATP-dependent DNA helicase SCO5184;locus_tag=TBepi2057.genome.CDS.1170
+TBepi2057.contig.9	feature	CDS	3470	4237	.	+	0	ID=TBepi2057.genome.CDS.1169;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1169
+TBepi2057.contig.9	feature	CDS	2539	3441	.	-	0	ID=TBepi2057.genome.CDS.1168;Product=NADH pyrophosphatase %28EC 3.6.1.22%29;locus_tag=TBepi2057.genome.CDS.1168
+TBepi2057.contig.9	feature	CDS	885	2534	.	-	0	ID=TBepi2057.genome.CDS.1167;Product=ATP-dependent DNA helicase UvrD/PcrA%2C actinomycete paralog;locus_tag=TBepi2057.genome.CDS.1167
+TBepi2057.contig.9	feature	CDS	602	766	.	-	0	ID=TBepi2057.genome.CDS.1166;Product=;locus_tag=TBepi2057.genome.CDS.1166
+TBepi2057.contig.9	feature	CDS	135	479	.	-	0	ID=TBepi2057.genome.CDS.1165;Product=WhiB-family transcriptional regulator;locus_tag=TBepi2057.genome.CDS.1165
+TBepi2057.contig.9	feature	CDS	1	138	.	+	0	ID=TBepi2057.genome.CDS.1164;Product=;locus_tag=TBepi2057.genome.CDS.1164
+TBepi2057.contig.90	feature	CDS	1748	3682	.	-	0	ID=TBepi2057.genome.CDS.1972;Product=DNA polymerase I %28EC 2.7.7.7%29;locus_tag=TBepi2057.genome.CDS.1972
+TBepi2057.contig.90	feature	CDS	633	1751	.	+	0	ID=TBepi2057.genome.CDS.1971;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1971
+TBepi2057.contig.90	feature	CDS	1	501	.	-	0	ID=TBepi2057.genome.CDS.1970;Product=SSU ribosomal protein S1p;locus_tag=TBepi2057.genome.CDS.1970
+TBepi2057.contig.91	feature	CDS	2734	3438	.	+	0	ID=TBepi2057.genome.CDS.1977;Product=Methionine ABC transporter ATP-binding protein;locus_tag=TBepi2057.genome.CDS.1977
+TBepi2057.contig.91	feature	CDS	1014	2630	.	-	0	ID=TBepi2057.genome.CDS.1976;Product=Multidrug resistance protein ErmB;locus_tag=TBepi2057.genome.CDS.1976
+TBepi2057.contig.91	feature	CDS	577	936	.	+	0	ID=TBepi2057.genome.CDS.1975;Product=;locus_tag=TBepi2057.genome.CDS.1975
+TBepi2057.contig.91	feature	CDS	177	554	.	+	0	ID=TBepi2057.genome.CDS.1974;Product=;locus_tag=TBepi2057.genome.CDS.1974
+TBepi2057.contig.91	feature	CDS	3	167	.	+	0	ID=TBepi2057.genome.CDS.1973;Product=;locus_tag=TBepi2057.genome.CDS.1973
+TBepi2057.contig.92	feature	misc_RNA	1	127	.	+	.	ID=TBepi2057.genome.repeat.43;Product=repeat region;locus_tag=TBepi2057.genome.repeat.43
+TBepi2057.contig.92	feature	CDS	2	3058	.	-	0	ID=TBepi2057.genome.CDS.1978;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1978
+TBepi2057.contig.93	feature	CDS	2938	3123	.	-	0	ID=TBepi2057.genome.CDS.1982;Product=;locus_tag=TBepi2057.genome.CDS.1982
+TBepi2057.contig.93	feature	CDS	2089	2820	.	-	0	ID=TBepi2057.genome.CDS.1981;Product=DNA-binding response regulator;locus_tag=TBepi2057.genome.CDS.1981
+TBepi2057.contig.93	feature	CDS	591	2012	.	-	0	ID=TBepi2057.genome.CDS.1980;Product=sensor histidine kinase;locus_tag=TBepi2057.genome.CDS.1980
+TBepi2057.contig.93	feature	CDS	1	594	.	+	0	ID=TBepi2057.genome.CDS.1979;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1979
+TBepi2057.contig.94	feature	misc_RNA	1	127	.	+	.	ID=TBepi2057.genome.repeat.5;Product=repeat region;locus_tag=TBepi2057.genome.repeat.5
+TBepi2057.contig.94	feature	misc_RNA	2978	3104	.	+	.	ID=TBepi2057.genome.repeat.6;Product=repeat region;locus_tag=TBepi2057.genome.repeat.6
+TBepi2057.contig.94	feature	CDS	2928	3104	.	-	0	ID=TBepi2057.genome.CDS.1986;Product=;locus_tag=TBepi2057.genome.CDS.1986
+TBepi2057.contig.94	feature	CDS	1575	2927	.	-	0	ID=TBepi2057.genome.CDS.1985;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1985
+TBepi2057.contig.94	feature	CDS	1096	1518	.	-	0	ID=TBepi2057.genome.CDS.1984;Product=FIG01121360: hypothetical protein;locus_tag=TBepi2057.genome.CDS.1984
+TBepi2057.contig.94	feature	CDS	2	1054	.	-	0	ID=TBepi2057.genome.CDS.1983;Product=Phosphomannomutase %28EC 5.4.2.8%29;locus_tag=TBepi2057.genome.CDS.1983
+TBepi2057.contig.95	feature	CDS	2424	2984	.	+	0	ID=TBepi2057.genome.CDS.1990;Product=S-adenosylmethionine synthetase %28EC 2.5.1.6%29;locus_tag=TBepi2057.genome.CDS.1990
+TBepi2057.contig.95	feature	CDS	1217	2419	.	+	0	ID=TBepi2057.genome.CDS.1989;Product=Phosphopantothenoylcysteine decarboxylase %28EC 4.1.1.36%29 / Phosphopantothenoylcysteine synthetase %28EC 6.3.2.5%29;locus_tag=TBepi2057.genome.CDS.1989
+TBepi2057.contig.95	feature	CDS	887	1171	.	+	0	ID=TBepi2057.genome.CDS.1988;Product=DNA-directed RNA polymerase omega subunit %28EC 2.7.7.6%29;locus_tag=TBepi2057.genome.CDS.1988
+TBepi2057.contig.95	feature	CDS	2	820	.	+	0	ID=TBepi2057.genome.CDS.1987;Product=Guanylate kinase %28EC 2.7.4.8%29;locus_tag=TBepi2057.genome.CDS.1987
+TBepi2057.contig.96	feature	misc_RNA	1	358	.	+	.	ID=TBepi2057.genome.repeat.63;Product=repeat region;locus_tag=TBepi2057.genome.repeat.63
+TBepi2057.contig.96	feature	CDS	2611	2904	.	-	0	ID=TBepi2057.genome.CDS.1993;Product=;locus_tag=TBepi2057.genome.CDS.1993
+TBepi2057.contig.96	feature	CDS	1413	2606	.	-	0	ID=TBepi2057.genome.CDS.1992;Product=S-adenosylmethionine synthetase %28EC 2.5.1.6%29;locus_tag=TBepi2057.genome.CDS.1992
+TBepi2057.contig.96	feature	CDS	3	1406	.	-	0	ID=TBepi2057.genome.CDS.1991;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1991
+TBepi2057.contig.97	feature	misc_RNA	1	322	.	+	.	ID=TBepi2057.genome.repeat.15;Product=repeat region;locus_tag=TBepi2057.genome.repeat.15
+TBepi2057.contig.97	feature	CDS	1796	2668	.	+	0	ID=TBepi2057.genome.CDS.1996;Product=Permease of the drug/metabolite transporter %28DMT%29 superfamily;locus_tag=TBepi2057.genome.CDS.1996
+TBepi2057.contig.97	feature	CDS	927	1799	.	+	0	ID=TBepi2057.genome.CDS.1995;Product=Endonuclease IV %28EC 3.1.21.2%29;locus_tag=TBepi2057.genome.CDS.1995
+TBepi2057.contig.97	feature	CDS	3	884	.	+	0	ID=TBepi2057.genome.CDS.1994;Product=hypothetical protein;locus_tag=TBepi2057.genome.CDS.1994

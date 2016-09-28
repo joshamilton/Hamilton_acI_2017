@@ -1,0 +1,740 @@
+##gff-version 3
+AB141P03.contig.1	feature	CDS	105638	106237	.	-	0	ID=AB141P03.genome.CDS.765;Product=;locus_tag=AB141P03.genome.CDS.765
+AB141P03.contig.1	feature	CDS	105321	105479	.	-	0	ID=AB141P03.genome.CDS.764;Product=hypothetical protein;locus_tag=AB141P03.genome.CDS.764
+AB141P03.contig.1	feature	CDS	104747	105217	.	+	0	ID=AB141P03.genome.CDS.763;Product=WhiB-family transcriptional regulator;locus_tag=AB141P03.genome.CDS.763
+AB141P03.contig.1	feature	CDS	104402	104599	.	+	0	ID=AB141P03.genome.CDS.762;Product=;locus_tag=AB141P03.genome.CDS.762
+AB141P03.contig.1	feature	CDS	102739	104382	.	+	0	ID=AB141P03.genome.CDS.761;Product=ATP-dependent DNA helicase UvrD/PcrA%2C actinomycete paralog;locus_tag=AB141P03.genome.CDS.761
+AB141P03.contig.1	feature	CDS	101831	102748	.	+	0	ID=AB141P03.genome.CDS.760;Product=NADH pyrophosphatase %28EC 3.6.1.22%29;locus_tag=AB141P03.genome.CDS.760
+AB141P03.contig.1	feature	CDS	100945	101802	.	-	0	ID=AB141P03.genome.CDS.759;Product=;locus_tag=AB141P03.genome.CDS.759
+AB141P03.contig.1	feature	CDS	97700	100954	.	+	0	ID=AB141P03.genome.CDS.758;Product=ATP-dependent DNA helicase SCO5184;locus_tag=AB141P03.genome.CDS.758
+AB141P03.contig.1	feature	CDS	95274	97694	.	+	0	ID=AB141P03.genome.CDS.757;Product=ATP-dependent DNA helicase SCO5183;locus_tag=AB141P03.genome.CDS.757
+AB141P03.contig.1	feature	CDS	94631	95221	.	+	0	ID=AB141P03.genome.CDS.756;Product=;locus_tag=AB141P03.genome.CDS.756
+AB141P03.contig.1	feature	CDS	92671	94569	.	+	0	ID=AB141P03.genome.CDS.755;Product=GTP-binding protein TypA/BipA;locus_tag=AB141P03.genome.CDS.755
+AB141P03.contig.1	feature	CDS	91605	92678	.	+	0	ID=AB141P03.genome.CDS.754;Product=GTP-binding and nucleic acid-binding protein YchF;locus_tag=AB141P03.genome.CDS.754
+AB141P03.contig.1	feature	CDS	90408	91553	.	-	0	ID=AB141P03.genome.CDS.753;Product=DNA recombination protein RmuC;locus_tag=AB141P03.genome.CDS.753
+AB141P03.contig.1	feature	CDS	89991	90407	.	-	0	ID=AB141P03.genome.CDS.752;Product=;locus_tag=AB141P03.genome.CDS.752
+AB141P03.contig.1	feature	CDS	89046	90011	.	+	0	ID=AB141P03.genome.CDS.751;Product=4-hydroxy-3-methylbut-2-enyl diphosphate reductase %28EC 1.17.1.2%29;locus_tag=AB141P03.genome.CDS.751
+AB141P03.contig.1	feature	CDS	87350	89002	.	-	0	ID=AB141P03.genome.CDS.750;Product=Fumarate hydratase class I %28EC 4.2.1.2%29;locus_tag=AB141P03.genome.CDS.750
+AB141P03.contig.1	feature	CDS	86610	87335	.	+	0	ID=AB141P03.genome.CDS.81;Product=;locus_tag=AB141P03.genome.CDS.81
+AB141P03.contig.1	feature	CDS	85178	86530	.	+	0	ID=AB141P03.genome.CDS.748;Product=Predicted ATPase related to phosphate starvation-inducible protein PhoH;locus_tag=AB141P03.genome.CDS.748
+AB141P03.contig.1	feature	CDS	84751	85050	.	+	0	ID=AB141P03.genome.CDS.747;Product=;locus_tag=AB141P03.genome.CDS.747
+AB141P03.contig.1	feature	CDS	84014	84754	.	+	0	ID=AB141P03.genome.CDS.746;Product=hypothetical protein;locus_tag=AB141P03.genome.CDS.746
+AB141P03.contig.1	feature	CDS	83865	84002	.	+	0	ID=AB141P03.genome.CDS.745;Product=;locus_tag=AB141P03.genome.CDS.745
+AB141P03.contig.1	feature	CDS	83391	83801	.	-	0	ID=AB141P03.genome.CDS.744;Product=;locus_tag=AB141P03.genome.CDS.744
+AB141P03.contig.1	feature	CDS	82896	83378	.	-	0	ID=AB141P03.genome.CDS.743;Product=Transcription elongation factor GreA;locus_tag=AB141P03.genome.CDS.743
+AB141P03.contig.1	feature	CDS	82098	82895	.	+	0	ID=AB141P03.genome.CDS.742;Product=ABC-type multidrug transport system%2C permease component;locus_tag=AB141P03.genome.CDS.742
+AB141P03.contig.1	feature	CDS	81106	82101	.	+	0	ID=AB141P03.genome.CDS.741;Product=ABC-type multidrug transport system%2C ATPase component;locus_tag=AB141P03.genome.CDS.741
+AB141P03.contig.1	feature	CDS	79378	81012	.	-	0	ID=AB141P03.genome.CDS.740;Product=Multidrug resistance protein ErmB;locus_tag=AB141P03.genome.CDS.740
+AB141P03.contig.1	feature	CDS	78133	79191	.	-	0	ID=AB141P03.genome.CDS.738;Product=hypothetical protein;locus_tag=AB141P03.genome.CDS.738
+AB141P03.contig.1	feature	CDS	77330	78100	.	+	0	ID=AB141P03.genome.CDS.737;Product=hypothetical protein;locus_tag=AB141P03.genome.CDS.737
+AB141P03.contig.1	feature	tRNA	77112	77184	.	+	.	ID=AB141P03.genome.rna.8;Product=tRNA-Leu-TAA;locus_tag=AB141P03.genome.rna.8
+AB141P03.contig.1	feature	CDS	76137	77051	.	+	0	ID=AB141P03.genome.CDS.736;Product=Exopolyphosphatase %28EC 3.6.1.11%29;locus_tag=AB141P03.genome.CDS.736
+AB141P03.contig.1	feature	CDS	75579	76136	.	+	0	ID=AB141P03.genome.CDS.735;Product=FIG004853: possible toxin to DivIC;locus_tag=AB141P03.genome.CDS.735
+AB141P03.contig.1	feature	CDS	75125	75577	.	+	0	ID=AB141P03.genome.CDS.734;Product=;locus_tag=AB141P03.genome.CDS.734
+AB141P03.contig.1	feature	CDS	73842	75119	.	+	0	ID=AB141P03.genome.CDS.733;Product=Enolase %28EC 4.2.1.11%29;locus_tag=AB141P03.genome.CDS.733
+AB141P03.contig.1	feature	CDS	73149	73793	.	+	0	ID=AB141P03.genome.CDS.732;Product=Nucleoside triphosphate pyrophosphohydrolase MazG %28EC 3.6.1.8%29;locus_tag=AB141P03.genome.CDS.732
+AB141P03.contig.1	feature	CDS	72534	73139	.	+	0	ID=AB141P03.genome.CDS.731;Product=hypothetical protein;locus_tag=AB141P03.genome.CDS.731
+AB141P03.contig.1	feature	CDS	69028	72522	.	+	0	ID=AB141P03.genome.CDS.730;Product=Transcription-repair coupling factor;locus_tag=AB141P03.genome.CDS.730
+AB141P03.contig.1	feature	CDS	66217	68883	.	-	0	ID=AB141P03.genome.CDS.729;Product=Phosphoenolpyruvate carboxylase %28EC 4.1.1.31%29;locus_tag=AB141P03.genome.CDS.729
+AB141P03.contig.1	feature	CDS	63505	66183	.	-	0	ID=AB141P03.genome.CDS.728;Product=Pyruvate%2Cphosphate dikinase %28EC 2.7.9.1%29;locus_tag=AB141P03.genome.CDS.728
+AB141P03.contig.1	feature	CDS	62952	63515	.	+	0	ID=AB141P03.genome.CDS.727;Product=Peptidyl-tRNA hydrolase %28EC 3.1.1.29%29;locus_tag=AB141P03.genome.CDS.727
+AB141P03.contig.1	feature	CDS	62266	62931	.	+	0	ID=AB141P03.genome.CDS.726;Product=LSU ribosomal protein L25p;locus_tag=AB141P03.genome.CDS.726
+AB141P03.contig.1	feature	tRNA	62106	62182	.	+	.	ID=AB141P03.genome.rna.7;Product=tRNA-Arg-TCG;locus_tag=AB141P03.genome.rna.7
+AB141P03.contig.1	feature	CDS	61312	62067	.	+	0	ID=AB141P03.genome.CDS.57;Product=Ribose-phosphate pyrophosphokinase %28EC 2.7.6.1%29;locus_tag=AB141P03.genome.CDS.57
+AB141P03.contig.1	feature	CDS	59613	61034	.	+	0	ID=AB141P03.genome.CDS.724;Product=N-acetylglucosamine-1-phosphate uridyltransferase %28EC 2.7.7.23%29 / Glucosamine-1-phosphate N-acetyltransferase %28EC 2.3.1.157%29;locus_tag=AB141P03.genome.CDS.724
+AB141P03.contig.1	feature	tRNA	59518	59592	.	+	.	ID=AB141P03.genome.rna.6;Product=tRNA-Gln-TTG;locus_tag=AB141P03.genome.rna.6
+AB141P03.contig.1	feature	CDS	58568	59488	.	+	0	ID=AB141P03.genome.CDS.723;Product=4-diphosphocytidyl-2-C-methyl-D-erythritol kinase %28EC 2.7.1.148%29;locus_tag=AB141P03.genome.CDS.723
+AB141P03.contig.1	feature	CDS	57693	58550	.	+	0	ID=AB141P03.genome.CDS.722;Product=SSU rRNA %28adenine%281518%29-N%286%29/adenine%281519%29-N%286%29%29-dimethyltransferase %28EC 2.1.1.182%29;locus_tag=AB141P03.genome.CDS.722
+AB141P03.contig.1	feature	CDS	56838	57692	.	+	0	ID=AB141P03.genome.CDS.721;Product=Putative deoxyribonuclease YcfH;locus_tag=AB141P03.genome.CDS.721
+AB141P03.contig.1	feature	CDS	55278	56834	.	+	0	ID=AB141P03.genome.CDS.720;Product=Methionyl-tRNA synthetase %28EC 6.1.1.10%29;locus_tag=AB141P03.genome.CDS.720
+AB141P03.contig.1	feature	CDS	54433	55275	.	+	0	ID=AB141P03.genome.CDS.719;Product=rRNA small subunit methyltransferase I;locus_tag=AB141P03.genome.CDS.719
+AB141P03.contig.1	feature	CDS	53126	54373	.	-	0	ID=AB141P03.genome.CDS.718;Product=CONSERVED MEMBRANE PROTEIN;locus_tag=AB141P03.genome.CDS.718
+AB141P03.contig.1	feature	CDS	52403	53125	.	+	0	ID=AB141P03.genome.CDS.717;Product=hypothetical protein;locus_tag=AB141P03.genome.CDS.717
+AB141P03.contig.1	feature	CDS	51775	52335	.	+	0	ID=AB141P03.genome.CDS.716;Product=;locus_tag=AB141P03.genome.CDS.716
+AB141P03.contig.1	feature	CDS	50867	51772	.	+	0	ID=AB141P03.genome.CDS.715;Product=Molybdopterin biosynthesis protein MoeA;locus_tag=AB141P03.genome.CDS.715
+AB141P03.contig.1	feature	CDS	50280	50822	.	-	0	ID=AB141P03.genome.CDS.714;Product=5-formyltetrahydrofolate cyclo-ligase %28EC 6.3.3.2%29;locus_tag=AB141P03.genome.CDS.714
+AB141P03.contig.1	feature	CDS	49126	50283	.	+	0	ID=AB141P03.genome.CDS.713;Product=Butyryl-CoA dehydrogenase %28EC 1.3.8.1%29;locus_tag=AB141P03.genome.CDS.713
+AB141P03.contig.1	feature	CDS	47326	49110	.	+	0	ID=AB141P03.genome.CDS.712;Product=Copper resistance protein D;locus_tag=AB141P03.genome.CDS.712
+AB141P03.contig.1	feature	CDS	46707	47276	.	+	0	ID=AB141P03.genome.CDS.711;Product=hypothetical protein;locus_tag=AB141P03.genome.CDS.711
+AB141P03.contig.1	feature	CDS	46382	46648	.	-	0	ID=AB141P03.genome.CDS.710;Product=;locus_tag=AB141P03.genome.CDS.710
+AB141P03.contig.1	feature	CDS	46213	46371	.	+	0	ID=AB141P03.genome.CDS.709;Product=;locus_tag=AB141P03.genome.CDS.709
+AB141P03.contig.1	feature	CDS	44063	46162	.	-	0	ID=AB141P03.genome.CDS.708;Product=Integral membrane protein;locus_tag=AB141P03.genome.CDS.708
+AB141P03.contig.1	feature	tRNA	43983	44058	.	+	.	ID=AB141P03.genome.rna.5;Product=tRNA-Arg-CCT;locus_tag=AB141P03.genome.rna.5
+AB141P03.contig.1	feature	CDS	42610	43836	.	-	0	ID=AB141P03.genome.CDS.707;Product=Carboxynorspermidine dehydrogenase;locus_tag=AB141P03.genome.CDS.707
+AB141P03.contig.1	feature	CDS	41843	42610	.	-	0	ID=AB141P03.genome.CDS.706;Product=;locus_tag=AB141P03.genome.CDS.706
+AB141P03.contig.1	feature	CDS	41415	41837	.	+	0	ID=AB141P03.genome.CDS.705;Product=;locus_tag=AB141P03.genome.CDS.705
+AB141P03.contig.1	feature	CDS	39958	41361	.	-	0	ID=AB141P03.genome.CDS.704;Product=diguanylate cyclase/phosphodiesterase %28GGDEF %26 EAL domains%29 with PAS/PAC sensor%28s%29;locus_tag=AB141P03.genome.CDS.704
+AB141P03.contig.1	feature	CDS	38480	39913	.	-	0	ID=AB141P03.genome.CDS.703;Product=Homospermidine synthase%28 EC:2.5.1.44 %29;locus_tag=AB141P03.genome.CDS.703
+AB141P03.contig.1	feature	CDS	36956	38488	.	+	0	ID=AB141P03.genome.CDS.702;Product=Beta-carotene ketolase;locus_tag=AB141P03.genome.CDS.702
+AB141P03.contig.1	feature	CDS	35590	36954	.	+	0	ID=AB141P03.genome.CDS.33;Product=Deoxyribodipyrimidine photolyase %28EC 4.1.99.3%29;locus_tag=AB141P03.genome.CDS.33
+AB141P03.contig.1	feature	CDS	34437	35552	.	+	0	ID=AB141P03.genome.CDS.700;Product=Citrate synthase %28si%29 %28EC 2.3.3.1%29;locus_tag=AB141P03.genome.CDS.700
+AB141P03.contig.1	feature	CDS	33688	34380	.	-	0	ID=AB141P03.genome.CDS.699;Product=Pyridoxamine 5%27-phosphate oxidase %28EC 1.4.3.5%29;locus_tag=AB141P03.genome.CDS.699
+AB141P03.contig.1	feature	CDS	32557	33678	.	-	0	ID=AB141P03.genome.CDS.698;Product=Phosphoserine aminotransferase %28EC 2.6.1.52%29;locus_tag=AB141P03.genome.CDS.698
+AB141P03.contig.1	feature	CDS	32285	32461	.	-	0	ID=AB141P03.genome.CDS.697;Product=;locus_tag=AB141P03.genome.CDS.697
+AB141P03.contig.1	feature	CDS	31902	32288	.	+	0	ID=AB141P03.genome.CDS.696;Product=Cold shock protein CspC;locus_tag=AB141P03.genome.CDS.696
+AB141P03.contig.1	feature	CDS	30932	31807	.	+	0	ID=AB141P03.genome.CDS.695;Product=hypothetical protein;locus_tag=AB141P03.genome.CDS.695
+AB141P03.contig.1	feature	CDS	29222	30847	.	+	0	ID=AB141P03.genome.CDS.694;Product=Heat shock protein 60 family chaperone GroEL;locus_tag=AB141P03.genome.CDS.694
+AB141P03.contig.1	feature	CDS	28805	29077	.	+	0	ID=AB141P03.genome.CDS.693;Product=hypothetical protein;locus_tag=AB141P03.genome.CDS.693
+AB141P03.contig.1	feature	CDS	27396	28748	.	+	0	ID=AB141P03.genome.CDS.692;Product=Decarboxylase%2C pyridoxal-dependent;locus_tag=AB141P03.genome.CDS.692
+AB141P03.contig.1	feature	CDS	25913	27403	.	+	0	ID=AB141P03.genome.CDS.691;Product=Putative nucleoside-diphosphate-sugar epimerase;locus_tag=AB141P03.genome.CDS.691
+AB141P03.contig.1	feature	CDS	24668	25888	.	-	0	ID=AB141P03.genome.CDS.690;Product=NADH dehydrogenase %28EC 1.6.99.3%29;locus_tag=AB141P03.genome.CDS.690
+AB141P03.contig.1	feature	CDS	23852	24661	.	-	0	ID=AB141P03.genome.CDS.689;Product=;locus_tag=AB141P03.genome.CDS.689
+AB141P03.contig.1	feature	CDS	22190	23866	.	+	0	ID=AB141P03.genome.CDS.688;Product=putative cholesterol oxidase;locus_tag=AB141P03.genome.CDS.688
+AB141P03.contig.1	feature	CDS	20800	21735	.	+	0	ID=AB141P03.genome.CDS.687;Product=hypothetical protein;locus_tag=AB141P03.genome.CDS.687
+AB141P03.contig.1	feature	CDS	19914	20810	.	+	0	ID=AB141P03.genome.CDS.686;Product=;locus_tag=AB141P03.genome.CDS.686
+AB141P03.contig.1	feature	CDS	18465	19451	.	-	0	ID=AB141P03.genome.CDS.685;Product=hypothetical protein;locus_tag=AB141P03.genome.CDS.685
+AB141P03.contig.1	feature	CDS	16640	18442	.	-	0	ID=AB141P03.genome.CDS.684;Product=hypothetical protein;locus_tag=AB141P03.genome.CDS.684
+AB141P03.contig.1	feature	CDS	15386	16615	.	+	0	ID=AB141P03.genome.CDS.683;Product=hypothetical protein;locus_tag=AB141P03.genome.CDS.683
+AB141P03.contig.1	feature	CDS	14210	15202	.	-	0	ID=AB141P03.genome.CDS.682;Product=;locus_tag=AB141P03.genome.CDS.682
+AB141P03.contig.1	feature	CDS	12972	14159	.	+	0	ID=AB141P03.genome.CDS.681;Product=;locus_tag=AB141P03.genome.CDS.681
+AB141P03.contig.1	feature	CDS	12243	12962	.	+	0	ID=AB141P03.genome.CDS.12;Product=;locus_tag=AB141P03.genome.CDS.12
+AB141P03.contig.1	feature	CDS	11419	12246	.	+	0	ID=AB141P03.genome.CDS.679;Product=;locus_tag=AB141P03.genome.CDS.679
+AB141P03.contig.1	feature	CDS	10451	11422	.	+	0	ID=AB141P03.genome.CDS.678;Product=hypothetical protein;locus_tag=AB141P03.genome.CDS.678
+AB141P03.contig.1	feature	CDS	9386	10450	.	+	0	ID=AB141P03.genome.CDS.677;Product=N-acetylneuraminate synthase %28EC 2.5.1.56%29;locus_tag=AB141P03.genome.CDS.677
+AB141P03.contig.1	feature	CDS	8506	9399	.	+	0	ID=AB141P03.genome.CDS.676;Product=dTDP-4-dehydrorhamnose reductase %28EC 1.1.1.133%29;locus_tag=AB141P03.genome.CDS.676
+AB141P03.contig.1	feature	CDS	7536	8513	.	+	0	ID=AB141P03.genome.CDS.675;Product=UDP-N-acetylglucosamine 4%2C6-dehydratase %28EC 4.2.1.-%29;locus_tag=AB141P03.genome.CDS.675
+AB141P03.contig.1	feature	tRNA	7341	7415	.	+	.	ID=AB141P03.genome.rna.4;Product=tRNA-Thr-TGT;locus_tag=AB141P03.genome.rna.4
+AB141P03.contig.1	feature	CDS	6340	7257	.	-	0	ID=AB141P03.genome.CDS.674;Product=Exopolyphosphatase %28EC 3.6.1.11%29;locus_tag=AB141P03.genome.CDS.674
+AB141P03.contig.1	feature	CDS	5456	6343	.	+	0	ID=AB141P03.genome.CDS.673;Product=hypothetical protein;locus_tag=AB141P03.genome.CDS.673
+AB141P03.contig.1	feature	CDS	3375	5459	.	+	0	ID=AB141P03.genome.CDS.672;Product=Polyphosphate kinase %28EC 2.7.4.1%29;locus_tag=AB141P03.genome.CDS.672
+AB141P03.contig.1	feature	CDS	2538	3323	.	+	0	ID=AB141P03.genome.CDS.671;Product=;locus_tag=AB141P03.genome.CDS.671
+AB141P03.contig.1	feature	CDS	1106	2479	.	-	0	ID=AB141P03.genome.CDS.670;Product=Cysteinyl-tRNA synthetase %28EC 6.1.1.16%29;locus_tag=AB141P03.genome.CDS.670
+AB141P03.contig.1	feature	CDS	135	1106	.	-	0	ID=AB141P03.genome.CDS.669;Product=23S rRNA %28guanosine%282251%29-2%27-O%29-methyltransferase %28EC 2.1.1.185%29;locus_tag=AB141P03.genome.CDS.669
+AB141P03.contig.1	feature	CDS	2	133	.	-	0	ID=AB141P03.genome.CDS.668;Product=;locus_tag=AB141P03.genome.CDS.668
+AB141P03.contig.10	feature	CDS	20280	20465	.	-	0	ID=AB141P03.genome.CDS.1199;Product=;locus_tag=AB141P03.genome.CDS.1199
+AB141P03.contig.10	feature	CDS	20016	20195	.	-	0	ID=AB141P03.genome.CDS.1198;Product=hypothetical protein;locus_tag=AB141P03.genome.CDS.1198
+AB141P03.contig.10	feature	CDS	18495	19988	.	-	0	ID=AB141P03.genome.CDS.1197;Product=Cytosol aminopeptidase PepA %28EC 3.4.11.1%29;locus_tag=AB141P03.genome.CDS.1197
+AB141P03.contig.10	feature	CDS	17857	18498	.	-	0	ID=AB141P03.genome.CDS.524;Product=FIG00945644: hypothetical protein;locus_tag=AB141P03.genome.CDS.524
+AB141P03.contig.10	feature	CDS	16729	17856	.	-	0	ID=AB141P03.genome.CDS.1195;Product=HtrA protease/chaperone protein;locus_tag=AB141P03.genome.CDS.1195
+AB141P03.contig.10	feature	CDS	16431	16727	.	-	0	ID=AB141P03.genome.CDS.1194;Product=Twin-arginine translocation protein TatB;locus_tag=AB141P03.genome.CDS.1194
+AB141P03.contig.10	feature	CDS	15319	16434	.	-	0	ID=AB141P03.genome.CDS.1193;Product=Mrp protein homolog;locus_tag=AB141P03.genome.CDS.1193
+AB141P03.contig.10	feature	CDS	14828	15322	.	+	0	ID=AB141P03.genome.CDS.1192;Product=PROBABLE MEMBRANE PROTEIN;locus_tag=AB141P03.genome.CDS.1192
+AB141P03.contig.10	feature	CDS	13551	14825	.	+	0	ID=AB141P03.genome.CDS.1191;Product=Mg/Co/Ni transporter MgtE%2C CBS domain-containing;locus_tag=AB141P03.genome.CDS.1191
+AB141P03.contig.10	feature	CDS	12589	13485	.	-	0	ID=AB141P03.genome.CDS.1190;Product=;locus_tag=AB141P03.genome.CDS.1190
+AB141P03.contig.10	feature	CDS	11743	12588	.	-	0	ID=AB141P03.genome.CDS.1189;Product=FIG00031715: Predicted metal-dependent phosphoesterases %28PHP family%29;locus_tag=AB141P03.genome.CDS.1189
+AB141P03.contig.10	feature	CDS	10754	11704	.	-	0	ID=AB141P03.genome.CDS.1188;Product=;locus_tag=AB141P03.genome.CDS.1188
+AB141P03.contig.10	feature	CDS	9993	10757	.	+	0	ID=AB141P03.genome.CDS.1187;Product=;locus_tag=AB141P03.genome.CDS.1187
+AB141P03.contig.10	feature	CDS	8312	9823	.	-	0	ID=AB141P03.genome.CDS.1186;Product=Ribose ABC transport system%2C ATP-binding protein RbsA %28TC 3.A.1.2.1%29;locus_tag=AB141P03.genome.CDS.1186
+AB141P03.contig.10	feature	CDS	7326	8315	.	-	0	ID=AB141P03.genome.CDS.1185;Product=;locus_tag=AB141P03.genome.CDS.1185
+AB141P03.contig.10	feature	CDS	6367	7329	.	-	0	ID=AB141P03.genome.CDS.1184;Product=Ribose ABC transport system%2C permease protein RbsC %28TC 3.A.1.2.1%29;locus_tag=AB141P03.genome.CDS.1184
+AB141P03.contig.10	feature	CDS	5206	6180	.	-	0	ID=AB141P03.genome.CDS.1183;Product=hypothetical protein;locus_tag=AB141P03.genome.CDS.1183
+AB141P03.contig.10	feature	CDS	3906	5093	.	-	0	ID=AB141P03.genome.CDS.1182;Product=;locus_tag=AB141P03.genome.CDS.1182
+AB141P03.contig.10	feature	CDS	2952	3878	.	-	0	ID=AB141P03.genome.CDS.1181;Product=hypothetical protein;locus_tag=AB141P03.genome.CDS.1181
+AB141P03.contig.10	feature	CDS	2682	2945	.	+	0	ID=AB141P03.genome.CDS.1180;Product=;locus_tag=AB141P03.genome.CDS.1180
+AB141P03.contig.10	feature	CDS	2036	2644	.	+	0	ID=AB141P03.genome.CDS.1179;Product=Transcriptional regulator%2C TetR family;locus_tag=AB141P03.genome.CDS.1179
+AB141P03.contig.10	feature	CDS	1102	1974	.	-	0	ID=AB141P03.genome.CDS.1178;Product=1D-myo-inositol 2-acetamido-2-deoxy-alpha-D-glucopyranoside deacetylase %28EC 3.5.1.103%29;locus_tag=AB141P03.genome.CDS.1178
+AB141P03.contig.10	feature	CDS	782	1105	.	-	0	ID=AB141P03.genome.CDS.1177;Product=;locus_tag=AB141P03.genome.CDS.1177
+AB141P03.contig.10	feature	CDS	3	785	.	+	0	ID=AB141P03.genome.CDS.1176;Product=Cysteinyl-tRNA synthetase %28EC 6.1.1.16%29;locus_tag=AB141P03.genome.CDS.1176
+AB141P03.contig.11	feature	CDS	17859	18656	.	+	0	ID=AB141P03.genome.CDS.1216;Product=Shikimate 5-dehydrogenase I alpha %28EC 1.1.1.25%29;locus_tag=AB141P03.genome.CDS.1216
+AB141P03.contig.11	feature	CDS	16867	17862	.	+	0	ID=AB141P03.genome.CDS.1215;Product=FIG004453: protein YceG like;locus_tag=AB141P03.genome.CDS.1215
+AB141P03.contig.11	feature	CDS	16418	16870	.	+	0	ID=AB141P03.genome.CDS.1214;Product=Putative Holliday junction resolvase YqgF;locus_tag=AB141P03.genome.CDS.1214
+AB141P03.contig.11	feature	CDS	13722	16406	.	+	0	ID=AB141P03.genome.CDS.1213;Product=Alanyl-tRNA synthetase %28EC 6.1.1.7%29;locus_tag=AB141P03.genome.CDS.1213
+AB141P03.contig.11	feature	CDS	13408	13719	.	+	0	ID=AB141P03.genome.CDS.1212;Product=;locus_tag=AB141P03.genome.CDS.1212
+AB141P03.contig.11	feature	CDS	11627	13378	.	+	0	ID=AB141P03.genome.CDS.1211;Product=Aspartyl-tRNA synthetase %28EC 6.1.1.12%29 %40 Aspartyl-tRNA%28Asn%29 synthetase %28EC 6.1.1.23%29;locus_tag=AB141P03.genome.CDS.1211
+AB141P03.contig.11	feature	CDS	10332	11627	.	+	0	ID=AB141P03.genome.CDS.1210;Product=Histidyl-tRNA synthetase %28EC 6.1.1.21%29;locus_tag=AB141P03.genome.CDS.1210
+AB141P03.contig.11	feature	CDS	9668	10360	.	+	0	ID=AB141P03.genome.CDS.1209;Product=Hydroxyacylglutathione hydrolase %28EC 3.1.2.6%29;locus_tag=AB141P03.genome.CDS.1209
+AB141P03.contig.11	feature	CDS	8183	9490	.	-	0	ID=AB141P03.genome.CDS.1208;Product=ATPase involved in DNA repair;locus_tag=AB141P03.genome.CDS.1208
+AB141P03.contig.11	feature	CDS	6018	8186	.	+	0	ID=AB141P03.genome.CDS.1207;Product=GTP pyrophosphokinase %28EC 2.7.6.5%29%2C %28p%29ppGpp synthetase I;locus_tag=AB141P03.genome.CDS.1207
+AB141P03.contig.11	feature	CDS	4943	5986	.	+	0	ID=AB141P03.genome.CDS.1206;Product=Protein-export membrane protein SecF %28TC 3.A.5.1.1%29;locus_tag=AB141P03.genome.CDS.1206
+AB141P03.contig.11	feature	CDS	3408	4943	.	+	0	ID=AB141P03.genome.CDS.1205;Product=Protein-export membrane protein SecD %28TC 3.A.5.1.1%29;locus_tag=AB141P03.genome.CDS.1205
+AB141P03.contig.11	feature	CDS	2274	3329	.	+	0	ID=AB141P03.genome.CDS.1204;Product=Holliday junction DNA helicase RuvB;locus_tag=AB141P03.genome.CDS.1204
+AB141P03.contig.11	feature	CDS	1687	2274	.	+	0	ID=AB141P03.genome.CDS.1203;Product=Holliday junction DNA helicase RuvA;locus_tag=AB141P03.genome.CDS.1203
+AB141P03.contig.11	feature	CDS	1169	1690	.	+	0	ID=AB141P03.genome.CDS.1202;Product=Crossover junction endodeoxyribonuclease RuvC %28EC 3.1.22.4%29;locus_tag=AB141P03.genome.CDS.1202
+AB141P03.contig.11	feature	CDS	383	1141	.	+	0	ID=AB141P03.genome.CDS.1201;Product=FIG000859: hypothetical protein YebC;locus_tag=AB141P03.genome.CDS.1201
+AB141P03.contig.11	feature	CDS	3	371	.	+	0	ID=AB141P03.genome.CDS.1200;Product=Pyridoxine biosynthesis glutamine amidotransferase%2C glutaminase subunit %28EC 2.4.2.-%29;locus_tag=AB141P03.genome.CDS.1200
+AB141P03.contig.12	feature	CDS	11392	11616	.	-	0	ID=AB141P03.genome.CDS.1230;Product=tRNA%28Ile%29-lysidine synthetase %28EC 6.3.4.19%29;locus_tag=AB141P03.genome.CDS.1230
+AB141P03.contig.12	feature	CDS	10830	11381	.	-	0	ID=AB141P03.genome.CDS.1229;Product=Hypoxanthine-guanine phosphoribosyltransferase %28EC 2.4.2.8%29;locus_tag=AB141P03.genome.CDS.1229
+AB141P03.contig.12	feature	CDS	8723	10792	.	-	0	ID=AB141P03.genome.CDS.1228;Product=Cell division protein FtsH %28EC 3.4.24.-%29;locus_tag=AB141P03.genome.CDS.1228
+AB141P03.contig.12	feature	CDS	8110	8706	.	-	0	ID=AB141P03.genome.CDS.554;Product=GTP cyclohydrolase I %28EC 3.5.4.16%29 type 1;locus_tag=AB141P03.genome.CDS.554
+AB141P03.contig.12	feature	CDS	7307	8104	.	-	0	ID=AB141P03.genome.CDS.1226;Product=Dihydropteroate synthase %28EC 2.5.1.15%29;locus_tag=AB141P03.genome.CDS.1226
+AB141P03.contig.12	feature	CDS	6954	7310	.	-	0	ID=AB141P03.genome.CDS.1225;Product=Dihydroneopterin aldolase %28EC 4.1.2.25%29;locus_tag=AB141P03.genome.CDS.1225
+AB141P03.contig.12	feature	CDS	6502	6957	.	-	0	ID=AB141P03.genome.CDS.1224;Product=Dihydroneopterin aldolase %28EC 4.1.2.25%29 / 2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase %28EC 2.7.6.3%29;locus_tag=AB141P03.genome.CDS.1224
+AB141P03.contig.12	feature	CDS	5674	6462	.	-	0	ID=AB141P03.genome.CDS.1223;Product=Pantoate--beta-alanine ligase %28EC 6.3.2.1%29;locus_tag=AB141P03.genome.CDS.1223
+AB141P03.contig.12	feature	CDS	4076	5677	.	-	0	ID=AB141P03.genome.CDS.1222;Product=L-aspartate oxidase %28EC 1.4.3.16%29;locus_tag=AB141P03.genome.CDS.1222
+AB141P03.contig.12	feature	CDS	3203	4075	.	-	0	ID=AB141P03.genome.CDS.1221;Product=Quinolinate phosphoribosyltransferase %5Bdecarboxylating%5D %28EC 2.4.2.19%29;locus_tag=AB141P03.genome.CDS.1221
+AB141P03.contig.12	feature	CDS	2430	3203	.	-	0	ID=AB141P03.genome.CDS.1220;Product=Pantothenate kinase type III%2C CoaX-like %28EC 2.7.1.33%29;locus_tag=AB141P03.genome.CDS.1220
+AB141P03.contig.12	feature	CDS	894	2390	.	-	0	ID=AB141P03.genome.CDS.1219;Product=Lysyl-tRNA synthetase %28class II%29 %28EC 6.1.1.6%29;locus_tag=AB141P03.genome.CDS.1219
+AB141P03.contig.12	feature	CDS	397	894	.	-	0	ID=AB141P03.genome.CDS.1218;Product=Acetyltransferase%2C GNAT family;locus_tag=AB141P03.genome.CDS.1218
+AB141P03.contig.12	feature	CDS	1	252	.	-	0	ID=AB141P03.genome.CDS.1217;Product=ATP-dependent Clp protease%2C ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB;locus_tag=AB141P03.genome.CDS.1217
+AB141P03.contig.13	feature	CDS	11274	11384	.	+	0	ID=AB141P03.genome.CDS.1242;Product=Homoserine O-acetyltransferase %28EC 2.3.1.31%29;locus_tag=AB141P03.genome.CDS.1242
+AB141P03.contig.13	feature	CDS	9966	11270	.	+	0	ID=AB141P03.genome.CDS.1241;Product=O-acetylhomoserine sulfhydrylase %28EC 2.5.1.49%29 / O-succinylhomoserine sulfhydrylase %28EC 2.5.1.48%29;locus_tag=AB141P03.genome.CDS.1241
+AB141P03.contig.13	feature	CDS	8695	9777	.	+	0	ID=AB141P03.genome.CDS.1240;Product=Alanine dehydrogenase %28EC 1.4.1.1%29;locus_tag=AB141P03.genome.CDS.1240
+AB141P03.contig.13	feature	CDS	8142	8657	.	+	0	ID=AB141P03.genome.CDS.1239;Product=hypothetical protein;locus_tag=AB141P03.genome.CDS.1239
+AB141P03.contig.13	feature	CDS	7339	8079	.	+	0	ID=AB141P03.genome.CDS.1238;Product=hypothetical protein;locus_tag=AB141P03.genome.CDS.1238
+AB141P03.contig.13	feature	CDS	6842	7363	.	+	0	ID=AB141P03.genome.CDS.1237;Product=;locus_tag=AB141P03.genome.CDS.1237
+AB141P03.contig.13	feature	CDS	6304	6756	.	-	0	ID=AB141P03.genome.CDS.1236;Product=Possible mutator protein MutT3 %287%2C8-dihydro-8-oxoguanine-triphosphatase%29;locus_tag=AB141P03.genome.CDS.1236
+AB141P03.contig.13	feature	CDS	4283	6307	.	+	0	ID=AB141P03.genome.CDS.1235;Product=DinG family ATP-dependent helicase YoaA;locus_tag=AB141P03.genome.CDS.1235
+AB141P03.contig.13	feature	CDS	1402	4209	.	+	0	ID=AB141P03.genome.CDS.1234;Product=Ribonucleotide reductase of class II %28coenzyme B12-dependent%29 %28EC 1.17.4.1%29;locus_tag=AB141P03.genome.CDS.1234
+AB141P03.contig.13	feature	CDS	761	1258	.	+	0	ID=AB141P03.genome.CDS.1233;Product=Ribonucleotide reductase transcriptional regulator NrdR;locus_tag=AB141P03.genome.CDS.1233
+AB141P03.contig.13	feature	CDS	253	552	.	+	0	ID=AB141P03.genome.CDS.1232;Product=;locus_tag=AB141P03.genome.CDS.1232
+AB141P03.contig.13	feature	CDS	3	113	.	-	0	ID=AB141P03.genome.CDS.1231;Product=SOS-response repressor and protease LexA %28EC 3.4.21.88%29;locus_tag=AB141P03.genome.CDS.1231
+AB141P03.contig.14	feature	CDS	7119	8438	.	+	0	ID=AB141P03.genome.CDS.1247;Product=hypothetical protein;locus_tag=AB141P03.genome.CDS.1247
+AB141P03.contig.14	feature	CDS	6845	7021	.	-	0	ID=AB141P03.genome.CDS.572;Product=;locus_tag=AB141P03.genome.CDS.572
+AB141P03.contig.14	feature	CDS	5769	6827	.	-	0	ID=AB141P03.genome.CDS.1246;Product=Lon-like protease with PDZ domain;locus_tag=AB141P03.genome.CDS.1246
+AB141P03.contig.14	feature	CDS	2828	5749	.	-	0	ID=AB141P03.genome.CDS.1245;Product=UPF0182 protein AF1421;locus_tag=AB141P03.genome.CDS.1245
+AB141P03.contig.14	feature	tRNA	2698	2774	.	-	.	ID=AB141P03.genome.rna.18;Product=tRNA-Met-CAT;locus_tag=AB141P03.genome.rna.18
+AB141P03.contig.14	feature	CDS	387	2693	.	+	0	ID=AB141P03.genome.CDS.1244;Product=Lead%2C cadmium%2C zinc and mercury transporting ATPase %28EC 3.6.3.3%29 %28EC 3.6.3.5%29%3B Copper-translocating P-type ATPase %28EC 3.6.3.4%29;locus_tag=AB141P03.genome.CDS.1244
+AB141P03.contig.14	feature	CDS	1	360	.	+	0	ID=AB141P03.genome.CDS.1243;Product=Ribosome small subunit-stimulated GTPase EngC;locus_tag=AB141P03.genome.CDS.1243
+AB141P03.contig.15	feature	CDS	5930	7738	.	+	0	ID=AB141P03.genome.CDS.1253;Product=hypothetical protein;locus_tag=AB141P03.genome.CDS.1253
+AB141P03.contig.15	feature	CDS	3965	5860	.	-	0	ID=AB141P03.genome.CDS.1252;Product=hypothetical protein;locus_tag=AB141P03.genome.CDS.1252
+AB141P03.contig.15	feature	CDS	2585	3925	.	-	0	ID=AB141P03.genome.CDS.1251;Product=CDP-4-dehydro-6-deoxy-D-glucose 3-dehydratase %28EC 4.2.1.-%29;locus_tag=AB141P03.genome.CDS.1251
+AB141P03.contig.15	feature	CDS	1562	2530	.	-	0	ID=AB141P03.genome.CDS.1250;Product=Similar to CDP-glucose 4%2C6-dehydratase %28EC 4.2.1.45%29;locus_tag=AB141P03.genome.CDS.1250
+AB141P03.contig.15	feature	CDS	652	1569	.	+	0	ID=AB141P03.genome.CDS.1249;Product=;locus_tag=AB141P03.genome.CDS.1249
+AB141P03.contig.15	feature	CDS	1	651	.	+	0	ID=AB141P03.genome.CDS.1248;Product=unknown protein;locus_tag=AB141P03.genome.CDS.1248
+AB141P03.contig.16	feature	CDS	5482	5880	.	-	0	ID=AB141P03.genome.CDS.1260;Product=;locus_tag=AB141P03.genome.CDS.1260
+AB141P03.contig.16	feature	CDS	4154	5485	.	-	0	ID=AB141P03.genome.CDS.1259;Product=hypothetical protein;locus_tag=AB141P03.genome.CDS.1259
+AB141P03.contig.16	feature	CDS	3764	4114	.	-	0	ID=AB141P03.genome.CDS.1258;Product=hypothetical protein;locus_tag=AB141P03.genome.CDS.1258
+AB141P03.contig.16	feature	CDS	2376	3722	.	-	0	ID=AB141P03.genome.CDS.1257;Product=Phosphomannomutase %28EC 5.4.2.8%29;locus_tag=AB141P03.genome.CDS.1257
+AB141P03.contig.16	feature	CDS	1009	2286	.	-	0	ID=AB141P03.genome.CDS.1256;Product=Adenosylhomocysteinase %28EC 3.3.1.1%29;locus_tag=AB141P03.genome.CDS.1256
+AB141P03.contig.16	feature	CDS	334	1008	.	-	0	ID=AB141P03.genome.CDS.1255;Product=;locus_tag=AB141P03.genome.CDS.1255
+AB141P03.contig.16	feature	CDS	11	331	.	-	0	ID=AB141P03.genome.CDS.1254;Product=hypothetical protein;locus_tag=AB141P03.genome.CDS.1254
+AB141P03.contig.17	feature	CDS	5464	5823	.	-	0	ID=AB141P03.genome.CDS.1266;Product=COG0488: ATPase components of ABC transporters with duplicated ATPase domains;locus_tag=AB141P03.genome.CDS.1266
+AB141P03.contig.17	feature	CDS	3347	5467	.	+	0	ID=AB141P03.genome.CDS.1265;Product=Topoisomerase IV subunit B %28EC 5.99.1.-%29;locus_tag=AB141P03.genome.CDS.1265
+AB141P03.contig.17	feature	CDS	2948	3166	.	-	0	ID=AB141P03.genome.CDS.1264;Product=hypothetical protein;locus_tag=AB141P03.genome.CDS.1264
+AB141P03.contig.17	feature	CDS	2756	2947	.	+	0	ID=AB141P03.genome.CDS.1263;Product=;locus_tag=AB141P03.genome.CDS.1263
+AB141P03.contig.17	feature	CDS	1146	2741	.	+	0	ID=AB141P03.genome.CDS.1262;Product=RNA polymerase sigma factor RpoD;locus_tag=AB141P03.genome.CDS.1262
+AB141P03.contig.17	feature	CDS	3	1037	.	+	0	ID=AB141P03.genome.CDS.1261;Product=Homoserine O-acetyltransferase %28EC 2.3.1.31%29;locus_tag=AB141P03.genome.CDS.1261
+AB141P03.contig.18	feature	CDS	4845	5762	.	+	0	ID=AB141P03.genome.CDS.1273;Product=DNA recombination and repair protein RecF;locus_tag=AB141P03.genome.CDS.1273
+AB141P03.contig.18	feature	CDS	3698	4825	.	+	0	ID=AB141P03.genome.CDS.1272;Product=DNA polymerase III beta subunit %28EC 2.7.7.7%29;locus_tag=AB141P03.genome.CDS.1272
+AB141P03.contig.18	feature	CDS	1974	3380	.	+	0	ID=AB141P03.genome.CDS.1271;Product=Chromosomal replication initiator protein DnaA;locus_tag=AB141P03.genome.CDS.1271
+AB141P03.contig.18	feature	CDS	1545	1679	.	-	0	ID=AB141P03.genome.CDS.1270;Product=LSU ribosomal protein L34p;locus_tag=AB141P03.genome.CDS.1270
+AB141P03.contig.18	feature	CDS	1178	1528	.	-	0	ID=AB141P03.genome.CDS.1269;Product=;locus_tag=AB141P03.genome.CDS.1269
+AB141P03.contig.18	feature	CDS	936	1181	.	-	0	ID=AB141P03.genome.CDS.1268;Product=Protein YidD;locus_tag=AB141P03.genome.CDS.1268
+AB141P03.contig.18	feature	CDS	34	936	.	-	0	ID=AB141P03.genome.CDS.1267;Product=Inner membrane protein translocase component YidC%2C long form;locus_tag=AB141P03.genome.CDS.1267
+AB141P03.contig.19	feature	CDS	4524	4967	.	-	0	ID=AB141P03.genome.CDS.1280;Product=SOS-response repressor and protease LexA %28EC 3.4.21.88%29;locus_tag=AB141P03.genome.CDS.1280
+AB141P03.contig.19	feature	CDS	4213	4527	.	+	0	ID=AB141P03.genome.CDS.1279;Product=;locus_tag=AB141P03.genome.CDS.1279
+AB141P03.contig.19	feature	CDS	3022	4200	.	+	0	ID=AB141P03.genome.CDS.1278;Product=mandelate racemase/muconate lactonizing enzyme family protein;locus_tag=AB141P03.genome.CDS.1278
+AB141P03.contig.19	feature	CDS	2168	2941	.	-	0	ID=AB141P03.genome.CDS.1277;Product=Glutamine amidotransferase class-I %28EC 6.3.5.2%29;locus_tag=AB141P03.genome.CDS.1277
+AB141P03.contig.19	feature	CDS	1335	2171	.	-	0	ID=AB141P03.genome.CDS.1276;Product=;locus_tag=AB141P03.genome.CDS.1276
+AB141P03.contig.19	feature	CDS	536	1309	.	+	0	ID=AB141P03.genome.CDS.1275;Product=Short-chain dehydrogenase/reductase in hypothetical Actinobacterial gene cluster;locus_tag=AB141P03.genome.CDS.1275
+AB141P03.contig.19	feature	CDS	1	486	.	+	0	ID=AB141P03.genome.CDS.1274;Product=Aldehyde dehydrogenase in hypothetical Actinobacterial gene cluster;locus_tag=AB141P03.genome.CDS.1274
+AB141P03.contig.2	feature	misc_RNA	1	32354	.	+	.	ID=AB141P03.genome.repeat.1;Product=repeat region;locus_tag=AB141P03.genome.repeat.1
+AB141P03.contig.2	feature	misc_RNA	47014	79367	.	+	.	ID=AB141P03.genome.repeat.2;Product=repeat region;locus_tag=AB141P03.genome.repeat.2
+AB141P03.contig.2	feature	CDS	78108	79367	.	-	0	ID=AB141P03.genome.CDS.856;Product=Signal transduction histidine kinase%2C subgroup 2;locus_tag=AB141P03.genome.CDS.856
+AB141P03.contig.2	feature	CDS	77842	78111	.	+	0	ID=AB141P03.genome.CDS.855;Product=WhiB-like transcription regulator;locus_tag=AB141P03.genome.CDS.855
+AB141P03.contig.2	feature	CDS	77014	77538	.	-	0	ID=AB141P03.genome.CDS.854;Product=Peptide methionine sulfoxide reductase MsrA %28EC 1.8.4.11%29;locus_tag=AB141P03.genome.CDS.854
+AB141P03.contig.2	feature	CDS	76566	77012	.	-	0	ID=AB141P03.genome.CDS.853;Product=Peptide methionine sulfoxide reductase MsrB %28EC 1.8.4.12%29;locus_tag=AB141P03.genome.CDS.853
+AB141P03.contig.2	feature	CDS	75377	76510	.	-	0	ID=AB141P03.genome.CDS.852;Product=Cystathionine gamma-synthase %28EC 2.5.1.48%29;locus_tag=AB141P03.genome.CDS.852
+AB141P03.contig.2	feature	CDS	74892	75377	.	-	0	ID=AB141P03.genome.CDS.851;Product=;locus_tag=AB141P03.genome.CDS.851
+AB141P03.contig.2	feature	CDS	74706	74855	.	-	0	ID=AB141P03.genome.CDS.850;Product=;locus_tag=AB141P03.genome.CDS.850
+AB141P03.contig.2	feature	CDS	74325	74705	.	-	0	ID=AB141P03.genome.CDS.849;Product=;locus_tag=AB141P03.genome.CDS.849
+AB141P03.contig.2	feature	CDS	73551	74330	.	+	0	ID=AB141P03.genome.CDS.180;Product=;locus_tag=AB141P03.genome.CDS.180
+AB141P03.contig.2	feature	CDS	72665	73537	.	+	0	ID=AB141P03.genome.CDS.847;Product=hypothetical protein;locus_tag=AB141P03.genome.CDS.847
+AB141P03.contig.2	feature	CDS	71760	72659	.	+	0	ID=AB141P03.genome.CDS.846;Product=Integral membrane protein TerC;locus_tag=AB141P03.genome.CDS.846
+AB141P03.contig.2	feature	CDS	70371	71759	.	+	0	ID=AB141P03.genome.CDS.845;Product=D-Lactate dehydrogenase%2C cytochrome c-dependent %28EC 1.1.2.4%29;locus_tag=AB141P03.genome.CDS.845
+AB141P03.contig.2	feature	CDS	68752	70164	.	-	0	ID=AB141P03.genome.CDS.844;Product=Glutamate-1-semialdehyde aminotransferase %28EC 5.4.3.8%29;locus_tag=AB141P03.genome.CDS.844
+AB141P03.contig.2	feature	CDS	67266	68750	.	+	0	ID=AB141P03.genome.CDS.843;Product=Methylmalonate-semialdehyde dehydrogenase %5Binositol%5D %28EC 1.2.1.27%29;locus_tag=AB141P03.genome.CDS.843
+AB141P03.contig.2	feature	CDS	65817	67154	.	-	0	ID=AB141P03.genome.CDS.842;Product=PLP-dependent aminotransferase NCgl2355 %28class III%29;locus_tag=AB141P03.genome.CDS.842
+AB141P03.contig.2	feature	CDS	64885	65808	.	-	0	ID=AB141P03.genome.CDS.841;Product=Ribokinase %28EC 2.7.1.15%29;locus_tag=AB141P03.genome.CDS.841
+AB141P03.contig.2	feature	CDS	64496	64885	.	-	0	ID=AB141P03.genome.CDS.840;Product=;locus_tag=AB141P03.genome.CDS.840
+AB141P03.contig.2	feature	CDS	63506	64489	.	-	0	ID=AB141P03.genome.CDS.839;Product=Myo-inositol 2-dehydrogenase %28EC 1.1.1.18%29;locus_tag=AB141P03.genome.CDS.839
+AB141P03.contig.2	feature	CDS	62304	63347	.	-	0	ID=AB141P03.genome.CDS.838;Product=hypothetical protein;locus_tag=AB141P03.genome.CDS.838
+AB141P03.contig.2	feature	CDS	61275	62285	.	-	0	ID=AB141P03.genome.CDS.837;Product=Ribose ABC transport system%2C permease protein RbsC %28TC 3.A.1.2.1%29;locus_tag=AB141P03.genome.CDS.837
+AB141P03.contig.2	feature	CDS	60520	61278	.	-	0	ID=AB141P03.genome.CDS.836;Product=;locus_tag=AB141P03.genome.CDS.836
+AB141P03.contig.2	feature	CDS	59641	60516	.	-	0	ID=AB141P03.genome.CDS.835;Product=D-tagatose 3-epimerase %28EC 5.3.1.-%29;locus_tag=AB141P03.genome.CDS.835
+AB141P03.contig.2	feature	CDS	58999	59631	.	-	0	ID=AB141P03.genome.CDS.834;Product=Uridine kinase family protein YggC homolog;locus_tag=AB141P03.genome.CDS.834
+AB141P03.contig.2	feature	CDS	58689	58883	.	-	0	ID=AB141P03.genome.CDS.833;Product=;locus_tag=AB141P03.genome.CDS.833
+AB141P03.contig.2	feature	CDS	58364	58585	.	-	0	ID=AB141P03.genome.CDS.164;Product=;locus_tag=AB141P03.genome.CDS.164
+AB141P03.contig.2	feature	CDS	57979	58377	.	-	0	ID=AB141P03.genome.CDS.831;Product=;locus_tag=AB141P03.genome.CDS.831
+AB141P03.contig.2	feature	CDS	57518	57988	.	-	0	ID=AB141P03.genome.CDS.830;Product=;locus_tag=AB141P03.genome.CDS.830
+AB141P03.contig.2	feature	CDS	56397	57503	.	-	0	ID=AB141P03.genome.CDS.829;Product=Peptide chain release factor 2;locus_tag=AB141P03.genome.CDS.829
+AB141P03.contig.2	feature	CDS	55581	56270	.	-	0	ID=AB141P03.genome.CDS.828;Product=Cell division transporter%2C ATP-binding protein FtsE %28TC 3.A.5.1.1%29;locus_tag=AB141P03.genome.CDS.828
+AB141P03.contig.2	feature	CDS	54649	55551	.	-	0	ID=AB141P03.genome.CDS.827;Product=Cell division protein FtsX;locus_tag=AB141P03.genome.CDS.827
+AB141P03.contig.2	feature	CDS	54089	54613	.	-	0	ID=AB141P03.genome.CDS.826;Product=tmRNA-binding protein SmpB;locus_tag=AB141P03.genome.CDS.826
+AB141P03.contig.2	feature	CDS	53357	53632	.	+	0	ID=AB141P03.genome.CDS.825;Product=;locus_tag=AB141P03.genome.CDS.825
+AB141P03.contig.2	feature	CDS	50628	53348	.	+	0	ID=AB141P03.genome.CDS.824;Product=Pyruvate dehydrogenase E1 component %28EC 1.2.4.1%29;locus_tag=AB141P03.genome.CDS.824
+AB141P03.contig.2	feature	CDS	50068	50505	.	-	0	ID=AB141P03.genome.CDS.823;Product=FIG00819990: hypothetical protein;locus_tag=AB141P03.genome.CDS.823
+AB141P03.contig.2	feature	CDS	49567	50025	.	-	0	ID=AB141P03.genome.CDS.822;Product=Alkyl hydroperoxide reductase subunit C-like protein;locus_tag=AB141P03.genome.CDS.822
+AB141P03.contig.2	feature	tRNA	49442	49513	.	-	.	ID=AB141P03.genome.rna.10;Product=tRNA-Val-TAC;locus_tag=AB141P03.genome.rna.10
+AB141P03.contig.2	feature	CDS	48742	49404	.	+	0	ID=AB141P03.genome.CDS.821;Product=;locus_tag=AB141P03.genome.CDS.821
+AB141P03.contig.2	feature	CDS	47409	48506	.	+	0	ID=AB141P03.genome.CDS.820;Product=;locus_tag=AB141P03.genome.CDS.820
+AB141P03.contig.2	feature	CDS	46890	47204	.	+	0	ID=AB141P03.genome.CDS.819;Product=;locus_tag=AB141P03.genome.CDS.819
+AB141P03.contig.2	feature	CDS	46327	46887	.	+	0	ID=AB141P03.genome.CDS.818;Product=;locus_tag=AB141P03.genome.CDS.818
+AB141P03.contig.2	feature	CDS	46085	46324	.	+	0	ID=AB141P03.genome.CDS.817;Product=transcriptional regulator%2C PbsX family;locus_tag=AB141P03.genome.CDS.817
+AB141P03.contig.2	feature	CDS	45724	45984	.	+	0	ID=AB141P03.genome.CDS.816;Product=;locus_tag=AB141P03.genome.CDS.816
+AB141P03.contig.2	feature	CDS	45086	45493	.	+	0	ID=AB141P03.genome.CDS.815;Product=hypothetical protein;locus_tag=AB141P03.genome.CDS.815
+AB141P03.contig.2	feature	CDS	44355	44777	.	+	0	ID=AB141P03.genome.CDS.814;Product=;locus_tag=AB141P03.genome.CDS.814
+AB141P03.contig.2	feature	CDS	43423	44358	.	+	0	ID=AB141P03.genome.CDS.813;Product=Nucleoside-diphosphate-sugar epimerases;locus_tag=AB141P03.genome.CDS.813
+AB141P03.contig.2	feature	CDS	42754	43377	.	-	0	ID=AB141P03.genome.CDS.812;Product=;locus_tag=AB141P03.genome.CDS.812
+AB141P03.contig.2	feature	CDS	41319	42218	.	-	0	ID=AB141P03.genome.CDS.811;Product=Formiminoglutamase %28EC 3.5.3.8%29;locus_tag=AB141P03.genome.CDS.811
+AB141P03.contig.2	feature	CDS	39772	41322	.	+	0	ID=AB141P03.genome.CDS.810;Product=Histidine ammonia-lyase %28EC 4.3.1.3%29;locus_tag=AB141P03.genome.CDS.810
+AB141P03.contig.2	feature	CDS	38622	39788	.	+	0	ID=AB141P03.genome.CDS.809;Product=Imidazolonepropionase %28EC 3.5.2.7%29;locus_tag=AB141P03.genome.CDS.809
+AB141P03.contig.2	feature	CDS	36942	38606	.	+	0	ID=AB141P03.genome.CDS.808;Product=Urocanate hydratase %28EC 4.2.1.49%29;locus_tag=AB141P03.genome.CDS.808
+AB141P03.contig.2	feature	CDS	36517	36921	.	+	0	ID=AB141P03.genome.CDS.807;Product=FIG006762: Phosphoglycerate mutase family;locus_tag=AB141P03.genome.CDS.807
+AB141P03.contig.2	feature	CDS	35791	36516	.	+	0	ID=AB141P03.genome.CDS.806;Product=FIG137478: Hypothetical protein;locus_tag=AB141P03.genome.CDS.806
+AB141P03.contig.2	feature	CDS	34257	35303	.	-	0	ID=AB141P03.genome.CDS.805;Product=hypothetical protein;locus_tag=AB141P03.genome.CDS.805
+AB141P03.contig.2	feature	CDS	33396	34154	.	-	0	ID=AB141P03.genome.CDS.804;Product=D-xylose transport ATP-binding protein XylG;locus_tag=AB141P03.genome.CDS.804
+AB141P03.contig.2	feature	CDS	32164	33399	.	-	0	ID=AB141P03.genome.CDS.803;Product=Ribose ABC transport system%2C permease protein RbsC %28TC 3.A.1.2.1%29;locus_tag=AB141P03.genome.CDS.803
+AB141P03.contig.2	feature	CDS	30862	31959	.	-	0	ID=AB141P03.genome.CDS.802;Product=;locus_tag=AB141P03.genome.CDS.802
+AB141P03.contig.2	feature	CDS	29964	30626	.	-	0	ID=AB141P03.genome.CDS.801;Product=;locus_tag=AB141P03.genome.CDS.801
+AB141P03.contig.2	feature	tRNA	29855	29926	.	+	.	ID=AB141P03.genome.rna.9;Product=tRNA-Val-TAC;locus_tag=AB141P03.genome.rna.9
+AB141P03.contig.2	feature	CDS	29343	29801	.	+	0	ID=AB141P03.genome.CDS.800;Product=Alkyl hydroperoxide reductase subunit C-like protein;locus_tag=AB141P03.genome.CDS.800
+AB141P03.contig.2	feature	CDS	28863	29300	.	+	0	ID=AB141P03.genome.CDS.799;Product=FIG00819990: hypothetical protein;locus_tag=AB141P03.genome.CDS.799
+AB141P03.contig.2	feature	CDS	26020	28740	.	-	0	ID=AB141P03.genome.CDS.798;Product=Pyruvate dehydrogenase E1 component %28EC 1.2.4.1%29;locus_tag=AB141P03.genome.CDS.798
+AB141P03.contig.2	feature	CDS	25736	26011	.	-	0	ID=AB141P03.genome.CDS.797;Product=;locus_tag=AB141P03.genome.CDS.797
+AB141P03.contig.2	feature	CDS	24755	25279	.	+	0	ID=AB141P03.genome.CDS.796;Product=tmRNA-binding protein SmpB;locus_tag=AB141P03.genome.CDS.796
+AB141P03.contig.2	feature	CDS	23817	24719	.	+	0	ID=AB141P03.genome.CDS.795;Product=Cell division protein FtsX;locus_tag=AB141P03.genome.CDS.795
+AB141P03.contig.2	feature	CDS	23098	23787	.	+	0	ID=AB141P03.genome.CDS.794;Product=Cell division transporter%2C ATP-binding protein FtsE %28TC 3.A.5.1.1%29;locus_tag=AB141P03.genome.CDS.794
+AB141P03.contig.2	feature	CDS	21865	22971	.	+	0	ID=AB141P03.genome.CDS.793;Product=Peptide chain release factor 2;locus_tag=AB141P03.genome.CDS.793
+AB141P03.contig.2	feature	CDS	21380	21850	.	+	0	ID=AB141P03.genome.CDS.792;Product=;locus_tag=AB141P03.genome.CDS.792
+AB141P03.contig.2	feature	CDS	20991	21389	.	+	0	ID=AB141P03.genome.CDS.791;Product=;locus_tag=AB141P03.genome.CDS.791
+AB141P03.contig.2	feature	CDS	20783	21004	.	+	0	ID=AB141P03.genome.CDS.122;Product=;locus_tag=AB141P03.genome.CDS.122
+AB141P03.contig.2	feature	CDS	20485	20679	.	+	0	ID=AB141P03.genome.CDS.789;Product=;locus_tag=AB141P03.genome.CDS.789
+AB141P03.contig.2	feature	CDS	19737	20369	.	+	0	ID=AB141P03.genome.CDS.788;Product=Uridine kinase family protein YggC homolog;locus_tag=AB141P03.genome.CDS.788
+AB141P03.contig.2	feature	CDS	18852	19727	.	+	0	ID=AB141P03.genome.CDS.787;Product=D-tagatose 3-epimerase %28EC 5.3.1.-%29;locus_tag=AB141P03.genome.CDS.787
+AB141P03.contig.2	feature	CDS	18090	18848	.	+	0	ID=AB141P03.genome.CDS.786;Product=;locus_tag=AB141P03.genome.CDS.786
+AB141P03.contig.2	feature	CDS	17083	18093	.	+	0	ID=AB141P03.genome.CDS.785;Product=Ribose ABC transport system%2C permease protein RbsC %28TC 3.A.1.2.1%29;locus_tag=AB141P03.genome.CDS.785
+AB141P03.contig.2	feature	CDS	16021	17064	.	+	0	ID=AB141P03.genome.CDS.784;Product=hypothetical protein;locus_tag=AB141P03.genome.CDS.784
+AB141P03.contig.2	feature	CDS	14879	15862	.	+	0	ID=AB141P03.genome.CDS.783;Product=Myo-inositol 2-dehydrogenase %28EC 1.1.1.18%29;locus_tag=AB141P03.genome.CDS.783
+AB141P03.contig.2	feature	CDS	14483	14872	.	+	0	ID=AB141P03.genome.CDS.782;Product=;locus_tag=AB141P03.genome.CDS.782
+AB141P03.contig.2	feature	CDS	13560	14483	.	+	0	ID=AB141P03.genome.CDS.781;Product=Ribokinase %28EC 2.7.1.15%29;locus_tag=AB141P03.genome.CDS.781
+AB141P03.contig.2	feature	CDS	12214	13551	.	+	0	ID=AB141P03.genome.CDS.780;Product=PLP-dependent aminotransferase NCgl2355 %28class III%29;locus_tag=AB141P03.genome.CDS.780
+AB141P03.contig.2	feature	CDS	10618	12102	.	-	0	ID=AB141P03.genome.CDS.779;Product=Methylmalonate-semialdehyde dehydrogenase %5Binositol%5D %28EC 1.2.1.27%29;locus_tag=AB141P03.genome.CDS.779
+AB141P03.contig.2	feature	CDS	9204	10616	.	+	0	ID=AB141P03.genome.CDS.778;Product=Glutamate-1-semialdehyde aminotransferase %28EC 5.4.3.8%29;locus_tag=AB141P03.genome.CDS.778
+AB141P03.contig.2	feature	CDS	7609	8997	.	-	0	ID=AB141P03.genome.CDS.777;Product=D-Lactate dehydrogenase%2C cytochrome c-dependent %28EC 1.1.2.4%29;locus_tag=AB141P03.genome.CDS.777
+AB141P03.contig.2	feature	CDS	6709	7608	.	-	0	ID=AB141P03.genome.CDS.776;Product=Integral membrane protein TerC;locus_tag=AB141P03.genome.CDS.776
+AB141P03.contig.2	feature	CDS	5831	6703	.	-	0	ID=AB141P03.genome.CDS.775;Product=hypothetical protein;locus_tag=AB141P03.genome.CDS.775
+AB141P03.contig.2	feature	CDS	5038	5817	.	-	0	ID=AB141P03.genome.CDS.106;Product=;locus_tag=AB141P03.genome.CDS.106
+AB141P03.contig.2	feature	CDS	4663	5043	.	+	0	ID=AB141P03.genome.CDS.773;Product=;locus_tag=AB141P03.genome.CDS.773
+AB141P03.contig.2	feature	CDS	4513	4662	.	+	0	ID=AB141P03.genome.CDS.772;Product=;locus_tag=AB141P03.genome.CDS.772
+AB141P03.contig.2	feature	CDS	3991	4476	.	+	0	ID=AB141P03.genome.CDS.771;Product=;locus_tag=AB141P03.genome.CDS.771
+AB141P03.contig.2	feature	CDS	2858	3991	.	+	0	ID=AB141P03.genome.CDS.770;Product=Cystathionine gamma-synthase %28EC 2.5.1.48%29;locus_tag=AB141P03.genome.CDS.770
+AB141P03.contig.2	feature	CDS	2356	2802	.	+	0	ID=AB141P03.genome.CDS.769;Product=Peptide methionine sulfoxide reductase MsrB %28EC 1.8.4.12%29;locus_tag=AB141P03.genome.CDS.769
+AB141P03.contig.2	feature	CDS	1830	2354	.	+	0	ID=AB141P03.genome.CDS.768;Product=Peptide methionine sulfoxide reductase MsrA %28EC 1.8.4.11%29;locus_tag=AB141P03.genome.CDS.768
+AB141P03.contig.2	feature	CDS	1257	1526	.	-	0	ID=AB141P03.genome.CDS.767;Product=WhiB-like transcription regulator;locus_tag=AB141P03.genome.CDS.767
+AB141P03.contig.2	feature	CDS	1	1260	.	+	0	ID=AB141P03.genome.CDS.766;Product=Signal transduction histidine kinase%2C subgroup 2;locus_tag=AB141P03.genome.CDS.766
+AB141P03.contig.20	feature	CDS	4115	4444	.	-	0	ID=AB141P03.genome.CDS.1285;Product=Metal-dependent hydrolase YbeY%2C involved in rRNA and/or ribosome maturation and assembly;locus_tag=AB141P03.genome.CDS.1285
+AB141P03.contig.20	feature	CDS	2823	4118	.	-	0	ID=AB141P03.genome.CDS.1284;Product=Magnesium and cobalt efflux protein CorC;locus_tag=AB141P03.genome.CDS.1284
+AB141P03.contig.20	feature	CDS	2022	2813	.	-	0	ID=AB141P03.genome.CDS.1283;Product=Fumarylacetoacetate hydrolase family protein;locus_tag=AB141P03.genome.CDS.1283
+AB141P03.contig.20	feature	CDS	569	2032	.	-	0	ID=AB141P03.genome.CDS.1282;Product=Glutamyl-tRNA synthetase %28EC 6.1.1.17%29 %40 Glutamyl-tRNA%28Gln%29 synthetase %28EC 6.1.1.24%29;locus_tag=AB141P03.genome.CDS.1282
+AB141P03.contig.20	feature	tRNA	454	528	.	-	.	ID=AB141P03.genome.rna.19;Product=tRNA-Gln-CTG;locus_tag=AB141P03.genome.rna.19
+AB141P03.contig.20	feature	tRNA	360	432	.	-	.	ID=AB141P03.genome.rna.20;Product=tRNA-Glu-CTC;locus_tag=AB141P03.genome.rna.20
+AB141P03.contig.20	feature	CDS	3	353	.	+	0	ID=AB141P03.genome.CDS.1281;Product=Transcriptional regulator%2C IclR family;locus_tag=AB141P03.genome.CDS.1281
+AB141P03.contig.21	feature	CDS	2515	3435	.	-	0	ID=AB141P03.genome.CDS.1290;Product=Isoleucyl-tRNA synthetase %28EC 6.1.1.5%29;locus_tag=AB141P03.genome.CDS.1290
+AB141P03.contig.21	feature	CDS	2051	2518	.	-	0	ID=AB141P03.genome.CDS.613;Product=Lipoprotein signal peptidase %28EC 3.4.23.36%29;locus_tag=AB141P03.genome.CDS.613
+AB141P03.contig.21	feature	CDS	1743	2054	.	-	0	ID=AB141P03.genome.CDS.1288;Product=;locus_tag=AB141P03.genome.CDS.1288
+AB141P03.contig.21	feature	CDS	554	1738	.	-	0	ID=AB141P03.genome.CDS.1287;Product=Glucose-6-phosphate isomerase %28EC 5.3.1.9%29;locus_tag=AB141P03.genome.CDS.1287
+AB141P03.contig.21	feature	CDS	2	562	.	+	0	ID=AB141P03.genome.CDS.1286;Product=16S rRNA %28guanine%28966%29-N%282%29%29-methyltransferase %28EC 2.1.1.171%29;locus_tag=AB141P03.genome.CDS.1286
+AB141P03.contig.22	feature	CDS	3054	3185	.	-	0	ID=AB141P03.genome.CDS.1294;Product=L-lactate dehydrogenase %28EC 1.1.2.3%29;locus_tag=AB141P03.genome.CDS.1294
+AB141P03.contig.22	feature	tRNA	2910	2994	.	-	.	ID=AB141P03.genome.rna.21;Product=tRNA-Tyr-GTA;locus_tag=AB141P03.genome.rna.21
+AB141P03.contig.22	feature	CDS	1976	2902	.	+	0	ID=AB141P03.genome.CDS.1293;Product=;locus_tag=AB141P03.genome.CDS.1293
+AB141P03.contig.22	feature	CDS	544	1938	.	-	0	ID=AB141P03.genome.CDS.1292;Product=hypothetical protein;locus_tag=AB141P03.genome.CDS.1292
+AB141P03.contig.22	feature	tRNA	413	488	.	-	.	ID=AB141P03.genome.rna.22;Product=tRNA-Thr-GGT;locus_tag=AB141P03.genome.rna.22
+AB141P03.contig.22	feature	tRNA	310	386	.	-	.	ID=AB141P03.genome.rna.23;Product=tRNA-Met-CAT;locus_tag=AB141P03.genome.rna.23
+AB141P03.contig.22	feature	CDS	13	183	.	-	0	ID=AB141P03.genome.CDS.1291;Product=LSU ribosomal protein L33p %40 LSU ribosomal protein L33p%2C zinc-dependent;locus_tag=AB141P03.genome.CDS.1291
+AB141P03.contig.23	feature	CDS	2468	2779	.	-	0	ID=AB141P03.genome.CDS.1299;Product=;locus_tag=AB141P03.genome.CDS.1299
+AB141P03.contig.23	feature	CDS	1330	2487	.	-	0	ID=AB141P03.genome.CDS.1298;Product=Poly%28glycerol-phosphate%29 alpha-glucosyltransferase %28EC 2.4.1.52%29;locus_tag=AB141P03.genome.CDS.1298
+AB141P03.contig.23	feature	CDS	729	1340	.	+	0	ID=AB141P03.genome.CDS.1297;Product=hypothetical protein;locus_tag=AB141P03.genome.CDS.1297
+AB141P03.contig.23	feature	CDS	157	729	.	+	0	ID=AB141P03.genome.CDS.1296;Product=;locus_tag=AB141P03.genome.CDS.1296
+AB141P03.contig.23	feature	CDS	3	173	.	+	0	ID=AB141P03.genome.CDS.1295;Product=Long-chain-fatty-acid--CoA ligase %28EC 6.2.1.3%29;locus_tag=AB141P03.genome.CDS.1295
+AB141P03.contig.24	feature	CDS	2068	2274	.	-	0	ID=AB141P03.genome.CDS.1302;Product=;locus_tag=AB141P03.genome.CDS.1302
+AB141P03.contig.24	feature	CDS	1678	1944	.	-	0	ID=AB141P03.genome.CDS.1301;Product=Sporulation regulatory protein WhiB;locus_tag=AB141P03.genome.CDS.1301
+AB141P03.contig.24	feature	CDS	2	1669	.	-	0	ID=AB141P03.genome.CDS.1300;Product=hypothetical protein;locus_tag=AB141P03.genome.CDS.1300
+AB141P03.contig.25	feature	CDS	1824	2090	.	-	0	ID=AB141P03.genome.CDS.1305;Product=TsaE protein%2C required for threonylcarbamoyladenosine t%286%29A37 formation in tRNA;locus_tag=AB141P03.genome.CDS.1305
+AB141P03.contig.25	feature	CDS	829	1845	.	-	0	ID=AB141P03.genome.CDS.1304;Product=TsaB protein%2C required for threonylcarbamoyladenosine %28t%286%29A%29 formation in tRNA;locus_tag=AB141P03.genome.CDS.1304
+AB141P03.contig.25	feature	CDS	2	829	.	-	0	ID=AB141P03.genome.CDS.1303;Product=Kinase-Associated Endopeptidase %28Kae1%29%2C required for threonylcarbamoyladenosine t%286%29A37 formation in tRNA;locus_tag=AB141P03.genome.CDS.1303
+AB141P03.contig.26	feature	CDS	1399	2049	.	-	0	ID=AB141P03.genome.CDS.1308;Product=;locus_tag=AB141P03.genome.CDS.1308
+AB141P03.contig.26	feature	CDS	364	1389	.	-	0	ID=AB141P03.genome.CDS.1307;Product=UDP-N-acetylenolpyruvoylglucosamine reductase %28EC 1.3.1.98%29;locus_tag=AB141P03.genome.CDS.1307
+AB141P03.contig.26	feature	CDS	2	367	.	+	0	ID=AB141P03.genome.CDS.1306;Product=Aspartate aminotransferase %28EC 2.6.1.1%29;locus_tag=AB141P03.genome.CDS.1306
+AB141P03.contig.27	feature	CDS	1168	1992	.	+	0	ID=AB141P03.genome.CDS.1312;Product=;locus_tag=AB141P03.genome.CDS.1312
+AB141P03.contig.27	feature	CDS	422	1171	.	+	0	ID=AB141P03.genome.CDS.629;Product=N-succinyl-L%2CL-diaminopimelate aminotransferase %28EC 2.6.1.17%29%2C type 2;locus_tag=AB141P03.genome.CDS.629
+AB141P03.contig.27	feature	CDS	247	402	.	-	0	ID=AB141P03.genome.CDS.1310;Product=;locus_tag=AB141P03.genome.CDS.1310
+AB141P03.contig.27	feature	CDS	2	118	.	+	0	ID=AB141P03.genome.CDS.1309;Product=Ferredoxin;locus_tag=AB141P03.genome.CDS.1309
+AB141P03.contig.28	feature	CDS	1790	1867	.	+	0	ID=AB141P03.genome.CDS.1316;Product=;locus_tag=AB141P03.genome.CDS.1316
+AB141P03.contig.28	feature	CDS	836	1768	.	+	0	ID=AB141P03.genome.CDS.1315;Product=;locus_tag=AB141P03.genome.CDS.1315
+AB141P03.contig.28	feature	CDS	253	852	.	+	0	ID=AB141P03.genome.CDS.1314;Product=hypothetical protein;locus_tag=AB141P03.genome.CDS.1314
+AB141P03.contig.28	feature	CDS	3	173	.	-	0	ID=AB141P03.genome.CDS.1313;Product=;locus_tag=AB141P03.genome.CDS.1313
+AB141P03.contig.29	feature	CDS	794	1507	.	-	0	ID=AB141P03.genome.CDS.1318;Product=Lipid-A-disaccharide synthase %28EC 2.4.1.182%29;locus_tag=AB141P03.genome.CDS.1318
+AB141P03.contig.29	feature	CDS	2	790	.	+	0	ID=AB141P03.genome.CDS.1317;Product=Citrate synthase %28si%29 %28EC 2.3.3.1%29;locus_tag=AB141P03.genome.CDS.1317
+AB141P03.contig.3	feature	CDS	73717	73947	.	-	0	ID=AB141P03.genome.CDS.930;Product=Dihydroorotate dehydrogenase%2C catalytic subunit %28EC 1.3.3.1%29;locus_tag=AB141P03.genome.CDS.930
+AB141P03.contig.3	feature	CDS	73025	73714	.	-	0	ID=AB141P03.genome.CDS.929;Product=Orotidine 5%27-phosphate decarboxylase %28EC 4.1.1.23%29;locus_tag=AB141P03.genome.CDS.929
+AB141P03.contig.3	feature	CDS	72156	73022	.	-	0	ID=AB141P03.genome.CDS.928;Product=Guanylate kinase %28EC 2.7.4.8%29;locus_tag=AB141P03.genome.CDS.928
+AB141P03.contig.3	feature	CDS	71850	72128	.	-	0	ID=AB141P03.genome.CDS.927;Product=DNA-directed RNA polymerase omega subunit %28EC 2.7.7.6%29;locus_tag=AB141P03.genome.CDS.927
+AB141P03.contig.3	feature	CDS	70641	71840	.	-	0	ID=AB141P03.genome.CDS.926;Product=Phosphopantothenoylcysteine decarboxylase %28EC 4.1.1.36%29 / Phosphopantothenoylcysteine synthetase %28EC 6.3.2.5%29;locus_tag=AB141P03.genome.CDS.926
+AB141P03.contig.3	feature	CDS	69446	70636	.	-	0	ID=AB141P03.genome.CDS.925;Product=S-adenosylmethionine synthetase %28EC 2.5.1.6%29;locus_tag=AB141P03.genome.CDS.925
+AB141P03.contig.3	feature	CDS	67544	69442	.	-	0	ID=AB141P03.genome.CDS.924;Product=Helicase PriA essential for oriC/DnaA-independent DNA replication;locus_tag=AB141P03.genome.CDS.924
+AB141P03.contig.3	feature	CDS	66955	67515	.	-	0	ID=AB141P03.genome.CDS.923;Product=Peptide deformylase %28EC 3.5.1.88%29;locus_tag=AB141P03.genome.CDS.923
+AB141P03.contig.3	feature	CDS	66033	66950	.	-	0	ID=AB141P03.genome.CDS.922;Product=Methionyl-tRNA formyltransferase %28EC 2.1.2.9%29;locus_tag=AB141P03.genome.CDS.922
+AB141P03.contig.3	feature	CDS	64715	66040	.	-	0	ID=AB141P03.genome.CDS.921;Product=16S rRNA %28cytosine%28967%29-C%285%29%29-methyltransferase %28EC 2.1.1.176%29;locus_tag=AB141P03.genome.CDS.921
+AB141P03.contig.3	feature	CDS	64031	64708	.	-	0	ID=AB141P03.genome.CDS.920;Product=Ribulose-phosphate 3-epimerase %28EC 5.1.3.1%29;locus_tag=AB141P03.genome.CDS.920
+AB141P03.contig.3	feature	CDS	62863	64041	.	+	0	ID=AB141P03.genome.CDS.919;Product=Phosphoserine phosphatase %28EC 3.1.3.3%29;locus_tag=AB141P03.genome.CDS.919
+AB141P03.contig.3	feature	CDS	62030	62812	.	-	0	ID=AB141P03.genome.CDS.918;Product=hypothetical protein;locus_tag=AB141P03.genome.CDS.918
+AB141P03.contig.3	feature	CDS	61408	62040	.	-	0	ID=AB141P03.genome.CDS.247;Product=Uracil-DNA glycosylase%2C family 1;locus_tag=AB141P03.genome.CDS.247
+AB141P03.contig.3	feature	CDS	59931	61367	.	+	0	ID=AB141P03.genome.CDS.916;Product=Xanthine/uracil/thiamine/ascorbate permease family protein;locus_tag=AB141P03.genome.CDS.916
+AB141P03.contig.3	feature	CDS	59131	59838	.	+	0	ID=AB141P03.genome.CDS.915;Product=putative integral membrane protein;locus_tag=AB141P03.genome.CDS.915
+AB141P03.contig.3	feature	CDS	58225	59088	.	-	0	ID=AB141P03.genome.CDS.914;Product=Undecaprenyl-diphosphatase %28EC 3.6.1.27%29;locus_tag=AB141P03.genome.CDS.914
+AB141P03.contig.3	feature	CDS	57491	58225	.	-	0	ID=AB141P03.genome.CDS.913;Product=membrane protein%2C putative;locus_tag=AB141P03.genome.CDS.913
+AB141P03.contig.3	feature	CDS	56454	57494	.	+	0	ID=AB141P03.genome.CDS.912;Product=Alcohol dehydrogenase %28EC 1.1.1.1%29;locus_tag=AB141P03.genome.CDS.912
+AB141P03.contig.3	feature	CDS	55811	56449	.	+	0	ID=AB141P03.genome.CDS.911;Product=Thymidine kinase %28EC 2.7.1.21%29;locus_tag=AB141P03.genome.CDS.911
+AB141P03.contig.3	feature	CDS	55282	55806	.	+	0	ID=AB141P03.genome.CDS.910;Product=Adenine phosphoribosyltransferase %28EC 2.4.2.7%29;locus_tag=AB141P03.genome.CDS.910
+AB141P03.contig.3	feature	tRNA	55164	55250	.	+	.	ID=AB141P03.genome.rna.11;Product=tRNA-Leu-GAG;locus_tag=AB141P03.genome.rna.11
+AB141P03.contig.3	feature	CDS	53781	55100	.	-	0	ID=AB141P03.genome.CDS.909;Product=Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase and related deacylases;locus_tag=AB141P03.genome.CDS.909
+AB141P03.contig.3	feature	CDS	52842	53780	.	+	0	ID=AB141P03.genome.CDS.908;Product=putative oxidoreductase;locus_tag=AB141P03.genome.CDS.908
+AB141P03.contig.3	feature	CDS	52118	52792	.	-	0	ID=AB141P03.genome.CDS.907;Product=;locus_tag=AB141P03.genome.CDS.907
+AB141P03.contig.3	feature	CDS	51579	52118	.	-	0	ID=AB141P03.genome.CDS.906;Product=;locus_tag=AB141P03.genome.CDS.906
+AB141P03.contig.3	feature	CDS	50887	51582	.	-	0	ID=AB141P03.genome.CDS.905;Product=FIG00820755: hypothetical protein;locus_tag=AB141P03.genome.CDS.905
+AB141P03.contig.3	feature	CDS	49647	50870	.	-	0	ID=AB141P03.genome.CDS.904;Product=L-cysteine:1D-myo-inosityl 2-amino-2-deoxy-alpha-D-glucopyranoside ligase MshC;locus_tag=AB141P03.genome.CDS.904
+AB141P03.contig.3	feature	CDS	46133	49606	.	-	0	ID=AB141P03.genome.CDS.903;Product=5-methyltetrahydrofolate--homocysteine methyltransferase %28EC 2.1.1.13%29;locus_tag=AB141P03.genome.CDS.903
+AB141P03.contig.3	feature	CDS	45471	46136	.	-	0	ID=AB141P03.genome.CDS.902;Product=;locus_tag=AB141P03.genome.CDS.902
+AB141P03.contig.3	feature	CDS	44626	45471	.	-	0	ID=AB141P03.genome.CDS.901;Product=tRNA %28adenine%2858%29-N%281%29%29-methyltransferase %28EC 2.1.1.220%29;locus_tag=AB141P03.genome.CDS.901
+AB141P03.contig.3	feature	CDS	44208	44624	.	+	0	ID=AB141P03.genome.CDS.900;Product=FKBP-type peptidyl-prolyl cis-trans isomerases 1;locus_tag=AB141P03.genome.CDS.900
+AB141P03.contig.3	feature	CDS	43157	44080	.	-	0	ID=AB141P03.genome.CDS.899;Product=FIG005453: Putative DeoR-family transcriptional regulator;locus_tag=AB141P03.genome.CDS.899
+AB141P03.contig.3	feature	CDS	42241	43164	.	-	0	ID=AB141P03.genome.CDS.898;Product=FIG019733: possible DNA-binding protein;locus_tag=AB141P03.genome.CDS.898
+AB141P03.contig.3	feature	CDS	42035	42226	.	-	0	ID=AB141P03.genome.CDS.897;Product=Twin-arginine translocation protein TatA;locus_tag=AB141P03.genome.CDS.897
+AB141P03.contig.3	feature	CDS	41223	42029	.	-	0	ID=AB141P03.genome.CDS.896;Product=Twin-arginine translocation protein TatC;locus_tag=AB141P03.genome.CDS.896
+AB141P03.contig.3	feature	CDS	40341	41222	.	-	0	ID=AB141P03.genome.CDS.895;Product=Diacylglycerol kinase-related protein;locus_tag=AB141P03.genome.CDS.895
+AB141P03.contig.3	feature	CDS	38002	40344	.	-	0	ID=AB141P03.genome.CDS.894;Product=FIG005666: putative helicase;locus_tag=AB141P03.genome.CDS.894
+AB141P03.contig.3	feature	CDS	37103	38005	.	-	0	ID=AB141P03.genome.CDS.893;Product=DNA polymerase I %28EC 2.7.7.7%29;locus_tag=AB141P03.genome.CDS.893
+AB141P03.contig.3	feature	CDS	35717	37102	.	-	0	ID=AB141P03.genome.CDS.892;Product=hypothetical protein;locus_tag=AB141P03.genome.CDS.892
+AB141P03.contig.3	feature	CDS	34996	35724	.	-	0	ID=AB141P03.genome.CDS.891;Product=Dolichol-phosphate mannosyltransferase %28EC 2.4.1.83%29 in lipid-linked oligosaccharide synthesis cluster;locus_tag=AB141P03.genome.CDS.891
+AB141P03.contig.3	feature	CDS	32124	34970	.	+	0	ID=AB141P03.genome.CDS.890;Product=Glycine dehydrogenase %5Bdecarboxylating%5D %28glycine cleavage system P protein%29 %28EC 1.4.4.2%29;locus_tag=AB141P03.genome.CDS.890
+AB141P03.contig.3	feature	CDS	31572	32078	.	+	0	ID=AB141P03.genome.CDS.889;Product=transcriptional regulator%2C MerR family;locus_tag=AB141P03.genome.CDS.889
+AB141P03.contig.3	feature	CDS	30999	31472	.	+	0	ID=AB141P03.genome.CDS.888;Product=FIG01121484: hypothetical protein;locus_tag=AB141P03.genome.CDS.888
+AB141P03.contig.3	feature	CDS	30274	30987	.	+	0	ID=AB141P03.genome.CDS.887;Product=hypothetical protein;locus_tag=AB141P03.genome.CDS.887
+AB141P03.contig.3	feature	CDS	29834	30274	.	+	0	ID=AB141P03.genome.CDS.886;Product=;locus_tag=AB141P03.genome.CDS.886
+AB141P03.contig.3	feature	CDS	29390	29773	.	+	0	ID=AB141P03.genome.CDS.885;Product=Glycine cleavage system H protein;locus_tag=AB141P03.genome.CDS.885
+AB141P03.contig.3	feature	CDS	28834	29382	.	+	0	ID=AB141P03.genome.CDS.884;Product=CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase %28EC 2.7.8.5%29;locus_tag=AB141P03.genome.CDS.884
+AB141P03.contig.3	feature	CDS	26874	28844	.	+	0	ID=AB141P03.genome.CDS.883;Product=GTP-binding protein EngA;locus_tag=AB141P03.genome.CDS.883
+AB141P03.contig.3	feature	CDS	25779	26840	.	+	0	ID=AB141P03.genome.CDS.882;Product=Arogenate dehydrogenase %28EC 1.3.1.43%29;locus_tag=AB141P03.genome.CDS.882
+AB141P03.contig.3	feature	CDS	25420	25782	.	+	0	ID=AB141P03.genome.CDS.881;Product=Chorismate mutase II %28EC 5.4.99.5%29;locus_tag=AB141P03.genome.CDS.881
+AB141P03.contig.3	feature	CDS	24439	25173	.	+	0	ID=AB141P03.genome.CDS.880;Product=Ribosomal large subunit pseudouridine synthase B %28EC 4.2.1.70%29;locus_tag=AB141P03.genome.CDS.880
+AB141P03.contig.3	feature	CDS	23837	24394	.	+	0	ID=AB141P03.genome.CDS.879;Product=Segregation and condensation protein B;locus_tag=AB141P03.genome.CDS.879
+AB141P03.contig.3	feature	CDS	22969	23844	.	+	0	ID=AB141P03.genome.CDS.878;Product=Segregation and condensation protein A;locus_tag=AB141P03.genome.CDS.878
+AB141P03.contig.3	feature	CDS	21971	22909	.	-	0	ID=AB141P03.genome.CDS.877;Product=Chromosome %28plasmid%29 partitioning protein ParA;locus_tag=AB141P03.genome.CDS.877
+AB141P03.contig.3	feature	CDS	21576	21974	.	-	0	ID=AB141P03.genome.CDS.876;Product=FIG059443: hypothetical protein;locus_tag=AB141P03.genome.CDS.876
+AB141P03.contig.3	feature	CDS	20659	21573	.	+	0	ID=AB141P03.genome.CDS.875;Product=Site-specific tyrosine recombinase XerD;locus_tag=AB141P03.genome.CDS.875
+AB141P03.contig.3	feature	CDS	19032	20669	.	+	0	ID=AB141P03.genome.CDS.874;Product=CTP synthase %28EC 6.3.4.2%29;locus_tag=AB141P03.genome.CDS.874
+AB141P03.contig.3	feature	CDS	17299	19017	.	+	0	ID=AB141P03.genome.CDS.873;Product=DNA repair protein RecN;locus_tag=AB141P03.genome.CDS.873
+AB141P03.contig.3	feature	CDS	16458	17309	.	+	0	ID=AB141P03.genome.CDS.872;Product=NAD kinase %28EC 2.7.1.23%29;locus_tag=AB141P03.genome.CDS.872
+AB141P03.contig.3	feature	CDS	15673	16461	.	+	0	ID=AB141P03.genome.CDS.871;Product=RNA binding methyltransferase FtsJ like;locus_tag=AB141P03.genome.CDS.871
+AB141P03.contig.3	feature	CDS	15507	15668	.	+	0	ID=AB141P03.genome.CDS.870;Product=;locus_tag=AB141P03.genome.CDS.870
+AB141P03.contig.3	feature	misc_RNA	15277	15398	.	+	.	ID=AB141P03.genome.rna.1;Product=5S rRNA %23%23 5S ribosomal RNA;locus_tag=AB141P03.genome.rna.1
+AB141P03.contig.3	feature	misc_RNA	12069	15158	.	+	.	ID=AB141P03.genome.rna.2;Product=LSU rRNA %23%23 23S rRNA%2C large subunit ribosomal RNA;locus_tag=AB141P03.genome.rna.2
+AB141P03.contig.3	feature	misc_RNA	10292	11812	.	+	.	ID=AB141P03.genome.rna.3;Product=SSU rRNA %23%23 16S rRNA%2C small subunit ribosomal RNA;locus_tag=AB141P03.genome.rna.3
+AB141P03.contig.3	feature	CDS	8530	9804	.	+	0	ID=AB141P03.genome.CDS.866;Product=Tyrosyl-tRNA synthetase %28EC 6.1.1.1%29;locus_tag=AB141P03.genome.CDS.866
+AB141P03.contig.3	feature	CDS	7106	8533	.	+	0	ID=AB141P03.genome.CDS.865;Product=Argininosuccinate lyase %28EC 4.3.2.1%29;locus_tag=AB141P03.genome.CDS.865
+AB141P03.contig.3	feature	CDS	6629	7105	.	+	0	ID=AB141P03.genome.CDS.864;Product=Arginine pathway regulatory protein ArgR%2C repressor of arg regulon;locus_tag=AB141P03.genome.CDS.864
+AB141P03.contig.3	feature	CDS	5841	6629	.	+	0	ID=AB141P03.genome.CDS.863;Product=Acetylglutamate kinase %28EC 2.7.2.8%29;locus_tag=AB141P03.genome.CDS.863
+AB141P03.contig.3	feature	CDS	4831	5844	.	+	0	ID=AB141P03.genome.CDS.862;Product=N-acetyl-gamma-glutamyl-phosphate reductase %28EC 1.2.1.38%29;locus_tag=AB141P03.genome.CDS.862
+AB141P03.contig.3	feature	CDS	2317	4782	.	+	0	ID=AB141P03.genome.CDS.861;Product=Phenylalanyl-tRNA synthetase beta chain %28EC 6.1.1.20%29;locus_tag=AB141P03.genome.CDS.861
+AB141P03.contig.3	feature	CDS	1304	2320	.	+	0	ID=AB141P03.genome.CDS.860;Product=Phenylalanyl-tRNA synthetase alpha chain %28EC 6.1.1.20%29;locus_tag=AB141P03.genome.CDS.860
+AB141P03.contig.3	feature	CDS	476	1291	.	+	0	ID=AB141P03.genome.CDS.859;Product=FIG011178: rRNA methylase;locus_tag=AB141P03.genome.CDS.859
+AB141P03.contig.3	feature	CDS	88	450	.	+	0	ID=AB141P03.genome.CDS.858;Product=LSU ribosomal protein L20p;locus_tag=AB141P03.genome.CDS.858
+AB141P03.contig.3	feature	CDS	1	75	.	+	0	ID=AB141P03.genome.CDS.857;Product=LSU ribosomal protein L35p;locus_tag=AB141P03.genome.CDS.857
+AB141P03.contig.30	feature	CDS	1339	1473	.	-	0	ID=AB141P03.genome.CDS.1321;Product=Preprotein translocase subunit SecG %28TC 3.A.5.1.1%29;locus_tag=AB141P03.genome.CDS.1321
+AB141P03.contig.30	feature	CDS	975	1316	.	-	0	ID=AB141P03.genome.CDS.1320;Product=putative electron transport protein;locus_tag=AB141P03.genome.CDS.1320
+AB141P03.contig.30	feature	CDS	3	974	.	+	0	ID=AB141P03.genome.CDS.1319;Product=Glucose-6-phosphate isomerase %28EC 5.3.1.9%29;locus_tag=AB141P03.genome.CDS.1319
+AB141P03.contig.31	feature	CDS	999	1454	.	-	0	ID=AB141P03.genome.CDS.1323;Product=Putative sugar kinase;locus_tag=AB141P03.genome.CDS.1323
+AB141P03.contig.31	feature	CDS	2	1009	.	+	0	ID=AB141P03.genome.CDS.1322;Product=hypothetical protein;locus_tag=AB141P03.genome.CDS.1322
+AB141P03.contig.32	feature	CDS	479	1342	.	-	0	ID=AB141P03.genome.CDS.1325;Product=Phosphatidylinositol alpha-mannosyltransferase %28EC 2.4.1.57%29;locus_tag=AB141P03.genome.CDS.1325
+AB141P03.contig.32	feature	CDS	3	482	.	-	0	ID=AB141P03.genome.CDS.1324;Product=;locus_tag=AB141P03.genome.CDS.1324
+AB141P03.contig.33	feature	CDS	603	1310	.	-	0	ID=AB141P03.genome.CDS.1327;Product=Inositol-1-phosphate synthase %28EC 5.5.1.4%29;locus_tag=AB141P03.genome.CDS.1327
+AB141P03.contig.33	feature	CDS	2	526	.	+	0	ID=AB141P03.genome.CDS.1326;Product=;locus_tag=AB141P03.genome.CDS.1326
+AB141P03.contig.34	feature	CDS	592	1296	.	-	0	ID=AB141P03.genome.CDS.1329;Product=GDP-mannose 4%2C6-dehydratase %28EC 4.2.1.47%29;locus_tag=AB141P03.genome.CDS.1329
+AB141P03.contig.34	feature	CDS	3	572	.	+	0	ID=AB141P03.genome.CDS.1328;Product=;locus_tag=AB141P03.genome.CDS.1328
+AB141P03.contig.35	feature	CDS	758	1210	.	-	0	ID=AB141P03.genome.CDS.1331;Product=Heat shock protein 60 family chaperone GroEL;locus_tag=AB141P03.genome.CDS.1331
+AB141P03.contig.35	feature	CDS	17	685	.	+	0	ID=AB141P03.genome.CDS.1330;Product=ATP phosphoribosyltransferase %28EC 2.4.2.17%29;locus_tag=AB141P03.genome.CDS.1330
+AB141P03.contig.36	feature	CDS	995	1117	.	+	0	ID=AB141P03.genome.CDS.1334;Product=LSU ribosomal protein L35p;locus_tag=AB141P03.genome.CDS.1334
+AB141P03.contig.36	feature	CDS	360	962	.	+	0	ID=AB141P03.genome.CDS.1333;Product=Translation initiation factor 3;locus_tag=AB141P03.genome.CDS.1333
+AB141P03.contig.36	feature	CDS	1	78	.	-	0	ID=AB141P03.genome.CDS.1332;Product=;locus_tag=AB141P03.genome.CDS.1332
+AB141P03.contig.37	feature	CDS	2	991	.	+	0	ID=AB141P03.genome.CDS.1335;Product=Protein export cytoplasm protein SecA ATPase RNA helicase %28TC 3.A.5.1.1%29;locus_tag=AB141P03.genome.CDS.1335
+AB141P03.contig.38	feature	CDS	750	965	.	-	0	ID=AB141P03.genome.CDS.1337;Product=ATPase component NikO of energizing module of nickel ECF transporter;locus_tag=AB141P03.genome.CDS.1337
+AB141P03.contig.38	feature	CDS	1	753	.	+	0	ID=AB141P03.genome.CDS.1336;Product=Short chain dehydrogenase family protein;locus_tag=AB141P03.genome.CDS.1336
+AB141P03.contig.39	feature	CDS	185	964	.	-	0	ID=AB141P03.genome.CDS.1339;Product=hypothetical protein;locus_tag=AB141P03.genome.CDS.1339
+AB141P03.contig.4	feature	CDS	72875	73387	.	-	0	ID=AB141P03.genome.CDS.1006;Product=RNA-binding protein Jag;locus_tag=AB141P03.genome.CDS.1006
+AB141P03.contig.4	feature	CDS	72270	72866	.	-	0	ID=AB141P03.genome.CDS.1005;Product=rRNA small subunit 7-methylguanosine %28m7G%29 methyltransferase GidB;locus_tag=AB141P03.genome.CDS.1005
+AB141P03.contig.4	feature	CDS	71346	72260	.	-	0	ID=AB141P03.genome.CDS.1004;Product=Chromosome %28plasmid%29 partitioning protein ParA;locus_tag=AB141P03.genome.CDS.1004
+AB141P03.contig.4	feature	CDS	70459	71346	.	-	0	ID=AB141P03.genome.CDS.1003;Product=Chromosome %28plasmid%29 partitioning protein ParB;locus_tag=AB141P03.genome.CDS.1003
+AB141P03.contig.4	feature	CDS	68533	70398	.	-	0	ID=AB141P03.genome.CDS.1002;Product=O-antigen acetylase;locus_tag=AB141P03.genome.CDS.1002
+AB141P03.contig.4	feature	CDS	67257	68540	.	+	0	ID=AB141P03.genome.CDS.1001;Product=Aspartate aminotransferase %28AspB-4%29 %28EC 2.6.1.1%29;locus_tag=AB141P03.genome.CDS.1001
+AB141P03.contig.4	feature	CDS	66091	67221	.	+	0	ID=AB141P03.genome.CDS.1000;Product=N-acetylmuramoyl-L-alanine amidase %28EC 3.5.1.28%29;locus_tag=AB141P03.genome.CDS.1000
+AB141P03.contig.4	feature	CDS	65743	66066	.	+	0	ID=AB141P03.genome.CDS.999;Product=Thioredoxin;locus_tag=AB141P03.genome.CDS.999
+AB141P03.contig.4	feature	CDS	64772	65701	.	+	0	ID=AB141P03.genome.CDS.998;Product=Thioredoxin reductase %28EC 1.8.1.9%29;locus_tag=AB141P03.genome.CDS.998
+AB141P03.contig.4	feature	CDS	63170	64762	.	+	0	ID=AB141P03.genome.CDS.997;Product=Proposed peptidoglycan lipid II flippase MurJ;locus_tag=AB141P03.genome.CDS.997
+AB141P03.contig.4	feature	CDS	62076	63170	.	+	0	ID=AB141P03.genome.CDS.996;Product=hypothetical protein;locus_tag=AB141P03.genome.CDS.996
+AB141P03.contig.4	feature	CDS	61486	62079	.	+	0	ID=AB141P03.genome.CDS.995;Product=MutT/nudix family protein;locus_tag=AB141P03.genome.CDS.995
+AB141P03.contig.4	feature	CDS	59967	61400	.	-	0	ID=AB141P03.genome.CDS.994;Product=tRNA nucleotidyltransferase %28EC 2.7.7.27%29;locus_tag=AB141P03.genome.CDS.994
+AB141P03.contig.4	feature	CDS	58724	59992	.	+	0	ID=AB141P03.genome.CDS.993;Product=hypothetical protein;locus_tag=AB141P03.genome.CDS.993
+AB141P03.contig.4	feature	CDS	58267	58680	.	-	0	ID=AB141P03.genome.CDS.992;Product=hypothetical protein;locus_tag=AB141P03.genome.CDS.992
+AB141P03.contig.4	feature	CDS	56292	58250	.	-	0	ID=AB141P03.genome.CDS.991;Product=Multimodular transpeptidase-transglycosylase %28EC 2.4.1.129%29 %28EC 3.4.-.-%29;locus_tag=AB141P03.genome.CDS.991
+AB141P03.contig.4	feature	CDS	55119	56288	.	-	0	ID=AB141P03.genome.CDS.990;Product=hypothetical protein;locus_tag=AB141P03.genome.CDS.990
+AB141P03.contig.4	feature	CDS	54744	55028	.	-	0	ID=AB141P03.genome.CDS.989;Product=SSU ribosomal protein S6p;locus_tag=AB141P03.genome.CDS.989
+AB141P03.contig.4	feature	CDS	54193	54690	.	-	0	ID=AB141P03.genome.CDS.988;Product=Single-stranded DNA-binding protein;locus_tag=AB141P03.genome.CDS.988
+AB141P03.contig.4	feature	CDS	53839	54132	.	-	0	ID=AB141P03.genome.CDS.987;Product=SSU ribosomal protein S18p %40 SSU ribosomal protein S18p%2C zinc-dependent;locus_tag=AB141P03.genome.CDS.987
+AB141P03.contig.4	feature	CDS	53375	53824	.	-	0	ID=AB141P03.genome.CDS.986;Product=LSU ribosomal protein L9p;locus_tag=AB141P03.genome.CDS.986
+AB141P03.contig.4	feature	CDS	53233	53349	.	+	0	ID=AB141P03.genome.CDS.317;Product=;locus_tag=AB141P03.genome.CDS.317
+AB141P03.contig.4	feature	CDS	51647	53047	.	-	0	ID=AB141P03.genome.CDS.985;Product=Replicative DNA helicase %28DnaB%29 %28EC 3.6.4.12%29;locus_tag=AB141P03.genome.CDS.985
+AB141P03.contig.4	feature	CDS	51159	51650	.	+	0	ID=AB141P03.genome.CDS.984;Product=Carbonic anhydrase %28EC 4.2.1.1%29;locus_tag=AB141P03.genome.CDS.984
+AB141P03.contig.4	feature	CDS	50242	51159	.	+	0	ID=AB141P03.genome.CDS.983;Product=hypothetical protein;locus_tag=AB141P03.genome.CDS.983
+AB141P03.contig.4	feature	CDS	48377	50203	.	+	0	ID=AB141P03.genome.CDS.982;Product=Acyl-CoA dehydrogenase %28EC 1.3.8.7%29;locus_tag=AB141P03.genome.CDS.982
+AB141P03.contig.4	feature	CDS	47707	48285	.	-	0	ID=AB141P03.genome.CDS.981;Product=Deoxycytidine triphosphate deaminase %28EC 3.5.4.13%29;locus_tag=AB141P03.genome.CDS.981
+AB141P03.contig.4	feature	CDS	46239	47705	.	+	0	ID=AB141P03.genome.CDS.980;Product=sensor histidine kinase;locus_tag=AB141P03.genome.CDS.980
+AB141P03.contig.4	feature	CDS	45478	46221	.	+	0	ID=AB141P03.genome.CDS.979;Product=;locus_tag=AB141P03.genome.CDS.979
+AB141P03.contig.4	feature	CDS	43346	45412	.	+	0	ID=AB141P03.genome.CDS.978;Product=Fe-S oxidoreductase;locus_tag=AB141P03.genome.CDS.978
+AB141P03.contig.4	feature	CDS	42988	43257	.	+	0	ID=AB141P03.genome.CDS.977;Product=;locus_tag=AB141P03.genome.CDS.977
+AB141P03.contig.4	feature	CDS	42322	42960	.	-	0	ID=AB141P03.genome.CDS.976;Product=Anthranilate synthase%2C amidotransferase component %28EC 4.1.3.27%29 %40 Para-aminobenzoate synthase%2C amidotransferase component %28EC 2.6.1.85%29;locus_tag=AB141P03.genome.CDS.976
+AB141P03.contig.4	feature	CDS	40781	42325	.	+	0	ID=AB141P03.genome.CDS.975;Product=Serine/threonine protein kinase PrkC%2C regulator of stationary phase;locus_tag=AB141P03.genome.CDS.975
+AB141P03.contig.4	feature	CDS	40012	40788	.	+	0	ID=AB141P03.genome.CDS.974;Product=Protein serine/threonine phosphatase PrpC%2C regulation of stationary phase;locus_tag=AB141P03.genome.CDS.974
+AB141P03.contig.4	feature	CDS	39275	39961	.	-	0	ID=AB141P03.genome.CDS.973;Product=Glycerophosphoryl diester phosphodiesterase %28EC 3.1.4.46%29;locus_tag=AB141P03.genome.CDS.973
+AB141P03.contig.4	feature	CDS	38441	39271	.	-	0	ID=AB141P03.genome.CDS.972;Product=Prephenate dehydratase %28EC 4.2.1.51%29;locus_tag=AB141P03.genome.CDS.972
+AB141P03.contig.4	feature	CDS	37160	38422	.	-	0	ID=AB141P03.genome.CDS.971;Product=Seryl-tRNA synthetase %28EC 6.1.1.11%29;locus_tag=AB141P03.genome.CDS.971
+AB141P03.contig.4	feature	CDS	36330	37163	.	-	0	ID=AB141P03.genome.CDS.970;Product=;locus_tag=AB141P03.genome.CDS.970
+AB141P03.contig.4	feature	tRNA	36195	36280	.	-	.	ID=AB141P03.genome.rna.13;Product=tRNA-Ser-TGA;locus_tag=AB141P03.genome.rna.13
+AB141P03.contig.4	feature	CDS	35282	36109	.	-	0	ID=AB141P03.genome.CDS.969;Product=putative succinate dehydrogenase %5Bmembrane anchor subunit%5D %28succinic dehydrogenase%29;locus_tag=AB141P03.genome.CDS.969
+AB141P03.contig.4	feature	CDS	33370	35268	.	-	0	ID=AB141P03.genome.CDS.968;Product=Succinate dehydrogenase flavoprotein subunit %28EC 1.3.99.1%29;locus_tag=AB141P03.genome.CDS.968
+AB141P03.contig.4	feature	CDS	32612	33373	.	-	0	ID=AB141P03.genome.CDS.967;Product=Succinate dehydrogenase iron-sulfur protein %28EC 1.3.99.1%29;locus_tag=AB141P03.genome.CDS.967
+AB141P03.contig.4	feature	CDS	32258	32608	.	-	0	ID=AB141P03.genome.CDS.966;Product=;locus_tag=AB141P03.genome.CDS.966
+AB141P03.contig.4	feature	CDS	32100	32237	.	-	0	ID=AB141P03.genome.CDS.965;Product=;locus_tag=AB141P03.genome.CDS.965
+AB141P03.contig.4	feature	CDS	30638	32098	.	+	0	ID=AB141P03.genome.CDS.964;Product=Xaa-Pro aminopeptidase %28EC 3.4.11.9%29;locus_tag=AB141P03.genome.CDS.964
+AB141P03.contig.4	feature	tRNA	30480	30572	.	-	.	ID=AB141P03.genome.rna.14;Product=tRNA-Ser-GCT;locus_tag=AB141P03.genome.rna.14
+AB141P03.contig.4	feature	CDS	29138	30445	.	-	0	ID=AB141P03.genome.CDS.963;Product=Ferredoxin--NADP%28%2B%29 reductase%2C actinobacterial %28eukaryote-like%29 type %28EC 1.18.1.2%29;locus_tag=AB141P03.genome.CDS.963
+AB141P03.contig.4	feature	tRNA	29028	29103	.	-	.	ID=AB141P03.genome.rna.15;Product=tRNA-Arg-ACG;locus_tag=AB141P03.genome.rna.15
+AB141P03.contig.4	feature	CDS	27885	28958	.	+	0	ID=AB141P03.genome.CDS.962;Product=hypothetical protein;locus_tag=AB141P03.genome.CDS.962
+AB141P03.contig.4	feature	CDS	27112	27684	.	-	0	ID=AB141P03.genome.CDS.961;Product=5%27-methylthioadenosine nucleosidase %28EC 3.2.2.16%29 %40 S-adenosylhomocysteine nucleosidase %28EC 3.2.2.9%29;locus_tag=AB141P03.genome.CDS.961
+AB141P03.contig.4	feature	CDS	26212	26922	.	-	0	ID=AB141P03.genome.CDS.960;Product=;locus_tag=AB141P03.genome.CDS.960
+AB141P03.contig.4	feature	CDS	25112	26215	.	-	0	ID=AB141P03.genome.CDS.959;Product=N-acylamino acid racemase;locus_tag=AB141P03.genome.CDS.959
+AB141P03.contig.4	feature	CDS	23887	25110	.	-	0	ID=AB141P03.genome.CDS.958;Product=;locus_tag=AB141P03.genome.CDS.958
+AB141P03.contig.4	feature	CDS	22635	23747	.	-	0	ID=AB141P03.genome.CDS.957;Product=;locus_tag=AB141P03.genome.CDS.957
+AB141P03.contig.4	feature	CDS	21647	22576	.	-	0	ID=AB141P03.genome.CDS.956;Product=;locus_tag=AB141P03.genome.CDS.956
+AB141P03.contig.4	feature	CDS	21063	21671	.	+	0	ID=AB141P03.genome.CDS.955;Product=DedA protein;locus_tag=AB141P03.genome.CDS.955
+AB141P03.contig.4	feature	CDS	19682	21058	.	+	0	ID=AB141P03.genome.CDS.954;Product=NADP-dependent malic enzyme %28EC 1.1.1.40%29;locus_tag=AB141P03.genome.CDS.954
+AB141P03.contig.4	feature	CDS	19043	19681	.	+	0	ID=AB141P03.genome.CDS.953;Product=Uracil phosphoribosyltransferase %28EC 2.4.2.9%29;locus_tag=AB141P03.genome.CDS.953
+AB141P03.contig.4	feature	CDS	18478	18936	.	-	0	ID=AB141P03.genome.CDS.952;Product=;locus_tag=AB141P03.genome.CDS.952
+AB141P03.contig.4	feature	CDS	18029	18460	.	-	0	ID=AB141P03.genome.CDS.951;Product=tRNA-specific adenosine-34 deaminase %28EC 3.5.4.-%29;locus_tag=AB141P03.genome.CDS.951
+AB141P03.contig.4	feature	CDS	15666	18032	.	+	0	ID=AB141P03.genome.CDS.950;Product=hypothetical protein;locus_tag=AB141P03.genome.CDS.950
+AB141P03.contig.4	feature	CDS	14143	15579	.	-	0	ID=AB141P03.genome.CDS.949;Product=Succinate-semialdehyde dehydrogenase %5BNAD%28P%29%2B%5D %28EC 1.2.1.16%29;locus_tag=AB141P03.genome.CDS.949
+AB141P03.contig.4	feature	CDS	13811	14140	.	-	0	ID=AB141P03.genome.CDS.948;Product=;locus_tag=AB141P03.genome.CDS.948
+AB141P03.contig.4	feature	tRNA	13720	13807	.	+	.	ID=AB141P03.genome.rna.12;Product=tRNA-Ser-GGA;locus_tag=AB141P03.genome.rna.12
+AB141P03.contig.4	feature	CDS	11817	13529	.	-	0	ID=AB141P03.genome.CDS.947;Product=DNA polymerase III subunits gamma and tau %28EC 2.7.7.7%29;locus_tag=AB141P03.genome.CDS.947
+AB141P03.contig.4	feature	CDS	11196	11795	.	-	0	ID=AB141P03.genome.CDS.946;Product=Recombination protein RecR;locus_tag=AB141P03.genome.CDS.946
+AB141P03.contig.4	feature	CDS	10866	11111	.	-	0	ID=AB141P03.genome.CDS.275;Product=Aspartokinase %28EC 2.7.2.4%29;locus_tag=AB141P03.genome.CDS.275
+AB141P03.contig.4	feature	CDS	10469	10591	.	+	0	ID=AB141P03.genome.CDS.944;Product=;locus_tag=AB141P03.genome.CDS.944
+AB141P03.contig.4	feature	CDS	8344	10299	.	-	0	ID=AB141P03.genome.CDS.943;Product=Acetyl-coenzyme A synthetase %28EC 6.2.1.1%29;locus_tag=AB141P03.genome.CDS.943
+AB141P03.contig.4	feature	CDS	7853	8347	.	+	0	ID=AB141P03.genome.CDS.942;Product=;locus_tag=AB141P03.genome.CDS.942
+AB141P03.contig.4	feature	CDS	7308	7856	.	+	0	ID=AB141P03.genome.CDS.941;Product=Cytochrome c-type biogenesis protein ResA;locus_tag=AB141P03.genome.CDS.941
+AB141P03.contig.4	feature	CDS	6610	7311	.	+	0	ID=AB141P03.genome.CDS.940;Product=Endonuclease III %28EC 4.2.99.18%29;locus_tag=AB141P03.genome.CDS.940
+AB141P03.contig.4	feature	CDS	5863	6552	.	-	0	ID=AB141P03.genome.CDS.939;Product=cAMP-binding proteins - catabolite gene activator and regulatory subunit of cAMP-dependent protein kinases;locus_tag=AB141P03.genome.CDS.939
+AB141P03.contig.4	feature	CDS	5116	5832	.	-	0	ID=AB141P03.genome.CDS.938;Product=hypothetical protein;locus_tag=AB141P03.genome.CDS.938
+AB141P03.contig.4	feature	CDS	4665	5126	.	+	0	ID=AB141P03.genome.CDS.937;Product=RidA/YER057c/UK114 superfamily%2C group 1;locus_tag=AB141P03.genome.CDS.937
+AB141P03.contig.4	feature	CDS	4513	4668	.	+	0	ID=AB141P03.genome.CDS.936;Product=FIG011121: hypothetical protein;locus_tag=AB141P03.genome.CDS.936
+AB141P03.contig.4	feature	CDS	4031	4483	.	+	0	ID=AB141P03.genome.CDS.935;Product=Transamidase GatB domain protein;locus_tag=AB141P03.genome.CDS.935
+AB141P03.contig.4	feature	CDS	3198	4016	.	-	0	ID=AB141P03.genome.CDS.934;Product=putative secreted protein;locus_tag=AB141P03.genome.CDS.934
+AB141P03.contig.4	feature	CDS	2179	3183	.	-	0	ID=AB141P03.genome.CDS.933;Product=hypothetical protein;locus_tag=AB141P03.genome.CDS.933
+AB141P03.contig.4	feature	CDS	1132	2178	.	+	0	ID=AB141P03.genome.CDS.932;Product=Aspartate-semialdehyde dehydrogenase %28EC 1.2.1.11%29;locus_tag=AB141P03.genome.CDS.932
+AB141P03.contig.4	feature	CDS	2	1135	.	+	0	ID=AB141P03.genome.CDS.931;Product=Aspartokinase %28EC 2.7.2.4%29;locus_tag=AB141P03.genome.CDS.931
+AB141P03.contig.40	feature	CDS	278	937	.	+	0	ID=AB141P03.genome.CDS.1341;Product=;locus_tag=AB141P03.genome.CDS.1341
+AB141P03.contig.40	feature	CDS	1	165	.	+	0	ID=AB141P03.genome.CDS.1340;Product=;locus_tag=AB141P03.genome.CDS.1340
+AB141P03.contig.41	feature	CDS	434	805	.	-	0	ID=AB141P03.genome.CDS.652;Product=Triosephosphate isomerase %28EC 5.3.1.1%29;locus_tag=AB141P03.genome.CDS.652
+AB141P03.contig.41	feature	CDS	72	248	.	-	0	ID=AB141P03.genome.CDS.1342;Product=;locus_tag=AB141P03.genome.CDS.1342
+AB141P03.contig.42	feature	CDS	203	829	.	+	0	ID=AB141P03.genome.CDS.1345;Product=;locus_tag=AB141P03.genome.CDS.1345
+AB141P03.contig.42	feature	CDS	3	203	.	+	0	ID=AB141P03.genome.CDS.1344;Product=;locus_tag=AB141P03.genome.CDS.1344
+AB141P03.contig.43	feature	CDS	565	795	.	-	0	ID=AB141P03.genome.CDS.1347;Product=;locus_tag=AB141P03.genome.CDS.1347
+AB141P03.contig.43	feature	CDS	1	564	.	-	0	ID=AB141P03.genome.CDS.1346;Product=;locus_tag=AB141P03.genome.CDS.1346
+AB141P03.contig.44	feature	CDS	460	786	.	-	0	ID=AB141P03.genome.CDS.1349;Product=;locus_tag=AB141P03.genome.CDS.1349
+AB141P03.contig.44	feature	CDS	1	363	.	-	0	ID=AB141P03.genome.CDS.1348;Product=Pyridoxine biosynthesis glutamine amidotransferase%2C synthase subunit %28EC 2.4.2.-%29;locus_tag=AB141P03.genome.CDS.1348
+AB141P03.contig.45	feature	CDS	1	777	.	-	0	ID=AB141P03.genome.CDS.1350;Product=Soluble lytic murein transglycosylase precursor %28EC 3.2.1.-%29;locus_tag=AB141P03.genome.CDS.1350
+AB141P03.contig.46	feature	CDS	465	761	.	-	0	ID=AB141P03.genome.CDS.1353;Product=Adenosine %285%27%29-pentaphospho-%285%27%27%29-adenosine pyrophosphohydrolase %28EC 3.6.1.-%29;locus_tag=AB141P03.genome.CDS.1353
+AB141P03.contig.46	feature	CDS	76	468	.	+	0	ID=AB141P03.genome.CDS.1352;Product=ATP synthase epsilon chain %28EC 3.6.3.14%29;locus_tag=AB141P03.genome.CDS.1352
+AB141P03.contig.46	feature	CDS	2	70	.	+	0	ID=AB141P03.genome.CDS.1351;Product=ATP synthase beta chain %28EC 3.6.3.14%29;locus_tag=AB141P03.genome.CDS.1351
+AB141P03.contig.47	feature	CDS	126	746	.	-	0	ID=AB141P03.genome.CDS.1355;Product=Carboxyl-terminal protease %28EC 3.4.21.102%29;locus_tag=AB141P03.genome.CDS.1355
+AB141P03.contig.47	feature	CDS	1	129	.	-	0	ID=AB141P03.genome.CDS.1354;Product=Adenosine %285%27%29-pentaphospho-%285%27%27%29-adenosine pyrophosphohydrolase %28EC 3.6.1.-%29;locus_tag=AB141P03.genome.CDS.1354
+AB141P03.contig.48	feature	CDS	266	562	.	+	0	ID=AB141P03.genome.CDS.1356;Product=;locus_tag=AB141P03.genome.CDS.1356
+AB141P03.contig.49	feature	CDS	1	699	.	+	0	ID=AB141P03.genome.CDS.1357;Product=;locus_tag=AB141P03.genome.CDS.1357
+AB141P03.contig.5	feature	CDS	44423	45595	.	+	0	ID=AB141P03.genome.CDS.1049;Product=L-lactate dehydrogenase %28EC 1.1.2.3%29;locus_tag=AB141P03.genome.CDS.1049
+AB141P03.contig.5	feature	CDS	43873	44361	.	-	0	ID=AB141P03.genome.CDS.1048;Product=FIG001943: hypothetical protein YajQ;locus_tag=AB141P03.genome.CDS.1048
+AB141P03.contig.5	feature	CDS	42962	43852	.	-	0	ID=AB141P03.genome.CDS.1047;Product=;locus_tag=AB141P03.genome.CDS.1047
+AB141P03.contig.5	feature	CDS	42008	42994	.	+	0	ID=AB141P03.genome.CDS.1046;Product=Solanesyl diphosphate synthase %28EC 2.5.1.11%29;locus_tag=AB141P03.genome.CDS.1046
+AB141P03.contig.5	feature	CDS	40500	42008	.	+	0	ID=AB141P03.genome.CDS.1045;Product=NADH-ubiquinone oxidoreductase chain N %28EC 1.6.5.3%29;locus_tag=AB141P03.genome.CDS.1045
+AB141P03.contig.5	feature	CDS	38995	40500	.	+	0	ID=AB141P03.genome.CDS.1044;Product=NADH-ubiquinone oxidoreductase chain M %28EC 1.6.5.3%29;locus_tag=AB141P03.genome.CDS.1044
+AB141P03.contig.5	feature	CDS	37109	38998	.	+	0	ID=AB141P03.genome.CDS.1043;Product=NADH-ubiquinone oxidoreductase chain L %28EC 1.6.5.3%29;locus_tag=AB141P03.genome.CDS.1043
+AB141P03.contig.5	feature	CDS	36807	37106	.	+	0	ID=AB141P03.genome.CDS.1042;Product=NADH-ubiquinone oxidoreductase chain K %28EC 1.6.5.3%29;locus_tag=AB141P03.genome.CDS.1042
+AB141P03.contig.5	feature	CDS	36025	36807	.	+	0	ID=AB141P03.genome.CDS.1041;Product=NADH-ubiquinone oxidoreductase chain J %28EC 1.6.5.3%29;locus_tag=AB141P03.genome.CDS.1041
+AB141P03.contig.5	feature	CDS	35409	36032	.	+	0	ID=AB141P03.genome.CDS.1040;Product=NADH-ubiquinone oxidoreductase chain I %28EC 1.6.5.3%29;locus_tag=AB141P03.genome.CDS.1040
+AB141P03.contig.5	feature	CDS	34193	35416	.	+	0	ID=AB141P03.genome.CDS.1039;Product=NADH-ubiquinone oxidoreductase chain H %28EC 1.6.5.3%29;locus_tag=AB141P03.genome.CDS.1039
+AB141P03.contig.5	feature	CDS	31851	34196	.	+	0	ID=AB141P03.genome.CDS.1038;Product=NADH-ubiquinone oxidoreductase chain G %28EC 1.6.5.3%29;locus_tag=AB141P03.genome.CDS.1038
+AB141P03.contig.5	feature	CDS	30550	31854	.	+	0	ID=AB141P03.genome.CDS.1037;Product=NADH-ubiquinone oxidoreductase chain F %28EC 1.6.5.3%29;locus_tag=AB141P03.genome.CDS.1037
+AB141P03.contig.5	feature	CDS	29927	30553	.	+	0	ID=AB141P03.genome.CDS.1036;Product=NADH-ubiquinone oxidoreductase chain E %28EC 1.6.5.3%29;locus_tag=AB141P03.genome.CDS.1036
+AB141P03.contig.5	feature	CDS	28587	29927	.	+	0	ID=AB141P03.genome.CDS.1035;Product=NADH-ubiquinone oxidoreductase chain D %28EC 1.6.5.3%29;locus_tag=AB141P03.genome.CDS.1035
+AB141P03.contig.5	feature	CDS	27961	28590	.	+	0	ID=AB141P03.genome.CDS.1034;Product=NADH-ubiquinone oxidoreductase chain C %28EC 1.6.5.3%29;locus_tag=AB141P03.genome.CDS.1034
+AB141P03.contig.5	feature	CDS	27410	27964	.	+	0	ID=AB141P03.genome.CDS.1033;Product=NADH-ubiquinone oxidoreductase chain B %28EC 1.6.5.3%29;locus_tag=AB141P03.genome.CDS.1033
+AB141P03.contig.5	feature	CDS	27036	27407	.	+	0	ID=AB141P03.genome.CDS.1032;Product=NADH ubiquinone oxidoreductase chain A %28EC 1.6.5.3%29;locus_tag=AB141P03.genome.CDS.1032
+AB141P03.contig.5	feature	CDS	26302	26994	.	+	0	ID=AB141P03.genome.CDS.1031;Product=Demethylmenaquinone methyltransferase %28EC 2.1.1.163%29;locus_tag=AB141P03.genome.CDS.1031
+AB141P03.contig.5	feature	CDS	25005	26234	.	-	0	ID=AB141P03.genome.CDS.1030;Product=Isochorismate synthase %28EC 5.4.4.2%29 %40 Menaquinone-specific isochorismate synthase %28EC 5.4.4.2%29;locus_tag=AB141P03.genome.CDS.1030
+AB141P03.contig.5	feature	CDS	23488	25050	.	+	0	ID=AB141P03.genome.CDS.1029;Product=2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase %28EC 2.2.1.9%29;locus_tag=AB141P03.genome.CDS.1029
+AB141P03.contig.5	feature	CDS	22550	23491	.	+	0	ID=AB141P03.genome.CDS.1028;Product=O-succinylbenzoate synthase %28EC 4.2.1.113%29;locus_tag=AB141P03.genome.CDS.1028
+AB141P03.contig.5	feature	CDS	21668	22546	.	+	0	ID=AB141P03.genome.CDS.1027;Product=Naphthoate synthase %28EC 4.1.3.36%29;locus_tag=AB141P03.genome.CDS.1027
+AB141P03.contig.5	feature	CDS	20537	21619	.	-	0	ID=AB141P03.genome.CDS.1026;Product=O-succinylbenzoic acid--CoA ligase %28EC 6.2.1.26%29;locus_tag=AB141P03.genome.CDS.1026
+AB141P03.contig.5	feature	CDS	19692	20540	.	-	0	ID=AB141P03.genome.CDS.1025;Product=1%2C4-dihydroxy-2-naphthoate polyprenyltransferase %28EC 2.5.1.74%29;locus_tag=AB141P03.genome.CDS.1025
+AB141P03.contig.5	feature	CDS	19422	19673	.	-	0	ID=AB141P03.genome.CDS.1024;Product=;locus_tag=AB141P03.genome.CDS.1024
+AB141P03.contig.5	feature	CDS	18528	19427	.	+	0	ID=AB141P03.genome.CDS.1023;Product=Cytochrome c-type biogenesis protein CcsA/ResC;locus_tag=AB141P03.genome.CDS.1023
+AB141P03.contig.5	feature	CDS	17090	18538	.	+	0	ID=AB141P03.genome.CDS.1022;Product=Ccs1/ResB-related putative cytochrome C-type biogenesis protein;locus_tag=AB141P03.genome.CDS.1022
+AB141P03.contig.5	feature	CDS	16359	17090	.	+	0	ID=AB141P03.genome.CDS.1021;Product=Cytochrome c-type biogenesis protein CcdA %28DsbD analog%29;locus_tag=AB141P03.genome.CDS.1021
+AB141P03.contig.5	feature	CDS	15827	16366	.	+	0	ID=AB141P03.genome.CDS.1020;Product=Thiol:disulfide oxidoreductase related to ResA;locus_tag=AB141P03.genome.CDS.1020
+AB141P03.contig.5	feature	CDS	15207	15830	.	+	0	ID=AB141P03.genome.CDS.1019;Product=Hypothetical%2C related to broad specificity phosphatases COG0406;locus_tag=AB141P03.genome.CDS.1019
+AB141P03.contig.5	feature	CDS	14383	15156	.	-	0	ID=AB141P03.genome.CDS.1018;Product=Phosphoserine phosphatase %28EC 3.1.3.3%29;locus_tag=AB141P03.genome.CDS.1018
+AB141P03.contig.5	feature	CDS	12154	14346	.	-	0	ID=AB141P03.genome.CDS.1017;Product=probable DNA-binding protein;locus_tag=AB141P03.genome.CDS.1017
+AB141P03.contig.5	feature	CDS	11090	12157	.	-	0	ID=AB141P03.genome.CDS.1016;Product=putative peptidase;locus_tag=AB141P03.genome.CDS.1016
+AB141P03.contig.5	feature	CDS	9450	11093	.	-	0	ID=AB141P03.genome.CDS.1015;Product=DNA repair helicase;locus_tag=AB141P03.genome.CDS.1015
+AB141P03.contig.5	feature	CDS	9213	9449	.	+	0	ID=AB141P03.genome.CDS.1014;Product=;locus_tag=AB141P03.genome.CDS.1014
+AB141P03.contig.5	feature	CDS	6732	9086	.	-	0	ID=AB141P03.genome.CDS.1013;Product=;locus_tag=AB141P03.genome.CDS.1013
+AB141P03.contig.5	feature	CDS	6626	6724	.	+	0	ID=AB141P03.genome.CDS.1012;Product=FIG00945572: hypothetical protein;locus_tag=AB141P03.genome.CDS.1012
+AB141P03.contig.5	feature	CDS	5364	6587	.	+	0	ID=AB141P03.genome.CDS.1011;Product=hypothetical protein;locus_tag=AB141P03.genome.CDS.1011
+AB141P03.contig.5	feature	CDS	4555	5367	.	+	0	ID=AB141P03.genome.CDS.1010;Product=Pyrroline-5-carboxylate reductase %28EC 1.5.1.2%29;locus_tag=AB141P03.genome.CDS.1010
+AB141P03.contig.5	feature	CDS	3638	4498	.	-	0	ID=AB141P03.genome.CDS.1009;Product=;locus_tag=AB141P03.genome.CDS.1009
+AB141P03.contig.5	feature	CDS	2241	3611	.	-	0	ID=AB141P03.genome.CDS.1008;Product=DNA repair protein RadA;locus_tag=AB141P03.genome.CDS.1008
+AB141P03.contig.5	feature	CDS	2	2248	.	+	0	ID=AB141P03.genome.CDS.1007;Product=ATP-dependent Clp protease%2C ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB;locus_tag=AB141P03.genome.CDS.1007
+AB141P03.contig.50	feature	CDS	529	681	.	+	0	ID=AB141P03.genome.CDS.1359;Product=Inositol-1-phosphate synthase %28EC 5.5.1.4%29;locus_tag=AB141P03.genome.CDS.1359
+AB141P03.contig.50	feature	CDS	2	532	.	+	0	ID=AB141P03.genome.CDS.1358;Product=;locus_tag=AB141P03.genome.CDS.1358
+AB141P03.contig.51	feature	CDS	451	678	.	-	0	ID=AB141P03.genome.CDS.1361;Product=Topoisomerase IV subunit A %28EC 5.99.1.-%29;locus_tag=AB141P03.genome.CDS.1361
+AB141P03.contig.51	feature	CDS	3	446	.	-	0	ID=AB141P03.genome.CDS.1360;Product=;locus_tag=AB141P03.genome.CDS.1360
+AB141P03.contig.52	feature	CDS	148	672	.	-	0	ID=AB141P03.genome.CDS.1363;Product=FIG001196: Membrane protein YedZ;locus_tag=AB141P03.genome.CDS.1363
+AB141P03.contig.52	feature	CDS	3	83	.	-	0	ID=AB141P03.genome.CDS.1362;Product=;locus_tag=AB141P03.genome.CDS.1362
+AB141P03.contig.53	feature	CDS	3	656	.	+	0	ID=AB141P03.genome.CDS.1364;Product=Uracil permease;locus_tag=AB141P03.genome.CDS.1364
+AB141P03.contig.54	feature	CDS	155	628	.	-	0	ID=AB141P03.genome.CDS.1366;Product=TPP-requiring enzyme co-localized with putative O-antigen rfb gene cluster;locus_tag=AB141P03.genome.CDS.1366
+AB141P03.contig.54	feature	CDS	2	130	.	-	0	ID=AB141P03.genome.CDS.1365;Product=unknown protein;locus_tag=AB141P03.genome.CDS.1365
+AB141P03.contig.55	feature	CDS	1	543	.	-	0	ID=AB141P03.genome.CDS.1367;Product=5%2C10-methylenetetrahydrofolate reductase %28EC 1.5.1.20%29;locus_tag=AB141P03.genome.CDS.1367
+AB141P03.contig.56	feature	CDS	2	616	.	-	0	ID=AB141P03.genome.CDS.1368;Product=hypothetical protein;locus_tag=AB141P03.genome.CDS.1368
+AB141P03.contig.57	feature	CDS	237	596	.	+	0	ID=AB141P03.genome.CDS.1369;Product=1-acyl-sn-glycerol-3-phosphate acyltransferase %28EC 2.3.1.51%29;locus_tag=AB141P03.genome.CDS.1369
+AB141P03.contig.57	feature	CDS	80	199	.	-	0	ID=AB141P03.genome.CDS.661;Product=;locus_tag=AB141P03.genome.CDS.661
+AB141P03.contig.58	feature	CDS	65	577	.	-	0	ID=AB141P03.genome.CDS.1370;Product=5-aminolevulinate synthase %28EC 2.3.1.37%29;locus_tag=AB141P03.genome.CDS.1370
+AB141P03.contig.59	feature	CDS	498	569	.	+	0	ID=AB141P03.genome.CDS.1372;Product=Phosphoglycerate kinase %28EC 2.7.2.3%29;locus_tag=AB141P03.genome.CDS.1372
+AB141P03.contig.59	feature	CDS	3	425	.	+	0	ID=AB141P03.genome.CDS.1371;Product=NAD-dependent glyceraldehyde-3-phosphate dehydrogenase %28EC 1.2.1.12%29;locus_tag=AB141P03.genome.CDS.1371
+AB141P03.contig.6	feature	CDS	39230	39619	.	+	0	ID=AB141P03.genome.CDS.1094;Product=Transcriptional regulator%2C IclR family;locus_tag=AB141P03.genome.CDS.1094
+AB141P03.contig.6	feature	CDS	37772	39169	.	-	0	ID=AB141P03.genome.CDS.1093;Product=3-isopropylmalate dehydratase large subunit %28EC 4.2.1.33%29;locus_tag=AB141P03.genome.CDS.1093
+AB141P03.contig.6	feature	CDS	37174	37770	.	-	0	ID=AB141P03.genome.CDS.1092;Product=3-isopropylmalate dehydratase small subunit %28EC 4.2.1.33%29;locus_tag=AB141P03.genome.CDS.1092
+AB141P03.contig.6	feature	CDS	36582	36995	.	-	0	ID=AB141P03.genome.CDS.1091;Product=;locus_tag=AB141P03.genome.CDS.1091
+AB141P03.contig.6	feature	CDS	35706	36488	.	-	0	ID=AB141P03.genome.CDS.1090;Product=1-acyl-sn-glycerol-3-phosphate acyltransferase %28EC 2.3.1.51%29;locus_tag=AB141P03.genome.CDS.1090
+AB141P03.contig.6	feature	CDS	34708	35709	.	-	0	ID=AB141P03.genome.CDS.1089;Product=Glycerol-3-phosphate dehydrogenase %5BNAD%28P%29%2B%5D %28EC 1.1.1.94%29;locus_tag=AB141P03.genome.CDS.1089
+AB141P03.contig.6	feature	CDS	33668	34711	.	-	0	ID=AB141P03.genome.CDS.1088;Product=D-alanine--D-alanine ligase %28EC 6.3.2.4%29;locus_tag=AB141P03.genome.CDS.1088
+AB141P03.contig.6	feature	CDS	33175	33663	.	-	0	ID=AB141P03.genome.CDS.1087;Product=Uncharacterized protein SCO3165;locus_tag=AB141P03.genome.CDS.1087
+AB141P03.contig.6	feature	CDS	32940	33173	.	-	0	ID=AB141P03.genome.CDS.1086;Product=Possible transmembrane protein;locus_tag=AB141P03.genome.CDS.1086
+AB141P03.contig.6	feature	CDS	32584	32820	.	+	0	ID=AB141P03.genome.CDS.1085;Product=Transcriptional regulator%2C AsnC family;locus_tag=AB141P03.genome.CDS.1085
+AB141P03.contig.6	feature	CDS	31564	32499	.	-	0	ID=AB141P03.genome.CDS.1084;Product=Thiamine-monophosphate kinase %28EC 2.7.4.16%29;locus_tag=AB141P03.genome.CDS.1084
+AB141P03.contig.6	feature	CDS	31377	31562	.	+	0	ID=AB141P03.genome.CDS.414;Product=LSU ribosomal protein L28p %40 LSU ribosomal protein L28p%2C zinc-dependent;locus_tag=AB141P03.genome.CDS.414
+AB141P03.contig.6	feature	CDS	29063	31249	.	-	0	ID=AB141P03.genome.CDS.1083;Product=ATP-dependent DNA helicase RecG %28EC 3.6.1.-%29;locus_tag=AB141P03.genome.CDS.1083
+AB141P03.contig.6	feature	CDS	28482	29066	.	-	0	ID=AB141P03.genome.CDS.1082;Product=;locus_tag=AB141P03.genome.CDS.1082
+AB141P03.contig.6	feature	CDS	27956	28438	.	-	0	ID=AB141P03.genome.CDS.1081;Product=Phosphopantetheine adenylyltransferase %28EC 2.7.7.3%29;locus_tag=AB141P03.genome.CDS.1081
+AB141P03.contig.6	feature	CDS	27477	27953	.	-	0	ID=AB141P03.genome.CDS.1080;Product=;locus_tag=AB141P03.genome.CDS.1080
+AB141P03.contig.6	feature	CDS	26897	27472	.	-	0	ID=AB141P03.genome.CDS.1079;Product=COG1399 protein%2C clustered with ribosomal protein L32p;locus_tag=AB141P03.genome.CDS.1079
+AB141P03.contig.6	feature	CDS	26649	26822	.	-	0	ID=AB141P03.genome.CDS.1078;Product=LSU ribosomal protein L32p %40 LSU ribosomal protein L32p%2C zinc-dependent;locus_tag=AB141P03.genome.CDS.1078
+AB141P03.contig.6	feature	CDS	25961	26599	.	-	0	ID=AB141P03.genome.CDS.1077;Product=Ribonuclease III %28EC 3.1.26.3%29;locus_tag=AB141P03.genome.CDS.1077
+AB141P03.contig.6	feature	CDS	25107	25946	.	-	0	ID=AB141P03.genome.CDS.1076;Product=Formamidopyrimidine-DNA glycosylase %28EC 3.2.2.23%29;locus_tag=AB141P03.genome.CDS.1076
+AB141P03.contig.6	feature	CDS	21944	25051	.	-	0	ID=AB141P03.genome.CDS.1075;Product=Chromosome partition protein smc;locus_tag=AB141P03.genome.CDS.1075
+AB141P03.contig.6	feature	CDS	21100	21936	.	-	0	ID=AB141P03.genome.CDS.1074;Product=Signal recognition particle receptor protein FtsY %28%3Dalpha subunit%29 %28TC 3.A.5.1.1%29;locus_tag=AB141P03.genome.CDS.1074
+AB141P03.contig.6	feature	CDS	19636	20940	.	-	0	ID=AB141P03.genome.CDS.1073;Product=Ammonium transporter;locus_tag=AB141P03.genome.CDS.1073
+AB141P03.contig.6	feature	CDS	19301	19639	.	-	0	ID=AB141P03.genome.CDS.1072;Product=Nitrogen regulatory protein P-II;locus_tag=AB141P03.genome.CDS.1072
+AB141P03.contig.6	feature	CDS	17856	19280	.	-	0	ID=AB141P03.genome.CDS.1071;Product=Signal recognition particle%2C subunit Ffh SRP54 %28TC 3.A.5.1.1%29;locus_tag=AB141P03.genome.CDS.1071
+AB141P03.contig.6	feature	CDS	17135	17698	.	-	0	ID=AB141P03.genome.CDS.1070;Product=SSU ribosomal protein S16p;locus_tag=AB141P03.genome.CDS.1070
+AB141P03.contig.6	feature	CDS	16443	17120	.	-	0	ID=AB141P03.genome.CDS.1069;Product=Signal peptidase I %28EC 3.4.21.89%29;locus_tag=AB141P03.genome.CDS.1069
+AB141P03.contig.6	feature	CDS	15839	16438	.	-	0	ID=AB141P03.genome.CDS.1068;Product=Ribonuclease HII %28EC 3.1.26.4%29;locus_tag=AB141P03.genome.CDS.1068
+AB141P03.contig.6	feature	CDS	14894	15775	.	-	0	ID=AB141P03.genome.CDS.1067;Product=Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake;locus_tag=AB141P03.genome.CDS.1067
+AB141P03.contig.6	feature	CDS	13952	14869	.	-	0	ID=AB141P03.genome.CDS.1066;Product=GTP-binding protein Era;locus_tag=AB141P03.genome.CDS.1066
+AB141P03.contig.6	feature	CDS	13111	13974	.	+	0	ID=AB141P03.genome.CDS.1065;Product=Permease of the drug/metabolite transporter %28DMT%29 superfamily;locus_tag=AB141P03.genome.CDS.1065
+AB141P03.contig.6	feature	CDS	12172	13110	.	+	0	ID=AB141P03.genome.CDS.1064;Product=;locus_tag=AB141P03.genome.CDS.1064
+AB141P03.contig.6	feature	CDS	11076	12101	.	-	0	ID=AB141P03.genome.CDS.1063;Product=6-phosphofructokinase %28EC 2.7.1.11%29;locus_tag=AB141P03.genome.CDS.1063
+AB141P03.contig.6	feature	CDS	9683	11020	.	-	0	ID=AB141P03.genome.CDS.1062;Product=2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase II %28EC 2.5.1.54%29;locus_tag=AB141P03.genome.CDS.1062
+AB141P03.contig.6	feature	CDS	9167	9658	.	-	0	ID=AB141P03.genome.CDS.1061;Product=Methylated-DNA--protein-cysteine methyltransferase %28EC 2.1.1.63%29;locus_tag=AB141P03.genome.CDS.1061
+AB141P03.contig.6	feature	CDS	8135	9193	.	+	0	ID=AB141P03.genome.CDS.1060;Product=Low-specificity L-threonine aldolase %28EC 4.1.2.48%29;locus_tag=AB141P03.genome.CDS.1060
+AB141P03.contig.6	feature	CDS	7264	8142	.	+	0	ID=AB141P03.genome.CDS.1059;Product=Permease of the drug/metabolite transporter %28DMT%29 superfamily;locus_tag=AB141P03.genome.CDS.1059
+AB141P03.contig.6	feature	CDS	6398	7267	.	+	0	ID=AB141P03.genome.CDS.1058;Product=Endonuclease IV %28EC 3.1.21.2%29;locus_tag=AB141P03.genome.CDS.1058
+AB141P03.contig.6	feature	CDS	4462	6363	.	+	0	ID=AB141P03.genome.CDS.1057;Product=Serine/threonine protein kinase PrkC%2C regulator of stationary phase;locus_tag=AB141P03.genome.CDS.1057
+AB141P03.contig.6	feature	CDS	3874	4425	.	+	0	ID=AB141P03.genome.CDS.1056;Product=;locus_tag=AB141P03.genome.CDS.1056
+AB141P03.contig.6	feature	CDS	3336	3887	.	+	0	ID=AB141P03.genome.CDS.1055;Product=;locus_tag=AB141P03.genome.CDS.1055
+AB141P03.contig.6	feature	CDS	2875	3180	.	-	0	ID=AB141P03.genome.CDS.1054;Product=;locus_tag=AB141P03.genome.CDS.1054
+AB141P03.contig.6	feature	CDS	2570	2875	.	-	0	ID=AB141P03.genome.CDS.1053;Product=Lycopene cyclase;locus_tag=AB141P03.genome.CDS.1053
+AB141P03.contig.6	feature	CDS	1658	2569	.	+	0	ID=AB141P03.genome.CDS.1052;Product=Phytoene synthase %28EC 2.5.1.32%29;locus_tag=AB141P03.genome.CDS.1052
+AB141P03.contig.6	feature	CDS	170	1654	.	+	0	ID=AB141P03.genome.CDS.1051;Product=Phytoene dehydrogenase %28EC 1.14.99.-%29;locus_tag=AB141P03.genome.CDS.1051
+AB141P03.contig.6	feature	CDS	3	167	.	+	0	ID=AB141P03.genome.CDS.1050;Product=;locus_tag=AB141P03.genome.CDS.1050
+AB141P03.contig.60	feature	CDS	2	571	.	-	0	ID=AB141P03.genome.CDS.1373;Product=Long-chain-fatty-acid--CoA ligase %28EC 6.2.1.3%29;locus_tag=AB141P03.genome.CDS.1373
+AB141P03.contig.61	feature	CDS	2	568	.	-	0	ID=AB141P03.genome.CDS.1374;Product=Long-chain-fatty-acid--CoA ligase %28EC 6.2.1.3%29;locus_tag=AB141P03.genome.CDS.1374
+AB141P03.contig.62	feature	CDS	338	562	.	+	0	ID=AB141P03.genome.CDS.1376;Product=Triosephosphate isomerase %28EC 5.3.1.1%29;locus_tag=AB141P03.genome.CDS.1376
+AB141P03.contig.62	feature	CDS	1	327	.	+	0	ID=AB141P03.genome.CDS.1375;Product=Phosphoglycerate kinase %28EC 2.7.2.3%29;locus_tag=AB141P03.genome.CDS.1375
+AB141P03.contig.64	feature	CDS	416	538	.	-	0	ID=AB141P03.genome.CDS.1378;Product=Transcription antitermination protein NusG;locus_tag=AB141P03.genome.CDS.1378
+AB141P03.contig.64	feature	CDS	3	392	.	-	0	ID=AB141P03.genome.CDS.1377;Product=LSU ribosomal protein L11p %28L12e%29;locus_tag=AB141P03.genome.CDS.1377
+AB141P03.contig.65	feature	CDS	358	528	.	+	0	ID=AB141P03.genome.CDS.1380;Product=;locus_tag=AB141P03.genome.CDS.1380
+AB141P03.contig.65	feature	CDS	3	365	.	+	0	ID=AB141P03.genome.CDS.1379;Product=DNA topoisomerase I %28EC 5.99.1.2%29;locus_tag=AB141P03.genome.CDS.1379
+AB141P03.contig.66	feature	CDS	16	519	.	-	0	ID=AB141P03.genome.CDS.1381;Product=hypothetical protein;locus_tag=AB141P03.genome.CDS.1381
+AB141P03.contig.7	feature	CDS	37418	37879	.	+	0	ID=AB141P03.genome.CDS.1132;Product=;locus_tag=AB141P03.genome.CDS.1132
+AB141P03.contig.7	feature	CDS	36885	37421	.	+	0	ID=AB141P03.genome.CDS.1131;Product=;locus_tag=AB141P03.genome.CDS.1131
+AB141P03.contig.7	feature	CDS	35908	36840	.	-	0	ID=AB141P03.genome.CDS.1130;Product=2%2C3%2C4%2C5-tetrahydropyridine-2%2C6-dicarboxylate N-succinyltransferase %28EC 2.3.1.117%29;locus_tag=AB141P03.genome.CDS.1130
+AB141P03.contig.7	feature	CDS	34937	35911	.	+	0	ID=AB141P03.genome.CDS.1129;Product=putative glycosyl transferase;locus_tag=AB141P03.genome.CDS.1129
+AB141P03.contig.7	feature	CDS	33777	34877	.	-	0	ID=AB141P03.genome.CDS.1128;Product=Cell envelope-associated transcriptional attenuator LytR-CpsA-Psr%2C subfamily A1 %28as in PMID19099556%29;locus_tag=AB141P03.genome.CDS.1128
+AB141P03.contig.7	feature	CDS	32432	33748	.	-	0	ID=AB141P03.genome.CDS.1127;Product=UDP-glucose 6-dehydrogenase %28EC 1.1.1.22%29;locus_tag=AB141P03.genome.CDS.1127
+AB141P03.contig.7	feature	CDS	32047	32439	.	-	0	ID=AB141P03.genome.CDS.1126;Product=Succinyl-CoA synthetase%2C alpha subunit-related enzymes;locus_tag=AB141P03.genome.CDS.1126
+AB141P03.contig.7	feature	CDS	31225	32046	.	+	0	ID=AB141P03.genome.CDS.1125;Product=Phosphoribosylaminoimidazole carboxylase ATPase subunit %28EC 4.1.1.21%29;locus_tag=AB141P03.genome.CDS.1125
+AB141P03.contig.7	feature	CDS	30605	31204	.	-	0	ID=AB141P03.genome.CDS.1124;Product=Septum formation protein Maf;locus_tag=AB141P03.genome.CDS.1124
+AB141P03.contig.7	feature	CDS	29773	30582	.	-	0	ID=AB141P03.genome.CDS.1123;Product=Purine nucleoside phosphorylase %28EC 2.4.2.1%29;locus_tag=AB141P03.genome.CDS.1123
+AB141P03.contig.7	feature	CDS	28163	29776	.	-	0	ID=AB141P03.genome.CDS.1122;Product=Phosphomannomutase %28EC 5.4.2.8%29;locus_tag=AB141P03.genome.CDS.1122
+AB141P03.contig.7	feature	CDS	27231	28166	.	-	0	ID=AB141P03.genome.CDS.1121;Product=Deoxyribose-phosphate aldolase %28EC 4.1.2.4%29;locus_tag=AB141P03.genome.CDS.1121
+AB141P03.contig.7	feature	CDS	25769	27223	.	-	0	ID=AB141P03.genome.CDS.1120;Product=Aldehyde dehydrogenase %28EC 1.2.1.3%29;locus_tag=AB141P03.genome.CDS.1120
+AB141P03.contig.7	feature	CDS	24930	25772	.	-	0	ID=AB141P03.genome.CDS.1119;Product=Aldehyde dehydrogenase %28EC 1.2.1.3%29;locus_tag=AB141P03.genome.CDS.1119
+AB141P03.contig.7	feature	CDS	23830	24924	.	+	0	ID=AB141P03.genome.CDS.1118;Product=Adenosine deaminase %28EC 3.5.4.4%29;locus_tag=AB141P03.genome.CDS.1118
+AB141P03.contig.7	feature	CDS	22534	23829	.	+	0	ID=AB141P03.genome.CDS.1117;Product=Thymidine phosphorylase %28EC 2.4.2.4%29;locus_tag=AB141P03.genome.CDS.1117
+AB141P03.contig.7	feature	CDS	22151	22537	.	+	0	ID=AB141P03.genome.CDS.1116;Product=Cytidine deaminase %28EC 3.5.4.5%29;locus_tag=AB141P03.genome.CDS.1116
+AB141P03.contig.7	feature	CDS	20869	22125	.	+	0	ID=AB141P03.genome.CDS.1115;Product=Nucleoside ABC transporter%2C permease protein 2;locus_tag=AB141P03.genome.CDS.1115
+AB141P03.contig.7	feature	CDS	19697	20869	.	+	0	ID=AB141P03.genome.CDS.1114;Product=;locus_tag=AB141P03.genome.CDS.1114
+AB141P03.contig.7	feature	CDS	18204	19700	.	+	0	ID=AB141P03.genome.CDS.1113;Product=ABC transporter ATP-binding protein;locus_tag=AB141P03.genome.CDS.1113
+AB141P03.contig.7	feature	CDS	17090	18118	.	+	0	ID=AB141P03.genome.CDS.1112;Product=Nucleoside ABC transporter%2C periplasmic nucleoside-binding protein;locus_tag=AB141P03.genome.CDS.1112
+AB141P03.contig.7	feature	CDS	15916	16911	.	+	0	ID=AB141P03.genome.CDS.1111;Product=Tryptophanyl-tRNA synthetase %28EC 6.1.1.2%29;locus_tag=AB141P03.genome.CDS.1111
+AB141P03.contig.7	feature	CDS	14609	15916	.	+	0	ID=AB141P03.genome.CDS.1110;Product=Hemolysins and related proteins containing CBS domains;locus_tag=AB141P03.genome.CDS.1110
+AB141P03.contig.7	feature	CDS	13297	14517	.	+	0	ID=AB141P03.genome.CDS.1109;Product=Isocitrate dehydrogenase %5BNADP%5D %28EC 1.1.1.42%29;locus_tag=AB141P03.genome.CDS.1109
+AB141P03.contig.7	feature	CDS	12324	13280	.	+	0	ID=AB141P03.genome.CDS.1108;Product=Malate dehydrogenase %28EC 1.1.1.37%29;locus_tag=AB141P03.genome.CDS.1108
+AB141P03.contig.7	feature	CDS	12014	12259	.	+	0	ID=AB141P03.genome.CDS.1107;Product=;locus_tag=AB141P03.genome.CDS.1107
+AB141P03.contig.7	feature	CDS	11185	12024	.	+	0	ID=AB141P03.genome.CDS.1106;Product=Methylenetetrahydrofolate dehydrogenase %28NADP%2B%29 %28EC 1.5.1.5%29 / Methenyltetrahydrofolate cyclohydrolase %28EC 3.5.4.9%29;locus_tag=AB141P03.genome.CDS.1106
+AB141P03.contig.7	feature	CDS	10097	11188	.	+	0	ID=AB141P03.genome.CDS.1105;Product=hypothetical protein;locus_tag=AB141P03.genome.CDS.1105
+AB141P03.contig.7	feature	CDS	9197	10078	.	+	0	ID=AB141P03.genome.CDS.1104;Product=Succinyl-CoA ligase %5BADP-forming%5D alpha chain %28EC 6.2.1.5%29;locus_tag=AB141P03.genome.CDS.1104
+AB141P03.contig.7	feature	CDS	8037	9197	.	+	0	ID=AB141P03.genome.CDS.1103;Product=Succinyl-CoA ligase %5BADP-forming%5D beta chain %28EC 6.2.1.5%29;locus_tag=AB141P03.genome.CDS.1103
+AB141P03.contig.7	feature	CDS	5759	7972	.	+	0	ID=AB141P03.genome.CDS.1102;Product=ATP-dependent DNA helicase UvrD/PcrA;locus_tag=AB141P03.genome.CDS.1102
+AB141P03.contig.7	feature	CDS	4975	5742	.	-	0	ID=AB141P03.genome.CDS.1101;Product=;locus_tag=AB141P03.genome.CDS.1101
+AB141P03.contig.7	feature	CDS	4319	4978	.	+	0	ID=AB141P03.genome.CDS.1100;Product=Peptidyl-prolyl cis-trans isomerase %28EC 5.2.1.8%29;locus_tag=AB141P03.genome.CDS.1100
+AB141P03.contig.7	feature	CDS	3113	4222	.	+	0	ID=AB141P03.genome.CDS.1099;Product=Inosine-5%27-monophosphate dehydrogenase%2C catalytic domain %28EC 1.1.1.205%29;locus_tag=AB141P03.genome.CDS.1099
+AB141P03.contig.7	feature	CDS	2321	3073	.	+	0	ID=AB141P03.genome.CDS.1098;Product=Polyphosphate glucokinase %28EC 2.7.1.63%29;locus_tag=AB141P03.genome.CDS.1098
+AB141P03.contig.7	feature	CDS	625	2259	.	+	0	ID=AB141P03.genome.CDS.1097;Product=Heat shock protein 60 family chaperone GroEL;locus_tag=AB141P03.genome.CDS.1097
+AB141P03.contig.7	feature	CDS	326	622	.	+	0	ID=AB141P03.genome.CDS.1096;Product=Heat shock protein 60 family co-chaperone GroES;locus_tag=AB141P03.genome.CDS.1096
+AB141P03.contig.7	feature	CDS	3	197	.	+	0	ID=AB141P03.genome.CDS.1095;Product=Kinase-Associated Endopeptidase %28Kae1%29%2C required for threonylcarbamoyladenosine t%286%29A37 formation in tRNA;locus_tag=AB141P03.genome.CDS.1095
+AB141P03.contig.8	feature	misc_RNA	15774	15888	.	+	.	ID=AB141P03.genome.repeat.3;Product=repeat region;locus_tag=AB141P03.genome.repeat.3
+AB141P03.contig.8	feature	misc_RNA	23295	23407	.	+	.	ID=AB141P03.genome.repeat.4;Product=repeat region;locus_tag=AB141P03.genome.repeat.4
+AB141P03.contig.8	feature	CDS	22187	23371	.	+	0	ID=AB141P03.genome.CDS.1151;Product=Cytosine/purine/uracil/thiamine/allantoin permease family protein;locus_tag=AB141P03.genome.CDS.1151
+AB141P03.contig.8	feature	CDS	20864	22162	.	+	0	ID=AB141P03.genome.CDS.1150;Product=ATP-dependent RNA helicase;locus_tag=AB141P03.genome.CDS.1150
+AB141P03.contig.8	feature	CDS	20082	20726	.	+	0	ID=AB141P03.genome.CDS.1149;Product=;locus_tag=AB141P03.genome.CDS.1149
+AB141P03.contig.8	feature	CDS	18892	20037	.	+	0	ID=AB141P03.genome.CDS.1148;Product=DNA polymerase III delta prime subunit %28EC 2.7.7.7%29;locus_tag=AB141P03.genome.CDS.1148
+AB141P03.contig.8	feature	CDS	16874	18892	.	+	0	ID=AB141P03.genome.CDS.1147;Product=Thymidylate kinase %28EC 2.7.4.9%29;locus_tag=AB141P03.genome.CDS.1147
+AB141P03.contig.8	feature	CDS	14124	16844	.	+	0	ID=AB141P03.genome.CDS.1146;Product=DNA topoisomerase I %28EC 5.99.1.2%29;locus_tag=AB141P03.genome.CDS.1146
+AB141P03.contig.8	feature	CDS	11827	14082	.	+	0	ID=AB141P03.genome.CDS.1145;Product=Pyrophosphate-energized proton pump %28EC 3.6.1.1%29;locus_tag=AB141P03.genome.CDS.1145
+AB141P03.contig.8	feature	CDS	11042	11728	.	-	0	ID=AB141P03.genome.CDS.1144;Product=DedA protein;locus_tag=AB141P03.genome.CDS.1144
+AB141P03.contig.8	feature	CDS	10514	11047	.	+	0	ID=AB141P03.genome.CDS.1143;Product=Orotate phosphoribosyltransferase %28EC 2.4.2.10%29;locus_tag=AB141P03.genome.CDS.1143
+AB141P03.contig.8	feature	CDS	10110	10487	.	+	0	ID=AB141P03.genome.CDS.1142;Product=HspR%2C transcriptional repressor of DnaK operon;locus_tag=AB141P03.genome.CDS.1142
+AB141P03.contig.8	feature	CDS	9199	10113	.	+	0	ID=AB141P03.genome.CDS.1141;Product=Chaperone protein DnaJ;locus_tag=AB141P03.genome.CDS.1141
+AB141P03.contig.8	feature	CDS	8680	9183	.	+	0	ID=AB141P03.genome.CDS.1140;Product=Heat shock protein GrpE;locus_tag=AB141P03.genome.CDS.1140
+AB141P03.contig.8	feature	CDS	6851	8680	.	+	0	ID=AB141P03.genome.CDS.1139;Product=Chaperone protein DnaK;locus_tag=AB141P03.genome.CDS.1139
+AB141P03.contig.8	feature	CDS	6164	6700	.	+	0	ID=AB141P03.genome.CDS.1138;Product=;locus_tag=AB141P03.genome.CDS.1138
+AB141P03.contig.8	feature	CDS	5578	6159	.	+	0	ID=AB141P03.genome.CDS.1137;Product=Peptidyl-prolyl cis-trans isomerase %28EC 5.2.1.8%29;locus_tag=AB141P03.genome.CDS.1137
+AB141P03.contig.8	feature	tRNA	5431	5506	.	+	.	ID=AB141P03.genome.rna.17;Product=tRNA-Ala-TGC;locus_tag=AB141P03.genome.rna.17
+AB141P03.contig.8	feature	tRNA	5342	5419	.	+	.	ID=AB141P03.genome.rna.16;Product=tRNA-Ile-GAT;locus_tag=AB141P03.genome.rna.16
+AB141P03.contig.8	feature	CDS	2775	5258	.	+	0	ID=AB141P03.genome.CDS.1136;Product=DNA gyrase subunit A %28EC 5.99.1.3%29;locus_tag=AB141P03.genome.CDS.1136
+AB141P03.contig.8	feature	CDS	775	2769	.	+	0	ID=AB141P03.genome.CDS.1135;Product=DNA gyrase subunit B %28EC 5.99.1.3%29;locus_tag=AB141P03.genome.CDS.1135
+AB141P03.contig.8	feature	CDS	169	624	.	+	0	ID=AB141P03.genome.CDS.1134;Product=;locus_tag=AB141P03.genome.CDS.1134
+AB141P03.contig.8	feature	CDS	2	172	.	+	0	ID=AB141P03.genome.CDS.1133;Product=DNA recombination and repair protein RecF;locus_tag=AB141P03.genome.CDS.1133
+AB141P03.contig.9	feature	CDS	22038	23276	.	+	0	ID=AB141P03.genome.CDS.1175;Product=ABC transporter ATP-binding protein;locus_tag=AB141P03.genome.CDS.1175
+AB141P03.contig.9	feature	CDS	20532	22031	.	+	0	ID=AB141P03.genome.CDS.1174;Product=Topoisomerase IV subunit A %28EC 5.99.1.-%29;locus_tag=AB141P03.genome.CDS.1174
+AB141P03.contig.9	feature	CDS	19337	20458	.	-	0	ID=AB141P03.genome.CDS.1173;Product=Alkaline phosphodiesterase I %28EC 3.1.4.1%29 / Nucleotide pyrophosphatase %28EC 3.6.1.9%29;locus_tag=AB141P03.genome.CDS.1173
+AB141P03.contig.9	feature	CDS	18546	19340	.	+	0	ID=AB141P03.genome.CDS.1172;Product=hypothetical protein;locus_tag=AB141P03.genome.CDS.1172
+AB141P03.contig.9	feature	CDS	17690	18463	.	-	0	ID=AB141P03.genome.CDS.1171;Product=Inositol-1-monophosphatase %28EC 3.1.3.25%29;locus_tag=AB141P03.genome.CDS.1171
+AB141P03.contig.9	feature	CDS	17086	17613	.	-	0	ID=AB141P03.genome.CDS.1170;Product=LSU ribosomal protein L19p;locus_tag=AB141P03.genome.CDS.1170
+AB141P03.contig.9	feature	CDS	16843	17082	.	-	0	ID=AB141P03.genome.CDS.1169;Product=KH domain RNA binding protein YlqC;locus_tag=AB141P03.genome.CDS.1169
+AB141P03.contig.9	feature	CDS	16341	16841	.	-	0	ID=AB141P03.genome.CDS.1168;Product=16S rRNA processing protein RimM;locus_tag=AB141P03.genome.CDS.1168
+AB141P03.contig.9	feature	CDS	15653	16354	.	-	0	ID=AB141P03.genome.CDS.1167;Product=tRNA %28Guanine37-N1%29 -methyltransferase %28EC 2.1.1.31%29;locus_tag=AB141P03.genome.CDS.1167
+AB141P03.contig.9	feature	CDS	15234	15530	.	-	0	ID=AB141P03.genome.CDS.1166;Product=FIG01121218: hypothetical protein;locus_tag=AB141P03.genome.CDS.1166
+AB141P03.contig.9	feature	CDS	14788	15237	.	+	0	ID=AB141P03.genome.CDS.1165;Product=;locus_tag=AB141P03.genome.CDS.1165
+AB141P03.contig.9	feature	CDS	14180	14764	.	-	0	ID=AB141P03.genome.CDS.1164;Product=FIG01123415: hypothetical protein;locus_tag=AB141P03.genome.CDS.1164
+AB141P03.contig.9	feature	CDS	13749	14183	.	-	0	ID=AB141P03.genome.CDS.1163;Product=Deoxyuridine 5%27-triphosphate nucleotidohydrolase %28EC 3.6.1.23%29;locus_tag=AB141P03.genome.CDS.1163
+AB141P03.contig.9	feature	CDS	13129	13752	.	-	0	ID=AB141P03.genome.CDS.1162;Product=hypothetical protein;locus_tag=AB141P03.genome.CDS.1162
+AB141P03.contig.9	feature	CDS	12479	13132	.	+	0	ID=AB141P03.genome.CDS.1161;Product=Trk system potassium uptake protein TrkA;locus_tag=AB141P03.genome.CDS.1161
+AB141P03.contig.9	feature	CDS	11832	12479	.	+	0	ID=AB141P03.genome.CDS.1160;Product=Trk system potassium uptake protein TrkA;locus_tag=AB141P03.genome.CDS.1160
+AB141P03.contig.9	feature	CDS	10579	11784	.	-	0	ID=AB141P03.genome.CDS.1159;Product=23S rRNA %28Uracil-5-%29 -methyltransferase RumA %28EC 2.1.1.-%29;locus_tag=AB141P03.genome.CDS.1159
+AB141P03.contig.9	feature	CDS	7882	10542	.	-	0	ID=AB141P03.genome.CDS.1158;Product=Aconitate hydratase %28EC 4.2.1.3%29;locus_tag=AB141P03.genome.CDS.1158
+AB141P03.contig.9	feature	CDS	5917	7845	.	-	0	ID=AB141P03.genome.CDS.1157;Product=1-deoxy-D-xylulose 5-phosphate synthase %28EC 2.2.1.7%29;locus_tag=AB141P03.genome.CDS.1157
+AB141P03.contig.9	feature	CDS	2668	3873	.	+	0	ID=AB141P03.genome.CDS.1155;Product=3-ketoacyl-CoA thiolase %28EC 2.3.1.16%29;locus_tag=AB141P03.genome.CDS.1155
+AB141P03.contig.9	feature	CDS	1772	2584	.	+	0	ID=AB141P03.genome.CDS.1154;Product=Ferrous iron transport permease EfeU;locus_tag=AB141P03.genome.CDS.1154
+AB141P03.contig.9	feature	CDS	421	1713	.	+	0	ID=AB141P03.genome.CDS.1153;Product=Ribonuclease D %28EC 3.1.26.3%29;locus_tag=AB141P03.genome.CDS.1153
+AB141P03.contig.9	feature	CDS	3	407	.	+	0	ID=AB141P03.genome.CDS.1152;Product=Uncharacterized protein Q1 colocalized with Q;locus_tag=AB141P03.genome.CDS.1152

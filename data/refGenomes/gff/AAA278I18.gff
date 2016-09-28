@@ -1,0 +1,1041 @@
+##gff-version 3
+AAA278I18.contig.1	feature	CDS	82874	83236	.	+	0	ID=AAA278I18.genome.CDS.1051;Product=;locus_tag=AAA278I18.genome.CDS.1051
+AAA278I18.contig.1	feature	CDS	82143	82724	.	+	0	ID=AAA278I18.genome.CDS.1050;Product=competence protein;locus_tag=AAA278I18.genome.CDS.1050
+AAA278I18.contig.1	feature	CDS	81829	82083	.	+	0	ID=AAA278I18.genome.CDS.1049;Product=;locus_tag=AAA278I18.genome.CDS.1049
+AAA278I18.contig.1	feature	CDS	80599	81756	.	-	0	ID=AAA278I18.genome.CDS.1048;Product=D-amino-acid oxidase %28EC 1.4.3.3%29;locus_tag=AAA278I18.genome.CDS.1048
+AAA278I18.contig.1	feature	CDS	80346	80612	.	-	0	ID=AAA278I18.genome.CDS.1047;Product=;locus_tag=AAA278I18.genome.CDS.1047
+AAA278I18.contig.1	feature	CDS	78968	80353	.	-	0	ID=AAA278I18.genome.CDS.1046;Product=Putative oxidoreductase in 4-hydroxyproline catabolic gene cluster;locus_tag=AAA278I18.genome.CDS.1046
+AAA278I18.contig.1	feature	CDS	78056	78958	.	-	0	ID=AAA278I18.genome.CDS.1045;Product=1-pyrroline-4-hydroxy-2-carboxylate deaminase %28EC 3.5.4.22%29;locus_tag=AAA278I18.genome.CDS.1045
+AAA278I18.contig.1	feature	CDS	77044	78048	.	-	0	ID=AAA278I18.genome.CDS.1044;Product=4-hydroxyproline epimerase %28EC 5.1.1.8%29;locus_tag=AAA278I18.genome.CDS.1044
+AAA278I18.contig.1	feature	CDS	76373	77047	.	+	0	ID=AAA278I18.genome.CDS.1043;Product=;locus_tag=AAA278I18.genome.CDS.1043
+AAA278I18.contig.1	feature	CDS	74934	76376	.	+	0	ID=AAA278I18.genome.CDS.1042;Product=GTP-binding protein HflX;locus_tag=AAA278I18.genome.CDS.1042
+AAA278I18.contig.1	feature	CDS	74143	74937	.	+	0	ID=AAA278I18.genome.CDS.1041;Product=Diaminopimelate epimerase %28EC 5.1.1.7%29;locus_tag=AAA278I18.genome.CDS.1041
+AAA278I18.contig.1	feature	CDS	73241	74143	.	+	0	ID=AAA278I18.genome.CDS.1040;Product=tRNA dimethylallyltransferase %28EC 2.5.1.75%29;locus_tag=AAA278I18.genome.CDS.1040
+AAA278I18.contig.1	feature	CDS	71798	73234	.	+	0	ID=AAA278I18.genome.CDS.1039;Product=tRNA-i%286%29A37 methylthiotransferase;locus_tag=AAA278I18.genome.CDS.1039
+AAA278I18.contig.1	feature	CDS	71293	71781	.	+	0	ID=AAA278I18.genome.CDS.1038;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1038
+AAA278I18.contig.1	feature	CDS	70175	71269	.	+	0	ID=AAA278I18.genome.CDS.1037;Product=RecA protein;locus_tag=AAA278I18.genome.CDS.1037
+AAA278I18.contig.1	feature	CDS	69782	69973	.	+	0	ID=AAA278I18.genome.CDS.1036;Product=;locus_tag=AAA278I18.genome.CDS.1036
+AAA278I18.contig.1	feature	CDS	69239	69778	.	+	0	ID=AAA278I18.genome.CDS.1035;Product=;locus_tag=AAA278I18.genome.CDS.1035
+AAA278I18.contig.1	feature	CDS	68986	69237	.	+	0	ID=AAA278I18.genome.CDS.68;Product=FIG01123282: hypothetical protein;locus_tag=AAA278I18.genome.CDS.68
+AAA278I18.contig.1	feature	CDS	68480	68956	.	+	0	ID=AAA278I18.genome.CDS.1033;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1033
+AAA278I18.contig.1	feature	CDS	67941	68483	.	+	0	ID=AAA278I18.genome.CDS.1032;Product=CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase %28EC 2.7.8.5%29;locus_tag=AAA278I18.genome.CDS.1032
+AAA278I18.contig.1	feature	CDS	66532	67944	.	+	0	ID=AAA278I18.genome.CDS.1031;Product=Ribosomal protein S12p Asp88 %28E. coli%29 methylthiotransferase;locus_tag=AAA278I18.genome.CDS.1031
+AAA278I18.contig.1	feature	CDS	65738	66484	.	+	0	ID=AAA278I18.genome.CDS.1030;Product=;locus_tag=AAA278I18.genome.CDS.1030
+AAA278I18.contig.1	feature	CDS	63272	65608	.	+	0	ID=AAA278I18.genome.CDS.1029;Product=DNA translocase FtsK;locus_tag=AAA278I18.genome.CDS.1029
+AAA278I18.contig.1	feature	CDS	61506	63188	.	+	0	ID=AAA278I18.genome.CDS.1028;Product=Ribonuclease J2 %28endoribonuclease in RNA processing%29;locus_tag=AAA278I18.genome.CDS.1028
+AAA278I18.contig.1	feature	CDS	60611	61501	.	+	0	ID=AAA278I18.genome.CDS.1027;Product=4-hydroxy-tetrahydrodipicolinate synthase %28EC 4.3.3.7%29;locus_tag=AAA278I18.genome.CDS.1027
+AAA278I18.contig.1	feature	CDS	59871	60590	.	+	0	ID=AAA278I18.genome.CDS.1026;Product=Thymidylate synthase thyX %28EC 2.1.1.-%29;locus_tag=AAA278I18.genome.CDS.1026
+AAA278I18.contig.1	feature	CDS	59156	59818	.	-	0	ID=AAA278I18.genome.CDS.1025;Product=;locus_tag=AAA278I18.genome.CDS.1025
+AAA278I18.contig.1	feature	CDS	58851	59159	.	-	0	ID=AAA278I18.genome.CDS.1024;Product=;locus_tag=AAA278I18.genome.CDS.1024
+AAA278I18.contig.1	feature	CDS	58603	58854	.	+	0	ID=AAA278I18.genome.CDS.1023;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1023
+AAA278I18.contig.1	feature	CDS	57860	58603	.	+	0	ID=AAA278I18.genome.CDS.1022;Product=4-hydroxy-tetrahydrodipicolinate reductase %28EC 1.17.1.8%29;locus_tag=AAA278I18.genome.CDS.1022
+AAA278I18.contig.1	feature	CDS	56592	57863	.	+	0	ID=AAA278I18.genome.CDS.1021;Product=FIG007959: peptidase%2C M16 family;locus_tag=AAA278I18.genome.CDS.1021
+AAA278I18.contig.1	feature	CDS	54392	56590	.	+	0	ID=AAA278I18.genome.CDS.1020;Product=Polyribonucleotide nucleotidyltransferase %28EC 2.7.7.8%29;locus_tag=AAA278I18.genome.CDS.1020
+AAA278I18.contig.1	feature	CDS	53990	54259	.	+	0	ID=AAA278I18.genome.CDS.1019;Product=SSU ribosomal protein S15p %28S13e%29;locus_tag=AAA278I18.genome.CDS.1019
+AAA278I18.contig.1	feature	CDS	52989	53864	.	+	0	ID=AAA278I18.genome.CDS.1018;Product=Riboflavin kinase %28EC 2.7.1.26%29 / FMN adenylyltransferase %28EC 2.7.7.2%29;locus_tag=AAA278I18.genome.CDS.1018
+AAA278I18.contig.1	feature	CDS	52088	52963	.	+	0	ID=AAA278I18.genome.CDS.1017;Product=tRNA pseudouridine synthase B %28EC 4.2.1.70%29;locus_tag=AAA278I18.genome.CDS.1017
+AAA278I18.contig.1	feature	CDS	51663	52076	.	+	0	ID=AAA278I18.genome.CDS.1016;Product=Ribosome-binding factor A;locus_tag=AAA278I18.genome.CDS.1016
+AAA278I18.contig.1	feature	CDS	49036	51660	.	+	0	ID=AAA278I18.genome.CDS.1015;Product=Translation initiation factor 2;locus_tag=AAA278I18.genome.CDS.1015
+AAA278I18.contig.1	feature	CDS	48667	48927	.	+	0	ID=AAA278I18.genome.CDS.1014;Product=;locus_tag=AAA278I18.genome.CDS.1014
+AAA278I18.contig.1	feature	CDS	47626	48654	.	+	0	ID=AAA278I18.genome.CDS.1013;Product=Transcription termination protein NusA;locus_tag=AAA278I18.genome.CDS.1013
+AAA278I18.contig.1	feature	CDS	47183	47629	.	+	0	ID=AAA278I18.genome.CDS.1012;Product=FIG000325: clustered with transcription termination protein NusA;locus_tag=AAA278I18.genome.CDS.1012
+AAA278I18.contig.1	feature	CDS	46380	47147	.	+	0	ID=AAA278I18.genome.CDS.1011;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1011
+AAA278I18.contig.1	feature	CDS	44661	46376	.	+	0	ID=AAA278I18.genome.CDS.1010;Product=Prolyl-tRNA synthetase %28EC 6.1.1.15%29%2C bacterial type;locus_tag=AAA278I18.genome.CDS.1010
+AAA278I18.contig.1	feature	CDS	44304	44474	.	-	0	ID=AAA278I18.genome.CDS.1009;Product=;locus_tag=AAA278I18.genome.CDS.1009
+AAA278I18.contig.1	feature	CDS	43139	44290	.	+	0	ID=AAA278I18.genome.CDS.1008;Product=1-hydroxy-2-methyl-2-%28E%29-butenyl 4-diphosphate synthase %28EC 1.17.7.1%29;locus_tag=AAA278I18.genome.CDS.1008
+AAA278I18.contig.1	feature	CDS	41935	43125	.	+	0	ID=AAA278I18.genome.CDS.1007;Product=Membrane-associated zinc metalloprotease;locus_tag=AAA278I18.genome.CDS.1007
+AAA278I18.contig.1	feature	CDS	40807	41934	.	+	0	ID=AAA278I18.genome.CDS.1006;Product=1-deoxy-D-xylulose 5-phosphate reductoisomerase %28EC 1.1.1.267%29;locus_tag=AAA278I18.genome.CDS.1006
+AAA278I18.contig.1	feature	CDS	39404	40756	.	-	0	ID=AAA278I18.genome.CDS.1005;Product=Gamma-aminobutyrate:alpha-ketoglutarate aminotransferase %28EC 2.6.1.19%29;locus_tag=AAA278I18.genome.CDS.1005
+AAA278I18.contig.1	feature	CDS	38424	39407	.	+	0	ID=AAA278I18.genome.CDS.1004;Product=Arginase/agmatinase/formimionoglutamate hydrolase%2C arginase family;locus_tag=AAA278I18.genome.CDS.1004
+AAA278I18.contig.1	feature	CDS	37606	38403	.	+	0	ID=AAA278I18.genome.CDS.1003;Product=Putrescine transport system permease protein PotI %28TC 3.A.1.11.2%29;locus_tag=AAA278I18.genome.CDS.1003
+AAA278I18.contig.1	feature	CDS	36722	37609	.	+	0	ID=AAA278I18.genome.CDS.1002;Product=Putrescine transport system permease protein PotH %28TC 3.A.1.11.2%29;locus_tag=AAA278I18.genome.CDS.1002
+AAA278I18.contig.1	feature	CDS	35589	36719	.	+	0	ID=AAA278I18.genome.CDS.1001;Product=Putrescine transport ATP-binding protein PotG %28TC 3.A.1.11.2%29;locus_tag=AAA278I18.genome.CDS.1001
+AAA278I18.contig.1	feature	CDS	34378	35589	.	+	0	ID=AAA278I18.genome.CDS.1000;Product=Putrescine ABC transporter putrescine-binding protein PotF %28TC 3.A.1.11.2%29;locus_tag=AAA278I18.genome.CDS.1000
+AAA278I18.contig.1	feature	CDS	32824	34251	.	+	0	ID=AAA278I18.genome.CDS.999;Product=4-aminobutyraldehyde dehydrogenase %28EC 1.2.1.19%29;locus_tag=AAA278I18.genome.CDS.999
+AAA278I18.contig.1	feature	CDS	31654	32763	.	+	0	ID=AAA278I18.genome.CDS.998;Product=Ribosomal RNA large subunit methyltransferase N %28EC 2.1.1.-%29;locus_tag=AAA278I18.genome.CDS.998
+AAA278I18.contig.1	feature	CDS	30808	31653	.	+	0	ID=AAA278I18.genome.CDS.997;Product=Phosphatidate cytidylyltransferase %28EC 2.7.7.41%29;locus_tag=AAA278I18.genome.CDS.997
+AAA278I18.contig.1	feature	CDS	30242	30805	.	+	0	ID=AAA278I18.genome.CDS.996;Product=Ribosome recycling factor;locus_tag=AAA278I18.genome.CDS.996
+AAA278I18.contig.1	feature	CDS	29463	30179	.	+	0	ID=AAA278I18.genome.CDS.995;Product=Uridine monophosphate kinase %28EC 2.7.4.22%29;locus_tag=AAA278I18.genome.CDS.995
+AAA278I18.contig.1	feature	CDS	28598	29425	.	+	0	ID=AAA278I18.genome.CDS.994;Product=Translation elongation factor Ts;locus_tag=AAA278I18.genome.CDS.994
+AAA278I18.contig.1	feature	CDS	27776	28597	.	+	0	ID=AAA278I18.genome.CDS.993;Product=SSU ribosomal protein S2p %28SAe%29;locus_tag=AAA278I18.genome.CDS.993
+AAA278I18.contig.1	feature	CDS	26193	27371	.	+	0	ID=AAA278I18.genome.CDS.992;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.992
+AAA278I18.contig.1	feature	CDS	25332	26189	.	+	0	ID=AAA278I18.genome.CDS.991;Product=Site-specific tyrosine recombinase XerC;locus_tag=AAA278I18.genome.CDS.991
+AAA278I18.contig.1	feature	CDS	25105	25218	.	+	0	ID=AAA278I18.genome.CDS.22;Product=;locus_tag=AAA278I18.genome.CDS.22
+AAA278I18.contig.1	feature	CDS	24423	25028	.	+	0	ID=AAA278I18.genome.CDS.990;Product=;locus_tag=AAA278I18.genome.CDS.990
+AAA278I18.contig.1	feature	CDS	22749	24335	.	+	0	ID=AAA278I18.genome.CDS.989;Product=%28R%29-citramalate synthase %28EC 2.3.1.182%29;locus_tag=AAA278I18.genome.CDS.989
+AAA278I18.contig.1	feature	CDS	21664	22749	.	+	0	ID=AAA278I18.genome.CDS.988;Product=Branched-chain amino acid aminotransferase %28EC 2.6.1.42%29;locus_tag=AAA278I18.genome.CDS.988
+AAA278I18.contig.1	feature	CDS	20630	21667	.	+	0	ID=AAA278I18.genome.CDS.987;Product=3-isopropylmalate dehydrogenase %28EC 1.1.1.85%29;locus_tag=AAA278I18.genome.CDS.987
+AAA278I18.contig.1	feature	CDS	19038	20633	.	+	0	ID=AAA278I18.genome.CDS.986;Product=D-3-phosphoglycerate dehydrogenase %28EC 1.1.1.95%29;locus_tag=AAA278I18.genome.CDS.986
+AAA278I18.contig.1	feature	CDS	18014	19045	.	+	0	ID=AAA278I18.genome.CDS.985;Product=Ketol-acid reductoisomerase %28EC 1.1.1.86%29;locus_tag=AAA278I18.genome.CDS.985
+AAA278I18.contig.1	feature	CDS	17424	17975	.	+	0	ID=AAA278I18.genome.CDS.984;Product=Acetolactate synthase small subunit %28EC 2.2.1.6%29;locus_tag=AAA278I18.genome.CDS.984
+AAA278I18.contig.1	feature	CDS	15688	17424	.	+	0	ID=AAA278I18.genome.CDS.983;Product=Acetolactate synthase large subunit %28EC 2.2.1.6%29;locus_tag=AAA278I18.genome.CDS.983
+AAA278I18.contig.1	feature	CDS	13782	15446	.	+	0	ID=AAA278I18.genome.CDS.982;Product=Dihydroxy-acid dehydratase %28EC 4.2.1.9%29;locus_tag=AAA278I18.genome.CDS.982
+AAA278I18.contig.1	feature	CDS	12249	13745	.	+	0	ID=AAA278I18.genome.CDS.981;Product=Aspartyl-tRNA%28Asn%29 amidotransferase subunit B %28EC 6.3.5.6%29 %40 Glutamyl-tRNA%28Gln%29 amidotransferase subunit B %28EC 6.3.5.7%29;locus_tag=AAA278I18.genome.CDS.981
+AAA278I18.contig.1	feature	CDS	10753	12252	.	+	0	ID=AAA278I18.genome.CDS.980;Product=Aspartyl-tRNA%28Asn%29 amidotransferase subunit A %28EC 6.3.5.6%29 %40 Glutamyl-tRNA%28Gln%29 amidotransferase subunit A %28EC 6.3.5.7%29;locus_tag=AAA278I18.genome.CDS.980
+AAA278I18.contig.1	feature	CDS	10456	10752	.	+	0	ID=AAA278I18.genome.CDS.979;Product=Aspartyl-tRNA%28Asn%29 amidotransferase subunit C %28EC 6.3.5.6%29 %40 Glutamyl-tRNA%28Gln%29 amidotransferase subunit C %28EC 6.3.5.7%29;locus_tag=AAA278I18.genome.CDS.979
+AAA278I18.contig.1	feature	CDS	9161	10429	.	+	0	ID=AAA278I18.genome.CDS.978;Product=Gamma-glutamyl phosphate reductase %28EC 1.2.1.41%29;locus_tag=AAA278I18.genome.CDS.978
+AAA278I18.contig.1	feature	CDS	7966	9123	.	-	0	ID=AAA278I18.genome.CDS.977;Product=D-alanyl-D-alanine carboxypeptidase %28EC 3.4.16.4%29;locus_tag=AAA278I18.genome.CDS.977
+AAA278I18.contig.1	feature	CDS	7187	7969	.	+	0	ID=AAA278I18.genome.CDS.976;Product=Glutamate 5-kinase %28EC 2.7.2.11%29 / RNA-binding C-terminal domain PUA;locus_tag=AAA278I18.genome.CDS.976
+AAA278I18.contig.1	feature	CDS	5719	7197	.	+	0	ID=AAA278I18.genome.CDS.975;Product=GTP-binding protein Obg;locus_tag=AAA278I18.genome.CDS.975
+AAA278I18.contig.1	feature	CDS	5382	5636	.	+	0	ID=AAA278I18.genome.CDS.974;Product=LSU ribosomal protein L27p;locus_tag=AAA278I18.genome.CDS.974
+AAA278I18.contig.1	feature	CDS	5047	5355	.	+	0	ID=AAA278I18.genome.CDS.973;Product=LSU ribosomal protein L21p;locus_tag=AAA278I18.genome.CDS.973
+AAA278I18.contig.1	feature	CDS	2857	4938	.	+	0	ID=AAA278I18.genome.CDS.972;Product=Cytoplasmic axial filament protein CafA and Ribonuclease G %28EC 3.1.4.-%29;locus_tag=AAA278I18.genome.CDS.972
+AAA278I18.contig.1	feature	CDS	1515	2660	.	+	0	ID=AAA278I18.genome.CDS.971;Product=Rod shape-determining protein RodA;locus_tag=AAA278I18.genome.CDS.971
+AAA278I18.contig.1	feature	CDS	1	1518	.	+	0	ID=AAA278I18.genome.CDS.970;Product=Penicillin-binding protein 2 %28PBP-2%29;locus_tag=AAA278I18.genome.CDS.970
+AAA278I18.contig.10	feature	CDS	38294	39676	.	-	0	ID=AAA278I18.genome.CDS.1635;Product=ATP-dependent DNA helicase SCO5183;locus_tag=AAA278I18.genome.CDS.1635
+AAA278I18.contig.10	feature	CDS	35031	38297	.	-	0	ID=AAA278I18.genome.CDS.1634;Product=ATP-dependent DNA helicase SCO5184;locus_tag=AAA278I18.genome.CDS.1634
+AAA278I18.contig.10	feature	CDS	34202	35044	.	+	0	ID=AAA278I18.genome.CDS.1633;Product=;locus_tag=AAA278I18.genome.CDS.1633
+AAA278I18.contig.10	feature	CDS	33256	34173	.	-	0	ID=AAA278I18.genome.CDS.1632;Product=NADH pyrophosphatase %28EC 3.6.1.22%29;locus_tag=AAA278I18.genome.CDS.1632
+AAA278I18.contig.10	feature	CDS	31622	33265	.	-	0	ID=AAA278I18.genome.CDS.1631;Product=ATP-dependent DNA helicase UvrD/PcrA%2C actinomycete paralog;locus_tag=AAA278I18.genome.CDS.1631
+AAA278I18.contig.10	feature	CDS	31408	31602	.	-	0	ID=AAA278I18.genome.CDS.1630;Product=;locus_tag=AAA278I18.genome.CDS.1630
+AAA278I18.contig.10	feature	CDS	30775	31257	.	-	0	ID=AAA278I18.genome.CDS.1629;Product=WhiB-family transcriptional regulator;locus_tag=AAA278I18.genome.CDS.1629
+AAA278I18.contig.10	feature	CDS	30505	30663	.	+	0	ID=AAA278I18.genome.CDS.1628;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1628
+AAA278I18.contig.10	feature	CDS	29717	30349	.	+	0	ID=AAA278I18.genome.CDS.1627;Product=;locus_tag=AAA278I18.genome.CDS.1627
+AAA278I18.contig.10	feature	CDS	28080	29399	.	+	0	ID=AAA278I18.genome.CDS.1626;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1626
+AAA278I18.contig.10	feature	CDS	27807	27983	.	-	0	ID=AAA278I18.genome.CDS.1625;Product=;locus_tag=AAA278I18.genome.CDS.1625
+AAA278I18.contig.10	feature	CDS	26729	27790	.	-	0	ID=AAA278I18.genome.CDS.1624;Product=Lon-like protease with PDZ domain;locus_tag=AAA278I18.genome.CDS.1624
+AAA278I18.contig.10	feature	CDS	23791	26709	.	-	0	ID=AAA278I18.genome.CDS.1623;Product=UPF0182 protein AF1421;locus_tag=AAA278I18.genome.CDS.1623
+AAA278I18.contig.10	feature	tRNA	23660	23736	.	-	.	ID=AAA278I18.genome.rna.15;Product=tRNA-Met-CAT;locus_tag=AAA278I18.genome.rna.15
+AAA278I18.contig.10	feature	CDS	21400	23655	.	+	0	ID=AAA278I18.genome.CDS.1622;Product=Lead%2C cadmium%2C zinc and mercury transporting ATPase %28EC 3.6.3.3%29 %28EC 3.6.3.5%29%3B Copper-translocating P-type ATPase %28EC 3.6.3.4%29;locus_tag=AAA278I18.genome.CDS.1622
+AAA278I18.contig.10	feature	CDS	20310	21362	.	+	0	ID=AAA278I18.genome.CDS.1621;Product=Ribosome small subunit-stimulated GTPase EngC;locus_tag=AAA278I18.genome.CDS.1621
+AAA278I18.contig.10	feature	CDS	19010	20317	.	+	0	ID=AAA278I18.genome.CDS.1620;Product=5-Enolpyruvylshikimate-3-phosphate synthase %28EC 2.5.1.19%29;locus_tag=AAA278I18.genome.CDS.1620
+AAA278I18.contig.10	feature	CDS	18204	18914	.	-	0	ID=AAA278I18.genome.CDS.1619;Product=;locus_tag=AAA278I18.genome.CDS.1619
+AAA278I18.contig.10	feature	CDS	17806	18207	.	-	0	ID=AAA278I18.genome.CDS.1618;Product=;locus_tag=AAA278I18.genome.CDS.1618
+AAA278I18.contig.10	feature	CDS	17328	17780	.	-	0	ID=AAA278I18.genome.CDS.1617;Product=;locus_tag=AAA278I18.genome.CDS.1617
+AAA278I18.contig.10	feature	CDS	16898	17305	.	+	0	ID=AAA278I18.genome.CDS.1616;Product=Nickel-dependent superoxide dismutase %28EC 1.15.1.1%29;locus_tag=AAA278I18.genome.CDS.1616
+AAA278I18.contig.10	feature	CDS	16529	16846	.	-	0	ID=AAA278I18.genome.CDS.1615;Product=;locus_tag=AAA278I18.genome.CDS.1615
+AAA278I18.contig.10	feature	CDS	12801	16532	.	+	0	ID=AAA278I18.genome.CDS.1614;Product=2-oxoglutarate dehydrogenase E1 component %28EC 1.2.4.2%29;locus_tag=AAA278I18.genome.CDS.1614
+AAA278I18.contig.10	feature	CDS	11908	12636	.	-	0	ID=AAA278I18.genome.CDS.1613;Product=3-oxoacyl-%5Bacyl-carrier protein%5D reductase %28EC 1.1.1.100%29;locus_tag=AAA278I18.genome.CDS.1613
+AAA278I18.contig.10	feature	CDS	11533	11907	.	+	0	ID=AAA278I18.genome.CDS.1612;Product=;locus_tag=AAA278I18.genome.CDS.1612
+AAA278I18.contig.10	feature	CDS	10345	11514	.	+	0	ID=AAA278I18.genome.CDS.1611;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1611
+AAA278I18.contig.10	feature	CDS	8935	10272	.	-	0	ID=AAA278I18.genome.CDS.1610;Product=Argininosuccinate synthase %28EC 6.3.4.5%29;locus_tag=AAA278I18.genome.CDS.1610
+AAA278I18.contig.10	feature	CDS	8096	8773	.	-	0	ID=AAA278I18.genome.CDS.1609;Product=Riboflavin transporter PnuX;locus_tag=AAA278I18.genome.CDS.1609
+AAA278I18.contig.10	feature	CDS	7156	7956	.	-	0	ID=AAA278I18.genome.CDS.1608;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1608
+AAA278I18.contig.10	feature	CDS	6470	7159	.	+	0	ID=AAA278I18.genome.CDS.1607;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1607
+AAA278I18.contig.10	feature	CDS	4443	6218	.	-	0	ID=AAA278I18.genome.CDS.1606;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1606
+AAA278I18.contig.10	feature	CDS	3813	4436	.	+	0	ID=AAA278I18.genome.CDS.1605;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1605
+AAA278I18.contig.10	feature	CDS	3137	3649	.	-	0	ID=AAA278I18.genome.CDS.1604;Product=;locus_tag=AAA278I18.genome.CDS.1604
+AAA278I18.contig.10	feature	CDS	2489	3001	.	-	0	ID=AAA278I18.genome.CDS.1603;Product=;locus_tag=AAA278I18.genome.CDS.1603
+AAA278I18.contig.10	feature	CDS	1973	2458	.	-	0	ID=AAA278I18.genome.CDS.1602;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1602
+AAA278I18.contig.10	feature	CDS	990	1952	.	-	0	ID=AAA278I18.genome.CDS.1601;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1601
+AAA278I18.contig.10	feature	CDS	355	903	.	-	0	ID=AAA278I18.genome.CDS.1600;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1600
+AAA278I18.contig.10	feature	CDS	3	353	.	-	0	ID=AAA278I18.genome.CDS.1599;Product=;locus_tag=AAA278I18.genome.CDS.1599
+AAA278I18.contig.11	feature	CDS	36941	37423	.	-	0	ID=AAA278I18.genome.CDS.1677;Product=;locus_tag=AAA278I18.genome.CDS.1677
+AAA278I18.contig.11	feature	CDS	36039	36944	.	-	0	ID=AAA278I18.genome.CDS.1676;Product=Fructokinase %28EC 2.7.1.4%29;locus_tag=AAA278I18.genome.CDS.1676
+AAA278I18.contig.11	feature	CDS	35271	36038	.	-	0	ID=AAA278I18.genome.CDS.1675;Product=;locus_tag=AAA278I18.genome.CDS.1675
+AAA278I18.contig.11	feature	CDS	34225	35139	.	+	0	ID=AAA278I18.genome.CDS.1674;Product=;locus_tag=AAA278I18.genome.CDS.1674
+AAA278I18.contig.11	feature	CDS	33512	34216	.	+	0	ID=AAA278I18.genome.CDS.1673;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1673
+AAA278I18.contig.11	feature	CDS	32540	33442	.	-	0	ID=AAA278I18.genome.CDS.1672;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1672
+AAA278I18.contig.11	feature	CDS	31552	32547	.	-	0	ID=AAA278I18.genome.CDS.1671;Product=;locus_tag=AAA278I18.genome.CDS.1671
+AAA278I18.contig.11	feature	CDS	31087	31506	.	-	0	ID=AAA278I18.genome.CDS.1670;Product=Transcriptional regulator%2C FUR family;locus_tag=AAA278I18.genome.CDS.1670
+AAA278I18.contig.11	feature	CDS	30181	31086	.	-	0	ID=AAA278I18.genome.CDS.1669;Product=Folate-dependent protein for Fe/S cluster synthesis/repair in oxidative stress;locus_tag=AAA278I18.genome.CDS.1669
+AAA278I18.contig.11	feature	CDS	30049	30162	.	-	0	ID=AAA278I18.genome.CDS.1668;Product=;locus_tag=AAA278I18.genome.CDS.1668
+AAA278I18.contig.11	feature	CDS	29546	30049	.	-	0	ID=AAA278I18.genome.CDS.1667;Product=DUF1794;locus_tag=AAA278I18.genome.CDS.1667
+AAA278I18.contig.11	feature	CDS	28618	29370	.	-	0	ID=AAA278I18.genome.CDS.1666;Product=Hypothetical protein of L-Asparaginase type 2-like superfamily;locus_tag=AAA278I18.genome.CDS.1666
+AAA278I18.contig.11	feature	CDS	27303	28589	.	-	0	ID=AAA278I18.genome.CDS.1665;Product=Glycosyltransferase MshA involved in mycothiol biosynthesis %28EC 2.4.1.-%29;locus_tag=AAA278I18.genome.CDS.1665
+AAA278I18.contig.11	feature	CDS	26834	27310	.	-	0	ID=AAA278I18.genome.CDS.1664;Product=Uncharacterized protein Rv0487/MT0505 clustered with mycothiol biosynthesis gene;locus_tag=AAA278I18.genome.CDS.1664
+AAA278I18.contig.11	feature	CDS	26066	26812	.	-	0	ID=AAA278I18.genome.CDS.1663;Product=Phosphoglycerate mutase %28EC 5.4.2.11%29;locus_tag=AAA278I18.genome.CDS.1663
+AAA278I18.contig.11	feature	CDS	25406	26059	.	+	0	ID=AAA278I18.genome.CDS.1662;Product=Phosphate transport system regulatory protein PhoU;locus_tag=AAA278I18.genome.CDS.1662
+AAA278I18.contig.11	feature	CDS	24161	25261	.	-	0	ID=AAA278I18.genome.CDS.1661;Product=Phosphate regulon sensor protein PhoR %28SphS%29 %28EC 2.7.13.3%29;locus_tag=AAA278I18.genome.CDS.1661
+AAA278I18.contig.11	feature	CDS	23484	24164	.	-	0	ID=AAA278I18.genome.CDS.1660;Product=Phosphate regulon transcriptional regulatory protein PhoB %28SphR%29;locus_tag=AAA278I18.genome.CDS.1660
+AAA278I18.contig.11	feature	CDS	22978	23487	.	+	0	ID=AAA278I18.genome.CDS.1659;Product=;locus_tag=AAA278I18.genome.CDS.1659
+AAA278I18.contig.11	feature	CDS	22380	22862	.	-	0	ID=AAA278I18.genome.CDS.1658;Product=CarD-like transcriptional regulator;locus_tag=AAA278I18.genome.CDS.1658
+AAA278I18.contig.11	feature	CDS	21217	22359	.	-	0	ID=AAA278I18.genome.CDS.1657;Product=2-C-methyl-D-erythritol 2%2C4-cyclodiphosphate synthase %28EC 4.6.1.12%29;locus_tag=AAA278I18.genome.CDS.1657
+AAA278I18.contig.11	feature	CDS	19828	21201	.	-	0	ID=AAA278I18.genome.CDS.1656;Product=Cysteinyl-tRNA synthetase %28EC 6.1.1.16%29;locus_tag=AAA278I18.genome.CDS.1656
+AAA278I18.contig.11	feature	CDS	18797	19828	.	-	0	ID=AAA278I18.genome.CDS.1655;Product=23S rRNA %28guanosine%282251%29-2%27-O%29-methyltransferase %28EC 2.1.1.185%29;locus_tag=AAA278I18.genome.CDS.1655
+AAA278I18.contig.11	feature	CDS	18016	18795	.	-	0	ID=AAA278I18.genome.CDS.1654;Product=;locus_tag=AAA278I18.genome.CDS.1654
+AAA278I18.contig.11	feature	CDS	15881	17965	.	-	0	ID=AAA278I18.genome.CDS.1653;Product=Polyphosphate kinase %28EC 2.7.4.1%29;locus_tag=AAA278I18.genome.CDS.1653
+AAA278I18.contig.11	feature	CDS	14997	15884	.	-	0	ID=AAA278I18.genome.CDS.1652;Product=;locus_tag=AAA278I18.genome.CDS.1652
+AAA278I18.contig.11	feature	CDS	14083	15000	.	+	0	ID=AAA278I18.genome.CDS.1651;Product=Exopolyphosphatase %28EC 3.6.1.11%29;locus_tag=AAA278I18.genome.CDS.1651
+AAA278I18.contig.11	feature	tRNA	13927	14001	.	-	.	ID=AAA278I18.genome.rna.16;Product=tRNA-Thr-TGT;locus_tag=AAA278I18.genome.rna.16
+AAA278I18.contig.11	feature	CDS	12928	13854	.	-	0	ID=AAA278I18.genome.CDS.1650;Product=;locus_tag=AAA278I18.genome.CDS.1650
+AAA278I18.contig.11	feature	CDS	11145	12821	.	-	0	ID=AAA278I18.genome.CDS.1649;Product=putative cholesterol oxidase;locus_tag=AAA278I18.genome.CDS.1649
+AAA278I18.contig.11	feature	CDS	10350	11159	.	+	0	ID=AAA278I18.genome.CDS.1648;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1648
+AAA278I18.contig.11	feature	CDS	9124	10347	.	+	0	ID=AAA278I18.genome.CDS.1647;Product=NADH dehydrogenase %28EC 1.6.99.3%29;locus_tag=AAA278I18.genome.CDS.1647
+AAA278I18.contig.11	feature	CDS	7609	9099	.	-	0	ID=AAA278I18.genome.CDS.1646;Product=Putative nucleoside-diphosphate-sugar epimerase;locus_tag=AAA278I18.genome.CDS.1646
+AAA278I18.contig.11	feature	CDS	6264	7616	.	-	0	ID=AAA278I18.genome.CDS.1645;Product=Decarboxylase%2C pyridoxal-dependent;locus_tag=AAA278I18.genome.CDS.1645
+AAA278I18.contig.11	feature	CDS	5929	6219	.	-	0	ID=AAA278I18.genome.CDS.1644;Product=;locus_tag=AAA278I18.genome.CDS.1644
+AAA278I18.contig.11	feature	CDS	4159	5784	.	-	0	ID=AAA278I18.genome.CDS.1643;Product=Heat shock protein 60 family chaperone GroEL;locus_tag=AAA278I18.genome.CDS.1643
+AAA278I18.contig.11	feature	CDS	3202	4077	.	-	0	ID=AAA278I18.genome.CDS.1642;Product=FIG01121526: hypothetical protein;locus_tag=AAA278I18.genome.CDS.1642
+AAA278I18.contig.11	feature	CDS	2719	3105	.	-	0	ID=AAA278I18.genome.CDS.1641;Product=Cold shock protein CspC;locus_tag=AAA278I18.genome.CDS.1641
+AAA278I18.contig.11	feature	CDS	2546	2716	.	+	0	ID=AAA278I18.genome.CDS.1640;Product=;locus_tag=AAA278I18.genome.CDS.1640
+AAA278I18.contig.11	feature	CDS	1955	2446	.	+	0	ID=AAA278I18.genome.CDS.1639;Product=Citrate synthase %28si%29 %28EC 2.3.3.1%29;locus_tag=AAA278I18.genome.CDS.1639
+AAA278I18.contig.11	feature	CDS	1207	1860	.	-	0	ID=AAA278I18.genome.CDS.1638;Product=Pyridoxamine 5%27-phosphate oxidase %28EC 1.4.3.5%29;locus_tag=AAA278I18.genome.CDS.1638
+AAA278I18.contig.11	feature	CDS	76	1197	.	-	0	ID=AAA278I18.genome.CDS.1637;Product=Phosphoserine aminotransferase %28EC 2.6.1.52%29;locus_tag=AAA278I18.genome.CDS.1637
+AAA278I18.contig.11	feature	CDS	2	79	.	-	0	ID=AAA278I18.genome.CDS.1636;Product=;locus_tag=AAA278I18.genome.CDS.1636
+AAA278I18.contig.12	feature	CDS	27921	28676	.	+	0	ID=AAA278I18.genome.CDS.1706;Product=putative peptidase;locus_tag=AAA278I18.genome.CDS.1706
+AAA278I18.contig.12	feature	CDS	25732	27924	.	+	0	ID=AAA278I18.genome.CDS.1705;Product=probable DNA-binding protein;locus_tag=AAA278I18.genome.CDS.1705
+AAA278I18.contig.12	feature	CDS	24922	25695	.	+	0	ID=AAA278I18.genome.CDS.1704;Product=Phosphoserine phosphatase %28EC 3.1.3.3%29;locus_tag=AAA278I18.genome.CDS.1704
+AAA278I18.contig.12	feature	CDS	24250	24882	.	-	0	ID=AAA278I18.genome.CDS.1703;Product=Hypothetical%2C related to broad specificity phosphatases COG0406;locus_tag=AAA278I18.genome.CDS.1703
+AAA278I18.contig.12	feature	CDS	23711	24250	.	-	0	ID=AAA278I18.genome.CDS.1702;Product=Thiol:disulfide oxidoreductase related to ResA;locus_tag=AAA278I18.genome.CDS.1702
+AAA278I18.contig.12	feature	CDS	22987	23718	.	-	0	ID=AAA278I18.genome.CDS.1701;Product=Cytochrome c-type biogenesis protein CcdA %28DsbD analog%29;locus_tag=AAA278I18.genome.CDS.1701
+AAA278I18.contig.12	feature	CDS	21542	22987	.	-	0	ID=AAA278I18.genome.CDS.1700;Product=Ccs1/ResB-related putative cytochrome C-type biogenesis protein;locus_tag=AAA278I18.genome.CDS.1700
+AAA278I18.contig.12	feature	CDS	20650	21549	.	-	0	ID=AAA278I18.genome.CDS.1699;Product=Cytochrome c-type biogenesis protein CcsA/ResC;locus_tag=AAA278I18.genome.CDS.1699
+AAA278I18.contig.12	feature	CDS	20401	20655	.	+	0	ID=AAA278I18.genome.CDS.1698;Product=;locus_tag=AAA278I18.genome.CDS.1698
+AAA278I18.contig.12	feature	CDS	19555	20376	.	+	0	ID=AAA278I18.genome.CDS.1697;Product=1%2C4-dihydroxy-2-naphthoate polyprenyltransferase %28EC 2.5.1.74%29;locus_tag=AAA278I18.genome.CDS.1697
+AAA278I18.contig.12	feature	CDS	18210	19535	.	+	0	ID=AAA278I18.genome.CDS.726;Product=NADH-ubiquinone oxidoreductase chain M %28EC 1.6.5.3%29;locus_tag=AAA278I18.genome.CDS.726
+AAA278I18.contig.12	feature	CDS	16321	18213	.	+	0	ID=AAA278I18.genome.CDS.1696;Product=NADH-ubiquinone oxidoreductase chain L %28EC 1.6.5.3%29;locus_tag=AAA278I18.genome.CDS.1696
+AAA278I18.contig.12	feature	CDS	16025	16324	.	+	0	ID=AAA278I18.genome.CDS.1695;Product=NADH-ubiquinone oxidoreductase chain K %28EC 1.6.5.3%29;locus_tag=AAA278I18.genome.CDS.1695
+AAA278I18.contig.12	feature	CDS	15246	16025	.	+	0	ID=AAA278I18.genome.CDS.1694;Product=NADH-ubiquinone oxidoreductase chain J %28EC 1.6.5.3%29;locus_tag=AAA278I18.genome.CDS.1694
+AAA278I18.contig.12	feature	CDS	14630	15253	.	+	0	ID=AAA278I18.genome.CDS.1693;Product=NADH-ubiquinone oxidoreductase chain I %28EC 1.6.5.3%29;locus_tag=AAA278I18.genome.CDS.1693
+AAA278I18.contig.12	feature	CDS	13414	14637	.	+	0	ID=AAA278I18.genome.CDS.1692;Product=NADH-ubiquinone oxidoreductase chain H %28EC 1.6.5.3%29;locus_tag=AAA278I18.genome.CDS.1692
+AAA278I18.contig.12	feature	CDS	11066	13417	.	+	0	ID=AAA278I18.genome.CDS.1691;Product=NADH-ubiquinone oxidoreductase chain G %28EC 1.6.5.3%29;locus_tag=AAA278I18.genome.CDS.1691
+AAA278I18.contig.12	feature	CDS	9765	11069	.	+	0	ID=AAA278I18.genome.CDS.1690;Product=NADH-ubiquinone oxidoreductase chain F %28EC 1.6.5.3%29;locus_tag=AAA278I18.genome.CDS.1690
+AAA278I18.contig.12	feature	CDS	9142	9768	.	+	0	ID=AAA278I18.genome.CDS.1689;Product=NADH-ubiquinone oxidoreductase chain E %28EC 1.6.5.3%29;locus_tag=AAA278I18.genome.CDS.1689
+AAA278I18.contig.12	feature	CDS	7802	9142	.	+	0	ID=AAA278I18.genome.CDS.1688;Product=NADH-ubiquinone oxidoreductase chain D %28EC 1.6.5.3%29;locus_tag=AAA278I18.genome.CDS.1688
+AAA278I18.contig.12	feature	CDS	7191	7802	.	+	0	ID=AAA278I18.genome.CDS.1687;Product=NADH-ubiquinone oxidoreductase chain C %28EC 1.6.5.3%29;locus_tag=AAA278I18.genome.CDS.1687
+AAA278I18.contig.12	feature	CDS	6613	7179	.	+	0	ID=AAA278I18.genome.CDS.1686;Product=NADH-ubiquinone oxidoreductase chain B %28EC 1.6.5.3%29;locus_tag=AAA278I18.genome.CDS.1686
+AAA278I18.contig.12	feature	CDS	6251	6622	.	+	0	ID=AAA278I18.genome.CDS.1685;Product=NADH ubiquinone oxidoreductase chain A %28EC 1.6.5.3%29;locus_tag=AAA278I18.genome.CDS.1685
+AAA278I18.contig.12	feature	CDS	5517	6209	.	+	0	ID=AAA278I18.genome.CDS.1684;Product=Demethylmenaquinone methyltransferase %28EC 2.1.1.163%29;locus_tag=AAA278I18.genome.CDS.1684
+AAA278I18.contig.12	feature	CDS	5086	5451	.	-	0	ID=AAA278I18.genome.CDS.1683;Product=Menaquinone-specific isochorismate synthase %28EC 5.4.4.2%29;locus_tag=AAA278I18.genome.CDS.1683
+AAA278I18.contig.12	feature	CDS	4221	5075	.	-	0	ID=AAA278I18.genome.CDS.1682;Product=Isochorismate synthase %28EC 5.4.4.2%29 %40 Menaquinone-specific isochorismate synthase %28EC 5.4.4.2%29;locus_tag=AAA278I18.genome.CDS.1682
+AAA278I18.contig.12	feature	CDS	2704	4266	.	+	0	ID=AAA278I18.genome.CDS.1681;Product=2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase %28EC 2.2.1.9%29;locus_tag=AAA278I18.genome.CDS.1681
+AAA278I18.contig.12	feature	CDS	1766	2707	.	+	0	ID=AAA278I18.genome.CDS.1680;Product=O-succinylbenzoate synthase %28EC 4.2.1.113%29;locus_tag=AAA278I18.genome.CDS.1680
+AAA278I18.contig.12	feature	CDS	884	1762	.	+	0	ID=AAA278I18.genome.CDS.1679;Product=Naphthoate synthase %28EC 4.1.3.36%29;locus_tag=AAA278I18.genome.CDS.1679
+AAA278I18.contig.12	feature	CDS	3	830	.	-	0	ID=AAA278I18.genome.CDS.1678;Product=O-succinylbenzoic acid--CoA ligase %28EC 6.2.1.26%29;locus_tag=AAA278I18.genome.CDS.1678
+AAA278I18.contig.13	feature	CDS	25582	26046	.	-	0	ID=AAA278I18.genome.CDS.1737;Product=Pyruvate dehydrogenase E1 component beta subunit %28EC 1.2.4.1%29;locus_tag=AAA278I18.genome.CDS.1737
+AAA278I18.contig.13	feature	CDS	24895	25470	.	-	0	ID=AAA278I18.genome.CDS.1736;Product=Phosphoheptose isomerase 1 %28EC 5.3.1.-%29;locus_tag=AAA278I18.genome.CDS.1736
+AAA278I18.contig.13	feature	CDS	23905	24894	.	-	0	ID=AAA278I18.genome.CDS.1735;Product=UDP-glucose 4-epimerase %28EC 5.1.3.2%29;locus_tag=AAA278I18.genome.CDS.1735
+AAA278I18.contig.13	feature	CDS	22482	23918	.	-	0	ID=AAA278I18.genome.CDS.1734;Product=;locus_tag=AAA278I18.genome.CDS.1734
+AAA278I18.contig.13	feature	CDS	21472	22485	.	-	0	ID=AAA278I18.genome.CDS.1733;Product=UDP-glucose 4-epimerase %28EC 5.1.3.2%29;locus_tag=AAA278I18.genome.CDS.1733
+AAA278I18.contig.13	feature	CDS	20728	21498	.	+	0	ID=AAA278I18.genome.CDS.1732;Product=;locus_tag=AAA278I18.genome.CDS.1732
+AAA278I18.contig.13	feature	CDS	20148	20738	.	+	0	ID=AAA278I18.genome.CDS.1731;Product=;locus_tag=AAA278I18.genome.CDS.1731
+AAA278I18.contig.13	feature	tRNA	19673	19760	.	+	.	ID=AAA278I18.genome.rna.17;Product=tRNA-Ser-GGA;locus_tag=AAA278I18.genome.rna.17
+AAA278I18.contig.13	feature	CDS	17802	19493	.	-	0	ID=AAA278I18.genome.CDS.1730;Product=DNA polymerase III subunits gamma and tau %28EC 2.7.7.7%29;locus_tag=AAA278I18.genome.CDS.1730
+AAA278I18.contig.13	feature	CDS	17182	17781	.	-	0	ID=AAA278I18.genome.CDS.1729;Product=Recombination protein RecR;locus_tag=AAA278I18.genome.CDS.1729
+AAA278I18.contig.13	feature	CDS	15827	17098	.	-	0	ID=AAA278I18.genome.CDS.1728;Product=Aspartokinase %28EC 2.7.2.4%29;locus_tag=AAA278I18.genome.CDS.1728
+AAA278I18.contig.13	feature	CDS	14775	15830	.	-	0	ID=AAA278I18.genome.CDS.1727;Product=Aspartate-semialdehyde dehydrogenase %28EC 1.2.1.11%29;locus_tag=AAA278I18.genome.CDS.1727
+AAA278I18.contig.13	feature	CDS	14071	14694	.	+	0	ID=AAA278I18.genome.CDS.1726;Product=;locus_tag=AAA278I18.genome.CDS.1726
+AAA278I18.contig.13	feature	CDS	12871	13821	.	-	0	ID=AAA278I18.genome.CDS.1725;Product=GDP-L-fucose synthetase %28EC 1.1.1.271%29;locus_tag=AAA278I18.genome.CDS.1725
+AAA278I18.contig.13	feature	CDS	11911	12882	.	+	0	ID=AAA278I18.genome.CDS.1724;Product=;locus_tag=AAA278I18.genome.CDS.1724
+AAA278I18.contig.13	feature	CDS	10879	11865	.	-	0	ID=AAA278I18.genome.CDS.1723;Product=GDP-mannose 4%2C6-dehydratase %28EC 4.2.1.47%29;locus_tag=AAA278I18.genome.CDS.1723
+AAA278I18.contig.13	feature	CDS	10286	10876	.	+	0	ID=AAA278I18.genome.CDS.1722;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1722
+AAA278I18.contig.13	feature	CDS	9871	10314	.	+	0	ID=AAA278I18.genome.CDS.1721;Product=;locus_tag=AAA278I18.genome.CDS.1721
+AAA278I18.contig.13	feature	CDS	9038	9856	.	+	0	ID=AAA278I18.genome.CDS.1720;Product=putative secreted protein;locus_tag=AAA278I18.genome.CDS.1720
+AAA278I18.contig.13	feature	CDS	8571	9023	.	-	0	ID=AAA278I18.genome.CDS.1719;Product=Transamidase GatB domain protein;locus_tag=AAA278I18.genome.CDS.1719
+AAA278I18.contig.13	feature	CDS	8401	8556	.	-	0	ID=AAA278I18.genome.CDS.1718;Product=FIG011121: hypothetical protein;locus_tag=AAA278I18.genome.CDS.1718
+AAA278I18.contig.13	feature	CDS	7943	8404	.	-	0	ID=AAA278I18.genome.CDS.1717;Product=RidA/YER057c/UK114 superfamily%2C group 1;locus_tag=AAA278I18.genome.CDS.1717
+AAA278I18.contig.13	feature	CDS	7237	7953	.	+	0	ID=AAA278I18.genome.CDS.1716;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1716
+AAA278I18.contig.13	feature	CDS	6525	7214	.	+	0	ID=AAA278I18.genome.CDS.1715;Product=cAMP-binding proteins - catabolite gene activator and regulatory subunit of cAMP-dependent protein kinases;locus_tag=AAA278I18.genome.CDS.1715
+AAA278I18.contig.13	feature	CDS	5766	6467	.	-	0	ID=AAA278I18.genome.CDS.1714;Product=Endonuclease III %28EC 4.2.99.18%29;locus_tag=AAA278I18.genome.CDS.1714
+AAA278I18.contig.13	feature	CDS	5221	5769	.	-	0	ID=AAA278I18.genome.CDS.1713;Product=Cytochrome c-type biogenesis protein ResA;locus_tag=AAA278I18.genome.CDS.1713
+AAA278I18.contig.13	feature	CDS	4730	5224	.	-	0	ID=AAA278I18.genome.CDS.1712;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1712
+AAA278I18.contig.13	feature	CDS	2778	4733	.	+	0	ID=AAA278I18.genome.CDS.1711;Product=Acetyl-coenzyme A synthetase %28EC 6.2.1.1%29;locus_tag=AAA278I18.genome.CDS.1711
+AAA278I18.contig.13	feature	CDS	2527	2649	.	-	0	ID=AAA278I18.genome.CDS.1710;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1710
+AAA278I18.contig.13	feature	CDS	1357	2391	.	-	0	ID=AAA278I18.genome.CDS.1709;Product=Fructose-bisphosphate aldolase class II %28EC 4.1.2.13%29;locus_tag=AAA278I18.genome.CDS.1709
+AAA278I18.contig.13	feature	CDS	66	1352	.	-	0	ID=AAA278I18.genome.CDS.1708;Product=Adenylosuccinate synthetase %28EC 6.3.4.4%29;locus_tag=AAA278I18.genome.CDS.1708
+AAA278I18.contig.13	feature	CDS	1	69	.	-	0	ID=AAA278I18.genome.CDS.1707;Product=Adenylosuccinate lyase %28EC 4.3.2.2%29;locus_tag=AAA278I18.genome.CDS.1707
+AAA278I18.contig.14	feature	CDS	23656	23922	.	-	0	ID=AAA278I18.genome.CDS.1761;Product=putative DNA-binding protein;locus_tag=AAA278I18.genome.CDS.1761
+AAA278I18.contig.14	feature	CDS	23174	23446	.	-	0	ID=AAA278I18.genome.CDS.1760;Product=Lipoprotein signal peptidase %28EC 3.4.23.36%29;locus_tag=AAA278I18.genome.CDS.1760
+AAA278I18.contig.14	feature	CDS	22239	23177	.	-	0	ID=AAA278I18.genome.CDS.1759;Product=Ribosomal large subunit pseudouridine synthase D %28EC 4.2.1.70%29;locus_tag=AAA278I18.genome.CDS.1759
+AAA278I18.contig.14	feature	CDS	18681	22208	.	-	0	ID=AAA278I18.genome.CDS.1758;Product=DNA polymerase III alpha subunit %28EC 2.7.7.7%29;locus_tag=AAA278I18.genome.CDS.1758
+AAA278I18.contig.14	feature	CDS	17958	18674	.	-	0	ID=AAA278I18.genome.CDS.1757;Product=Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase %28EC 5.3.1.16%29;locus_tag=AAA278I18.genome.CDS.1757
+AAA278I18.contig.14	feature	CDS	16419	17918	.	-	0	ID=AAA278I18.genome.CDS.1756;Product=Anthranilate synthase%2C aminase component %28EC 4.1.3.27%29;locus_tag=AAA278I18.genome.CDS.1756
+AAA278I18.contig.14	feature	CDS	16267	16422	.	-	0	ID=AAA278I18.genome.CDS.1755;Product=;locus_tag=AAA278I18.genome.CDS.1755
+AAA278I18.contig.14	feature	CDS	15495	16274	.	-	0	ID=AAA278I18.genome.CDS.1754;Product=Indole-3-glycerol phosphate synthase %28EC 4.1.1.48%29;locus_tag=AAA278I18.genome.CDS.1754
+AAA278I18.contig.14	feature	CDS	14260	15474	.	-	0	ID=AAA278I18.genome.CDS.1753;Product=Tryptophan synthase beta chain %28EC 4.2.1.20%29;locus_tag=AAA278I18.genome.CDS.1753
+AAA278I18.contig.14	feature	CDS	13457	14260	.	-	0	ID=AAA278I18.genome.CDS.1752;Product=Tryptophan synthase alpha chain %28EC 4.2.1.20%29;locus_tag=AAA278I18.genome.CDS.1752
+AAA278I18.contig.14	feature	CDS	12000	13418	.	-	0	ID=AAA278I18.genome.CDS.1751;Product=Isoleucyl-tRNA synthetase %28EC 6.1.1.5%29;locus_tag=AAA278I18.genome.CDS.1751
+AAA278I18.contig.14	feature	CDS	11714	11998	.	+	0	ID=AAA278I18.genome.CDS.1750;Product=;locus_tag=AAA278I18.genome.CDS.1750
+AAA278I18.contig.14	feature	CDS	11244	11696	.	+	0	ID=AAA278I18.genome.CDS.1749;Product=FIG021292: hypothetical protein;locus_tag=AAA278I18.genome.CDS.1749
+AAA278I18.contig.14	feature	CDS	10548	11234	.	+	0	ID=AAA278I18.genome.CDS.1748;Product=Hypothetical protein YggS%2C proline synthase co-transcribed bacterial homolog PROSC;locus_tag=AAA278I18.genome.CDS.1748
+AAA278I18.contig.14	feature	CDS	9931	10551	.	+	0	ID=AAA278I18.genome.CDS.1747;Product=;locus_tag=AAA278I18.genome.CDS.1747
+AAA278I18.contig.14	feature	CDS	8783	9922	.	+	0	ID=AAA278I18.genome.CDS.1746;Product=Cell division protein FtsZ %28EC 3.4.24.-%29;locus_tag=AAA278I18.genome.CDS.1746
+AAA278I18.contig.14	feature	CDS	7860	8594	.	+	0	ID=AAA278I18.genome.CDS.1745;Product=;locus_tag=AAA278I18.genome.CDS.1745
+AAA278I18.contig.14	feature	CDS	6449	7852	.	+	0	ID=AAA278I18.genome.CDS.1744;Product=UDP-N-acetylmuramate--alanine ligase %28EC 6.3.2.8%29;locus_tag=AAA278I18.genome.CDS.1744
+AAA278I18.contig.14	feature	CDS	5364	6452	.	+	0	ID=AAA278I18.genome.CDS.1743;Product=UDP-N-acetylglucosamine--N-acetylmuramyl-%28pentapeptide%29 pyrophosphoryl-undecaprenol N-acetylglucosamine transferase %28EC 2.4.1.227%29;locus_tag=AAA278I18.genome.CDS.1743
+AAA278I18.contig.14	feature	CDS	4183	5367	.	+	0	ID=AAA278I18.genome.CDS.1742;Product=Cell division protein FtsW;locus_tag=AAA278I18.genome.CDS.1742
+AAA278I18.contig.14	feature	CDS	2832	4181	.	+	0	ID=AAA278I18.genome.CDS.769;Product=UDP-N-acetylmuramoylalanine--D-glutamate ligase %28EC 6.3.2.9%29;locus_tag=AAA278I18.genome.CDS.769
+AAA278I18.contig.14	feature	CDS	1772	2830	.	+	0	ID=AAA278I18.genome.CDS.1740;Product=Phospho-N-acetylmuramoyl-pentapeptide-transferase %28EC 2.7.8.13%29;locus_tag=AAA278I18.genome.CDS.1740
+AAA278I18.contig.14	feature	CDS	396	1775	.	+	0	ID=AAA278I18.genome.CDS.1739;Product=UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase %28EC 6.3.2.10%29;locus_tag=AAA278I18.genome.CDS.1739
+AAA278I18.contig.14	feature	CDS	1	396	.	+	0	ID=AAA278I18.genome.CDS.1738;Product=UDP-N-acetylmuramoylalanyl-D-glutamate--2%2C6-diaminopimelate ligase %28EC 6.3.2.13%29;locus_tag=AAA278I18.genome.CDS.1738
+AAA278I18.contig.15	feature	CDS	23118	23318	.	-	0	ID=AAA278I18.genome.CDS.1781;Product=Transketolase %28EC 2.2.1.1%29;locus_tag=AAA278I18.genome.CDS.1781
+AAA278I18.contig.15	feature	CDS	22043	23125	.	-	0	ID=AAA278I18.genome.CDS.1780;Product=Transaldolase %28EC 2.2.1.2%29;locus_tag=AAA278I18.genome.CDS.1780
+AAA278I18.contig.15	feature	CDS	20528	22042	.	-	0	ID=AAA278I18.genome.CDS.1779;Product=Glucose-6-phosphate isomerase %28EC 5.3.1.9%29;locus_tag=AAA278I18.genome.CDS.1779
+AAA278I18.contig.15	feature	CDS	20190	20531	.	+	0	ID=AAA278I18.genome.CDS.1778;Product=putative electron transport protein;locus_tag=AAA278I18.genome.CDS.1778
+AAA278I18.contig.15	feature	CDS	19940	20167	.	+	0	ID=AAA278I18.genome.CDS.1777;Product=Preprotein translocase subunit SecG %28TC 3.A.5.1.1%29;locus_tag=AAA278I18.genome.CDS.1777
+AAA278I18.contig.15	feature	CDS	19069	19851	.	+	0	ID=AAA278I18.genome.CDS.1776;Product=Triosephosphate isomerase %28EC 5.3.1.1%29;locus_tag=AAA278I18.genome.CDS.1776
+AAA278I18.contig.15	feature	CDS	17872	19056	.	+	0	ID=AAA278I18.genome.CDS.1775;Product=Phosphoglycerate kinase %28EC 2.7.2.3%29;locus_tag=AAA278I18.genome.CDS.1775
+AAA278I18.contig.15	feature	CDS	16865	17866	.	+	0	ID=AAA278I18.genome.CDS.1774;Product=NAD-dependent glyceraldehyde-3-phosphate dehydrogenase %28EC 1.2.1.12%29;locus_tag=AAA278I18.genome.CDS.1774
+AAA278I18.contig.15	feature	CDS	15793	16770	.	+	0	ID=AAA278I18.genome.CDS.1773;Product=FIG001886: Cytoplasmic hypothetical protein;locus_tag=AAA278I18.genome.CDS.1773
+AAA278I18.contig.15	feature	CDS	14817	15749	.	+	0	ID=AAA278I18.genome.CDS.1772;Product=FIG002813: LPPG:FO 2-phospho-L-lactate transferase like%2C CofD-like;locus_tag=AAA278I18.genome.CDS.1772
+AAA278I18.contig.15	feature	CDS	12881	14794	.	+	0	ID=AAA278I18.genome.CDS.1771;Product=Excinuclease ABC subunit C;locus_tag=AAA278I18.genome.CDS.1771
+AAA278I18.contig.15	feature	CDS	10037	12877	.	+	0	ID=AAA278I18.genome.CDS.1770;Product=Excinuclease ABC subunit A;locus_tag=AAA278I18.genome.CDS.1770
+AAA278I18.contig.15	feature	CDS	7968	10037	.	+	0	ID=AAA278I18.genome.CDS.1769;Product=Excinuclease ABC subunit B;locus_tag=AAA278I18.genome.CDS.1769
+AAA278I18.contig.15	feature	CDS	7372	7968	.	+	0	ID=AAA278I18.genome.CDS.1768;Product=Dephospho-CoA kinase %28EC 2.7.1.24%29;locus_tag=AAA278I18.genome.CDS.1768
+AAA278I18.contig.15	feature	CDS	5966	7309	.	+	0	ID=AAA278I18.genome.CDS.1767;Product=SSU ribosomal protein S1p;locus_tag=AAA278I18.genome.CDS.1767
+AAA278I18.contig.15	feature	CDS	4635	5861	.	-	0	ID=AAA278I18.genome.CDS.1766;Product=;locus_tag=AAA278I18.genome.CDS.1766
+AAA278I18.contig.15	feature	CDS	2110	4638	.	+	0	ID=AAA278I18.genome.CDS.1765;Product=DNA polymerase I %28EC 2.7.7.7%29;locus_tag=AAA278I18.genome.CDS.1765
+AAA278I18.contig.15	feature	CDS	1621	2025	.	-	0	ID=AAA278I18.genome.CDS.1764;Product=ComA operon protein 2;locus_tag=AAA278I18.genome.CDS.1764
+AAA278I18.contig.15	feature	CDS	1021	1611	.	+	0	ID=AAA278I18.genome.CDS.1763;Product=response regulator;locus_tag=AAA278I18.genome.CDS.1763
+AAA278I18.contig.15	feature	tRNA	947	1019	.	+	.	ID=AAA278I18.genome.rna.18;Product=tRNA-Leu-CAA;locus_tag=AAA278I18.genome.rna.18
+AAA278I18.contig.15	feature	CDS	3	902	.	+	0	ID=AAA278I18.genome.CDS.1762;Product=Pyruvate kinase %28EC 2.7.1.40%29;locus_tag=AAA278I18.genome.CDS.1762
+AAA278I18.contig.16	feature	CDS	21060	21818	.	-	0	ID=AAA278I18.genome.CDS.1803;Product=;locus_tag=AAA278I18.genome.CDS.1803
+AAA278I18.contig.16	feature	tRNA	20865	20938	.	+	.	ID=AAA278I18.genome.rna.20;Product=tRNA-Arg-TCT;locus_tag=AAA278I18.genome.rna.20
+AAA278I18.contig.16	feature	CDS	19140	20807	.	-	0	ID=AAA278I18.genome.CDS.1802;Product=ABC transporter ATP-binding protein;locus_tag=AAA278I18.genome.CDS.1802
+AAA278I18.contig.16	feature	CDS	18725	19126	.	-	0	ID=AAA278I18.genome.CDS.1801;Product=;locus_tag=AAA278I18.genome.CDS.1801
+AAA278I18.contig.16	feature	CDS	17460	18725	.	-	0	ID=AAA278I18.genome.CDS.1800;Product=putative integral membrane transport protein;locus_tag=AAA278I18.genome.CDS.1800
+AAA278I18.contig.16	feature	CDS	17086	17463	.	-	0	ID=AAA278I18.genome.CDS.1799;Product=Hemoglobin-like protein HbO;locus_tag=AAA278I18.genome.CDS.1799
+AAA278I18.contig.16	feature	CDS	16513	17076	.	+	0	ID=AAA278I18.genome.CDS.1798;Product=Potassium efflux system KefA protein / Small-conductance mechanosensitive channel;locus_tag=AAA278I18.genome.CDS.1798
+AAA278I18.contig.16	feature	CDS	15861	16385	.	-	0	ID=AAA278I18.genome.CDS.1797;Product=HNH endonuclease family protein;locus_tag=AAA278I18.genome.CDS.1797
+AAA278I18.contig.16	feature	CDS	15688	15861	.	-	0	ID=AAA278I18.genome.CDS.1796;Product=;locus_tag=AAA278I18.genome.CDS.1796
+AAA278I18.contig.16	feature	CDS	13128	15668	.	+	0	ID=AAA278I18.genome.CDS.1795;Product=Membrane alanine aminopeptidase N %28EC 3.4.11.2%29;locus_tag=AAA278I18.genome.CDS.1795
+AAA278I18.contig.16	feature	CDS	12385	13041	.	-	0	ID=AAA278I18.genome.CDS.1794;Product=tRNA %28guanine46-N7-%29-methyltransferase %28EC 2.1.1.33%29;locus_tag=AAA278I18.genome.CDS.1794
+AAA278I18.contig.16	feature	CDS	11933	12388	.	+	0	ID=AAA278I18.genome.CDS.1793;Product=Ribose 5-phosphate isomerase B %28EC 5.3.1.6%29 / Galactose 6-phosphate isomerase;locus_tag=AAA278I18.genome.CDS.1793
+AAA278I18.contig.16	feature	CDS	11210	11839	.	+	0	ID=AAA278I18.genome.CDS.1792;Product=;locus_tag=AAA278I18.genome.CDS.1792
+AAA278I18.contig.16	feature	CDS	10024	10950	.	-	0	ID=AAA278I18.genome.CDS.1791;Product=;locus_tag=AAA278I18.genome.CDS.1791
+AAA278I18.contig.16	feature	tRNA	9947	10020	.	+	.	ID=AAA278I18.genome.rna.19;Product=tRNA-Gly-TCC;locus_tag=AAA278I18.genome.rna.19
+AAA278I18.contig.16	feature	tRNA	9753	9828	.	-	.	ID=AAA278I18.genome.rna.21;Product=tRNA-Pro-TGG;locus_tag=AAA278I18.genome.rna.21
+AAA278I18.contig.16	feature	CDS	8422	9711	.	-	0	ID=AAA278I18.genome.CDS.1790;Product=Cell division trigger factor %28EC 5.2.1.8%29;locus_tag=AAA278I18.genome.CDS.1790
+AAA278I18.contig.16	feature	CDS	7699	8355	.	-	0	ID=AAA278I18.genome.CDS.1789;Product=ATP-dependent Clp protease proteolytic subunit %28EC 3.4.21.92%29;locus_tag=AAA278I18.genome.CDS.1789
+AAA278I18.contig.16	feature	CDS	7064	7702	.	-	0	ID=AAA278I18.genome.CDS.1788;Product=ATP-dependent Clp protease proteolytic subunit %28EC 3.4.21.92%29;locus_tag=AAA278I18.genome.CDS.1788
+AAA278I18.contig.16	feature	CDS	5666	6964	.	-	0	ID=AAA278I18.genome.CDS.1787;Product=ATP-dependent Clp protease ATP-binding subunit ClpX;locus_tag=AAA278I18.genome.CDS.1787
+AAA278I18.contig.16	feature	CDS	3057	5654	.	-	0	ID=AAA278I18.genome.CDS.1786;Product=Valyl-tRNA synthetase %28EC 6.1.1.9%29;locus_tag=AAA278I18.genome.CDS.1786
+AAA278I18.contig.16	feature	CDS	1928	2722	.	+	0	ID=AAA278I18.genome.CDS.1785;Product=Rod shape-determining protein MreB;locus_tag=AAA278I18.genome.CDS.1785
+AAA278I18.contig.16	feature	CDS	1465	1890	.	+	0	ID=AAA278I18.genome.CDS.1784;Product=Nucleoside diphosphate kinase %28EC 2.7.4.6%29;locus_tag=AAA278I18.genome.CDS.1784
+AAA278I18.contig.16	feature	CDS	1097	1435	.	+	0	ID=AAA278I18.genome.CDS.1783;Product=;locus_tag=AAA278I18.genome.CDS.1783
+AAA278I18.contig.16	feature	CDS	3	1091	.	+	0	ID=AAA278I18.genome.CDS.1782;Product=Dihydrofolate synthase %28EC 6.3.2.12%29 %40 Folylpolyglutamate synthase %28EC 6.3.2.17%29;locus_tag=AAA278I18.genome.CDS.1782
+AAA278I18.contig.17	feature	CDS	19635	20183	.	+	0	ID=AAA278I18.genome.CDS.1823;Product=;locus_tag=AAA278I18.genome.CDS.1823
+AAA278I18.contig.17	feature	CDS	18474	19574	.	-	0	ID=AAA278I18.genome.CDS.1822;Product=Cell envelope-associated transcriptional attenuator LytR-CpsA-Psr%2C subfamily A1 %28as in PMID19099556%29;locus_tag=AAA278I18.genome.CDS.1822
+AAA278I18.contig.17	feature	CDS	17130	18446	.	-	0	ID=AAA278I18.genome.CDS.1821;Product=UDP-glucose 6-dehydrogenase %28EC 1.1.1.22%29;locus_tag=AAA278I18.genome.CDS.1821
+AAA278I18.contig.17	feature	CDS	16745	17137	.	-	0	ID=AAA278I18.genome.CDS.1820;Product=Succinyl-CoA synthetase%2C alpha subunit-related enzymes;locus_tag=AAA278I18.genome.CDS.1820
+AAA278I18.contig.17	feature	CDS	15923	16744	.	+	0	ID=AAA278I18.genome.CDS.1819;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1819
+AAA278I18.contig.17	feature	CDS	15291	15902	.	-	0	ID=AAA278I18.genome.CDS.1818;Product=Septum formation protein Maf;locus_tag=AAA278I18.genome.CDS.1818
+AAA278I18.contig.17	feature	CDS	14472	15281	.	-	0	ID=AAA278I18.genome.CDS.1817;Product=Purine nucleoside phosphorylase %28EC 2.4.2.1%29;locus_tag=AAA278I18.genome.CDS.1817
+AAA278I18.contig.17	feature	CDS	12862	14475	.	-	0	ID=AAA278I18.genome.CDS.1816;Product=Phosphomannomutase %28EC 5.4.2.8%29;locus_tag=AAA278I18.genome.CDS.1816
+AAA278I18.contig.17	feature	CDS	11930	12865	.	-	0	ID=AAA278I18.genome.CDS.1815;Product=Deoxyribose-phosphate aldolase %28EC 4.1.2.4%29;locus_tag=AAA278I18.genome.CDS.1815
+AAA278I18.contig.17	feature	CDS	10467	11921	.	-	0	ID=AAA278I18.genome.CDS.1814;Product=Aldehyde dehydrogenase %28EC 1.2.1.3%29;locus_tag=AAA278I18.genome.CDS.1814
+AAA278I18.contig.17	feature	CDS	9628	10470	.	-	0	ID=AAA278I18.genome.CDS.1813;Product=Aldehyde dehydrogenase %28EC 1.2.1.3%29;locus_tag=AAA278I18.genome.CDS.1813
+AAA278I18.contig.17	feature	CDS	8531	9625	.	+	0	ID=AAA278I18.genome.CDS.1812;Product=Adenosine deaminase %28EC 3.5.4.4%29;locus_tag=AAA278I18.genome.CDS.1812
+AAA278I18.contig.17	feature	CDS	7235	8530	.	+	0	ID=AAA278I18.genome.CDS.1811;Product=Thymidine phosphorylase %28EC 2.4.2.4%29;locus_tag=AAA278I18.genome.CDS.1811
+AAA278I18.contig.17	feature	CDS	6848	7234	.	+	0	ID=AAA278I18.genome.CDS.1810;Product=Cytidine deaminase %28EC 3.5.4.5%29;locus_tag=AAA278I18.genome.CDS.1810
+AAA278I18.contig.17	feature	CDS	5566	6822	.	+	0	ID=AAA278I18.genome.CDS.1809;Product=Nucleoside ABC transporter%2C permease protein 2;locus_tag=AAA278I18.genome.CDS.1809
+AAA278I18.contig.17	feature	CDS	4397	5566	.	+	0	ID=AAA278I18.genome.CDS.1808;Product=Nucleoside ABC transporter%2C permease protein 1;locus_tag=AAA278I18.genome.CDS.1808
+AAA278I18.contig.17	feature	CDS	2903	4396	.	+	0	ID=AAA278I18.genome.CDS.1807;Product=ABC transporter ATP-binding protein;locus_tag=AAA278I18.genome.CDS.1807
+AAA278I18.contig.17	feature	CDS	1753	2805	.	+	0	ID=AAA278I18.genome.CDS.1806;Product=Nucleoside ABC transporter%2C periplasmic nucleoside-binding protein;locus_tag=AAA278I18.genome.CDS.1806
+AAA278I18.contig.17	feature	CDS	612	1616	.	+	0	ID=AAA278I18.genome.CDS.1805;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1805
+AAA278I18.contig.17	feature	CDS	2	619	.	+	0	ID=AAA278I18.genome.CDS.1804;Product=Tryptophanyl-tRNA synthetase %28EC 6.1.1.2%29;locus_tag=AAA278I18.genome.CDS.1804
+AAA278I18.contig.18	feature	CDS	17588	18106	.	+	0	ID=AAA278I18.genome.CDS.1843;Product=DNA-directed RNA polymerase beta subunit %28EC 2.7.7.6%29;locus_tag=AAA278I18.genome.CDS.1843
+AAA278I18.contig.18	feature	CDS	17062	17448	.	+	0	ID=AAA278I18.genome.CDS.1842;Product=LSU ribosomal protein L7/L12 %28P1/P2%29;locus_tag=AAA278I18.genome.CDS.1842
+AAA278I18.contig.18	feature	CDS	16378	16995	.	+	0	ID=AAA278I18.genome.CDS.1841;Product=LSU ribosomal protein L10p %28P0%29;locus_tag=AAA278I18.genome.CDS.1841
+AAA278I18.contig.18	feature	CDS	15447	16157	.	+	0	ID=AAA278I18.genome.CDS.1840;Product=LSU ribosomal protein L1p %28L10Ae%29;locus_tag=AAA278I18.genome.CDS.1840
+AAA278I18.contig.18	feature	CDS	14928	15359	.	+	0	ID=AAA278I18.genome.CDS.1839;Product=LSU ribosomal protein L11p %28L12e%29;locus_tag=AAA278I18.genome.CDS.1839
+AAA278I18.contig.18	feature	CDS	14192	14905	.	+	0	ID=AAA278I18.genome.CDS.1838;Product=Transcription antitermination protein NusG;locus_tag=AAA278I18.genome.CDS.1838
+AAA278I18.contig.18	feature	CDS	13950	14174	.	+	0	ID=AAA278I18.genome.CDS.1837;Product=Preprotein translocase subunit SecE %28TC 3.A.5.1.1%29;locus_tag=AAA278I18.genome.CDS.1837
+AAA278I18.contig.18	feature	tRNA	13832	13908	.	+	.	ID=AAA278I18.genome.rna.25;Product=tRNA-Trp-CCA;locus_tag=AAA278I18.genome.rna.25
+AAA278I18.contig.18	feature	CDS	12480	13694	.	-	0	ID=AAA278I18.genome.CDS.1836;Product=Aspartate aminotransferase %28EC 2.6.1.1%29;locus_tag=AAA278I18.genome.CDS.1836
+AAA278I18.contig.18	feature	CDS	10830	12437	.	+	0	ID=AAA278I18.genome.CDS.1835;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1835
+AAA278I18.contig.18	feature	CDS	9664	10689	.	+	0	ID=AAA278I18.genome.CDS.1834;Product=UDP-N-acetylenolpyruvoylglucosamine reductase %28EC 1.3.1.98%29;locus_tag=AAA278I18.genome.CDS.1834
+AAA278I18.contig.18	feature	CDS	8968	9654	.	+	0	ID=AAA278I18.genome.CDS.1833;Product=;locus_tag=AAA278I18.genome.CDS.1833
+AAA278I18.contig.18	feature	CDS	8784	8954	.	+	0	ID=AAA278I18.genome.CDS.1832;Product=LSU ribosomal protein L33p %40 LSU ribosomal protein L33p%2C zinc-dependent;locus_tag=AAA278I18.genome.CDS.1832
+AAA278I18.contig.18	feature	tRNA	8584	8660	.	+	.	ID=AAA278I18.genome.rna.24;Product=tRNA-Met-CAT;locus_tag=AAA278I18.genome.rna.24
+AAA278I18.contig.18	feature	tRNA	8477	8552	.	+	.	ID=AAA278I18.genome.rna.23;Product=tRNA-Thr-GGT;locus_tag=AAA278I18.genome.rna.23
+AAA278I18.contig.18	feature	CDS	7027	8421	.	+	0	ID=AAA278I18.genome.CDS.1831;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1831
+AAA278I18.contig.18	feature	CDS	6063	6989	.	-	0	ID=AAA278I18.genome.CDS.1830;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1830
+AAA278I18.contig.18	feature	tRNA	5972	6056	.	+	.	ID=AAA278I18.genome.rna.22;Product=tRNA-Tyr-GTA;locus_tag=AAA278I18.genome.rna.22
+AAA278I18.contig.18	feature	CDS	4671	5912	.	+	0	ID=AAA278I18.genome.CDS.1829;Product=L-lactate dehydrogenase %28EC 1.1.2.3%29;locus_tag=AAA278I18.genome.CDS.1829
+AAA278I18.contig.18	feature	CDS	4116	4604	.	-	0	ID=AAA278I18.genome.CDS.1828;Product=FIG001943: hypothetical protein YajQ;locus_tag=AAA278I18.genome.CDS.1828
+AAA278I18.contig.18	feature	CDS	3212	4090	.	-	0	ID=AAA278I18.genome.CDS.1827;Product=Protein rarD;locus_tag=AAA278I18.genome.CDS.1827
+AAA278I18.contig.18	feature	CDS	2246	3232	.	+	0	ID=AAA278I18.genome.CDS.1826;Product=Solanesyl diphosphate synthase %28EC 2.5.1.11%29;locus_tag=AAA278I18.genome.CDS.1826
+AAA278I18.contig.18	feature	CDS	735	2243	.	+	0	ID=AAA278I18.genome.CDS.1825;Product=NADH-ubiquinone oxidoreductase chain N %28EC 1.6.5.3%29;locus_tag=AAA278I18.genome.CDS.1825
+AAA278I18.contig.18	feature	CDS	1	735	.	+	0	ID=AAA278I18.genome.CDS.1824;Product=NADH-ubiquinone oxidoreductase chain M %28EC 1.6.5.3%29;locus_tag=AAA278I18.genome.CDS.1824
+AAA278I18.contig.19	feature	CDS	9720	10322	.	+	0	ID=AAA278I18.genome.CDS.1856;Product=Cell division protein FtsI %5BPeptidoglycan synthetase%5D %28EC 2.4.1.129%29;locus_tag=AAA278I18.genome.CDS.1856
+AAA278I18.contig.19	feature	CDS	9202	9723	.	+	0	ID=AAA278I18.genome.CDS.1855;Product=;locus_tag=AAA278I18.genome.CDS.1855
+AAA278I18.contig.19	feature	CDS	8895	9194	.	+	0	ID=AAA278I18.genome.CDS.883;Product=Rod shape-determining protein MreC;locus_tag=AAA278I18.genome.CDS.883
+AAA278I18.contig.19	feature	CDS	7709	8884	.	+	0	ID=AAA278I18.genome.CDS.1853;Product=Sarcosine oxidase beta subunit %28EC 1.5.3.1%29;locus_tag=AAA278I18.genome.CDS.1853
+AAA278I18.contig.19	feature	CDS	7242	7562	.	-	0	ID=AAA278I18.genome.CDS.1852;Product=;locus_tag=AAA278I18.genome.CDS.1852
+AAA278I18.contig.19	feature	CDS	6471	6611	.	+	0	ID=AAA278I18.genome.CDS.880;Product=;locus_tag=AAA278I18.genome.CDS.880
+AAA278I18.contig.19	feature	tRNA	6355	6427	.	+	.	ID=AAA278I18.genome.rna.27;Product=tRNA-Lys-CTT;locus_tag=AAA278I18.genome.rna.27
+AAA278I18.contig.19	feature	CDS	5802	6293	.	+	0	ID=AAA278I18.genome.CDS.1851;Product=Inorganic pyrophosphatase %28EC 3.6.1.1%29;locus_tag=AAA278I18.genome.CDS.1851
+AAA278I18.contig.19	feature	tRNA	5676	5751	.	+	.	ID=AAA278I18.genome.rna.26;Product=tRNA-His-GTG;locus_tag=AAA278I18.genome.rna.26
+AAA278I18.contig.19	feature	CDS	5047	5595	.	+	0	ID=AAA278I18.genome.CDS.1850;Product=3%27-to-5%27 oligoribonuclease %28orn%29;locus_tag=AAA278I18.genome.CDS.1850
+AAA278I18.contig.19	feature	CDS	3955	4944	.	-	0	ID=AAA278I18.genome.CDS.1849;Product=Phosphate transport system permease protein PstC %28TC 3.A.1.7.1%29;locus_tag=AAA278I18.genome.CDS.1849
+AAA278I18.contig.19	feature	CDS	2906	3955	.	-	0	ID=AAA278I18.genome.CDS.1848;Product=Phosphate transport system permease protein PstA %28TC 3.A.1.7.1%29;locus_tag=AAA278I18.genome.CDS.1848
+AAA278I18.contig.19	feature	CDS	2459	2899	.	-	0	ID=AAA278I18.genome.CDS.1847;Product=Phosphate transport ATP-binding protein PstB %28TC 3.A.1.7.1%29;locus_tag=AAA278I18.genome.CDS.1847
+AAA278I18.contig.19	feature	CDS	2002	2472	.	-	0	ID=AAA278I18.genome.CDS.1846;Product=Phosphate transport ATP-binding protein PstB %28TC 3.A.1.7.1%29;locus_tag=AAA278I18.genome.CDS.1846
+AAA278I18.contig.19	feature	CDS	782	1873	.	-	0	ID=AAA278I18.genome.CDS.1845;Product=Phosphate ABC transporter%2C periplasmic phosphate-binding protein PstS %28TC 3.A.1.7.1%29;locus_tag=AAA278I18.genome.CDS.1845
+AAA278I18.contig.19	feature	CDS	482	634	.	-	0	ID=AAA278I18.genome.CDS.1844;Product=;locus_tag=AAA278I18.genome.CDS.1844
+AAA278I18.contig.2	feature	CDS	77361	77552	.	-	0	ID=AAA278I18.genome.CDS.1127;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1127
+AAA278I18.contig.2	feature	CDS	76867	77340	.	-	0	ID=AAA278I18.genome.CDS.1126;Product=FIG01121484: hypothetical protein;locus_tag=AAA278I18.genome.CDS.1126
+AAA278I18.contig.2	feature	CDS	76265	76768	.	-	0	ID=AAA278I18.genome.CDS.1125;Product=transcriptional regulator%2C MerR family;locus_tag=AAA278I18.genome.CDS.1125
+AAA278I18.contig.2	feature	CDS	73376	76222	.	-	0	ID=AAA278I18.genome.CDS.1124;Product=Glycine dehydrogenase %5Bdecarboxylating%5D %28glycine cleavage system P protein%29 %28EC 1.4.4.2%29;locus_tag=AAA278I18.genome.CDS.1124
+AAA278I18.contig.2	feature	CDS	72621	73349	.	+	0	ID=AAA278I18.genome.CDS.1123;Product=Dolichol-phosphate mannosyltransferase %28EC 2.4.1.83%29 in lipid-linked oligosaccharide synthesis cluster;locus_tag=AAA278I18.genome.CDS.1123
+AAA278I18.contig.2	feature	CDS	71242	72621	.	+	0	ID=AAA278I18.genome.CDS.1122;Product=Apolipoprotein N-acyltransferase %28EC 2.3.1.-%29 in lipid-linked oligosaccharide synthesis cluster;locus_tag=AAA278I18.genome.CDS.1122
+AAA278I18.contig.2	feature	CDS	70337	71239	.	+	0	ID=AAA278I18.genome.CDS.1121;Product=DNA polymerase I %28EC 2.7.7.7%29;locus_tag=AAA278I18.genome.CDS.1121
+AAA278I18.contig.2	feature	CDS	67998	70340	.	+	0	ID=AAA278I18.genome.CDS.1120;Product=FIG005666: putative helicase;locus_tag=AAA278I18.genome.CDS.1120
+AAA278I18.contig.2	feature	CDS	67120	68001	.	+	0	ID=AAA278I18.genome.CDS.1119;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1119
+AAA278I18.contig.2	feature	CDS	66313	67119	.	+	0	ID=AAA278I18.genome.CDS.1118;Product=Twin-arginine translocation protein TatC;locus_tag=AAA278I18.genome.CDS.1118
+AAA278I18.contig.2	feature	CDS	66116	66307	.	+	0	ID=AAA278I18.genome.CDS.1117;Product=Twin-arginine translocation protein TatA;locus_tag=AAA278I18.genome.CDS.1117
+AAA278I18.contig.2	feature	CDS	65175	66101	.	+	0	ID=AAA278I18.genome.CDS.1116;Product=;locus_tag=AAA278I18.genome.CDS.1116
+AAA278I18.contig.2	feature	CDS	64259	65182	.	+	0	ID=AAA278I18.genome.CDS.1115;Product=FIG005453: Putative DeoR-family transcriptional regulator;locus_tag=AAA278I18.genome.CDS.1115
+AAA278I18.contig.2	feature	CDS	63712	64131	.	-	0	ID=AAA278I18.genome.CDS.1114;Product=FKBP-type peptidyl-prolyl cis-trans isomerase;locus_tag=AAA278I18.genome.CDS.1114
+AAA278I18.contig.2	feature	CDS	62866	63711	.	+	0	ID=AAA278I18.genome.CDS.1113;Product=tRNA %28adenine%2858%29-N%281%29%29-methyltransferase %28EC 2.1.1.220%29;locus_tag=AAA278I18.genome.CDS.1113
+AAA278I18.contig.2	feature	CDS	62201	62869	.	+	0	ID=AAA278I18.genome.CDS.1112;Product=2-deoxyglucose-6-phosphate hydrolase YniC;locus_tag=AAA278I18.genome.CDS.1112
+AAA278I18.contig.2	feature	CDS	58731	62204	.	+	0	ID=AAA278I18.genome.CDS.1111;Product=5-methyltetrahydrofolate--homocysteine methyltransferase %28EC 2.1.1.13%29;locus_tag=AAA278I18.genome.CDS.1111
+AAA278I18.contig.2	feature	CDS	57464	58687	.	+	0	ID=AAA278I18.genome.CDS.1110;Product=L-cysteine:1D-myo-inosityl 2-amino-2-deoxy-alpha-D-glucopyranoside ligase MshC;locus_tag=AAA278I18.genome.CDS.1110
+AAA278I18.contig.2	feature	CDS	56755	57450	.	+	0	ID=AAA278I18.genome.CDS.1109;Product=FIG00820755: hypothetical protein;locus_tag=AAA278I18.genome.CDS.1109
+AAA278I18.contig.2	feature	CDS	56219	56758	.	+	0	ID=AAA278I18.genome.CDS.1108;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1108
+AAA278I18.contig.2	feature	CDS	55544	56218	.	+	0	ID=AAA278I18.genome.CDS.1107;Product=;locus_tag=AAA278I18.genome.CDS.1107
+AAA278I18.contig.2	feature	CDS	54553	55479	.	-	0	ID=AAA278I18.genome.CDS.1106;Product=putative oxidoreductase;locus_tag=AAA278I18.genome.CDS.1106
+AAA278I18.contig.2	feature	CDS	53237	54556	.	+	0	ID=AAA278I18.genome.CDS.1105;Product=Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase and related deacylases;locus_tag=AAA278I18.genome.CDS.1105
+AAA278I18.contig.2	feature	tRNA	53087	53173	.	-	.	ID=AAA278I18.genome.rna.1;Product=tRNA-Leu-GAG;locus_tag=AAA278I18.genome.rna.1
+AAA278I18.contig.2	feature	CDS	51459	53045	.	+	0	ID=AAA278I18.genome.CDS.1104;Product=;locus_tag=AAA278I18.genome.CDS.1104
+AAA278I18.contig.2	feature	CDS	50835	51359	.	-	0	ID=AAA278I18.genome.CDS.1103;Product=Adenine phosphoribosyltransferase %28EC 2.4.2.7%29;locus_tag=AAA278I18.genome.CDS.1103
+AAA278I18.contig.2	feature	CDS	50192	50830	.	-	0	ID=AAA278I18.genome.CDS.1102;Product=Thymidine kinase %28EC 2.7.1.21%29;locus_tag=AAA278I18.genome.CDS.1102
+AAA278I18.contig.2	feature	CDS	49137	50177	.	-	0	ID=AAA278I18.genome.CDS.1101;Product=Alcohol dehydrogenase %28EC 1.1.1.1%29;locus_tag=AAA278I18.genome.CDS.1101
+AAA278I18.contig.2	feature	CDS	48406	49140	.	+	0	ID=AAA278I18.genome.CDS.1100;Product=membrane protein%2C putative;locus_tag=AAA278I18.genome.CDS.1100
+AAA278I18.contig.2	feature	CDS	47542	48405	.	+	0	ID=AAA278I18.genome.CDS.1099;Product=Undecaprenyl-diphosphatase %28EC 3.6.1.27%29;locus_tag=AAA278I18.genome.CDS.1099
+AAA278I18.contig.2	feature	CDS	46792	47499	.	-	0	ID=AAA278I18.genome.CDS.1098;Product=putative integral membrane protein;locus_tag=AAA278I18.genome.CDS.1098
+AAA278I18.contig.2	feature	CDS	45263	46699	.	-	0	ID=AAA278I18.genome.CDS.1097;Product=Xanthine/uracil/thiamine/ascorbate permease family protein;locus_tag=AAA278I18.genome.CDS.1097
+AAA278I18.contig.2	feature	CDS	44589	45221	.	+	0	ID=AAA278I18.genome.CDS.1096;Product=Uracil-DNA glycosylase%2C family 1;locus_tag=AAA278I18.genome.CDS.1096
+AAA278I18.contig.2	feature	CDS	43817	44599	.	+	0	ID=AAA278I18.genome.CDS.1095;Product=;locus_tag=AAA278I18.genome.CDS.1095
+AAA278I18.contig.2	feature	CDS	42594	43766	.	-	0	ID=AAA278I18.genome.CDS.1094;Product=Phosphoserine phosphatase %28EC 3.1.3.3%29;locus_tag=AAA278I18.genome.CDS.1094
+AAA278I18.contig.2	feature	CDS	41914	42597	.	+	0	ID=AAA278I18.genome.CDS.1093;Product=Ribulose-phosphate 3-epimerase %28EC 5.1.3.1%29;locus_tag=AAA278I18.genome.CDS.1093
+AAA278I18.contig.2	feature	CDS	40576	41904	.	+	0	ID=AAA278I18.genome.CDS.1092;Product=16S rRNA %28cytosine%28967%29-C%285%29%29-methyltransferase %28EC 2.1.1.176%29;locus_tag=AAA278I18.genome.CDS.1092
+AAA278I18.contig.2	feature	CDS	39663	40583	.	+	0	ID=AAA278I18.genome.CDS.1091;Product=Methionyl-tRNA formyltransferase %28EC 2.1.2.9%29;locus_tag=AAA278I18.genome.CDS.1091
+AAA278I18.contig.2	feature	CDS	39098	39658	.	+	0	ID=AAA278I18.genome.CDS.1090;Product=Peptide deformylase %28EC 3.5.1.88%29;locus_tag=AAA278I18.genome.CDS.1090
+AAA278I18.contig.2	feature	CDS	37167	39071	.	+	0	ID=AAA278I18.genome.CDS.1089;Product=Helicase PriA essential for oriC/DnaA-independent DNA replication;locus_tag=AAA278I18.genome.CDS.1089
+AAA278I18.contig.2	feature	CDS	35973	37163	.	+	0	ID=AAA278I18.genome.CDS.1088;Product=S-adenosylmethionine synthetase %28EC 2.5.1.6%29;locus_tag=AAA278I18.genome.CDS.1088
+AAA278I18.contig.2	feature	CDS	34769	35968	.	+	0	ID=AAA278I18.genome.CDS.1087;Product=Phosphopantothenoylcysteine decarboxylase %28EC 4.1.1.36%29 / Phosphopantothenoylcysteine synthetase %28EC 6.3.2.5%29;locus_tag=AAA278I18.genome.CDS.1087
+AAA278I18.contig.2	feature	CDS	34480	34758	.	+	0	ID=AAA278I18.genome.CDS.1086;Product=DNA-directed RNA polymerase omega subunit %28EC 2.7.7.6%29;locus_tag=AAA278I18.genome.CDS.1086
+AAA278I18.contig.2	feature	CDS	33583	34449	.	+	0	ID=AAA278I18.genome.CDS.1085;Product=Guanylate kinase %28EC 2.7.4.8%29;locus_tag=AAA278I18.genome.CDS.1085
+AAA278I18.contig.2	feature	CDS	32888	33580	.	+	0	ID=AAA278I18.genome.CDS.1084;Product=Orotidine 5%27-phosphate decarboxylase %28EC 4.1.1.23%29;locus_tag=AAA278I18.genome.CDS.1084
+AAA278I18.contig.2	feature	CDS	31956	32888	.	+	0	ID=AAA278I18.genome.CDS.1083;Product=Dihydroorotate dehydrogenase%2C catalytic subunit %28EC 1.3.3.1%29;locus_tag=AAA278I18.genome.CDS.1083
+AAA278I18.contig.2	feature	CDS	31104	31949	.	+	0	ID=AAA278I18.genome.CDS.1082;Product=Dihydroorotate dehydrogenase electron transfer subunit %28EC 1.3.3.1%29;locus_tag=AAA278I18.genome.CDS.1082
+AAA278I18.contig.2	feature	CDS	27853	31107	.	+	0	ID=AAA278I18.genome.CDS.1081;Product=Carbamoyl-phosphate synthase large chain %28EC 6.3.5.5%29;locus_tag=AAA278I18.genome.CDS.1081
+AAA278I18.contig.2	feature	CDS	26712	27860	.	+	0	ID=AAA278I18.genome.CDS.1080;Product=Carbamoyl-phosphate synthase small chain %28EC 6.3.5.5%29;locus_tag=AAA278I18.genome.CDS.1080
+AAA278I18.contig.2	feature	CDS	25415	26719	.	+	0	ID=AAA278I18.genome.CDS.1079;Product=Dihydroorotase %28EC 3.5.2.3%29;locus_tag=AAA278I18.genome.CDS.1079
+AAA278I18.contig.2	feature	CDS	24468	25418	.	+	0	ID=AAA278I18.genome.CDS.1078;Product=Aspartate carbamoyltransferase %28EC 2.1.3.2%29;locus_tag=AAA278I18.genome.CDS.1078
+AAA278I18.contig.2	feature	CDS	23950	24471	.	+	0	ID=AAA278I18.genome.CDS.1077;Product=Uracil phosphoribosyltransferase %28EC 2.4.2.9%29 / Pyrimidine operon regulatory protein PyrR;locus_tag=AAA278I18.genome.CDS.1077
+AAA278I18.contig.2	feature	CDS	23385	23834	.	-	0	ID=AAA278I18.genome.CDS.1076;Product=transcriptional regulator%2C XRE family;locus_tag=AAA278I18.genome.CDS.1076
+AAA278I18.contig.2	feature	CDS	22981	23388	.	+	0	ID=AAA278I18.genome.CDS.1075;Product=Transcription termination protein NusB;locus_tag=AAA278I18.genome.CDS.1075
+AAA278I18.contig.2	feature	CDS	22415	22978	.	+	0	ID=AAA278I18.genome.CDS.1074;Product=Translation elongation factor P;locus_tag=AAA278I18.genome.CDS.1074
+AAA278I18.contig.2	feature	CDS	21914	22345	.	+	0	ID=AAA278I18.genome.CDS.1073;Product=3-dehydroquinate dehydratase II %28EC 4.2.1.10%29;locus_tag=AAA278I18.genome.CDS.1073
+AAA278I18.contig.2	feature	CDS	20892	21917	.	+	0	ID=AAA278I18.genome.CDS.1072;Product=3-dehydroquinate synthase %28EC 4.2.3.4%29;locus_tag=AAA278I18.genome.CDS.1072
+AAA278I18.contig.2	feature	CDS	20380	20895	.	+	0	ID=AAA278I18.genome.CDS.1071;Product=Shikimate kinase I %28EC 2.7.1.71%29;locus_tag=AAA278I18.genome.CDS.1071
+AAA278I18.contig.2	feature	CDS	19196	20380	.	+	0	ID=AAA278I18.genome.CDS.1070;Product=Chorismate synthase %28EC 4.2.3.5%29;locus_tag=AAA278I18.genome.CDS.1070
+AAA278I18.contig.2	feature	CDS	18741	19118	.	+	0	ID=AAA278I18.genome.CDS.1069;Product=;locus_tag=AAA278I18.genome.CDS.1069
+AAA278I18.contig.2	feature	CDS	17897	18694	.	+	0	ID=AAA278I18.genome.CDS.1068;Product=Shikimate 5-dehydrogenase I alpha %28EC 1.1.1.25%29;locus_tag=AAA278I18.genome.CDS.1068
+AAA278I18.contig.2	feature	CDS	16905	17900	.	+	0	ID=AAA278I18.genome.CDS.1067;Product=FIG004453: protein YceG like;locus_tag=AAA278I18.genome.CDS.1067
+AAA278I18.contig.2	feature	CDS	16456	16908	.	+	0	ID=AAA278I18.genome.CDS.1066;Product=Putative Holliday junction resolvase YqgF;locus_tag=AAA278I18.genome.CDS.1066
+AAA278I18.contig.2	feature	CDS	13760	16441	.	+	0	ID=AAA278I18.genome.CDS.1065;Product=Alanyl-tRNA synthetase %28EC 6.1.1.7%29;locus_tag=AAA278I18.genome.CDS.1065
+AAA278I18.contig.2	feature	CDS	13446	13757	.	+	0	ID=AAA278I18.genome.CDS.1064;Product=;locus_tag=AAA278I18.genome.CDS.1064
+AAA278I18.contig.2	feature	CDS	11666	13420	.	+	0	ID=AAA278I18.genome.CDS.1063;Product=Aspartyl-tRNA synthetase %28EC 6.1.1.12%29 %40 Aspartyl-tRNA%28Asn%29 synthetase %28EC 6.1.1.23%29;locus_tag=AAA278I18.genome.CDS.1063
+AAA278I18.contig.2	feature	CDS	10404	11666	.	+	0	ID=AAA278I18.genome.CDS.1062;Product=Histidyl-tRNA synthetase %28EC 6.1.1.21%29;locus_tag=AAA278I18.genome.CDS.1062
+AAA278I18.contig.2	feature	CDS	9707	10399	.	+	0	ID=AAA278I18.genome.CDS.1061;Product=Hydroxyacylglutathione hydrolase %28EC 3.1.2.6%29;locus_tag=AAA278I18.genome.CDS.1061
+AAA278I18.contig.2	feature	CDS	8222	9529	.	-	0	ID=AAA278I18.genome.CDS.1060;Product=ATPase involved in DNA repair;locus_tag=AAA278I18.genome.CDS.1060
+AAA278I18.contig.2	feature	CDS	6057	8225	.	+	0	ID=AAA278I18.genome.CDS.1059;Product=GTP pyrophosphokinase %28EC 2.7.6.5%29%2C %28p%29ppGpp synthetase I;locus_tag=AAA278I18.genome.CDS.1059
+AAA278I18.contig.2	feature	CDS	4978	6021	.	+	0	ID=AAA278I18.genome.CDS.1058;Product=Protein-export membrane protein SecF %28TC 3.A.5.1.1%29;locus_tag=AAA278I18.genome.CDS.1058
+AAA278I18.contig.2	feature	CDS	3443	4978	.	+	0	ID=AAA278I18.genome.CDS.1057;Product=Protein-export membrane protein SecD %28TC 3.A.5.1.1%29;locus_tag=AAA278I18.genome.CDS.1057
+AAA278I18.contig.2	feature	CDS	2308	3363	.	+	0	ID=AAA278I18.genome.CDS.1056;Product=Holliday junction DNA helicase RuvB;locus_tag=AAA278I18.genome.CDS.1056
+AAA278I18.contig.2	feature	CDS	1721	2308	.	+	0	ID=AAA278I18.genome.CDS.1055;Product=Holliday junction DNA helicase RuvA;locus_tag=AAA278I18.genome.CDS.1055
+AAA278I18.contig.2	feature	CDS	1203	1724	.	+	0	ID=AAA278I18.genome.CDS.1054;Product=Crossover junction endodeoxyribonuclease RuvC %28EC 3.1.22.4%29;locus_tag=AAA278I18.genome.CDS.1054
+AAA278I18.contig.2	feature	CDS	417	1175	.	+	0	ID=AAA278I18.genome.CDS.1053;Product=FIG000859: hypothetical protein YebC;locus_tag=AAA278I18.genome.CDS.1053
+AAA278I18.contig.2	feature	CDS	3	404	.	+	0	ID=AAA278I18.genome.CDS.1052;Product=Pyridoxine biosynthesis glutamine amidotransferase%2C glutaminase subunit %28EC 2.4.2.-%29;locus_tag=AAA278I18.genome.CDS.1052
+AAA278I18.contig.20	feature	CDS	9000	9680	.	-	0	ID=AAA278I18.genome.CDS.1873;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1873
+AAA278I18.contig.20	feature	CDS	8422	8751	.	-	0	ID=AAA278I18.genome.CDS.1872;Product=;locus_tag=AAA278I18.genome.CDS.1872
+AAA278I18.contig.20	feature	CDS	7971	8420	.	+	0	ID=AAA278I18.genome.CDS.1871;Product=;locus_tag=AAA278I18.genome.CDS.1871
+AAA278I18.contig.20	feature	CDS	7104	7922	.	-	0	ID=AAA278I18.genome.CDS.1870;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1870
+AAA278I18.contig.20	feature	CDS	6928	7092	.	-	0	ID=AAA278I18.genome.CDS.1869;Product=;locus_tag=AAA278I18.genome.CDS.1869
+AAA278I18.contig.20	feature	CDS	6421	6918	.	-	0	ID=AAA278I18.genome.CDS.1868;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1868
+AAA278I18.contig.20	feature	CDS	6061	6360	.	-	0	ID=AAA278I18.genome.CDS.1867;Product=;locus_tag=AAA278I18.genome.CDS.1867
+AAA278I18.contig.20	feature	CDS	5880	6053	.	-	0	ID=AAA278I18.genome.CDS.1866;Product=;locus_tag=AAA278I18.genome.CDS.1866
+AAA278I18.contig.20	feature	CDS	5495	5854	.	-	0	ID=AAA278I18.genome.CDS.1865;Product=;locus_tag=AAA278I18.genome.CDS.1865
+AAA278I18.contig.20	feature	CDS	5214	5477	.	-	0	ID=AAA278I18.genome.CDS.1864;Product=;locus_tag=AAA278I18.genome.CDS.1864
+AAA278I18.contig.20	feature	CDS	4024	5217	.	-	0	ID=AAA278I18.genome.CDS.1863;Product=;locus_tag=AAA278I18.genome.CDS.1863
+AAA278I18.contig.20	feature	CDS	3556	4011	.	-	0	ID=AAA278I18.genome.CDS.1862;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1862
+AAA278I18.contig.20	feature	CDS	3299	3559	.	+	0	ID=AAA278I18.genome.CDS.889;Product=;locus_tag=AAA278I18.genome.CDS.889
+AAA278I18.contig.20	feature	CDS	3054	3302	.	+	0	ID=AAA278I18.genome.CDS.1860;Product=;locus_tag=AAA278I18.genome.CDS.1860
+AAA278I18.contig.20	feature	CDS	2086	3000	.	+	0	ID=AAA278I18.genome.CDS.1859;Product=Rhodanese domain protein UPF0176%2C Actinobacterial subgroup;locus_tag=AAA278I18.genome.CDS.1859
+AAA278I18.contig.20	feature	CDS	1056	2066	.	+	0	ID=AAA278I18.genome.CDS.1858;Product=oxidoreductase domain protein;locus_tag=AAA278I18.genome.CDS.1858
+AAA278I18.contig.20	feature	CDS	1	1035	.	+	0	ID=AAA278I18.genome.CDS.1857;Product=tRNA-guanine transglycosylase %28EC 2.4.2.29%29;locus_tag=AAA278I18.genome.CDS.1857
+AAA278I18.contig.21	feature	CDS	6922	8304	.	-	0	ID=AAA278I18.genome.CDS.1884;Product=Adenylosuccinate lyase %28EC 4.3.2.2%29;locus_tag=AAA278I18.genome.CDS.1884
+AAA278I18.contig.21	feature	CDS	6590	6925	.	-	0	ID=AAA278I18.genome.CDS.1883;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1883
+AAA278I18.contig.21	feature	CDS	5221	6600	.	-	0	ID=AAA278I18.genome.CDS.1882;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1882
+AAA278I18.contig.21	feature	CDS	5001	5177	.	-	0	ID=AAA278I18.genome.CDS.1881;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1881
+AAA278I18.contig.21	feature	CDS	4179	4994	.	-	0	ID=AAA278I18.genome.CDS.1880;Product=;locus_tag=AAA278I18.genome.CDS.1880
+AAA278I18.contig.21	feature	CDS	3866	4072	.	-	0	ID=AAA278I18.genome.CDS.1879;Product=DNA binding domain protein%2C excisionase family;locus_tag=AAA278I18.genome.CDS.1879
+AAA278I18.contig.21	feature	CDS	3681	3863	.	-	0	ID=AAA278I18.genome.CDS.1878;Product=;locus_tag=AAA278I18.genome.CDS.1878
+AAA278I18.contig.21	feature	CDS	2624	3661	.	-	0	ID=AAA278I18.genome.CDS.1877;Product=Undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase %28EC 2.7.8.-%29;locus_tag=AAA278I18.genome.CDS.1877
+AAA278I18.contig.21	feature	CDS	2220	2627	.	+	0	ID=AAA278I18.genome.CDS.1876;Product=;locus_tag=AAA278I18.genome.CDS.1876
+AAA278I18.contig.21	feature	tRNA	2116	2192	.	+	.	ID=AAA278I18.genome.rna.30;Product=tRNA-Phe-GAA;locus_tag=AAA278I18.genome.rna.30
+AAA278I18.contig.21	feature	tRNA	2018	2094	.	+	.	ID=AAA278I18.genome.rna.29;Product=tRNA-Asp-GTC;locus_tag=AAA278I18.genome.rna.29
+AAA278I18.contig.21	feature	tRNA	1905	1980	.	+	.	ID=AAA278I18.genome.rna.28;Product=tRNA-Glu-TTC;locus_tag=AAA278I18.genome.rna.28
+AAA278I18.contig.21	feature	CDS	866	1840	.	-	0	ID=AAA278I18.genome.CDS.1875;Product=TsaC protein %28YrdC-Sua5 domains%29 required for threonylcarbamoyladenosine t%286%29A37 modification in tRNA;locus_tag=AAA278I18.genome.CDS.1875
+AAA278I18.contig.21	feature	CDS	154	882	.	+	0	ID=AAA278I18.genome.CDS.1874;Product=;locus_tag=AAA278I18.genome.CDS.1874
+AAA278I18.contig.22	feature	CDS	6900	7886	.	-	0	ID=AAA278I18.genome.CDS.1892;Product=Metallopeptidase;locus_tag=AAA278I18.genome.CDS.1892
+AAA278I18.contig.22	feature	CDS	6342	6857	.	-	0	ID=AAA278I18.genome.CDS.1891;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1891
+AAA278I18.contig.22	feature	CDS	5343	6320	.	+	0	ID=AAA278I18.genome.CDS.1890;Product=Oligopeptide transport ATP-binding protein OppF %28TC 3.A.1.5.1%29;locus_tag=AAA278I18.genome.CDS.1890
+AAA278I18.contig.22	feature	CDS	4321	5343	.	+	0	ID=AAA278I18.genome.CDS.1889;Product=Oligopeptide transport ATP-binding protein OppD %28TC 3.A.1.5.1%29;locus_tag=AAA278I18.genome.CDS.1889
+AAA278I18.contig.22	feature	CDS	3323	4324	.	+	0	ID=AAA278I18.genome.CDS.1888;Product=Dipeptide transport system permease protein DppB %28TC 3.A.1.5.2%29;locus_tag=AAA278I18.genome.CDS.1888
+AAA278I18.contig.22	feature	CDS	1453	3201	.	+	0	ID=AAA278I18.genome.CDS.1887;Product=Oligopeptide ABC transporter%2C periplasmic oligopeptide-binding protein OppA %28TC 3.A.1.5.1%29;locus_tag=AAA278I18.genome.CDS.1887
+AAA278I18.contig.22	feature	CDS	1308	1436	.	+	0	ID=AAA278I18.genome.CDS.1886;Product=;locus_tag=AAA278I18.genome.CDS.1886
+AAA278I18.contig.22	feature	CDS	323	1306	.	+	0	ID=AAA278I18.genome.CDS.1885;Product=Dipeptide transport system permease protein DppC %28TC 3.A.1.5.2%29;locus_tag=AAA278I18.genome.CDS.1885
+AAA278I18.contig.23	feature	CDS	4522	5814	.	+	0	ID=AAA278I18.genome.CDS.1897;Product=;locus_tag=AAA278I18.genome.CDS.1897
+AAA278I18.contig.23	feature	CDS	3576	4517	.	+	0	ID=AAA278I18.genome.CDS.1896;Product=;locus_tag=AAA278I18.genome.CDS.1896
+AAA278I18.contig.23	feature	CDS	2302	3558	.	-	0	ID=AAA278I18.genome.CDS.1895;Product=NDP-hexose 3-C-methyltransferase TylCIII;locus_tag=AAA278I18.genome.CDS.1895
+AAA278I18.contig.23	feature	tRNA	2089	2164	.	-	.	ID=AAA278I18.genome.rna.31;Product=tRNA-Lys-TTT;locus_tag=AAA278I18.genome.rna.31
+AAA278I18.contig.23	feature	CDS	1160	2056	.	-	0	ID=AAA278I18.genome.CDS.1894;Product=;locus_tag=AAA278I18.genome.CDS.1894
+AAA278I18.contig.23	feature	CDS	302	1072	.	-	0	ID=AAA278I18.genome.CDS.1893;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1893
+AAA278I18.contig.24	feature	CDS	3078	4733	.	+	0	ID=AAA278I18.genome.CDS.1900;Product=2-isopropylmalate synthase %28EC 2.3.3.13%29;locus_tag=AAA278I18.genome.CDS.1900
+AAA278I18.contig.24	feature	CDS	1423	2838	.	-	0	ID=AAA278I18.genome.CDS.1899;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1899
+AAA278I18.contig.24	feature	CDS	111	1421	.	+	0	ID=AAA278I18.genome.CDS.1898;Product=Glutamine synthetase type I %28EC 6.3.1.2%29;locus_tag=AAA278I18.genome.CDS.1898
+AAA278I18.contig.25	feature	CDS	3043	4029	.	+	0	ID=AAA278I18.genome.CDS.1907;Product=Serine/threonine protein kinase PrkC%2C regulator of stationary phase;locus_tag=AAA278I18.genome.CDS.1907
+AAA278I18.contig.25	feature	CDS	2485	3009	.	+	0	ID=AAA278I18.genome.CDS.1906;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1906
+AAA278I18.contig.25	feature	CDS	1919	2470	.	+	0	ID=AAA278I18.genome.CDS.1905;Product=;locus_tag=AAA278I18.genome.CDS.1905
+AAA278I18.contig.25	feature	CDS	1448	1831	.	-	0	ID=AAA278I18.genome.CDS.1904;Product=;locus_tag=AAA278I18.genome.CDS.1904
+AAA278I18.contig.25	feature	CDS	1143	1448	.	-	0	ID=AAA278I18.genome.CDS.1903;Product=Lycopene cyclase;locus_tag=AAA278I18.genome.CDS.1903
+AAA278I18.contig.25	feature	CDS	231	1142	.	+	0	ID=AAA278I18.genome.CDS.1902;Product=Phytoene synthase %28EC 2.5.1.32%29;locus_tag=AAA278I18.genome.CDS.1902
+AAA278I18.contig.25	feature	CDS	2	226	.	+	0	ID=AAA278I18.genome.CDS.1901;Product=Phytoene dehydrogenase %28EC 1.14.99.-%29;locus_tag=AAA278I18.genome.CDS.1901
+AAA278I18.contig.26	feature	CDS	1014	2636	.	+	0	ID=AAA278I18.genome.CDS.1909;Product=DNA-directed RNA polymerase beta%27 subunit %28EC 2.7.7.6%29;locus_tag=AAA278I18.genome.CDS.1909
+AAA278I18.contig.26	feature	CDS	2	1000	.	+	0	ID=AAA278I18.genome.CDS.1908;Product=DNA-directed RNA polymerase beta subunit %28EC 2.7.7.6%29;locus_tag=AAA278I18.genome.CDS.1908
+AAA278I18.contig.27	feature	CDS	1560	2510	.	+	0	ID=AAA278I18.genome.CDS.1912;Product=;locus_tag=AAA278I18.genome.CDS.1912
+AAA278I18.contig.27	feature	CDS	1285	1473	.	+	0	ID=AAA278I18.genome.CDS.1911;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1911
+AAA278I18.contig.27	feature	CDS	1	1086	.	+	0	ID=AAA278I18.genome.CDS.1910;Product=integral membrane transport protein;locus_tag=AAA278I18.genome.CDS.1910
+AAA278I18.contig.28	feature	CDS	286	2451	.	-	0	ID=AAA278I18.genome.CDS.1914;Product=DNA-directed RNA polymerase beta%27 subunit %28EC 2.7.7.6%29;locus_tag=AAA278I18.genome.CDS.1914
+AAA278I18.contig.28	feature	CDS	1	258	.	+	0	ID=AAA278I18.genome.CDS.1913;Product=;locus_tag=AAA278I18.genome.CDS.1913
+AAA278I18.contig.29	feature	CDS	1908	2342	.	-	0	ID=AAA278I18.genome.CDS.1916;Product=Cytochrome oxidase assembly protein;locus_tag=AAA278I18.genome.CDS.1916
+AAA278I18.contig.29	feature	CDS	1	1911	.	-	0	ID=AAA278I18.genome.CDS.1915;Product=Transketolase %28EC 2.2.1.1%29;locus_tag=AAA278I18.genome.CDS.1915
+AAA278I18.contig.3	feature	CDS	72171	73040	.	-	0	ID=AAA278I18.genome.CDS.1205;Product=;locus_tag=AAA278I18.genome.CDS.1205
+AAA278I18.contig.3	feature	CDS	71793	72146	.	+	0	ID=AAA278I18.genome.CDS.1204;Product=;locus_tag=AAA278I18.genome.CDS.1204
+AAA278I18.contig.3	feature	CDS	71035	71580	.	-	0	ID=AAA278I18.genome.CDS.1203;Product=;locus_tag=AAA278I18.genome.CDS.1203
+AAA278I18.contig.3	feature	CDS	69414	71012	.	-	0	ID=AAA278I18.genome.CDS.1202;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1202
+AAA278I18.contig.3	feature	CDS	67730	69412	.	+	0	ID=AAA278I18.genome.CDS.1201;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1201
+AAA278I18.contig.3	feature	CDS	67049	67723	.	+	0	ID=AAA278I18.genome.CDS.1200;Product=;locus_tag=AAA278I18.genome.CDS.1200
+AAA278I18.contig.3	feature	CDS	66624	66887	.	-	0	ID=AAA278I18.genome.CDS.1199;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1199
+AAA278I18.contig.3	feature	CDS	65961	66479	.	-	0	ID=AAA278I18.genome.CDS.1198;Product=;locus_tag=AAA278I18.genome.CDS.1198
+AAA278I18.contig.3	feature	CDS	65742	65900	.	+	0	ID=AAA278I18.genome.CDS.1197;Product=;locus_tag=AAA278I18.genome.CDS.1197
+AAA278I18.contig.3	feature	CDS	64269	65480	.	-	0	ID=AAA278I18.genome.CDS.1196;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1196
+AAA278I18.contig.3	feature	CDS	63862	64149	.	-	0	ID=AAA278I18.genome.CDS.1195;Product=;locus_tag=AAA278I18.genome.CDS.1195
+AAA278I18.contig.3	feature	CDS	62807	63856	.	+	0	ID=AAA278I18.genome.CDS.1194;Product=possible chromosome condensation protein;locus_tag=AAA278I18.genome.CDS.1194
+AAA278I18.contig.3	feature	CDS	61359	62744	.	+	0	ID=AAA278I18.genome.CDS.1193;Product=NAD%28P%29 transhydrogenase subunit beta %28EC 1.6.1.2%29;locus_tag=AAA278I18.genome.CDS.1193
+AAA278I18.contig.3	feature	CDS	61036	61362	.	+	0	ID=AAA278I18.genome.CDS.1192;Product=NAD%28P%29 transhydrogenase alpha subunit %28EC 1.6.1.2%29;locus_tag=AAA278I18.genome.CDS.1192
+AAA278I18.contig.3	feature	CDS	59912	61036	.	+	0	ID=AAA278I18.genome.CDS.1191;Product=NAD%28P%29 transhydrogenase alpha subunit %28EC 1.6.1.2%29;locus_tag=AAA278I18.genome.CDS.1191
+AAA278I18.contig.3	feature	CDS	58892	59842	.	+	0	ID=AAA278I18.genome.CDS.1190;Product=Ornithine carbamoyltransferase %28EC 2.1.3.3%29;locus_tag=AAA278I18.genome.CDS.1190
+AAA278I18.contig.3	feature	CDS	58600	58851	.	-	0	ID=AAA278I18.genome.CDS.1189;Product=FIG01050400: hypothetical protein;locus_tag=AAA278I18.genome.CDS.1189
+AAA278I18.contig.3	feature	CDS	56850	58568	.	-	0	ID=AAA278I18.genome.CDS.1188;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1188
+AAA278I18.contig.3	feature	CDS	56546	56842	.	-	0	ID=AAA278I18.genome.CDS.1187;Product=ATP-dependent Clp protease adaptor protein ClpS;locus_tag=AAA278I18.genome.CDS.1187
+AAA278I18.contig.3	feature	CDS	55987	56559	.	-	0	ID=AAA278I18.genome.CDS.1186;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1186
+AAA278I18.contig.3	feature	CDS	55148	55921	.	+	0	ID=AAA278I18.genome.CDS.1185;Product=Proteorhodopsin;locus_tag=AAA278I18.genome.CDS.1185
+AAA278I18.contig.3	feature	CDS	54078	54890	.	-	0	ID=AAA278I18.genome.CDS.1184;Product=Glutamate racemase %28EC 5.1.1.3%29;locus_tag=AAA278I18.genome.CDS.1184
+AAA278I18.contig.3	feature	CDS	53337	54062	.	-	0	ID=AAA278I18.genome.CDS.1183;Product=Ribonuclease PH %28EC 2.7.7.56%29;locus_tag=AAA278I18.genome.CDS.1183
+AAA278I18.contig.3	feature	CDS	52679	53305	.	-	0	ID=AAA278I18.genome.CDS.1182;Product=Nucleoside 5-triphosphatase RdgB %28dHAPTP%2C dITP%2C XTP-specific%29 %28EC 3.6.1.15%29;locus_tag=AAA278I18.genome.CDS.1182
+AAA278I18.contig.3	feature	CDS	51823	52548	.	-	0	ID=AAA278I18.genome.CDS.1181;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1181
+AAA278I18.contig.3	feature	CDS	49968	51743	.	+	0	ID=AAA278I18.genome.CDS.1180;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1180
+AAA278I18.contig.3	feature	CDS	49123	49911	.	+	0	ID=AAA278I18.genome.CDS.1179;Product=;locus_tag=AAA278I18.genome.CDS.1179
+AAA278I18.contig.3	feature	tRNA	49005	49086	.	+	.	ID=AAA278I18.genome.rna.2;Product=tRNA-Leu-TAG;locus_tag=AAA278I18.genome.rna.2
+AAA278I18.contig.3	feature	CDS	47221	48906	.	-	0	ID=AAA278I18.genome.CDS.1178;Product=Arginyl-tRNA synthetase %28EC 6.1.1.19%29;locus_tag=AAA278I18.genome.CDS.1178
+AAA278I18.contig.3	feature	CDS	45848	47221	.	-	0	ID=AAA278I18.genome.CDS.1177;Product=Diaminopimelate decarboxylase %28EC 4.1.1.20%29;locus_tag=AAA278I18.genome.CDS.1177
+AAA278I18.contig.3	feature	CDS	44546	45829	.	-	0	ID=AAA278I18.genome.CDS.1176;Product=Homoserine dehydrogenase %28EC 1.1.1.3%29;locus_tag=AAA278I18.genome.CDS.1176
+AAA278I18.contig.3	feature	CDS	43467	44546	.	-	0	ID=AAA278I18.genome.CDS.1175;Product=Threonine synthase %28EC 4.2.3.1%29;locus_tag=AAA278I18.genome.CDS.1175
+AAA278I18.contig.3	feature	CDS	42517	43467	.	-	0	ID=AAA278I18.genome.CDS.1174;Product=Homoserine kinase %28EC 2.7.1.39%29;locus_tag=AAA278I18.genome.CDS.1174
+AAA278I18.contig.3	feature	CDS	40730	42364	.	-	0	ID=AAA278I18.genome.CDS.1173;Product=Transcription termination factor Rho;locus_tag=AAA278I18.genome.CDS.1173
+AAA278I18.contig.3	feature	CDS	40376	40600	.	-	0	ID=AAA278I18.genome.CDS.1172;Product=LSU ribosomal protein L31p %40 LSU ribosomal protein L31p%2C zinc-dependent;locus_tag=AAA278I18.genome.CDS.1172
+AAA278I18.contig.3	feature	CDS	39197	40276	.	-	0	ID=AAA278I18.genome.CDS.1171;Product=Peptide chain release factor 1;locus_tag=AAA278I18.genome.CDS.1171
+AAA278I18.contig.3	feature	CDS	38346	39200	.	-	0	ID=AAA278I18.genome.CDS.1170;Product=Protein-N%285%29-glutamine methyltransferase PrmC%2C methylates polypeptide chain release factors RF1 and RF2;locus_tag=AAA278I18.genome.CDS.1170
+AAA278I18.contig.3	feature	CDS	37678	38337	.	-	0	ID=AAA278I18.genome.CDS.1169;Product=TsaC protein %28YrdC domain%29 required for threonylcarbamoyladenosine t%286%29A37 modification in tRNA;locus_tag=AAA278I18.genome.CDS.1169
+AAA278I18.contig.3	feature	CDS	36388	37668	.	-	0	ID=AAA278I18.genome.CDS.1168;Product=Serine hydroxymethyltransferase %28EC 2.1.2.1%29;locus_tag=AAA278I18.genome.CDS.1168
+AAA278I18.contig.3	feature	CDS	35293	36375	.	-	0	ID=AAA278I18.genome.CDS.1167;Product=Undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase %28EC 2.7.8.-%29;locus_tag=AAA278I18.genome.CDS.1167
+AAA278I18.contig.3	feature	CDS	34854	35291	.	-	0	ID=AAA278I18.genome.CDS.1166;Product=ATP synthase protein I;locus_tag=AAA278I18.genome.CDS.1166
+AAA278I18.contig.3	feature	CDS	34640	34864	.	-	0	ID=AAA278I18.genome.CDS.1165;Product=ATP synthase protein I;locus_tag=AAA278I18.genome.CDS.1165
+AAA278I18.contig.3	feature	CDS	34419	34628	.	-	0	ID=AAA278I18.genome.CDS.197;Product=;locus_tag=AAA278I18.genome.CDS.197
+AAA278I18.contig.3	feature	CDS	33543	34349	.	-	0	ID=AAA278I18.genome.CDS.1164;Product=ATP synthase F0 sector subunit a %28EC 3.6.3.14%29;locus_tag=AAA278I18.genome.CDS.1164
+AAA278I18.contig.3	feature	CDS	33283	33489	.	-	0	ID=AAA278I18.genome.CDS.1163;Product=ATP synthase F0 sector subunit c %28EC 3.6.3.14%29;locus_tag=AAA278I18.genome.CDS.1163
+AAA278I18.contig.3	feature	CDS	32708	33250	.	-	0	ID=AAA278I18.genome.CDS.1162;Product=ATP synthase F0 sector subunit b %28EC 3.6.3.14%29;locus_tag=AAA278I18.genome.CDS.1162
+AAA278I18.contig.3	feature	CDS	31878	32708	.	-	0	ID=AAA278I18.genome.CDS.1161;Product=ATP synthase delta chain %28EC 3.6.3.14%29;locus_tag=AAA278I18.genome.CDS.1161
+AAA278I18.contig.3	feature	CDS	30187	31827	.	-	0	ID=AAA278I18.genome.CDS.1160;Product=ATP synthase alpha chain %28EC 3.6.3.14%29;locus_tag=AAA278I18.genome.CDS.1160
+AAA278I18.contig.3	feature	CDS	29245	30153	.	-	0	ID=AAA278I18.genome.CDS.1159;Product=ATP synthase gamma chain %28EC 3.6.3.14%29;locus_tag=AAA278I18.genome.CDS.1159
+AAA278I18.contig.3	feature	CDS	27824	29245	.	-	0	ID=AAA278I18.genome.CDS.1158;Product=ATP synthase beta chain %28EC 3.6.3.14%29;locus_tag=AAA278I18.genome.CDS.1158
+AAA278I18.contig.3	feature	CDS	27558	27821	.	-	0	ID=AAA278I18.genome.CDS.1157;Product=ATP synthase epsilon chain %28EC 3.6.3.14%29;locus_tag=AAA278I18.genome.CDS.1157
+AAA278I18.contig.3	feature	CDS	26603	27565	.	+	0	ID=AAA278I18.genome.CDS.1156;Product=Fructose-1%2C6-bisphosphatase%2C GlpX type %28EC 3.1.3.11%29;locus_tag=AAA278I18.genome.CDS.1156
+AAA278I18.contig.3	feature	CDS	25363	26619	.	+	0	ID=AAA278I18.genome.CDS.1155;Product=UDP-N-acetylglucosamine 1-carboxyvinyltransferase %28EC 2.5.1.7%29;locus_tag=AAA278I18.genome.CDS.1155
+AAA278I18.contig.3	feature	CDS	24750	25325	.	-	0	ID=AAA278I18.genome.CDS.1154;Product=ATP:Cob%28I%29alamin adenosyltransferase %28EC 2.5.1.17%29;locus_tag=AAA278I18.genome.CDS.1154
+AAA278I18.contig.3	feature	CDS	24433	24753	.	+	0	ID=AAA278I18.genome.CDS.1153;Product=;locus_tag=AAA278I18.genome.CDS.1153
+AAA278I18.contig.3	feature	CDS	23719	24417	.	+	0	ID=AAA278I18.genome.CDS.1152;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1152
+AAA278I18.contig.3	feature	CDS	22928	23722	.	+	0	ID=AAA278I18.genome.CDS.1151;Product=ABC-type multidrug transport system%2C permease component;locus_tag=AAA278I18.genome.CDS.1151
+AAA278I18.contig.3	feature	CDS	22074	22931	.	+	0	ID=AAA278I18.genome.CDS.1150;Product=;locus_tag=AAA278I18.genome.CDS.1150
+AAA278I18.contig.3	feature	CDS	21693	22016	.	-	0	ID=AAA278I18.genome.CDS.1149;Product=;locus_tag=AAA278I18.genome.CDS.1149
+AAA278I18.contig.3	feature	CDS	20117	21640	.	-	0	ID=AAA278I18.genome.CDS.1148;Product=Ketoglutarate semialdehyde dehydrogenase %28EC 1.2.1.26%29;locus_tag=AAA278I18.genome.CDS.1148
+AAA278I18.contig.3	feature	CDS	19253	20116	.	+	0	ID=AAA278I18.genome.CDS.1147;Product=2-hydroxyhepta-2%2C4-diene-1%2C7-dioate isomerase %28EC 5.3.3.-%29 / 5-carboxymethyl-2-oxo-hex-3- ene-1%2C7-dioate decarboxylase %28EC 4.1.1.68%29;locus_tag=AAA278I18.genome.CDS.1147
+AAA278I18.contig.3	feature	CDS	17410	19137	.	-	0	ID=AAA278I18.genome.CDS.1146;Product=L-arabonate dehydratase %28EC 4.2.1.25%29;locus_tag=AAA278I18.genome.CDS.1146
+AAA278I18.contig.3	feature	CDS	16135	17406	.	+	0	ID=AAA278I18.genome.CDS.1145;Product=Enolase %28EC 4.2.1.11%29;locus_tag=AAA278I18.genome.CDS.1145
+AAA278I18.contig.3	feature	CDS	15149	16138	.	+	0	ID=AAA278I18.genome.CDS.1144;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1144
+AAA278I18.contig.3	feature	CDS	14451	15140	.	+	0	ID=AAA278I18.genome.CDS.1143;Product=;locus_tag=AAA278I18.genome.CDS.1143
+AAA278I18.contig.3	feature	CDS	13528	14451	.	+	0	ID=AAA278I18.genome.CDS.1142;Product=conserved hypothetical protein SC4A7.31;locus_tag=AAA278I18.genome.CDS.1142
+AAA278I18.contig.3	feature	CDS	12693	13469	.	-	0	ID=AAA278I18.genome.CDS.1141;Product=3-oxoacyl-%5Bacyl-carrier protein%5D reductase %28EC 1.1.1.100%29;locus_tag=AAA278I18.genome.CDS.1141
+AAA278I18.contig.3	feature	CDS	12508	12678	.	+	0	ID=AAA278I18.genome.CDS.1140;Product=;locus_tag=AAA278I18.genome.CDS.1140
+AAA278I18.contig.3	feature	CDS	10912	12375	.	+	0	ID=AAA278I18.genome.CDS.1139;Product=Aldehyde dehydrogenase %28EC 1.2.1.3%29;locus_tag=AAA278I18.genome.CDS.1139
+AAA278I18.contig.3	feature	CDS	10179	10889	.	-	0	ID=AAA278I18.genome.CDS.1138;Product=FIG01173569: hypothetical protein;locus_tag=AAA278I18.genome.CDS.1138
+AAA278I18.contig.3	feature	CDS	9040	10182	.	+	0	ID=AAA278I18.genome.CDS.1137;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1137
+AAA278I18.contig.3	feature	CDS	7736	8959	.	-	0	ID=AAA278I18.genome.CDS.1136;Product=Chromosome segregation ATPases;locus_tag=AAA278I18.genome.CDS.1136
+AAA278I18.contig.3	feature	CDS	6861	7736	.	-	0	ID=AAA278I18.genome.CDS.1135;Product=;locus_tag=AAA278I18.genome.CDS.1135
+AAA278I18.contig.3	feature	CDS	5641	6864	.	-	0	ID=AAA278I18.genome.CDS.166;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.166
+AAA278I18.contig.3	feature	CDS	4198	5442	.	-	0	ID=AAA278I18.genome.CDS.1133;Product=Branched-chain amino acid ABC transporter%2C amino acid-binding protein %28TC 3.A.1.4.1%29;locus_tag=AAA278I18.genome.CDS.1133
+AAA278I18.contig.3	feature	CDS	2985	4037	.	-	0	ID=AAA278I18.genome.CDS.1132;Product=High-affinity branched-chain amino acid transport system permease protein LivH %28TC 3.A.1.4.1%29;locus_tag=AAA278I18.genome.CDS.1132
+AAA278I18.contig.3	feature	CDS	1798	2979	.	-	0	ID=AAA278I18.genome.CDS.1131;Product=Branched-chain amino acid transport system permease protein LivM %28TC 3.A.1.4.1%29;locus_tag=AAA278I18.genome.CDS.1131
+AAA278I18.contig.3	feature	CDS	1016	1792	.	-	0	ID=AAA278I18.genome.CDS.1130;Product=Branched-chain amino acid transport ATP-binding protein LivG %28TC 3.A.1.4.1%29;locus_tag=AAA278I18.genome.CDS.1130
+AAA278I18.contig.3	feature	CDS	302	1015	.	-	0	ID=AAA278I18.genome.CDS.1129;Product=Branched-chain amino acid transport ATP-binding protein LivF %28TC 3.A.1.4.1%29;locus_tag=AAA278I18.genome.CDS.1129
+AAA278I18.contig.3	feature	CDS	3	284	.	+	0	ID=AAA278I18.genome.CDS.1128;Product=Sarcosine oxidase beta subunit %28EC 1.5.3.1%29;locus_tag=AAA278I18.genome.CDS.1128
+AAA278I18.contig.30	feature	CDS	1508	1981	.	+	0	ID=AAA278I18.genome.CDS.1920;Product=FIG01126328: hypothetical protein;locus_tag=AAA278I18.genome.CDS.1920
+AAA278I18.contig.30	feature	CDS	910	1308	.	-	0	ID=AAA278I18.genome.CDS.1919;Product=;locus_tag=AAA278I18.genome.CDS.1919
+AAA278I18.contig.30	feature	CDS	541	864	.	-	0	ID=AAA278I18.genome.CDS.1918;Product=Quaternary ammonium compound-resistance protein SugE;locus_tag=AAA278I18.genome.CDS.1918
+AAA278I18.contig.30	feature	CDS	2	541	.	-	0	ID=AAA278I18.genome.CDS.1917;Product=;locus_tag=AAA278I18.genome.CDS.1917
+AAA278I18.contig.31	feature	CDS	3	1937	.	-	0	ID=AAA278I18.genome.CDS.1921;Product=DNA-directed RNA polymerase beta subunit %28EC 2.7.7.6%29;locus_tag=AAA278I18.genome.CDS.1921
+AAA278I18.contig.32	feature	CDS	2	1804	.	-	0	ID=AAA278I18.genome.CDS.1922;Product=Isoleucyl-tRNA synthetase %28EC 6.1.1.5%29;locus_tag=AAA278I18.genome.CDS.1922
+AAA278I18.contig.33	feature	CDS	1213	1731	.	-	0	ID=AAA278I18.genome.CDS.1924;Product=NAD synthetase %28EC 6.3.1.5%29 / Glutamine amidotransferase chain of NAD synthetase;locus_tag=AAA278I18.genome.CDS.1924
+AAA278I18.contig.33	feature	CDS	926	1060	.	-	0	ID=AAA278I18.genome.CDS.941;Product=;locus_tag=AAA278I18.genome.CDS.941
+AAA278I18.contig.33	feature	CDS	13	939	.	-	0	ID=AAA278I18.genome.CDS.1923;Product=Cysteine synthase %28EC 2.5.1.47%29;locus_tag=AAA278I18.genome.CDS.1923
+AAA278I18.contig.34	feature	CDS	1371	1544	.	+	0	ID=AAA278I18.genome.CDS.1928;Product=SSU ribosomal protein S11p %28S14e%29;locus_tag=AAA278I18.genome.CDS.1928
+AAA278I18.contig.34	feature	CDS	994	1371	.	+	0	ID=AAA278I18.genome.CDS.1927;Product=SSU ribosomal protein S13p %28S18e%29;locus_tag=AAA278I18.genome.CDS.1927
+AAA278I18.contig.34	feature	CDS	489	710	.	+	0	ID=AAA278I18.genome.CDS.1926;Product=Translation initiation factor 1;locus_tag=AAA278I18.genome.CDS.1926
+AAA278I18.contig.34	feature	CDS	1	360	.	+	0	ID=AAA278I18.genome.CDS.1925;Product=Methionine aminopeptidase %28EC 3.4.11.18%29;locus_tag=AAA278I18.genome.CDS.1925
+AAA278I18.contig.35	feature	CDS	590	1528	.	+	0	ID=AAA278I18.genome.CDS.1931;Product=Preprotein translocase secY subunit %28TC 3.A.5.1.1%29;locus_tag=AAA278I18.genome.CDS.1931
+AAA278I18.contig.35	feature	CDS	126	566	.	+	0	ID=AAA278I18.genome.CDS.1930;Product=LSU ribosomal protein L15p %28L27Ae%29;locus_tag=AAA278I18.genome.CDS.1930
+AAA278I18.contig.35	feature	CDS	1	123	.	+	0	ID=AAA278I18.genome.CDS.1929;Product=LSU ribosomal protein L30p %28L7e%29;locus_tag=AAA278I18.genome.CDS.1929
+AAA278I18.contig.36	feature	CDS	1313	1486	.	-	0	ID=AAA278I18.genome.CDS.1935;Product=;locus_tag=AAA278I18.genome.CDS.1935
+AAA278I18.contig.36	feature	CDS	911	1291	.	-	0	ID=AAA278I18.genome.CDS.1934;Product=Death on curing protein%2C Doc toxin;locus_tag=AAA278I18.genome.CDS.1934
+AAA278I18.contig.36	feature	CDS	609	914	.	+	0	ID=AAA278I18.genome.CDS.1933;Product=;locus_tag=AAA278I18.genome.CDS.1933
+AAA278I18.contig.36	feature	CDS	2	469	.	-	0	ID=AAA278I18.genome.CDS.1932;Product=SOS-response repressor and protease LexA %28EC 3.4.21.88%29;locus_tag=AAA278I18.genome.CDS.1932
+AAA278I18.contig.37	feature	CDS	1095	1457	.	+	0	ID=AAA278I18.genome.CDS.1937;Product=Pyruvate kinase %28EC 2.7.1.40%29;locus_tag=AAA278I18.genome.CDS.1937
+AAA278I18.contig.37	feature	CDS	3	1085	.	+	0	ID=AAA278I18.genome.CDS.1936;Product=Glutamate synthase %5BNADPH%5D small chain %28EC 1.4.1.13%29;locus_tag=AAA278I18.genome.CDS.1936
+AAA278I18.contig.38	feature	CDS	787	1452	.	-	0	ID=AAA278I18.genome.CDS.1940;Product=Iron-sulfur cluster assembly protein SufD;locus_tag=AAA278I18.genome.CDS.1940
+AAA278I18.contig.38	feature	CDS	494	787	.	-	0	ID=AAA278I18.genome.CDS.1939;Product=Ferredoxin%2C 2Fe-2S;locus_tag=AAA278I18.genome.CDS.1939
+AAA278I18.contig.38	feature	CDS	2	472	.	-	0	ID=AAA278I18.genome.CDS.1938;Product=Iron-sulfur cluster assembly ATPase protein SufC;locus_tag=AAA278I18.genome.CDS.1938
+AAA278I18.contig.39	feature	CDS	636	1367	.	-	0	ID=AAA278I18.genome.CDS.1942;Product=conserved hypothetical protein-putative phospholipid-binding protein;locus_tag=AAA278I18.genome.CDS.1942
+AAA278I18.contig.39	feature	CDS	1	639	.	-	0	ID=AAA278I18.genome.CDS.1941;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1941
+AAA278I18.contig.4	feature	CDS	70081	70158	.	-	0	ID=AAA278I18.genome.CDS.1281;Product=2-isopropylmalate synthase %28EC 2.3.3.13%29;locus_tag=AAA278I18.genome.CDS.1281
+AAA278I18.contig.4	feature	CDS	69304	70044	.	-	0	ID=AAA278I18.genome.CDS.1280;Product=DNA recombination and repair protein RecO;locus_tag=AAA278I18.genome.CDS.1280
+AAA278I18.contig.4	feature	CDS	68541	69311	.	-	0	ID=AAA278I18.genome.CDS.1279;Product=Trans%2Cpolycis-decaprenyl diphosphate synthase %28EC 2.5.1.86%29;locus_tag=AAA278I18.genome.CDS.1279
+AAA278I18.contig.4	feature	CDS	67806	68540	.	+	0	ID=AAA278I18.genome.CDS.1278;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1278
+AAA278I18.contig.4	feature	CDS	66359	67738	.	-	0	ID=AAA278I18.genome.CDS.1277;Product=Glycyl-tRNA synthetase %28EC 6.1.1.14%29;locus_tag=AAA278I18.genome.CDS.1277
+AAA278I18.contig.4	feature	CDS	65192	66358	.	-	0	ID=AAA278I18.genome.CDS.1276;Product=tRNA dihydrouridine synthase B %28EC 1.-.-.-%29;locus_tag=AAA278I18.genome.CDS.1276
+AAA278I18.contig.4	feature	CDS	64552	65187	.	-	0	ID=AAA278I18.genome.CDS.1275;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1275
+AAA278I18.contig.4	feature	CDS	63301	64542	.	-	0	ID=AAA278I18.genome.CDS.1274;Product=Deoxyguanosinetriphosphate triphosphohydrolase %28EC 3.1.5.1%29;locus_tag=AAA278I18.genome.CDS.1274
+AAA278I18.contig.4	feature	CDS	61452	63263	.	-	0	ID=AAA278I18.genome.CDS.1273;Product=DNA primase %28EC 2.7.7.-%29;locus_tag=AAA278I18.genome.CDS.1273
+AAA278I18.contig.4	feature	tRNA	61297	61369	.	-	.	ID=AAA278I18.genome.rna.4;Product=tRNA-Asn-GTT;locus_tag=AAA278I18.genome.rna.4
+AAA278I18.contig.4	feature	CDS	61053	61295	.	-	0	ID=AAA278I18.genome.CDS.1272;Product=;locus_tag=AAA278I18.genome.CDS.1272
+AAA278I18.contig.4	feature	CDS	59950	61056	.	+	0	ID=AAA278I18.genome.CDS.1271;Product=Galactose-1-phosphate uridylyltransferase %28EC 2.7.7.10%29;locus_tag=AAA278I18.genome.CDS.1271
+AAA278I18.contig.4	feature	CDS	58317	59924	.	+	0	ID=AAA278I18.genome.CDS.1270;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1270
+AAA278I18.contig.4	feature	CDS	58060	58320	.	+	0	ID=AAA278I18.genome.CDS.1269;Product=;locus_tag=AAA278I18.genome.CDS.1269
+AAA278I18.contig.4	feature	CDS	57811	58056	.	+	0	ID=AAA278I18.genome.CDS.1268;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1268
+AAA278I18.contig.4	feature	CDS	57062	57811	.	+	0	ID=AAA278I18.genome.CDS.1267;Product=2-keto-3-deoxy-L-fuconate dehydrogenase;locus_tag=AAA278I18.genome.CDS.1267
+AAA278I18.contig.4	feature	CDS	55996	56988	.	-	0	ID=AAA278I18.genome.CDS.1266;Product=L-fuco-beta-pyranose dehydrogenase %28EC 1.1.1.122%29;locus_tag=AAA278I18.genome.CDS.1266
+AAA278I18.contig.4	feature	CDS	55126	55992	.	-	0	ID=AAA278I18.genome.CDS.1265;Product=Fumarylacetoacetate hydrolase family protein;locus_tag=AAA278I18.genome.CDS.1265
+AAA278I18.contig.4	feature	CDS	54221	55126	.	-	0	ID=AAA278I18.genome.CDS.1264;Product=D-3-phosphoglycerate dehydrogenase %28EC 1.1.1.95%29;locus_tag=AAA278I18.genome.CDS.1264
+AAA278I18.contig.4	feature	CDS	53344	54240	.	+	0	ID=AAA278I18.genome.CDS.1263;Product=C-compound%2C carbohydrate catabolism;locus_tag=AAA278I18.genome.CDS.1263
+AAA278I18.contig.4	feature	CDS	52577	53344	.	+	0	ID=AAA278I18.genome.CDS.1262;Product=oxidoreductase%2C short-chain dehydrogenase/reductase family;locus_tag=AAA278I18.genome.CDS.1262
+AAA278I18.contig.4	feature	CDS	51540	52574	.	+	0	ID=AAA278I18.genome.CDS.1261;Product=Galactitol-1-phosphate 5-dehydrogenase %28EC 1.1.1.251%29;locus_tag=AAA278I18.genome.CDS.1261
+AAA278I18.contig.4	feature	CDS	50814	51527	.	+	0	ID=AAA278I18.genome.CDS.1260;Product=D-arabino-3-hexulose 6-phosphate formaldehyde-lyase %28EC 4.1.2.43%29;locus_tag=AAA278I18.genome.CDS.1260
+AAA278I18.contig.4	feature	CDS	50146	50817	.	+	0	ID=AAA278I18.genome.CDS.1259;Product=;locus_tag=AAA278I18.genome.CDS.1259
+AAA278I18.contig.4	feature	CDS	48656	49930	.	-	0	ID=AAA278I18.genome.CDS.1258;Product=Predicted beta-glucoside-regulated ABC transport system%2C sugar binding component%2C COG1653;locus_tag=AAA278I18.genome.CDS.1258
+AAA278I18.contig.4	feature	CDS	47626	48537	.	-	0	ID=AAA278I18.genome.CDS.1257;Product=Probable ABC transporter permease protein PH1215;locus_tag=AAA278I18.genome.CDS.1257
+AAA278I18.contig.4	feature	CDS	46688	47626	.	-	0	ID=AAA278I18.genome.CDS.1256;Product=Predicted beta-glucoside-regulated ABC transport system%2C permease component 2%2C COG0395;locus_tag=AAA278I18.genome.CDS.1256
+AAA278I18.contig.4	feature	CDS	45791	46684	.	-	0	ID=AAA278I18.genome.CDS.1255;Product=;locus_tag=AAA278I18.genome.CDS.1255
+AAA278I18.contig.4	feature	CDS	44840	45790	.	-	0	ID=AAA278I18.genome.CDS.1254;Product=2-dehydro-3-deoxygluconate kinase %28EC 2.7.1.45%29;locus_tag=AAA278I18.genome.CDS.1254
+AAA278I18.contig.4	feature	CDS	44202	44840	.	-	0	ID=AAA278I18.genome.CDS.1253;Product=4-Hydroxy-2-oxoglutarate aldolase %28EC 4.1.3.16%29 / 2-dehydro-3-deoxyphosphogluconate aldolase %28EC 4.1.2.14%29;locus_tag=AAA278I18.genome.CDS.1253
+AAA278I18.contig.4	feature	CDS	43460	44218	.	-	0	ID=AAA278I18.genome.CDS.1252;Product=3-oxoacyl-%5Bacyl-carrier protein%5D reductase %28EC 1.1.1.100%29;locus_tag=AAA278I18.genome.CDS.1252
+AAA278I18.contig.4	feature	CDS	42705	43463	.	-	0	ID=AAA278I18.genome.CDS.1251;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1251
+AAA278I18.contig.4	feature	CDS	41857	42708	.	+	0	ID=AAA278I18.genome.CDS.1250;Product=L-fuconolactone hydrolase;locus_tag=AAA278I18.genome.CDS.1250
+AAA278I18.contig.4	feature	CDS	41492	41821	.	+	0	ID=AAA278I18.genome.CDS.1249;Product=;locus_tag=AAA278I18.genome.CDS.1249
+AAA278I18.contig.4	feature	CDS	40106	41404	.	-	0	ID=AAA278I18.genome.CDS.1248;Product=L-fuconate dehydratase %28EC 4.2.1.68%29;locus_tag=AAA278I18.genome.CDS.1248
+AAA278I18.contig.4	feature	CDS	38853	39902	.	-	0	ID=AAA278I18.genome.CDS.1247;Product=ABC transporter%2C substrate binding protein %5Bsugar%5D;locus_tag=AAA278I18.genome.CDS.1247
+AAA278I18.contig.4	feature	CDS	37672	38763	.	-	0	ID=AAA278I18.genome.CDS.1246;Product=mandelate racemase/muconate lactonizing enzyme family protein;locus_tag=AAA278I18.genome.CDS.1246
+AAA278I18.contig.4	feature	CDS	36659	37675	.	-	0	ID=AAA278I18.genome.CDS.1245;Product=;locus_tag=AAA278I18.genome.CDS.1245
+AAA278I18.contig.4	feature	CDS	35679	36662	.	-	0	ID=AAA278I18.genome.CDS.1244;Product=Ribose ABC transport system%2C permease protein RbsC %28TC 3.A.1.2.1%29;locus_tag=AAA278I18.genome.CDS.1244
+AAA278I18.contig.4	feature	CDS	34177	35682	.	-	0	ID=AAA278I18.genome.CDS.1243;Product=Ribose ABC transport system%2C ATP-binding protein RbsA %28TC 3.A.1.2.1%29;locus_tag=AAA278I18.genome.CDS.1243
+AAA278I18.contig.4	feature	CDS	32946	34172	.	-	0	ID=AAA278I18.genome.CDS.1242;Product=L-lactate dehydrogenase %28EC 1.1.2.3%29;locus_tag=AAA278I18.genome.CDS.1242
+AAA278I18.contig.4	feature	CDS	32209	32949	.	+	0	ID=AAA278I18.genome.CDS.1241;Product=short-chain dehydrogenase/reductase SDR;locus_tag=AAA278I18.genome.CDS.1241
+AAA278I18.contig.4	feature	CDS	31300	32145	.	+	0	ID=AAA278I18.genome.CDS.1240;Product=Homocysteine S-methyltransferase %28EC 2.1.1.10%29;locus_tag=AAA278I18.genome.CDS.1240
+AAA278I18.contig.4	feature	CDS	29768	31282	.	+	0	ID=AAA278I18.genome.CDS.1239;Product=Glucose-methanol-choline %28GMC%29 oxidoreductase:NAD binding site;locus_tag=AAA278I18.genome.CDS.1239
+AAA278I18.contig.4	feature	CDS	28811	29650	.	-	0	ID=AAA278I18.genome.CDS.1238;Product=Shikimate 5-dehydrogenase I alpha %28EC 1.1.1.25%29;locus_tag=AAA278I18.genome.CDS.1238
+AAA278I18.contig.4	feature	CDS	28014	28814	.	+	0	ID=AAA278I18.genome.CDS.1237;Product=Fructose ABC transporter%2C ATP-binding component FrcA;locus_tag=AAA278I18.genome.CDS.1237
+AAA278I18.contig.4	feature	CDS	26992	28017	.	+	0	ID=AAA278I18.genome.CDS.1236;Product=Fructose ABC transporter%2C permease component FrcC;locus_tag=AAA278I18.genome.CDS.1236
+AAA278I18.contig.4	feature	CDS	25770	26855	.	+	0	ID=AAA278I18.genome.CDS.1235;Product=Fructose ABC transporter%2C substrate-binding component FrcB;locus_tag=AAA278I18.genome.CDS.1235
+AAA278I18.contig.4	feature	CDS	24624	25442	.	-	0	ID=AAA278I18.genome.CDS.1234;Product=putative aldolase;locus_tag=AAA278I18.genome.CDS.1234
+AAA278I18.contig.4	feature	CDS	23684	24616	.	-	0	ID=AAA278I18.genome.CDS.1233;Product=;locus_tag=AAA278I18.genome.CDS.1233
+AAA278I18.contig.4	feature	CDS	23269	23640	.	+	0	ID=AAA278I18.genome.CDS.1232;Product=;locus_tag=AAA278I18.genome.CDS.1232
+AAA278I18.contig.4	feature	CDS	22903	23193	.	+	0	ID=AAA278I18.genome.CDS.1231;Product=;locus_tag=AAA278I18.genome.CDS.1231
+AAA278I18.contig.4	feature	tRNA	22761	22837	.	+	.	ID=AAA278I18.genome.rna.3;Product=tRNA-Met-CAT;locus_tag=AAA278I18.genome.rna.3
+AAA278I18.contig.4	feature	CDS	22098	22670	.	-	0	ID=AAA278I18.genome.CDS.1230;Product=Membrane proteins related to metalloendopeptidases;locus_tag=AAA278I18.genome.CDS.1230
+AAA278I18.contig.4	feature	CDS	21815	22018	.	+	0	ID=AAA278I18.genome.CDS.1229;Product=;locus_tag=AAA278I18.genome.CDS.1229
+AAA278I18.contig.4	feature	CDS	21075	21578	.	-	0	ID=AAA278I18.genome.CDS.1228;Product=;locus_tag=AAA278I18.genome.CDS.1228
+AAA278I18.contig.4	feature	CDS	20322	21065	.	-	0	ID=AAA278I18.genome.CDS.1227;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1227
+AAA278I18.contig.4	feature	CDS	19464	20321	.	+	0	ID=AAA278I18.genome.CDS.1226;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1226
+AAA278I18.contig.4	feature	CDS	18301	19461	.	+	0	ID=AAA278I18.genome.CDS.1225;Product=glycosyl transferase group 1;locus_tag=AAA278I18.genome.CDS.1225
+AAA278I18.contig.4	feature	CDS	17156	18304	.	+	0	ID=AAA278I18.genome.CDS.1224;Product=Glycosyltransferase %28EC 2.4.1.-%29;locus_tag=AAA278I18.genome.CDS.1224
+AAA278I18.contig.4	feature	CDS	16247	17002	.	-	0	ID=AAA278I18.genome.CDS.1223;Product=Electron transfer flavoprotein%2C beta subunit;locus_tag=AAA278I18.genome.CDS.1223
+AAA278I18.contig.4	feature	CDS	15306	16250	.	-	0	ID=AAA278I18.genome.CDS.1222;Product=Electron transfer flavoprotein%2C alpha subunit;locus_tag=AAA278I18.genome.CDS.1222
+AAA278I18.contig.4	feature	CDS	14115	15269	.	-	0	ID=AAA278I18.genome.CDS.1221;Product=Cysteine desulfurase %28EC 2.8.1.7%29;locus_tag=AAA278I18.genome.CDS.1221
+AAA278I18.contig.4	feature	CDS	13029	14114	.	-	0	ID=AAA278I18.genome.CDS.1220;Product=tRNA-specific 2-thiouridylase MnmA;locus_tag=AAA278I18.genome.CDS.1220
+AAA278I18.contig.4	feature	CDS	11000	13027	.	-	0	ID=AAA278I18.genome.CDS.1219;Product=DNA ligase %28EC 6.5.1.2%29;locus_tag=AAA278I18.genome.CDS.1219
+AAA278I18.contig.4	feature	CDS	10876	10995	.	-	0	ID=AAA278I18.genome.CDS.1218;Product=;locus_tag=AAA278I18.genome.CDS.1218
+AAA278I18.contig.4	feature	CDS	10295	10693	.	-	0	ID=AAA278I18.genome.CDS.1217;Product=;locus_tag=AAA278I18.genome.CDS.1217
+AAA278I18.contig.4	feature	CDS	9943	10308	.	-	0	ID=AAA278I18.genome.CDS.1216;Product=;locus_tag=AAA278I18.genome.CDS.1216
+AAA278I18.contig.4	feature	CDS	9281	9943	.	-	0	ID=AAA278I18.genome.CDS.1215;Product=;locus_tag=AAA278I18.genome.CDS.1215
+AAA278I18.contig.4	feature	CDS	7798	9234	.	+	0	ID=AAA278I18.genome.CDS.1214;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1214
+AAA278I18.contig.4	feature	CDS	6773	7696	.	+	0	ID=AAA278I18.genome.CDS.1213;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1213
+AAA278I18.contig.4	feature	tRNA	6592	6667	.	-	.	ID=AAA278I18.genome.rna.5;Product=tRNA-Ala-GGC;locus_tag=AAA278I18.genome.rna.5
+AAA278I18.contig.4	feature	CDS	4045	6501	.	-	0	ID=AAA278I18.genome.CDS.1212;Product=Leucyl-tRNA synthetase %28EC 6.1.1.4%29;locus_tag=AAA278I18.genome.CDS.1212
+AAA278I18.contig.4	feature	CDS	3600	3827	.	+	0	ID=AAA278I18.genome.CDS.1211;Product=;locus_tag=AAA278I18.genome.CDS.1211
+AAA278I18.contig.4	feature	CDS	3415	3618	.	+	0	ID=AAA278I18.genome.CDS.1210;Product=;locus_tag=AAA278I18.genome.CDS.1210
+AAA278I18.contig.4	feature	CDS	2472	3278	.	-	0	ID=AAA278I18.genome.CDS.1209;Product=1%2C4-dihydroxy-2-naphthoate polyprenyltransferase %28EC 2.5.1.74%29;locus_tag=AAA278I18.genome.CDS.1209
+AAA278I18.contig.4	feature	CDS	1564	2193	.	-	0	ID=AAA278I18.genome.CDS.1208;Product=putative secreted protein;locus_tag=AAA278I18.genome.CDS.1208
+AAA278I18.contig.4	feature	CDS	1248	1547	.	+	0	ID=AAA278I18.genome.CDS.1207;Product=;locus_tag=AAA278I18.genome.CDS.1207
+AAA278I18.contig.4	feature	CDS	3	1154	.	+	0	ID=AAA278I18.genome.CDS.1206;Product=Glutaryl-CoA dehydrogenase %28EC 1.3.99.7%29;locus_tag=AAA278I18.genome.CDS.1206
+AAA278I18.contig.40	feature	CDS	908	1153	.	+	0	ID=AAA278I18.genome.CDS.1944;Product=Iron-sulfur cluster assembly protein SufD;locus_tag=AAA278I18.genome.CDS.1944
+AAA278I18.contig.40	feature	CDS	3	908	.	+	0	ID=AAA278I18.genome.CDS.1943;Product=Iron-sulfur cluster assembly protein SufB;locus_tag=AAA278I18.genome.CDS.1943
+AAA278I18.contig.41	feature	CDS	555	1082	.	-	0	ID=AAA278I18.genome.CDS.1946;Product=Phytoene dehydrogenase %28EC 1.14.99.-%29;locus_tag=AAA278I18.genome.CDS.1946
+AAA278I18.contig.41	feature	CDS	1	558	.	+	0	ID=AAA278I18.genome.CDS.1945;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1945
+AAA278I18.contig.42	feature	CDS	390	959	.	+	0	ID=AAA278I18.genome.CDS.1948;Product=Acetoin dehydrogenase E1 component beta-subunit %28EC 1.2.4.-%29;locus_tag=AAA278I18.genome.CDS.1948
+AAA278I18.contig.42	feature	CDS	3	389	.	+	0	ID=AAA278I18.genome.CDS.1947;Product=;locus_tag=AAA278I18.genome.CDS.1947
+AAA278I18.contig.43	feature	CDS	335	925	.	+	0	ID=AAA278I18.genome.CDS.1950;Product=Rod shape-determining protein MreC;locus_tag=AAA278I18.genome.CDS.1950
+AAA278I18.contig.43	feature	CDS	1	306	.	+	0	ID=AAA278I18.genome.CDS.1949;Product=Rod shape-determining protein MreB;locus_tag=AAA278I18.genome.CDS.1949
+AAA278I18.contig.44	feature	CDS	638	817	.	-	0	ID=AAA278I18.genome.CDS.1952;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1952
+AAA278I18.contig.44	feature	CDS	2	610	.	-	0	ID=AAA278I18.genome.CDS.1951;Product=Cytosol aminopeptidase PepA %28EC 3.4.11.1%29;locus_tag=AAA278I18.genome.CDS.1951
+AAA278I18.contig.45	feature	CDS	454	747	.	+	0	ID=AAA278I18.genome.CDS.1954;Product=NAD synthetase %28EC 6.3.1.5%29 / Glutamine amidotransferase chain of NAD synthetase;locus_tag=AAA278I18.genome.CDS.1954
+AAA278I18.contig.45	feature	CDS	2	346	.	-	0	ID=AAA278I18.genome.CDS.1953;Product=3-methyl-2-oxobutanoate hydroxymethyltransferase %28EC 2.1.2.11%29;locus_tag=AAA278I18.genome.CDS.1953
+AAA278I18.contig.46	feature	CDS	506	700	.	-	0	ID=AAA278I18.genome.CDS.1956;Product=SOS-response repressor and protease LexA %28EC 3.4.21.88%29;locus_tag=AAA278I18.genome.CDS.1956
+AAA278I18.contig.46	feature	CDS	1	501	.	+	0	ID=AAA278I18.genome.CDS.1955;Product=;locus_tag=AAA278I18.genome.CDS.1955
+AAA278I18.contig.47	feature	CDS	197	682	.	-	0	ID=AAA278I18.genome.CDS.1958;Product=;locus_tag=AAA278I18.genome.CDS.1958
+AAA278I18.contig.47	feature	CDS	1	210	.	-	0	ID=AAA278I18.genome.CDS.1957;Product=Phosphatidylinositol alpha-mannosyltransferase %28EC 2.4.1.57%29;locus_tag=AAA278I18.genome.CDS.1957
+AAA278I18.contig.48	feature	CDS	393	638	.	+	0	ID=AAA278I18.genome.CDS.1960;Product=;locus_tag=AAA278I18.genome.CDS.1960
+AAA278I18.contig.48	feature	CDS	3	371	.	+	0	ID=AAA278I18.genome.CDS.1959;Product=3-methyl-2-oxobutanoate hydroxymethyltransferase %28EC 2.1.2.11%29;locus_tag=AAA278I18.genome.CDS.1959
+AAA278I18.contig.49	feature	CDS	3	632	.	+	0	ID=AAA278I18.genome.CDS.1961;Product=Cell division protein FtsI %5BPeptidoglycan synthetase%5D %28EC 2.4.1.129%29;locus_tag=AAA278I18.genome.CDS.1961
+AAA278I18.contig.5	feature	CDS	67790	68158	.	-	0	ID=AAA278I18.genome.CDS.1350;Product=Dihydrolipoamide dehydrogenase of branched-chain alpha-keto acid dehydrogenase %28EC 1.8.1.4%29;locus_tag=AAA278I18.genome.CDS.1350
+AAA278I18.contig.5	feature	CDS	66058	67770	.	-	0	ID=AAA278I18.genome.CDS.1349;Product=Dihydrolipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex %28EC 2.3.1.168%29;locus_tag=AAA278I18.genome.CDS.1349
+AAA278I18.contig.5	feature	CDS	65168	66055	.	-	0	ID=AAA278I18.genome.CDS.1348;Product=Cell division inhibitor;locus_tag=AAA278I18.genome.CDS.1348
+AAA278I18.contig.5	feature	CDS	64156	65166	.	+	0	ID=AAA278I18.genome.CDS.1347;Product=Myo-inositol 2-dehydrogenase %28EC 1.1.1.18%29;locus_tag=AAA278I18.genome.CDS.1347
+AAA278I18.contig.5	feature	CDS	61972	64143	.	+	0	ID=AAA278I18.genome.CDS.1346;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1346
+AAA278I18.contig.5	feature	CDS	61186	61839	.	-	0	ID=AAA278I18.genome.CDS.1345;Product=Octanoate-%5Bacyl-carrier-protein%5D-protein-N-octanoyltransferase;locus_tag=AAA278I18.genome.CDS.1345
+AAA278I18.contig.5	feature	CDS	60260	61189	.	-	0	ID=AAA278I18.genome.CDS.1344;Product=Lipoate synthase;locus_tag=AAA278I18.genome.CDS.1344
+AAA278I18.contig.5	feature	CDS	59548	60249	.	-	0	ID=AAA278I18.genome.CDS.1343;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1343
+AAA278I18.contig.5	feature	CDS	59171	59551	.	+	0	ID=AAA278I18.genome.CDS.1342;Product=;locus_tag=AAA278I18.genome.CDS.1342
+AAA278I18.contig.5	feature	CDS	57593	59023	.	-	0	ID=AAA278I18.genome.CDS.1341;Product=Glutamine synthetase type I %28EC 6.3.1.2%29;locus_tag=AAA278I18.genome.CDS.1341
+AAA278I18.contig.5	feature	CDS	56328	57551	.	+	0	ID=AAA278I18.genome.CDS.1340;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1340
+AAA278I18.contig.5	feature	CDS	55795	56322	.	+	0	ID=AAA278I18.genome.CDS.1339;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1339
+AAA278I18.contig.5	feature	CDS	54590	55678	.	-	0	ID=AAA278I18.genome.CDS.1338;Product=HoxN/HupN/NixA family nickel/cobalt transporter;locus_tag=AAA278I18.genome.CDS.1338
+AAA278I18.contig.5	feature	CDS	53763	54593	.	+	0	ID=AAA278I18.genome.CDS.1337;Product=Short chain dehydrogenase family protein;locus_tag=AAA278I18.genome.CDS.1337
+AAA278I18.contig.5	feature	CDS	53014	53763	.	+	0	ID=AAA278I18.genome.CDS.1336;Product=Enoyl-CoA hydratase %28EC 4.2.1.17%29;locus_tag=AAA278I18.genome.CDS.1336
+AAA278I18.contig.5	feature	CDS	52300	52956	.	-	0	ID=AAA278I18.genome.CDS.367;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.367
+AAA278I18.contig.5	feature	CDS	51345	52298	.	+	0	ID=AAA278I18.genome.CDS.1334;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1334
+AAA278I18.contig.5	feature	CDS	50529	51221	.	-	0	ID=AAA278I18.genome.CDS.1333;Product=;locus_tag=AAA278I18.genome.CDS.1333
+AAA278I18.contig.5	feature	CDS	49869	50528	.	+	0	ID=AAA278I18.genome.CDS.364;Product=1-acyl-sn-glycerol-3-phosphate acyltransferase %28EC 2.3.1.51%29;locus_tag=AAA278I18.genome.CDS.364
+AAA278I18.contig.5	feature	CDS	48673	49782	.	-	0	ID=AAA278I18.genome.CDS.1331;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1331
+AAA278I18.contig.5	feature	CDS	47718	48683	.	+	0	ID=AAA278I18.genome.CDS.1330;Product=Putative sugar kinase;locus_tag=AAA278I18.genome.CDS.1330
+AAA278I18.contig.5	feature	CDS	47283	47717	.	+	0	ID=AAA278I18.genome.CDS.1329;Product=;locus_tag=AAA278I18.genome.CDS.1329
+AAA278I18.contig.5	feature	CDS	45408	47192	.	-	0	ID=AAA278I18.genome.CDS.1328;Product=Long-chain-fatty-acid--CoA ligase %28EC 6.2.1.3%29;locus_tag=AAA278I18.genome.CDS.1328
+AAA278I18.contig.5	feature	CDS	44855	45424	.	-	0	ID=AAA278I18.genome.CDS.1327;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1327
+AAA278I18.contig.5	feature	CDS	44240	44848	.	-	0	ID=AAA278I18.genome.CDS.1326;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1326
+AAA278I18.contig.5	feature	CDS	43118	44254	.	+	0	ID=AAA278I18.genome.CDS.357;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.357
+AAA278I18.contig.5	feature	CDS	42115	43116	.	+	0	ID=AAA278I18.genome.CDS.1324;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1324
+AAA278I18.contig.5	feature	CDS	41775	42002	.	+	0	ID=AAA278I18.genome.CDS.1323;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1323
+AAA278I18.contig.5	feature	CDS	41233	41757	.	-	0	ID=AAA278I18.genome.CDS.1322;Product=;locus_tag=AAA278I18.genome.CDS.1322
+AAA278I18.contig.5	feature	CDS	40397	41236	.	+	0	ID=AAA278I18.genome.CDS.1321;Product=;locus_tag=AAA278I18.genome.CDS.1321
+AAA278I18.contig.5	feature	CDS	39764	40297	.	-	0	ID=AAA278I18.genome.CDS.1320;Product=Uncharacterized protein Q1 colocalized with Q;locus_tag=AAA278I18.genome.CDS.1320
+AAA278I18.contig.5	feature	CDS	38455	39750	.	-	0	ID=AAA278I18.genome.CDS.1319;Product=Ribonuclease D %28EC 3.1.26.3%29;locus_tag=AAA278I18.genome.CDS.1319
+AAA278I18.contig.5	feature	CDS	37569	38390	.	-	0	ID=AAA278I18.genome.CDS.1318;Product=Ferrous iron transport permease EfeU;locus_tag=AAA278I18.genome.CDS.1318
+AAA278I18.contig.5	feature	CDS	36295	37500	.	-	0	ID=AAA278I18.genome.CDS.1317;Product=3-ketoacyl-CoA thiolase %28EC 2.3.1.16%29;locus_tag=AAA278I18.genome.CDS.1317
+AAA278I18.contig.5	feature	CDS	32317	34251	.	+	0	ID=AAA278I18.genome.CDS.1315;Product=1-deoxy-D-xylulose 5-phosphate synthase %28EC 2.2.1.7%29;locus_tag=AAA278I18.genome.CDS.1315
+AAA278I18.contig.5	feature	CDS	29620	32280	.	+	0	ID=AAA278I18.genome.CDS.1314;Product=Aconitate hydratase %28EC 4.2.1.3%29;locus_tag=AAA278I18.genome.CDS.1314
+AAA278I18.contig.5	feature	CDS	28375	29580	.	+	0	ID=AAA278I18.genome.CDS.1313;Product=RNA methyltransferase%2C TrmA family;locus_tag=AAA278I18.genome.CDS.1313
+AAA278I18.contig.5	feature	CDS	27680	28327	.	-	0	ID=AAA278I18.genome.CDS.1312;Product=Trk system potassium uptake protein TrkA;locus_tag=AAA278I18.genome.CDS.1312
+AAA278I18.contig.5	feature	CDS	27024	27677	.	-	0	ID=AAA278I18.genome.CDS.1311;Product=Trk system potassium uptake protein TrkA;locus_tag=AAA278I18.genome.CDS.1311
+AAA278I18.contig.5	feature	CDS	26404	27027	.	+	0	ID=AAA278I18.genome.CDS.1310;Product=;locus_tag=AAA278I18.genome.CDS.1310
+AAA278I18.contig.5	feature	CDS	25973	26407	.	+	0	ID=AAA278I18.genome.CDS.1309;Product=Deoxyuridine 5%27-triphosphate nucleotidohydrolase %28EC 3.6.1.23%29;locus_tag=AAA278I18.genome.CDS.1309
+AAA278I18.contig.5	feature	CDS	25392	25976	.	+	0	ID=AAA278I18.genome.CDS.1308;Product=FIG01123415: hypothetical protein;locus_tag=AAA278I18.genome.CDS.1308
+AAA278I18.contig.5	feature	CDS	24919	25368	.	-	0	ID=AAA278I18.genome.CDS.1307;Product=;locus_tag=AAA278I18.genome.CDS.1307
+AAA278I18.contig.5	feature	CDS	24626	24922	.	+	0	ID=AAA278I18.genome.CDS.1306;Product=FIG01121218: hypothetical protein;locus_tag=AAA278I18.genome.CDS.1306
+AAA278I18.contig.5	feature	CDS	23800	24501	.	+	0	ID=AAA278I18.genome.CDS.1305;Product=tRNA %28Guanine37-N1%29 -methyltransferase %28EC 2.1.1.31%29;locus_tag=AAA278I18.genome.CDS.1305
+AAA278I18.contig.5	feature	CDS	23313	23813	.	+	0	ID=AAA278I18.genome.CDS.1304;Product=16S rRNA processing protein RimM;locus_tag=AAA278I18.genome.CDS.1304
+AAA278I18.contig.5	feature	CDS	23071	23310	.	+	0	ID=AAA278I18.genome.CDS.1303;Product=KH domain RNA binding protein YlqC;locus_tag=AAA278I18.genome.CDS.1303
+AAA278I18.contig.5	feature	CDS	22529	23068	.	+	0	ID=AAA278I18.genome.CDS.1302;Product=LSU ribosomal protein L19p;locus_tag=AAA278I18.genome.CDS.1302
+AAA278I18.contig.5	feature	CDS	21737	22435	.	+	0	ID=AAA278I18.genome.CDS.1301;Product=Inositol-1-monophosphatase %28EC 3.1.3.25%29;locus_tag=AAA278I18.genome.CDS.1301
+AAA278I18.contig.5	feature	CDS	20800	21594	.	-	0	ID=AAA278I18.genome.CDS.1300;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1300
+AAA278I18.contig.5	feature	CDS	19709	20803	.	+	0	ID=AAA278I18.genome.CDS.1299;Product=Alkaline phosphodiesterase I %28EC 3.1.4.1%29 / Nucleotide pyrophosphatase %28EC 3.6.1.9%29;locus_tag=AAA278I18.genome.CDS.1299
+AAA278I18.contig.5	feature	CDS	19329	19712	.	+	0	ID=AAA278I18.genome.CDS.1298;Product=Transcriptional regulator%2C MerR family;locus_tag=AAA278I18.genome.CDS.1298
+AAA278I18.contig.5	feature	CDS	17742	19241	.	-	0	ID=AAA278I18.genome.CDS.1297;Product=Topoisomerase IV subunit A %28EC 5.99.1.-%29;locus_tag=AAA278I18.genome.CDS.1297
+AAA278I18.contig.5	feature	CDS	16137	17735	.	-	0	ID=AAA278I18.genome.CDS.1296;Product=ABC transporter ATP-binding protein;locus_tag=AAA278I18.genome.CDS.1296
+AAA278I18.contig.5	feature	CDS	14020	16140	.	+	0	ID=AAA278I18.genome.CDS.1295;Product=Topoisomerase IV subunit B %28EC 5.99.1.-%29;locus_tag=AAA278I18.genome.CDS.1295
+AAA278I18.contig.5	feature	CDS	13620	13835	.	-	0	ID=AAA278I18.genome.CDS.1294;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1294
+AAA278I18.contig.5	feature	CDS	13428	13619	.	+	0	ID=AAA278I18.genome.CDS.1293;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1293
+AAA278I18.contig.5	feature	CDS	11848	13416	.	+	0	ID=AAA278I18.genome.CDS.1292;Product=RNA polymerase sigma factor RpoD;locus_tag=AAA278I18.genome.CDS.1292
+AAA278I18.contig.5	feature	CDS	10644	11741	.	+	0	ID=AAA278I18.genome.CDS.1291;Product=Homoserine O-acetyltransferase %28EC 2.3.1.31%29;locus_tag=AAA278I18.genome.CDS.1291
+AAA278I18.contig.5	feature	CDS	9336	10640	.	+	0	ID=AAA278I18.genome.CDS.1290;Product=O-acetylhomoserine sulfhydrylase %28EC 2.5.1.49%29 / O-succinylhomoserine sulfhydrylase %28EC 2.5.1.48%29;locus_tag=AAA278I18.genome.CDS.1290
+AAA278I18.contig.5	feature	CDS	8061	9143	.	+	0	ID=AAA278I18.genome.CDS.1289;Product=Alanine dehydrogenase %28EC 1.4.1.1%29;locus_tag=AAA278I18.genome.CDS.1289
+AAA278I18.contig.5	feature	CDS	7507	8022	.	+	0	ID=AAA278I18.genome.CDS.1288;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1288
+AAA278I18.contig.5	feature	CDS	6756	7451	.	+	0	ID=AAA278I18.genome.CDS.1287;Product=;locus_tag=AAA278I18.genome.CDS.1287
+AAA278I18.contig.5	feature	CDS	6262	6780	.	+	0	ID=AAA278I18.genome.CDS.1286;Product=;locus_tag=AAA278I18.genome.CDS.1286
+AAA278I18.contig.5	feature	CDS	5721	6176	.	-	0	ID=AAA278I18.genome.CDS.1285;Product=Possible mutator protein MutT3 %287%2C8-dihydro-8-oxoguanine-triphosphatase%29;locus_tag=AAA278I18.genome.CDS.1285
+AAA278I18.contig.5	feature	CDS	3694	5724	.	+	0	ID=AAA278I18.genome.CDS.1284;Product=DinG family ATP-dependent helicase YoaA;locus_tag=AAA278I18.genome.CDS.1284
+AAA278I18.contig.5	feature	CDS	824	3622	.	+	0	ID=AAA278I18.genome.CDS.1283;Product=Ribonucleotide reductase of class II %28coenzyme B12-dependent%29 %28EC 1.17.4.1%29;locus_tag=AAA278I18.genome.CDS.1283
+AAA278I18.contig.5	feature	CDS	201	698	.	+	0	ID=AAA278I18.genome.CDS.1282;Product=Ribonucleotide reductase transcriptional regulator NrdR;locus_tag=AAA278I18.genome.CDS.1282
+AAA278I18.contig.50	feature	CDS	330	614	.	+	0	ID=AAA278I18.genome.CDS.1964;Product=SSU ribosomal protein S17p %28S11e%29;locus_tag=AAA278I18.genome.CDS.1964
+AAA278I18.contig.50	feature	CDS	118	333	.	+	0	ID=AAA278I18.genome.CDS.1963;Product=LSU ribosomal protein L29p %28L35e%29;locus_tag=AAA278I18.genome.CDS.1963
+AAA278I18.contig.50	feature	CDS	2	118	.	+	0	ID=AAA278I18.genome.CDS.1962;Product=LSU ribosomal protein L16p %28L10e%29;locus_tag=AAA278I18.genome.CDS.1962
+AAA278I18.contig.51	feature	CDS	1	324	.	+	0	ID=AAA278I18.genome.CDS.1965;Product=Heat shock protein 60 family chaperone GroEL;locus_tag=AAA278I18.genome.CDS.1965
+AAA278I18.contig.52	feature	CDS	310	552	.	-	0	ID=AAA278I18.genome.CDS.1967;Product=;locus_tag=AAA278I18.genome.CDS.1967
+AAA278I18.contig.52	feature	CDS	1	306	.	-	0	ID=AAA278I18.genome.CDS.1966;Product=Phytoene dehydrogenase %28EC 1.14.99.-%29;locus_tag=AAA278I18.genome.CDS.1966
+AAA278I18.contig.53	feature	CDS	312	533	.	+	0	ID=AAA278I18.genome.CDS.1969;Product=Glutamate synthase %5BNADPH%5D small chain %28EC 1.4.1.13%29;locus_tag=AAA278I18.genome.CDS.1969
+AAA278I18.contig.53	feature	CDS	20	319	.	+	0	ID=AAA278I18.genome.CDS.968;Product=Glutamate synthase %5BNADPH%5D large chain %28EC 1.4.1.13%29;locus_tag=AAA278I18.genome.CDS.968
+AAA278I18.contig.54	feature	CDS	180	506	.	-	0	ID=AAA278I18.genome.CDS.1971;Product=LSU ribosomal protein L14p %28L23e%29;locus_tag=AAA278I18.genome.CDS.1971
+AAA278I18.contig.54	feature	CDS	3	176	.	-	0	ID=AAA278I18.genome.CDS.1970;Product=LSU ribosomal protein L24p %28L26e%29;locus_tag=AAA278I18.genome.CDS.1970
+AAA278I18.contig.6	feature	misc_RNA	1	548	.	+	.	ID=AAA278I18.genome.repeat.1;Product=repeat region;locus_tag=AAA278I18.genome.repeat.1
+AAA278I18.contig.6	feature	misc_RNA	3884	4431	.	+	.	ID=AAA278I18.genome.repeat.2;Product=repeat region;locus_tag=AAA278I18.genome.repeat.2
+AAA278I18.contig.6	feature	CDS	66815	66880	.	+	0	ID=AAA278I18.genome.CDS.1416;Product=;locus_tag=AAA278I18.genome.CDS.1416
+AAA278I18.contig.6	feature	CDS	65570	66748	.	+	0	ID=AAA278I18.genome.CDS.1415;Product=;locus_tag=AAA278I18.genome.CDS.1415
+AAA278I18.contig.6	feature	CDS	64421	65524	.	+	0	ID=AAA278I18.genome.CDS.1414;Product=N-acylamino acid racemase;locus_tag=AAA278I18.genome.CDS.1414
+AAA278I18.contig.6	feature	CDS	63726	64424	.	+	0	ID=AAA278I18.genome.CDS.1413;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1413
+AAA278I18.contig.6	feature	CDS	62736	63626	.	-	0	ID=AAA278I18.genome.CDS.1412;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1412
+AAA278I18.contig.6	feature	tRNA	62655	62730	.	+	.	ID=AAA278I18.genome.rna.8;Product=tRNA-Arg-ACG;locus_tag=AAA278I18.genome.rna.8
+AAA278I18.contig.6	feature	CDS	61314	62621	.	+	0	ID=AAA278I18.genome.CDS.1411;Product=Ferredoxin--NADP%28%2B%29 reductase%2C actinobacterial %28eukaryote-like%29 type %28EC 1.18.1.2%29;locus_tag=AAA278I18.genome.CDS.1411
+AAA278I18.contig.6	feature	tRNA	61188	61280	.	+	.	ID=AAA278I18.genome.rna.7;Product=tRNA-Ser-GCT;locus_tag=AAA278I18.genome.rna.7
+AAA278I18.contig.6	feature	CDS	59668	61122	.	-	0	ID=AAA278I18.genome.CDS.1410;Product=Xaa-Pro aminopeptidase %28EC 3.4.11.9%29;locus_tag=AAA278I18.genome.CDS.1410
+AAA278I18.contig.6	feature	CDS	59512	59667	.	+	0	ID=AAA278I18.genome.CDS.441;Product=;locus_tag=AAA278I18.genome.CDS.441
+AAA278I18.contig.6	feature	CDS	58706	59467	.	+	0	ID=AAA278I18.genome.CDS.1409;Product=Succinate dehydrogenase iron-sulfur protein %28EC 1.3.99.1%29;locus_tag=AAA278I18.genome.CDS.1409
+AAA278I18.contig.6	feature	CDS	56814	58709	.	+	0	ID=AAA278I18.genome.CDS.1408;Product=Succinate dehydrogenase flavoprotein subunit %28EC 1.3.99.1%29;locus_tag=AAA278I18.genome.CDS.1408
+AAA278I18.contig.6	feature	CDS	55974	56801	.	+	0	ID=AAA278I18.genome.CDS.1407;Product=putative succinate dehydrogenase %5Bmembrane anchor subunit%5D %28succinic dehydrogenase%29;locus_tag=AAA278I18.genome.CDS.1407
+AAA278I18.contig.6	feature	tRNA	55807	55892	.	+	.	ID=AAA278I18.genome.rna.6;Product=tRNA-Ser-TGA;locus_tag=AAA278I18.genome.rna.6
+AAA278I18.contig.6	feature	CDS	54925	55758	.	+	0	ID=AAA278I18.genome.CDS.1406;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1406
+AAA278I18.contig.6	feature	CDS	53666	54928	.	+	0	ID=AAA278I18.genome.CDS.1405;Product=Seryl-tRNA synthetase %28EC 6.1.1.11%29;locus_tag=AAA278I18.genome.CDS.1405
+AAA278I18.contig.6	feature	CDS	52817	53647	.	+	0	ID=AAA278I18.genome.CDS.1404;Product=Prephenate dehydratase %28EC 4.2.1.51%29;locus_tag=AAA278I18.genome.CDS.1404
+AAA278I18.contig.6	feature	CDS	52127	52813	.	+	0	ID=AAA278I18.genome.CDS.1403;Product=Glycerophosphoryl diester phosphodiesterase %28EC 3.1.4.46%29;locus_tag=AAA278I18.genome.CDS.1403
+AAA278I18.contig.6	feature	CDS	51297	52073	.	-	0	ID=AAA278I18.genome.CDS.1402;Product=Protein serine/threonine phosphatase PrpC%2C regulation of stationary phase;locus_tag=AAA278I18.genome.CDS.1402
+AAA278I18.contig.6	feature	CDS	49760	51304	.	-	0	ID=AAA278I18.genome.CDS.1401;Product=Serine/threonine protein kinase PrkC%2C regulator of stationary phase;locus_tag=AAA278I18.genome.CDS.1401
+AAA278I18.contig.6	feature	CDS	49125	49763	.	+	0	ID=AAA278I18.genome.CDS.1400;Product=Anthranilate synthase%2C amidotransferase component %28EC 4.1.3.27%29 %40 Para-aminobenzoate synthase%2C amidotransferase component %28EC 2.6.1.85%29;locus_tag=AAA278I18.genome.CDS.1400
+AAA278I18.contig.6	feature	CDS	48828	49082	.	-	0	ID=AAA278I18.genome.CDS.430;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.430
+AAA278I18.contig.6	feature	CDS	46696	48759	.	-	0	ID=AAA278I18.genome.CDS.1398;Product=Fe-S oxidoreductase;locus_tag=AAA278I18.genome.CDS.1398
+AAA278I18.contig.6	feature	CDS	45887	46630	.	-	0	ID=AAA278I18.genome.CDS.1397;Product=;locus_tag=AAA278I18.genome.CDS.1397
+AAA278I18.contig.6	feature	CDS	44403	45869	.	-	0	ID=AAA278I18.genome.CDS.1396;Product=sensor histidine kinase;locus_tag=AAA278I18.genome.CDS.1396
+AAA278I18.contig.6	feature	CDS	43824	44402	.	+	0	ID=AAA278I18.genome.CDS.1395;Product=Deoxycytidine triphosphate deaminase %28EC 3.5.4.13%29;locus_tag=AAA278I18.genome.CDS.1395
+AAA278I18.contig.6	feature	CDS	41906	43732	.	-	0	ID=AAA278I18.genome.CDS.1394;Product=Acyl-CoA dehydrogenase %28EC 1.3.8.7%29;locus_tag=AAA278I18.genome.CDS.1394
+AAA278I18.contig.6	feature	CDS	40961	41854	.	-	0	ID=AAA278I18.genome.CDS.1393;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1393
+AAA278I18.contig.6	feature	CDS	40470	40961	.	-	0	ID=AAA278I18.genome.CDS.1392;Product=Carbonic anhydrase %28EC 4.2.1.1%29;locus_tag=AAA278I18.genome.CDS.1392
+AAA278I18.contig.6	feature	CDS	39073	40473	.	+	0	ID=AAA278I18.genome.CDS.1391;Product=Replicative DNA helicase %28DnaB%29 %28EC 3.6.4.12%29;locus_tag=AAA278I18.genome.CDS.1391
+AAA278I18.contig.6	feature	CDS	38296	38745	.	+	0	ID=AAA278I18.genome.CDS.1390;Product=LSU ribosomal protein L9p;locus_tag=AAA278I18.genome.CDS.1390
+AAA278I18.contig.6	feature	CDS	37989	38282	.	+	0	ID=AAA278I18.genome.CDS.1389;Product=SSU ribosomal protein S18p %40 SSU ribosomal protein S18p%2C zinc-independent;locus_tag=AAA278I18.genome.CDS.1389
+AAA278I18.contig.6	feature	CDS	37438	37929	.	+	0	ID=AAA278I18.genome.CDS.1388;Product=Single-stranded DNA-binding protein;locus_tag=AAA278I18.genome.CDS.1388
+AAA278I18.contig.6	feature	CDS	37099	37383	.	+	0	ID=AAA278I18.genome.CDS.1387;Product=SSU ribosomal protein S6p;locus_tag=AAA278I18.genome.CDS.1387
+AAA278I18.contig.6	feature	CDS	35838	37019	.	+	0	ID=AAA278I18.genome.CDS.1386;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1386
+AAA278I18.contig.6	feature	CDS	33879	35834	.	+	0	ID=AAA278I18.genome.CDS.1385;Product=Multimodular transpeptidase-transglycosylase %28EC 2.4.1.129%29 %28EC 3.4.-.-%29;locus_tag=AAA278I18.genome.CDS.1385
+AAA278I18.contig.6	feature	CDS	33450	33869	.	+	0	ID=AAA278I18.genome.CDS.1384;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1384
+AAA278I18.contig.6	feature	CDS	32138	33406	.	-	0	ID=AAA278I18.genome.CDS.1383;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1383
+AAA278I18.contig.6	feature	CDS	30730	32163	.	+	0	ID=AAA278I18.genome.CDS.1382;Product=tRNA nucleotidyltransferase %28EC 2.7.7.27%29;locus_tag=AAA278I18.genome.CDS.1382
+AAA278I18.contig.6	feature	CDS	30066	30659	.	-	0	ID=AAA278I18.genome.CDS.1381;Product=MutT/nudix family protein;locus_tag=AAA278I18.genome.CDS.1381
+AAA278I18.contig.6	feature	CDS	28972	30069	.	-	0	ID=AAA278I18.genome.CDS.1380;Product=;locus_tag=AAA278I18.genome.CDS.1380
+AAA278I18.contig.6	feature	CDS	27380	28972	.	-	0	ID=AAA278I18.genome.CDS.1379;Product=Proposed peptidoglycan lipid II flippase MurJ;locus_tag=AAA278I18.genome.CDS.1379
+AAA278I18.contig.6	feature	CDS	26441	27370	.	-	0	ID=AAA278I18.genome.CDS.1378;Product=Thioredoxin reductase %28EC 1.8.1.9%29;locus_tag=AAA278I18.genome.CDS.1378
+AAA278I18.contig.6	feature	CDS	26067	26390	.	-	0	ID=AAA278I18.genome.CDS.1377;Product=Thioredoxin;locus_tag=AAA278I18.genome.CDS.1377
+AAA278I18.contig.6	feature	CDS	24910	26040	.	-	0	ID=AAA278I18.genome.CDS.1376;Product=N-acetylmuramoyl-L-alanine amidase %28EC 3.5.1.28%29;locus_tag=AAA278I18.genome.CDS.1376
+AAA278I18.contig.6	feature	CDS	23590	24873	.	-	0	ID=AAA278I18.genome.CDS.1375;Product=Aspartate aminotransferase %28AspB-4%29 %28EC 2.6.1.1%29;locus_tag=AAA278I18.genome.CDS.1375
+AAA278I18.contig.6	feature	CDS	22709	23587	.	+	0	ID=AAA278I18.genome.CDS.1374;Product=Chromosome %28plasmid%29 partitioning protein ParB;locus_tag=AAA278I18.genome.CDS.1374
+AAA278I18.contig.6	feature	CDS	21778	22689	.	+	0	ID=AAA278I18.genome.CDS.1373;Product=Chromosome %28plasmid%29 partitioning protein ParA / Sporulation initiation inhibitor protein Soj;locus_tag=AAA278I18.genome.CDS.1373
+AAA278I18.contig.6	feature	CDS	21172	21768	.	+	0	ID=AAA278I18.genome.CDS.1372;Product=rRNA small subunit 7-methylguanosine %28m7G%29 methyltransferase GidB;locus_tag=AAA278I18.genome.CDS.1372
+AAA278I18.contig.6	feature	CDS	20664	21164	.	+	0	ID=AAA278I18.genome.CDS.1371;Product=RNA-binding protein Jag;locus_tag=AAA278I18.genome.CDS.1371
+AAA278I18.contig.6	feature	CDS	19698	20600	.	+	0	ID=AAA278I18.genome.CDS.1370;Product=Inner membrane protein translocase component YidC%2C long form;locus_tag=AAA278I18.genome.CDS.1370
+AAA278I18.contig.6	feature	CDS	19104	19697	.	+	0	ID=AAA278I18.genome.CDS.1369;Product=Protein YidD;locus_tag=AAA278I18.genome.CDS.1369
+AAA278I18.contig.6	feature	CDS	18954	19088	.	+	0	ID=AAA278I18.genome.CDS.1368;Product=LSU ribosomal protein L34p;locus_tag=AAA278I18.genome.CDS.1368
+AAA278I18.contig.6	feature	CDS	17243	18703	.	-	0	ID=AAA278I18.genome.CDS.1367;Product=Chromosomal replication initiator protein DnaA;locus_tag=AAA278I18.genome.CDS.1367
+AAA278I18.contig.6	feature	CDS	15803	16930	.	-	0	ID=AAA278I18.genome.CDS.1366;Product=DNA polymerase III beta subunit %28EC 2.7.7.7%29;locus_tag=AAA278I18.genome.CDS.1366
+AAA278I18.contig.6	feature	CDS	14696	15784	.	-	0	ID=AAA278I18.genome.CDS.1365;Product=DNA recombination and repair protein RecF;locus_tag=AAA278I18.genome.CDS.1365
+AAA278I18.contig.6	feature	CDS	14247	14699	.	-	0	ID=AAA278I18.genome.CDS.1364;Product=Zn-ribbon-containing%2C possibly RNA-binding protein and truncated derivatives;locus_tag=AAA278I18.genome.CDS.1364
+AAA278I18.contig.6	feature	CDS	12102	14096	.	-	0	ID=AAA278I18.genome.CDS.1363;Product=DNA gyrase subunit B %28EC 5.99.1.3%29;locus_tag=AAA278I18.genome.CDS.1363
+AAA278I18.contig.6	feature	CDS	9606	12089	.	-	0	ID=AAA278I18.genome.CDS.1362;Product=DNA gyrase subunit A %28EC 5.99.1.3%29;locus_tag=AAA278I18.genome.CDS.1362
+AAA278I18.contig.6	feature	tRNA	9444	9521	.	-	.	ID=AAA278I18.genome.rna.9;Product=tRNA-Ile-GAT;locus_tag=AAA278I18.genome.rna.9
+AAA278I18.contig.6	feature	tRNA	9356	9431	.	-	.	ID=AAA278I18.genome.rna.10;Product=tRNA-Ala-TGC;locus_tag=AAA278I18.genome.rna.10
+AAA278I18.contig.6	feature	CDS	8764	9273	.	-	0	ID=AAA278I18.genome.CDS.1361;Product=Peptidyl-prolyl cis-trans isomerase %28EC 5.2.1.8%29;locus_tag=AAA278I18.genome.CDS.1361
+AAA278I18.contig.6	feature	CDS	8223	8759	.	-	0	ID=AAA278I18.genome.CDS.1360;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1360
+AAA278I18.contig.6	feature	CDS	6241	8070	.	-	0	ID=AAA278I18.genome.CDS.1359;Product=Chaperone protein DnaK;locus_tag=AAA278I18.genome.CDS.1359
+AAA278I18.contig.6	feature	CDS	5738	6241	.	-	0	ID=AAA278I18.genome.CDS.1358;Product=Heat shock protein GrpE;locus_tag=AAA278I18.genome.CDS.1358
+AAA278I18.contig.6	feature	CDS	4813	5727	.	-	0	ID=AAA278I18.genome.CDS.1357;Product=Chaperone protein DnaJ;locus_tag=AAA278I18.genome.CDS.1357
+AAA278I18.contig.6	feature	CDS	4439	4816	.	-	0	ID=AAA278I18.genome.CDS.1356;Product=HspR%2C transcriptional repressor of DnaK operon;locus_tag=AAA278I18.genome.CDS.1356
+AAA278I18.contig.6	feature	CDS	2427	3947	.	+	0	ID=AAA278I18.genome.CDS.1354;Product=Pyrophosphate-energized proton pump %28EC 3.6.1.1%29;locus_tag=AAA278I18.genome.CDS.1354
+AAA278I18.contig.6	feature	CDS	1649	2275	.	-	0	ID=AAA278I18.genome.CDS.1353;Product=DedA protein;locus_tag=AAA278I18.genome.CDS.1353
+AAA278I18.contig.6	feature	CDS	550	1644	.	-	0	ID=AAA278I18.genome.CDS.1352;Product=;locus_tag=AAA278I18.genome.CDS.1352
+AAA278I18.contig.6	feature	CDS	16	549	.	+	0	ID=AAA278I18.genome.CDS.1351;Product=Orotate phosphoribosyltransferase %28EC 2.4.2.10%29;locus_tag=AAA278I18.genome.CDS.1351
+AAA278I18.contig.7	feature	CDS	64466	65347	.	-	0	ID=AAA278I18.genome.CDS.1487;Product=Cytosol aminopeptidase PepA %28EC 3.4.11.1%29;locus_tag=AAA278I18.genome.CDS.1487
+AAA278I18.contig.7	feature	CDS	63828	64469	.	-	0	ID=AAA278I18.genome.CDS.516;Product=;locus_tag=AAA278I18.genome.CDS.516
+AAA278I18.contig.7	feature	CDS	62703	63827	.	-	0	ID=AAA278I18.genome.CDS.1485;Product=;locus_tag=AAA278I18.genome.CDS.1485
+AAA278I18.contig.7	feature	CDS	62404	62700	.	-	0	ID=AAA278I18.genome.CDS.1484;Product=Twin-arginine translocation protein TatB;locus_tag=AAA278I18.genome.CDS.1484
+AAA278I18.contig.7	feature	CDS	61292	62407	.	-	0	ID=AAA278I18.genome.CDS.1483;Product=Mrp protein homolog;locus_tag=AAA278I18.genome.CDS.1483
+AAA278I18.contig.7	feature	CDS	60801	61295	.	+	0	ID=AAA278I18.genome.CDS.1482;Product=putative integral membrane protein;locus_tag=AAA278I18.genome.CDS.1482
+AAA278I18.contig.7	feature	CDS	59524	60798	.	+	0	ID=AAA278I18.genome.CDS.1481;Product=Mg/Co/Ni transporter MgtE%2C CBS domain-containing;locus_tag=AAA278I18.genome.CDS.1481
+AAA278I18.contig.7	feature	CDS	58551	59459	.	-	0	ID=AAA278I18.genome.CDS.1480;Product=;locus_tag=AAA278I18.genome.CDS.1480
+AAA278I18.contig.7	feature	CDS	57703	58551	.	-	0	ID=AAA278I18.genome.CDS.1479;Product=FIG00031715: Predicted metal-dependent phosphoesterases %28PHP family%29;locus_tag=AAA278I18.genome.CDS.1479
+AAA278I18.contig.7	feature	CDS	57428	57691	.	+	0	ID=AAA278I18.genome.CDS.1478;Product=;locus_tag=AAA278I18.genome.CDS.1478
+AAA278I18.contig.7	feature	CDS	56782	57390	.	+	0	ID=AAA278I18.genome.CDS.1477;Product=Transcriptional regulator%2C TetR family;locus_tag=AAA278I18.genome.CDS.1477
+AAA278I18.contig.7	feature	CDS	55852	56721	.	-	0	ID=AAA278I18.genome.CDS.1476;Product=1D-myo-inositol 2-acetamido-2-deoxy-alpha-D-glucopyranoside deacetylase %28EC 3.5.1.103%29;locus_tag=AAA278I18.genome.CDS.1476
+AAA278I18.contig.7	feature	CDS	55529	55852	.	-	0	ID=AAA278I18.genome.CDS.1475;Product=;locus_tag=AAA278I18.genome.CDS.1475
+AAA278I18.contig.7	feature	CDS	54132	55532	.	+	0	ID=AAA278I18.genome.CDS.1474;Product=Cysteinyl-tRNA synthetase %28EC 6.1.1.16%29;locus_tag=AAA278I18.genome.CDS.1474
+AAA278I18.contig.7	feature	CDS	53953	54135	.	+	0	ID=AAA278I18.genome.CDS.1473;Product=;locus_tag=AAA278I18.genome.CDS.1473
+AAA278I18.contig.7	feature	CDS	53539	53859	.	-	0	ID=AAA278I18.genome.CDS.1472;Product=Ferredoxin;locus_tag=AAA278I18.genome.CDS.1472
+AAA278I18.contig.7	feature	CDS	52486	53535	.	-	0	ID=AAA278I18.genome.CDS.1471;Product=N-succinyl-L%2CL-diaminopimelate aminotransferase %28EC 2.6.1.17%29%2C type 2;locus_tag=AAA278I18.genome.CDS.1471
+AAA278I18.contig.7	feature	CDS	51518	52489	.	-	0	ID=AAA278I18.genome.CDS.1470;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1470
+AAA278I18.contig.7	feature	CDS	51137	51403	.	-	0	ID=AAA278I18.genome.CDS.1469;Product=Sporulation regulatory protein WhiB;locus_tag=AAA278I18.genome.CDS.1469
+AAA278I18.contig.7	feature	CDS	48009	51128	.	-	0	ID=AAA278I18.genome.CDS.1468;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1468
+AAA278I18.contig.7	feature	CDS	46681	48012	.	-	0	ID=AAA278I18.genome.CDS.1467;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1467
+AAA278I18.contig.7	feature	CDS	46291	46641	.	-	0	ID=AAA278I18.genome.CDS.1466;Product=;locus_tag=AAA278I18.genome.CDS.1466
+AAA278I18.contig.7	feature	CDS	44900	46255	.	-	0	ID=AAA278I18.genome.CDS.1465;Product=Phosphomannomutase %28EC 5.4.2.8%29;locus_tag=AAA278I18.genome.CDS.1465
+AAA278I18.contig.7	feature	CDS	43539	44816	.	-	0	ID=AAA278I18.genome.CDS.1464;Product=Adenosylhomocysteinase %28EC 3.3.1.1%29;locus_tag=AAA278I18.genome.CDS.1464
+AAA278I18.contig.7	feature	CDS	42864	43538	.	-	0	ID=AAA278I18.genome.CDS.1463;Product=Phosphate regulon transcriptional regulatory protein PhoB %28SphR%29;locus_tag=AAA278I18.genome.CDS.1463
+AAA278I18.contig.7	feature	CDS	41326	42861	.	-	0	ID=AAA278I18.genome.CDS.1462;Product=Sensor histidine kinase MtrB %28EC 2.7.3.-%29;locus_tag=AAA278I18.genome.CDS.1462
+AAA278I18.contig.7	feature	CDS	40598	41269	.	-	0	ID=AAA278I18.genome.CDS.1461;Product=;locus_tag=AAA278I18.genome.CDS.1461
+AAA278I18.contig.7	feature	CDS	37885	40548	.	-	0	ID=AAA278I18.genome.CDS.1460;Product=Protein export cytoplasm protein SecA ATPase RNA helicase %28TC 3.A.5.1.1%29;locus_tag=AAA278I18.genome.CDS.1460
+AAA278I18.contig.7	feature	CDS	37448	37888	.	+	0	ID=AAA278I18.genome.CDS.1459;Product=;locus_tag=AAA278I18.genome.CDS.1459
+AAA278I18.contig.7	feature	CDS	36770	37363	.	-	0	ID=AAA278I18.genome.CDS.1458;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1458
+AAA278I18.contig.7	feature	CDS	35842	36786	.	-	0	ID=AAA278I18.genome.CDS.1457;Product=;locus_tag=AAA278I18.genome.CDS.1457
+AAA278I18.contig.7	feature	CDS	34357	35823	.	-	0	ID=AAA278I18.genome.CDS.1456;Product=Signal transduction histidine kinase%2C subgroup 2;locus_tag=AAA278I18.genome.CDS.1456
+AAA278I18.contig.7	feature	CDS	34092	34364	.	+	0	ID=AAA278I18.genome.CDS.1455;Product=WhiB-like transcription regulator;locus_tag=AAA278I18.genome.CDS.1455
+AAA278I18.contig.7	feature	tRNA	33877	33948	.	+	.	ID=AAA278I18.genome.rna.11;Product=tRNA-Arg-CCG;locus_tag=AAA278I18.genome.rna.11
+AAA278I18.contig.7	feature	CDS	33237	33770	.	-	0	ID=AAA278I18.genome.CDS.1454;Product=Peptide methionine sulfoxide reductase MsrA %28EC 1.8.4.11%29;locus_tag=AAA278I18.genome.CDS.1454
+AAA278I18.contig.7	feature	CDS	32804	33244	.	-	0	ID=AAA278I18.genome.CDS.1453;Product=Peptide methionine sulfoxide reductase MsrB %28EC 1.8.4.12%29;locus_tag=AAA278I18.genome.CDS.1453
+AAA278I18.contig.7	feature	CDS	31610	32743	.	-	0	ID=AAA278I18.genome.CDS.1452;Product=Cystathionine gamma-synthase %28EC 2.5.1.48%29;locus_tag=AAA278I18.genome.CDS.1452
+AAA278I18.contig.7	feature	CDS	31124	31609	.	-	0	ID=AAA278I18.genome.CDS.1451;Product=;locus_tag=AAA278I18.genome.CDS.1451
+AAA278I18.contig.7	feature	CDS	30939	31088	.	-	0	ID=AAA278I18.genome.CDS.1450;Product=;locus_tag=AAA278I18.genome.CDS.1450
+AAA278I18.contig.7	feature	CDS	30558	30938	.	-	0	ID=AAA278I18.genome.CDS.1449;Product=;locus_tag=AAA278I18.genome.CDS.1449
+AAA278I18.contig.7	feature	CDS	29784	30563	.	+	0	ID=AAA278I18.genome.CDS.477;Product=Teichoic acid export ATP-binding protein TagH %28EC 3.6.3.40%29;locus_tag=AAA278I18.genome.CDS.477
+AAA278I18.contig.7	feature	CDS	28898	29770	.	+	0	ID=AAA278I18.genome.CDS.1447;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1447
+AAA278I18.contig.7	feature	CDS	27984	28892	.	+	0	ID=AAA278I18.genome.CDS.1446;Product=Integral membrane protein TerC;locus_tag=AAA278I18.genome.CDS.1446
+AAA278I18.contig.7	feature	CDS	26595	27983	.	+	0	ID=AAA278I18.genome.CDS.1445;Product=D-Lactate dehydrogenase%2C cytochrome c-dependent %28EC 1.1.2.4%29;locus_tag=AAA278I18.genome.CDS.1445
+AAA278I18.contig.7	feature	CDS	25024	26418	.	-	0	ID=AAA278I18.genome.CDS.1444;Product=Glutamate-1-semialdehyde aminotransferase %28EC 5.4.3.8%29;locus_tag=AAA278I18.genome.CDS.1444
+AAA278I18.contig.7	feature	CDS	23537	25021	.	+	0	ID=AAA278I18.genome.CDS.1443;Product=Methylmalonate-semialdehyde dehydrogenase %5Binositol%5D %28EC 1.2.1.27%29;locus_tag=AAA278I18.genome.CDS.1443
+AAA278I18.contig.7	feature	CDS	22093	23430	.	-	0	ID=AAA278I18.genome.CDS.1442;Product=PLP-dependent aminotransferase NCgl2355 %28class III%29;locus_tag=AAA278I18.genome.CDS.1442
+AAA278I18.contig.7	feature	CDS	21157	22080	.	-	0	ID=AAA278I18.genome.CDS.1441;Product=Ribokinase %28EC 2.7.1.15%29;locus_tag=AAA278I18.genome.CDS.1441
+AAA278I18.contig.7	feature	CDS	20768	21157	.	-	0	ID=AAA278I18.genome.CDS.1440;Product=Ribose ABC transport system%2C high affinity permease RbsD %28TC 3.A.1.2.1%29;locus_tag=AAA278I18.genome.CDS.1440
+AAA278I18.contig.7	feature	CDS	19765	20760	.	-	0	ID=AAA278I18.genome.CDS.1439;Product=Myo-inositol 2-dehydrogenase %28EC 1.1.1.18%29;locus_tag=AAA278I18.genome.CDS.1439
+AAA278I18.contig.7	feature	CDS	19098	19730	.	-	0	ID=AAA278I18.genome.CDS.1438;Product=Pantothenate kinase %28EC 2.7.1.33%29;locus_tag=AAA278I18.genome.CDS.1438
+AAA278I18.contig.7	feature	CDS	18751	18963	.	-	0	ID=AAA278I18.genome.CDS.1437;Product=;locus_tag=AAA278I18.genome.CDS.1437
+AAA278I18.contig.7	feature	CDS	18427	18750	.	-	0	ID=AAA278I18.genome.CDS.1436;Product=;locus_tag=AAA278I18.genome.CDS.1436
+AAA278I18.contig.7	feature	CDS	18042	18440	.	-	0	ID=AAA278I18.genome.CDS.1435;Product=;locus_tag=AAA278I18.genome.CDS.1435
+AAA278I18.contig.7	feature	CDS	17581	18051	.	-	0	ID=AAA278I18.genome.CDS.1434;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1434
+AAA278I18.contig.7	feature	CDS	16459	17565	.	-	0	ID=AAA278I18.genome.CDS.1433;Product=Peptide chain release factor 2;locus_tag=AAA278I18.genome.CDS.1433
+AAA278I18.contig.7	feature	CDS	15645	16334	.	-	0	ID=AAA278I18.genome.CDS.1432;Product=Cell division transporter%2C ATP-binding protein FtsE %28TC 3.A.5.1.1%29;locus_tag=AAA278I18.genome.CDS.1432
+AAA278I18.contig.7	feature	CDS	14713	15615	.	-	0	ID=AAA278I18.genome.CDS.1431;Product=Cell division protein FtsX;locus_tag=AAA278I18.genome.CDS.1431
+AAA278I18.contig.7	feature	CDS	14164	14682	.	-	0	ID=AAA278I18.genome.CDS.1430;Product=tmRNA-binding protein SmpB;locus_tag=AAA278I18.genome.CDS.1430
+AAA278I18.contig.7	feature	CDS	13424	13696	.	+	0	ID=AAA278I18.genome.CDS.1429;Product=;locus_tag=AAA278I18.genome.CDS.1429
+AAA278I18.contig.7	feature	CDS	10688	13414	.	+	0	ID=AAA278I18.genome.CDS.1428;Product=Pyruvate dehydrogenase E1 component %28EC 1.2.4.1%29;locus_tag=AAA278I18.genome.CDS.1428
+AAA278I18.contig.7	feature	CDS	10137	10574	.	-	0	ID=AAA278I18.genome.CDS.1427;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1427
+AAA278I18.contig.7	feature	CDS	9651	10109	.	-	0	ID=AAA278I18.genome.CDS.1426;Product=Alkyl hydroperoxide reductase subunit C-like protein;locus_tag=AAA278I18.genome.CDS.1426
+AAA278I18.contig.7	feature	tRNA	9523	9597	.	-	.	ID=AAA278I18.genome.rna.12;Product=tRNA-Val-TAC;locus_tag=AAA278I18.genome.rna.12
+AAA278I18.contig.7	feature	CDS	7901	9442	.	+	0	ID=AAA278I18.genome.CDS.1425;Product=;locus_tag=AAA278I18.genome.CDS.1425
+AAA278I18.contig.7	feature	CDS	6818	7900	.	+	0	ID=AAA278I18.genome.CDS.1424;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1424
+AAA278I18.contig.7	feature	CDS	5382	6500	.	+	0	ID=AAA278I18.genome.CDS.1423;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1423
+AAA278I18.contig.7	feature	CDS	3807	5378	.	+	0	ID=AAA278I18.genome.CDS.1422;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1422
+AAA278I18.contig.7	feature	CDS	2507	3667	.	-	0	ID=AAA278I18.genome.CDS.1421;Product=Indoleamine 2%2C3-dioxygenase %28EC 1.13.11.52%29;locus_tag=AAA278I18.genome.CDS.1421
+AAA278I18.contig.7	feature	CDS	1672	2397	.	-	0	ID=AAA278I18.genome.CDS.1420;Product=FIG137478: Hypothetical protein;locus_tag=AAA278I18.genome.CDS.1420
+AAA278I18.contig.7	feature	CDS	1268	1672	.	-	0	ID=AAA278I18.genome.CDS.448;Product=FIG006762: Phosphoglycerate mutase family;locus_tag=AAA278I18.genome.CDS.448
+AAA278I18.contig.7	feature	CDS	425	655	.	-	0	ID=AAA278I18.genome.CDS.1418;Product=;locus_tag=AAA278I18.genome.CDS.1418
+AAA278I18.contig.7	feature	CDS	2	241	.	-	0	ID=AAA278I18.genome.CDS.1417;Product=;locus_tag=AAA278I18.genome.CDS.1417
+AAA278I18.contig.8	feature	CDS	63865	64638	.	-	0	ID=AAA278I18.genome.CDS.1547;Product=Pantothenate kinase type III%2C CoaX-like %28EC 2.7.1.33%29;locus_tag=AAA278I18.genome.CDS.1547
+AAA278I18.contig.8	feature	CDS	62329	63825	.	-	0	ID=AAA278I18.genome.CDS.1546;Product=Lysyl-tRNA synthetase %28class II%29 %28EC 6.1.1.6%29;locus_tag=AAA278I18.genome.CDS.1546
+AAA278I18.contig.8	feature	CDS	61832	62329	.	-	0	ID=AAA278I18.genome.CDS.1545;Product=N-acetylglutamate synthase %28EC 2.3.1.1%29;locus_tag=AAA278I18.genome.CDS.1545
+AAA278I18.contig.8	feature	CDS	59186	61687	.	-	0	ID=AAA278I18.genome.CDS.1544;Product=ATP-dependent Clp protease%2C ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB;locus_tag=AAA278I18.genome.CDS.1544
+AAA278I18.contig.8	feature	CDS	58410	59186	.	-	0	ID=AAA278I18.genome.CDS.1543;Product=3-oxoacyl-%5Bacyl-carrier protein%5D reductase %28EC 1.1.1.100%29;locus_tag=AAA278I18.genome.CDS.1543
+AAA278I18.contig.8	feature	CDS	57047	58417	.	+	0	ID=AAA278I18.genome.CDS.1542;Product=DNA repair protein RadA;locus_tag=AAA278I18.genome.CDS.1542
+AAA278I18.contig.8	feature	CDS	56160	57020	.	+	0	ID=AAA278I18.genome.CDS.1541;Product=;locus_tag=AAA278I18.genome.CDS.1541
+AAA278I18.contig.8	feature	CDS	55291	56103	.	-	0	ID=AAA278I18.genome.CDS.1540;Product=Pyrroline-5-carboxylate reductase %28EC 1.5.1.2%29;locus_tag=AAA278I18.genome.CDS.1540
+AAA278I18.contig.8	feature	CDS	54071	55294	.	-	0	ID=AAA278I18.genome.CDS.1539;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1539
+AAA278I18.contig.8	feature	CDS	53932	54030	.	-	0	ID=AAA278I18.genome.CDS.1538;Product=FIG00945572: hypothetical protein;locus_tag=AAA278I18.genome.CDS.1538
+AAA278I18.contig.8	feature	CDS	51571	53925	.	+	0	ID=AAA278I18.genome.CDS.1537;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1537
+AAA278I18.contig.8	feature	CDS	51208	51444	.	-	0	ID=AAA278I18.genome.CDS.1536;Product=;locus_tag=AAA278I18.genome.CDS.1536
+AAA278I18.contig.8	feature	CDS	49565	51211	.	+	0	ID=AAA278I18.genome.CDS.1535;Product=DNA repair helicase;locus_tag=AAA278I18.genome.CDS.1535
+AAA278I18.contig.8	feature	CDS	49137	49568	.	+	0	ID=AAA278I18.genome.CDS.1534;Product=Pantothenate kinase type III%2C CoaX-like %28EC 2.7.1.33%29;locus_tag=AAA278I18.genome.CDS.1534
+AAA278I18.contig.8	feature	CDS	48265	49137	.	+	0	ID=AAA278I18.genome.CDS.1533;Product=Quinolinate phosphoribosyltransferase %5Bdecarboxylating%5D %28EC 2.4.2.19%29;locus_tag=AAA278I18.genome.CDS.1533
+AAA278I18.contig.8	feature	CDS	46664	48268	.	+	0	ID=AAA278I18.genome.CDS.1532;Product=L-aspartate oxidase %28EC 1.4.3.16%29;locus_tag=AAA278I18.genome.CDS.1532
+AAA278I18.contig.8	feature	CDS	45879	46667	.	+	0	ID=AAA278I18.genome.CDS.1531;Product=Pantoate--beta-alanine ligase %28EC 6.3.2.1%29;locus_tag=AAA278I18.genome.CDS.1531
+AAA278I18.contig.8	feature	CDS	45384	45839	.	+	0	ID=AAA278I18.genome.CDS.1530;Product=2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase %28EC 2.7.6.3%29;locus_tag=AAA278I18.genome.CDS.1530
+AAA278I18.contig.8	feature	CDS	45031	45387	.	+	0	ID=AAA278I18.genome.CDS.1529;Product=Dihydroneopterin aldolase %28EC 4.1.2.25%29;locus_tag=AAA278I18.genome.CDS.1529
+AAA278I18.contig.8	feature	CDS	44237	45034	.	+	0	ID=AAA278I18.genome.CDS.1528;Product=Dihydropteroate synthase %28EC 2.5.1.15%29;locus_tag=AAA278I18.genome.CDS.1528
+AAA278I18.contig.8	feature	CDS	43611	44231	.	+	0	ID=AAA278I18.genome.CDS.1527;Product=GTP cyclohydrolase I %28EC 3.5.4.16%29 type 1;locus_tag=AAA278I18.genome.CDS.1527
+AAA278I18.contig.8	feature	CDS	41549	43618	.	+	0	ID=AAA278I18.genome.CDS.1526;Product=Cell division protein FtsH %28EC 3.4.24.-%29;locus_tag=AAA278I18.genome.CDS.1526
+AAA278I18.contig.8	feature	CDS	40960	41511	.	+	0	ID=AAA278I18.genome.CDS.1525;Product=Hypoxanthine-guanine phosphoribosyltransferase %28EC 2.4.2.8%29;locus_tag=AAA278I18.genome.CDS.1525
+AAA278I18.contig.8	feature	CDS	39986	40945	.	+	0	ID=AAA278I18.genome.CDS.1524;Product=tRNA%28Ile%29-lysidine synthetase %28EC 6.3.4.19%29;locus_tag=AAA278I18.genome.CDS.1524
+AAA278I18.contig.8	feature	CDS	38783	39976	.	+	0	ID=AAA278I18.genome.CDS.1523;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1523
+AAA278I18.contig.8	feature	CDS	37991	38782	.	+	0	ID=AAA278I18.genome.CDS.1522;Product=;locus_tag=AAA278I18.genome.CDS.1522
+AAA278I18.contig.8	feature	CDS	37083	37988	.	+	0	ID=AAA278I18.genome.CDS.1521;Product=ABC transporter%2C ATP-binding protein;locus_tag=AAA278I18.genome.CDS.1521
+AAA278I18.contig.8	feature	CDS	36221	37051	.	+	0	ID=AAA278I18.genome.CDS.1520;Product=Heme O synthase%2C protoheme IX farnesyltransferase %28EC 2.5.1.-%29 COX10-CtaB;locus_tag=AAA278I18.genome.CDS.1520
+AAA278I18.contig.8	feature	CDS	34997	36160	.	+	0	ID=AAA278I18.genome.CDS.1519;Product=D-alanyl-D-alanine carboxypeptidase %28EC 3.4.16.4%29;locus_tag=AAA278I18.genome.CDS.1519
+AAA278I18.contig.8	feature	CDS	34110	34997	.	+	0	ID=AAA278I18.genome.CDS.1518;Product=Permease of the drug/metabolite transporter %28DMT%29 superfamily;locus_tag=AAA278I18.genome.CDS.1518
+AAA278I18.contig.8	feature	CDS	33428	34081	.	-	0	ID=AAA278I18.genome.CDS.1517;Product=spoU rRNA methylase family protein;locus_tag=AAA278I18.genome.CDS.1517
+AAA278I18.contig.8	feature	CDS	33172	33423	.	+	0	ID=AAA278I18.genome.CDS.1516;Product=;locus_tag=AAA278I18.genome.CDS.1516
+AAA278I18.contig.8	feature	CDS	32386	33171	.	+	0	ID=AAA278I18.genome.CDS.1515;Product=;locus_tag=AAA278I18.genome.CDS.1515
+AAA278I18.contig.8	feature	CDS	31517	32251	.	-	0	ID=AAA278I18.genome.CDS.1514;Product=;locus_tag=AAA278I18.genome.CDS.1514
+AAA278I18.contig.8	feature	CDS	30745	31530	.	-	0	ID=AAA278I18.genome.CDS.1513;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1513
+AAA278I18.contig.8	feature	CDS	28895	30748	.	-	0	ID=AAA278I18.genome.CDS.1512;Product=Cytochrome c oxidase polypeptide I %28EC 1.9.3.1%29;locus_tag=AAA278I18.genome.CDS.1512
+AAA278I18.contig.8	feature	CDS	28302	28895	.	-	0	ID=AAA278I18.genome.CDS.1511;Product=;locus_tag=AAA278I18.genome.CDS.1511
+AAA278I18.contig.8	feature	CDS	27477	28292	.	+	0	ID=AAA278I18.genome.CDS.1510;Product=;locus_tag=AAA278I18.genome.CDS.1510
+AAA278I18.contig.8	feature	CDS	26675	27436	.	+	0	ID=AAA278I18.genome.CDS.1509;Product=Thiamin biosynthesis lipoprotein ApbE;locus_tag=AAA278I18.genome.CDS.1509
+AAA278I18.contig.8	feature	CDS	26065	26664	.	+	0	ID=AAA278I18.genome.CDS.1508;Product=;locus_tag=AAA278I18.genome.CDS.1508
+AAA278I18.contig.8	feature	CDS	24721	26049	.	+	0	ID=AAA278I18.genome.CDS.1507;Product=Flavodoxin reductases %28ferredoxin-NADPH reductases%29 family 1;locus_tag=AAA278I18.genome.CDS.1507
+AAA278I18.contig.8	feature	CDS	23681	24622	.	+	0	ID=AAA278I18.genome.CDS.1506;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1506
+AAA278I18.contig.8	feature	CDS	21883	23478	.	-	0	ID=AAA278I18.genome.CDS.1505;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1505
+AAA278I18.contig.8	feature	CDS	20395	21780	.	-	0	ID=AAA278I18.genome.CDS.1504;Product=Inosine-5%27-monophosphate dehydrogenase %28EC 1.1.1.205%29 / CBS domain;locus_tag=AAA278I18.genome.CDS.1504
+AAA278I18.contig.8	feature	CDS	18977	20398	.	+	0	ID=AAA278I18.genome.CDS.1503;Product=Cytosine/purine/uracil/thiamine/allantoin permease family protein;locus_tag=AAA278I18.genome.CDS.1503
+AAA278I18.contig.8	feature	CDS	17653	18951	.	+	0	ID=AAA278I18.genome.CDS.1502;Product=ATP-dependent RNA helicase;locus_tag=AAA278I18.genome.CDS.1502
+AAA278I18.contig.8	feature	CDS	16605	17567	.	+	0	ID=AAA278I18.genome.CDS.1501;Product=;locus_tag=AAA278I18.genome.CDS.1501
+AAA278I18.contig.8	feature	CDS	15667	16566	.	-	0	ID=AAA278I18.genome.CDS.1500;Product=;locus_tag=AAA278I18.genome.CDS.1500
+AAA278I18.contig.8	feature	CDS	14329	15663	.	+	0	ID=AAA278I18.genome.CDS.1499;Product=;locus_tag=AAA278I18.genome.CDS.1499
+AAA278I18.contig.8	feature	CDS	13412	14161	.	-	0	ID=AAA278I18.genome.CDS.528;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.528
+AAA278I18.contig.8	feature	CDS	12422	13423	.	+	0	ID=AAA278I18.genome.CDS.1497;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1497
+AAA278I18.contig.8	feature	CDS	11515	12432	.	+	0	ID=AAA278I18.genome.CDS.1496;Product=;locus_tag=AAA278I18.genome.CDS.1496
+AAA278I18.contig.8	feature	CDS	10578	11510	.	+	0	ID=AAA278I18.genome.CDS.1495;Product=UDP-glucuronate decarboxylase %28EC 4.1.1.35%29;locus_tag=AAA278I18.genome.CDS.1495
+AAA278I18.contig.8	feature	CDS	8725	10545	.	+	0	ID=AAA278I18.genome.CDS.1494;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1494
+AAA278I18.contig.8	feature	CDS	8083	8715	.	+	0	ID=AAA278I18.genome.CDS.1493;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1493
+AAA278I18.contig.8	feature	CDS	7094	8059	.	+	0	ID=AAA278I18.genome.CDS.1492;Product=UDP-glucose 4-epimerase %28EC 5.1.3.2%29;locus_tag=AAA278I18.genome.CDS.1492
+AAA278I18.contig.8	feature	CDS	5944	7092	.	+	0	ID=AAA278I18.genome.CDS.1491;Product=DNA polymerase III delta prime subunit %28EC 2.7.7.7%29;locus_tag=AAA278I18.genome.CDS.1491
+AAA278I18.contig.8	feature	CDS	3926	5941	.	+	0	ID=AAA278I18.genome.CDS.1490;Product=Thymidylate kinase %28EC 2.7.4.9%29;locus_tag=AAA278I18.genome.CDS.1490
+AAA278I18.contig.8	feature	CDS	2695	3909	.	+	0	ID=AAA278I18.genome.CDS.1489;Product=FAD-dependent oxidoreductase;locus_tag=AAA278I18.genome.CDS.1489
+AAA278I18.contig.8	feature	CDS	2	2695	.	+	0	ID=AAA278I18.genome.CDS.1488;Product=DNA topoisomerase I %28EC 5.99.1.2%29;locus_tag=AAA278I18.genome.CDS.1488
+AAA278I18.contig.9	feature	CDS	45853	47469	.	-	0	ID=AAA278I18.genome.CDS.1598;Product=hypothetical protein;locus_tag=AAA278I18.genome.CDS.1598
+AAA278I18.contig.9	feature	CDS	44918	45877	.	-	0	ID=AAA278I18.genome.CDS.1597;Product=DNA polymerase III delta subunit %28EC 2.7.7.7%29;locus_tag=AAA278I18.genome.CDS.1597
+AAA278I18.contig.9	feature	CDS	44554	44823	.	-	0	ID=AAA278I18.genome.CDS.1596;Product=SSU ribosomal protein S20p;locus_tag=AAA278I18.genome.CDS.1596
+AAA278I18.contig.9	feature	CDS	42663	44528	.	-	0	ID=AAA278I18.genome.CDS.1595;Product=Translation elongation factor LepA;locus_tag=AAA278I18.genome.CDS.1595
+AAA278I18.contig.9	feature	CDS	41517	42662	.	-	0	ID=AAA278I18.genome.CDS.1594;Product=Hypothetical radical SAM family enzyme in heat shock gene cluster%2C similarity with CPO of BS HemN-type;locus_tag=AAA278I18.genome.CDS.1594
+AAA278I18.contig.9	feature	CDS	40491	41492	.	-	0	ID=AAA278I18.genome.CDS.1593;Product=Heat-inducible transcription repressor HrcA;locus_tag=AAA278I18.genome.CDS.1593
+AAA278I18.contig.9	feature	CDS	39378	40487	.	-	0	ID=AAA278I18.genome.CDS.1592;Product=Chaperone protein DnaJ;locus_tag=AAA278I18.genome.CDS.1592
+AAA278I18.contig.9	feature	CDS	38662	39378	.	-	0	ID=AAA278I18.genome.CDS.1591;Product=Ribosomal RNA small subunit methyltransferase E %28EC 2.1.1.-%29;locus_tag=AAA278I18.genome.CDS.1591
+AAA278I18.contig.9	feature	CDS	38324	38668	.	-	0	ID=AAA278I18.genome.CDS.1590;Product=YcfF/hinT protein: a purine nucleoside phosphoramidase;locus_tag=AAA278I18.genome.CDS.1590
+AAA278I18.contig.9	feature	CDS	37309	38307	.	-	0	ID=AAA278I18.genome.CDS.1589;Product=Phosphate starvation-inducible protein PhoH%2C predicted ATPase;locus_tag=AAA278I18.genome.CDS.1589
+AAA278I18.contig.9	feature	CDS	36841	37278	.	-	0	ID=AAA278I18.genome.CDS.1588;Product=Metal-dependent hydrolase YbeY%2C involved in rRNA and/or ribosome maturation and assembly;locus_tag=AAA278I18.genome.CDS.1588
+AAA278I18.contig.9	feature	CDS	35979	36770	.	-	0	ID=AAA278I18.genome.CDS.1587;Product=Fumarylacetoacetate hydrolase family protein;locus_tag=AAA278I18.genome.CDS.1587
+AAA278I18.contig.9	feature	CDS	34526	35989	.	-	0	ID=AAA278I18.genome.CDS.1586;Product=Glutamyl-tRNA synthetase %28EC 6.1.1.17%29 %40 Glutamyl-tRNA%28Gln%29 synthetase %28EC 6.1.1.24%29;locus_tag=AAA278I18.genome.CDS.1586
+AAA278I18.contig.9	feature	tRNA	34409	34483	.	-	.	ID=AAA278I18.genome.rna.13;Product=tRNA-Gln-CTG;locus_tag=AAA278I18.genome.rna.13
+AAA278I18.contig.9	feature	tRNA	34315	34387	.	-	.	ID=AAA278I18.genome.rna.14;Product=tRNA-Glu-CTC;locus_tag=AAA278I18.genome.rna.14
+AAA278I18.contig.9	feature	CDS	33565	34308	.	+	0	ID=AAA278I18.genome.CDS.1585;Product=Transcriptional regulator%2C IclR family;locus_tag=AAA278I18.genome.CDS.1585
+AAA278I18.contig.9	feature	CDS	32115	33512	.	-	0	ID=AAA278I18.genome.CDS.1584;Product=3-isopropylmalate dehydratase large subunit %28EC 4.2.1.33%29;locus_tag=AAA278I18.genome.CDS.1584
+AAA278I18.contig.9	feature	CDS	31517	32113	.	-	0	ID=AAA278I18.genome.CDS.1583;Product=3-isopropylmalate dehydratase small subunit %28EC 4.2.1.33%29;locus_tag=AAA278I18.genome.CDS.1583
+AAA278I18.contig.9	feature	CDS	30926	31342	.	-	0	ID=AAA278I18.genome.CDS.1582;Product=;locus_tag=AAA278I18.genome.CDS.1582
+AAA278I18.contig.9	feature	CDS	30048	30830	.	-	0	ID=AAA278I18.genome.CDS.1581;Product=1-acyl-sn-glycerol-3-phosphate acyltransferase %28EC 2.3.1.51%29;locus_tag=AAA278I18.genome.CDS.1581
+AAA278I18.contig.9	feature	CDS	29053	30051	.	-	0	ID=AAA278I18.genome.CDS.1580;Product=Glycerol-3-phosphate dehydrogenase %5BNAD%28P%29%2B%5D %28EC 1.1.1.94%29;locus_tag=AAA278I18.genome.CDS.1580
+AAA278I18.contig.9	feature	CDS	28010	29053	.	-	0	ID=AAA278I18.genome.CDS.1579;Product=D-alanine--D-alanine ligase %28EC 6.3.2.4%29;locus_tag=AAA278I18.genome.CDS.1579
+AAA278I18.contig.9	feature	CDS	27517	28005	.	-	0	ID=AAA278I18.genome.CDS.1578;Product=Uncharacterized protein SCO3165;locus_tag=AAA278I18.genome.CDS.1578
+AAA278I18.contig.9	feature	CDS	27287	27511	.	-	0	ID=AAA278I18.genome.CDS.1577;Product=Possible transmembrane protein;locus_tag=AAA278I18.genome.CDS.1577
+AAA278I18.contig.9	feature	CDS	27046	27282	.	+	0	ID=AAA278I18.genome.CDS.1576;Product=Transcriptional regulator%2C AsnC family;locus_tag=AAA278I18.genome.CDS.1576
+AAA278I18.contig.9	feature	CDS	26026	26955	.	-	0	ID=AAA278I18.genome.CDS.1575;Product=Thiamine-monophosphate kinase %28EC 2.7.4.16%29;locus_tag=AAA278I18.genome.CDS.1575
+AAA278I18.contig.9	feature	CDS	25839	26024	.	+	0	ID=AAA278I18.genome.CDS.604;Product=LSU ribosomal protein L28p;locus_tag=AAA278I18.genome.CDS.604
+AAA278I18.contig.9	feature	CDS	23523	25736	.	-	0	ID=AAA278I18.genome.CDS.1574;Product=ATP-dependent DNA helicase RecG %28EC 3.6.1.-%29;locus_tag=AAA278I18.genome.CDS.1574
+AAA278I18.contig.9	feature	CDS	22936	23526	.	-	0	ID=AAA278I18.genome.CDS.1573;Product=;locus_tag=AAA278I18.genome.CDS.1573
+AAA278I18.contig.9	feature	CDS	22416	22898	.	-	0	ID=AAA278I18.genome.CDS.1572;Product=Phosphopantetheine adenylyltransferase %28EC 2.7.7.3%29;locus_tag=AAA278I18.genome.CDS.1572
+AAA278I18.contig.9	feature	CDS	21936	22412	.	-	0	ID=AAA278I18.genome.CDS.1571;Product=;locus_tag=AAA278I18.genome.CDS.1571
+AAA278I18.contig.9	feature	CDS	21350	21931	.	-	0	ID=AAA278I18.genome.CDS.1570;Product=COG1399 protein%2C clustered with ribosomal protein L32p;locus_tag=AAA278I18.genome.CDS.1570
+AAA278I18.contig.9	feature	CDS	21104	21277	.	-	0	ID=AAA278I18.genome.CDS.1569;Product=LSU ribosomal protein L32p %40 LSU ribosomal protein L32p%2C zinc-dependent;locus_tag=AAA278I18.genome.CDS.1569
+AAA278I18.contig.9	feature	CDS	20413	20964	.	-	0	ID=AAA278I18.genome.CDS.1568;Product=Ribonuclease III %28EC 3.1.26.3%29;locus_tag=AAA278I18.genome.CDS.1568
+AAA278I18.contig.9	feature	CDS	19549	20388	.	-	0	ID=AAA278I18.genome.CDS.1567;Product=Formamidopyrimidine-DNA glycosylase %28EC 3.2.2.23%29;locus_tag=AAA278I18.genome.CDS.1567
+AAA278I18.contig.9	feature	CDS	16377	19484	.	-	0	ID=AAA278I18.genome.CDS.1566;Product=Chromosome partition protein smc;locus_tag=AAA278I18.genome.CDS.1566
+AAA278I18.contig.9	feature	CDS	15533	16369	.	-	0	ID=AAA278I18.genome.CDS.1565;Product=Signal recognition particle receptor protein FtsY %28%3Dalpha subunit%29 %28TC 3.A.5.1.1%29;locus_tag=AAA278I18.genome.CDS.1565
+AAA278I18.contig.9	feature	CDS	14055	15359	.	-	0	ID=AAA278I18.genome.CDS.1564;Product=Ammonium transporter;locus_tag=AAA278I18.genome.CDS.1564
+AAA278I18.contig.9	feature	CDS	13720	14058	.	-	0	ID=AAA278I18.genome.CDS.1563;Product=Nitrogen regulatory protein P-II;locus_tag=AAA278I18.genome.CDS.1563
+AAA278I18.contig.9	feature	CDS	12266	13699	.	-	0	ID=AAA278I18.genome.CDS.1562;Product=Signal recognition particle%2C subunit Ffh SRP54 %28TC 3.A.5.1.1%29;locus_tag=AAA278I18.genome.CDS.1562
+AAA278I18.contig.9	feature	CDS	11494	12108	.	-	0	ID=AAA278I18.genome.CDS.1561;Product=SSU ribosomal protein S16p;locus_tag=AAA278I18.genome.CDS.1561
+AAA278I18.contig.9	feature	CDS	10803	11480	.	-	0	ID=AAA278I18.genome.CDS.1560;Product=Signal peptidase I %28EC 3.4.21.89%29;locus_tag=AAA278I18.genome.CDS.1560
+AAA278I18.contig.9	feature	CDS	10184	10792	.	-	0	ID=AAA278I18.genome.CDS.1559;Product=Ribonuclease HII %28EC 3.1.26.4%29;locus_tag=AAA278I18.genome.CDS.1559
+AAA278I18.contig.9	feature	CDS	9247	10128	.	-	0	ID=AAA278I18.genome.CDS.1558;Product=Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake;locus_tag=AAA278I18.genome.CDS.1558
+AAA278I18.contig.9	feature	CDS	8306	9229	.	-	0	ID=AAA278I18.genome.CDS.1557;Product=GTP-binding protein Era;locus_tag=AAA278I18.genome.CDS.1557
+AAA278I18.contig.9	feature	CDS	7465	8328	.	+	0	ID=AAA278I18.genome.CDS.1556;Product=Permease of the drug/metabolite transporter %28DMT%29 superfamily;locus_tag=AAA278I18.genome.CDS.1556
+AAA278I18.contig.9	feature	CDS	6526	7464	.	+	0	ID=AAA278I18.genome.CDS.1555;Product=;locus_tag=AAA278I18.genome.CDS.1555
+AAA278I18.contig.9	feature	CDS	5431	6456	.	-	0	ID=AAA278I18.genome.CDS.1554;Product=6-phosphofructokinase %28EC 2.7.1.11%29;locus_tag=AAA278I18.genome.CDS.1554
+AAA278I18.contig.9	feature	CDS	4037	5374	.	-	0	ID=AAA278I18.genome.CDS.1553;Product=2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase II %28EC 2.5.1.54%29;locus_tag=AAA278I18.genome.CDS.1553
+AAA278I18.contig.9	feature	CDS	3504	3998	.	-	0	ID=AAA278I18.genome.CDS.1552;Product=;locus_tag=AAA278I18.genome.CDS.1552
+AAA278I18.contig.9	feature	CDS	2472	3530	.	+	0	ID=AAA278I18.genome.CDS.1551;Product=Low-specificity L-threonine aldolase %28EC 4.1.2.48%29;locus_tag=AAA278I18.genome.CDS.1551
+AAA278I18.contig.9	feature	CDS	1601	2479	.	+	0	ID=AAA278I18.genome.CDS.1550;Product=Permease of the drug/metabolite transporter %28DMT%29 superfamily;locus_tag=AAA278I18.genome.CDS.1550
+AAA278I18.contig.9	feature	CDS	735	1604	.	+	0	ID=AAA278I18.genome.CDS.1549;Product=Endonuclease IV %28EC 3.1.21.2%29;locus_tag=AAA278I18.genome.CDS.1549
+AAA278I18.contig.9	feature	CDS	1	699	.	+	0	ID=AAA278I18.genome.CDS.1548;Product=Serine/threonine protein kinase PrkC%2C regulator of stationary phase;locus_tag=AAA278I18.genome.CDS.1548

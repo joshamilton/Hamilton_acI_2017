@@ -1,0 +1,1006 @@
+##gff-version 3
+MEint1363.contig.1	feature	misc_RNA	58199	66061	.	+	.	ID=MEint1363.genome.repeat.11;Product=repeat region;locus_tag=MEint1363.genome.repeat.11
+MEint1363.contig.1	feature	CDS	65624	65983	.	-	0	ID=MEint1363.genome.CDS.71;Product=Nucleoside ABC transporter%2C permease protein 2;locus_tag=MEint1363.genome.CDS.71
+MEint1363.contig.1	feature	CDS	65225	65623	.	-	0	ID=MEint1363.genome.CDS.1003;Product=Cytidine deaminase %28EC 3.5.4.5%29;locus_tag=MEint1363.genome.CDS.1003
+MEint1363.contig.1	feature	CDS	63929	65218	.	-	0	ID=MEint1363.genome.CDS.1002;Product=Thymidine phosphorylase %28EC 2.4.2.4%29;locus_tag=MEint1363.genome.CDS.1002
+MEint1363.contig.1	feature	CDS	62821	63909	.	-	0	ID=MEint1363.genome.CDS.1001;Product=Adenosine deaminase %28EC 3.5.4.4%29;locus_tag=MEint1363.genome.CDS.1001
+MEint1363.contig.1	feature	CDS	61627	62820	.	-	0	ID=MEint1363.genome.CDS.1000;Product=putative cytochrome P450 hydroxylase;locus_tag=MEint1363.genome.CDS.1000
+MEint1363.contig.1	feature	CDS	60809	61663	.	+	0	ID=MEint1363.genome.CDS.999;Product=Ribokinase %28EC 2.7.1.15%29;locus_tag=MEint1363.genome.CDS.999
+MEint1363.contig.1	feature	CDS	59796	60743	.	-	0	ID=MEint1363.genome.CDS.998;Product=Inosine-uridine preferring nucleoside hydrolase %28EC 3.2.2.1%29;locus_tag=MEint1363.genome.CDS.998
+MEint1363.contig.1	feature	CDS	58950	59795	.	+	0	ID=MEint1363.genome.CDS.997;Product=Aldehyde dehydrogenase %28EC 1.2.1.3%29;locus_tag=MEint1363.genome.CDS.997
+MEint1363.contig.1	feature	CDS	57518	58957	.	+	0	ID=MEint1363.genome.CDS.996;Product=Aldehyde dehydrogenase %28EC 1.2.1.3%29;locus_tag=MEint1363.genome.CDS.996
+MEint1363.contig.1	feature	CDS	56557	57504	.	+	0	ID=MEint1363.genome.CDS.995;Product=Deoxyribose-phosphate aldolase %28EC 4.1.2.4%29;locus_tag=MEint1363.genome.CDS.995
+MEint1363.contig.1	feature	CDS	54904	56520	.	+	0	ID=MEint1363.genome.CDS.994;Product=Phosphomannomutase %28EC 5.4.2.8%29;locus_tag=MEint1363.genome.CDS.994
+MEint1363.contig.1	feature	CDS	54069	54899	.	+	0	ID=MEint1363.genome.CDS.993;Product=Purine nucleoside phosphorylase %28EC 2.4.2.1%29;locus_tag=MEint1363.genome.CDS.993
+MEint1363.contig.1	feature	CDS	52354	54072	.	+	0	ID=MEint1363.genome.CDS.992;Product=Biotin carboxylase of acetyl-CoA carboxylase %28EC 6.3.4.14%29 / Biotin carboxyl carrier protein of acetyl-CoA carboxylase;locus_tag=MEint1363.genome.CDS.992
+MEint1363.contig.1	feature	CDS	51755	52357	.	+	0	ID=MEint1363.genome.CDS.991;Product=Septum formation protein Maf;locus_tag=MEint1363.genome.CDS.991
+MEint1363.contig.1	feature	CDS	51557	51754	.	+	0	ID=MEint1363.genome.CDS.990;Product=;locus_tag=MEint1363.genome.CDS.990
+MEint1363.contig.1	feature	CDS	49989	51560	.	+	0	ID=MEint1363.genome.CDS.989;Product=Acetyl-coenzyme A carboxyl transferase alpha chain %28EC 6.4.1.2%29 / Acetyl-coenzyme A carboxyl transferase beta chain %28EC 6.4.1.2%29%3B Propionyl-CoA carboxylase beta chain %28EC 6.4.1.3%29;locus_tag=MEint1363.genome.CDS.989
+MEint1363.contig.1	feature	CDS	49197	49970	.	-	0	ID=MEint1363.genome.CDS.988;Product=;locus_tag=MEint1363.genome.CDS.988
+MEint1363.contig.1	feature	CDS	48262	49191	.	-	0	ID=MEint1363.genome.CDS.987;Product=Phosphoribosylaminoimidazole carboxylase ATPase subunit %28EC 4.1.1.21%29;locus_tag=MEint1363.genome.CDS.987
+MEint1363.contig.1	feature	CDS	47961	48251	.	+	0	ID=MEint1363.genome.CDS.986;Product=Succinyl-CoA synthetase%2C alpha subunit-related enzymes;locus_tag=MEint1363.genome.CDS.986
+MEint1363.contig.1	feature	CDS	46550	47860	.	+	0	ID=MEint1363.genome.CDS.985;Product=UDP-glucose 6-dehydrogenase %28EC 1.1.1.22%29;locus_tag=MEint1363.genome.CDS.985
+MEint1363.contig.1	feature	CDS	45427	46539	.	+	0	ID=MEint1363.genome.CDS.984;Product=Cell envelope-associated transcriptional attenuator LytR-CpsA-Psr%2C subfamily A1 %28as in PMID19099556%29;locus_tag=MEint1363.genome.CDS.984
+MEint1363.contig.1	feature	CDS	44380	45390	.	-	0	ID=MEint1363.genome.CDS.983;Product=putative glycosyl transferase;locus_tag=MEint1363.genome.CDS.983
+MEint1363.contig.1	feature	CDS	43522	44349	.	-	0	ID=MEint1363.genome.CDS.982;Product=O-antigen export system%2C permease protein;locus_tag=MEint1363.genome.CDS.982
+MEint1363.contig.1	feature	CDS	42738	43544	.	-	0	ID=MEint1363.genome.CDS.981;Product=Teichoic acid export ATP-binding protein TagH %28EC 3.6.3.40%29;locus_tag=MEint1363.genome.CDS.981
+MEint1363.contig.1	feature	CDS	41504	42751	.	-	0	ID=MEint1363.genome.CDS.980;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.980
+MEint1363.contig.1	feature	CDS	40589	41512	.	+	0	ID=MEint1363.genome.CDS.979;Product=2%2C3%2C4%2C5-tetrahydropyridine-2%2C6-dicarboxylate N-succinyltransferase %28EC 2.3.1.117%29;locus_tag=MEint1363.genome.CDS.979
+MEint1363.contig.1	feature	CDS	40016	40558	.	-	0	ID=MEint1363.genome.CDS.978;Product=Lysine decarboxylase family;locus_tag=MEint1363.genome.CDS.978
+MEint1363.contig.1	feature	CDS	39577	40026	.	-	0	ID=MEint1363.genome.CDS.44;Product=;locus_tag=MEint1363.genome.CDS.44
+MEint1363.contig.1	feature	CDS	39322	39555	.	-	0	ID=MEint1363.genome.CDS.976;Product=;locus_tag=MEint1363.genome.CDS.976
+MEint1363.contig.1	feature	CDS	39047	39226	.	-	0	ID=MEint1363.genome.CDS.975;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.975
+MEint1363.contig.1	feature	CDS	37529	39010	.	-	0	ID=MEint1363.genome.CDS.974;Product=Cytosol aminopeptidase PepA %28EC 3.4.11.1%29;locus_tag=MEint1363.genome.CDS.974
+MEint1363.contig.1	feature	CDS	36903	37529	.	-	0	ID=MEint1363.genome.CDS.973;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.973
+MEint1363.contig.1	feature	CDS	35756	36889	.	-	0	ID=MEint1363.genome.CDS.972;Product=;locus_tag=MEint1363.genome.CDS.972
+MEint1363.contig.1	feature	CDS	35430	35729	.	-	0	ID=MEint1363.genome.CDS.971;Product=Twin-arginine translocation protein TatB;locus_tag=MEint1363.genome.CDS.971
+MEint1363.contig.1	feature	CDS	34312	35433	.	-	0	ID=MEint1363.genome.CDS.970;Product=Mrp protein homolog;locus_tag=MEint1363.genome.CDS.970
+MEint1363.contig.1	feature	CDS	33847	34347	.	+	0	ID=MEint1363.genome.CDS.969;Product=putative integral membrane protein;locus_tag=MEint1363.genome.CDS.969
+MEint1363.contig.1	feature	CDS	32536	33846	.	+	0	ID=MEint1363.genome.CDS.968;Product=Mg/Co/Ni transporter MgtE%2C CBS domain-containing;locus_tag=MEint1363.genome.CDS.968
+MEint1363.contig.1	feature	CDS	31559	32464	.	-	0	ID=MEint1363.genome.CDS.967;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.967
+MEint1363.contig.1	feature	CDS	30717	31562	.	-	0	ID=MEint1363.genome.CDS.966;Product=FIG00031715: Predicted metal-dependent phosphoesterases %28PHP family%29;locus_tag=MEint1363.genome.CDS.966
+MEint1363.contig.1	feature	CDS	30103	30720	.	-	0	ID=MEint1363.genome.CDS.965;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.965
+MEint1363.contig.1	feature	CDS	29318	30106	.	-	0	ID=MEint1363.genome.CDS.964;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.964
+MEint1363.contig.1	feature	CDS	28635	29321	.	-	0	ID=MEint1363.genome.CDS.963;Product=;locus_tag=MEint1363.genome.CDS.963
+MEint1363.contig.1	feature	CDS	27328	28638	.	+	0	ID=MEint1363.genome.CDS.962;Product=putative ATP-dependent RNA helicase;locus_tag=MEint1363.genome.CDS.962
+MEint1363.contig.1	feature	CDS	27070	27327	.	+	0	ID=MEint1363.genome.CDS.961;Product=;locus_tag=MEint1363.genome.CDS.961
+MEint1363.contig.1	feature	CDS	26400	27026	.	+	0	ID=MEint1363.genome.CDS.960;Product=Transcriptional regulator%2C TetR family;locus_tag=MEint1363.genome.CDS.960
+MEint1363.contig.1	feature	CDS	25125	26306	.	-	0	ID=MEint1363.genome.CDS.959;Product=Sulfur carrier protein adenylyltransferase ThiF;locus_tag=MEint1363.genome.CDS.959
+MEint1363.contig.1	feature	CDS	24255	25124	.	-	0	ID=MEint1363.genome.CDS.958;Product=1D-myo-inositol 2-acetamido-2-deoxy-alpha-D-glucopyranoside deacetylase %28EC 3.5.1.103%29;locus_tag=MEint1363.genome.CDS.958
+MEint1363.contig.1	feature	CDS	23947	24258	.	-	0	ID=MEint1363.genome.CDS.957;Product=;locus_tag=MEint1363.genome.CDS.957
+MEint1363.contig.1	feature	CDS	22582	23946	.	+	0	ID=MEint1363.genome.CDS.956;Product=Cysteinyl-tRNA synthetase %28EC 6.1.1.16%29;locus_tag=MEint1363.genome.CDS.956
+MEint1363.contig.1	feature	CDS	21590	22582	.	+	0	ID=MEint1363.genome.CDS.955;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.955
+MEint1363.contig.1	feature	CDS	21175	21495	.	-	0	ID=MEint1363.genome.CDS.954;Product=Ferredoxin;locus_tag=MEint1363.genome.CDS.954
+MEint1363.contig.1	feature	CDS	20093	20977	.	-	0	ID=MEint1363.genome.CDS.953;Product=N-succinyl-L%2CL-diaminopimelate aminotransferase %28EC 2.6.1.17%29%2C type 2;locus_tag=MEint1363.genome.CDS.953
+MEint1363.contig.1	feature	CDS	19124	20092	.	-	0	ID=MEint1363.genome.CDS.952;Product=;locus_tag=MEint1363.genome.CDS.952
+MEint1363.contig.1	feature	CDS	18666	18992	.	-	0	ID=MEint1363.genome.CDS.951;Product=Sporulation regulatory protein WhiB;locus_tag=MEint1363.genome.CDS.951
+MEint1363.contig.1	feature	CDS	15585	18626	.	-	0	ID=MEint1363.genome.CDS.950;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.950
+MEint1363.contig.1	feature	CDS	14299	15588	.	-	0	ID=MEint1363.genome.CDS.949;Product=;locus_tag=MEint1363.genome.CDS.949
+MEint1363.contig.1	feature	CDS	13885	14193	.	-	0	ID=MEint1363.genome.CDS.948;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.948
+MEint1363.contig.1	feature	CDS	12510	13874	.	-	0	ID=MEint1363.genome.CDS.947;Product=Phosphomannomutase %28EC 5.4.2.8%29;locus_tag=MEint1363.genome.CDS.947
+MEint1363.contig.1	feature	CDS	11098	12384	.	-	0	ID=MEint1363.genome.CDS.946;Product=Adenosylhomocysteinase %28EC 3.3.1.1%29;locus_tag=MEint1363.genome.CDS.946
+MEint1363.contig.1	feature	CDS	10415	11098	.	-	0	ID=MEint1363.genome.CDS.945;Product=;locus_tag=MEint1363.genome.CDS.945
+MEint1363.contig.1	feature	CDS	8859	10412	.	-	0	ID=MEint1363.genome.CDS.944;Product=Sensor histidine kinase MtrB %28EC 2.7.3.-%29;locus_tag=MEint1363.genome.CDS.944
+MEint1363.contig.1	feature	CDS	8152	8664	.	-	0	ID=MEint1363.genome.CDS.943;Product=;locus_tag=MEint1363.genome.CDS.943
+MEint1363.contig.1	feature	CDS	5435	8104	.	-	0	ID=MEint1363.genome.CDS.942;Product=Protein export cytoplasm protein SecA ATPase RNA helicase %28TC 3.A.5.1.1%29;locus_tag=MEint1363.genome.CDS.942
+MEint1363.contig.1	feature	CDS	4913	5431	.	+	0	ID=MEint1363.genome.CDS.941;Product=;locus_tag=MEint1363.genome.CDS.941
+MEint1363.contig.1	feature	CDS	4189	4788	.	-	0	ID=MEint1363.genome.CDS.940;Product=;locus_tag=MEint1363.genome.CDS.940
+MEint1363.contig.1	feature	CDS	3096	4196	.	-	0	ID=MEint1363.genome.CDS.939;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.939
+MEint1363.contig.1	feature	CDS	2711	3076	.	-	0	ID=MEint1363.genome.CDS.938;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.938
+MEint1363.contig.1	feature	CDS	1242	2711	.	-	0	ID=MEint1363.genome.CDS.937;Product=Signal transduction histidine kinase%2C subgroup 2;locus_tag=MEint1363.genome.CDS.937
+MEint1363.contig.1	feature	CDS	967	1245	.	+	0	ID=MEint1363.genome.CDS.936;Product=WhiB-like transcription regulator;locus_tag=MEint1363.genome.CDS.936
+MEint1363.contig.1	feature	tRNA	716	787	.	+	.	ID=MEint1363.genome.rna.1;Product=tRNA-Arg-CCG;locus_tag=MEint1363.genome.rna.1
+MEint1363.contig.1	feature	CDS	128	658	.	-	0	ID=MEint1363.genome.CDS.935;Product=Peptide methionine sulfoxide reductase MsrA %28EC 1.8.4.11%29;locus_tag=MEint1363.genome.CDS.935
+MEint1363.contig.1	feature	CDS	3	131	.	-	0	ID=MEint1363.genome.CDS.934;Product=;locus_tag=MEint1363.genome.CDS.934
+MEint1363.contig.10	feature	misc_RNA	33749	34983	.	+	.	ID=MEint1363.genome.repeat.7;Product=repeat region;locus_tag=MEint1363.genome.repeat.7
+MEint1363.contig.10	feature	CDS	34334	34981	.	+	0	ID=MEint1363.genome.CDS.1177;Product=3-isopropylmalate dehydrogenase %28EC 1.1.1.85%29;locus_tag=MEint1363.genome.CDS.1177
+MEint1363.contig.10	feature	CDS	33377	34324	.	+	0	ID=MEint1363.genome.CDS.1176;Product=D-3-phosphoglycerate dehydrogenase %28EC 1.1.1.95%29;locus_tag=MEint1363.genome.CDS.1176
+MEint1363.contig.10	feature	CDS	32350	33384	.	+	0	ID=MEint1363.genome.CDS.1175;Product=Ketol-acid reductoisomerase %28EC 1.1.1.86%29;locus_tag=MEint1363.genome.CDS.1175
+MEint1363.contig.10	feature	CDS	32039	32326	.	+	0	ID=MEint1363.genome.CDS.1174;Product=Acetolactate synthase small subunit %28EC 2.2.1.6%29;locus_tag=MEint1363.genome.CDS.1174
+MEint1363.contig.10	feature	CDS	30288	32039	.	+	0	ID=MEint1363.genome.CDS.1173;Product=Acetolactate synthase large subunit %28EC 2.2.1.6%29;locus_tag=MEint1363.genome.CDS.1173
+MEint1363.contig.10	feature	CDS	28410	30083	.	+	0	ID=MEint1363.genome.CDS.1172;Product=Dihydroxy-acid dehydratase %28EC 4.2.1.9%29;locus_tag=MEint1363.genome.CDS.1172
+MEint1363.contig.10	feature	CDS	26900	28354	.	-	0	ID=MEint1363.genome.CDS.1171;Product=transmembrane efflux protein;locus_tag=MEint1363.genome.CDS.1171
+MEint1363.contig.10	feature	CDS	25382	26893	.	+	0	ID=MEint1363.genome.CDS.1170;Product=Aspartyl-tRNA%28Asn%29 amidotransferase subunit B %28EC 6.3.5.6%29 %40 Glutamyl-tRNA%28Gln%29 amidotransferase subunit B %28EC 6.3.5.7%29;locus_tag=MEint1363.genome.CDS.1170
+MEint1363.contig.10	feature	CDS	23889	25385	.	+	0	ID=MEint1363.genome.CDS.1169;Product=Aspartyl-tRNA%28Asn%29 amidotransferase subunit A %28EC 6.3.5.6%29 %40 Glutamyl-tRNA%28Gln%29 amidotransferase subunit A %28EC 6.3.5.7%29;locus_tag=MEint1363.genome.CDS.1169
+MEint1363.contig.10	feature	CDS	23593	23892	.	+	0	ID=MEint1363.genome.CDS.1168;Product=Aspartyl-tRNA%28Asn%29 amidotransferase subunit C %28EC 6.3.5.6%29 %40 Glutamyl-tRNA%28Gln%29 amidotransferase subunit C %28EC 6.3.5.7%29;locus_tag=MEint1363.genome.CDS.1168
+MEint1363.contig.10	feature	CDS	22299	23567	.	+	0	ID=MEint1363.genome.CDS.1167;Product=Gamma-glutamyl phosphate reductase %28EC 1.2.1.41%29;locus_tag=MEint1363.genome.CDS.1167
+MEint1363.contig.10	feature	CDS	21096	22265	.	-	0	ID=MEint1363.genome.CDS.1166;Product=;locus_tag=MEint1363.genome.CDS.1166
+MEint1363.contig.10	feature	CDS	19995	21110	.	+	0	ID=MEint1363.genome.CDS.1165;Product=Glutamate 5-kinase %28EC 2.7.2.11%29 / RNA-binding C-terminal domain PUA;locus_tag=MEint1363.genome.CDS.1165
+MEint1363.contig.10	feature	CDS	18502	19998	.	+	0	ID=MEint1363.genome.CDS.1164;Product=GTP-binding protein Obg;locus_tag=MEint1363.genome.CDS.1164
+MEint1363.contig.10	feature	CDS	18150	18404	.	+	0	ID=MEint1363.genome.CDS.1163;Product=LSU ribosomal protein L27p;locus_tag=MEint1363.genome.CDS.1163
+MEint1363.contig.10	feature	CDS	17801	18109	.	+	0	ID=MEint1363.genome.CDS.1162;Product=LSU ribosomal protein L21p;locus_tag=MEint1363.genome.CDS.1162
+MEint1363.contig.10	feature	CDS	15612	17693	.	+	0	ID=MEint1363.genome.CDS.1161;Product=Cytoplasmic axial filament protein CafA and Ribonuclease G %28EC 3.1.4.-%29;locus_tag=MEint1363.genome.CDS.1161
+MEint1363.contig.10	feature	CDS	15432	15590	.	+	0	ID=MEint1363.genome.CDS.219;Product=;locus_tag=MEint1363.genome.CDS.219
+MEint1363.contig.10	feature	CDS	14241	15401	.	+	0	ID=MEint1363.genome.CDS.1160;Product=Rod shape-determining protein RodA;locus_tag=MEint1363.genome.CDS.1160
+MEint1363.contig.10	feature	CDS	12154	14241	.	+	0	ID=MEint1363.genome.CDS.1159;Product=Penicillin-binding protein 2 %28PBP-2%29;locus_tag=MEint1363.genome.CDS.1159
+MEint1363.contig.10	feature	CDS	11636	12157	.	+	0	ID=MEint1363.genome.CDS.1158;Product=;locus_tag=MEint1363.genome.CDS.1158
+MEint1363.contig.10	feature	CDS	10702	11628	.	+	0	ID=MEint1363.genome.CDS.1157;Product=Rod shape-determining protein MreC;locus_tag=MEint1363.genome.CDS.1157
+MEint1363.contig.10	feature	CDS	9671	10690	.	+	0	ID=MEint1363.genome.CDS.1156;Product=Rod shape-determining protein MreB;locus_tag=MEint1363.genome.CDS.1156
+MEint1363.contig.10	feature	CDS	9236	9658	.	+	0	ID=MEint1363.genome.CDS.1155;Product=Nucleoside diphosphate kinase %28EC 2.7.4.6%29;locus_tag=MEint1363.genome.CDS.1155
+MEint1363.contig.10	feature	CDS	8888	9223	.	+	0	ID=MEint1363.genome.CDS.1154;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1154
+MEint1363.contig.10	feature	CDS	7532	8878	.	+	0	ID=MEint1363.genome.CDS.1153;Product=Dihydrofolate synthase %28EC 6.3.2.12%29 %40 Folylpolyglutamate synthase %28EC 6.3.2.17%29;locus_tag=MEint1363.genome.CDS.1153
+MEint1363.contig.10	feature	CDS	4940	7528	.	+	0	ID=MEint1363.genome.CDS.1152;Product=Valyl-tRNA synthetase %28EC 6.1.1.9%29;locus_tag=MEint1363.genome.CDS.1152
+MEint1363.contig.10	feature	CDS	3629	4924	.	+	0	ID=MEint1363.genome.CDS.1151;Product=ATP-dependent Clp protease ATP-binding subunit ClpX;locus_tag=MEint1363.genome.CDS.1151
+MEint1363.contig.10	feature	CDS	2870	3493	.	+	0	ID=MEint1363.genome.CDS.1150;Product=ATP-dependent Clp protease proteolytic subunit %28EC 3.4.21.92%29;locus_tag=MEint1363.genome.CDS.1150
+MEint1363.contig.10	feature	CDS	2238	2873	.	+	0	ID=MEint1363.genome.CDS.1149;Product=ATP-dependent Clp protease proteolytic subunit %28EC 3.4.21.92%29;locus_tag=MEint1363.genome.CDS.1149
+MEint1363.contig.10	feature	CDS	828	2117	.	+	0	ID=MEint1363.genome.CDS.1148;Product=Cell division trigger factor %28EC 5.2.1.8%29;locus_tag=MEint1363.genome.CDS.1148
+MEint1363.contig.10	feature	tRNA	708	783	.	+	.	ID=MEint1363.genome.rna.8;Product=tRNA-Pro-TGG;locus_tag=MEint1363.genome.rna.8
+MEint1363.contig.10	feature	tRNA	507	580	.	-	.	ID=MEint1363.genome.rna.9;Product=tRNA-Gly-TCC;locus_tag=MEint1363.genome.rna.9
+MEint1363.contig.10	feature	CDS	1	498	.	+	0	ID=MEint1363.genome.CDS.1147;Product=;locus_tag=MEint1363.genome.CDS.1147
+MEint1363.contig.11	feature	CDS	11208	11687	.	-	0	ID=MEint1363.genome.CDS.1192;Product=Uncharacterized protein Rv0487/MT0505 clustered with mycothiol biosynthesis gene;locus_tag=MEint1363.genome.CDS.1192
+MEint1363.contig.11	feature	CDS	10452	11198	.	-	0	ID=MEint1363.genome.CDS.1191;Product=Phosphoglycerate mutase %28EC 5.4.2.11%29;locus_tag=MEint1363.genome.CDS.1191
+MEint1363.contig.11	feature	CDS	9802	10449	.	+	0	ID=MEint1363.genome.CDS.1190;Product=Phosphate transport system regulatory protein PhoU;locus_tag=MEint1363.genome.CDS.1190
+MEint1363.contig.11	feature	CDS	8575	9654	.	-	0	ID=MEint1363.genome.CDS.1189;Product=Phosphate regulon sensor protein PhoR %28SphS%29 %28EC 2.7.13.3%29;locus_tag=MEint1363.genome.CDS.1189
+MEint1363.contig.11	feature	CDS	7892	8578	.	-	0	ID=MEint1363.genome.CDS.1188;Product=Phosphate regulon transcriptional regulatory protein PhoB %28SphR%29;locus_tag=MEint1363.genome.CDS.1188
+MEint1363.contig.11	feature	CDS	7413	7910	.	+	0	ID=MEint1363.genome.CDS.1187;Product=;locus_tag=MEint1363.genome.CDS.1187
+MEint1363.contig.11	feature	CDS	6773	7255	.	-	0	ID=MEint1363.genome.CDS.1186;Product=CarD-like transcriptional regulator;locus_tag=MEint1363.genome.CDS.1186
+MEint1363.contig.11	feature	CDS	5606	6736	.	-	0	ID=MEint1363.genome.CDS.1185;Product=2-C-methyl-D-erythritol 2%2C4-cyclodiphosphate synthase %28EC 4.6.1.12%29;locus_tag=MEint1363.genome.CDS.1185
+MEint1363.contig.11	feature	CDS	4178	5596	.	-	0	ID=MEint1363.genome.CDS.1184;Product=Cysteinyl-tRNA synthetase %28EC 6.1.1.16%29;locus_tag=MEint1363.genome.CDS.1184
+MEint1363.contig.11	feature	CDS	3236	4177	.	-	0	ID=MEint1363.genome.CDS.1183;Product=23S rRNA %28guanosine-2%27-O-%29 -methyltransferase rlmB %28EC 2.1.1.-%29;locus_tag=MEint1363.genome.CDS.1183
+MEint1363.contig.11	feature	CDS	2453	3235	.	-	0	ID=MEint1363.genome.CDS.1182;Product=;locus_tag=MEint1363.genome.CDS.1182
+MEint1363.contig.11	feature	tRNA	2325	2396	.	-	.	ID=MEint1363.genome.rna.10;Product=tRNA-Thr-TGT;locus_tag=MEint1363.genome.rna.10
+MEint1363.contig.11	feature	CDS	2081	2323	.	-	0	ID=MEint1363.genome.CDS.1181;Product=;locus_tag=MEint1363.genome.CDS.1181
+MEint1363.contig.11	feature	CDS	1267	2022	.	+	0	ID=MEint1363.genome.CDS.1180;Product=Proteorhodopsin;locus_tag=MEint1363.genome.CDS.1180
+MEint1363.contig.11	feature	CDS	527	1045	.	-	0	ID=MEint1363.genome.CDS.1179;Product=Carbonic anhydrase %28EC 4.2.1.1%29;locus_tag=MEint1363.genome.CDS.1179
+MEint1363.contig.11	feature	CDS	1	540	.	+	0	ID=MEint1363.genome.CDS.1178;Product=;locus_tag=MEint1363.genome.CDS.1178
+MEint1363.contig.12	feature	CDS	12561	13355	.	+	0	ID=MEint1363.genome.CDS.1205;Product=;locus_tag=MEint1363.genome.CDS.1205
+MEint1363.contig.12	feature	CDS	11541	12473	.	-	0	ID=MEint1363.genome.CDS.1204;Product=Acetamidase %28EC 3.5.1.4%29;locus_tag=MEint1363.genome.CDS.1204
+MEint1363.contig.12	feature	CDS	10708	11544	.	+	0	ID=MEint1363.genome.CDS.1203;Product=Formate dehydrogenase chain D %28EC 1.2.1.2%29;locus_tag=MEint1363.genome.CDS.1203
+MEint1363.contig.12	feature	CDS	9072	10721	.	+	0	ID=MEint1363.genome.CDS.1202;Product=Choline dehydrogenase %28EC 1.1.99.1%29;locus_tag=MEint1363.genome.CDS.1202
+MEint1363.contig.12	feature	CDS	8031	8990	.	+	0	ID=MEint1363.genome.CDS.1201;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1201
+MEint1363.contig.12	feature	CDS	6004	7932	.	+	0	ID=MEint1363.genome.CDS.1200;Product=Glycine betaine ABC transport system%2C permease protein OpuAB;locus_tag=MEint1363.genome.CDS.1200
+MEint1363.contig.12	feature	CDS	4976	6004	.	+	0	ID=MEint1363.genome.CDS.1199;Product=Glycine betaine ABC transport system%2C ATP-binding protein OpuAA %28EC 3.6.3.32%29;locus_tag=MEint1363.genome.CDS.1199
+MEint1363.contig.12	feature	CDS	3488	4975	.	+	0	ID=MEint1363.genome.CDS.1198;Product=Betaine aldehyde dehydrogenase %28EC 1.2.1.8%29;locus_tag=MEint1363.genome.CDS.1198
+MEint1363.contig.12	feature	CDS	2093	3484	.	+	0	ID=MEint1363.genome.CDS.1197;Product=Trimethylamine methyltransferase family protein;locus_tag=MEint1363.genome.CDS.1197
+MEint1363.contig.12	feature	CDS	1945	2073	.	+	0	ID=MEint1363.genome.CDS.1196;Product=;locus_tag=MEint1363.genome.CDS.1196
+MEint1363.contig.12	feature	CDS	1103	1900	.	-	0	ID=MEint1363.genome.CDS.1195;Product=Transcriptional regulator%2C IclR family;locus_tag=MEint1363.genome.CDS.1195
+MEint1363.contig.12	feature	CDS	441	1106	.	-	0	ID=MEint1363.genome.CDS.1194;Product=5-methyltetrahydrofolate--homocysteine methyltransferase %28EC 2.1.1.13%29;locus_tag=MEint1363.genome.CDS.1194
+MEint1363.contig.12	feature	CDS	53	448	.	-	0	ID=MEint1363.genome.CDS.1193;Product=Zinc-finger protein;locus_tag=MEint1363.genome.CDS.1193
+MEint1363.contig.13	feature	CDS	21184	22848	.	-	0	ID=MEint1363.genome.CDS.1231;Product=2-isopropylmalate synthase %28EC 2.3.3.13%29;locus_tag=MEint1363.genome.CDS.1231
+MEint1363.contig.13	feature	CDS	20429	21160	.	-	0	ID=MEint1363.genome.CDS.1230;Product=DNA recombination and repair protein RecO;locus_tag=MEint1363.genome.CDS.1230
+MEint1363.contig.13	feature	CDS	19734	20432	.	-	0	ID=MEint1363.genome.CDS.1229;Product=Trans%2Cpolycis-decaprenyl diphosphate synthase %28EC 2.5.1.86%29;locus_tag=MEint1363.genome.CDS.1229
+MEint1363.contig.13	feature	CDS	19552	19737	.	+	0	ID=MEint1363.genome.CDS.285;Product=;locus_tag=MEint1363.genome.CDS.285
+MEint1363.contig.13	feature	CDS	19183	19548	.	+	0	ID=MEint1363.genome.CDS.284;Product=Zinc uptake regulation protein ZUR;locus_tag=MEint1363.genome.CDS.284
+MEint1363.contig.13	feature	CDS	18333	19190	.	+	0	ID=MEint1363.genome.CDS.1227;Product=;locus_tag=MEint1363.genome.CDS.1227
+MEint1363.contig.13	feature	CDS	17966	18250	.	-	0	ID=MEint1363.genome.CDS.1226;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1226
+MEint1363.contig.13	feature	CDS	16519	17898	.	-	0	ID=MEint1363.genome.CDS.1225;Product=Glycyl-tRNA synthetase %28EC 6.1.1.14%29;locus_tag=MEint1363.genome.CDS.1225
+MEint1363.contig.13	feature	CDS	15383	16525	.	-	0	ID=MEint1363.genome.CDS.280;Product=tRNA dihydrouridine synthase B %28EC 1.-.-.-%29;locus_tag=MEint1363.genome.CDS.280
+MEint1363.contig.13	feature	CDS	14730	15383	.	-	0	ID=MEint1363.genome.CDS.1223;Product=;locus_tag=MEint1363.genome.CDS.1223
+MEint1363.contig.13	feature	CDS	13513	14733	.	-	0	ID=MEint1363.genome.CDS.1222;Product=dNTP triphosphohydrolase%2C broad substrate specificity%2C subgroup 2;locus_tag=MEint1363.genome.CDS.1222
+MEint1363.contig.13	feature	CDS	11656	13503	.	-	0	ID=MEint1363.genome.CDS.1221;Product=DNA primase %28EC 2.7.7.-%29;locus_tag=MEint1363.genome.CDS.1221
+MEint1363.contig.13	feature	tRNA	11509	11580	.	-	.	ID=MEint1363.genome.rna.12;Product=tRNA-Asn-GTT;locus_tag=MEint1363.genome.rna.12
+MEint1363.contig.13	feature	CDS	11051	11437	.	-	0	ID=MEint1363.genome.CDS.1220;Product=;locus_tag=MEint1363.genome.CDS.1220
+MEint1363.contig.13	feature	CDS	9932	11050	.	-	0	ID=MEint1363.genome.CDS.1219;Product=HtrA protease/chaperone protein;locus_tag=MEint1363.genome.CDS.1219
+MEint1363.contig.13	feature	CDS	9683	9922	.	-	0	ID=MEint1363.genome.CDS.1218;Product=;locus_tag=MEint1363.genome.CDS.1218
+MEint1363.contig.13	feature	CDS	8740	9690	.	+	0	ID=MEint1363.genome.CDS.1217;Product=UDP-glucose 4-epimerase %28EC 5.1.3.2%29;locus_tag=MEint1363.genome.CDS.1217
+MEint1363.contig.13	feature	CDS	7630	8739	.	+	0	ID=MEint1363.genome.CDS.1216;Product=Galactose-1-phosphate uridylyltransferase %28EC 2.7.7.10%29;locus_tag=MEint1363.genome.CDS.1216
+MEint1363.contig.13	feature	CDS	6153	7622	.	+	0	ID=MEint1363.genome.CDS.1215;Product=Glycerol kinase %28EC 2.7.1.30%29;locus_tag=MEint1363.genome.CDS.1215
+MEint1363.contig.13	feature	CDS	4420	6078	.	-	0	ID=MEint1363.genome.CDS.1214;Product=Glycerol-3-phosphate dehydrogenase %28EC 1.1.5.3%29;locus_tag=MEint1363.genome.CDS.1214
+MEint1363.contig.13	feature	CDS	3089	4423	.	+	0	ID=MEint1363.genome.CDS.1213;Product=;locus_tag=MEint1363.genome.CDS.1213
+MEint1363.contig.13	feature	CDS	2826	3092	.	+	0	ID=MEint1363.genome.CDS.1212;Product=;locus_tag=MEint1363.genome.CDS.1212
+MEint1363.contig.13	feature	CDS	2620	2802	.	+	0	ID=MEint1363.genome.CDS.1211;Product=;locus_tag=MEint1363.genome.CDS.1211
+MEint1363.contig.13	feature	CDS	1667	2512	.	+	0	ID=MEint1363.genome.CDS.1210;Product=NAD%28P%29HX epimerase / NAD%28P%29HX dehydratase;locus_tag=MEint1363.genome.CDS.1210
+MEint1363.contig.13	feature	tRNA	1592	1665	.	+	.	ID=MEint1363.genome.rna.11;Product=tRNA-Met-CAT;locus_tag=MEint1363.genome.rna.11
+MEint1363.contig.13	feature	CDS	1256	1561	.	+	0	ID=MEint1363.genome.CDS.1209;Product=;locus_tag=MEint1363.genome.CDS.1209
+MEint1363.contig.13	feature	CDS	1042	1266	.	+	0	ID=MEint1363.genome.CDS.1208;Product=;locus_tag=MEint1363.genome.CDS.1208
+MEint1363.contig.13	feature	CDS	297	953	.	-	0	ID=MEint1363.genome.CDS.1207;Product=Membrane proteins related to metalloendopeptidases;locus_tag=MEint1363.genome.CDS.1207
+MEint1363.contig.13	feature	CDS	32	235	.	+	0	ID=MEint1363.genome.CDS.1206;Product=;locus_tag=MEint1363.genome.CDS.1206
+MEint1363.contig.14	feature	CDS	8362	8754	.	-	0	ID=MEint1363.genome.CDS.1242;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1242
+MEint1363.contig.14	feature	CDS	6805	8340	.	-	0	ID=MEint1363.genome.CDS.1241;Product=Carbohydrate kinase%2C FGGY;locus_tag=MEint1363.genome.CDS.1241
+MEint1363.contig.14	feature	CDS	5782	6798	.	+	0	ID=MEint1363.genome.CDS.1240;Product=Sorbitol dehydrogenase %28EC 1.1.1.14%29;locus_tag=MEint1363.genome.CDS.1240
+MEint1363.contig.14	feature	CDS	4934	5761	.	+	0	ID=MEint1363.genome.CDS.1239;Product=;locus_tag=MEint1363.genome.CDS.1239
+MEint1363.contig.14	feature	CDS	4054	4941	.	+	0	ID=MEint1363.genome.CDS.1238;Product=2-hydroxy-3-oxopropionate reductase %28EC 1.1.1.60%29;locus_tag=MEint1363.genome.CDS.1238
+MEint1363.contig.14	feature	CDS	3241	4044	.	+	0	ID=MEint1363.genome.CDS.1237;Product=;locus_tag=MEint1363.genome.CDS.1237
+MEint1363.contig.14	feature	CDS	2413	3183	.	+	0	ID=MEint1363.genome.CDS.1236;Product=;locus_tag=MEint1363.genome.CDS.1236
+MEint1363.contig.14	feature	CDS	2082	2393	.	+	0	ID=MEint1363.genome.CDS.1235;Product=;locus_tag=MEint1363.genome.CDS.1235
+MEint1363.contig.14	feature	tRNA	1903	1975	.	-	.	ID=MEint1363.genome.rna.13;Product=tRNA-Arg-ACG;locus_tag=MEint1363.genome.rna.13
+MEint1363.contig.14	feature	CDS	1389	1877	.	+	0	ID=MEint1363.genome.CDS.1234;Product=;locus_tag=MEint1363.genome.CDS.1234
+MEint1363.contig.14	feature	CDS	1187	1378	.	+	0	ID=MEint1363.genome.CDS.1233;Product=;locus_tag=MEint1363.genome.CDS.1233
+MEint1363.contig.14	feature	CDS	1	1110	.	+	0	ID=MEint1363.genome.CDS.1232;Product=NAD-specific glutamate dehydrogenase %28EC 1.4.1.2%29%3B NADP-specific glutamate dehydrogenase %28EC 1.4.1.4%29;locus_tag=MEint1363.genome.CDS.1232
+MEint1363.contig.15	feature	misc_RNA	1	5276	.	+	.	ID=MEint1363.genome.repeat.6;Product=repeat region;locus_tag=MEint1363.genome.repeat.6
+MEint1363.contig.15	feature	CDS	25848	26390	.	+	0	ID=MEint1363.genome.CDS.1270;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1270
+MEint1363.contig.15	feature	CDS	25153	25818	.	+	0	ID=MEint1363.genome.CDS.1269;Product=;locus_tag=MEint1363.genome.CDS.1269
+MEint1363.contig.15	feature	CDS	24585	25082	.	+	0	ID=MEint1363.genome.CDS.1268;Product=;locus_tag=MEint1363.genome.CDS.1268
+MEint1363.contig.15	feature	CDS	23706	24572	.	+	0	ID=MEint1363.genome.CDS.1267;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1267
+MEint1363.contig.15	feature	CDS	23151	23639	.	-	0	ID=MEint1363.genome.CDS.1266;Product=FIG001943: hypothetical protein YajQ;locus_tag=MEint1363.genome.CDS.1266
+MEint1363.contig.15	feature	CDS	22254	23051	.	-	0	ID=MEint1363.genome.CDS.1265;Product=Protein rarD;locus_tag=MEint1363.genome.CDS.1265
+MEint1363.contig.15	feature	CDS	21303	22292	.	+	0	ID=MEint1363.genome.CDS.1264;Product=Solanesyl diphosphate synthase %28EC 2.5.1.11%29;locus_tag=MEint1363.genome.CDS.1264
+MEint1363.contig.15	feature	CDS	19783	21303	.	+	0	ID=MEint1363.genome.CDS.1263;Product=NADH-ubiquinone oxidoreductase chain N %28EC 1.6.5.3%29;locus_tag=MEint1363.genome.CDS.1263
+MEint1363.contig.15	feature	CDS	18274	19782	.	+	0	ID=MEint1363.genome.CDS.1262;Product=NADH-ubiquinone oxidoreductase chain M %28EC 1.6.5.3%29;locus_tag=MEint1363.genome.CDS.1262
+MEint1363.contig.15	feature	CDS	16385	18277	.	+	0	ID=MEint1363.genome.CDS.1261;Product=NADH-ubiquinone oxidoreductase chain L %28EC 1.6.5.3%29;locus_tag=MEint1363.genome.CDS.1261
+MEint1363.contig.15	feature	CDS	16083	16382	.	+	0	ID=MEint1363.genome.CDS.1260;Product=NADH-ubiquinone oxidoreductase chain K %28EC 1.6.5.3%29;locus_tag=MEint1363.genome.CDS.1260
+MEint1363.contig.15	feature	CDS	15328	16083	.	+	0	ID=MEint1363.genome.CDS.1259;Product=NADH-ubiquinone oxidoreductase chain J %28EC 1.6.5.3%29;locus_tag=MEint1363.genome.CDS.1259
+MEint1363.contig.15	feature	CDS	14714	15328	.	+	0	ID=MEint1363.genome.CDS.1258;Product=NADH-ubiquinone oxidoreductase chain I %28EC 1.6.5.3%29;locus_tag=MEint1363.genome.CDS.1258
+MEint1363.contig.15	feature	CDS	13507	14721	.	+	0	ID=MEint1363.genome.CDS.1257;Product=NADH-ubiquinone oxidoreductase chain H %28EC 1.6.5.3%29;locus_tag=MEint1363.genome.CDS.1257
+MEint1363.contig.15	feature	CDS	11144	13510	.	+	0	ID=MEint1363.genome.CDS.1256;Product=NADH-ubiquinone oxidoreductase chain G %28EC 1.6.5.3%29;locus_tag=MEint1363.genome.CDS.1256
+MEint1363.contig.15	feature	CDS	9864	11147	.	+	0	ID=MEint1363.genome.CDS.1255;Product=NADH-ubiquinone oxidoreductase chain F %28EC 1.6.5.3%29;locus_tag=MEint1363.genome.CDS.1255
+MEint1363.contig.15	feature	CDS	9237	9860	.	+	0	ID=MEint1363.genome.CDS.1254;Product=NADH-ubiquinone oxidoreductase chain E %28EC 1.6.5.3%29;locus_tag=MEint1363.genome.CDS.1254
+MEint1363.contig.15	feature	CDS	7897	9237	.	+	0	ID=MEint1363.genome.CDS.1253;Product=NADH-ubiquinone oxidoreductase chain D %28EC 1.6.5.3%29;locus_tag=MEint1363.genome.CDS.1253
+MEint1363.contig.15	feature	CDS	7271	7900	.	+	0	ID=MEint1363.genome.CDS.1252;Product=NADH-ubiquinone oxidoreductase chain C %28EC 1.6.5.3%29;locus_tag=MEint1363.genome.CDS.1252
+MEint1363.contig.15	feature	CDS	6713	7270	.	+	0	ID=MEint1363.genome.CDS.1251;Product=NADH-ubiquinone oxidoreductase chain B %28EC 1.6.5.3%29;locus_tag=MEint1363.genome.CDS.1251
+MEint1363.contig.15	feature	CDS	6339	6710	.	+	0	ID=MEint1363.genome.CDS.1250;Product=NADH ubiquinone oxidoreductase chain A %28EC 1.6.5.3%29;locus_tag=MEint1363.genome.CDS.1250
+MEint1363.contig.15	feature	CDS	5603	6295	.	+	0	ID=MEint1363.genome.CDS.1249;Product=Demethylmenaquinone methyltransferase %28EC 2.1.1.163%29;locus_tag=MEint1363.genome.CDS.1249
+MEint1363.contig.15	feature	CDS	4962	5546	.	-	0	ID=MEint1363.genome.CDS.1248;Product=Substrate-specific component BioY of biotin ECF transporter;locus_tag=MEint1363.genome.CDS.1248
+MEint1363.contig.15	feature	CDS	3729	4949	.	-	0	ID=MEint1363.genome.CDS.1247;Product=Isochorismate synthase %28EC 5.4.4.2%29 %40 Menaquinone-specific isochorismate synthase %28EC 5.4.4.2%29;locus_tag=MEint1363.genome.CDS.1247
+MEint1363.contig.15	feature	CDS	2189	3763	.	+	0	ID=MEint1363.genome.CDS.1246;Product=2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase %28EC 2.2.1.9%29;locus_tag=MEint1363.genome.CDS.1246
+MEint1363.contig.15	feature	CDS	1197	2192	.	+	0	ID=MEint1363.genome.CDS.1245;Product=O-succinylbenzoate synthase %28EC 4.2.1.113%29;locus_tag=MEint1363.genome.CDS.1245
+MEint1363.contig.15	feature	CDS	309	1187	.	+	0	ID=MEint1363.genome.CDS.1244;Product=Naphthoate synthase %28EC 4.1.3.36%29;locus_tag=MEint1363.genome.CDS.1244
+MEint1363.contig.15	feature	CDS	3	257	.	-	0	ID=MEint1363.genome.CDS.1243;Product=;locus_tag=MEint1363.genome.CDS.1243
+MEint1363.contig.16	feature	CDS	26180	27715	.	+	0	ID=MEint1363.genome.CDS.1301;Product=GMP synthase %5Bglutamine-hydrolyzing%5D %28EC 6.3.5.2%29;locus_tag=MEint1363.genome.CDS.1301
+MEint1363.contig.16	feature	CDS	25075	26187	.	+	0	ID=MEint1363.genome.CDS.1300;Product=Inosine-5%27-monophosphate dehydrogenase%2C catalytic domain %28EC 1.1.1.205%29;locus_tag=MEint1363.genome.CDS.1300
+MEint1363.contig.16	feature	CDS	23941	25056	.	+	0	ID=MEint1363.genome.CDS.1299;Product=Inosine-5%27-monophosphate dehydrogenase %28EC 1.1.1.205%29 / CBS domain;locus_tag=MEint1363.genome.CDS.1299
+MEint1363.contig.16	feature	CDS	23010	23885	.	+	0	ID=MEint1363.genome.CDS.1298;Product=;locus_tag=MEint1363.genome.CDS.1298
+MEint1363.contig.16	feature	CDS	22597	22923	.	-	0	ID=MEint1363.genome.CDS.1297;Product=Sporulation regulatory protein WhiD;locus_tag=MEint1363.genome.CDS.1297
+MEint1363.contig.16	feature	CDS	20896	22530	.	+	0	ID=MEint1363.genome.CDS.1296;Product=Heat shock protein 60 family chaperone GroEL;locus_tag=MEint1363.genome.CDS.1296
+MEint1363.contig.16	feature	CDS	20602	20895	.	+	0	ID=MEint1363.genome.CDS.1295;Product=Heat shock protein 60 family co-chaperone GroES;locus_tag=MEint1363.genome.CDS.1295
+MEint1363.contig.16	feature	CDS	19454	20485	.	+	0	ID=MEint1363.genome.CDS.1294;Product=Kinase-Associated Endopeptidase %28Kae1%29%2C required for threonylcarbamoyladenosine t%286%29A37 formation in tRNA;locus_tag=MEint1363.genome.CDS.1294
+MEint1363.contig.16	feature	CDS	18999	19457	.	+	0	ID=MEint1363.genome.CDS.1293;Product=Ribosomal-protein-S18p-alanine acetyltransferase %28EC 2.3.1.-%29;locus_tag=MEint1363.genome.CDS.1293
+MEint1363.contig.16	feature	CDS	18439	18999	.	+	0	ID=MEint1363.genome.CDS.1292;Product=TsaB protein%2C required for threonylcarbamoyladenosine %28t%286%29A%29 formation in tRNA;locus_tag=MEint1363.genome.CDS.1292
+MEint1363.contig.16	feature	CDS	18002	18442	.	+	0	ID=MEint1363.genome.CDS.1291;Product=TsaE protein%2C required for threonylcarbamoyladenosine t%286%29A37 formation in tRNA;locus_tag=MEint1363.genome.CDS.1291
+MEint1363.contig.16	feature	CDS	16347	17918	.	+	0	ID=MEint1363.genome.CDS.1290;Product=Inosine-uridine preferring nucleoside hydrolase %28EC 3.2.2.1%29;locus_tag=MEint1363.genome.CDS.1290
+MEint1363.contig.16	feature	CDS	15025	16335	.	+	0	ID=MEint1363.genome.CDS.1289;Product=Branched-chain amino acid ABC transporter%2C amino acid-binding protein %28TC 3.A.1.4.1%29;locus_tag=MEint1363.genome.CDS.1289
+MEint1363.contig.16	feature	CDS	14013	14990	.	+	0	ID=MEint1363.genome.CDS.1288;Product=;locus_tag=MEint1363.genome.CDS.1288
+MEint1363.contig.16	feature	CDS	13124	14020	.	+	0	ID=MEint1363.genome.CDS.1287;Product=High-affinity branched-chain amino acid transport system permease protein LivH %28TC 3.A.1.4.1%29;locus_tag=MEint1363.genome.CDS.1287
+MEint1363.contig.16	feature	CDS	12411	13121	.	+	0	ID=MEint1363.genome.CDS.1286;Product=Branched-chain amino acid transport ATP-binding protein LivF %28TC 3.A.1.4.1%29;locus_tag=MEint1363.genome.CDS.1286
+MEint1363.contig.16	feature	CDS	11641	12414	.	+	0	ID=MEint1363.genome.CDS.1285;Product=Branched-chain amino acid transport ATP-binding protein LivG %28TC 3.A.1.4.1%29;locus_tag=MEint1363.genome.CDS.1285
+MEint1363.contig.16	feature	CDS	10536	11651	.	+	0	ID=MEint1363.genome.CDS.1284;Product=Alanine racemase %28EC 5.1.1.1%29;locus_tag=MEint1363.genome.CDS.1284
+MEint1363.contig.16	feature	CDS	10192	10539	.	+	0	ID=MEint1363.genome.CDS.1283;Product=Holo-%5Bacyl-carrier protein%5D synthase %28EC 2.7.8.7%29;locus_tag=MEint1363.genome.CDS.1283
+MEint1363.contig.16	feature	CDS	9513	10172	.	+	0	ID=MEint1363.genome.CDS.1282;Product=;locus_tag=MEint1363.genome.CDS.1282
+MEint1363.contig.16	feature	CDS	7671	9512	.	+	0	ID=MEint1363.genome.CDS.1281;Product=Glucosamine--fructose-6-phosphate aminotransferase %5Bisomerizing%5D %28EC 2.6.1.16%29;locus_tag=MEint1363.genome.CDS.1281
+MEint1363.contig.16	feature	CDS	6326	7666	.	+	0	ID=MEint1363.genome.CDS.1280;Product=Phosphoglucosamine mutase %28EC 5.4.2.10%29;locus_tag=MEint1363.genome.CDS.1280
+MEint1363.contig.16	feature	CDS	5810	6298	.	+	0	ID=MEint1363.genome.CDS.1279;Product=SSU ribosomal protein S9p %28S16e%29;locus_tag=MEint1363.genome.CDS.1279
+MEint1363.contig.16	feature	CDS	5328	5780	.	+	0	ID=MEint1363.genome.CDS.1278;Product=LSU ribosomal protein L13p %28L13Ae%29;locus_tag=MEint1363.genome.CDS.1278
+MEint1363.contig.16	feature	CDS	3606	5207	.	+	0	ID=MEint1363.genome.CDS.1277;Product=ABC transporter ATP-binding protein;locus_tag=MEint1363.genome.CDS.1277
+MEint1363.contig.16	feature	CDS	2770	3606	.	+	0	ID=MEint1363.genome.CDS.1276;Product=tRNA pseudouridine synthase A %28EC 4.2.1.70%29;locus_tag=MEint1363.genome.CDS.1276
+MEint1363.contig.16	feature	CDS	2383	2748	.	+	0	ID=MEint1363.genome.CDS.1275;Product=LSU ribosomal protein L17p;locus_tag=MEint1363.genome.CDS.1275
+MEint1363.contig.16	feature	CDS	1357	2370	.	+	0	ID=MEint1363.genome.CDS.1274;Product=DNA-directed RNA polymerase alpha subunit %28EC 2.7.7.6%29;locus_tag=MEint1363.genome.CDS.1274
+MEint1363.contig.16	feature	CDS	625	1251	.	+	0	ID=MEint1363.genome.CDS.1273;Product=SSU ribosomal protein S4p %28S9e%29 %40 SSU ribosomal protein S4p %28S9e%29%2C zinc-dependent;locus_tag=MEint1363.genome.CDS.1273
+MEint1363.contig.16	feature	CDS	192	611	.	+	0	ID=MEint1363.genome.CDS.1272;Product=SSU ribosomal protein S11p %28S14e%29;locus_tag=MEint1363.genome.CDS.1272
+MEint1363.contig.16	feature	CDS	1	192	.	+	0	ID=MEint1363.genome.CDS.1271;Product=SSU ribosomal protein S13p %28S18e%29;locus_tag=MEint1363.genome.CDS.1271
+MEint1363.contig.17	feature	misc_RNA	1	179	.	+	.	ID=MEint1363.genome.repeat.18;Product=repeat region;locus_tag=MEint1363.genome.repeat.18
+MEint1363.contig.17	feature	CDS	11461	12327	.	-	0	ID=MEint1363.genome.CDS.1315;Product=ATP synthase alpha chain %28EC 3.6.3.14%29;locus_tag=MEint1363.genome.CDS.1315
+MEint1363.contig.17	feature	CDS	10543	11457	.	-	0	ID=MEint1363.genome.CDS.1314;Product=ATP synthase gamma chain %28EC 3.6.3.14%29;locus_tag=MEint1363.genome.CDS.1314
+MEint1363.contig.17	feature	CDS	9110	10543	.	-	0	ID=MEint1363.genome.CDS.1313;Product=ATP synthase beta chain %28EC 3.6.3.14%29;locus_tag=MEint1363.genome.CDS.1313
+MEint1363.contig.17	feature	CDS	8849	9103	.	-	0	ID=MEint1363.genome.CDS.1312;Product=ATP synthase epsilon chain %28EC 3.6.3.14%29;locus_tag=MEint1363.genome.CDS.1312
+MEint1363.contig.17	feature	CDS	7863	8828	.	+	0	ID=MEint1363.genome.CDS.1311;Product=Fructose-1%2C6-bisphosphatase%2C GlpX type %28EC 3.1.3.11%29;locus_tag=MEint1363.genome.CDS.1311
+MEint1363.contig.17	feature	CDS	6607	7866	.	+	0	ID=MEint1363.genome.CDS.1310;Product=UDP-N-acetylglucosamine 1-carboxyvinyltransferase %28EC 2.5.1.7%29;locus_tag=MEint1363.genome.CDS.1310
+MEint1363.contig.17	feature	CDS	5954	6526	.	-	0	ID=MEint1363.genome.CDS.1309;Product=ATP:Cob%28I%29alamin adenosyltransferase %28EC 2.5.1.17%29;locus_tag=MEint1363.genome.CDS.1309
+MEint1363.contig.17	feature	CDS	5307	5957	.	+	0	ID=MEint1363.genome.CDS.1308;Product=;locus_tag=MEint1363.genome.CDS.1308
+MEint1363.contig.17	feature	CDS	4474	5277	.	+	0	ID=MEint1363.genome.CDS.1307;Product=ABC-type multidrug transport system%2C permease component;locus_tag=MEint1363.genome.CDS.1307
+MEint1363.contig.17	feature	CDS	3628	4473	.	+	0	ID=MEint1363.genome.CDS.1306;Product=ABC-type multidrug transport system%2C ATPase component;locus_tag=MEint1363.genome.CDS.1306
+MEint1363.contig.17	feature	CDS	3269	3580	.	-	0	ID=MEint1363.genome.CDS.1305;Product=;locus_tag=MEint1363.genome.CDS.1305
+MEint1363.contig.17	feature	CDS	1775	3253	.	+	0	ID=MEint1363.genome.CDS.1304;Product=Aldehyde dehydrogenase %28EC 1.2.1.3%29;locus_tag=MEint1363.genome.CDS.1304
+MEint1363.contig.17	feature	CDS	1014	1733	.	-	0	ID=MEint1363.genome.CDS.1303;Product=Predicted hydrolase of the alpha/beta superfamily;locus_tag=MEint1363.genome.CDS.1303
+MEint1363.contig.17	feature	CDS	1	1017	.	+	0	ID=MEint1363.genome.CDS.1302;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1302
+MEint1363.contig.18	feature	CDS	11049	11837	.	-	0	ID=MEint1363.genome.CDS.1326;Product=Ribosomal RNA large subunit methyltransferase N %28EC 2.1.1.-%29;locus_tag=MEint1363.genome.CDS.1326
+MEint1363.contig.18	feature	CDS	10579	11052	.	-	0	ID=MEint1363.genome.CDS.1325;Product=;locus_tag=MEint1363.genome.CDS.1325
+MEint1363.contig.18	feature	CDS	9078	10505	.	-	0	ID=MEint1363.genome.CDS.1324;Product=4-aminobutyraldehyde dehydrogenase %28EC 1.2.1.19%29;locus_tag=MEint1363.genome.CDS.1324
+MEint1363.contig.18	feature	CDS	7867	9039	.	-	0	ID=MEint1363.genome.CDS.1323;Product=Putrescine ABC transporter putrescine-binding protein PotF %28TC 3.A.1.11.2%29;locus_tag=MEint1363.genome.CDS.1323
+MEint1363.contig.18	feature	CDS	6719	7867	.	-	0	ID=MEint1363.genome.CDS.1322;Product=Putrescine transport ATP-binding protein PotG %28TC 3.A.1.11.2%29;locus_tag=MEint1363.genome.CDS.1322
+MEint1363.contig.18	feature	CDS	5863	6717	.	-	0	ID=MEint1363.genome.CDS.1321;Product=Putrescine transport system permease protein PotH %28TC 3.A.1.11.2%29;locus_tag=MEint1363.genome.CDS.1321
+MEint1363.contig.18	feature	CDS	5030	5866	.	-	0	ID=MEint1363.genome.CDS.1320;Product=Putrescine transport system permease protein PotI %28TC 3.A.1.11.2%29;locus_tag=MEint1363.genome.CDS.1320
+MEint1363.contig.18	feature	CDS	3487	4899	.	-	0	ID=MEint1363.genome.CDS.1319;Product=putative oxidoreductase;locus_tag=MEint1363.genome.CDS.1319
+MEint1363.contig.18	feature	CDS	2465	3463	.	-	0	ID=MEint1363.genome.CDS.1318;Product=Arginase/agmatinase/formimionoglutamate hydrolase%2C arginase family;locus_tag=MEint1363.genome.CDS.1318
+MEint1363.contig.18	feature	CDS	1121	2464	.	+	0	ID=MEint1363.genome.CDS.1317;Product=Gamma-aminobutyrate:alpha-ketoglutarate aminotransferase %28EC 2.6.1.19%29;locus_tag=MEint1363.genome.CDS.1317
+MEint1363.contig.18	feature	CDS	2	1084	.	-	0	ID=MEint1363.genome.CDS.1316;Product=1-deoxy-D-xylulose 5-phosphate reductoisomerase %28EC 1.1.1.267%29;locus_tag=MEint1363.genome.CDS.1316
+MEint1363.contig.19	feature	misc_RNA	37648	39584	.	+	.	ID=MEint1363.genome.repeat.5;Product=repeat region;locus_tag=MEint1363.genome.repeat.5
+MEint1363.contig.19	feature	CDS	39009	39584	.	-	0	ID=MEint1363.genome.CDS.1362;Product=response regulator;locus_tag=MEint1363.genome.CDS.1362
+MEint1363.contig.19	feature	CDS	37769	38890	.	-	0	ID=MEint1363.genome.CDS.1361;Product=Branched-chain amino acid ABC transporter%2C amino acid-binding protein %28TC 3.A.1.4.1%29;locus_tag=MEint1363.genome.CDS.1361
+MEint1363.contig.19	feature	CDS	36733	37683	.	-	0	ID=MEint1363.genome.CDS.1360;Product=High-affinity branched-chain amino acid transport system permease protein LivH %28TC 3.A.1.4.1%29;locus_tag=MEint1363.genome.CDS.1360
+MEint1363.contig.19	feature	CDS	35669	36733	.	-	0	ID=MEint1363.genome.CDS.1359;Product=Branched-chain amino acid transport system permease protein LivM %28TC 3.A.1.4.1%29;locus_tag=MEint1363.genome.CDS.1359
+MEint1363.contig.19	feature	CDS	34893	35669	.	-	0	ID=MEint1363.genome.CDS.1358;Product=Branched-chain amino acid transport ATP-binding protein LivG %28TC 3.A.1.4.1%29;locus_tag=MEint1363.genome.CDS.1358
+MEint1363.contig.19	feature	CDS	34184	34903	.	-	0	ID=MEint1363.genome.CDS.1357;Product=Branched-chain amino acid transport ATP-binding protein LivF %28TC 3.A.1.4.1%29;locus_tag=MEint1363.genome.CDS.1357
+MEint1363.contig.19	feature	CDS	33763	34173	.	+	0	ID=MEint1363.genome.CDS.1356;Product=ComA operon protein 2;locus_tag=MEint1363.genome.CDS.1356
+MEint1363.contig.19	feature	CDS	31136	33727	.	-	0	ID=MEint1363.genome.CDS.1355;Product=DNA polymerase I %28EC 2.7.7.7%29;locus_tag=MEint1363.genome.CDS.1355
+MEint1363.contig.19	feature	CDS	29913	31139	.	+	0	ID=MEint1363.genome.CDS.1354;Product=;locus_tag=MEint1363.genome.CDS.1354
+MEint1363.contig.19	feature	CDS	28420	29769	.	-	0	ID=MEint1363.genome.CDS.1353;Product=SSU ribosomal protein S1p;locus_tag=MEint1363.genome.CDS.1353
+MEint1363.contig.19	feature	CDS	27814	28413	.	-	0	ID=MEint1363.genome.CDS.1352;Product=Dephospho-CoA kinase %28EC 2.7.1.24%29;locus_tag=MEint1363.genome.CDS.1352
+MEint1363.contig.19	feature	CDS	25708	27789	.	-	0	ID=MEint1363.genome.CDS.1351;Product=Excinuclease ABC subunit B;locus_tag=MEint1363.genome.CDS.1351
+MEint1363.contig.19	feature	CDS	22844	25708	.	-	0	ID=MEint1363.genome.CDS.1350;Product=Excinuclease ABC subunit A;locus_tag=MEint1363.genome.CDS.1350
+MEint1363.contig.19	feature	CDS	20925	22841	.	-	0	ID=MEint1363.genome.CDS.1349;Product=Excinuclease ABC subunit C;locus_tag=MEint1363.genome.CDS.1349
+MEint1363.contig.19	feature	CDS	20037	20903	.	-	0	ID=MEint1363.genome.CDS.1348;Product=FIG000506: Predicted P-loop-containing kinase;locus_tag=MEint1363.genome.CDS.1348
+MEint1363.contig.19	feature	CDS	19081	20040	.	-	0	ID=MEint1363.genome.CDS.1347;Product=FIG002813: LPPG:FO 2-phospho-L-lactate transferase like%2C CofD-like;locus_tag=MEint1363.genome.CDS.1347
+MEint1363.contig.19	feature	CDS	18099	19076	.	-	0	ID=MEint1363.genome.CDS.1346;Product=FIG001886: Cytoplasmic hypothetical protein;locus_tag=MEint1363.genome.CDS.1346
+MEint1363.contig.19	feature	CDS	16943	17941	.	-	0	ID=MEint1363.genome.CDS.1345;Product=NAD-dependent glyceraldehyde-3-phosphate dehydrogenase %28EC 1.2.1.12%29;locus_tag=MEint1363.genome.CDS.1345
+MEint1363.contig.19	feature	CDS	15795	16943	.	-	0	ID=MEint1363.genome.CDS.1344;Product=Phosphoglycerate kinase %28EC 2.7.2.3%29;locus_tag=MEint1363.genome.CDS.1344
+MEint1363.contig.19	feature	CDS	14991	15764	.	-	0	ID=MEint1363.genome.CDS.397;Product=Triosephosphate isomerase %28EC 5.3.1.1%29;locus_tag=MEint1363.genome.CDS.397
+MEint1363.contig.19	feature	CDS	14677	14904	.	-	0	ID=MEint1363.genome.CDS.1342;Product=Preprotein translocase subunit SecG %28TC 3.A.5.1.1%29;locus_tag=MEint1363.genome.CDS.1342
+MEint1363.contig.19	feature	CDS	14311	14646	.	-	0	ID=MEint1363.genome.CDS.1341;Product=putative electron transport protein;locus_tag=MEint1363.genome.CDS.1341
+MEint1363.contig.19	feature	CDS	12785	14314	.	+	0	ID=MEint1363.genome.CDS.1340;Product=Glucose-6-phosphate isomerase %28EC 5.3.1.9%29;locus_tag=MEint1363.genome.CDS.1340
+MEint1363.contig.19	feature	CDS	11691	12788	.	+	0	ID=MEint1363.genome.CDS.1339;Product=Transaldolase %28EC 2.2.1.2%29;locus_tag=MEint1363.genome.CDS.1339
+MEint1363.contig.19	feature	CDS	9643	11694	.	+	0	ID=MEint1363.genome.CDS.1338;Product=Transketolase %28EC 2.2.1.1%29;locus_tag=MEint1363.genome.CDS.1338
+MEint1363.contig.19	feature	CDS	8763	9638	.	+	0	ID=MEint1363.genome.CDS.1337;Product=Cytochrome oxidase assembly protein;locus_tag=MEint1363.genome.CDS.1337
+MEint1363.contig.19	feature	CDS	7985	8704	.	-	0	ID=MEint1363.genome.CDS.1336;Product=Iron-sulfur cluster regulator SufR;locus_tag=MEint1363.genome.CDS.1336
+MEint1363.contig.19	feature	CDS	6579	7988	.	-	0	ID=MEint1363.genome.CDS.1335;Product=Iron-sulfur cluster assembly protein SufB;locus_tag=MEint1363.genome.CDS.1335
+MEint1363.contig.19	feature	CDS	5488	6579	.	-	0	ID=MEint1363.genome.CDS.1334;Product=Iron-sulfur cluster assembly protein SufD;locus_tag=MEint1363.genome.CDS.1334
+MEint1363.contig.19	feature	CDS	5187	5444	.	-	0	ID=MEint1363.genome.CDS.1333;Product=Ferredoxin%2C 2Fe-2S;locus_tag=MEint1363.genome.CDS.1333
+MEint1363.contig.19	feature	CDS	4395	5147	.	-	0	ID=MEint1363.genome.CDS.1332;Product=Iron-sulfur cluster assembly ATPase protein SufC;locus_tag=MEint1363.genome.CDS.1332
+MEint1363.contig.19	feature	CDS	3139	4386	.	-	0	ID=MEint1363.genome.CDS.1331;Product=Cysteine desulfurase %28EC 2.8.1.7%29%2C SufS subfamily;locus_tag=MEint1363.genome.CDS.1331
+MEint1363.contig.19	feature	CDS	2699	3139	.	-	0	ID=MEint1363.genome.CDS.1330;Product=Putative iron-sulfur cluster assembly scaffold protein for SUF system%2C SufE2;locus_tag=MEint1363.genome.CDS.1330
+MEint1363.contig.19	feature	CDS	2360	2671	.	-	0	ID=MEint1363.genome.CDS.1329;Product=PaaD-like protein %28DUF59%29 involved in Fe-S cluster assembly;locus_tag=MEint1363.genome.CDS.1329
+MEint1363.contig.19	feature	CDS	465	2357	.	-	0	ID=MEint1363.genome.CDS.1328;Product=Lipid A export ATP-binding/permease protein MsbA;locus_tag=MEint1363.genome.CDS.1328
+MEint1363.contig.2	feature	misc_RNA	1	7863	.	+	.	ID=MEint1363.genome.repeat.24;Product=repeat region;locus_tag=MEint1363.genome.repeat.24
+MEint1363.contig.2	feature	CDS	27928	28578	.	-	0	ID=MEint1363.genome.CDS.1031;Product=;locus_tag=MEint1363.genome.CDS.1031
+MEint1363.contig.2	feature	CDS	27206	27931	.	+	0	ID=MEint1363.genome.CDS.1030;Product=LmbE family protein;locus_tag=MEint1363.genome.CDS.1030
+MEint1363.contig.2	feature	CDS	24932	27178	.	-	0	ID=MEint1363.genome.CDS.1029;Product=ATP-dependent DNA helicase UvrD/PcrA;locus_tag=MEint1363.genome.CDS.1029
+MEint1363.contig.2	feature	CDS	23728	24891	.	-	0	ID=MEint1363.genome.CDS.1028;Product=Succinyl-CoA ligase %5BADP-forming%5D beta chain %28EC 6.2.1.5%29;locus_tag=MEint1363.genome.CDS.1028
+MEint1363.contig.2	feature	CDS	22847	23728	.	-	0	ID=MEint1363.genome.CDS.1027;Product=Succinyl-CoA ligase %5BADP-forming%5D alpha chain %28EC 6.2.1.5%29;locus_tag=MEint1363.genome.CDS.1027
+MEint1363.contig.2	feature	CDS	21741	22841	.	-	0	ID=MEint1363.genome.CDS.1026;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1026
+MEint1363.contig.2	feature	CDS	20207	21748	.	-	0	ID=MEint1363.genome.CDS.1025;Product=IMP cyclohydrolase %28EC 3.5.4.10%29 / Phosphoribosylaminoimidazolecarboxamide formyltransferase %28EC 2.1.2.3%29;locus_tag=MEint1363.genome.CDS.1025
+MEint1363.contig.2	feature	CDS	19348	20187	.	-	0	ID=MEint1363.genome.CDS.1024;Product=Methylenetetrahydrofolate dehydrogenase %28NADP%2B%29 %28EC 1.5.1.5%29 / Methenyltetrahydrofolate cyclohydrolase %28EC 3.5.4.9%29;locus_tag=MEint1363.genome.CDS.1024
+MEint1363.contig.2	feature	CDS	19130	19357	.	-	0	ID=MEint1363.genome.CDS.1023;Product=;locus_tag=MEint1363.genome.CDS.1023
+MEint1363.contig.2	feature	CDS	18122	19072	.	-	0	ID=MEint1363.genome.CDS.1022;Product=Malate dehydrogenase %28EC 1.1.1.37%29;locus_tag=MEint1363.genome.CDS.1022
+MEint1363.contig.2	feature	CDS	16893	18107	.	-	0	ID=MEint1363.genome.CDS.1021;Product=Isocitrate dehydrogenase %5BNADP%5D %28EC 1.1.1.42%29;locus_tag=MEint1363.genome.CDS.1021
+MEint1363.contig.2	feature	CDS	16156	16887	.	-	0	ID=MEint1363.genome.CDS.1020;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1020
+MEint1363.contig.2	feature	CDS	15094	16176	.	+	0	ID=MEint1363.genome.CDS.1019;Product=Glycerol-3-phosphate ABC transporter%2C ATP-binding protein UgpC %28TC 3.A.1.1.3%29;locus_tag=MEint1363.genome.CDS.1019
+MEint1363.contig.2	feature	CDS	13657	14952	.	-	0	ID=MEint1363.genome.CDS.1018;Product=Hemolysins and related proteins containing CBS domains;locus_tag=MEint1363.genome.CDS.1018
+MEint1363.contig.2	feature	CDS	12638	13636	.	-	0	ID=MEint1363.genome.CDS.1017;Product=Tryptophanyl-tRNA synthetase %28EC 6.1.1.2%29;locus_tag=MEint1363.genome.CDS.1017
+MEint1363.contig.2	feature	CDS	11411	12466	.	-	0	ID=MEint1363.genome.CDS.1016;Product=Nucleoside ABC transporter%2C periplasmic nucleoside-binding protein;locus_tag=MEint1363.genome.CDS.1016
+MEint1363.contig.2	feature	CDS	9776	11281	.	-	0	ID=MEint1363.genome.CDS.1015;Product=sugar ABC transporter ATP-binding protein;locus_tag=MEint1363.genome.CDS.1015
+MEint1363.contig.2	feature	CDS	8676	9776	.	-	0	ID=MEint1363.genome.CDS.1014;Product=Putative deoxyribose-specific ABC transporter%2C permease protein;locus_tag=MEint1363.genome.CDS.1014
+MEint1363.contig.2	feature	CDS	7426	8676	.	-	0	ID=MEint1363.genome.CDS.1013;Product=Nucleoside ABC transporter%2C permease protein 2;locus_tag=MEint1363.genome.CDS.1013
+MEint1363.contig.2	feature	CDS	7027	7425	.	-	0	ID=MEint1363.genome.CDS.1012;Product=Cytidine deaminase %28EC 3.5.4.5%29;locus_tag=MEint1363.genome.CDS.1012
+MEint1363.contig.2	feature	CDS	5731	7020	.	-	0	ID=MEint1363.genome.CDS.1011;Product=Thymidine phosphorylase %28EC 2.4.2.4%29;locus_tag=MEint1363.genome.CDS.1011
+MEint1363.contig.2	feature	CDS	4623	5711	.	-	0	ID=MEint1363.genome.CDS.1010;Product=Adenosine deaminase %28EC 3.5.4.4%29;locus_tag=MEint1363.genome.CDS.1010
+MEint1363.contig.2	feature	CDS	3429	4622	.	-	0	ID=MEint1363.genome.CDS.1009;Product=putative cytochrome P450 hydroxylase;locus_tag=MEint1363.genome.CDS.1009
+MEint1363.contig.2	feature	CDS	2611	3465	.	+	0	ID=MEint1363.genome.CDS.1008;Product=Ribokinase %28EC 2.7.1.15%29;locus_tag=MEint1363.genome.CDS.1008
+MEint1363.contig.2	feature	CDS	1598	2545	.	-	0	ID=MEint1363.genome.CDS.1007;Product=Inosine-uridine preferring nucleoside hydrolase %28EC 3.2.2.1%29;locus_tag=MEint1363.genome.CDS.1007
+MEint1363.contig.2	feature	CDS	752	1597	.	+	0	ID=MEint1363.genome.CDS.1006;Product=Aldehyde dehydrogenase %28EC 1.2.1.3%29;locus_tag=MEint1363.genome.CDS.1006
+MEint1363.contig.2	feature	CDS	1	759	.	+	0	ID=MEint1363.genome.CDS.1005;Product=Aldehyde dehydrogenase %28EC 1.2.1.3%29;locus_tag=MEint1363.genome.CDS.1005
+MEint1363.contig.20	feature	misc_RNA	50110	50614	.	+	.	ID=MEint1363.genome.repeat.15;Product=repeat region;locus_tag=MEint1363.genome.repeat.15
+MEint1363.contig.20	feature	CDS	50229	50612	.	+	0	ID=MEint1363.genome.CDS.1418;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1418
+MEint1363.contig.20	feature	CDS	49977	50201	.	-	0	ID=MEint1363.genome.CDS.1417;Product=;locus_tag=MEint1363.genome.CDS.1417
+MEint1363.contig.20	feature	CDS	48865	49881	.	-	0	ID=MEint1363.genome.CDS.1416;Product=;locus_tag=MEint1363.genome.CDS.1416
+MEint1363.contig.20	feature	CDS	47727	48881	.	-	0	ID=MEint1363.genome.CDS.1415;Product=;locus_tag=MEint1363.genome.CDS.1415
+MEint1363.contig.20	feature	CDS	47118	47741	.	+	0	ID=MEint1363.genome.CDS.1414;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1414
+MEint1363.contig.20	feature	CDS	46546	47121	.	+	0	ID=MEint1363.genome.CDS.1413;Product=;locus_tag=MEint1363.genome.CDS.1413
+MEint1363.contig.20	feature	CDS	44755	46545	.	+	0	ID=MEint1363.genome.CDS.1412;Product=Long-chain-fatty-acid--CoA ligase %28EC 6.2.1.3%29;locus_tag=MEint1363.genome.CDS.1412
+MEint1363.contig.20	feature	CDS	44251	44688	.	-	0	ID=MEint1363.genome.CDS.1411;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1411
+MEint1363.contig.20	feature	CDS	43288	44232	.	-	0	ID=MEint1363.genome.CDS.1410;Product=Putative sugar kinase;locus_tag=MEint1363.genome.CDS.1410
+MEint1363.contig.20	feature	CDS	42304	43287	.	+	0	ID=MEint1363.genome.CDS.1409;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1409
+MEint1363.contig.20	feature	CDS	42029	42304	.	+	0	ID=MEint1363.genome.CDS.1408;Product=;locus_tag=MEint1363.genome.CDS.1408
+MEint1363.contig.20	feature	CDS	41250	41945	.	-	0	ID=MEint1363.genome.CDS.1407;Product=1-acyl-sn-glycerol-3-phosphate acyltransferase %28EC 2.3.1.51%29;locus_tag=MEint1363.genome.CDS.1407
+MEint1363.contig.20	feature	CDS	40576	41253	.	+	0	ID=MEint1363.genome.CDS.1406;Product=;locus_tag=MEint1363.genome.CDS.1406
+MEint1363.contig.20	feature	CDS	39916	40560	.	+	0	ID=MEint1363.genome.CDS.1405;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1405
+MEint1363.contig.20	feature	CDS	38649	39902	.	+	0	ID=MEint1363.genome.CDS.1404;Product=Uracil permease;locus_tag=MEint1363.genome.CDS.1404
+MEint1363.contig.20	feature	CDS	37889	38416	.	-	0	ID=MEint1363.genome.CDS.1403;Product=;locus_tag=MEint1363.genome.CDS.1403
+MEint1363.contig.20	feature	CDS	36790	37887	.	-	0	ID=MEint1363.genome.CDS.1402;Product=Inositol-1-phosphate synthase %28EC 5.5.1.4%29;locus_tag=MEint1363.genome.CDS.1402
+MEint1363.contig.20	feature	CDS	36129	36707	.	+	0	ID=MEint1363.genome.CDS.1401;Product=;locus_tag=MEint1363.genome.CDS.1401
+MEint1363.contig.20	feature	CDS	35678	35995	.	+	0	ID=MEint1363.genome.CDS.1400;Product=;locus_tag=MEint1363.genome.CDS.1400
+MEint1363.contig.20	feature	CDS	34853	35596	.	-	0	ID=MEint1363.genome.CDS.1399;Product=Enoyl-CoA hydratase %28EC 4.2.1.17%29;locus_tag=MEint1363.genome.CDS.1399
+MEint1363.contig.20	feature	CDS	34023	34853	.	-	0	ID=MEint1363.genome.CDS.1398;Product=Short chain dehydrogenase family protein;locus_tag=MEint1363.genome.CDS.1398
+MEint1363.contig.20	feature	CDS	32583	34004	.	-	0	ID=MEint1363.genome.CDS.1397;Product=Cytosine/purine/uracil/thiamine/allantoin permease family protein;locus_tag=MEint1363.genome.CDS.1397
+MEint1363.contig.20	feature	CDS	31383	32573	.	-	0	ID=MEint1363.genome.CDS.1396;Product=Na%2B/H%2B antiporter NhaA type;locus_tag=MEint1363.genome.CDS.1396
+MEint1363.contig.20	feature	CDS	29901	31331	.	+	0	ID=MEint1363.genome.CDS.1395;Product=Glutamine synthetase type I %28EC 6.3.1.2%29;locus_tag=MEint1363.genome.CDS.1395
+MEint1363.contig.20	feature	CDS	29371	29745	.	-	0	ID=MEint1363.genome.CDS.1394;Product=;locus_tag=MEint1363.genome.CDS.1394
+MEint1363.contig.20	feature	CDS	28691	29374	.	+	0	ID=MEint1363.genome.CDS.1393;Product=Transmembrane protein MT2276%2C clustered with lipoate gene;locus_tag=MEint1363.genome.CDS.1393
+MEint1363.contig.20	feature	CDS	27993	28694	.	+	0	ID=MEint1363.genome.CDS.1392;Product=1-acyl-sn-glycerol-3-phosphate acyltransferase %28EC 2.3.1.51%29;locus_tag=MEint1363.genome.CDS.1392
+MEint1363.contig.20	feature	CDS	27062	28000	.	+	0	ID=MEint1363.genome.CDS.1391;Product=Lipoate synthase;locus_tag=MEint1363.genome.CDS.1391
+MEint1363.contig.20	feature	CDS	26412	27065	.	+	0	ID=MEint1363.genome.CDS.1390;Product=Octanoate-%5Bacyl-carrier-protein%5D-protein-N-octanoyltransferase;locus_tag=MEint1363.genome.CDS.1390
+MEint1363.contig.20	feature	CDS	24189	26339	.	-	0	ID=MEint1363.genome.CDS.1389;Product=MMPL domain protein;locus_tag=MEint1363.genome.CDS.1389
+MEint1363.contig.20	feature	CDS	23167	24183	.	-	0	ID=MEint1363.genome.CDS.1388;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1388
+MEint1363.contig.20	feature	CDS	22011	23174	.	-	0	ID=MEint1363.genome.CDS.1387;Product=;locus_tag=MEint1363.genome.CDS.1387
+MEint1363.contig.20	feature	CDS	21135	22022	.	+	0	ID=MEint1363.genome.CDS.1386;Product=Cell division inhibitor;locus_tag=MEint1363.genome.CDS.1386
+MEint1363.contig.20	feature	CDS	19480	21135	.	+	0	ID=MEint1363.genome.CDS.1385;Product=Dihydrolipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex %28EC 2.3.1.168%29;locus_tag=MEint1363.genome.CDS.1385
+MEint1363.contig.20	feature	CDS	18097	19464	.	+	0	ID=MEint1363.genome.CDS.1384;Product=Dihydrolipoamide dehydrogenase of branched-chain alpha-keto acid dehydrogenase %28EC 1.8.1.4%29;locus_tag=MEint1363.genome.CDS.1384
+MEint1363.contig.20	feature	CDS	16518	18014	.	+	0	ID=MEint1363.genome.CDS.1383;Product=Cytosol aminopeptidase PepA %28EC 3.4.11.1%29;locus_tag=MEint1363.genome.CDS.1383
+MEint1363.contig.20	feature	CDS	15328	16422	.	-	0	ID=MEint1363.genome.CDS.1382;Product=Aminomethyltransferase %28glycine cleavage system T protein%29 %28EC 2.1.2.10%29;locus_tag=MEint1363.genome.CDS.1382
+MEint1363.contig.20	feature	CDS	14778	15314	.	+	0	ID=MEint1363.genome.CDS.1381;Product=CblZ%2C a non-orthologous displasment for Alpha-ribazole-5%27-phosphate phosphatase;locus_tag=MEint1363.genome.CDS.1381
+MEint1363.contig.20	feature	CDS	13612	14769	.	+	0	ID=MEint1363.genome.CDS.1380;Product=Quinolinate synthetase %28EC 2.5.1.72%29;locus_tag=MEint1363.genome.CDS.1380
+MEint1363.contig.20	feature	CDS	13195	13542	.	-	0	ID=MEint1363.genome.CDS.1379;Product=probable iron binding protein from the HesB_IscA_SufA family;locus_tag=MEint1363.genome.CDS.1379
+MEint1363.contig.20	feature	CDS	12195	13169	.	-	0	ID=MEint1363.genome.CDS.1378;Product=putative Adenosine kinase %28EC 2.7.1.20%29;locus_tag=MEint1363.genome.CDS.1378
+MEint1363.contig.20	feature	CDS	11992	12198	.	+	0	ID=MEint1363.genome.CDS.1377;Product=;locus_tag=MEint1363.genome.CDS.1377
+MEint1363.contig.20	feature	CDS	10928	11995	.	+	0	ID=MEint1363.genome.CDS.1376;Product=Cysteine desulfurase %28EC 2.8.1.7%29;locus_tag=MEint1363.genome.CDS.1376
+MEint1363.contig.20	feature	CDS	10116	10868	.	-	0	ID=MEint1363.genome.CDS.1375;Product=Cytochrome c oxidase polypeptide II %28EC 1.9.3.1%29;locus_tag=MEint1363.genome.CDS.1375
+MEint1363.contig.20	feature	CDS	8461	10119	.	-	0	ID=MEint1363.genome.CDS.1374;Product=Cytochrome c oxidase polypeptide I %28EC 1.9.3.1%29;locus_tag=MEint1363.genome.CDS.1374
+MEint1363.contig.20	feature	CDS	8051	8455	.	-	0	ID=MEint1363.genome.CDS.1373;Product=Probable cytochrome c oxidase polypeptide 4 %28EC 1.9.3.1%29;locus_tag=MEint1363.genome.CDS.1373
+MEint1363.contig.20	feature	CDS	7378	8025	.	-	0	ID=MEint1363.genome.CDS.1372;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1372
+MEint1363.contig.20	feature	CDS	5795	7381	.	+	0	ID=MEint1363.genome.CDS.1371;Product=Ubiquinol--cytochrome c reductase%2C cytochrome B subunit %28EC 1.10.2.2%29;locus_tag=MEint1363.genome.CDS.1371
+MEint1363.contig.20	feature	CDS	4803	5798	.	+	0	ID=MEint1363.genome.CDS.1370;Product=Ubiquinol-cytochrome C reductase iron-sulfur subunit %28EC 1.10.2.2%29;locus_tag=MEint1363.genome.CDS.1370
+MEint1363.contig.20	feature	CDS	4004	4795	.	+	0	ID=MEint1363.genome.CDS.1369;Product=ubiquinol cytochrome C oxidoreductase%2C cytochrome C1 subunit;locus_tag=MEint1363.genome.CDS.1369
+MEint1363.contig.20	feature	CDS	3355	3978	.	+	0	ID=MEint1363.genome.CDS.1368;Product=Cytochrome c oxidase polypeptide III %28EC 1.9.3.1%29;locus_tag=MEint1363.genome.CDS.1368
+MEint1363.contig.20	feature	CDS	2774	3214	.	-	0	ID=MEint1363.genome.CDS.1367;Product=;locus_tag=MEint1363.genome.CDS.1367
+MEint1363.contig.20	feature	CDS	1712	2755	.	-	0	ID=MEint1363.genome.CDS.1366;Product=Anthranilate phosphoribosyltransferase %28EC 2.4.2.18%29;locus_tag=MEint1363.genome.CDS.1366
+MEint1363.contig.20	feature	CDS	922	1689	.	-	0	ID=MEint1363.genome.CDS.1365;Product=putative esterase/lipase;locus_tag=MEint1363.genome.CDS.1365
+MEint1363.contig.20	feature	CDS	396	947	.	+	0	ID=MEint1363.genome.CDS.1364;Product=;locus_tag=MEint1363.genome.CDS.1364
+MEint1363.contig.20	feature	CDS	41	364	.	-	0	ID=MEint1363.genome.CDS.1363;Product=;locus_tag=MEint1363.genome.CDS.1363
+MEint1363.contig.21	feature	misc_RNA	1	3898	.	+	.	ID=MEint1363.genome.repeat.23;Product=repeat region;locus_tag=MEint1363.genome.repeat.23
+MEint1363.contig.21	feature	CDS	2385	3896	.	-	0	ID=MEint1363.genome.CDS.1422;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1422
+MEint1363.contig.21	feature	CDS	2286	2384	.	+	0	ID=MEint1363.genome.CDS.1421;Product=FIG00945572: hypothetical protein;locus_tag=MEint1363.genome.CDS.1421
+MEint1363.contig.21	feature	CDS	995	2218	.	+	0	ID=MEint1363.genome.CDS.1420;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1420
+MEint1363.contig.21	feature	CDS	79	1020	.	+	0	ID=MEint1363.genome.CDS.1419;Product=Pyrroline-5-carboxylate reductase %28EC 1.5.1.2%29;locus_tag=MEint1363.genome.CDS.1419
+MEint1363.contig.22	feature	misc_RNA	1	2873	.	+	.	ID=MEint1363.genome.repeat.9;Product=repeat region;locus_tag=MEint1363.genome.repeat.9
+MEint1363.contig.22	feature	CDS	23777	23971	.	+	0	ID=MEint1363.genome.CDS.1450;Product=Phenazine biosynthesis protein PhzF like;locus_tag=MEint1363.genome.CDS.1450
+MEint1363.contig.22	feature	CDS	23343	23648	.	-	0	ID=MEint1363.genome.CDS.1449;Product=;locus_tag=MEint1363.genome.CDS.1449
+MEint1363.contig.22	feature	CDS	22009	23013	.	-	0	ID=MEint1363.genome.CDS.1448;Product=Integral membrane protein TerC;locus_tag=MEint1363.genome.CDS.1448
+MEint1363.contig.22	feature	CDS	19730	21895	.	-	0	ID=MEint1363.genome.CDS.1447;Product=Catalase %28EC 1.11.1.6%29 / Peroxidase %28EC 1.11.1.7%29;locus_tag=MEint1363.genome.CDS.1447
+MEint1363.contig.22	feature	CDS	19000	19719	.	+	0	ID=MEint1363.genome.CDS.1446;Product=probable DNA alkylation repair enzyme;locus_tag=MEint1363.genome.CDS.1446
+MEint1363.contig.22	feature	CDS	18751	18972	.	-	0	ID=MEint1363.genome.CDS.1445;Product=;locus_tag=MEint1363.genome.CDS.1445
+MEint1363.contig.22	feature	CDS	17880	18701	.	-	0	ID=MEint1363.genome.CDS.1444;Product=Undecaprenyl-diphosphatase %28EC 3.6.1.27%29;locus_tag=MEint1363.genome.CDS.1444
+MEint1363.contig.22	feature	CDS	17427	17816	.	-	0	ID=MEint1363.genome.CDS.1443;Product=;locus_tag=MEint1363.genome.CDS.1443
+MEint1363.contig.22	feature	CDS	16950	17426	.	-	0	ID=MEint1363.genome.CDS.1442;Product=;locus_tag=MEint1363.genome.CDS.1442
+MEint1363.contig.22	feature	CDS	16276	16947	.	-	0	ID=MEint1363.genome.CDS.1441;Product=Aquaporin Z;locus_tag=MEint1363.genome.CDS.1441
+MEint1363.contig.22	feature	CDS	15885	16289	.	-	0	ID=MEint1363.genome.CDS.1440;Product=Arsenate reductase %28EC 1.20.4.1%29;locus_tag=MEint1363.genome.CDS.1440
+MEint1363.contig.22	feature	CDS	14664	15857	.	-	0	ID=MEint1363.genome.CDS.1439;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1439
+MEint1363.contig.22	feature	CDS	13861	14667	.	+	0	ID=MEint1363.genome.CDS.1438;Product=Type I phosphodiesterase / nucleotide pyrophosphatase family protein;locus_tag=MEint1363.genome.CDS.1438
+MEint1363.contig.22	feature	CDS	13350	13820	.	-	0	ID=MEint1363.genome.CDS.1437;Product=;locus_tag=MEint1363.genome.CDS.1437
+MEint1363.contig.22	feature	CDS	12712	13353	.	-	0	ID=MEint1363.genome.CDS.1436;Product=Uncharacterized protein conserved in bacteria;locus_tag=MEint1363.genome.CDS.1436
+MEint1363.contig.22	feature	CDS	11837	12715	.	+	0	ID=MEint1363.genome.CDS.1435;Product=5-methyltetrahydrofolate--homocysteine methyltransferase %28EC 2.1.1.13%29;locus_tag=MEint1363.genome.CDS.1435
+MEint1363.contig.22	feature	CDS	11569	11826	.	+	0	ID=MEint1363.genome.CDS.1434;Product=;locus_tag=MEint1363.genome.CDS.1434
+MEint1363.contig.22	feature	CDS	10944	11516	.	+	0	ID=MEint1363.genome.CDS.1433;Product=Nitroreductase family protein;locus_tag=MEint1363.genome.CDS.1433
+MEint1363.contig.22	feature	CDS	9359	10918	.	-	0	ID=MEint1363.genome.CDS.1432;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1432
+MEint1363.contig.22	feature	CDS	8306	9358	.	+	0	ID=MEint1363.genome.CDS.1431;Product=Sulfate and thiosulfate import ATP-binding protein CysA %28EC 3.6.3.25%29;locus_tag=MEint1363.genome.CDS.1431
+MEint1363.contig.22	feature	CDS	7456	8274	.	+	0	ID=MEint1363.genome.CDS.1430;Product=Thiamin ABC transporter%2C transmembrane component;locus_tag=MEint1363.genome.CDS.1430
+MEint1363.contig.22	feature	CDS	6533	7456	.	+	0	ID=MEint1363.genome.CDS.1429;Product=;locus_tag=MEint1363.genome.CDS.1429
+MEint1363.contig.22	feature	CDS	5405	6529	.	+	0	ID=MEint1363.genome.CDS.1428;Product=extracellular solute-binding protein%2C family 1;locus_tag=MEint1363.genome.CDS.1428
+MEint1363.contig.22	feature	CDS	4796	5254	.	+	0	ID=MEint1363.genome.CDS.1427;Product=Mg%282%2B%29-transport-ATPase-associated protein MgtC;locus_tag=MEint1363.genome.CDS.1427
+MEint1363.contig.22	feature	CDS	2073	4643	.	-	0	ID=MEint1363.genome.CDS.1426;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1426
+MEint1363.contig.22	feature	CDS	1502	2053	.	-	0	ID=MEint1363.genome.CDS.1425;Product=;locus_tag=MEint1363.genome.CDS.1425
+MEint1363.contig.22	feature	CDS	271	1512	.	+	0	ID=MEint1363.genome.CDS.1424;Product=tRNA-guanine transglycosylase %28EC 2.4.2.29%29;locus_tag=MEint1363.genome.CDS.1424
+MEint1363.contig.22	feature	CDS	3	236	.	-	0	ID=MEint1363.genome.CDS.1423;Product=;locus_tag=MEint1363.genome.CDS.1423
+MEint1363.contig.23	feature	misc_RNA	1	2873	.	+	.	ID=MEint1363.genome.repeat.2;Product=repeat region;locus_tag=MEint1363.genome.repeat.2
+MEint1363.contig.23	feature	CDS	13329	13808	.	+	0	ID=MEint1363.genome.CDS.1463;Product=Transcriptional regulator%2C MarR family;locus_tag=MEint1363.genome.CDS.1463
+MEint1363.contig.23	feature	CDS	11307	13265	.	-	0	ID=MEint1363.genome.CDS.1462;Product=Metallopeptidase;locus_tag=MEint1363.genome.CDS.1462
+MEint1363.contig.23	feature	CDS	10321	11292	.	+	0	ID=MEint1363.genome.CDS.1461;Product=Oligopeptide transport ATP-binding protein OppF %28TC 3.A.1.5.1%29;locus_tag=MEint1363.genome.CDS.1461
+MEint1363.contig.23	feature	CDS	9287	10321	.	+	0	ID=MEint1363.genome.CDS.1460;Product=Oligopeptide transport ATP-binding protein OppD %28TC 3.A.1.5.1%29;locus_tag=MEint1363.genome.CDS.1460
+MEint1363.contig.23	feature	CDS	8295	9287	.	+	0	ID=MEint1363.genome.CDS.1459;Product=Dipeptide transport system permease protein DppB %28TC 3.A.1.5.2%29;locus_tag=MEint1363.genome.CDS.1459
+MEint1363.contig.23	feature	CDS	6436	8190	.	+	0	ID=MEint1363.genome.CDS.1458;Product=Oligopeptide ABC transporter%2C periplasmic oligopeptide-binding protein OppA %28TC 3.A.1.5.1%29;locus_tag=MEint1363.genome.CDS.1458
+MEint1363.contig.23	feature	CDS	5364	6332	.	+	0	ID=MEint1363.genome.CDS.1457;Product=Dipeptide transport system permease protein DppC %28TC 3.A.1.5.2%29;locus_tag=MEint1363.genome.CDS.1457
+MEint1363.contig.23	feature	CDS	4744	5289	.	-	0	ID=MEint1363.genome.CDS.1456;Product=;locus_tag=MEint1363.genome.CDS.1456
+MEint1363.contig.23	feature	CDS	3505	4740	.	+	0	ID=MEint1363.genome.CDS.1455;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1455
+MEint1363.contig.23	feature	CDS	2638	3504	.	+	0	ID=MEint1363.genome.CDS.1454;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1454
+MEint1363.contig.23	feature	CDS	1362	2603	.	-	0	ID=MEint1363.genome.CDS.1453;Product=tRNA-guanine transglycosylase %28EC 2.4.2.29%29;locus_tag=MEint1363.genome.CDS.1453
+MEint1363.contig.23	feature	CDS	821	1372	.	+	0	ID=MEint1363.genome.CDS.1452;Product=;locus_tag=MEint1363.genome.CDS.1452
+MEint1363.contig.23	feature	CDS	1	801	.	+	0	ID=MEint1363.genome.CDS.1451;Product=;locus_tag=MEint1363.genome.CDS.1451
+MEint1363.contig.24	feature	CDS	37065	37250	.	-	0	ID=MEint1363.genome.CDS.1503;Product=LSU ribosomal protein L28p %40 LSU ribosomal protein L28p%2C zinc-dependent;locus_tag=MEint1363.genome.CDS.1503
+MEint1363.contig.24	feature	CDS	36128	37054	.	+	0	ID=MEint1363.genome.CDS.1502;Product=Thiamine-monophosphate kinase %28EC 2.7.4.16%29;locus_tag=MEint1363.genome.CDS.1502
+MEint1363.contig.24	feature	CDS	35820	36053	.	-	0	ID=MEint1363.genome.CDS.1501;Product=Transcriptional regulator%2C AsnC family;locus_tag=MEint1363.genome.CDS.1501
+MEint1363.contig.24	feature	CDS	34753	35823	.	+	0	ID=MEint1363.genome.CDS.1500;Product=D-alanine--D-alanine ligase %28EC 6.3.2.4%29;locus_tag=MEint1363.genome.CDS.1500
+MEint1363.contig.24	feature	CDS	33755	34756	.	+	0	ID=MEint1363.genome.CDS.1499;Product=Glycerol-3-phosphate dehydrogenase %5BNAD%28P%29%2B%5D %28EC 1.1.1.94%29;locus_tag=MEint1363.genome.CDS.1499
+MEint1363.contig.24	feature	CDS	32979	33755	.	+	0	ID=MEint1363.genome.CDS.1498;Product=1-acyl-sn-glycerol-3-phosphate acyltransferase %28EC 2.3.1.51%29;locus_tag=MEint1363.genome.CDS.1498
+MEint1363.contig.24	feature	CDS	32466	32909	.	+	0	ID=MEint1363.genome.CDS.1497;Product=;locus_tag=MEint1363.genome.CDS.1497
+MEint1363.contig.24	feature	CDS	31627	32226	.	+	0	ID=MEint1363.genome.CDS.1496;Product=3-isopropylmalate dehydratase small subunit %28EC 4.2.1.33%29;locus_tag=MEint1363.genome.CDS.1496
+MEint1363.contig.24	feature	CDS	30223	31614	.	+	0	ID=MEint1363.genome.CDS.1495;Product=3-isopropylmalate dehydratase large subunit %28EC 4.2.1.33%29;locus_tag=MEint1363.genome.CDS.1495
+MEint1363.contig.24	feature	CDS	29457	30173	.	-	0	ID=MEint1363.genome.CDS.1494;Product=Transcriptional regulator%2C IclR family;locus_tag=MEint1363.genome.CDS.1494
+MEint1363.contig.24	feature	CDS	29041	29460	.	+	0	ID=MEint1363.genome.CDS.1493;Product=;locus_tag=MEint1363.genome.CDS.1493
+MEint1363.contig.24	feature	CDS	27869	28957	.	+	0	ID=MEint1363.genome.CDS.1492;Product=RecA protein;locus_tag=MEint1363.genome.CDS.1492
+MEint1363.contig.24	feature	CDS	27490	27687	.	+	0	ID=MEint1363.genome.CDS.1491;Product=;locus_tag=MEint1363.genome.CDS.1491
+MEint1363.contig.24	feature	CDS	26991	27503	.	+	0	ID=MEint1363.genome.CDS.1490;Product=;locus_tag=MEint1363.genome.CDS.1490
+MEint1363.contig.24	feature	CDS	26716	26979	.	+	0	ID=MEint1363.genome.CDS.1489;Product=;locus_tag=MEint1363.genome.CDS.1489
+MEint1363.contig.24	feature	CDS	26182	26676	.	+	0	ID=MEint1363.genome.CDS.1488;Product=Molybdopterin binding motif%2C CinA N-terminal domain / C-terminal domain of CinA type S;locus_tag=MEint1363.genome.CDS.1488
+MEint1363.contig.24	feature	CDS	25621	26166	.	+	0	ID=MEint1363.genome.CDS.1487;Product=CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase %28EC 2.7.8.5%29;locus_tag=MEint1363.genome.CDS.1487
+MEint1363.contig.24	feature	CDS	24242	25624	.	+	0	ID=MEint1363.genome.CDS.1486;Product=Ribosomal protein S12p Asp88 %28E. coli%29 methylthiotransferase;locus_tag=MEint1363.genome.CDS.1486
+MEint1363.contig.24	feature	CDS	23444	24211	.	+	0	ID=MEint1363.genome.CDS.1485;Product=;locus_tag=MEint1363.genome.CDS.1485
+MEint1363.contig.24	feature	CDS	20998	23313	.	+	0	ID=MEint1363.genome.CDS.1484;Product=DNA translocase FtsK;locus_tag=MEint1363.genome.CDS.1484
+MEint1363.contig.24	feature	CDS	19246	20928	.	+	0	ID=MEint1363.genome.CDS.1483;Product=Ribonuclease J2 %28endoribonuclease in RNA processing%29;locus_tag=MEint1363.genome.CDS.1483
+MEint1363.contig.24	feature	CDS	18356	19249	.	+	0	ID=MEint1363.genome.CDS.1482;Product=4-hydroxy-tetrahydrodipicolinate synthase %28EC 4.3.3.7%29;locus_tag=MEint1363.genome.CDS.1482
+MEint1363.contig.24	feature	CDS	17613	18335	.	+	0	ID=MEint1363.genome.CDS.1481;Product=Thymidylate synthase thyX %28EC 2.1.1.-%29;locus_tag=MEint1363.genome.CDS.1481
+MEint1363.contig.24	feature	CDS	16885	17553	.	-	0	ID=MEint1363.genome.CDS.1480;Product=AzlC family protein;locus_tag=MEint1363.genome.CDS.1480
+MEint1363.contig.24	feature	CDS	16577	16888	.	-	0	ID=MEint1363.genome.CDS.1479;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1479
+MEint1363.contig.24	feature	CDS	16323	16580	.	+	0	ID=MEint1363.genome.CDS.1478;Product=;locus_tag=MEint1363.genome.CDS.1478
+MEint1363.contig.24	feature	CDS	15565	16311	.	+	0	ID=MEint1363.genome.CDS.1477;Product=4-hydroxy-tetrahydrodipicolinate reductase %28EC 1.17.1.8%29;locus_tag=MEint1363.genome.CDS.1477
+MEint1363.contig.24	feature	CDS	14279	15568	.	+	0	ID=MEint1363.genome.CDS.1476;Product=FIG007959: peptidase%2C M16 family;locus_tag=MEint1363.genome.CDS.1476
+MEint1363.contig.24	feature	CDS	12080	14278	.	+	0	ID=MEint1363.genome.CDS.1475;Product=Polyribonucleotide nucleotidyltransferase %28EC 2.7.7.8%29;locus_tag=MEint1363.genome.CDS.1475
+MEint1363.contig.24	feature	CDS	11665	11934	.	+	0	ID=MEint1363.genome.CDS.1474;Product=SSU ribosomal protein S15p %28S13e%29;locus_tag=MEint1363.genome.CDS.1474
+MEint1363.contig.24	feature	CDS	10661	11548	.	+	0	ID=MEint1363.genome.CDS.1473;Product=Riboflavin kinase %28EC 2.7.1.26%29 / FMN adenylyltransferase %28EC 2.7.7.2%29;locus_tag=MEint1363.genome.CDS.1473
+MEint1363.contig.24	feature	CDS	9753	10643	.	+	0	ID=MEint1363.genome.CDS.1472;Product=tRNA pseudouridine synthase B %28EC 4.2.1.70%29;locus_tag=MEint1363.genome.CDS.1472
+MEint1363.contig.24	feature	CDS	9268	9747	.	+	0	ID=MEint1363.genome.CDS.1471;Product=Ribosome-binding factor A;locus_tag=MEint1363.genome.CDS.1471
+MEint1363.contig.24	feature	CDS	6580	9264	.	+	0	ID=MEint1363.genome.CDS.1470;Product=Translation initiation factor 2;locus_tag=MEint1363.genome.CDS.1470
+MEint1363.contig.24	feature	CDS	6312	6488	.	+	0	ID=MEint1363.genome.CDS.522;Product=;locus_tag=MEint1363.genome.CDS.522
+MEint1363.contig.24	feature	CDS	5201	6175	.	+	0	ID=MEint1363.genome.CDS.1469;Product=Transcription termination protein NusA;locus_tag=MEint1363.genome.CDS.1469
+MEint1363.contig.24	feature	CDS	4728	5201	.	+	0	ID=MEint1363.genome.CDS.1468;Product=FIG000325: clustered with transcription termination protein NusA;locus_tag=MEint1363.genome.CDS.1468
+MEint1363.contig.24	feature	CDS	3894	4673	.	+	0	ID=MEint1363.genome.CDS.1467;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1467
+MEint1363.contig.24	feature	CDS	2157	3890	.	+	0	ID=MEint1363.genome.CDS.1466;Product=Prolyl-tRNA synthetase %28EC 6.1.1.15%29%2C bacterial type;locus_tag=MEint1363.genome.CDS.1466
+MEint1363.contig.24	feature	CDS	965	2116	.	+	0	ID=MEint1363.genome.CDS.1465;Product=1-hydroxy-2-methyl-2-%28E%29-butenyl 4-diphosphate synthase %28EC 1.17.7.1%29;locus_tag=MEint1363.genome.CDS.1465
+MEint1363.contig.24	feature	CDS	1	921	.	+	0	ID=MEint1363.genome.CDS.1464;Product=Membrane-associated zinc metalloprotease;locus_tag=MEint1363.genome.CDS.1464
+MEint1363.contig.25	feature	misc_RNA	11055	12289	.	+	.	ID=MEint1363.genome.repeat.10;Product=repeat region;locus_tag=MEint1363.genome.repeat.10
+MEint1363.contig.25	feature	CDS	11714	12289	.	-	0	ID=MEint1363.genome.CDS.1516;Product=D-3-phosphoglycerate dehydrogenase %28EC 1.1.1.95%29;locus_tag=MEint1363.genome.CDS.1516
+MEint1363.contig.25	feature	CDS	10667	11704	.	-	0	ID=MEint1363.genome.CDS.1515;Product=3-isopropylmalate dehydrogenase %28EC 1.1.1.85%29;locus_tag=MEint1363.genome.CDS.1515
+MEint1363.contig.25	feature	CDS	9583	10662	.	-	0	ID=MEint1363.genome.CDS.1514;Product=Branched-chain amino acid aminotransferase %28EC 2.6.1.42%29;locus_tag=MEint1363.genome.CDS.1514
+MEint1363.contig.25	feature	CDS	7994	9583	.	-	0	ID=MEint1363.genome.CDS.1513;Product=%28R%29-citramalate synthase %28EC 2.3.1.182%29;locus_tag=MEint1363.genome.CDS.1513
+MEint1363.contig.25	feature	CDS	7067	7984	.	-	0	ID=MEint1363.genome.CDS.1512;Product=Site-specific tyrosine recombinase XerC;locus_tag=MEint1363.genome.CDS.1512
+MEint1363.contig.25	feature	CDS	6053	6853	.	-	0	ID=MEint1363.genome.CDS.1511;Product=SSU ribosomal protein S2p %28SAe%29;locus_tag=MEint1363.genome.CDS.1511
+MEint1363.contig.25	feature	CDS	5225	6049	.	-	0	ID=MEint1363.genome.CDS.1510;Product=Translation elongation factor Ts;locus_tag=MEint1363.genome.CDS.1510
+MEint1363.contig.25	feature	CDS	4462	5184	.	-	0	ID=MEint1363.genome.CDS.1509;Product=Uridine monophosphate kinase %28EC 2.7.4.22%29;locus_tag=MEint1363.genome.CDS.1509
+MEint1363.contig.25	feature	CDS	3873	4436	.	-	0	ID=MEint1363.genome.CDS.1508;Product=Ribosome recycling factor;locus_tag=MEint1363.genome.CDS.1508
+MEint1363.contig.25	feature	CDS	3011	3856	.	-	0	ID=MEint1363.genome.CDS.1507;Product=Phosphatidate cytidylyltransferase %28EC 2.7.7.41%29;locus_tag=MEint1363.genome.CDS.1507
+MEint1363.contig.25	feature	CDS	1899	3014	.	-	0	ID=MEint1363.genome.CDS.1506;Product=Ribosomal RNA large subunit methyltransferase N %28EC 2.1.1.-%29;locus_tag=MEint1363.genome.CDS.1506
+MEint1363.contig.25	feature	CDS	1429	1902	.	-	0	ID=MEint1363.genome.CDS.1505;Product=;locus_tag=MEint1363.genome.CDS.1505
+MEint1363.contig.25	feature	CDS	113	1432	.	+	0	ID=MEint1363.genome.CDS.1504;Product=Glycine/D-amino acid oxidases %28deaminating%29;locus_tag=MEint1363.genome.CDS.1504
+MEint1363.contig.26	feature	misc_RNA	1	253	.	+	.	ID=MEint1363.genome.repeat.19;Product=repeat region;locus_tag=MEint1363.genome.repeat.19
+MEint1363.contig.26	feature	misc_RNA	317	7398	.	+	.	ID=MEint1363.genome.repeat.20;Product=repeat region;locus_tag=MEint1363.genome.repeat.20
+MEint1363.contig.26	feature	CDS	24333	25715	.	+	0	ID=MEint1363.genome.CDS.1542;Product=diguanylate cyclase/phosphodiesterase %28GGDEF %26 EAL domains%29 with PAS/PAC sensor%28s%29;locus_tag=MEint1363.genome.CDS.1542
+MEint1363.contig.26	feature	CDS	23507	24277	.	+	0	ID=MEint1363.genome.CDS.1541;Product=3-oxoacyl-%5Bacyl-carrier protein%5D reductase %28EC 1.1.1.100%29;locus_tag=MEint1363.genome.CDS.1541
+MEint1363.contig.26	feature	CDS	22574	23479	.	-	0	ID=MEint1363.genome.CDS.1540;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1540
+MEint1363.contig.26	feature	CDS	20915	22597	.	+	0	ID=MEint1363.genome.CDS.1539;Product=putative cholesterol oxidase;locus_tag=MEint1363.genome.CDS.1539
+MEint1363.contig.26	feature	CDS	19688	20911	.	+	0	ID=MEint1363.genome.CDS.1538;Product=Carboxynorspermidine dehydrogenase;locus_tag=MEint1363.genome.CDS.1538
+MEint1363.contig.26	feature	tRNA	19548	19620	.	-	.	ID=MEint1363.genome.rna.14;Product=tRNA-Arg-CCT;locus_tag=MEint1363.genome.rna.14
+MEint1363.contig.26	feature	CDS	17435	19543	.	+	0	ID=MEint1363.genome.CDS.1537;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1537
+MEint1363.contig.26	feature	CDS	17263	17379	.	-	0	ID=MEint1363.genome.CDS.1536;Product=;locus_tag=MEint1363.genome.CDS.1536
+MEint1363.contig.26	feature	CDS	17013	17249	.	+	0	ID=MEint1363.genome.CDS.1535;Product=;locus_tag=MEint1363.genome.CDS.1535
+MEint1363.contig.26	feature	CDS	16390	16911	.	-	0	ID=MEint1363.genome.CDS.1534;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1534
+MEint1363.contig.26	feature	CDS	14540	16393	.	-	0	ID=MEint1363.genome.CDS.1533;Product=Copper resistance protein D;locus_tag=MEint1363.genome.CDS.1533
+MEint1363.contig.26	feature	CDS	13395	14540	.	-	0	ID=MEint1363.genome.CDS.1532;Product=Butyryl-CoA dehydrogenase %28EC 1.3.8.1%29;locus_tag=MEint1363.genome.CDS.1532
+MEint1363.contig.26	feature	CDS	12856	13398	.	+	0	ID=MEint1363.genome.CDS.1531;Product=5-formyltetrahydrofolate cyclo-ligase %28EC 6.3.3.2%29;locus_tag=MEint1363.genome.CDS.1531
+MEint1363.contig.26	feature	CDS	11900	12811	.	-	0	ID=MEint1363.genome.CDS.1530;Product=Molybdopterin biosynthesis protein MoeA;locus_tag=MEint1363.genome.CDS.1530
+MEint1363.contig.26	feature	CDS	11315	11899	.	-	0	ID=MEint1363.genome.CDS.1529;Product=Ribosomal-protein-S5p-alanine acetyltransferase;locus_tag=MEint1363.genome.CDS.1529
+MEint1363.contig.26	feature	CDS	10468	11244	.	-	0	ID=MEint1363.genome.CDS.1528;Product=;locus_tag=MEint1363.genome.CDS.1528
+MEint1363.contig.26	feature	CDS	9192	10466	.	+	0	ID=MEint1363.genome.CDS.1527;Product=CONSERVED MEMBRANE PROTEIN;locus_tag=MEint1363.genome.CDS.1527
+MEint1363.contig.26	feature	CDS	8307	9149	.	-	0	ID=MEint1363.genome.CDS.1526;Product=rRNA small subunit methyltransferase I;locus_tag=MEint1363.genome.CDS.1526
+MEint1363.contig.26	feature	CDS	6733	8310	.	-	0	ID=MEint1363.genome.CDS.1525;Product=Methionyl-tRNA synthetase %28EC 6.1.1.10%29;locus_tag=MEint1363.genome.CDS.1525
+MEint1363.contig.26	feature	CDS	5870	6727	.	-	0	ID=MEint1363.genome.CDS.1524;Product=Putative deoxyribonuclease YcfH;locus_tag=MEint1363.genome.CDS.1524
+MEint1363.contig.26	feature	CDS	5040	5873	.	-	0	ID=MEint1363.genome.CDS.1523;Product=SSU rRNA %28adenine%281518%29-N%286%29/adenine%281519%29-N%286%29%29-dimethyltransferase %28EC 2.1.1.182%29;locus_tag=MEint1363.genome.CDS.1523
+MEint1363.contig.26	feature	CDS	4118	5038	.	-	0	ID=MEint1363.genome.CDS.1522;Product=4-diphosphocytidyl-2-C-methyl-D-erythritol kinase %28EC 2.7.1.148%29;locus_tag=MEint1363.genome.CDS.1522
+MEint1363.contig.26	feature	CDS	3633	4121	.	+	0	ID=MEint1363.genome.CDS.1521;Product=Transcriptional regulator%2C MarR family;locus_tag=MEint1363.genome.CDS.1521
+MEint1363.contig.26	feature	tRNA	3466	3537	.	-	.	ID=MEint1363.genome.rna.15;Product=tRNA-Gln-TTG;locus_tag=MEint1363.genome.rna.15
+MEint1363.contig.26	feature	CDS	2004	3464	.	-	0	ID=MEint1363.genome.CDS.1520;Product=N-acetylglucosamine-1-phosphate uridyltransferase %28EC 2.7.7.23%29 / Glucosamine-1-phosphate N-acetyltransferase %28EC 2.3.1.157%29;locus_tag=MEint1363.genome.CDS.1520
+MEint1363.contig.26	feature	CDS	1018	1998	.	-	0	ID=MEint1363.genome.CDS.1519;Product=Ribose-phosphate pyrophosphokinase %28EC 2.7.6.1%29;locus_tag=MEint1363.genome.CDS.1519
+MEint1363.contig.26	feature	CDS	235	867	.	-	0	ID=MEint1363.genome.CDS.1518;Product=LSU ribosomal protein L25p;locus_tag=MEint1363.genome.CDS.1518
+MEint1363.contig.26	feature	CDS	3	218	.	-	0	ID=MEint1363.genome.CDS.1517;Product=Peptidyl-tRNA hydrolase %28EC 3.1.1.29%29;locus_tag=MEint1363.genome.CDS.1517
+MEint1363.contig.27	feature	CDS	5819	6565	.	+	0	ID=MEint1363.genome.CDS.1550;Product=Citrate synthase %28si%29 %28EC 2.3.3.1%29;locus_tag=MEint1363.genome.CDS.1550
+MEint1363.contig.27	feature	CDS	5032	5694	.	-	0	ID=MEint1363.genome.CDS.1549;Product=Pyridoxamine 5%27-phosphate oxidase %28EC 1.4.3.5%29;locus_tag=MEint1363.genome.CDS.1549
+MEint1363.contig.27	feature	CDS	3910	5022	.	-	0	ID=MEint1363.genome.CDS.1548;Product=Phosphoserine aminotransferase %28EC 2.6.1.52%29;locus_tag=MEint1363.genome.CDS.1548
+MEint1363.contig.27	feature	CDS	2712	3890	.	-	0	ID=MEint1363.genome.CDS.1547;Product=;locus_tag=MEint1363.genome.CDS.1547
+MEint1363.contig.27	feature	CDS	2458	2646	.	-	0	ID=MEint1363.genome.CDS.1546;Product=;locus_tag=MEint1363.genome.CDS.1546
+MEint1363.contig.27	feature	CDS	2078	2461	.	+	0	ID=MEint1363.genome.CDS.1545;Product=Cold shock protein CspC;locus_tag=MEint1363.genome.CDS.1545
+MEint1363.contig.27	feature	CDS	1356	2009	.	+	0	ID=MEint1363.genome.CDS.1544;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1544
+MEint1363.contig.27	feature	CDS	1	1281	.	+	0	ID=MEint1363.genome.CDS.1543;Product=Heat shock protein 60 family chaperone GroEL;locus_tag=MEint1363.genome.CDS.1543
+MEint1363.contig.28	feature	misc_RNA	1	1937	.	+	.	ID=MEint1363.genome.repeat.12;Product=repeat region;locus_tag=MEint1363.genome.repeat.12
+MEint1363.contig.28	feature	misc_RNA	31100	34508	.	+	.	ID=MEint1363.genome.repeat.13;Product=repeat region;locus_tag=MEint1363.genome.repeat.13
+MEint1363.contig.28	feature	CDS	33259	34392	.	-	0	ID=MEint1363.genome.CDS.1582;Product=Cell division protein FtsZ %28EC 3.4.24.-%29;locus_tag=MEint1363.genome.CDS.1582
+MEint1363.contig.28	feature	CDS	32591	33256	.	-	0	ID=MEint1363.genome.CDS.1581;Product=COG1496: Uncharacterized conserved protein;locus_tag=MEint1363.genome.CDS.1581
+MEint1363.contig.28	feature	CDS	31917	32594	.	-	0	ID=MEint1363.genome.CDS.1580;Product=Hypothetical protein YggS%2C proline synthase co-transcribed bacterial homolog PROSC;locus_tag=MEint1363.genome.CDS.1580
+MEint1363.contig.28	feature	CDS	31448	31906	.	-	0	ID=MEint1363.genome.CDS.1579;Product=FIG021292: hypothetical protein;locus_tag=MEint1363.genome.CDS.1579
+MEint1363.contig.28	feature	CDS	31153	31437	.	-	0	ID=MEint1363.genome.CDS.1578;Product=FIG021764: Possible membrane protein;locus_tag=MEint1363.genome.CDS.1578
+MEint1363.contig.28	feature	CDS	28046	31156	.	+	0	ID=MEint1363.genome.CDS.1577;Product=Isoleucyl-tRNA synthetase %28EC 6.1.1.5%29;locus_tag=MEint1363.genome.CDS.1577
+MEint1363.contig.28	feature	CDS	27188	27958	.	-	0	ID=MEint1363.genome.CDS.1576;Product=putative DNA-binding protein;locus_tag=MEint1363.genome.CDS.1576
+MEint1363.contig.28	feature	CDS	26703	27185	.	-	0	ID=MEint1363.genome.CDS.1575;Product=Lipoprotein signal peptidase %28EC 3.4.23.36%29;locus_tag=MEint1363.genome.CDS.1575
+MEint1363.contig.28	feature	CDS	25762	26700	.	-	0	ID=MEint1363.genome.CDS.1574;Product=Ribosomal large subunit pseudouridine synthase D %28EC 4.2.1.70%29;locus_tag=MEint1363.genome.CDS.1574
+MEint1363.contig.28	feature	CDS	22249	25701	.	-	0	ID=MEint1363.genome.CDS.1573;Product=DNA polymerase III alpha subunit %28EC 2.7.7.7%29;locus_tag=MEint1363.genome.CDS.1573
+MEint1363.contig.28	feature	CDS	20879	22195	.	-	0	ID=MEint1363.genome.CDS.1572;Product=Histidinol dehydrogenase %28EC 1.1.1.23%29;locus_tag=MEint1363.genome.CDS.1572
+MEint1363.contig.28	feature	CDS	19788	20882	.	-	0	ID=MEint1363.genome.CDS.1571;Product=Histidinol-phosphate aminotransferase %28EC 2.6.1.9%29;locus_tag=MEint1363.genome.CDS.1571
+MEint1363.contig.28	feature	CDS	19180	19764	.	-	0	ID=MEint1363.genome.CDS.1570;Product=Imidazoleglycerol-phosphate dehydratase %28EC 4.2.1.19%29;locus_tag=MEint1363.genome.CDS.1570
+MEint1363.contig.28	feature	CDS	18590	19183	.	-	0	ID=MEint1363.genome.CDS.1569;Product=Imidazole glycerol phosphate synthase amidotransferase subunit %28EC 2.4.2.-%29;locus_tag=MEint1363.genome.CDS.1569
+MEint1363.contig.28	feature	CDS	17868	18593	.	-	0	ID=MEint1363.genome.CDS.1568;Product=Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase %28EC 5.3.1.16%29 %40 Acting phosphoribosylanthranilate isomerase %28EC 5.3.1.24%29;locus_tag=MEint1363.genome.CDS.1568
+MEint1363.contig.28	feature	CDS	17098	17871	.	-	0	ID=MEint1363.genome.CDS.1567;Product=Imidazole glycerol phosphate synthase cyclase subunit %28EC 4.1.3.-%29;locus_tag=MEint1363.genome.CDS.1567
+MEint1363.contig.28	feature	CDS	16739	17083	.	-	0	ID=MEint1363.genome.CDS.1566;Product=Phosphoribosyl-AMP cyclohydrolase %28EC 3.5.4.19%29;locus_tag=MEint1363.genome.CDS.1566
+MEint1363.contig.28	feature	CDS	15255	16742	.	-	0	ID=MEint1363.genome.CDS.1565;Product=Anthranilate synthase%2C aminase component %28EC 4.1.3.27%29;locus_tag=MEint1363.genome.CDS.1565
+MEint1363.contig.28	feature	CDS	15085	15258	.	-	0	ID=MEint1363.genome.CDS.1564;Product=;locus_tag=MEint1363.genome.CDS.1564
+MEint1363.contig.28	feature	CDS	14315	15088	.	-	0	ID=MEint1363.genome.CDS.1563;Product=Indole-3-glycerol phosphate synthase %28EC 4.1.1.48%29;locus_tag=MEint1363.genome.CDS.1563
+MEint1363.contig.28	feature	CDS	13106	14305	.	-	0	ID=MEint1363.genome.CDS.1562;Product=Tryptophan synthase beta chain %28EC 4.2.1.20%29;locus_tag=MEint1363.genome.CDS.1562
+MEint1363.contig.28	feature	CDS	12300	13106	.	-	0	ID=MEint1363.genome.CDS.1561;Product=Tryptophan synthase alpha chain %28EC 4.2.1.20%29;locus_tag=MEint1363.genome.CDS.1561
+MEint1363.contig.28	feature	CDS	11821	12303	.	-	0	ID=MEint1363.genome.CDS.1560;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1560
+MEint1363.contig.28	feature	CDS	11125	11817	.	-	0	ID=MEint1363.genome.CDS.1559;Product=;locus_tag=MEint1363.genome.CDS.1559
+MEint1363.contig.28	feature	CDS	10308	11084	.	-	0	ID=MEint1363.genome.CDS.1558;Product=Prolipoprotein diacylglyceryl transferase %28EC 2.4.99.-%29;locus_tag=MEint1363.genome.CDS.1558
+MEint1363.contig.28	feature	CDS	9598	10305	.	-	0	ID=MEint1363.genome.CDS.1557;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1557
+MEint1363.contig.28	feature	CDS	4972	9483	.	-	0	ID=MEint1363.genome.CDS.1556;Product=Glutamate synthase %5BNADPH%5D large chain %28EC 1.4.1.13%29;locus_tag=MEint1363.genome.CDS.1556
+MEint1363.contig.28	feature	CDS	3522	4979	.	-	0	ID=MEint1363.genome.CDS.1555;Product=Glutamate synthase %5BNADPH%5D small chain %28EC 1.4.1.13%29;locus_tag=MEint1363.genome.CDS.1555
+MEint1363.contig.28	feature	CDS	2069	3508	.	-	0	ID=MEint1363.genome.CDS.1554;Product=Pyruvate kinase %28EC 2.7.1.40%29;locus_tag=MEint1363.genome.CDS.1554
+MEint1363.contig.28	feature	tRNA	1945	2017	.	-	.	ID=MEint1363.genome.rna.16;Product=tRNA-Leu-CAA;locus_tag=MEint1363.genome.rna.16
+MEint1363.contig.28	feature	CDS	1362	1943	.	-	0	ID=MEint1363.genome.CDS.1553;Product=response regulator;locus_tag=MEint1363.genome.CDS.1553
+MEint1363.contig.28	feature	CDS	122	1243	.	-	0	ID=MEint1363.genome.CDS.1552;Product=Branched-chain amino acid ABC transporter%2C amino acid-binding protein %28TC 3.A.1.4.1%29;locus_tag=MEint1363.genome.CDS.1552
+MEint1363.contig.28	feature	CDS	2	121	.	+	0	ID=MEint1363.genome.CDS.1551;Product=;locus_tag=MEint1363.genome.CDS.1551
+MEint1363.contig.29	feature	misc_RNA	55192	58600	.	+	.	ID=MEint1363.genome.repeat.8;Product=repeat region;locus_tag=MEint1363.genome.repeat.8
+MEint1363.contig.29	feature	CDS	58263	58547	.	+	0	ID=MEint1363.genome.CDS.1641;Product=FIG021764: Possible membrane protein;locus_tag=MEint1363.genome.CDS.1641
+MEint1363.contig.29	feature	CDS	57794	58252	.	+	0	ID=MEint1363.genome.CDS.1640;Product=FIG021292: hypothetical protein;locus_tag=MEint1363.genome.CDS.1640
+MEint1363.contig.29	feature	CDS	57106	57783	.	+	0	ID=MEint1363.genome.CDS.1639;Product=Hypothetical protein YggS%2C proline synthase co-transcribed bacterial homolog PROSC;locus_tag=MEint1363.genome.CDS.1639
+MEint1363.contig.29	feature	CDS	56444	57109	.	+	0	ID=MEint1363.genome.CDS.1638;Product=COG1496: Uncharacterized conserved protein;locus_tag=MEint1363.genome.CDS.1638
+MEint1363.contig.29	feature	CDS	55308	56441	.	+	0	ID=MEint1363.genome.CDS.1637;Product=Cell division protein FtsZ %28EC 3.4.24.-%29;locus_tag=MEint1363.genome.CDS.1637
+MEint1363.contig.29	feature	CDS	54513	55181	.	+	0	ID=MEint1363.genome.CDS.1636;Product=;locus_tag=MEint1363.genome.CDS.1636
+MEint1363.contig.29	feature	CDS	53115	54503	.	+	0	ID=MEint1363.genome.CDS.1635;Product=UDP-N-acetylmuramate--alanine ligase %28EC 6.3.2.8%29;locus_tag=MEint1363.genome.CDS.1635
+MEint1363.contig.29	feature	CDS	52016	53095	.	+	0	ID=MEint1363.genome.CDS.1634;Product=UDP-N-acetylglucosamine--N-acetylmuramyl-%28pentapeptide%29 pyrophosphoryl-undecaprenol N-acetylglucosamine transferase %28EC 2.4.1.227%29;locus_tag=MEint1363.genome.CDS.1634
+MEint1363.contig.29	feature	CDS	50922	52016	.	+	0	ID=MEint1363.genome.CDS.1633;Product=Cell division protein FtsW;locus_tag=MEint1363.genome.CDS.1633
+MEint1363.contig.29	feature	CDS	49481	50872	.	+	0	ID=MEint1363.genome.CDS.1632;Product=UDP-N-acetylmuramoylalanine--D-glutamate ligase %28EC 6.3.2.9%29;locus_tag=MEint1363.genome.CDS.1632
+MEint1363.contig.29	feature	CDS	48412	49470	.	+	0	ID=MEint1363.genome.CDS.1631;Product=Phospho-N-acetylmuramoyl-pentapeptide-transferase %28EC 2.7.8.13%29;locus_tag=MEint1363.genome.CDS.1631
+MEint1363.contig.29	feature	CDS	47027	48415	.	+	0	ID=MEint1363.genome.CDS.1630;Product=UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase %28EC 6.3.2.10%29;locus_tag=MEint1363.genome.CDS.1630
+MEint1363.contig.29	feature	CDS	45534	47030	.	+	0	ID=MEint1363.genome.CDS.1629;Product=UDP-N-acetylmuramoylalanyl-D-glutamate--2%2C6-diaminopimelate ligase %28EC 6.3.2.13%29;locus_tag=MEint1363.genome.CDS.1629
+MEint1363.contig.29	feature	CDS	43732	45537	.	+	0	ID=MEint1363.genome.CDS.1628;Product=Cell division protein FtsI %5BPeptidoglycan synthetase%5D %28EC 2.4.1.129%29;locus_tag=MEint1363.genome.CDS.1628
+MEint1363.contig.29	feature	CDS	43356	43739	.	+	0	ID=MEint1363.genome.CDS.1627;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1627
+MEint1363.contig.29	feature	CDS	42405	43355	.	+	0	ID=MEint1363.genome.CDS.1626;Product=rRNA small subunit methyltransferase H;locus_tag=MEint1363.genome.CDS.1626
+MEint1363.contig.29	feature	CDS	41804	42235	.	+	0	ID=MEint1363.genome.CDS.1625;Product=Cell division protein MraZ;locus_tag=MEint1363.genome.CDS.1625
+MEint1363.contig.29	feature	CDS	41241	41597	.	+	0	ID=MEint1363.genome.CDS.1624;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1624
+MEint1363.contig.29	feature	CDS	40003	41208	.	+	0	ID=MEint1363.genome.CDS.673;Product=DNA polymerase IV %28EC 2.7.7.7%29;locus_tag=MEint1363.genome.CDS.673
+MEint1363.contig.29	feature	CDS	36812	40036	.	+	0	ID=MEint1363.genome.CDS.1622;Product=DNA polymerase III alpha subunit %28EC 2.7.7.7%29;locus_tag=MEint1363.genome.CDS.1622
+MEint1363.contig.29	feature	CDS	36522	36815	.	+	0	ID=MEint1363.genome.CDS.1621;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1621
+MEint1363.contig.29	feature	CDS	35917	36345	.	-	0	ID=MEint1363.genome.CDS.1620;Product=;locus_tag=MEint1363.genome.CDS.1620
+MEint1363.contig.29	feature	CDS	34758	35870	.	+	0	ID=MEint1363.genome.CDS.1619;Product=;locus_tag=MEint1363.genome.CDS.1619
+MEint1363.contig.29	feature	CDS	33673	34680	.	+	0	ID=MEint1363.genome.CDS.1618;Product=;locus_tag=MEint1363.genome.CDS.1618
+MEint1363.contig.29	feature	CDS	32845	33672	.	+	0	ID=MEint1363.genome.CDS.1617;Product=;locus_tag=MEint1363.genome.CDS.1617
+MEint1363.contig.29	feature	CDS	31940	32845	.	+	0	ID=MEint1363.genome.CDS.1616;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1616
+MEint1363.contig.29	feature	CDS	31174	31935	.	+	0	ID=MEint1363.genome.CDS.1615;Product=;locus_tag=MEint1363.genome.CDS.1615
+MEint1363.contig.29	feature	CDS	30127	31143	.	+	0	ID=MEint1363.genome.CDS.1614;Product=Glycerol-1-phosphate dehydrogenase %5BNAD%28P%29%5D %28EC 1.1.1.261%29;locus_tag=MEint1363.genome.CDS.1614
+MEint1363.contig.29	feature	CDS	29077	30105	.	+	0	ID=MEint1363.genome.CDS.1613;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1613
+MEint1363.contig.29	feature	CDS	27671	28933	.	-	0	ID=MEint1363.genome.CDS.1612;Product=N-Acetyl-D-glucosamine ABC transport system%2C sugar-binding protein;locus_tag=MEint1363.genome.CDS.1612
+MEint1363.contig.29	feature	CDS	26750	27622	.	-	0	ID=MEint1363.genome.CDS.1611;Product=;locus_tag=MEint1363.genome.CDS.1611
+MEint1363.contig.29	feature	CDS	25923	26753	.	-	0	ID=MEint1363.genome.CDS.1610;Product=;locus_tag=MEint1363.genome.CDS.1610
+MEint1363.contig.29	feature	CDS	24650	25897	.	-	0	ID=MEint1363.genome.CDS.1609;Product=Bacillosamine/Legionaminic acid biosynthesis aminotransferase PglE%3B 4-keto-6-deoxy-N-Acetyl-D-hexosaminyl-%28Lipid carrier%29 aminotransferase;locus_tag=MEint1363.genome.CDS.1609
+MEint1363.contig.29	feature	CDS	23604	24626	.	-	0	ID=MEint1363.genome.CDS.1608;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1608
+MEint1363.contig.29	feature	CDS	22502	23488	.	-	0	ID=MEint1363.genome.CDS.657;Product=probable peptidoglycan binding protein;locus_tag=MEint1363.genome.CDS.657
+MEint1363.contig.29	feature	CDS	21994	22479	.	-	0	ID=MEint1363.genome.CDS.656;Product=Uncharacterized protein SCO3165;locus_tag=MEint1363.genome.CDS.656
+MEint1363.contig.29	feature	CDS	21615	21989	.	-	0	ID=MEint1363.genome.CDS.1605;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1605
+MEint1363.contig.29	feature	CDS	20821	21615	.	-	0	ID=MEint1363.genome.CDS.1604;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1604
+MEint1363.contig.29	feature	CDS	20141	20821	.	-	0	ID=MEint1363.genome.CDS.1603;Product=Spheroidene monooxygenase %28EC 1.14.15.9%29;locus_tag=MEint1363.genome.CDS.1603
+MEint1363.contig.29	feature	CDS	19322	20125	.	-	0	ID=MEint1363.genome.CDS.1602;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1602
+MEint1363.contig.29	feature	CDS	18239	19312	.	-	0	ID=MEint1363.genome.CDS.1601;Product=Glycosyl transferase%2C family 2;locus_tag=MEint1363.genome.CDS.1601
+MEint1363.contig.29	feature	CDS	16716	18242	.	-	0	ID=MEint1363.genome.CDS.1600;Product=Phytoene dehydrogenase %28EC 1.14.99.-%29;locus_tag=MEint1363.genome.CDS.1600
+MEint1363.contig.29	feature	CDS	16142	16762	.	+	0	ID=MEint1363.genome.CDS.1599;Product=;locus_tag=MEint1363.genome.CDS.1599
+MEint1363.contig.29	feature	CDS	15002	16087	.	-	0	ID=MEint1363.genome.CDS.1598;Product=Geranylgeranyl diphosphate synthase %28EC 2.5.1.29%29;locus_tag=MEint1363.genome.CDS.1598
+MEint1363.contig.29	feature	CDS	13518	15002	.	-	0	ID=MEint1363.genome.CDS.1597;Product=Phytoene dehydrogenase %28EC 1.14.99.-%29;locus_tag=MEint1363.genome.CDS.1597
+MEint1363.contig.29	feature	CDS	12618	13517	.	-	0	ID=MEint1363.genome.CDS.1596;Product=Phytoene synthase %28EC 2.5.1.32%29;locus_tag=MEint1363.genome.CDS.1596
+MEint1363.contig.29	feature	CDS	11924	12505	.	-	0	ID=MEint1363.genome.CDS.1595;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1595
+MEint1363.contig.29	feature	CDS	11410	11949	.	-	0	ID=MEint1363.genome.CDS.1594;Product=;locus_tag=MEint1363.genome.CDS.1594
+MEint1363.contig.29	feature	CDS	9466	11358	.	-	0	ID=MEint1363.genome.CDS.1593;Product=Probable serine/threonine-protein kinase pknL %28EC 2.7.11.1%29;locus_tag=MEint1363.genome.CDS.1593
+MEint1363.contig.29	feature	CDS	8583	9461	.	-	0	ID=MEint1363.genome.CDS.1592;Product=Endonuclease IV %28EC 3.1.21.2%29;locus_tag=MEint1363.genome.CDS.1592
+MEint1363.contig.29	feature	CDS	7723	8586	.	-	0	ID=MEint1363.genome.CDS.1591;Product=Permease of the drug/metabolite transporter %28DMT%29 superfamily;locus_tag=MEint1363.genome.CDS.1591
+MEint1363.contig.29	feature	CDS	6677	7711	.	-	0	ID=MEint1363.genome.CDS.1590;Product=Low-specificity L-threonine aldolase %28EC 4.1.2.48%29;locus_tag=MEint1363.genome.CDS.1590
+MEint1363.contig.29	feature	CDS	6206	6700	.	+	0	ID=MEint1363.genome.CDS.1589;Product=Methylated-DNA--protein-cysteine methyltransferase %28EC 2.1.1.63%29;locus_tag=MEint1363.genome.CDS.1589
+MEint1363.contig.29	feature	CDS	4853	6196	.	+	0	ID=MEint1363.genome.CDS.1588;Product=2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase II %28EC 2.5.1.54%29;locus_tag=MEint1363.genome.CDS.1588
+MEint1363.contig.29	feature	CDS	3785	4810	.	+	0	ID=MEint1363.genome.CDS.1587;Product=6-phosphofructokinase %28EC 2.7.1.11%29;locus_tag=MEint1363.genome.CDS.1587
+MEint1363.contig.29	feature	CDS	2309	3718	.	-	0	ID=MEint1363.genome.CDS.1586;Product=Xylulose kinase %28EC 2.7.1.17%29;locus_tag=MEint1363.genome.CDS.1586
+MEint1363.contig.29	feature	CDS	1435	2244	.	-	0	ID=MEint1363.genome.CDS.1585;Product=Permease of the drug/metabolite transporter %28DMT%29 superfamily;locus_tag=MEint1363.genome.CDS.1585
+MEint1363.contig.29	feature	CDS	521	1438	.	+	0	ID=MEint1363.genome.CDS.1584;Product=GTP-binding protein Era;locus_tag=MEint1363.genome.CDS.1584
+MEint1363.contig.29	feature	CDS	3	488	.	+	0	ID=MEint1363.genome.CDS.1583;Product=Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake;locus_tag=MEint1363.genome.CDS.1583
+MEint1363.contig.3	feature	CDS	6155	7396	.	-	0	ID=MEint1363.genome.CDS.1040;Product=DNA gyrase subunit A %28EC 5.99.1.3%29;locus_tag=MEint1363.genome.CDS.1040
+MEint1363.contig.3	feature	tRNA	6002	6079	.	-	.	ID=MEint1363.genome.rna.2;Product=tRNA-Ile-GAT;locus_tag=MEint1363.genome.rna.2
+MEint1363.contig.3	feature	tRNA	5918	5990	.	-	.	ID=MEint1363.genome.rna.3;Product=tRNA-Ala-TGC;locus_tag=MEint1363.genome.rna.3
+MEint1363.contig.3	feature	CDS	5404	5916	.	-	0	ID=MEint1363.genome.CDS.1039;Product=Peptidyl-prolyl cis-trans isomerase %28EC 5.2.1.8%29;locus_tag=MEint1363.genome.CDS.1039
+MEint1363.contig.3	feature	CDS	4861	5400	.	-	0	ID=MEint1363.genome.CDS.1038;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1038
+MEint1363.contig.3	feature	CDS	4545	4808	.	+	0	ID=MEint1363.genome.CDS.1037;Product=Cell division protein CrgA;locus_tag=MEint1363.genome.CDS.1037
+MEint1363.contig.3	feature	CDS	3882	4508	.	-	0	ID=MEint1363.genome.CDS.1036;Product=Anthranilate synthase%2C amidotransferase component %28EC 4.1.3.27%29 %40 Para-aminobenzoate synthase%2C amidotransferase component %28EC 2.6.1.85%29;locus_tag=MEint1363.genome.CDS.1036
+MEint1363.contig.3	feature	CDS	2340	3881	.	+	0	ID=MEint1363.genome.CDS.1035;Product=Serine/threonine protein kinase PrkC%2C regulator of stationary phase;locus_tag=MEint1363.genome.CDS.1035
+MEint1363.contig.3	feature	CDS	1570	2343	.	+	0	ID=MEint1363.genome.CDS.1034;Product=Protein serine/threonine phosphatase PrpC%2C regulation of stationary phase;locus_tag=MEint1363.genome.CDS.1034
+MEint1363.contig.3	feature	CDS	825	1556	.	-	0	ID=MEint1363.genome.CDS.1033;Product=Glycerophosphoryl diester phosphodiesterase %28EC 3.1.4.46%29;locus_tag=MEint1363.genome.CDS.1033
+MEint1363.contig.3	feature	CDS	3	821	.	-	0	ID=MEint1363.genome.CDS.1032;Product=Prephenate dehydratase %28EC 4.2.1.51%29;locus_tag=MEint1363.genome.CDS.1032
+MEint1363.contig.30	feature	CDS	8531	8761	.	-	0	ID=MEint1363.genome.CDS.1654;Product=;locus_tag=MEint1363.genome.CDS.1654
+MEint1363.contig.30	feature	CDS	8347	8520	.	-	0	ID=MEint1363.genome.CDS.1653;Product=;locus_tag=MEint1363.genome.CDS.1653
+MEint1363.contig.30	feature	CDS	7863	8357	.	-	0	ID=MEint1363.genome.CDS.1652;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1652
+MEint1363.contig.30	feature	CDS	7491	7862	.	-	0	ID=MEint1363.genome.CDS.1651;Product=Thioredoxin;locus_tag=MEint1363.genome.CDS.1651
+MEint1363.contig.30	feature	CDS	7226	7450	.	-	0	ID=MEint1363.genome.CDS.1650;Product=;locus_tag=MEint1363.genome.CDS.1650
+MEint1363.contig.30	feature	CDS	6078	7229	.	-	0	ID=MEint1363.genome.CDS.1649;Product=Molybdopterin biosynthesis protein MoeA;locus_tag=MEint1363.genome.CDS.1649
+MEint1363.contig.30	feature	CDS	5839	6075	.	+	0	ID=MEint1363.genome.CDS.1648;Product=;locus_tag=MEint1363.genome.CDS.1648
+MEint1363.contig.30	feature	CDS	5406	5822	.	+	0	ID=MEint1363.genome.CDS.1647;Product=;locus_tag=MEint1363.genome.CDS.1647
+MEint1363.contig.30	feature	CDS	4246	5409	.	+	0	ID=MEint1363.genome.CDS.1646;Product=DNA recombination protein RmuC;locus_tag=MEint1363.genome.CDS.1646
+MEint1363.contig.30	feature	CDS	3127	4200	.	-	0	ID=MEint1363.genome.CDS.1645;Product=GTP-binding and nucleic acid-binding protein YchF;locus_tag=MEint1363.genome.CDS.1645
+MEint1363.contig.30	feature	CDS	1775	3124	.	+	0	ID=MEint1363.genome.CDS.1644;Product=PLP-dependent aminotransferase NCgl2355 %28class III%29;locus_tag=MEint1363.genome.CDS.1644
+MEint1363.contig.30	feature	CDS	228	1712	.	-	0	ID=MEint1363.genome.CDS.1643;Product=Methylmalonate-semialdehyde dehydrogenase %5Binositol%5D %28EC 1.2.1.27%29;locus_tag=MEint1363.genome.CDS.1643
+MEint1363.contig.30	feature	CDS	3	107	.	-	0	ID=MEint1363.genome.CDS.1642;Product=GTP-binding protein TypA/BipA;locus_tag=MEint1363.genome.CDS.1642
+MEint1363.contig.31	feature	misc_RNA	8315	8493	.	+	.	ID=MEint1363.genome.repeat.16;Product=repeat region;locus_tag=MEint1363.genome.repeat.16
+MEint1363.contig.31	feature	CDS	8213	8491	.	+	0	ID=MEint1363.genome.CDS.1662;Product=;locus_tag=MEint1363.genome.CDS.1662
+MEint1363.contig.31	feature	CDS	6936	8156	.	-	0	ID=MEint1363.genome.CDS.1661;Product=Chromosome segregation ATPases;locus_tag=MEint1363.genome.CDS.1661
+MEint1363.contig.31	feature	CDS	6079	6939	.	-	0	ID=MEint1363.genome.CDS.1660;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1660
+MEint1363.contig.31	feature	CDS	3355	6075	.	+	0	ID=MEint1363.genome.CDS.1659;Product=Pyruvate dehydrogenase E1 component %28EC 1.2.4.1%29;locus_tag=MEint1363.genome.CDS.1659
+MEint1363.contig.31	feature	CDS	2863	3255	.	-	0	ID=MEint1363.genome.CDS.1658;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1658
+MEint1363.contig.31	feature	CDS	2394	2852	.	-	0	ID=MEint1363.genome.CDS.1657;Product=Alkyl hydroperoxide reductase subunit C-like protein;locus_tag=MEint1363.genome.CDS.1657
+MEint1363.contig.31	feature	tRNA	2280	2354	.	-	.	ID=MEint1363.genome.rna.17;Product=tRNA-Val-TAC;locus_tag=MEint1363.genome.rna.17
+MEint1363.contig.31	feature	CDS	1506	2231	.	-	0	ID=MEint1363.genome.CDS.1656;Product=FIG137478: Hypothetical protein;locus_tag=MEint1363.genome.CDS.1656
+MEint1363.contig.31	feature	CDS	417	1502	.	-	0	ID=MEint1363.genome.CDS.1655;Product=FIG006762: Phosphoglycerate mutase family;locus_tag=MEint1363.genome.CDS.1655
+MEint1363.contig.32	feature	misc_RNA	27337	31862	.	+	.	ID=MEint1363.genome.repeat.17;Product=repeat region;locus_tag=MEint1363.genome.repeat.17
+MEint1363.contig.32	feature	CDS	31416	31685	.	-	0	ID=MEint1363.genome.CDS.1695;Product=SSU ribosomal protein S20p;locus_tag=MEint1363.genome.CDS.1695
+MEint1363.contig.32	feature	CDS	29507	31378	.	-	0	ID=MEint1363.genome.CDS.1694;Product=Translation elongation factor LepA;locus_tag=MEint1363.genome.CDS.1694
+MEint1363.contig.32	feature	CDS	28374	29498	.	-	0	ID=MEint1363.genome.CDS.1693;Product=Hypothetical radical SAM family enzyme in heat shock gene cluster%2C similarity with CPO of BS HemN-type;locus_tag=MEint1363.genome.CDS.1693
+MEint1363.contig.32	feature	CDS	28035	28361	.	-	0	ID=MEint1363.genome.CDS.1692;Product=;locus_tag=MEint1363.genome.CDS.1692
+MEint1363.contig.32	feature	CDS	27013	28026	.	-	0	ID=MEint1363.genome.CDS.1691;Product=Heat-inducible transcription repressor HrcA;locus_tag=MEint1363.genome.CDS.1691
+MEint1363.contig.32	feature	CDS	25903	27012	.	-	0	ID=MEint1363.genome.CDS.1690;Product=Chaperone protein DnaJ;locus_tag=MEint1363.genome.CDS.1690
+MEint1363.contig.32	feature	CDS	25175	25900	.	-	0	ID=MEint1363.genome.CDS.1689;Product=Ribosomal RNA small subunit methyltransferase E %28EC 2.1.1.-%29;locus_tag=MEint1363.genome.CDS.1689
+MEint1363.contig.32	feature	CDS	24823	25170	.	-	0	ID=MEint1363.genome.CDS.735;Product=;locus_tag=MEint1363.genome.CDS.735
+MEint1363.contig.32	feature	CDS	23820	24803	.	-	0	ID=MEint1363.genome.CDS.1687;Product=Phosphate starvation-inducible protein PhoH%2C predicted ATPase;locus_tag=MEint1363.genome.CDS.1687
+MEint1363.contig.32	feature	CDS	23389	23823	.	-	0	ID=MEint1363.genome.CDS.1686;Product=Metal-dependent hydrolase YbeY%2C involved in rRNA and/or ribosome maturation and assembly;locus_tag=MEint1363.genome.CDS.1686
+MEint1363.contig.32	feature	CDS	22118	23392	.	-	0	ID=MEint1363.genome.CDS.1685;Product=Magnesium and cobalt efflux protein CorC;locus_tag=MEint1363.genome.CDS.1685
+MEint1363.contig.32	feature	CDS	21811	22131	.	-	0	ID=MEint1363.genome.CDS.1684;Product=;locus_tag=MEint1363.genome.CDS.1684
+MEint1363.contig.32	feature	CDS	20987	21778	.	-	0	ID=MEint1363.genome.CDS.1683;Product=Fumarylacetoacetate hydrolase family protein;locus_tag=MEint1363.genome.CDS.1683
+MEint1363.contig.32	feature	CDS	19537	20994	.	-	0	ID=MEint1363.genome.CDS.1682;Product=Glutamyl-tRNA synthetase %28EC 6.1.1.17%29 %40 Glutamyl-tRNA%28Gln%29 synthetase %28EC 6.1.1.24%29;locus_tag=MEint1363.genome.CDS.1682
+MEint1363.contig.32	feature	tRNA	19432	19506	.	-	.	ID=MEint1363.genome.rna.18;Product=tRNA-Gln-CTG;locus_tag=MEint1363.genome.rna.18
+MEint1363.contig.32	feature	tRNA	19333	19405	.	-	.	ID=MEint1363.genome.rna.19;Product=tRNA-Glu-CTC;locus_tag=MEint1363.genome.rna.19
+MEint1363.contig.32	feature	CDS	18107	19324	.	-	0	ID=MEint1363.genome.CDS.1681;Product=Benzoate transport protein;locus_tag=MEint1363.genome.CDS.1681
+MEint1363.contig.32	feature	CDS	17560	18099	.	-	0	ID=MEint1363.genome.CDS.1680;Product=;locus_tag=MEint1363.genome.CDS.1680
+MEint1363.contig.32	feature	CDS	17087	17563	.	-	0	ID=MEint1363.genome.CDS.1679;Product=Molybdenum cofactor biosynthesis protein MoaC;locus_tag=MEint1363.genome.CDS.1679
+MEint1363.contig.32	feature	CDS	16617	17090	.	-	0	ID=MEint1363.genome.CDS.1678;Product=Molybdenum cofactor biosynthesis protein MoaB;locus_tag=MEint1363.genome.CDS.1678
+MEint1363.contig.32	feature	CDS	16211	16624	.	-	0	ID=MEint1363.genome.CDS.724;Product=Molybdenum cofactor biosynthesis protein MoaE;locus_tag=MEint1363.genome.CDS.724
+MEint1363.contig.32	feature	CDS	15228	16124	.	-	0	ID=MEint1363.genome.CDS.1676;Product=Cyclic pyranopterin monophosphate synthase %28EC 4.1.99.18%29;locus_tag=MEint1363.genome.CDS.1676
+MEint1363.contig.32	feature	CDS	14989	15231	.	+	0	ID=MEint1363.genome.CDS.1675;Product=;locus_tag=MEint1363.genome.CDS.1675
+MEint1363.contig.32	feature	CDS	14235	14966	.	-	0	ID=MEint1363.genome.CDS.1674;Product=;locus_tag=MEint1363.genome.CDS.1674
+MEint1363.contig.32	feature	CDS	13519	14202	.	-	0	ID=MEint1363.genome.CDS.1673;Product=;locus_tag=MEint1363.genome.CDS.1673
+MEint1363.contig.32	feature	CDS	10958	13480	.	-	0	ID=MEint1363.genome.CDS.1672;Product=Putative Dimethylglycine oxidase;locus_tag=MEint1363.genome.CDS.1672
+MEint1363.contig.32	feature	CDS	10203	10958	.	-	0	ID=MEint1363.genome.CDS.1671;Product=Electron transfer flavoprotein%2C beta subunit;locus_tag=MEint1363.genome.CDS.1671
+MEint1363.contig.32	feature	CDS	9241	10203	.	-	0	ID=MEint1363.genome.CDS.1670;Product=Electron transfer flavoprotein%2C alpha subunit;locus_tag=MEint1363.genome.CDS.1670
+MEint1363.contig.32	feature	CDS	7572	9236	.	-	0	ID=MEint1363.genome.CDS.1669;Product=Formate--tetrahydrofolate ligase %28EC 6.3.4.3%29;locus_tag=MEint1363.genome.CDS.1669
+MEint1363.contig.32	feature	CDS	7127	7570	.	-	0	ID=MEint1363.genome.CDS.1668;Product=NAD-dependent formate dehydrogenase gamma subunit;locus_tag=MEint1363.genome.CDS.1668
+MEint1363.contig.32	feature	CDS	5586	7130	.	-	0	ID=MEint1363.genome.CDS.1667;Product=NAD-dependent formate dehydrogenase beta subunit;locus_tag=MEint1363.genome.CDS.1667
+MEint1363.contig.32	feature	CDS	2602	5589	.	-	0	ID=MEint1363.genome.CDS.1666;Product=NAD-dependent formate dehydrogenase alpha subunit;locus_tag=MEint1363.genome.CDS.1666
+MEint1363.contig.32	feature	CDS	2032	2613	.	+	0	ID=MEint1363.genome.CDS.1665;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1665
+MEint1363.contig.32	feature	CDS	199	2028	.	+	0	ID=MEint1363.genome.CDS.1664;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1664
+MEint1363.contig.32	feature	CDS	1	120	.	+	0	ID=MEint1363.genome.CDS.1663;Product=;locus_tag=MEint1363.genome.CDS.1663
+MEint1363.contig.33	feature	CDS	6157	6480	.	-	0	ID=MEint1363.genome.CDS.1701;Product=;locus_tag=MEint1363.genome.CDS.1701
+MEint1363.contig.33	feature	CDS	5406	6167	.	+	0	ID=MEint1363.genome.CDS.1700;Product=membrane protein%2C putative;locus_tag=MEint1363.genome.CDS.1700
+MEint1363.contig.33	feature	CDS	4071	5381	.	+	0	ID=MEint1363.genome.CDS.1699;Product=Glutamine synthetase type I %28EC 6.3.1.2%29;locus_tag=MEint1363.genome.CDS.1699
+MEint1363.contig.33	feature	CDS	2367	4028	.	+	0	ID=MEint1363.genome.CDS.1698;Product=NAD synthetase %28EC 6.3.1.5%29 / Glutamine amidotransferase chain of NAD synthetase;locus_tag=MEint1363.genome.CDS.1698
+MEint1363.contig.33	feature	CDS	1477	2289	.	-	0	ID=MEint1363.genome.CDS.1697;Product=3-methyl-2-oxobutanoate hydroxymethyltransferase %28EC 2.1.2.11%29;locus_tag=MEint1363.genome.CDS.1697
+MEint1363.contig.33	feature	CDS	187	1374	.	-	0	ID=MEint1363.genome.CDS.1696;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1696
+MEint1363.contig.34	feature	misc_RNA	1	5276	.	+	.	ID=MEint1363.genome.repeat.21;Product=repeat region;locus_tag=MEint1363.genome.repeat.21
+MEint1363.contig.34	feature	CDS	10844	11044	.	-	0	ID=MEint1363.genome.CDS.1714;Product=Hypothetical%2C related to broad specificity phosphatases COG0406;locus_tag=MEint1363.genome.CDS.1714
+MEint1363.contig.34	feature	CDS	10305	10847	.	-	0	ID=MEint1363.genome.CDS.1713;Product=Thiol:disulfide oxidoreductase related to ResA;locus_tag=MEint1363.genome.CDS.1713
+MEint1363.contig.34	feature	CDS	9583	10308	.	-	0	ID=MEint1363.genome.CDS.1712;Product=Cytochrome c-type biogenesis protein CcdA %28DsbD analog%29;locus_tag=MEint1363.genome.CDS.1712
+MEint1363.contig.34	feature	CDS	8116	9582	.	-	0	ID=MEint1363.genome.CDS.1711;Product=Ccs1/ResB-related putative cytochrome C-type biogenesis protein;locus_tag=MEint1363.genome.CDS.1711
+MEint1363.contig.34	feature	CDS	7201	8115	.	-	0	ID=MEint1363.genome.CDS.1710;Product=Cytochrome c-type biogenesis protein CcsA/ResC;locus_tag=MEint1363.genome.CDS.1710
+MEint1363.contig.34	feature	CDS	6943	7197	.	+	0	ID=MEint1363.genome.CDS.1709;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1709
+MEint1363.contig.34	feature	CDS	6075	6923	.	+	0	ID=MEint1363.genome.CDS.1708;Product=1%2C4-dihydroxy-2-naphthoate polyprenyltransferase %28EC 2.5.1.74%29;locus_tag=MEint1363.genome.CDS.1708
+MEint1363.contig.34	feature	CDS	5020	6075	.	+	0	ID=MEint1363.genome.CDS.1707;Product=O-succinylbenzoic acid--CoA ligase %28EC 6.2.1.26%29;locus_tag=MEint1363.genome.CDS.1707
+MEint1363.contig.34	feature	CDS	4090	4968	.	-	0	ID=MEint1363.genome.CDS.1706;Product=Naphthoate synthase %28EC 4.1.3.36%29;locus_tag=MEint1363.genome.CDS.1706
+MEint1363.contig.34	feature	CDS	3085	4080	.	-	0	ID=MEint1363.genome.CDS.1705;Product=O-succinylbenzoate synthase %28EC 4.2.1.113%29;locus_tag=MEint1363.genome.CDS.1705
+MEint1363.contig.34	feature	CDS	1514	3088	.	-	0	ID=MEint1363.genome.CDS.1704;Product=2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase %28EC 2.2.1.9%29;locus_tag=MEint1363.genome.CDS.1704
+MEint1363.contig.34	feature	CDS	328	1548	.	+	0	ID=MEint1363.genome.CDS.1703;Product=Isochorismate synthase %28EC 5.4.4.2%29 %40 Menaquinone-specific isochorismate synthase %28EC 5.4.4.2%29;locus_tag=MEint1363.genome.CDS.1703
+MEint1363.contig.34	feature	CDS	49	315	.	+	0	ID=MEint1363.genome.CDS.749;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.749
+MEint1363.contig.35	feature	misc_RNA	1	3898	.	+	.	ID=MEint1363.genome.repeat.1;Product=repeat region;locus_tag=MEint1363.genome.repeat.1
+MEint1363.contig.35	feature	CDS	5328	5618	.	-	0	ID=MEint1363.genome.CDS.1721;Product=DNA repair helicase;locus_tag=MEint1363.genome.CDS.1721
+MEint1363.contig.35	feature	CDS	4781	5107	.	+	0	ID=MEint1363.genome.CDS.1719;Product=;locus_tag=MEint1363.genome.CDS.1719
+MEint1363.contig.35	feature	CDS	2385	4745	.	-	0	ID=MEint1363.genome.CDS.1718;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1718
+MEint1363.contig.35	feature	CDS	2286	2384	.	+	0	ID=MEint1363.genome.CDS.1717;Product=FIG00945572: hypothetical protein;locus_tag=MEint1363.genome.CDS.1717
+MEint1363.contig.35	feature	CDS	995	2218	.	+	0	ID=MEint1363.genome.CDS.1716;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1716
+MEint1363.contig.35	feature	CDS	79	1020	.	+	0	ID=MEint1363.genome.CDS.1715;Product=Pyrroline-5-carboxylate reductase %28EC 1.5.1.2%29;locus_tag=MEint1363.genome.CDS.1715
+MEint1363.contig.36	feature	tRNA	72436	72507	.	+	.	ID=MEint1363.genome.rna.23;Product=tRNA-Val-GAC;locus_tag=MEint1363.genome.rna.23
+MEint1363.contig.36	feature	CDS	72059	72406	.	+	0	ID=MEint1363.genome.CDS.1797;Product=Mannose-1-phosphate guanylyltransferase %28GDP%29 %28EC 2.7.7.22%29;locus_tag=MEint1363.genome.CDS.1797
+MEint1363.contig.36	feature	tRNA	71926	71999	.	+	.	ID=MEint1363.genome.rna.22;Product=tRNA-Cys-GCA;locus_tag=MEint1363.genome.rna.22
+MEint1363.contig.36	feature	tRNA	71791	71863	.	+	.	ID=MEint1363.genome.rna.21;Product=tRNA-Gly-GCC;locus_tag=MEint1363.genome.rna.21
+MEint1363.contig.36	feature	CDS	70723	71688	.	-	0	ID=MEint1363.genome.CDS.1796;Product=Para-aminobenzoate synthase%2C aminase component %28EC 2.6.1.85%29;locus_tag=MEint1363.genome.CDS.1796
+MEint1363.contig.36	feature	CDS	69959	70726	.	-	0	ID=MEint1363.genome.CDS.1795;Product=;locus_tag=MEint1363.genome.CDS.1795
+MEint1363.contig.36	feature	CDS	67966	69954	.	-	0	ID=MEint1363.genome.CDS.1794;Product=Threonyl-tRNA synthetase %28EC 6.1.1.3%29;locus_tag=MEint1363.genome.CDS.1794
+MEint1363.contig.36	feature	CDS	67429	67962	.	-	0	ID=MEint1363.genome.CDS.1793;Product=HIT family protein;locus_tag=MEint1363.genome.CDS.1793
+MEint1363.contig.36	feature	CDS	66855	67439	.	+	0	ID=MEint1363.genome.CDS.1792;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1792
+MEint1363.contig.36	feature	CDS	66238	66831	.	-	0	ID=MEint1363.genome.CDS.1791;Product=CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase %28EC 2.7.8.5%29;locus_tag=MEint1363.genome.CDS.1791
+MEint1363.contig.36	feature	CDS	65352	66236	.	-	0	ID=MEint1363.genome.CDS.1790;Product=Lauroyl/myristoyl acyltransferase involved in lipid A biosynthesis %28Lauroyl/myristoyl acyltransferase%29;locus_tag=MEint1363.genome.CDS.1790
+MEint1363.contig.36	feature	CDS	64165	65352	.	-	0	ID=MEint1363.genome.CDS.1789;Product=Phosphatidylinositol alpha-mannosyltransferase %28EC 2.4.1.57%29;locus_tag=MEint1363.genome.CDS.1789
+MEint1363.contig.36	feature	CDS	63661	64164	.	-	0	ID=MEint1363.genome.CDS.1788;Product=;locus_tag=MEint1363.genome.CDS.1788
+MEint1363.contig.36	feature	CDS	62640	63671	.	-	0	ID=MEint1363.genome.CDS.1787;Product=secreted protein;locus_tag=MEint1363.genome.CDS.1787
+MEint1363.contig.36	feature	CDS	61721	62608	.	-	0	ID=MEint1363.genome.CDS.1786;Product=Pyridoxine biosynthesis glutamine amidotransferase%2C synthase subunit %28EC 2.4.2.-%29;locus_tag=MEint1363.genome.CDS.1786
+MEint1363.contig.36	feature	CDS	61122	61712	.	-	0	ID=MEint1363.genome.CDS.1785;Product=Pyridoxine biosynthesis glutamine amidotransferase%2C glutaminase subunit %28EC 2.4.2.-%29;locus_tag=MEint1363.genome.CDS.1785
+MEint1363.contig.36	feature	CDS	60306	61058	.	-	0	ID=MEint1363.genome.CDS.1784;Product=FIG000859: hypothetical protein YebC;locus_tag=MEint1363.genome.CDS.1784
+MEint1363.contig.36	feature	CDS	59742	60275	.	-	0	ID=MEint1363.genome.CDS.1783;Product=Crossover junction endodeoxyribonuclease RuvC %28EC 3.1.22.4%29;locus_tag=MEint1363.genome.CDS.1783
+MEint1363.contig.36	feature	CDS	59146	59745	.	-	0	ID=MEint1363.genome.CDS.1782;Product=Holliday junction DNA helicase RuvA;locus_tag=MEint1363.genome.CDS.1782
+MEint1363.contig.36	feature	CDS	58097	59149	.	-	0	ID=MEint1363.genome.CDS.1781;Product=Holliday junction DNA helicase RuvB;locus_tag=MEint1363.genome.CDS.1781
+MEint1363.contig.36	feature	CDS	56562	58085	.	-	0	ID=MEint1363.genome.CDS.1780;Product=Protein-export membrane protein SecD %28TC 3.A.5.1.1%29;locus_tag=MEint1363.genome.CDS.1780
+MEint1363.contig.36	feature	CDS	55500	56558	.	-	0	ID=MEint1363.genome.CDS.1779;Product=Protein-export membrane protein SecF %28TC 3.A.5.1.1%29;locus_tag=MEint1363.genome.CDS.1779
+MEint1363.contig.36	feature	CDS	53320	55482	.	-	0	ID=MEint1363.genome.CDS.1777;Product=GTP pyrophosphokinase %28EC 2.7.6.5%29%2C %28p%29ppGpp synthetase I;locus_tag=MEint1363.genome.CDS.1777
+MEint1363.contig.36	feature	CDS	52016	53323	.	+	0	ID=MEint1363.genome.CDS.1776;Product=ATPase involved in DNA repair;locus_tag=MEint1363.genome.CDS.1776
+MEint1363.contig.36	feature	CDS	51142	51813	.	-	0	ID=MEint1363.genome.CDS.1775;Product=Hydroxyacylglutathione hydrolase %28EC 3.1.2.6%29;locus_tag=MEint1363.genome.CDS.1775
+MEint1363.contig.36	feature	CDS	49874	51145	.	-	0	ID=MEint1363.genome.CDS.1774;Product=Histidyl-tRNA synthetase %28EC 6.1.1.21%29;locus_tag=MEint1363.genome.CDS.1774
+MEint1363.contig.36	feature	CDS	48102	49847	.	-	0	ID=MEint1363.genome.CDS.1773;Product=Aspartyl-tRNA synthetase %28EC 6.1.1.12%29 %40 Aspartyl-tRNA%28Asn%29 synthetase %28EC 6.1.1.23%29;locus_tag=MEint1363.genome.CDS.1773
+MEint1363.contig.36	feature	CDS	47674	48042	.	-	0	ID=MEint1363.genome.CDS.1772;Product=;locus_tag=MEint1363.genome.CDS.1772
+MEint1363.contig.36	feature	CDS	44989	47664	.	-	0	ID=MEint1363.genome.CDS.1771;Product=Alanyl-tRNA synthetase %28EC 6.1.1.7%29;locus_tag=MEint1363.genome.CDS.1771
+MEint1363.contig.36	feature	CDS	44566	44988	.	-	0	ID=MEint1363.genome.CDS.1770;Product=Putative Holliday junction resolvase YqgF;locus_tag=MEint1363.genome.CDS.1770
+MEint1363.contig.36	feature	CDS	43542	44564	.	-	0	ID=MEint1363.genome.CDS.1769;Product=FIG004453: protein YceG like;locus_tag=MEint1363.genome.CDS.1769
+MEint1363.contig.36	feature	CDS	42745	43545	.	-	0	ID=MEint1363.genome.CDS.1768;Product=Shikimate 5-dehydrogenase I alpha %28EC 1.1.1.25%29;locus_tag=MEint1363.genome.CDS.1768
+MEint1363.contig.36	feature	CDS	41085	42266	.	-	0	ID=MEint1363.genome.CDS.1767;Product=Chorismate synthase %28EC 4.2.3.5%29;locus_tag=MEint1363.genome.CDS.1767
+MEint1363.contig.36	feature	CDS	40577	41083	.	-	0	ID=MEint1363.genome.CDS.1766;Product=Shikimate kinase I %28EC 2.7.1.71%29;locus_tag=MEint1363.genome.CDS.1766
+MEint1363.contig.36	feature	CDS	39528	40580	.	-	0	ID=MEint1363.genome.CDS.1765;Product=3-dehydroquinate synthase %28EC 4.2.3.4%29;locus_tag=MEint1363.genome.CDS.1765
+MEint1363.contig.36	feature	CDS	39103	39531	.	-	0	ID=MEint1363.genome.CDS.1764;Product=3-dehydroquinate dehydratase II %28EC 4.2.1.10%29;locus_tag=MEint1363.genome.CDS.1764
+MEint1363.contig.36	feature	CDS	38464	39033	.	-	0	ID=MEint1363.genome.CDS.1763;Product=Translation elongation factor P;locus_tag=MEint1363.genome.CDS.1763
+MEint1363.contig.36	feature	CDS	38039	38461	.	-	0	ID=MEint1363.genome.CDS.1762;Product=Transcription termination protein NusB;locus_tag=MEint1363.genome.CDS.1762
+MEint1363.contig.36	feature	CDS	37567	38049	.	+	0	ID=MEint1363.genome.CDS.1761;Product=;locus_tag=MEint1363.genome.CDS.1761
+MEint1363.contig.36	feature	CDS	36905	37441	.	-	0	ID=MEint1363.genome.CDS.1760;Product=Uracil phosphoribosyltransferase %28EC 2.4.2.9%29 / Pyrimidine operon regulatory protein PyrR;locus_tag=MEint1363.genome.CDS.1760
+MEint1363.contig.36	feature	CDS	35958	36908	.	-	0	ID=MEint1363.genome.CDS.1759;Product=Aspartate carbamoyltransferase %28EC 2.1.3.2%29;locus_tag=MEint1363.genome.CDS.1759
+MEint1363.contig.36	feature	CDS	34648	35961	.	-	0	ID=MEint1363.genome.CDS.1758;Product=Dihydroorotase %28EC 3.5.2.3%29;locus_tag=MEint1363.genome.CDS.1758
+MEint1363.contig.36	feature	CDS	33524	34651	.	-	0	ID=MEint1363.genome.CDS.1757;Product=Carbamoyl-phosphate synthase small chain %28EC 6.3.5.5%29;locus_tag=MEint1363.genome.CDS.1757
+MEint1363.contig.36	feature	CDS	30261	33524	.	-	0	ID=MEint1363.genome.CDS.1756;Product=Carbamoyl-phosphate synthase large chain %28EC 6.3.5.5%29;locus_tag=MEint1363.genome.CDS.1756
+MEint1363.contig.36	feature	CDS	29410	30258	.	-	0	ID=MEint1363.genome.CDS.1755;Product=Dihydroorotate dehydrogenase electron transfer subunit %28EC 1.3.3.1%29;locus_tag=MEint1363.genome.CDS.1755
+MEint1363.contig.36	feature	CDS	28472	29413	.	-	0	ID=MEint1363.genome.CDS.1754;Product=Dihydroorotate dehydrogenase%2C catalytic subunit %28EC 1.3.3.1%29;locus_tag=MEint1363.genome.CDS.1754
+MEint1363.contig.36	feature	CDS	27759	28469	.	-	0	ID=MEint1363.genome.CDS.1753;Product=Orotidine 5%27-phosphate decarboxylase %28EC 4.1.1.23%29;locus_tag=MEint1363.genome.CDS.1753
+MEint1363.contig.36	feature	CDS	26861	27730	.	-	0	ID=MEint1363.genome.CDS.1752;Product=Guanylate kinase %28EC 2.7.4.8%29;locus_tag=MEint1363.genome.CDS.1752
+MEint1363.contig.36	feature	CDS	26572	26820	.	-	0	ID=MEint1363.genome.CDS.1751;Product=DNA-directed RNA polymerase omega subunit %28EC 2.7.7.6%29;locus_tag=MEint1363.genome.CDS.1751
+MEint1363.contig.36	feature	CDS	25363	26562	.	-	0	ID=MEint1363.genome.CDS.1750;Product=Phosphopantothenoylcysteine decarboxylase %28EC 4.1.1.36%29 / Phosphopantothenoylcysteine synthetase %28EC 6.3.2.5%29;locus_tag=MEint1363.genome.CDS.1750
+MEint1363.contig.36	feature	CDS	24180	25376	.	-	0	ID=MEint1363.genome.CDS.1749;Product=S-adenosylmethionine synthetase %28EC 2.5.1.6%29;locus_tag=MEint1363.genome.CDS.1749
+MEint1363.contig.36	feature	CDS	22263	24164	.	-	0	ID=MEint1363.genome.CDS.1748;Product=Helicase PriA essential for oriC/DnaA-independent DNA replication;locus_tag=MEint1363.genome.CDS.1748
+MEint1363.contig.36	feature	CDS	21681	22241	.	-	0	ID=MEint1363.genome.CDS.1747;Product=Peptide deformylase %28EC 3.5.1.88%29;locus_tag=MEint1363.genome.CDS.1747
+MEint1363.contig.36	feature	CDS	20770	21681	.	-	0	ID=MEint1363.genome.CDS.1746;Product=Methionyl-tRNA formyltransferase %28EC 2.1.2.9%29;locus_tag=MEint1363.genome.CDS.1746
+MEint1363.contig.36	feature	CDS	19419	20777	.	-	0	ID=MEint1363.genome.CDS.1745;Product=16S rRNA %28cytosine%28967%29-C%285%29%29-methyltransferase %28EC 2.1.1.176%29;locus_tag=MEint1363.genome.CDS.1745
+MEint1363.contig.36	feature	CDS	18741	19409	.	-	0	ID=MEint1363.genome.CDS.1744;Product=Ribulose-phosphate 3-epimerase %28EC 5.1.3.1%29;locus_tag=MEint1363.genome.CDS.1744
+MEint1363.contig.36	feature	CDS	18440	18703	.	-	0	ID=MEint1363.genome.CDS.1743;Product=Phosphoribosyl-ATP pyrophosphatase %28EC 3.6.1.31%29;locus_tag=MEint1363.genome.CDS.1743
+MEint1363.contig.36	feature	CDS	17586	18431	.	-	0	ID=MEint1363.genome.CDS.1742;Product=ATP phosphoribosyltransferase %28EC 2.4.2.17%29;locus_tag=MEint1363.genome.CDS.1742
+MEint1363.contig.36	feature	CDS	17035	17568	.	+	0	ID=MEint1363.genome.CDS.1741;Product=;locus_tag=MEint1363.genome.CDS.1741
+MEint1363.contig.36	feature	CDS	16165	16950	.	-	0	ID=MEint1363.genome.CDS.1740;Product=;locus_tag=MEint1363.genome.CDS.1740
+MEint1363.contig.36	feature	CDS	15537	16196	.	-	0	ID=MEint1363.genome.CDS.1739;Product=Uracil-DNA glycosylase%2C family 1;locus_tag=MEint1363.genome.CDS.1739
+MEint1363.contig.36	feature	CDS	14002	15495	.	+	0	ID=MEint1363.genome.CDS.1738;Product=Xanthine/uracil/thiamine/ascorbate permease family protein;locus_tag=MEint1363.genome.CDS.1738
+MEint1363.contig.36	feature	CDS	13228	13911	.	+	0	ID=MEint1363.genome.CDS.1737;Product=putative integral membrane protein;locus_tag=MEint1363.genome.CDS.1737
+MEint1363.contig.36	feature	CDS	12447	13184	.	-	0	ID=MEint1363.genome.CDS.1736;Product=membrane protein%2C putative;locus_tag=MEint1363.genome.CDS.1736
+MEint1363.contig.36	feature	CDS	11410	12450	.	+	0	ID=MEint1363.genome.CDS.1735;Product=Alcohol dehydrogenase %28EC 1.1.1.1%29;locus_tag=MEint1363.genome.CDS.1735
+MEint1363.contig.36	feature	CDS	10756	11397	.	+	0	ID=MEint1363.genome.CDS.1734;Product=Thymidine kinase %28EC 2.7.1.21%29;locus_tag=MEint1363.genome.CDS.1734
+MEint1363.contig.36	feature	CDS	8824	10701	.	+	0	ID=MEint1363.genome.CDS.1733;Product=O-antigen acetylase;locus_tag=MEint1363.genome.CDS.1733
+MEint1363.contig.36	feature	CDS	8297	8824	.	+	0	ID=MEint1363.genome.CDS.1732;Product=Adenine phosphoribosyltransferase %28EC 2.4.2.7%29;locus_tag=MEint1363.genome.CDS.1732
+MEint1363.contig.36	feature	tRNA	8189	8275	.	+	.	ID=MEint1363.genome.rna.20;Product=tRNA-Leu-GAG;locus_tag=MEint1363.genome.rna.20
+MEint1363.contig.36	feature	CDS	6789	8117	.	-	0	ID=MEint1363.genome.CDS.1731;Product=peptidase M20;locus_tag=MEint1363.genome.CDS.1731
+MEint1363.contig.36	feature	CDS	5853	6803	.	+	0	ID=MEint1363.genome.CDS.1730;Product=putative oxidoreductase;locus_tag=MEint1363.genome.CDS.1730
+MEint1363.contig.36	feature	CDS	5129	5794	.	-	0	ID=MEint1363.genome.CDS.1729;Product=Phosphoglycerate mutase %28EC 5.4.2.1%29;locus_tag=MEint1363.genome.CDS.1729
+MEint1363.contig.36	feature	CDS	4581	5132	.	-	0	ID=MEint1363.genome.CDS.1728;Product=FIG01121520: hypothetical protein;locus_tag=MEint1363.genome.CDS.1728
+MEint1363.contig.36	feature	CDS	3880	4584	.	-	0	ID=MEint1363.genome.CDS.1727;Product=FIG00820755: hypothetical protein;locus_tag=MEint1363.genome.CDS.1727
+MEint1363.contig.36	feature	CDS	2603	3844	.	-	0	ID=MEint1363.genome.CDS.1726;Product=L-cysteine:1D-myo-inosityl 2-amino-2-deoxy-alpha-D-glucopyranoside ligase MshC;locus_tag=MEint1363.genome.CDS.1726
+MEint1363.contig.36	feature	CDS	1938	2600	.	-	0	ID=MEint1363.genome.CDS.1725;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1725
+MEint1363.contig.36	feature	CDS	1208	1960	.	+	0	ID=MEint1363.genome.CDS.1724;Product=RecB family exonuclease;locus_tag=MEint1363.genome.CDS.1724
+MEint1363.contig.36	feature	CDS	305	1156	.	-	0	ID=MEint1363.genome.CDS.1723;Product=tRNA %28adenine%2858%29-N%281%29%29-methyltransferase %28EC 2.1.1.220%29;locus_tag=MEint1363.genome.CDS.1723
+MEint1363.contig.36	feature	CDS	1	321	.	-	0	ID=MEint1363.genome.CDS.1722;Product=FIG005453: Putative DeoR-family transcriptional regulator;locus_tag=MEint1363.genome.CDS.1722
+MEint1363.contig.37	feature	misc_RNA	1	4526	.	+	.	ID=MEint1363.genome.repeat.14;Product=repeat region;locus_tag=MEint1363.genome.repeat.14
+MEint1363.contig.37	feature	CDS	16508	16798	.	-	0	ID=MEint1363.genome.CDS.1813;Product=tRNA-specific 2-thiouridylase MnmA;locus_tag=MEint1363.genome.CDS.1813
+MEint1363.contig.37	feature	CDS	14487	16511	.	-	0	ID=MEint1363.genome.CDS.1812;Product=DNA ligase %28EC 6.5.1.2%29;locus_tag=MEint1363.genome.CDS.1812
+MEint1363.contig.37	feature	CDS	14362	14484	.	-	0	ID=MEint1363.genome.CDS.854;Product=;locus_tag=MEint1363.genome.CDS.854
+MEint1363.contig.37	feature	CDS	13806	14360	.	-	0	ID=MEint1363.genome.CDS.1811;Product=Nicotinate-nucleotide adenylyltransferase %28EC 2.7.7.18%29;locus_tag=MEint1363.genome.CDS.1811
+MEint1363.contig.37	feature	CDS	13448	13819	.	-	0	ID=MEint1363.genome.CDS.1810;Product=;locus_tag=MEint1363.genome.CDS.1810
+MEint1363.contig.37	feature	CDS	12786	13448	.	-	0	ID=MEint1363.genome.CDS.1809;Product=;locus_tag=MEint1363.genome.CDS.1809
+MEint1363.contig.37	feature	tRNA	12702	12774	.	-	.	ID=MEint1363.genome.rna.24;Product=tRNA-Ala-GGC;locus_tag=MEint1363.genome.rna.24
+MEint1363.contig.37	feature	CDS	11768	12700	.	-	0	ID=MEint1363.genome.CDS.1808;Product=probable oxidoreductase/Short-chain dehydrogenase;locus_tag=MEint1363.genome.CDS.1808
+MEint1363.contig.37	feature	CDS	9268	11748	.	-	0	ID=MEint1363.genome.CDS.1807;Product=Leucyl-tRNA synthetase %28EC 6.1.1.4%29;locus_tag=MEint1363.genome.CDS.1807
+MEint1363.contig.37	feature	CDS	8345	9229	.	-	0	ID=MEint1363.genome.CDS.1806;Product=Cysteine synthase %28EC 2.5.1.47%29;locus_tag=MEint1363.genome.CDS.1806
+MEint1363.contig.37	feature	CDS	7669	8283	.	-	0	ID=MEint1363.genome.CDS.1805;Product=Late competence protein ComEA%2C DNA receptor;locus_tag=MEint1363.genome.CDS.1805
+MEint1363.contig.37	feature	CDS	5405	7492	.	-	0	ID=MEint1363.genome.CDS.1804;Product=ComEC/Rec2-related protein;locus_tag=MEint1363.genome.CDS.1804
+MEint1363.contig.37	feature	CDS	4434	5396	.	-	0	ID=MEint1363.genome.CDS.1803;Product=DNA polymerase III delta subunit %28EC 2.7.7.7%29;locus_tag=MEint1363.genome.CDS.1803
+MEint1363.contig.37	feature	CDS	4080	4349	.	-	0	ID=MEint1363.genome.CDS.1802;Product=SSU ribosomal protein S20p;locus_tag=MEint1363.genome.CDS.1802
+MEint1363.contig.37	feature	CDS	2171	4042	.	-	0	ID=MEint1363.genome.CDS.1801;Product=Translation elongation factor LepA;locus_tag=MEint1363.genome.CDS.1801
+MEint1363.contig.37	feature	CDS	1038	2162	.	-	0	ID=MEint1363.genome.CDS.1800;Product=Hypothetical radical SAM family enzyme in heat shock gene cluster%2C similarity with CPO of BS HemN-type;locus_tag=MEint1363.genome.CDS.1800
+MEint1363.contig.37	feature	CDS	699	1025	.	-	0	ID=MEint1363.genome.CDS.1799;Product=;locus_tag=MEint1363.genome.CDS.1799
+MEint1363.contig.37	feature	CDS	1	690	.	-	0	ID=MEint1363.genome.CDS.1798;Product=Heat-inducible transcription repressor HrcA;locus_tag=MEint1363.genome.CDS.1798
+MEint1363.contig.38	feature	CDS	58607	58921	.	+	0	ID=MEint1363.genome.CDS.1876;Product=ATP synthase alpha chain %28EC 3.6.3.14%29;locus_tag=MEint1363.genome.CDS.1876
+MEint1363.contig.38	feature	CDS	57728	58564	.	+	0	ID=MEint1363.genome.CDS.1875;Product=ATP synthase delta chain %28EC 3.6.3.14%29;locus_tag=MEint1363.genome.CDS.1875
+MEint1363.contig.38	feature	CDS	57182	57715	.	+	0	ID=MEint1363.genome.CDS.1874;Product=ATP synthase F0 sector subunit b %28EC 3.6.3.14%29;locus_tag=MEint1363.genome.CDS.1874
+MEint1363.contig.38	feature	CDS	56953	57156	.	+	0	ID=MEint1363.genome.CDS.1873;Product=ATP synthase F0 sector subunit c %28EC 3.6.3.14%29;locus_tag=MEint1363.genome.CDS.1873
+MEint1363.contig.38	feature	CDS	56125	56913	.	+	0	ID=MEint1363.genome.CDS.1872;Product=ATP synthase F0 sector subunit a %28EC 3.6.3.14%29;locus_tag=MEint1363.genome.CDS.1872
+MEint1363.contig.38	feature	CDS	55803	55991	.	+	0	ID=MEint1363.genome.CDS.1871;Product=ATP synthase protein I;locus_tag=MEint1363.genome.CDS.1871
+MEint1363.contig.38	feature	CDS	55345	55767	.	+	0	ID=MEint1363.genome.CDS.1870;Product=;locus_tag=MEint1363.genome.CDS.1870
+MEint1363.contig.38	feature	CDS	54267	55352	.	+	0	ID=MEint1363.genome.CDS.1869;Product=Undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase %28EC 2.7.8.-%29;locus_tag=MEint1363.genome.CDS.1869
+MEint1363.contig.38	feature	CDS	52992	54257	.	+	0	ID=MEint1363.genome.CDS.1868;Product=Serine hydroxymethyltransferase %28EC 2.1.2.1%29;locus_tag=MEint1363.genome.CDS.1868
+MEint1363.contig.38	feature	CDS	52329	52973	.	+	0	ID=MEint1363.genome.CDS.1867;Product=;locus_tag=MEint1363.genome.CDS.1867
+MEint1363.contig.38	feature	CDS	51478	52332	.	+	0	ID=MEint1363.genome.CDS.1866;Product=Protein-N%285%29-glutamine methyltransferase PrmC%2C methylates polypeptide chain release factors RF1 and RF2;locus_tag=MEint1363.genome.CDS.1866
+MEint1363.contig.38	feature	CDS	50387	51469	.	+	0	ID=MEint1363.genome.CDS.1865;Product=Peptide chain release factor 1;locus_tag=MEint1363.genome.CDS.1865
+MEint1363.contig.38	feature	CDS	50075	50281	.	+	0	ID=MEint1363.genome.CDS.1864;Product=LSU ribosomal protein L31p %40 LSU ribosomal protein L31p%2C zinc-dependent;locus_tag=MEint1363.genome.CDS.1864
+MEint1363.contig.38	feature	CDS	48412	49962	.	+	0	ID=MEint1363.genome.CDS.1863;Product=Transcription termination factor Rho;locus_tag=MEint1363.genome.CDS.1863
+MEint1363.contig.38	feature	CDS	47344	48273	.	+	0	ID=MEint1363.genome.CDS.1862;Product=Homoserine kinase %28EC 2.7.1.39%29;locus_tag=MEint1363.genome.CDS.1862
+MEint1363.contig.38	feature	CDS	46260	47351	.	+	0	ID=MEint1363.genome.CDS.1861;Product=Threonine synthase %28EC 4.2.3.1%29;locus_tag=MEint1363.genome.CDS.1861
+MEint1363.contig.38	feature	CDS	44965	46260	.	+	0	ID=MEint1363.genome.CDS.1860;Product=Homoserine dehydrogenase %28EC 1.1.1.3%29;locus_tag=MEint1363.genome.CDS.1860
+MEint1363.contig.38	feature	CDS	43600	44931	.	+	0	ID=MEint1363.genome.CDS.1859;Product=Diaminopimelate decarboxylase %28EC 4.1.1.20%29;locus_tag=MEint1363.genome.CDS.1859
+MEint1363.contig.38	feature	CDS	41912	43600	.	+	0	ID=MEint1363.genome.CDS.1858;Product=Arginyl-tRNA synthetase %28EC 6.1.1.19%29;locus_tag=MEint1363.genome.CDS.1858
+MEint1363.contig.38	feature	CDS	40651	41718	.	-	0	ID=MEint1363.genome.CDS.1857;Product=Xylose ABC transporter%2C periplasmic xylose-binding protein XylF;locus_tag=MEint1363.genome.CDS.1857
+MEint1363.contig.38	feature	CDS	39795	40553	.	-	0	ID=MEint1363.genome.CDS.1856;Product=D-xylose transport ATP-binding protein XylG;locus_tag=MEint1363.genome.CDS.1856
+MEint1363.contig.38	feature	CDS	38572	39798	.	-	0	ID=MEint1363.genome.CDS.1855;Product=Xylose ABC transporter%2C permease protein XylH;locus_tag=MEint1363.genome.CDS.1855
+MEint1363.contig.38	feature	CDS	37418	38575	.	+	0	ID=MEint1363.genome.CDS.1854;Product=Xylose isomerase %28EC 5.3.1.5%29;locus_tag=MEint1363.genome.CDS.1854
+MEint1363.contig.38	feature	tRNA	37227	37310	.	-	.	ID=MEint1363.genome.rna.25;Product=tRNA-Leu-TAG;locus_tag=MEint1363.genome.rna.25
+MEint1363.contig.38	feature	CDS	35973	37178	.	-	0	ID=MEint1363.genome.CDS.1853;Product=;locus_tag=MEint1363.genome.CDS.1853
+MEint1363.contig.38	feature	CDS	35309	35953	.	-	0	ID=MEint1363.genome.CDS.1852;Product=FIG01964566: Predicted membrane protein%2C hemolysin III homolog;locus_tag=MEint1363.genome.CDS.1852
+MEint1363.contig.38	feature	CDS	34384	35181	.	-	0	ID=MEint1363.genome.CDS.1851;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1851
+MEint1363.contig.38	feature	CDS	32627	34378	.	-	0	ID=MEint1363.genome.CDS.1850;Product=Acyltransferase;locus_tag=MEint1363.genome.CDS.1850
+MEint1363.contig.38	feature	CDS	31778	32575	.	+	0	ID=MEint1363.genome.CDS.1849;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1849
+MEint1363.contig.38	feature	CDS	31098	31721	.	+	0	ID=MEint1363.genome.CDS.1848;Product=Nucleoside 5-triphosphatase RdgB %28dHAPTP%2C dITP%2C XTP-specific%29 %28EC 3.6.1.15%29;locus_tag=MEint1363.genome.CDS.1848
+MEint1363.contig.38	feature	CDS	30376	31101	.	+	0	ID=MEint1363.genome.CDS.1847;Product=Ribonuclease PH %28EC 2.7.7.56%29;locus_tag=MEint1363.genome.CDS.1847
+MEint1363.contig.38	feature	CDS	29556	30350	.	+	0	ID=MEint1363.genome.CDS.1846;Product=Glutamate racemase %28EC 5.1.1.3%29;locus_tag=MEint1363.genome.CDS.1846
+MEint1363.contig.38	feature	CDS	28589	29539	.	+	0	ID=MEint1363.genome.CDS.1845;Product=Cysteine synthase B %28EC 2.5.1.47%29;locus_tag=MEint1363.genome.CDS.1845
+MEint1363.contig.38	feature	CDS	28305	28586	.	+	0	ID=MEint1363.genome.CDS.1844;Product=FIG038648: MoaD and/or ThiS families;locus_tag=MEint1363.genome.CDS.1844
+MEint1363.contig.38	feature	CDS	27833	28249	.	+	0	ID=MEint1363.genome.CDS.1843;Product=Mec%2B;locus_tag=MEint1363.genome.CDS.1843
+MEint1363.contig.38	feature	CDS	27268	27831	.	+	0	ID=MEint1363.genome.CDS.1842;Product=;locus_tag=MEint1363.genome.CDS.1842
+MEint1363.contig.38	feature	CDS	26975	27271	.	+	0	ID=MEint1363.genome.CDS.1841;Product=ATP-dependent Clp protease adaptor protein ClpS;locus_tag=MEint1363.genome.CDS.1841
+MEint1363.contig.38	feature	CDS	25197	26975	.	+	0	ID=MEint1363.genome.CDS.1840;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1840
+MEint1363.contig.38	feature	CDS	24929	25195	.	+	0	ID=MEint1363.genome.CDS.1839;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1839
+MEint1363.contig.38	feature	CDS	23953	24894	.	-	0	ID=MEint1363.genome.CDS.1838;Product=Ornithine carbamoyltransferase %28EC 2.1.3.3%29;locus_tag=MEint1363.genome.CDS.1838
+MEint1363.contig.38	feature	CDS	22793	23920	.	-	0	ID=MEint1363.genome.CDS.1837;Product=NAD%28P%29 transhydrogenase alpha subunit %28EC 1.6.1.2%29;locus_tag=MEint1363.genome.CDS.1837
+MEint1363.contig.38	feature	CDS	22500	22793	.	-	0	ID=MEint1363.genome.CDS.1836;Product=NAD%28P%29 transhydrogenase alpha subunit %28EC 1.6.1.2%29;locus_tag=MEint1363.genome.CDS.1836
+MEint1363.contig.38	feature	CDS	21112	22503	.	-	0	ID=MEint1363.genome.CDS.1835;Product=NAD%28P%29 transhydrogenase subunit beta %28EC 1.6.1.2%29;locus_tag=MEint1363.genome.CDS.1835
+MEint1363.contig.38	feature	CDS	19983	21047	.	-	0	ID=MEint1363.genome.CDS.1834;Product=possible chromosome condensation protein;locus_tag=MEint1363.genome.CDS.1834
+MEint1363.contig.38	feature	CDS	19072	19980	.	+	0	ID=MEint1363.genome.CDS.1833;Product=Rhodanese domain protein UPF0176%2C Actinobacterial subgroup;locus_tag=MEint1363.genome.CDS.1833
+MEint1363.contig.38	feature	CDS	18146	19030	.	+	0	ID=MEint1363.genome.CDS.1832;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1832
+MEint1363.contig.38	feature	CDS	15885	18143	.	+	0	ID=MEint1363.genome.CDS.1831;Product=Lead%2C cadmium%2C zinc and mercury transporting ATPase %28EC 3.6.3.3%29 %28EC 3.6.3.5%29%3B Copper-translocating P-type ATPase %28EC 3.6.3.4%29;locus_tag=MEint1363.genome.CDS.1831
+MEint1363.contig.38	feature	CDS	15079	15885	.	+	0	ID=MEint1363.genome.CDS.1830;Product=Histidinol-phosphatase %5Balternative form%5D %28EC 3.1.3.15%29;locus_tag=MEint1363.genome.CDS.1830
+MEint1363.contig.38	feature	CDS	14010	15041	.	+	0	ID=MEint1363.genome.CDS.1829;Product=Ribosome small subunit-stimulated GTPase EngC;locus_tag=MEint1363.genome.CDS.1829
+MEint1363.contig.38	feature	CDS	12637	14010	.	+	0	ID=MEint1363.genome.CDS.1828;Product=5-Enolpyruvylshikimate-3-phosphate synthase %28EC 2.5.1.19%29;locus_tag=MEint1363.genome.CDS.1828
+MEint1363.contig.38	feature	CDS	11880	12611	.	-	0	ID=MEint1363.genome.CDS.1827;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1827
+MEint1363.contig.38	feature	CDS	11206	11823	.	-	0	ID=MEint1363.genome.CDS.1826;Product=RNA polymerase sigma-70 factor;locus_tag=MEint1363.genome.CDS.1826
+MEint1363.contig.38	feature	CDS	10814	11209	.	-	0	ID=MEint1363.genome.CDS.1825;Product=;locus_tag=MEint1363.genome.CDS.1825
+MEint1363.contig.38	feature	CDS	10389	10808	.	-	0	ID=MEint1363.genome.CDS.1824;Product=;locus_tag=MEint1363.genome.CDS.1824
+MEint1363.contig.38	feature	CDS	10007	10399	.	+	0	ID=MEint1363.genome.CDS.1823;Product=Nickel-dependent superoxide dismutase %28EC 1.15.1.1%29;locus_tag=MEint1363.genome.CDS.1823
+MEint1363.contig.38	feature	CDS	9606	9887	.	-	0	ID=MEint1363.genome.CDS.1822;Product=;locus_tag=MEint1363.genome.CDS.1822
+MEint1363.contig.38	feature	CDS	5736	9542	.	+	0	ID=MEint1363.genome.CDS.1821;Product=2-oxoglutarate dehydrogenase E1 component %28EC 1.2.4.2%29;locus_tag=MEint1363.genome.CDS.1821
+MEint1363.contig.38	feature	CDS	4799	5545	.	-	0	ID=MEint1363.genome.CDS.1820;Product=;locus_tag=MEint1363.genome.CDS.1820
+MEint1363.contig.38	feature	CDS	4460	4798	.	+	0	ID=MEint1363.genome.CDS.863;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.863
+MEint1363.contig.38	feature	CDS	3263	4366	.	-	0	ID=MEint1363.genome.CDS.1818;Product=Peptide chain release factor 2;locus_tag=MEint1363.genome.CDS.1818
+MEint1363.contig.38	feature	CDS	2397	3086	.	-	0	ID=MEint1363.genome.CDS.1817;Product=Cell division transporter%2C ATP-binding protein FtsE %28TC 3.A.5.1.1%29;locus_tag=MEint1363.genome.CDS.1817
+MEint1363.contig.38	feature	CDS	1485	2387	.	-	0	ID=MEint1363.genome.CDS.1816;Product=Cell division protein FtsX;locus_tag=MEint1363.genome.CDS.1816
+MEint1363.contig.38	feature	CDS	956	1435	.	-	0	ID=MEint1363.genome.CDS.1815;Product=tmRNA-binding protein SmpB;locus_tag=MEint1363.genome.CDS.1815
+MEint1363.contig.38	feature	CDS	400	951	.	-	0	ID=MEint1363.genome.CDS.858;Product=;locus_tag=MEint1363.genome.CDS.858
+MEint1363.contig.38	feature	CDS	137	253	.	-	0	ID=MEint1363.genome.CDS.857;Product=;locus_tag=MEint1363.genome.CDS.857
+MEint1363.contig.39	feature	CDS	4914	5564	.	-	0	ID=MEint1363.genome.CDS.1883;Product=Thioredoxin reductase %28EC 1.8.1.9%29;locus_tag=MEint1363.genome.CDS.1883
+MEint1363.contig.39	feature	CDS	4552	4878	.	-	0	ID=MEint1363.genome.CDS.1882;Product=Thioredoxin;locus_tag=MEint1363.genome.CDS.1882
+MEint1363.contig.39	feature	CDS	3517	4548	.	-	0	ID=MEint1363.genome.CDS.1881;Product=N-acetylmuramoyl-L-alanine amidase %28EC 3.5.1.28%29;locus_tag=MEint1363.genome.CDS.1881
+MEint1363.contig.39	feature	CDS	2221	3483	.	-	0	ID=MEint1363.genome.CDS.1880;Product=Aspartate aminotransferase %28AspB-4%29 %28EC 2.6.1.1%29;locus_tag=MEint1363.genome.CDS.1880
+MEint1363.contig.39	feature	CDS	1361	2224	.	+	0	ID=MEint1363.genome.CDS.1879;Product=Chromosome %28plasmid%29 partitioning protein ParB;locus_tag=MEint1363.genome.CDS.1879
+MEint1363.contig.39	feature	CDS	444	1364	.	+	0	ID=MEint1363.genome.CDS.1878;Product=Chromosome %28plasmid%29 partitioning protein ParA;locus_tag=MEint1363.genome.CDS.1878
+MEint1363.contig.39	feature	CDS	1	435	.	+	0	ID=MEint1363.genome.CDS.1877;Product=rRNA small subunit 7-methylguanosine %28m7G%29 methyltransferase GidB;locus_tag=MEint1363.genome.CDS.1877
+MEint1363.contig.4	feature	CDS	3465	3593	.	+	0	ID=MEint1363.genome.CDS.1044;Product=;locus_tag=MEint1363.genome.CDS.1044
+MEint1363.contig.4	feature	CDS	1273	3468	.	+	0	ID=MEint1363.genome.CDS.1043;Product=probable DNA-binding protein;locus_tag=MEint1363.genome.CDS.1043
+MEint1363.contig.4	feature	CDS	460	1227	.	+	0	ID=MEint1363.genome.CDS.1042;Product=Phosphoserine phosphatase %28EC 3.1.3.3%29;locus_tag=MEint1363.genome.CDS.1042
+MEint1363.contig.4	feature	CDS	2	409	.	-	0	ID=MEint1363.genome.CDS.1041;Product=Hypothetical%2C related to broad specificity phosphatases COG0406;locus_tag=MEint1363.genome.CDS.1041
+MEint1363.contig.40	feature	CDS	4177	4854	.	-	0	ID=MEint1363.genome.CDS.1889;Product=ABC transporter%2C ATP-binding protein;locus_tag=MEint1363.genome.CDS.1889
+MEint1363.contig.40	feature	CDS	3386	4177	.	-	0	ID=MEint1363.genome.CDS.1888;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1888
+MEint1363.contig.40	feature	CDS	2092	3294	.	-	0	ID=MEint1363.genome.CDS.1887;Product=;locus_tag=MEint1363.genome.CDS.1887
+MEint1363.contig.40	feature	CDS	1126	2082	.	-	0	ID=MEint1363.genome.CDS.1886;Product=tRNA%28Ile%29-lysidine synthetase %28EC 6.3.4.19%29;locus_tag=MEint1363.genome.CDS.1886
+MEint1363.contig.40	feature	CDS	539	1090	.	-	0	ID=MEint1363.genome.CDS.1885;Product=Hypoxanthine-guanine phosphoribosyltransferase %28EC 2.4.2.8%29;locus_tag=MEint1363.genome.CDS.1885
+MEint1363.contig.40	feature	CDS	3	527	.	-	0	ID=MEint1363.genome.CDS.1884;Product=Cell division protein FtsH %28EC 3.4.24.-%29;locus_tag=MEint1363.genome.CDS.1884
+MEint1363.contig.5	feature	CDS	10778	10891	.	+	0	ID=MEint1363.genome.CDS.1056;Product=;locus_tag=MEint1363.genome.CDS.1056
+MEint1363.contig.5	feature	CDS	9305	10600	.	-	0	ID=MEint1363.genome.CDS.1055;Product=;locus_tag=MEint1363.genome.CDS.1055
+MEint1363.contig.5	feature	CDS	8447	9058	.	-	0	ID=MEint1363.genome.CDS.1054;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1054
+MEint1363.contig.5	feature	CDS	8160	8318	.	-	0	ID=MEint1363.genome.CDS.1053;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1053
+MEint1363.contig.5	feature	CDS	6829	7956	.	-	0	ID=MEint1363.genome.CDS.1052;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1052
+MEint1363.contig.5	feature	CDS	5401	6747	.	-	0	ID=MEint1363.genome.CDS.1051;Product=Uncharacterized ABC1 family protein SCO5192;locus_tag=MEint1363.genome.CDS.1051
+MEint1363.contig.5	feature	CDS	5027	5356	.	+	0	ID=MEint1363.genome.CDS.1050;Product=WhiB-family transcriptional regulator;locus_tag=MEint1363.genome.CDS.1050
+MEint1363.contig.5	feature	CDS	4706	4888	.	+	0	ID=MEint1363.genome.CDS.1049;Product=;locus_tag=MEint1363.genome.CDS.1049
+MEint1363.contig.5	feature	CDS	2942	4618	.	+	0	ID=MEint1363.genome.CDS.1048;Product=ATP-dependent DNA helicase UvrD/PcrA%2C actinomycete paralog;locus_tag=MEint1363.genome.CDS.1048
+MEint1363.contig.5	feature	CDS	2013	2951	.	+	0	ID=MEint1363.genome.CDS.1047;Product=NADH pyrophosphatase %28EC 3.6.1.22%29;locus_tag=MEint1363.genome.CDS.1047
+MEint1363.contig.5	feature	CDS	1184	1951	.	-	0	ID=MEint1363.genome.CDS.1046;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1046
+MEint1363.contig.5	feature	CDS	1	1203	.	+	0	ID=MEint1363.genome.CDS.1045;Product=ATP-dependent DNA helicase SCO5184;locus_tag=MEint1363.genome.CDS.1045
+MEint1363.contig.6	feature	CDS	13520	14077	.	+	0	ID=MEint1363.genome.CDS.1072;Product=3%27-to-5%27 oligoribonuclease %28orn%29;locus_tag=MEint1363.genome.CDS.1072
+MEint1363.contig.6	feature	CDS	12394	13368	.	-	0	ID=MEint1363.genome.CDS.1071;Product=Phosphate transport system permease protein PstC %28TC 3.A.1.7.1%29;locus_tag=MEint1363.genome.CDS.1071
+MEint1363.contig.6	feature	CDS	11345	12394	.	-	0	ID=MEint1363.genome.CDS.1070;Product=Phosphate transport system permease protein PstA %28TC 3.A.1.7.1%29;locus_tag=MEint1363.genome.CDS.1070
+MEint1363.contig.6	feature	CDS	10506	11345	.	-	0	ID=MEint1363.genome.CDS.1069;Product=Phosphate transport ATP-binding protein PstB %28TC 3.A.1.7.1%29;locus_tag=MEint1363.genome.CDS.1069
+MEint1363.contig.6	feature	CDS	9208	10389	.	-	0	ID=MEint1363.genome.CDS.1068;Product=Phosphate ABC transporter%2C periplasmic phosphate-binding protein PstS %28TC 3.A.1.7.1%29;locus_tag=MEint1363.genome.CDS.1068
+MEint1363.contig.6	feature	tRNA	9077	9153	.	+	.	ID=MEint1363.genome.rna.4;Product=tRNA-Arg-TCT;locus_tag=MEint1363.genome.rna.4
+MEint1363.contig.6	feature	CDS	7358	9025	.	-	0	ID=MEint1363.genome.CDS.1067;Product=ABC transporter ATP-binding protein;locus_tag=MEint1363.genome.CDS.1067
+MEint1363.contig.6	feature	CDS	6948	7358	.	-	0	ID=MEint1363.genome.CDS.1066;Product=;locus_tag=MEint1363.genome.CDS.1066
+MEint1363.contig.6	feature	CDS	6572	6943	.	-	0	ID=MEint1363.genome.CDS.1065;Product=Hemoglobin-like protein HbO;locus_tag=MEint1363.genome.CDS.1065
+MEint1363.contig.6	feature	CDS	6036	6584	.	+	0	ID=MEint1363.genome.CDS.1064;Product=Potassium efflux system KefA protein / Small-conductance mechanosensitive channel;locus_tag=MEint1363.genome.CDS.1064
+MEint1363.contig.6	feature	CDS	5402	5917	.	-	0	ID=MEint1363.genome.CDS.1063;Product=HNH endonuclease family protein;locus_tag=MEint1363.genome.CDS.1063
+MEint1363.contig.6	feature	CDS	5209	5382	.	-	0	ID=MEint1363.genome.CDS.1062;Product=;locus_tag=MEint1363.genome.CDS.1062
+MEint1363.contig.6	feature	CDS	2668	5208	.	+	0	ID=MEint1363.genome.CDS.1061;Product=Membrane alanine aminopeptidase N %28EC 3.4.11.2%29;locus_tag=MEint1363.genome.CDS.1061
+MEint1363.contig.6	feature	CDS	1926	2540	.	-	0	ID=MEint1363.genome.CDS.1060;Product=tRNA %28guanine46-N7-%29-methyltransferase %28EC 2.1.1.33%29;locus_tag=MEint1363.genome.CDS.1060
+MEint1363.contig.6	feature	CDS	1474	1929	.	+	0	ID=MEint1363.genome.CDS.1059;Product=Ribose 5-phosphate isomerase B %28EC 5.3.1.6%29 / Galactose 6-phosphate isomerase;locus_tag=MEint1363.genome.CDS.1059
+MEint1363.contig.6	feature	CDS	749	1375	.	+	0	ID=MEint1363.genome.CDS.1058;Product=;locus_tag=MEint1363.genome.CDS.1058
+MEint1363.contig.6	feature	CDS	3	521	.	-	0	ID=MEint1363.genome.CDS.1057;Product=Phage tail fiber protein;locus_tag=MEint1363.genome.CDS.1057
+MEint1363.contig.7	feature	CDS	24970	26721	.	+	0	ID=MEint1363.genome.CDS.1099;Product=Acyltransferase;locus_tag=MEint1363.genome.CDS.1099
+MEint1363.contig.7	feature	CDS	24167	24964	.	+	0	ID=MEint1363.genome.CDS.1098;Product=;locus_tag=MEint1363.genome.CDS.1098
+MEint1363.contig.7	feature	CDS	23395	24039	.	+	0	ID=MEint1363.genome.CDS.1097;Product=FIG01964566: Predicted membrane protein%2C hemolysin III homolog;locus_tag=MEint1363.genome.CDS.1097
+MEint1363.contig.7	feature	CDS	22171	23376	.	+	0	ID=MEint1363.genome.CDS.1096;Product=;locus_tag=MEint1363.genome.CDS.1096
+MEint1363.contig.7	feature	tRNA	22039	22122	.	+	.	ID=MEint1363.genome.rna.5;Product=tRNA-Leu-TAG;locus_tag=MEint1363.genome.rna.5
+MEint1363.contig.7	feature	CDS	20774	21931	.	-	0	ID=MEint1363.genome.CDS.1095;Product=Xylose isomerase %28EC 5.3.1.5%29;locus_tag=MEint1363.genome.CDS.1095
+MEint1363.contig.7	feature	CDS	19551	20777	.	+	0	ID=MEint1363.genome.CDS.1094;Product=Xylose ABC transporter%2C permease protein XylH;locus_tag=MEint1363.genome.CDS.1094
+MEint1363.contig.7	feature	CDS	18796	19554	.	+	0	ID=MEint1363.genome.CDS.1093;Product=D-xylose transport ATP-binding protein XylG;locus_tag=MEint1363.genome.CDS.1093
+MEint1363.contig.7	feature	CDS	17631	18698	.	+	0	ID=MEint1363.genome.CDS.1092;Product=Xylose ABC transporter%2C periplasmic xylose-binding protein XylF;locus_tag=MEint1363.genome.CDS.1092
+MEint1363.contig.7	feature	CDS	15748	17436	.	-	0	ID=MEint1363.genome.CDS.1091;Product=Arginyl-tRNA synthetase %28EC 6.1.1.19%29;locus_tag=MEint1363.genome.CDS.1091
+MEint1363.contig.7	feature	CDS	14417	15748	.	-	0	ID=MEint1363.genome.CDS.1090;Product=Diaminopimelate decarboxylase %28EC 4.1.1.20%29;locus_tag=MEint1363.genome.CDS.1090
+MEint1363.contig.7	feature	CDS	13088	14383	.	-	0	ID=MEint1363.genome.CDS.1089;Product=Homoserine dehydrogenase %28EC 1.1.1.3%29;locus_tag=MEint1363.genome.CDS.1089
+MEint1363.contig.7	feature	CDS	12006	13088	.	-	0	ID=MEint1363.genome.CDS.1088;Product=Threonine synthase %28EC 4.2.3.1%29;locus_tag=MEint1363.genome.CDS.1088
+MEint1363.contig.7	feature	CDS	11075	12004	.	-	0	ID=MEint1363.genome.CDS.1087;Product=Homoserine kinase %28EC 2.7.1.39%29;locus_tag=MEint1363.genome.CDS.1087
+MEint1363.contig.7	feature	CDS	9386	10936	.	-	0	ID=MEint1363.genome.CDS.1086;Product=Transcription termination factor Rho;locus_tag=MEint1363.genome.CDS.1086
+MEint1363.contig.7	feature	CDS	9068	9274	.	-	0	ID=MEint1363.genome.CDS.1085;Product=LSU ribosomal protein L31p %40 LSU ribosomal protein L31p%2C zinc-dependent;locus_tag=MEint1363.genome.CDS.1085
+MEint1363.contig.7	feature	CDS	7877	8959	.	-	0	ID=MEint1363.genome.CDS.1084;Product=Peptide chain release factor 1;locus_tag=MEint1363.genome.CDS.1084
+MEint1363.contig.7	feature	CDS	7014	7868	.	-	0	ID=MEint1363.genome.CDS.1083;Product=Protein-N%285%29-glutamine methyltransferase PrmC%2C methylates polypeptide chain release factors RF1 and RF2;locus_tag=MEint1363.genome.CDS.1083
+MEint1363.contig.7	feature	CDS	6364	7017	.	-	0	ID=MEint1363.genome.CDS.1082;Product=TsaC protein %28YrdC domain%29 required for threonylcarbamoyladenosine t%286%29A37 modification in tRNA;locus_tag=MEint1363.genome.CDS.1082
+MEint1363.contig.7	feature	CDS	5089	6354	.	-	0	ID=MEint1363.genome.CDS.1081;Product=Serine hydroxymethyltransferase %28EC 2.1.2.1%29;locus_tag=MEint1363.genome.CDS.1081
+MEint1363.contig.7	feature	CDS	3994	5079	.	-	0	ID=MEint1363.genome.CDS.1080;Product=Undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase %28EC 2.7.8.-%29;locus_tag=MEint1363.genome.CDS.1080
+MEint1363.contig.7	feature	CDS	3573	4001	.	-	0	ID=MEint1363.genome.CDS.1079;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1079
+MEint1363.contig.7	feature	CDS	3357	3545	.	-	0	ID=MEint1363.genome.CDS.1078;Product=ATP synthase protein I;locus_tag=MEint1363.genome.CDS.1078
+MEint1363.contig.7	feature	CDS	2425	3213	.	-	0	ID=MEint1363.genome.CDS.1077;Product=ATP synthase F0 sector subunit a %28EC 3.6.3.14%29;locus_tag=MEint1363.genome.CDS.1077
+MEint1363.contig.7	feature	CDS	2182	2385	.	-	0	ID=MEint1363.genome.CDS.1076;Product=ATP synthase F0 sector subunit c %28EC 3.6.3.14%29;locus_tag=MEint1363.genome.CDS.1076
+MEint1363.contig.7	feature	CDS	1603	2139	.	-	0	ID=MEint1363.genome.CDS.1075;Product=ATP synthase F0 sector subunit b %28EC 3.6.3.14%29;locus_tag=MEint1363.genome.CDS.1075
+MEint1363.contig.7	feature	CDS	744	1580	.	-	0	ID=MEint1363.genome.CDS.1074;Product=ATP synthase delta chain %28EC 3.6.3.14%29;locus_tag=MEint1363.genome.CDS.1074
+MEint1363.contig.7	feature	CDS	3	701	.	-	0	ID=MEint1363.genome.CDS.1073;Product=ATP synthase alpha chain %28EC 3.6.3.14%29;locus_tag=MEint1363.genome.CDS.1073
+MEint1363.contig.8	feature	misc_RNA	22219	22723	.	+	.	ID=MEint1363.genome.repeat.22;Product=repeat region;locus_tag=MEint1363.genome.repeat.22
+MEint1363.contig.8	feature	CDS	22110	22604	.	-	0	ID=MEint1363.genome.CDS.1121;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1121
+MEint1363.contig.8	feature	CDS	21275	22126	.	+	0	ID=MEint1363.genome.CDS.1120;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1120
+MEint1363.contig.8	feature	CDS	20636	21214	.	-	0	ID=MEint1363.genome.CDS.1119;Product=Uncharacterized protein Q1 colocalized with Q;locus_tag=MEint1363.genome.CDS.1119
+MEint1363.contig.8	feature	CDS	19329	20633	.	-	0	ID=MEint1363.genome.CDS.1118;Product=Ribonuclease D %28EC 3.1.26.3%29;locus_tag=MEint1363.genome.CDS.1118
+MEint1363.contig.8	feature	CDS	18452	19276	.	-	0	ID=MEint1363.genome.CDS.1117;Product=Ferrous iron transport permease EfeU;locus_tag=MEint1363.genome.CDS.1117
+MEint1363.contig.8	feature	CDS	17189	18379	.	-	0	ID=MEint1363.genome.CDS.1116;Product=3-ketoacyl-CoA thiolase %28EC 2.3.1.16%29;locus_tag=MEint1363.genome.CDS.1116
+MEint1363.contig.8	feature	CDS	13214	15133	.	+	0	ID=MEint1363.genome.CDS.1114;Product=1-deoxy-D-xylulose 5-phosphate synthase %28EC 2.2.1.7%29;locus_tag=MEint1363.genome.CDS.1114
+MEint1363.contig.8	feature	CDS	10520	13177	.	+	0	ID=MEint1363.genome.CDS.1113;Product=Aconitate hydratase %28EC 4.2.1.3%29;locus_tag=MEint1363.genome.CDS.1113
+MEint1363.contig.8	feature	CDS	9261	10490	.	+	0	ID=MEint1363.genome.CDS.1112;Product=;locus_tag=MEint1363.genome.CDS.1112
+MEint1363.contig.8	feature	CDS	8563	9213	.	-	0	ID=MEint1363.genome.CDS.1111;Product=Trk system potassium uptake protein TrkA;locus_tag=MEint1363.genome.CDS.1111
+MEint1363.contig.8	feature	CDS	7907	8566	.	-	0	ID=MEint1363.genome.CDS.1110;Product=Trk system potassium uptake protein TrkA;locus_tag=MEint1363.genome.CDS.1110
+MEint1363.contig.8	feature	CDS	7287	7910	.	+	0	ID=MEint1363.genome.CDS.1109;Product=;locus_tag=MEint1363.genome.CDS.1109
+MEint1363.contig.8	feature	CDS	6850	7290	.	+	0	ID=MEint1363.genome.CDS.1108;Product=Deoxyuridine 5%27-triphosphate nucleotidohydrolase %28EC 3.6.1.23%29;locus_tag=MEint1363.genome.CDS.1108
+MEint1363.contig.8	feature	CDS	6269	6853	.	+	0	ID=MEint1363.genome.CDS.1107;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1107
+MEint1363.contig.8	feature	CDS	5786	6223	.	-	0	ID=MEint1363.genome.CDS.1106;Product=;locus_tag=MEint1363.genome.CDS.1106
+MEint1363.contig.8	feature	CDS	5493	5789	.	+	0	ID=MEint1363.genome.CDS.1105;Product=FIG01121218: hypothetical protein;locus_tag=MEint1363.genome.CDS.1105
+MEint1363.contig.8	feature	CDS	3920	5389	.	+	0	ID=MEint1363.genome.CDS.1104;Product=GTP-binding protein HflX;locus_tag=MEint1363.genome.CDS.1104
+MEint1363.contig.8	feature	CDS	3110	3919	.	+	0	ID=MEint1363.genome.CDS.1103;Product=Diaminopimelate epimerase %28EC 5.1.1.7%29;locus_tag=MEint1363.genome.CDS.1103
+MEint1363.contig.8	feature	CDS	2187	3080	.	+	0	ID=MEint1363.genome.CDS.1102;Product=tRNA dimethylallyltransferase %28EC 2.5.1.75%29;locus_tag=MEint1363.genome.CDS.1102
+MEint1363.contig.8	feature	CDS	769	2190	.	+	0	ID=MEint1363.genome.CDS.1101;Product=tRNA-i%286%29A37 methylthiotransferase;locus_tag=MEint1363.genome.CDS.1101
+MEint1363.contig.8	feature	CDS	6	746	.	+	0	ID=MEint1363.genome.CDS.1100;Product=;locus_tag=MEint1363.genome.CDS.1100
+MEint1363.contig.9	feature	misc_RNA	1	7082	.	+	.	ID=MEint1363.genome.repeat.3;Product=repeat region;locus_tag=MEint1363.genome.repeat.3
+MEint1363.contig.9	feature	misc_RNA	7146	7398	.	+	.	ID=MEint1363.genome.repeat.4;Product=repeat region;locus_tag=MEint1363.genome.repeat.4
+MEint1363.contig.9	feature	CDS	23471	23608	.	+	0	ID=MEint1363.genome.CDS.1146;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1146
+MEint1363.contig.9	feature	CDS	23038	23433	.	-	0	ID=MEint1363.genome.CDS.1145;Product=;locus_tag=MEint1363.genome.CDS.1145
+MEint1363.contig.9	feature	CDS	22517	22993	.	-	0	ID=MEint1363.genome.CDS.1144;Product=Transcription elongation factor GreA;locus_tag=MEint1363.genome.CDS.1144
+MEint1363.contig.9	feature	CDS	21722	22513	.	+	0	ID=MEint1363.genome.CDS.1143;Product=ABC transporter%2C permease protein;locus_tag=MEint1363.genome.CDS.1143
+MEint1363.contig.9	feature	CDS	20766	21725	.	+	0	ID=MEint1363.genome.CDS.1142;Product=;locus_tag=MEint1363.genome.CDS.1142
+MEint1363.contig.9	feature	CDS	19444	20667	.	-	0	ID=MEint1363.genome.CDS.1141;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1141
+MEint1363.contig.9	feature	CDS	18660	19436	.	+	0	ID=MEint1363.genome.CDS.1140;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1140
+MEint1363.contig.9	feature	tRNA	18557	18629	.	+	.	ID=MEint1363.genome.rna.7;Product=tRNA-Leu-TAA;locus_tag=MEint1363.genome.rna.7
+MEint1363.contig.9	feature	CDS	17556	18470	.	+	0	ID=MEint1363.genome.CDS.1139;Product=Exopolyphosphatase %28EC 3.6.1.11%29;locus_tag=MEint1363.genome.CDS.1139
+MEint1363.contig.9	feature	CDS	17056	17559	.	+	0	ID=MEint1363.genome.CDS.1138;Product=FIG004853: possible toxin to DivIC;locus_tag=MEint1363.genome.CDS.1138
+MEint1363.contig.9	feature	CDS	16652	17059	.	+	0	ID=MEint1363.genome.CDS.1137;Product=;locus_tag=MEint1363.genome.CDS.1137
+MEint1363.contig.9	feature	CDS	15371	16648	.	+	0	ID=MEint1363.genome.CDS.1136;Product=Enolase %28EC 4.2.1.11%29;locus_tag=MEint1363.genome.CDS.1136
+MEint1363.contig.9	feature	CDS	14678	15322	.	+	0	ID=MEint1363.genome.CDS.1135;Product=Nucleoside triphosphate pyrophosphohydrolase MazG %28EC 3.6.1.8%29;locus_tag=MEint1363.genome.CDS.1135
+MEint1363.contig.9	feature	CDS	14055	14660	.	+	0	ID=MEint1363.genome.CDS.1134;Product=hypothetical protein;locus_tag=MEint1363.genome.CDS.1134
+MEint1363.contig.9	feature	CDS	10609	14058	.	+	0	ID=MEint1363.genome.CDS.1133;Product=Transcription-repair coupling factor;locus_tag=MEint1363.genome.CDS.1133
+MEint1363.contig.9	feature	CDS	7760	10477	.	-	0	ID=MEint1363.genome.CDS.1132;Product=Phosphoenolpyruvate carboxylase %28EC 4.1.1.31%29;locus_tag=MEint1363.genome.CDS.1132
+MEint1363.contig.9	feature	CDS	7181	7756	.	+	0	ID=MEint1363.genome.CDS.1131;Product=Peptidyl-tRNA hydrolase %28EC 3.1.1.29%29;locus_tag=MEint1363.genome.CDS.1131
+MEint1363.contig.9	feature	CDS	6532	7164	.	+	0	ID=MEint1363.genome.CDS.1130;Product=LSU ribosomal protein L25p;locus_tag=MEint1363.genome.CDS.1130
+MEint1363.contig.9	feature	CDS	5401	6381	.	+	0	ID=MEint1363.genome.CDS.1129;Product=Ribose-phosphate pyrophosphokinase %28EC 2.7.6.1%29;locus_tag=MEint1363.genome.CDS.1129
+MEint1363.contig.9	feature	CDS	3935	5395	.	+	0	ID=MEint1363.genome.CDS.1128;Product=N-acetylglucosamine-1-phosphate uridyltransferase %28EC 2.7.7.23%29 / Glucosamine-1-phosphate N-acetyltransferase %28EC 2.3.1.157%29;locus_tag=MEint1363.genome.CDS.1128
+MEint1363.contig.9	feature	tRNA	3862	3933	.	+	.	ID=MEint1363.genome.rna.6;Product=tRNA-Gln-TTG;locus_tag=MEint1363.genome.rna.6
+MEint1363.contig.9	feature	CDS	3278	3766	.	-	0	ID=MEint1363.genome.CDS.1126;Product=Transcriptional regulator%2C MarR family;locus_tag=MEint1363.genome.CDS.1126
+MEint1363.contig.9	feature	CDS	2361	3281	.	+	0	ID=MEint1363.genome.CDS.1125;Product=4-diphosphocytidyl-2-C-methyl-D-erythritol kinase %28EC 2.7.1.148%29;locus_tag=MEint1363.genome.CDS.1125
+MEint1363.contig.9	feature	CDS	1526	2359	.	+	0	ID=MEint1363.genome.CDS.1124;Product=SSU rRNA %28adenine%281518%29-N%286%29/adenine%281519%29-N%286%29%29-dimethyltransferase %28EC 2.1.1.182%29;locus_tag=MEint1363.genome.CDS.1124
+MEint1363.contig.9	feature	CDS	672	1529	.	+	0	ID=MEint1363.genome.CDS.1123;Product=Putative deoxyribonuclease YcfH;locus_tag=MEint1363.genome.CDS.1123
+MEint1363.contig.9	feature	CDS	1	666	.	+	0	ID=MEint1363.genome.CDS.1122;Product=Methionyl-tRNA synthetase %28EC 6.1.1.10%29;locus_tag=MEint1363.genome.CDS.1122

@@ -1,0 +1,845 @@
+##gff-version 3
+MEint283.contig.1	feature	misc_RNA	6399	6706	.	+	.	ID=MEint283.genome.repeat.10;Product=repeat region;locus_tag=MEint283.genome.repeat.10
+MEint283.contig.1	feature	CDS	6365	6706	.	-	0	ID=MEint283.genome.CDS.758;Product=FIG004853: possible toxin to DivIC;locus_tag=MEint283.genome.CDS.758
+MEint283.contig.1	feature	CDS	5451	6365	.	-	0	ID=MEint283.genome.CDS.757;Product=Exopolyphosphatase %28EC 3.6.1.11%29;locus_tag=MEint283.genome.CDS.757
+MEint283.contig.1	feature	tRNA	5317	5389	.	-	.	ID=MEint283.genome.rna.1;Product=tRNA-Leu-TAA;locus_tag=MEint283.genome.rna.1
+MEint283.contig.1	feature	CDS	4407	5174	.	-	0	ID=MEint283.genome.CDS.756;Product=putative integral membrane protein;locus_tag=MEint283.genome.CDS.756
+MEint283.contig.1	feature	CDS	3138	4376	.	+	0	ID=MEint283.genome.CDS.755;Product=;locus_tag=MEint283.genome.CDS.755
+MEint283.contig.1	feature	CDS	1978	2967	.	-	0	ID=MEint283.genome.CDS.754;Product=ABC-type multidrug transport system%2C ATPase component;locus_tag=MEint283.genome.CDS.754
+MEint283.contig.1	feature	CDS	1187	1978	.	-	0	ID=MEint283.genome.CDS.753;Product=;locus_tag=MEint283.genome.CDS.753
+MEint283.contig.1	feature	CDS	700	1182	.	+	0	ID=MEint283.genome.CDS.752;Product=Transcription elongation factor GreA;locus_tag=MEint283.genome.CDS.752
+MEint283.contig.1	feature	CDS	282	686	.	+	0	ID=MEint283.genome.CDS.751;Product=;locus_tag=MEint283.genome.CDS.751
+MEint283.contig.1	feature	CDS	74	214	.	-	0	ID=MEint283.genome.CDS.750;Product=;locus_tag=MEint283.genome.CDS.750
+MEint283.contig.10	feature	misc_RNA	2226	5709	.	+	.	ID=MEint283.genome.repeat.19;Product=repeat region;locus_tag=MEint283.genome.repeat.19
+MEint283.contig.10	feature	CDS	5133	5708	.	+	0	ID=MEint283.genome.CDS.892;Product=Hypothetical protein YggS%2C proline synthase co-transcribed bacterial homolog PROSC;locus_tag=MEint283.genome.CDS.892
+MEint283.contig.10	feature	CDS	4531	5136	.	+	0	ID=MEint283.genome.CDS.891;Product=;locus_tag=MEint283.genome.CDS.891
+MEint283.contig.10	feature	CDS	3383	4522	.	+	0	ID=MEint283.genome.CDS.890;Product=Cell division protein FtsZ %28EC 3.4.24.-%29;locus_tag=MEint283.genome.CDS.890
+MEint283.contig.10	feature	CDS	2464	3195	.	+	0	ID=MEint283.genome.CDS.889;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.889
+MEint283.contig.10	feature	CDS	1056	2459	.	+	0	ID=MEint283.genome.CDS.888;Product=UDP-N-acetylmuramate--alanine ligase %28EC 6.3.2.8%29;locus_tag=MEint283.genome.CDS.888
+MEint283.contig.10	feature	CDS	1	1059	.	+	0	ID=MEint283.genome.CDS.887;Product=UDP-N-acetylglucosamine--N-acetylmuramyl-%28pentapeptide%29 pyrophosphoryl-undecaprenol N-acetylglucosamine transferase %28EC 2.4.1.227%29;locus_tag=MEint283.genome.CDS.887
+MEint283.contig.11	feature	CDS	5084	6109	.	+	0	ID=MEint283.genome.CDS.900;Product=Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase and related deacylases;locus_tag=MEint283.genome.CDS.900
+MEint283.contig.11	feature	tRNA	4940	5023	.	-	.	ID=MEint283.genome.rna.2;Product=tRNA-Leu-GAG;locus_tag=MEint283.genome.rna.2
+MEint283.contig.11	feature	CDS	4383	4907	.	-	0	ID=MEint283.genome.CDS.899;Product=Adenine phosphoribosyltransferase %28EC 2.4.2.7%29;locus_tag=MEint283.genome.CDS.899
+MEint283.contig.11	feature	CDS	3740	4378	.	-	0	ID=MEint283.genome.CDS.898;Product=Thymidine kinase %28EC 2.7.1.21%29;locus_tag=MEint283.genome.CDS.898
+MEint283.contig.11	feature	CDS	2692	3732	.	-	0	ID=MEint283.genome.CDS.897;Product=Cinnamyl alcohol dehydrogenase/reductase %28EC 1.1.1.195%29 %40 Alcohol dehydrogenase %28EC 1.1.1.1%29;locus_tag=MEint283.genome.CDS.897
+MEint283.contig.11	feature	CDS	1961	2695	.	+	0	ID=MEint283.genome.CDS.896;Product=membrane protein%2C putative;locus_tag=MEint283.genome.CDS.896
+MEint283.contig.11	feature	CDS	1122	1961	.	+	0	ID=MEint283.genome.CDS.895;Product=Undecaprenyl-diphosphatase %28EC 3.6.1.27%29;locus_tag=MEint283.genome.CDS.895
+MEint283.contig.11	feature	CDS	350	1057	.	-	0	ID=MEint283.genome.CDS.894;Product=FIG00761799: membrane protein;locus_tag=MEint283.genome.CDS.894
+MEint283.contig.11	feature	CDS	3	257	.	-	0	ID=MEint283.genome.CDS.893;Product=Xanthine/uracil/thiamine/ascorbate permease family protein;locus_tag=MEint283.genome.CDS.893
+MEint283.contig.12	feature	CDS	4617	4871	.	+	0	ID=MEint283.genome.CDS.905;Product=LSU ribosomal protein L27p;locus_tag=MEint283.genome.CDS.905
+MEint283.contig.12	feature	CDS	4282	4590	.	+	0	ID=MEint283.genome.CDS.904;Product=LSU ribosomal protein L21p;locus_tag=MEint283.genome.CDS.904
+MEint283.contig.12	feature	CDS	2137	4185	.	+	0	ID=MEint283.genome.CDS.903;Product=Cytoplasmic axial filament protein CafA and Ribonuclease G %28EC 3.1.4.-%29;locus_tag=MEint283.genome.CDS.903
+MEint283.contig.12	feature	CDS	792	1937	.	+	0	ID=MEint283.genome.CDS.902;Product=Rod shape-determining protein RodA;locus_tag=MEint283.genome.CDS.902
+MEint283.contig.12	feature	CDS	1	795	.	+	0	ID=MEint283.genome.CDS.901;Product=Cell division protein FtsI %5BPeptidoglycan synthetase%5D %28EC 2.4.1.129%29;locus_tag=MEint283.genome.CDS.901
+MEint283.contig.13	feature	CDS	3890	4804	.	-	0	ID=MEint283.genome.CDS.909;Product=Rod shape-determining protein MreC;locus_tag=MEint283.genome.CDS.909
+MEint283.contig.13	feature	CDS	3367	3885	.	-	0	ID=MEint283.genome.CDS.908;Product=;locus_tag=MEint283.genome.CDS.908
+MEint283.contig.13	feature	CDS	1238	3367	.	-	0	ID=MEint283.genome.CDS.907;Product=Cell division protein FtsI %5BPeptidoglycan synthetase%5D %28EC 2.4.1.129%29;locus_tag=MEint283.genome.CDS.907
+MEint283.contig.13	feature	CDS	96	1241	.	-	0	ID=MEint283.genome.CDS.906;Product=Rod shape-determining protein RodA;locus_tag=MEint283.genome.CDS.906
+MEint283.contig.14	feature	CDS	10520	10681	.	-	0	ID=MEint283.genome.CDS.921;Product=;locus_tag=MEint283.genome.CDS.921
+MEint283.contig.14	feature	CDS	9828	10520	.	-	0	ID=MEint283.genome.CDS.920;Product=Orotidine 5%27-phosphate decarboxylase %28EC 4.1.1.23%29;locus_tag=MEint283.genome.CDS.920
+MEint283.contig.14	feature	CDS	8962	9828	.	-	0	ID=MEint283.genome.CDS.919;Product=Guanylate kinase %28EC 2.7.4.8%29;locus_tag=MEint283.genome.CDS.919
+MEint283.contig.14	feature	CDS	8666	8944	.	-	0	ID=MEint283.genome.CDS.918;Product=DNA-directed RNA polymerase omega subunit %28EC 2.7.7.6%29;locus_tag=MEint283.genome.CDS.918
+MEint283.contig.14	feature	CDS	7445	8656	.	-	0	ID=MEint283.genome.CDS.917;Product=Phosphopantothenoylcysteine decarboxylase %28EC 4.1.1.36%29 / Phosphopantothenoylcysteine synthetase %28EC 6.3.2.5%29;locus_tag=MEint283.genome.CDS.917
+MEint283.contig.14	feature	CDS	6262	7452	.	-	0	ID=MEint283.genome.CDS.916;Product=S-adenosylmethionine synthetase %28EC 2.5.1.6%29;locus_tag=MEint283.genome.CDS.916
+MEint283.contig.14	feature	CDS	4352	6259	.	-	0	ID=MEint283.genome.CDS.915;Product=Helicase PriA essential for oriC/DnaA-independent DNA replication;locus_tag=MEint283.genome.CDS.915
+MEint283.contig.14	feature	CDS	3765	4325	.	-	0	ID=MEint283.genome.CDS.914;Product=Peptide deformylase %28EC 3.5.1.88%29;locus_tag=MEint283.genome.CDS.914
+MEint283.contig.14	feature	CDS	2843	3763	.	-	0	ID=MEint283.genome.CDS.913;Product=Methionyl-tRNA formyltransferase %28EC 2.1.2.9%29;locus_tag=MEint283.genome.CDS.913
+MEint283.contig.14	feature	CDS	1522	2850	.	-	0	ID=MEint283.genome.CDS.912;Product=16S rRNA %28cytosine%28967%29-C%285%29%29-methyltransferase %28EC 2.1.1.176%29;locus_tag=MEint283.genome.CDS.912
+MEint283.contig.14	feature	CDS	836	1495	.	-	0	ID=MEint283.genome.CDS.911;Product=Ribulose-phosphate 3-epimerase %28EC 5.1.3.1%29;locus_tag=MEint283.genome.CDS.911
+MEint283.contig.14	feature	CDS	1	846	.	+	0	ID=MEint283.genome.CDS.910;Product=Phosphoserine phosphatase %28EC 3.1.3.3%29;locus_tag=MEint283.genome.CDS.910
+MEint283.contig.15	feature	misc_RNA	10447	14651	.	+	.	ID=MEint283.genome.repeat.28;Product=repeat region;locus_tag=MEint283.genome.repeat.28
+MEint283.contig.15	feature	CDS	13642	14649	.	+	0	ID=MEint283.genome.CDS.937;Product=Diaminohydroxyphosphoribosylaminopyrimidine deaminase %28EC 3.5.4.26%29 / 5-amino-6-%285-phosphoribosylamino%29uracil reductase %28EC 1.1.1.193%29;locus_tag=MEint283.genome.CDS.937
+MEint283.contig.15	feature	CDS	12131	13459	.	+	0	ID=MEint283.genome.CDS.936;Product=Argininosuccinate synthase %28EC 6.3.4.5%29;locus_tag=MEint283.genome.CDS.936
+MEint283.contig.15	feature	CDS	11491	12108	.	+	0	ID=MEint283.genome.CDS.935;Product=;locus_tag=MEint283.genome.CDS.935
+MEint283.contig.15	feature	CDS	10836	11504	.	+	0	ID=MEint283.genome.CDS.934;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.934
+MEint283.contig.15	feature	CDS	9814	10836	.	+	0	ID=MEint283.genome.CDS.933;Product=type II secretion system protein E;locus_tag=MEint283.genome.CDS.933
+MEint283.contig.15	feature	CDS	9256	9732	.	+	0	ID=MEint283.genome.CDS.932;Product=;locus_tag=MEint283.genome.CDS.932
+MEint283.contig.15	feature	CDS	8854	9228	.	-	0	ID=MEint283.genome.CDS.931;Product=;locus_tag=MEint283.genome.CDS.931
+MEint283.contig.15	feature	CDS	8125	8853	.	+	0	ID=MEint283.genome.CDS.930;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.930
+MEint283.contig.15	feature	CDS	4198	7959	.	-	0	ID=MEint283.genome.CDS.929;Product=2-oxoglutarate dehydrogenase E1 component %28EC 1.2.4.2%29;locus_tag=MEint283.genome.CDS.929
+MEint283.contig.15	feature	CDS	3884	4201	.	+	0	ID=MEint283.genome.CDS.167;Product=;locus_tag=MEint283.genome.CDS.167
+MEint283.contig.15	feature	CDS	3425	3832	.	-	0	ID=MEint283.genome.CDS.927;Product=Nickel-dependent superoxide dismutase %28EC 1.15.1.1%29;locus_tag=MEint283.genome.CDS.927
+MEint283.contig.15	feature	CDS	2953	3405	.	+	0	ID=MEint283.genome.CDS.926;Product=;locus_tag=MEint283.genome.CDS.926
+MEint283.contig.15	feature	CDS	2526	2927	.	+	0	ID=MEint283.genome.CDS.925;Product=;locus_tag=MEint283.genome.CDS.925
+MEint283.contig.15	feature	CDS	1819	2529	.	+	0	ID=MEint283.genome.CDS.924;Product=;locus_tag=MEint283.genome.CDS.924
+MEint283.contig.15	feature	CDS	418	1713	.	-	0	ID=MEint283.genome.CDS.923;Product=5-Enolpyruvylshikimate-3-phosphate synthase %28EC 2.5.1.19%29;locus_tag=MEint283.genome.CDS.923
+MEint283.contig.15	feature	CDS	3	425	.	-	0	ID=MEint283.genome.CDS.922;Product=Ribosome small subunit-stimulated GTPase EngC;locus_tag=MEint283.genome.CDS.922
+MEint283.contig.16	feature	CDS	6902	7765	.	-	0	ID=MEint283.genome.CDS.945;Product=Succinate dehydrogenase flavoprotein subunit %28EC 1.3.99.1%29;locus_tag=MEint283.genome.CDS.945
+MEint283.contig.16	feature	CDS	6141	6902	.	-	0	ID=MEint283.genome.CDS.944;Product=Succinate dehydrogenase iron-sulfur protein %28EC 1.3.99.1%29;locus_tag=MEint283.genome.CDS.944
+MEint283.contig.16	feature	CDS	5790	6137	.	-	0	ID=MEint283.genome.CDS.943;Product=putative membrane protein;locus_tag=MEint283.genome.CDS.943
+MEint283.contig.16	feature	CDS	4319	5782	.	+	0	ID=MEint283.genome.CDS.942;Product=Xaa-Pro aminopeptidase %28EC 3.4.11.9%29;locus_tag=MEint283.genome.CDS.942
+MEint283.contig.16	feature	CDS	3112	4182	.	-	0	ID=MEint283.genome.CDS.941;Product=;locus_tag=MEint283.genome.CDS.941
+MEint283.contig.16	feature	CDS	2013	3032	.	-	0	ID=MEint283.genome.CDS.940;Product=;locus_tag=MEint283.genome.CDS.940
+MEint283.contig.16	feature	tRNA	1840	1932	.	-	.	ID=MEint283.genome.rna.3;Product=tRNA-Ser-GCT;locus_tag=MEint283.genome.rna.3
+MEint283.contig.16	feature	CDS	781	1779	.	-	0	ID=MEint283.genome.CDS.939;Product=Sorbitol dehydrogenase %28EC 1.1.1.14%29;locus_tag=MEint283.genome.CDS.939
+MEint283.contig.16	feature	CDS	3	743	.	-	0	ID=MEint283.genome.CDS.938;Product=Ferredoxin--NADP%28%2B%29 reductase%2C actinobacterial %28eukaryote-like%29 type %28EC 1.18.1.2%29;locus_tag=MEint283.genome.CDS.938
+MEint283.contig.17	feature	CDS	20199	20573	.	+	0	ID=MEint283.genome.CDS.966;Product=Dihydroorotate dehydrogenase%2C catalytic subunit %28EC 1.3.3.1%29;locus_tag=MEint283.genome.CDS.966
+MEint283.contig.17	feature	CDS	19351	20202	.	+	0	ID=MEint283.genome.CDS.965;Product=Dihydroorotate dehydrogenase electron transfer subunit %28EC 1.3.3.1%29;locus_tag=MEint283.genome.CDS.965
+MEint283.contig.17	feature	CDS	16100	19354	.	+	0	ID=MEint283.genome.CDS.964;Product=Carbamoyl-phosphate synthase large chain %28EC 6.3.5.5%29;locus_tag=MEint283.genome.CDS.964
+MEint283.contig.17	feature	CDS	14959	16107	.	+	0	ID=MEint283.genome.CDS.963;Product=Carbamoyl-phosphate synthase small chain %28EC 6.3.5.5%29;locus_tag=MEint283.genome.CDS.963
+MEint283.contig.17	feature	CDS	13662	14966	.	+	0	ID=MEint283.genome.CDS.962;Product=Dihydroorotase %28EC 3.5.2.3%29;locus_tag=MEint283.genome.CDS.962
+MEint283.contig.17	feature	CDS	12716	13669	.	+	0	ID=MEint283.genome.CDS.961;Product=Aspartate carbamoyltransferase %28EC 2.1.3.2%29;locus_tag=MEint283.genome.CDS.961
+MEint283.contig.17	feature	CDS	12198	12719	.	+	0	ID=MEint283.genome.CDS.960;Product=Uracil phosphoribosyltransferase %28EC 2.4.2.9%29 / Pyrimidine operon regulatory protein PyrR;locus_tag=MEint283.genome.CDS.960
+MEint283.contig.17	feature	CDS	11634	12083	.	-	0	ID=MEint283.genome.CDS.959;Product=transcriptional regulator%2C XRE family;locus_tag=MEint283.genome.CDS.959
+MEint283.contig.17	feature	CDS	11230	11637	.	+	0	ID=MEint283.genome.CDS.958;Product=Transcription termination protein NusB;locus_tag=MEint283.genome.CDS.958
+MEint283.contig.17	feature	CDS	10664	11227	.	+	0	ID=MEint283.genome.CDS.957;Product=Translation elongation factor P;locus_tag=MEint283.genome.CDS.957
+MEint283.contig.17	feature	CDS	10172	10603	.	+	0	ID=MEint283.genome.CDS.956;Product=3-dehydroquinate dehydratase II %28EC 4.2.1.10%29;locus_tag=MEint283.genome.CDS.956
+MEint283.contig.17	feature	CDS	9150	10175	.	+	0	ID=MEint283.genome.CDS.955;Product=3-dehydroquinate synthase %28EC 4.2.3.4%29;locus_tag=MEint283.genome.CDS.955
+MEint283.contig.17	feature	CDS	8638	9153	.	+	0	ID=MEint283.genome.CDS.954;Product=Shikimate kinase I %28EC 2.7.1.71%29;locus_tag=MEint283.genome.CDS.954
+MEint283.contig.17	feature	CDS	7454	8638	.	+	0	ID=MEint283.genome.CDS.953;Product=Chorismate synthase %28EC 4.2.3.5%29;locus_tag=MEint283.genome.CDS.953
+MEint283.contig.17	feature	CDS	7003	7380	.	+	0	ID=MEint283.genome.CDS.952;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.952
+MEint283.contig.17	feature	CDS	6160	6957	.	+	0	ID=MEint283.genome.CDS.951;Product=Shikimate 5-dehydrogenase I alpha %28EC 1.1.1.25%29;locus_tag=MEint283.genome.CDS.951
+MEint283.contig.17	feature	CDS	5168	6163	.	+	0	ID=MEint283.genome.CDS.950;Product=FIG004453: protein YceG like;locus_tag=MEint283.genome.CDS.950
+MEint283.contig.17	feature	CDS	4719	5171	.	+	0	ID=MEint283.genome.CDS.949;Product=;locus_tag=MEint283.genome.CDS.949
+MEint283.contig.17	feature	CDS	2028	4709	.	+	0	ID=MEint283.genome.CDS.948;Product=Alanyl-tRNA synthetase %28EC 6.1.1.7%29;locus_tag=MEint283.genome.CDS.948
+MEint283.contig.17	feature	CDS	1713	2024	.	+	0	ID=MEint283.genome.CDS.947;Product=;locus_tag=MEint283.genome.CDS.947
+MEint283.contig.17	feature	CDS	1	1683	.	+	0	ID=MEint283.genome.CDS.946;Product=Aspartyl-tRNA synthetase %28EC 6.1.1.12%29 %40 Aspartyl-tRNA%28Asn%29 synthetase %28EC 6.1.1.23%29;locus_tag=MEint283.genome.CDS.946
+MEint283.contig.18	feature	CDS	28543	28743	.	-	0	ID=MEint283.genome.CDS.995;Product=Alanine racemase %28EC 5.1.1.1%29;locus_tag=MEint283.genome.CDS.995
+MEint283.contig.18	feature	CDS	27756	28550	.	-	0	ID=MEint283.genome.CDS.231;Product=Branched-chain amino acid transport ATP-binding protein LivG %28TC 3.A.1.4.1%29;locus_tag=MEint283.genome.CDS.231
+MEint283.contig.18	feature	CDS	27043	27756	.	-	0	ID=MEint283.genome.CDS.993;Product=Branched-chain amino acid transport ATP-binding protein LivF %28TC 3.A.1.4.1%29;locus_tag=MEint283.genome.CDS.993
+MEint283.contig.18	feature	CDS	26132	27043	.	-	0	ID=MEint283.genome.CDS.992;Product=High-affinity branched-chain amino acid transport system permease protein LivH %28TC 3.A.1.4.1%29;locus_tag=MEint283.genome.CDS.992
+MEint283.contig.18	feature	CDS	25153	26139	.	-	0	ID=MEint283.genome.CDS.991;Product=Branched-chain amino acid transport system permease protein LivM %28TC 3.A.1.4.1%29;locus_tag=MEint283.genome.CDS.991
+MEint283.contig.18	feature	CDS	23661	25031	.	-	0	ID=MEint283.genome.CDS.990;Product=Branched-chain amino acid ABC transporter%2C amino acid-binding protein %28TC 3.A.1.4.1%29;locus_tag=MEint283.genome.CDS.990
+MEint283.contig.18	feature	CDS	22063	23658	.	-	0	ID=MEint283.genome.CDS.989;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.989
+MEint283.contig.18	feature	CDS	21536	21988	.	-	0	ID=MEint283.genome.CDS.988;Product=TsaE protein%2C required for threonylcarbamoyladenosine t%286%29A37 formation in tRNA;locus_tag=MEint283.genome.CDS.988
+MEint283.contig.18	feature	CDS	20541	21539	.	-	0	ID=MEint283.genome.CDS.987;Product=TsaB protein%2C required for threonylcarbamoyladenosine %28t%286%29A%29 formation in tRNA;locus_tag=MEint283.genome.CDS.987
+MEint283.contig.18	feature	CDS	19516	20541	.	-	0	ID=MEint283.genome.CDS.986;Product=Kinase-Associated Endopeptidase %28Kae1%29%2C required for threonylcarbamoyladenosine t%286%29A37 formation in tRNA;locus_tag=MEint283.genome.CDS.986
+MEint283.contig.18	feature	CDS	19079	19375	.	-	0	ID=MEint283.genome.CDS.985;Product=Heat shock protein 60 family co-chaperone GroES;locus_tag=MEint283.genome.CDS.985
+MEint283.contig.18	feature	CDS	17442	19076	.	-	0	ID=MEint283.genome.CDS.984;Product=Heat shock protein 60 family chaperone GroEL;locus_tag=MEint283.genome.CDS.984
+MEint283.contig.18	feature	CDS	16630	17385	.	-	0	ID=MEint283.genome.CDS.983;Product=Polyphosphate glucokinase %28EC 2.7.1.63%29;locus_tag=MEint283.genome.CDS.983
+MEint283.contig.18	feature	CDS	15486	16595	.	-	0	ID=MEint283.genome.CDS.982;Product=Inosine-5%27-monophosphate dehydrogenase%2C catalytic domain %28EC 1.1.1.205%29;locus_tag=MEint283.genome.CDS.982
+MEint283.contig.18	feature	CDS	14738	15394	.	-	0	ID=MEint283.genome.CDS.981;Product=Peptidyl-prolyl cis-trans isomerase %28EC 5.2.1.8%29;locus_tag=MEint283.genome.CDS.981
+MEint283.contig.18	feature	CDS	13974	14741	.	+	0	ID=MEint283.genome.CDS.980;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.980
+MEint283.contig.18	feature	CDS	11744	13957	.	-	0	ID=MEint283.genome.CDS.979;Product=ATP-dependent DNA helicase UvrD/PcrA;locus_tag=MEint283.genome.CDS.979
+MEint283.contig.18	feature	CDS	10519	11682	.	-	0	ID=MEint283.genome.CDS.978;Product=Succinyl-CoA ligase %5BADP-forming%5D beta chain %28EC 6.2.1.5%29;locus_tag=MEint283.genome.CDS.978
+MEint283.contig.18	feature	CDS	9641	10522	.	-	0	ID=MEint283.genome.CDS.977;Product=Succinyl-CoA ligase %5BADP-forming%5D alpha chain %28EC 6.2.1.5%29;locus_tag=MEint283.genome.CDS.977
+MEint283.contig.18	feature	CDS	8543	9622	.	-	0	ID=MEint283.genome.CDS.976;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.976
+MEint283.contig.18	feature	CDS	7700	8533	.	-	0	ID=MEint283.genome.CDS.975;Product=Methylenetetrahydrofolate dehydrogenase %28NADP%2B%29 %28EC 1.5.1.5%29 / Methenyltetrahydrofolate cyclohydrolase %28EC 3.5.4.9%29;locus_tag=MEint283.genome.CDS.975
+MEint283.contig.18	feature	CDS	7458	7703	.	-	0	ID=MEint283.genome.CDS.974;Product=;locus_tag=MEint283.genome.CDS.974
+MEint283.contig.18	feature	CDS	6439	7395	.	-	0	ID=MEint283.genome.CDS.973;Product=Malate dehydrogenase %28EC 1.1.1.37%29;locus_tag=MEint283.genome.CDS.973
+MEint283.contig.18	feature	CDS	5210	6424	.	-	0	ID=MEint283.genome.CDS.972;Product=Isocitrate dehydrogenase %5BNADP%5D %28EC 1.1.1.42%29;locus_tag=MEint283.genome.CDS.972
+MEint283.contig.18	feature	CDS	4084	5163	.	+	0	ID=MEint283.genome.CDS.971;Product=Glycerol-3-phosphate ABC transporter%2C ATP-binding protein UgpC %28TC 3.A.1.1.3%29;locus_tag=MEint283.genome.CDS.971
+MEint283.contig.18	feature	CDS	2622	3914	.	-	0	ID=MEint283.genome.CDS.970;Product=Hemolysins and related proteins containing CBS domains;locus_tag=MEint283.genome.CDS.970
+MEint283.contig.18	feature	CDS	1631	2629	.	-	0	ID=MEint283.genome.CDS.206;Product=Tryptophanyl-tRNA synthetase %28EC 6.1.1.2%29;locus_tag=MEint283.genome.CDS.206
+MEint283.contig.18	feature	CDS	413	1456	.	-	0	ID=MEint283.genome.CDS.968;Product=Nucleoside ABC transporter%2C periplasmic nucleoside-binding protein;locus_tag=MEint283.genome.CDS.968
+MEint283.contig.18	feature	CDS	2	343	.	-	0	ID=MEint283.genome.CDS.967;Product=;locus_tag=MEint283.genome.CDS.967
+MEint283.contig.19	feature	misc_RNA	31910	33635	.	+	.	ID=MEint283.genome.repeat.18;Product=repeat region;locus_tag=MEint283.genome.repeat.18
+MEint283.contig.19	feature	CDS	32554	33633	.	-	0	ID=MEint283.genome.CDS.1030;Product=DNA translocase FtsK;locus_tag=MEint283.genome.CDS.1030
+MEint283.contig.19	feature	CDS	31694	32416	.	-	0	ID=MEint283.genome.CDS.1029;Product=putative membrane protein;locus_tag=MEint283.genome.CDS.1029
+MEint283.contig.19	feature	CDS	30241	31653	.	-	0	ID=MEint283.genome.CDS.1028;Product=Ribosomal protein S12p Asp88 %28E. coli%29 methylthiotransferase;locus_tag=MEint283.genome.CDS.1028
+MEint283.contig.19	feature	CDS	29702	30244	.	-	0	ID=MEint283.genome.CDS.1027;Product=CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase %28EC 2.7.8.5%29;locus_tag=MEint283.genome.CDS.1027
+MEint283.contig.19	feature	CDS	29229	29705	.	-	0	ID=MEint283.genome.CDS.1026;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.1026
+MEint283.contig.19	feature	CDS	28948	29232	.	-	0	ID=MEint283.genome.CDS.1025;Product=FIG01123282: hypothetical protein;locus_tag=MEint283.genome.CDS.1025
+MEint283.contig.19	feature	CDS	28407	28946	.	-	0	ID=MEint283.genome.CDS.1024;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.1024
+MEint283.contig.19	feature	CDS	26889	27983	.	-	0	ID=MEint283.genome.CDS.1023;Product=RecA protein;locus_tag=MEint283.genome.CDS.1023
+MEint283.contig.19	feature	CDS	26378	26866	.	-	0	ID=MEint283.genome.CDS.1022;Product=;locus_tag=MEint283.genome.CDS.1022
+MEint283.contig.19	feature	CDS	24925	26361	.	-	0	ID=MEint283.genome.CDS.1021;Product=tRNA-i%286%29A37 methylthiotransferase;locus_tag=MEint283.genome.CDS.1021
+MEint283.contig.19	feature	CDS	24022	24924	.	-	0	ID=MEint283.genome.CDS.1020;Product=tRNA dimethylallyltransferase %28EC 2.5.1.75%29;locus_tag=MEint283.genome.CDS.1020
+MEint283.contig.19	feature	CDS	23228	24022	.	-	0	ID=MEint283.genome.CDS.1019;Product=Diaminopimelate epimerase %28EC 5.1.1.7%29;locus_tag=MEint283.genome.CDS.1019
+MEint283.contig.19	feature	CDS	21789	23231	.	-	0	ID=MEint283.genome.CDS.1018;Product=GTP-binding protein HflX;locus_tag=MEint283.genome.CDS.1018
+MEint283.contig.19	feature	CDS	21101	21682	.	-	0	ID=MEint283.genome.CDS.1017;Product=competence protein;locus_tag=MEint283.genome.CDS.1017
+MEint283.contig.19	feature	CDS	18855	21053	.	-	0	ID=MEint283.genome.CDS.1016;Product=ComEC/Rec2-related protein;locus_tag=MEint283.genome.CDS.1016
+MEint283.contig.19	feature	CDS	17920	18864	.	-	0	ID=MEint283.genome.CDS.1015;Product=DNA polymerase III delta subunit %28EC 2.7.7.7%29;locus_tag=MEint283.genome.CDS.1015
+MEint283.contig.19	feature	CDS	17565	17834	.	-	0	ID=MEint283.genome.CDS.1014;Product=SSU ribosomal protein S20p;locus_tag=MEint283.genome.CDS.1014
+MEint283.contig.19	feature	CDS	15674	17539	.	-	0	ID=MEint283.genome.CDS.1013;Product=Translation elongation factor LepA;locus_tag=MEint283.genome.CDS.1013
+MEint283.contig.19	feature	CDS	14528	15673	.	-	0	ID=MEint283.genome.CDS.1012;Product=Hypothetical radical SAM family enzyme in heat shock gene cluster%2C similarity with CPO of BS HemN-type;locus_tag=MEint283.genome.CDS.1012
+MEint283.contig.19	feature	CDS	13502	14503	.	-	0	ID=MEint283.genome.CDS.1011;Product=Heat-inducible transcription repressor HrcA;locus_tag=MEint283.genome.CDS.1011
+MEint283.contig.19	feature	CDS	12398	13501	.	-	0	ID=MEint283.genome.CDS.1010;Product=Chaperone protein DnaJ;locus_tag=MEint283.genome.CDS.1010
+MEint283.contig.19	feature	CDS	11685	12398	.	-	0	ID=MEint283.genome.CDS.1009;Product=Ribosomal RNA small subunit methyltransferase E %28EC 2.1.1.-%29;locus_tag=MEint283.genome.CDS.1009
+MEint283.contig.19	feature	CDS	11347	11682	.	-	0	ID=MEint283.genome.CDS.1008;Product=;locus_tag=MEint283.genome.CDS.1008
+MEint283.contig.19	feature	CDS	10332	11291	.	-	0	ID=MEint283.genome.CDS.243;Product=Phosphate starvation-inducible protein PhoH%2C predicted ATPase;locus_tag=MEint283.genome.CDS.243
+MEint283.contig.19	feature	CDS	9872	10309	.	-	0	ID=MEint283.genome.CDS.1006;Product=Metal-dependent hydrolase YbeY%2C involved in rRNA and/or ribosome maturation and assembly;locus_tag=MEint283.genome.CDS.1006
+MEint283.contig.19	feature	CDS	8580	9875	.	-	0	ID=MEint283.genome.CDS.1005;Product=Magnesium and cobalt efflux protein CorC;locus_tag=MEint283.genome.CDS.1005
+MEint283.contig.19	feature	CDS	7779	8570	.	-	0	ID=MEint283.genome.CDS.1004;Product=Fumarylacetoacetate hydrolase family protein;locus_tag=MEint283.genome.CDS.1004
+MEint283.contig.19	feature	CDS	6326	7789	.	-	0	ID=MEint283.genome.CDS.1003;Product=Glutamyl-tRNA synthetase %28EC 6.1.1.17%29 %40 Glutamyl-tRNA%28Gln%29 synthetase %28EC 6.1.1.24%29;locus_tag=MEint283.genome.CDS.1003
+MEint283.contig.19	feature	tRNA	6210	6284	.	-	.	ID=MEint283.genome.rna.4;Product=tRNA-Gln-CTG;locus_tag=MEint283.genome.rna.4
+MEint283.contig.19	feature	tRNA	6116	6191	.	-	.	ID=MEint283.genome.rna.5;Product=tRNA-Glu-CTC;locus_tag=MEint283.genome.rna.5
+MEint283.contig.19	feature	CDS	5390	6109	.	+	0	ID=MEint283.genome.CDS.1002;Product=Transcriptional regulator%2C IclR family;locus_tag=MEint283.genome.CDS.1002
+MEint283.contig.19	feature	CDS	3926	5323	.	-	0	ID=MEint283.genome.CDS.1001;Product=3-isopropylmalate dehydratase large subunit %28EC 4.2.1.33%29;locus_tag=MEint283.genome.CDS.1001
+MEint283.contig.19	feature	CDS	3330	3926	.	-	0	ID=MEint283.genome.CDS.1000;Product=3-isopropylmalate dehydratase small subunit %28EC 4.2.1.33%29;locus_tag=MEint283.genome.CDS.1000
+MEint283.contig.19	feature	CDS	2755	3153	.	-	0	ID=MEint283.genome.CDS.999;Product=;locus_tag=MEint283.genome.CDS.999
+MEint283.contig.19	feature	CDS	1877	2659	.	-	0	ID=MEint283.genome.CDS.998;Product=1-acyl-sn-glycerol-3-phosphate acyltransferase %28EC 2.3.1.51%29;locus_tag=MEint283.genome.CDS.998
+MEint283.contig.19	feature	CDS	882	1880	.	-	0	ID=MEint283.genome.CDS.997;Product=Glycerol-3-phosphate dehydrogenase %5BNAD%28P%29%2B%5D %28EC 1.1.1.94%29;locus_tag=MEint283.genome.CDS.997
+MEint283.contig.19	feature	CDS	3	881	.	-	0	ID=MEint283.genome.CDS.996;Product=D-alanine--D-alanine ligase %28EC 6.3.2.4%29;locus_tag=MEint283.genome.CDS.996
+MEint283.contig.2	feature	misc_RNA	1	1147	.	+	.	ID=MEint283.genome.repeat.33;Product=repeat region;locus_tag=MEint283.genome.repeat.33
+MEint283.contig.2	feature	misc_RNA	4354	5191	.	+	.	ID=MEint283.genome.repeat.34;Product=repeat region;locus_tag=MEint283.genome.repeat.34
+MEint283.contig.2	feature	CDS	4749	5189	.	+	0	ID=MEint283.genome.CDS.765;Product=Nucleoside 5-triphosphatase RdgB %28dHAPTP%2C dITP%2C XTP-specific%29 %28EC 3.6.1.15%29;locus_tag=MEint283.genome.CDS.765
+MEint283.contig.2	feature	CDS	4209	4739	.	+	0	ID=MEint283.genome.CDS.764;Product=Ribonuclease PH %28EC 2.7.7.56%29;locus_tag=MEint283.genome.CDS.764
+MEint283.contig.2	feature	CDS	3126	3974	.	+	0	ID=MEint283.genome.CDS.763;Product=Glutamate racemase %28EC 5.1.1.3%29;locus_tag=MEint283.genome.CDS.763
+MEint283.contig.2	feature	CDS	2145	2915	.	-	0	ID=MEint283.genome.CDS.762;Product=Proteorhodopsin;locus_tag=MEint283.genome.CDS.762
+MEint283.contig.2	feature	CDS	1521	2093	.	+	0	ID=MEint283.genome.CDS.761;Product=;locus_tag=MEint283.genome.CDS.761
+MEint283.contig.2	feature	CDS	1238	1534	.	+	0	ID=MEint283.genome.CDS.11;Product=ATP-dependent Clp protease adaptor protein ClpS;locus_tag=MEint283.genome.CDS.11
+MEint283.contig.2	feature	CDS	1	1230	.	+	0	ID=MEint283.genome.CDS.759;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.759
+MEint283.contig.20	feature	misc_RNA	70	6590	.	+	.	ID=MEint283.genome.repeat.1;Product=repeat region;locus_tag=MEint283.genome.repeat.1
+MEint283.contig.20	feature	CDS	12977	13381	.	-	0	ID=MEint283.genome.CDS.1048;Product=;locus_tag=MEint283.genome.CDS.1048
+MEint283.contig.20	feature	CDS	12014	12970	.	-	0	ID=MEint283.genome.CDS.1047;Product=;locus_tag=MEint283.genome.CDS.1047
+MEint283.contig.20	feature	CDS	10915	12024	.	+	0	ID=MEint283.genome.CDS.1046;Product=;locus_tag=MEint283.genome.CDS.1046
+MEint283.contig.20	feature	CDS	10160	10789	.	-	0	ID=MEint283.genome.CDS.1045;Product=1-acyl-sn-glycerol-3-phosphate acyltransferase %28EC 2.3.1.51%29;locus_tag=MEint283.genome.CDS.1045
+MEint283.contig.20	feature	CDS	9466	10158	.	+	0	ID=MEint283.genome.CDS.1044;Product=;locus_tag=MEint283.genome.CDS.1044
+MEint283.contig.20	feature	CDS	8688	9341	.	+	0	ID=MEint283.genome.CDS.1043;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.1043
+MEint283.contig.20	feature	CDS	7977	8573	.	+	0	ID=MEint283.genome.CDS.1042;Product=;locus_tag=MEint283.genome.CDS.1042
+MEint283.contig.20	feature	CDS	7491	7805	.	+	0	ID=MEint283.genome.CDS.1041;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.1041
+MEint283.contig.20	feature	CDS	6650	7399	.	-	0	ID=MEint283.genome.CDS.1040;Product=Enoyl-CoA hydratase %28EC 4.2.1.17%29;locus_tag=MEint283.genome.CDS.1040
+MEint283.contig.20	feature	CDS	5820	6650	.	-	0	ID=MEint283.genome.CDS.1039;Product=Short chain dehydrogenase family protein;locus_tag=MEint283.genome.CDS.1039
+MEint283.contig.20	feature	CDS	5077	5823	.	+	0	ID=MEint283.genome.CDS.1038;Product=ATPase component NikO of energizing module of nickel ECF transporter;locus_tag=MEint283.genome.CDS.1038
+MEint283.contig.20	feature	CDS	4461	5072	.	+	0	ID=MEint283.genome.CDS.1037;Product=Transmembrane component NikQ of energizing module of nickel ECF transporter;locus_tag=MEint283.genome.CDS.1037
+MEint283.contig.20	feature	CDS	3965	4276	.	+	0	ID=MEint283.genome.CDS.1036;Product=Additional substrate-specific component NikN of nickel ECF transporter;locus_tag=MEint283.genome.CDS.1036
+MEint283.contig.20	feature	CDS	3292	3963	.	+	0	ID=MEint283.genome.CDS.1035;Product=Substrate-specific component NikM of nickel ECF transporter;locus_tag=MEint283.genome.CDS.1035
+MEint283.contig.20	feature	CDS	2703	3224	.	-	0	ID=MEint283.genome.CDS.1034;Product=;locus_tag=MEint283.genome.CDS.1034
+MEint283.contig.20	feature	CDS	1229	2659	.	+	0	ID=MEint283.genome.CDS.1033;Product=Glutamine synthetase type I %28EC 6.3.1.2%29;locus_tag=MEint283.genome.CDS.1033
+MEint283.contig.20	feature	CDS	704	1084	.	-	0	ID=MEint283.genome.CDS.1032;Product=;locus_tag=MEint283.genome.CDS.1032
+MEint283.contig.20	feature	CDS	3	701	.	+	0	ID=MEint283.genome.CDS.1031;Product=;locus_tag=MEint283.genome.CDS.1031
+MEint283.contig.21	feature	misc_RNA	1	2055	.	+	.	ID=MEint283.genome.repeat.5;Product=repeat region;locus_tag=MEint283.genome.repeat.5
+MEint283.contig.21	feature	misc_RNA	2109	2533	.	+	.	ID=MEint283.genome.repeat.6;Product=repeat region;locus_tag=MEint283.genome.repeat.6
+MEint283.contig.21	feature	misc_RNA	10369	10945	.	+	.	ID=MEint283.genome.repeat.7;Product=repeat region;locus_tag=MEint283.genome.repeat.7
+MEint283.contig.21	feature	misc_RNA	11003	12258	.	+	.	ID=MEint283.genome.repeat.8;Product=repeat region;locus_tag=MEint283.genome.repeat.8
+MEint283.contig.21	feature	misc_RNA	12304	14971	.	+	.	ID=MEint283.genome.repeat.9;Product=repeat region;locus_tag=MEint283.genome.repeat.9
+MEint283.contig.21	feature	CDS	14627	14971	.	-	0	ID=MEint283.genome.CDS.1064;Product=Butyryl-CoA dehydrogenase %28EC 1.3.8.1%29;locus_tag=MEint283.genome.CDS.1064
+MEint283.contig.21	feature	CDS	14088	14630	.	+	0	ID=MEint283.genome.CDS.1063;Product=5-formyltetrahydrofolate cyclo-ligase %28EC 6.3.3.2%29;locus_tag=MEint283.genome.CDS.1063
+MEint283.contig.21	feature	CDS	13144	14043	.	-	0	ID=MEint283.genome.CDS.1062;Product=Molybdopterin biosynthesis protein MoeA;locus_tag=MEint283.genome.CDS.1062
+MEint283.contig.21	feature	CDS	12577	13137	.	-	0	ID=MEint283.genome.CDS.1061;Product=;locus_tag=MEint283.genome.CDS.1061
+MEint283.contig.21	feature	CDS	11788	12510	.	-	0	ID=MEint283.genome.CDS.1060;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.1060
+MEint283.contig.21	feature	CDS	10540	11787	.	+	0	ID=MEint283.genome.CDS.1059;Product=CONSERVED MEMBRANE PROTEIN;locus_tag=MEint283.genome.CDS.1059
+MEint283.contig.21	feature	CDS	9639	10481	.	-	0	ID=MEint283.genome.CDS.1058;Product=rRNA small subunit methyltransferase I;locus_tag=MEint283.genome.CDS.1058
+MEint283.contig.21	feature	CDS	8080	9636	.	-	0	ID=MEint283.genome.CDS.1057;Product=Methionyl-tRNA synthetase %28EC 6.1.1.10%29;locus_tag=MEint283.genome.CDS.1057
+MEint283.contig.21	feature	CDS	7222	8076	.	-	0	ID=MEint283.genome.CDS.1056;Product=Putative deoxyribonuclease YcfH;locus_tag=MEint283.genome.CDS.1056
+MEint283.contig.21	feature	CDS	6373	7221	.	-	0	ID=MEint283.genome.CDS.1055;Product=SSU rRNA %28adenine%281518%29-N%286%29/adenine%281519%29-N%286%29%29-dimethyltransferase %28EC 2.1.1.182%29;locus_tag=MEint283.genome.CDS.1055
+MEint283.contig.21	feature	CDS	5425	6345	.	-	0	ID=MEint283.genome.CDS.1054;Product=4-diphosphocytidyl-2-C-methyl-D-erythritol kinase %28EC 2.7.1.148%29;locus_tag=MEint283.genome.CDS.1054
+MEint283.contig.21	feature	tRNA	5321	5395	.	-	.	ID=MEint283.genome.rna.6;Product=tRNA-Gln-TTG;locus_tag=MEint283.genome.rna.6
+MEint283.contig.21	feature	CDS	3879	5300	.	-	0	ID=MEint283.genome.CDS.1053;Product=N-acetylglucosamine-1-phosphate uridyltransferase %28EC 2.7.7.23%29 / Glucosamine-1-phosphate N-acetyltransferase %28EC 2.3.1.157%29;locus_tag=MEint283.genome.CDS.1053
+MEint283.contig.21	feature	CDS	2846	3817	.	-	0	ID=MEint283.genome.CDS.1052;Product=Ribose-phosphate pyrophosphokinase %28EC 2.7.6.1%29;locus_tag=MEint283.genome.CDS.1052
+MEint283.contig.21	feature	CDS	2021	2689	.	-	0	ID=MEint283.genome.CDS.1051;Product=LSU ribosomal protein L25p;locus_tag=MEint283.genome.CDS.1051
+MEint283.contig.21	feature	CDS	1441	2004	.	-	0	ID=MEint283.genome.CDS.1050;Product=Peptidyl-tRNA hydrolase %28EC 3.1.1.29%29;locus_tag=MEint283.genome.CDS.1050
+MEint283.contig.21	feature	CDS	1	1440	.	+	0	ID=MEint283.genome.CDS.1049;Product=Phosphoenolpyruvate carboxylase %28EC 4.1.1.31%29;locus_tag=MEint283.genome.CDS.1049
+MEint283.contig.22	feature	misc_RNA	1	225	.	+	.	ID=MEint283.genome.repeat.13;Product=repeat region;locus_tag=MEint283.genome.repeat.13
+MEint283.contig.22	feature	CDS	8602	9531	.	+	0	ID=MEint283.genome.CDS.1077;Product=ATP synthase alpha chain %28EC 3.6.3.14%29;locus_tag=MEint283.genome.CDS.1077
+MEint283.contig.22	feature	CDS	7722	8549	.	+	0	ID=MEint283.genome.CDS.1076;Product=ATP synthase delta chain %28EC 3.6.3.14%29;locus_tag=MEint283.genome.CDS.1076
+MEint283.contig.22	feature	CDS	7180	7719	.	+	0	ID=MEint283.genome.CDS.1075;Product=ATP synthase F0 sector subunit b %28EC 3.6.3.14%29;locus_tag=MEint283.genome.CDS.1075
+MEint283.contig.22	feature	CDS	6955	7158	.	+	0	ID=MEint283.genome.CDS.1074;Product=ATP synthase F0 sector subunit c %28EC 3.6.3.14%29;locus_tag=MEint283.genome.CDS.1074
+MEint283.contig.22	feature	CDS	6116	6895	.	+	0	ID=MEint283.genome.CDS.1073;Product=ATP synthase F0 sector subunit a %28EC 3.6.3.14%29;locus_tag=MEint283.genome.CDS.1073
+MEint283.contig.22	feature	CDS	5747	5965	.	+	0	ID=MEint283.genome.CDS.1072;Product=ATP synthase protein I;locus_tag=MEint283.genome.CDS.1072
+MEint283.contig.22	feature	CDS	5319	5750	.	+	0	ID=MEint283.genome.CDS.1071;Product=ATP synthase protein I;locus_tag=MEint283.genome.CDS.1071
+MEint283.contig.22	feature	CDS	4241	5326	.	+	0	ID=MEint283.genome.CDS.1070;Product=Undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase %28EC 2.7.8.-%29;locus_tag=MEint283.genome.CDS.1070
+MEint283.contig.22	feature	CDS	2950	4230	.	+	0	ID=MEint283.genome.CDS.1069;Product=Serine hydroxymethyltransferase %28EC 2.1.2.1%29;locus_tag=MEint283.genome.CDS.1069
+MEint283.contig.22	feature	CDS	2281	2940	.	+	0	ID=MEint283.genome.CDS.1068;Product=TsaC protein %28YrdC domain%29 required for threonylcarbamoyladenosine t%286%29A37 modification in tRNA;locus_tag=MEint283.genome.CDS.1068
+MEint283.contig.22	feature	CDS	1421	2275	.	+	0	ID=MEint283.genome.CDS.1067;Product=Protein-N%285%29-glutamine methyltransferase PrmC%2C methylates polypeptide chain release factors RF1 and RF2;locus_tag=MEint283.genome.CDS.1067
+MEint283.contig.22	feature	CDS	345	1424	.	+	0	ID=MEint283.genome.CDS.1066;Product=Peptide chain release factor 1;locus_tag=MEint283.genome.CDS.1066
+MEint283.contig.22	feature	CDS	35	259	.	+	0	ID=MEint283.genome.CDS.1065;Product=LSU ribosomal protein L31p %40 LSU ribosomal protein L31p%2C zinc-dependent;locus_tag=MEint283.genome.CDS.1065
+MEint283.contig.23	feature	CDS	5038	5505	.	+	0	ID=MEint283.genome.CDS.1084;Product=Succinate dehydrogenase flavoprotein subunit %28EC 1.3.99.1%29;locus_tag=MEint283.genome.CDS.1084
+MEint283.contig.23	feature	CDS	4189	5016	.	+	0	ID=MEint283.genome.CDS.1083;Product=putative succinate dehydrogenase %5Bmembrane anchor subunit%5D %28succinic dehydrogenase%29;locus_tag=MEint283.genome.CDS.1083
+MEint283.contig.23	feature	tRNA	4009	4094	.	+	.	ID=MEint283.genome.rna.7;Product=tRNA-Ser-TGA;locus_tag=MEint283.genome.rna.7
+MEint283.contig.23	feature	CDS	3126	3959	.	+	0	ID=MEint283.genome.CDS.1082;Product=;locus_tag=MEint283.genome.CDS.1082
+MEint283.contig.23	feature	CDS	1867	3129	.	+	0	ID=MEint283.genome.CDS.1081;Product=Seryl-tRNA synthetase %28EC 6.1.1.11%29;locus_tag=MEint283.genome.CDS.1081
+MEint283.contig.23	feature	CDS	1018	1851	.	+	0	ID=MEint283.genome.CDS.1080;Product=Prephenate dehydratase %28EC 4.2.1.51%29;locus_tag=MEint283.genome.CDS.1080
+MEint283.contig.23	feature	CDS	319	1014	.	+	0	ID=MEint283.genome.CDS.1079;Product=Glycerophosphoryl diester phosphodiesterase %28EC 3.1.4.46%29;locus_tag=MEint283.genome.CDS.1079
+MEint283.contig.23	feature	CDS	3	242	.	-	0	ID=MEint283.genome.CDS.1078;Product=Protein serine/threonine phosphatase PrpC%2C regulation of stationary phase;locus_tag=MEint283.genome.CDS.1078
+MEint283.contig.24	feature	CDS	8705	8815	.	+	0	ID=MEint283.genome.CDS.1095;Product=;locus_tag=MEint283.genome.CDS.1095
+MEint283.contig.24	feature	CDS	8059	8667	.	+	0	ID=MEint283.genome.CDS.1094;Product=Transcriptional regulator%2C TetR family;locus_tag=MEint283.genome.CDS.1094
+MEint283.contig.24	feature	CDS	7126	7998	.	-	0	ID=MEint283.genome.CDS.1093;Product=1D-myo-inositol 2-acetamido-2-deoxy-alpha-D-glucopyranoside deacetylase %28EC 3.5.1.103%29;locus_tag=MEint283.genome.CDS.1093
+MEint283.contig.24	feature	CDS	6806	7129	.	-	0	ID=MEint283.genome.CDS.1092;Product=;locus_tag=MEint283.genome.CDS.1092
+MEint283.contig.24	feature	CDS	5398	6816	.	+	0	ID=MEint283.genome.CDS.1091;Product=Cysteinyl-tRNA synthetase %28EC 6.1.1.16%29;locus_tag=MEint283.genome.CDS.1091
+MEint283.contig.24	feature	CDS	5219	5401	.	+	0	ID=MEint283.genome.CDS.1090;Product=;locus_tag=MEint283.genome.CDS.1090
+MEint283.contig.24	feature	CDS	4809	5129	.	-	0	ID=MEint283.genome.CDS.1089;Product=Ferredoxin;locus_tag=MEint283.genome.CDS.1089
+MEint283.contig.24	feature	CDS	3759	4772	.	-	0	ID=MEint283.genome.CDS.1088;Product=N-succinyl-L%2CL-diaminopimelate aminotransferase %28EC 2.6.1.17%29%2C type 2;locus_tag=MEint283.genome.CDS.1088
+MEint283.contig.24	feature	CDS	2788	3759	.	-	0	ID=MEint283.genome.CDS.1087;Product=;locus_tag=MEint283.genome.CDS.1087
+MEint283.contig.24	feature	CDS	2399	2665	.	-	0	ID=MEint283.genome.CDS.1086;Product=Sporulation regulatory protein WhiB;locus_tag=MEint283.genome.CDS.1086
+MEint283.contig.24	feature	CDS	3	2390	.	-	0	ID=MEint283.genome.CDS.1085;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.1085
+MEint283.contig.25	feature	CDS	4226	4408	.	-	0	ID=MEint283.genome.CDS.1097;Product=;locus_tag=MEint283.genome.CDS.1097
+MEint283.contig.25	feature	CDS	3	4148	.	-	0	ID=MEint283.genome.CDS.1096;Product=Glutamate synthase %5BNADPH%5D large chain %28EC 1.4.1.13%29;locus_tag=MEint283.genome.CDS.1096
+MEint283.contig.26	feature	CDS	2079	2705	.	-	0	ID=MEint283.genome.CDS.1101;Product=Mrp protein homolog;locus_tag=MEint283.genome.CDS.1101
+MEint283.contig.26	feature	CDS	911	1813	.	-	0	ID=MEint283.genome.CDS.1100;Product=;locus_tag=MEint283.genome.CDS.1100
+MEint283.contig.26	feature	CDS	69	914	.	-	0	ID=MEint283.genome.CDS.1099;Product=FIG00031715: Predicted metal-dependent phosphoesterases %28PHP family%29;locus_tag=MEint283.genome.CDS.1099
+MEint283.contig.27	feature	misc_RNA	16845	20328	.	+	.	ID=MEint283.genome.repeat.32;Product=repeat region;locus_tag=MEint283.genome.repeat.32
+MEint283.contig.27	feature	CDS	20095	20328	.	-	0	ID=MEint283.genome.CDS.1122;Product=UDP-N-acetylmuramate--alanine ligase %28EC 6.3.2.8%29;locus_tag=MEint283.genome.CDS.1122
+MEint283.contig.27	feature	CDS	19359	20090	.	-	0	ID=MEint283.genome.CDS.1121;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.1121
+MEint283.contig.27	feature	CDS	18032	19171	.	-	0	ID=MEint283.genome.CDS.1120;Product=Cell division protein FtsZ %28EC 3.4.24.-%29;locus_tag=MEint283.genome.CDS.1120
+MEint283.contig.27	feature	CDS	17418	18023	.	-	0	ID=MEint283.genome.CDS.1119;Product=;locus_tag=MEint283.genome.CDS.1119
+MEint283.contig.27	feature	CDS	16738	17421	.	-	0	ID=MEint283.genome.CDS.1118;Product=Hypothetical protein YggS%2C proline synthase co-transcribed bacterial homolog PROSC;locus_tag=MEint283.genome.CDS.1118
+MEint283.contig.27	feature	CDS	16273	16725	.	-	0	ID=MEint283.genome.CDS.1117;Product=FIG021292: hypothetical protein;locus_tag=MEint283.genome.CDS.1117
+MEint283.contig.27	feature	CDS	15974	16258	.	-	0	ID=MEint283.genome.CDS.1116;Product=;locus_tag=MEint283.genome.CDS.1116
+MEint283.contig.27	feature	CDS	12834	15977	.	+	0	ID=MEint283.genome.CDS.1115;Product=Isoleucyl-tRNA synthetase %28EC 6.1.1.5%29;locus_tag=MEint283.genome.CDS.1115
+MEint283.contig.27	feature	CDS	11908	12714	.	-	0	ID=MEint283.genome.CDS.1114;Product=putative DNA-binding protein;locus_tag=MEint283.genome.CDS.1114
+MEint283.contig.27	feature	CDS	11426	11857	.	-	0	ID=MEint283.genome.CDS.1113;Product=Lipoprotein signal peptidase %28EC 3.4.23.36%29;locus_tag=MEint283.genome.CDS.1113
+MEint283.contig.27	feature	CDS	10491	11429	.	-	0	ID=MEint283.genome.CDS.1112;Product=Ribosomal large subunit pseudouridine synthase D %28EC 4.2.1.70%29;locus_tag=MEint283.genome.CDS.1112
+MEint283.contig.27	feature	CDS	6934	10461	.	-	0	ID=MEint283.genome.CDS.1111;Product=DNA polymerase III alpha subunit %28EC 2.7.7.7%29;locus_tag=MEint283.genome.CDS.1111
+MEint283.contig.27	feature	CDS	5363	6847	.	-	0	ID=MEint283.genome.CDS.1110;Product=Anthranilate synthase%2C aminase component %28EC 4.1.3.27%29;locus_tag=MEint283.genome.CDS.1110
+MEint283.contig.27	feature	CDS	5211	5366	.	-	0	ID=MEint283.genome.CDS.1109;Product=;locus_tag=MEint283.genome.CDS.1109
+MEint283.contig.27	feature	CDS	4439	5218	.	-	0	ID=MEint283.genome.CDS.1108;Product=Indole-3-glycerol phosphate synthase %28EC 4.1.1.48%29;locus_tag=MEint283.genome.CDS.1108
+MEint283.contig.27	feature	CDS	3207	4418	.	-	0	ID=MEint283.genome.CDS.1107;Product=Tryptophan synthase beta chain %28EC 4.2.1.20%29;locus_tag=MEint283.genome.CDS.1107
+MEint283.contig.27	feature	CDS	2404	3207	.	-	0	ID=MEint283.genome.CDS.1106;Product=Tryptophan synthase alpha chain %28EC 4.2.1.20%29;locus_tag=MEint283.genome.CDS.1106
+MEint283.contig.27	feature	CDS	1956	2414	.	-	0	ID=MEint283.genome.CDS.1105;Product=;locus_tag=MEint283.genome.CDS.1105
+MEint283.contig.27	feature	CDS	1256	1927	.	-	0	ID=MEint283.genome.CDS.1104;Product=;locus_tag=MEint283.genome.CDS.1104
+MEint283.contig.27	feature	CDS	408	1232	.	-	0	ID=MEint283.genome.CDS.1103;Product=Prolipoprotein diacylglyceryl transferase %28EC 2.4.99.-%29;locus_tag=MEint283.genome.CDS.1103
+MEint283.contig.27	feature	CDS	3	398	.	-	0	ID=MEint283.genome.CDS.1102;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.1102
+MEint283.contig.28	feature	CDS	10045	10149	.	-	0	ID=MEint283.genome.CDS.1137;Product=LSU ribosomal protein L15p %28L27Ae%29;locus_tag=MEint283.genome.CDS.1137
+MEint283.contig.28	feature	CDS	8723	10018	.	-	0	ID=MEint283.genome.CDS.1136;Product=Preprotein translocase secY subunit %28TC 3.A.5.1.1%29;locus_tag=MEint283.genome.CDS.1136
+MEint283.contig.28	feature	CDS	8082	8723	.	-	0	ID=MEint283.genome.CDS.1135;Product=Adenylate kinase %28EC 2.7.4.3%29;locus_tag=MEint283.genome.CDS.1135
+MEint283.contig.28	feature	CDS	7268	8077	.	-	0	ID=MEint283.genome.CDS.1134;Product=Methionine aminopeptidase %28EC 3.4.11.18%29;locus_tag=MEint283.genome.CDS.1134
+MEint283.contig.28	feature	CDS	6916	7137	.	-	0	ID=MEint283.genome.CDS.1133;Product=Translation initiation factor 1;locus_tag=MEint283.genome.CDS.1133
+MEint283.contig.28	feature	CDS	6252	6629	.	-	0	ID=MEint283.genome.CDS.1132;Product=SSU ribosomal protein S13p %28S18e%29;locus_tag=MEint283.genome.CDS.1132
+MEint283.contig.28	feature	CDS	5821	6252	.	-	0	ID=MEint283.genome.CDS.1131;Product=SSU ribosomal protein S11p %28S14e%29;locus_tag=MEint283.genome.CDS.1131
+MEint283.contig.28	feature	CDS	5178	5804	.	-	0	ID=MEint283.genome.CDS.1130;Product=SSU ribosomal protein S4p %28S9e%29 %40 SSU ribosomal protein S4p %28S9e%29%2C zinc-dependent;locus_tag=MEint283.genome.CDS.1130
+MEint283.contig.28	feature	CDS	4064	5074	.	-	0	ID=MEint283.genome.CDS.1129;Product=DNA-directed RNA polymerase alpha subunit %28EC 2.7.7.6%29;locus_tag=MEint283.genome.CDS.1129
+MEint283.contig.28	feature	CDS	3651	4055	.	-	0	ID=MEint283.genome.CDS.1128;Product=LSU ribosomal protein L17p;locus_tag=MEint283.genome.CDS.1128
+MEint283.contig.28	feature	CDS	2789	3631	.	-	0	ID=MEint283.genome.CDS.1127;Product=tRNA pseudouridine synthase A %28EC 4.2.1.70%29;locus_tag=MEint283.genome.CDS.1127
+MEint283.contig.28	feature	CDS	2222	2785	.	-	0	ID=MEint283.genome.CDS.1126;Product=LSU ribosomal protein L13p %28L13Ae%29;locus_tag=MEint283.genome.CDS.1126
+MEint283.contig.28	feature	CDS	1729	2211	.	-	0	ID=MEint283.genome.CDS.1125;Product=SSU ribosomal protein S9p %28S16e%29;locus_tag=MEint283.genome.CDS.1125
+MEint283.contig.28	feature	CDS	366	1706	.	-	0	ID=MEint283.genome.CDS.1124;Product=Phosphoglucosamine mutase %28EC 5.4.2.10%29;locus_tag=MEint283.genome.CDS.1124
+MEint283.contig.28	feature	CDS	3	353	.	-	0	ID=MEint283.genome.CDS.1123;Product=Glucosamine--fructose-6-phosphate aminotransferase %5Bisomerizing%5D %28EC 2.6.1.16%29;locus_tag=MEint283.genome.CDS.1123
+MEint283.contig.29	feature	misc_RNA	1	135	.	+	.	ID=MEint283.genome.repeat.3;Product=repeat region;locus_tag=MEint283.genome.repeat.3
+MEint283.contig.29	feature	misc_RNA	4244	4541	.	+	.	ID=MEint283.genome.repeat.4;Product=repeat region;locus_tag=MEint283.genome.repeat.4
+MEint283.contig.29	feature	CDS	3596	4540	.	-	0	ID=MEint283.genome.CDS.1141;Product=tRNA pseudouridine synthase B %28EC 4.2.1.70%29;locus_tag=MEint283.genome.CDS.1141
+MEint283.contig.29	feature	CDS	2713	3594	.	-	0	ID=MEint283.genome.CDS.1140;Product=Riboflavin kinase %28EC 2.7.1.26%29 / FMN adenylyltransferase %28EC 2.7.7.2%29;locus_tag=MEint283.genome.CDS.1140
+MEint283.contig.29	feature	CDS	2318	2587	.	-	0	ID=MEint283.genome.CDS.1139;Product=SSU ribosomal protein S15p %28S13e%29;locus_tag=MEint283.genome.CDS.1139
+MEint283.contig.29	feature	CDS	1	2187	.	-	0	ID=MEint283.genome.CDS.1138;Product=Polyribonucleotide nucleotidyltransferase %28EC 2.7.7.8%29;locus_tag=MEint283.genome.CDS.1138
+MEint283.contig.3	feature	misc_RNA	1	308	.	+	.	ID=MEint283.genome.repeat.22;Product=repeat region;locus_tag=MEint283.genome.repeat.22
+MEint283.contig.3	feature	misc_RNA	8434	10488	.	+	.	ID=MEint283.genome.repeat.23;Product=repeat region;locus_tag=MEint283.genome.repeat.23
+MEint283.contig.3	feature	misc_RNA	10542	10966	.	+	.	ID=MEint283.genome.repeat.24;Product=repeat region;locus_tag=MEint283.genome.repeat.24
+MEint283.contig.3	feature	CDS	10454	10966	.	-	0	ID=MEint283.genome.CDS.774;Product=LSU ribosomal protein L25p;locus_tag=MEint283.genome.CDS.774
+MEint283.contig.3	feature	CDS	9874	10437	.	-	0	ID=MEint283.genome.CDS.773;Product=Peptidyl-tRNA hydrolase %28EC 3.1.1.29%29;locus_tag=MEint283.genome.CDS.773
+MEint283.contig.3	feature	CDS	7207	9873	.	+	0	ID=MEint283.genome.CDS.772;Product=Phosphoenolpyruvate carboxylase %28EC 4.1.1.31%29;locus_tag=MEint283.genome.CDS.772
+MEint283.contig.3	feature	CDS	3573	7070	.	-	0	ID=MEint283.genome.CDS.771;Product=Transcription-repair coupling factor;locus_tag=MEint283.genome.CDS.771
+MEint283.contig.3	feature	CDS	2959	3558	.	-	0	ID=MEint283.genome.CDS.770;Product=;locus_tag=MEint283.genome.CDS.770
+MEint283.contig.3	feature	CDS	2306	2950	.	-	0	ID=MEint283.genome.CDS.769;Product=Nucleoside triphosphate pyrophosphohydrolase MazG %28EC 3.6.1.8%29;locus_tag=MEint283.genome.CDS.769
+MEint283.contig.3	feature	CDS	988	2262	.	-	0	ID=MEint283.genome.CDS.768;Product=Enolase %28EC 4.2.1.11%29;locus_tag=MEint283.genome.CDS.768
+MEint283.contig.3	feature	CDS	527	979	.	-	0	ID=MEint283.genome.CDS.767;Product=;locus_tag=MEint283.genome.CDS.767
+MEint283.contig.3	feature	CDS	3	524	.	-	0	ID=MEint283.genome.CDS.766;Product=FIG004853: possible toxin to DivIC;locus_tag=MEint283.genome.CDS.766
+MEint283.contig.30	feature	misc_RNA	1	225	.	+	.	ID=MEint283.genome.repeat.25;Product=repeat region;locus_tag=MEint283.genome.repeat.25
+MEint283.contig.30	feature	misc_RNA	12417	13254	.	+	.	ID=MEint283.genome.repeat.26;Product=repeat region;locus_tag=MEint283.genome.repeat.26
+MEint283.contig.30	feature	CDS	12869	13252	.	-	0	ID=MEint283.genome.CDS.1153;Product=Ribonuclease PH %28EC 2.7.7.56%29;locus_tag=MEint283.genome.CDS.1153
+MEint283.contig.30	feature	CDS	12233	12859	.	-	0	ID=MEint283.genome.CDS.1152;Product=Nucleoside 5-triphosphatase RdgB %28dHAPTP%2C dITP%2C XTP-specific%29 %28EC 3.6.1.15%29;locus_tag=MEint283.genome.CDS.1152
+MEint283.contig.30	feature	CDS	11373	12113	.	-	0	ID=MEint283.genome.CDS.1151;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.1151
+MEint283.contig.30	feature	CDS	9550	11328	.	+	0	ID=MEint283.genome.CDS.1150;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.1150
+MEint283.contig.30	feature	CDS	8711	9508	.	+	0	ID=MEint283.genome.CDS.377;Product=;locus_tag=MEint283.genome.CDS.377
+MEint283.contig.30	feature	tRNA	8593	8674	.	+	.	ID=MEint283.genome.rna.8;Product=tRNA-Leu-TAG;locus_tag=MEint283.genome.rna.8
+MEint283.contig.30	feature	CDS	6810	8480	.	-	0	ID=MEint283.genome.CDS.1148;Product=Arginyl-tRNA synthetase %28EC 6.1.1.19%29;locus_tag=MEint283.genome.CDS.1148
+MEint283.contig.30	feature	CDS	5440	6810	.	-	0	ID=MEint283.genome.CDS.1147;Product=Diaminopimelate decarboxylase %28EC 4.1.1.20%29;locus_tag=MEint283.genome.CDS.1147
+MEint283.contig.30	feature	CDS	4137	5420	.	-	0	ID=MEint283.genome.CDS.1146;Product=Homoserine dehydrogenase %28EC 1.1.1.3%29;locus_tag=MEint283.genome.CDS.1146
+MEint283.contig.30	feature	CDS	3046	4137	.	-	0	ID=MEint283.genome.CDS.1145;Product=Threonine synthase %28EC 4.2.3.1%29;locus_tag=MEint283.genome.CDS.1145
+MEint283.contig.30	feature	CDS	2096	3046	.	-	0	ID=MEint283.genome.CDS.1144;Product=Homoserine kinase %28EC 2.7.1.39%29;locus_tag=MEint283.genome.CDS.1144
+MEint283.contig.30	feature	CDS	315	1937	.	-	0	ID=MEint283.genome.CDS.1143;Product=Transcription termination factor Rho;locus_tag=MEint283.genome.CDS.1143
+MEint283.contig.30	feature	CDS	3	191	.	-	0	ID=MEint283.genome.CDS.1142;Product=LSU ribosomal protein L31p %40 LSU ribosomal protein L31p%2C zinc-dependent;locus_tag=MEint283.genome.CDS.1142
+MEint283.contig.31	feature	CDS	14100	15179	.	-	0	ID=MEint283.genome.CDS.1169;Product=Fructose ABC transporter%2C substrate-binding component FrcB;locus_tag=MEint283.genome.CDS.1169
+MEint283.contig.31	feature	CDS	12943	13971	.	-	0	ID=MEint283.genome.CDS.1168;Product=Fructose ABC transporter%2C permease component FrcC;locus_tag=MEint283.genome.CDS.1168
+MEint283.contig.31	feature	CDS	12146	12946	.	-	0	ID=MEint283.genome.CDS.1167;Product=Fructose ABC transporter%2C ATP-binding component FrcA;locus_tag=MEint283.genome.CDS.1167
+MEint283.contig.31	feature	CDS	11232	12149	.	+	0	ID=MEint283.genome.CDS.1166;Product=Shikimate 5-dehydrogenase I alpha %28EC 1.1.1.25%29;locus_tag=MEint283.genome.CDS.1166
+MEint283.contig.31	feature	CDS	9677	11188	.	-	0	ID=MEint283.genome.CDS.1165;Product=Glucose-methanol-choline %28GMC%29 oxidoreductase:NAD binding site;locus_tag=MEint283.genome.CDS.1165
+MEint283.contig.31	feature	CDS	9389	9634	.	-	0	ID=MEint283.genome.CDS.1164;Product=;locus_tag=MEint283.genome.CDS.1164
+MEint283.contig.31	feature	CDS	9124	9384	.	-	0	ID=MEint283.genome.CDS.1163;Product=;locus_tag=MEint283.genome.CDS.1163
+MEint283.contig.31	feature	CDS	7505	9127	.	-	0	ID=MEint283.genome.CDS.1162;Product=;locus_tag=MEint283.genome.CDS.1162
+MEint283.contig.31	feature	CDS	6374	7480	.	-	0	ID=MEint283.genome.CDS.1161;Product=Galactose-1-phosphate uridylyltransferase %28EC 2.7.7.10%29;locus_tag=MEint283.genome.CDS.1161
+MEint283.contig.31	feature	CDS	6134	6373	.	+	0	ID=MEint283.genome.CDS.1160;Product=;locus_tag=MEint283.genome.CDS.1160
+MEint283.contig.31	feature	tRNA	6060	6132	.	+	.	ID=MEint283.genome.rna.9;Product=tRNA-Asn-GTT;locus_tag=MEint283.genome.rna.9
+MEint283.contig.31	feature	CDS	4170	5978	.	+	0	ID=MEint283.genome.CDS.1159;Product=DNA primase %28EC 2.7.7.-%29;locus_tag=MEint283.genome.CDS.1159
+MEint283.contig.31	feature	CDS	2880	4124	.	+	0	ID=MEint283.genome.CDS.1158;Product=Deoxyguanosinetriphosphate triphosphohydrolase %28EC 3.1.5.1%29;locus_tag=MEint283.genome.CDS.1158
+MEint283.contig.31	feature	CDS	2223	2837	.	+	0	ID=MEint283.genome.CDS.1157;Product=;locus_tag=MEint283.genome.CDS.1157
+MEint283.contig.31	feature	CDS	1578	2219	.	+	0	ID=MEint283.genome.CDS.1156;Product=;locus_tag=MEint283.genome.CDS.1156
+MEint283.contig.31	feature	CDS	407	1573	.	+	0	ID=MEint283.genome.CDS.1155;Product=tRNA dihydrouridine synthase B %28EC 1.-.-.-%29;locus_tag=MEint283.genome.CDS.1155
+MEint283.contig.31	feature	CDS	1	405	.	+	0	ID=MEint283.genome.CDS.1154;Product=Glycyl-tRNA synthetase %28EC 6.1.1.14%29;locus_tag=MEint283.genome.CDS.1154
+MEint283.contig.32	feature	CDS	18879	19181	.	+	0	ID=MEint283.genome.CDS.1191;Product=Twin-arginine translocation protein TatB;locus_tag=MEint283.genome.CDS.1191
+MEint283.contig.32	feature	CDS	17753	18877	.	+	0	ID=MEint283.genome.CDS.1190;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.1190
+MEint283.contig.32	feature	CDS	17141	17752	.	+	0	ID=MEint283.genome.CDS.1189;Product=;locus_tag=MEint283.genome.CDS.1189
+MEint283.contig.32	feature	CDS	15621	17114	.	+	0	ID=MEint283.genome.CDS.1188;Product=Cytosol aminopeptidase PepA %28EC 3.4.11.1%29;locus_tag=MEint283.genome.CDS.1188
+MEint283.contig.32	feature	CDS	15416	15595	.	+	0	ID=MEint283.genome.CDS.1187;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.1187
+MEint283.contig.32	feature	CDS	15130	15339	.	+	0	ID=MEint283.genome.CDS.1186;Product=;locus_tag=MEint283.genome.CDS.1186
+MEint283.contig.32	feature	CDS	14631	15092	.	+	0	ID=MEint283.genome.CDS.1185;Product=;locus_tag=MEint283.genome.CDS.1185
+MEint283.contig.32	feature	CDS	14101	14634	.	+	0	ID=MEint283.genome.CDS.1184;Product=;locus_tag=MEint283.genome.CDS.1184
+MEint283.contig.32	feature	CDS	13124	14056	.	-	0	ID=MEint283.genome.CDS.1183;Product=2%2C3%2C4%2C5-tetrahydropyridine-2%2C6-dicarboxylate N-succinyltransferase %28EC 2.3.1.117%29;locus_tag=MEint283.genome.CDS.1183
+MEint283.contig.32	feature	CDS	12160	13131	.	+	0	ID=MEint283.genome.CDS.1182;Product=Dolichol-phosphate mannosyltransferase %28EC 2.4.1.83%29 in lipid-linked oligosaccharide synthesis cluster;locus_tag=MEint283.genome.CDS.1182
+MEint283.contig.32	feature	CDS	10996	12096	.	-	0	ID=MEint283.genome.CDS.1181;Product=Cell envelope-associated transcriptional attenuator LytR-CpsA-Psr%2C subfamily A1 %28as in PMID19099556%29;locus_tag=MEint283.genome.CDS.1181
+MEint283.contig.32	feature	CDS	9661	10977	.	-	0	ID=MEint283.genome.CDS.1180;Product=UDP-glucose 6-dehydrogenase %28EC 1.1.1.22%29;locus_tag=MEint283.genome.CDS.1180
+MEint283.contig.32	feature	CDS	9279	9668	.	-	0	ID=MEint283.genome.CDS.1179;Product=;locus_tag=MEint283.genome.CDS.1179
+MEint283.contig.32	feature	CDS	8457	9278	.	+	0	ID=MEint283.genome.CDS.1178;Product=;locus_tag=MEint283.genome.CDS.1178
+MEint283.contig.32	feature	CDS	7837	8436	.	-	0	ID=MEint283.genome.CDS.1177;Product=Septum formation protein Maf;locus_tag=MEint283.genome.CDS.1177
+MEint283.contig.32	feature	CDS	7006	7815	.	-	0	ID=MEint283.genome.CDS.1176;Product=Purine nucleoside phosphorylase %28EC 2.4.2.1%29;locus_tag=MEint283.genome.CDS.1176
+MEint283.contig.32	feature	CDS	5396	7009	.	-	0	ID=MEint283.genome.CDS.1175;Product=Phosphomannomutase %28EC 5.4.2.8%29;locus_tag=MEint283.genome.CDS.1175
+MEint283.contig.32	feature	CDS	4464	5399	.	-	0	ID=MEint283.genome.CDS.1174;Product=Deoxyribose-phosphate aldolase %28EC 4.1.2.4%29;locus_tag=MEint283.genome.CDS.1174
+MEint283.contig.32	feature	CDS	3002	4456	.	-	0	ID=MEint283.genome.CDS.1173;Product=Aldehyde dehydrogenase %28EC 1.2.1.3%29;locus_tag=MEint283.genome.CDS.1173
+MEint283.contig.32	feature	CDS	2163	3005	.	-	0	ID=MEint283.genome.CDS.1172;Product=Aldehyde dehydrogenase %28EC 1.2.1.3%29;locus_tag=MEint283.genome.CDS.1172
+MEint283.contig.32	feature	CDS	1067	2161	.	+	0	ID=MEint283.genome.CDS.1171;Product=Adenosine deaminase %28EC 3.5.4.4%29;locus_tag=MEint283.genome.CDS.1171
+MEint283.contig.32	feature	CDS	2	1066	.	+	0	ID=MEint283.genome.CDS.1170;Product=Thymidine phosphorylase %28EC 2.4.2.4%29;locus_tag=MEint283.genome.CDS.1170
+MEint283.contig.33	feature	CDS	10426	11484	.	-	0	ID=MEint283.genome.CDS.1202;Product=DNA polymerase IV %28EC 2.7.7.7%29;locus_tag=MEint283.genome.CDS.1202
+MEint283.contig.33	feature	CDS	10034	10381	.	-	0	ID=MEint283.genome.CDS.1201;Product=;locus_tag=MEint283.genome.CDS.1201
+MEint283.contig.33	feature	CDS	9429	9860	.	-	0	ID=MEint283.genome.CDS.1200;Product=Cell division protein MraZ;locus_tag=MEint283.genome.CDS.1200
+MEint283.contig.33	feature	CDS	8305	9297	.	-	0	ID=MEint283.genome.CDS.1199;Product=rRNA small subunit methyltransferase H;locus_tag=MEint283.genome.CDS.1199
+MEint283.contig.33	feature	CDS	7922	8305	.	-	0	ID=MEint283.genome.CDS.1198;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.1198
+MEint283.contig.33	feature	CDS	6105	7925	.	-	0	ID=MEint283.genome.CDS.1197;Product=Cell division protein FtsI %5BPeptidoglycan synthetase%5D %28EC 2.4.1.129%29;locus_tag=MEint283.genome.CDS.1197
+MEint283.contig.33	feature	CDS	4640	6094	.	-	0	ID=MEint283.genome.CDS.1196;Product=UDP-N-acetylmuramoylalanyl-D-glutamate--2%2C6-diaminopimelate ligase %28EC 6.3.2.13%29;locus_tag=MEint283.genome.CDS.1196
+MEint283.contig.33	feature	CDS	3259	4638	.	-	0	ID=MEint283.genome.CDS.1195;Product=UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase %28EC 6.3.2.10%29;locus_tag=MEint283.genome.CDS.1195
+MEint283.contig.33	feature	CDS	2204	3262	.	-	0	ID=MEint283.genome.CDS.1194;Product=Phospho-N-acetylmuramoyl-pentapeptide-transferase %28EC 2.7.8.13%29;locus_tag=MEint283.genome.CDS.1194
+MEint283.contig.33	feature	CDS	855	2204	.	-	0	ID=MEint283.genome.CDS.1193;Product=UDP-N-acetylmuramoylalanine--D-glutamate ligase %28EC 6.3.2.9%29;locus_tag=MEint283.genome.CDS.1193
+MEint283.contig.33	feature	CDS	3	770	.	-	0	ID=MEint283.genome.CDS.1192;Product=Cell division protein FtsW;locus_tag=MEint283.genome.CDS.1192
+MEint283.contig.34	feature	misc_RNA	14034	16701	.	+	.	ID=MEint283.genome.repeat.29;Product=repeat region;locus_tag=MEint283.genome.repeat.29
+MEint283.contig.34	feature	misc_RNA	16747	18002	.	+	.	ID=MEint283.genome.repeat.30;Product=repeat region;locus_tag=MEint283.genome.repeat.30
+MEint283.contig.34	feature	misc_RNA	18060	18636	.	+	.	ID=MEint283.genome.repeat.31;Product=repeat region;locus_tag=MEint283.genome.repeat.31
+MEint283.contig.34	feature	CDS	18524	18634	.	+	0	ID=MEint283.genome.CDS.1222;Product=;locus_tag=MEint283.genome.CDS.1222
+MEint283.contig.34	feature	CDS	17218	18465	.	-	0	ID=MEint283.genome.CDS.1221;Product=CONSERVED MEMBRANE PROTEIN;locus_tag=MEint283.genome.CDS.1221
+MEint283.contig.34	feature	CDS	16495	17217	.	+	0	ID=MEint283.genome.CDS.1220;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.1220
+MEint283.contig.34	feature	CDS	15868	16428	.	+	0	ID=MEint283.genome.CDS.1219;Product=;locus_tag=MEint283.genome.CDS.1219
+MEint283.contig.34	feature	CDS	14962	15861	.	+	0	ID=MEint283.genome.CDS.1218;Product=Molybdopterin biosynthesis protein MoeA;locus_tag=MEint283.genome.CDS.1218
+MEint283.contig.34	feature	CDS	14375	14917	.	-	0	ID=MEint283.genome.CDS.1217;Product=5-formyltetrahydrofolate cyclo-ligase %28EC 6.3.3.2%29;locus_tag=MEint283.genome.CDS.1217
+MEint283.contig.34	feature	CDS	13215	14378	.	+	0	ID=MEint283.genome.CDS.1216;Product=Butyryl-CoA dehydrogenase %28EC 1.3.8.1%29;locus_tag=MEint283.genome.CDS.1216
+MEint283.contig.34	feature	CDS	11385	13205	.	+	0	ID=MEint283.genome.CDS.1215;Product=Copper resistance protein D;locus_tag=MEint283.genome.CDS.1215
+MEint283.contig.34	feature	CDS	10798	11376	.	+	0	ID=MEint283.genome.CDS.1214;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.1214
+MEint283.contig.34	feature	CDS	10482	10739	.	-	0	ID=MEint283.genome.CDS.1213;Product=;locus_tag=MEint283.genome.CDS.1213
+MEint283.contig.34	feature	CDS	10321	10485	.	+	0	ID=MEint283.genome.CDS.1212;Product=;locus_tag=MEint283.genome.CDS.1212
+MEint283.contig.34	feature	CDS	8171	10270	.	-	0	ID=MEint283.genome.CDS.1211;Product=Integral membrane protein;locus_tag=MEint283.genome.CDS.1211
+MEint283.contig.34	feature	CDS	7332	8153	.	-	0	ID=MEint283.genome.CDS.1210;Product=Formyltetrahydrofolate deformylase %28EC 3.5.1.10%29;locus_tag=MEint283.genome.CDS.1210
+MEint283.contig.34	feature	tRNA	7252	7327	.	+	.	ID=MEint283.genome.rna.10;Product=tRNA-Arg-CCT;locus_tag=MEint283.genome.rna.10
+MEint283.contig.34	feature	CDS	5882	7108	.	-	0	ID=MEint283.genome.CDS.1209;Product=Carboxynorspermidine dehydrogenase;locus_tag=MEint283.genome.CDS.1209
+MEint283.contig.34	feature	CDS	5115	5882	.	-	0	ID=MEint283.genome.CDS.1208;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.1208
+MEint283.contig.34	feature	CDS	4693	5112	.	+	0	ID=MEint283.genome.CDS.1207;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.1207
+MEint283.contig.34	feature	CDS	3253	4638	.	-	0	ID=MEint283.genome.CDS.1206;Product=diguanylate cyclase/phosphodiesterase %28GGDEF %26 EAL domains%29 with PAS/PAC sensor%28s%29;locus_tag=MEint283.genome.CDS.1206
+MEint283.contig.34	feature	CDS	1756	3189	.	-	0	ID=MEint283.genome.CDS.1205;Product=Homospermidine synthase%28 EC:2.5.1.44 %29;locus_tag=MEint283.genome.CDS.1205
+MEint283.contig.34	feature	CDS	391	1755	.	+	0	ID=MEint283.genome.CDS.1204;Product=Deoxyribodipyrimidine photolyase %28EC 4.1.99.3%29;locus_tag=MEint283.genome.CDS.1204
+MEint283.contig.34	feature	CDS	1	381	.	+	0	ID=MEint283.genome.CDS.1203;Product=Citrate synthase %28si%29 %28EC 2.3.3.1%29;locus_tag=MEint283.genome.CDS.1203
+MEint283.contig.35	feature	CDS	4385	4702	.	+	0	ID=MEint283.genome.CDS.1226;Product=Dihydrofolate synthase %28EC 6.3.2.12%29 %40 Folylpolyglutamate synthase %28EC 6.3.2.17%29;locus_tag=MEint283.genome.CDS.1226
+MEint283.contig.35	feature	CDS	1787	4384	.	+	0	ID=MEint283.genome.CDS.1225;Product=Valyl-tRNA synthetase %28EC 6.1.1.9%29;locus_tag=MEint283.genome.CDS.1225
+MEint283.contig.35	feature	CDS	477	1775	.	+	0	ID=MEint283.genome.CDS.1224;Product=ATP-dependent Clp protease ATP-binding subunit ClpX;locus_tag=MEint283.genome.CDS.1224
+MEint283.contig.35	feature	CDS	1	291	.	+	0	ID=MEint283.genome.CDS.1223;Product=ATP-dependent Clp protease proteolytic subunit %28EC 3.4.21.92%29;locus_tag=MEint283.genome.CDS.1223
+MEint283.contig.36	feature	CDS	4647	5318	.	+	0	ID=MEint283.genome.CDS.1234;Product=Ubiquinol-cytochrome C reductase iron-sulfur subunit %28EC 1.10.2.2%29;locus_tag=MEint283.genome.CDS.1234
+MEint283.contig.36	feature	CDS	3846	4640	.	+	0	ID=MEint283.genome.CDS.1233;Product=ubiquinol cytochrome C oxidoreductase%2C cytochrome C1 subunit;locus_tag=MEint283.genome.CDS.1233
+MEint283.contig.36	feature	CDS	3211	3837	.	+	0	ID=MEint283.genome.CDS.1232;Product=Cytochrome c oxidase polypeptide III %28EC 1.9.3.1%29;locus_tag=MEint283.genome.CDS.1232
+MEint283.contig.36	feature	CDS	2665	3078	.	-	0	ID=MEint283.genome.CDS.1231;Product=putative two-component system response regulator;locus_tag=MEint283.genome.CDS.1231
+MEint283.contig.36	feature	CDS	1611	2651	.	-	0	ID=MEint283.genome.CDS.1230;Product=Anthranilate phosphoribosyltransferase %28EC 2.4.2.18%29;locus_tag=MEint283.genome.CDS.1230
+MEint283.contig.36	feature	CDS	974	1618	.	+	0	ID=MEint283.genome.CDS.1229;Product=DNA polymerase III epsilon subunit %28EC 2.7.7.7%29;locus_tag=MEint283.genome.CDS.1229
+MEint283.contig.36	feature	CDS	308	931	.	+	0	ID=MEint283.genome.CDS.1228;Product=;locus_tag=MEint283.genome.CDS.1228
+MEint283.contig.36	feature	CDS	3	215	.	-	0	ID=MEint283.genome.CDS.1227;Product=Kynureninase %28EC 3.7.1.3%29;locus_tag=MEint283.genome.CDS.1227
+MEint283.contig.37	feature	CDS	18906	19190	.	-	0	ID=MEint283.genome.CDS.474;Product=Heat shock protein GrpE;locus_tag=MEint283.genome.CDS.474
+MEint283.contig.37	feature	CDS	17979	18893	.	-	0	ID=MEint283.genome.CDS.1250;Product=Chaperone protein DnaJ;locus_tag=MEint283.genome.CDS.1250
+MEint283.contig.37	feature	CDS	17605	17982	.	-	0	ID=MEint283.genome.CDS.1249;Product=HspR%2C transcriptional repressor of DnaK operon;locus_tag=MEint283.genome.CDS.1249
+MEint283.contig.37	feature	CDS	17048	17581	.	-	0	ID=MEint283.genome.CDS.1248;Product=Orotate phosphoribosyltransferase %28EC 2.4.2.10%29;locus_tag=MEint283.genome.CDS.1248
+MEint283.contig.37	feature	CDS	16418	17047	.	+	0	ID=MEint283.genome.CDS.1247;Product=DedA protein;locus_tag=MEint283.genome.CDS.1247
+MEint283.contig.37	feature	CDS	14010	16265	.	-	0	ID=MEint283.genome.CDS.1246;Product=Pyrophosphate-energized proton pump %28EC 3.6.1.1%29;locus_tag=MEint283.genome.CDS.1246
+MEint283.contig.37	feature	CDS	11251	13971	.	-	0	ID=MEint283.genome.CDS.1245;Product=DNA topoisomerase I %28EC 5.99.1.2%29;locus_tag=MEint283.genome.CDS.1245
+MEint283.contig.37	feature	CDS	9200	11221	.	-	0	ID=MEint283.genome.CDS.1244;Product=Thymidylate kinase %28EC 2.7.4.9%29;locus_tag=MEint283.genome.CDS.1244
+MEint283.contig.37	feature	CDS	8058	9203	.	-	0	ID=MEint283.genome.CDS.1243;Product=DNA polymerase III delta prime subunit %28EC 2.7.7.7%29;locus_tag=MEint283.genome.CDS.1243
+MEint283.contig.37	feature	CDS	7369	8013	.	-	0	ID=MEint283.genome.CDS.1242;Product=;locus_tag=MEint283.genome.CDS.1242
+MEint283.contig.37	feature	CDS	5930	7228	.	-	0	ID=MEint283.genome.CDS.1241;Product=ATP-dependent RNA helicase;locus_tag=MEint283.genome.CDS.1241
+MEint283.contig.37	feature	CDS	4484	5905	.	-	0	ID=MEint283.genome.CDS.1240;Product=Cytosine/purine/uracil/thiamine/allantoin permease family protein;locus_tag=MEint283.genome.CDS.1240
+MEint283.contig.37	feature	CDS	3051	4487	.	+	0	ID=MEint283.genome.CDS.1239;Product=Inosine-5%27-monophosphate dehydrogenase %28EC 1.1.1.205%29 / CBS domain;locus_tag=MEint283.genome.CDS.1239
+MEint283.contig.37	feature	CDS	2486	3028	.	-	0	ID=MEint283.genome.CDS.1238;Product=Low molecular weight protein tyrosine phosphatase %28EC 3.1.3.48%29;locus_tag=MEint283.genome.CDS.1238
+MEint283.contig.37	feature	CDS	1470	2411	.	-	0	ID=MEint283.genome.CDS.1237;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.1237
+MEint283.contig.37	feature	CDS	820	1473	.	+	0	ID=MEint283.genome.CDS.1236;Product=spoU rRNA methylase family protein;locus_tag=MEint283.genome.CDS.1236
+MEint283.contig.37	feature	CDS	2	790	.	-	0	ID=MEint283.genome.CDS.1235;Product=Permease of the drug/metabolite transporter %28DMT%29 superfamily;locus_tag=MEint283.genome.CDS.1235
+MEint283.contig.38	feature	CDS	21255	22757	.	-	0	ID=MEint283.genome.CDS.1275;Product=NADH-ubiquinone oxidoreductase chain G %28EC 1.6.5.3%29;locus_tag=MEint283.genome.CDS.1275
+MEint283.contig.38	feature	CDS	20035	21258	.	-	0	ID=MEint283.genome.CDS.1274;Product=NADH-ubiquinone oxidoreductase chain H %28EC 1.6.5.3%29;locus_tag=MEint283.genome.CDS.1274
+MEint283.contig.38	feature	CDS	19419	20042	.	-	0	ID=MEint283.genome.CDS.1273;Product=NADH-ubiquinone oxidoreductase chain I %28EC 1.6.5.3%29;locus_tag=MEint283.genome.CDS.1273
+MEint283.contig.38	feature	CDS	18644	19426	.	-	0	ID=MEint283.genome.CDS.1272;Product=NADH-ubiquinone oxidoreductase chain J %28EC 1.6.5.3%29;locus_tag=MEint283.genome.CDS.1272
+MEint283.contig.38	feature	CDS	18345	18644	.	-	0	ID=MEint283.genome.CDS.1271;Product=NADH-ubiquinone oxidoreductase chain K %28EC 1.6.5.3%29;locus_tag=MEint283.genome.CDS.1271
+MEint283.contig.38	feature	CDS	16450	18345	.	-	0	ID=MEint283.genome.CDS.1270;Product=NADH-ubiquinone oxidoreductase chain L %28EC 1.6.5.3%29;locus_tag=MEint283.genome.CDS.1270
+MEint283.contig.38	feature	CDS	14948	16453	.	-	0	ID=MEint283.genome.CDS.1269;Product=NADH-ubiquinone oxidoreductase chain M %28EC 1.6.5.3%29;locus_tag=MEint283.genome.CDS.1269
+MEint283.contig.38	feature	CDS	13440	14948	.	-	0	ID=MEint283.genome.CDS.1268;Product=NADH-ubiquinone oxidoreductase chain N %28EC 1.6.5.3%29;locus_tag=MEint283.genome.CDS.1268
+MEint283.contig.38	feature	CDS	12454	13440	.	-	0	ID=MEint283.genome.CDS.1267;Product=Solanesyl diphosphate synthase %28EC 2.5.1.11%29;locus_tag=MEint283.genome.CDS.1267
+MEint283.contig.38	feature	CDS	11596	12474	.	+	0	ID=MEint283.genome.CDS.1266;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.1266
+MEint283.contig.38	feature	CDS	11092	11580	.	+	0	ID=MEint283.genome.CDS.1265;Product=UPF0234 protein YajQ;locus_tag=MEint283.genome.CDS.1265
+MEint283.contig.38	feature	tRNA	10785	10869	.	-	.	ID=MEint283.genome.rna.11;Product=tRNA-Tyr-GTA;locus_tag=MEint283.genome.rna.11
+MEint283.contig.38	feature	CDS	9824	10771	.	+	0	ID=MEint283.genome.CDS.1264;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.1264
+MEint283.contig.38	feature	CDS	8277	9674	.	-	0	ID=MEint283.genome.CDS.1263;Product=;locus_tag=MEint283.genome.CDS.1263
+MEint283.contig.38	feature	tRNA	8151	8226	.	-	.	ID=MEint283.genome.rna.12;Product=tRNA-Thr-GGT;locus_tag=MEint283.genome.rna.12
+MEint283.contig.38	feature	tRNA	8043	8119	.	-	.	ID=MEint283.genome.rna.13;Product=tRNA-Met-CAT;locus_tag=MEint283.genome.rna.13
+MEint283.contig.38	feature	CDS	7750	7920	.	-	0	ID=MEint283.genome.CDS.1262;Product=LSU ribosomal protein L33p %40 LSU ribosomal protein L33p%2C zinc-dependent;locus_tag=MEint283.genome.CDS.1262
+MEint283.contig.38	feature	CDS	7050	7736	.	-	0	ID=MEint283.genome.CDS.1261;Product=;locus_tag=MEint283.genome.CDS.1261
+MEint283.contig.38	feature	CDS	6018	7040	.	-	0	ID=MEint283.genome.CDS.1260;Product=UDP-N-acetylenolpyruvoylglucosamine reductase %28EC 1.3.1.98%29;locus_tag=MEint283.genome.CDS.1260
+MEint283.contig.38	feature	CDS	4789	6021	.	+	0	ID=MEint283.genome.CDS.1259;Product=Aspartate aminotransferase %28EC 2.6.1.1%29;locus_tag=MEint283.genome.CDS.1259
+MEint283.contig.38	feature	tRNA	4594	4670	.	-	.	ID=MEint283.genome.rna.14;Product=tRNA-Trp-CCA;locus_tag=MEint283.genome.rna.14
+MEint283.contig.38	feature	CDS	4321	4545	.	-	0	ID=MEint283.genome.CDS.1258;Product=Preprotein translocase subunit SecE %28TC 3.A.5.1.1%29;locus_tag=MEint283.genome.CDS.1258
+MEint283.contig.38	feature	CDS	3590	4303	.	-	0	ID=MEint283.genome.CDS.1257;Product=Transcription antitermination protein NusG;locus_tag=MEint283.genome.CDS.1257
+MEint283.contig.38	feature	CDS	3135	3566	.	-	0	ID=MEint283.genome.CDS.1256;Product=LSU ribosomal protein L11p %28L12e%29;locus_tag=MEint283.genome.CDS.1256
+MEint283.contig.38	feature	CDS	2335	3045	.	-	0	ID=MEint283.genome.CDS.1255;Product=LSU ribosomal protein L1p %28L10Ae%29;locus_tag=MEint283.genome.CDS.1255
+MEint283.contig.38	feature	CDS	1482	2123	.	-	0	ID=MEint283.genome.CDS.1254;Product=LSU ribosomal protein L10p %28P0%29;locus_tag=MEint283.genome.CDS.1254
+MEint283.contig.38	feature	CDS	1030	1416	.	-	0	ID=MEint283.genome.CDS.1253;Product=LSU ribosomal protein L7/L12 %28P1/P2%29;locus_tag=MEint283.genome.CDS.1253
+MEint283.contig.38	feature	CDS	3	887	.	-	0	ID=MEint283.genome.CDS.1252;Product=DNA-directed RNA polymerase beta subunit %28EC 2.7.7.6%29;locus_tag=MEint283.genome.CDS.1252
+MEint283.contig.39	feature	CDS	6313	7311	.	+	0	ID=MEint283.genome.CDS.1282;Product=Dihydroxy-acid dehydratase %28EC 4.2.1.9%29;locus_tag=MEint283.genome.CDS.1282
+MEint283.contig.39	feature	CDS	4807	6303	.	+	0	ID=MEint283.genome.CDS.1281;Product=Aspartyl-tRNA%28Asn%29 amidotransferase subunit B %28EC 6.3.5.6%29 %40 Glutamyl-tRNA%28Gln%29 amidotransferase subunit B %28EC 6.3.5.7%29;locus_tag=MEint283.genome.CDS.1281
+MEint283.contig.39	feature	CDS	3311	4810	.	+	0	ID=MEint283.genome.CDS.1280;Product=Aspartyl-tRNA%28Asn%29 amidotransferase subunit A %28EC 6.3.5.6%29 %40 Glutamyl-tRNA%28Gln%29 amidotransferase subunit A %28EC 6.3.5.7%29;locus_tag=MEint283.genome.CDS.1280
+MEint283.contig.39	feature	CDS	3015	3311	.	+	0	ID=MEint283.genome.CDS.1279;Product=Aspartyl-tRNA%28Asn%29 amidotransferase subunit C %28EC 6.3.5.6%29 %40 Glutamyl-tRNA%28Gln%29 amidotransferase subunit C %28EC 6.3.5.7%29;locus_tag=MEint283.genome.CDS.1279
+MEint283.contig.39	feature	CDS	1720	2988	.	+	0	ID=MEint283.genome.CDS.1278;Product=Gamma-glutamyl phosphate reductase %28EC 1.2.1.41%29;locus_tag=MEint283.genome.CDS.1278
+MEint283.contig.39	feature	CDS	527	1687	.	-	0	ID=MEint283.genome.CDS.1277;Product=D-alanyl-D-alanine carboxypeptidase %28EC 3.4.16.4%29;locus_tag=MEint283.genome.CDS.1277
+MEint283.contig.39	feature	CDS	1	537	.	+	0	ID=MEint283.genome.CDS.1276;Product=Glutamate 5-kinase %28EC 2.7.2.11%29 / RNA-binding C-terminal domain PUA;locus_tag=MEint283.genome.CDS.1276
+MEint283.contig.4	feature	CDS	17019	18452	.	+	0	ID=MEint283.genome.CDS.793;Product=ATP-dependent Clp protease%2C ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB;locus_tag=MEint283.genome.CDS.793
+MEint283.contig.4	feature	CDS	16379	16876	.	+	0	ID=MEint283.genome.CDS.792;Product=N-acetylglutamate synthase %28EC 2.3.1.1%29;locus_tag=MEint283.genome.CDS.792
+MEint283.contig.4	feature	CDS	14883	16379	.	+	0	ID=MEint283.genome.CDS.791;Product=Lysyl-tRNA synthetase %28class II%29 %28EC 6.1.1.6%29;locus_tag=MEint283.genome.CDS.791
+MEint283.contig.4	feature	CDS	14070	14843	.	+	0	ID=MEint283.genome.CDS.790;Product=Pantothenate kinase type III%2C CoaX-like %28EC 2.7.1.33%29;locus_tag=MEint283.genome.CDS.790
+MEint283.contig.4	feature	CDS	13198	14070	.	+	0	ID=MEint283.genome.CDS.789;Product=Quinolinate phosphoribosyltransferase %5Bdecarboxylating%5D %28EC 2.4.2.19%29;locus_tag=MEint283.genome.CDS.789
+MEint283.contig.4	feature	CDS	11597	13201	.	+	0	ID=MEint283.genome.CDS.788;Product=L-aspartate oxidase %28EC 1.4.3.16%29;locus_tag=MEint283.genome.CDS.788
+MEint283.contig.4	feature	CDS	10812	11600	.	+	0	ID=MEint283.genome.CDS.787;Product=Pantoate--beta-alanine ligase %28EC 6.3.2.1%29;locus_tag=MEint283.genome.CDS.787
+MEint283.contig.4	feature	CDS	10319	10762	.	+	0	ID=MEint283.genome.CDS.786;Product=2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase %28EC 2.7.6.3%29;locus_tag=MEint283.genome.CDS.786
+MEint283.contig.4	feature	CDS	9966	10322	.	+	0	ID=MEint283.genome.CDS.785;Product=Dihydroneopterin aldolase %28EC 4.1.2.25%29;locus_tag=MEint283.genome.CDS.785
+MEint283.contig.4	feature	CDS	9172	9969	.	+	0	ID=MEint283.genome.CDS.784;Product=Dihydropteroate synthase %28EC 2.5.1.15%29;locus_tag=MEint283.genome.CDS.784
+MEint283.contig.4	feature	CDS	8549	9169	.	+	0	ID=MEint283.genome.CDS.783;Product=GTP cyclohydrolase I %28EC 3.5.4.16%29 type 1;locus_tag=MEint283.genome.CDS.783
+MEint283.contig.4	feature	CDS	6499	8556	.	+	0	ID=MEint283.genome.CDS.782;Product=Cell division protein FtsH %28EC 3.4.24.-%29;locus_tag=MEint283.genome.CDS.782
+MEint283.contig.4	feature	CDS	5914	6465	.	+	0	ID=MEint283.genome.CDS.781;Product=Hypoxanthine-guanine phosphoribosyltransferase %28EC 2.4.2.8%29;locus_tag=MEint283.genome.CDS.781
+MEint283.contig.4	feature	CDS	4945	5904	.	+	0	ID=MEint283.genome.CDS.780;Product=tRNA%28Ile%29-lysidine synthetase %28EC 6.3.4.19%29;locus_tag=MEint283.genome.CDS.780
+MEint283.contig.4	feature	CDS	3741	4934	.	+	0	ID=MEint283.genome.CDS.779;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.779
+MEint283.contig.4	feature	CDS	2950	3741	.	+	0	ID=MEint283.genome.CDS.778;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.778
+MEint283.contig.4	feature	CDS	2045	2953	.	+	0	ID=MEint283.genome.CDS.777;Product=ABC transporter%2C ATP-binding protein;locus_tag=MEint283.genome.CDS.777
+MEint283.contig.4	feature	CDS	1161	2012	.	+	0	ID=MEint283.genome.CDS.776;Product=Heme O synthase%2C protoheme IX farnesyltransferase %28EC 2.5.1.-%29 COX10-CtaB;locus_tag=MEint283.genome.CDS.776
+MEint283.contig.4	feature	CDS	3	1124	.	+	0	ID=MEint283.genome.CDS.775;Product=D-alanyl-D-alanine carboxypeptidase %28EC 3.4.16.4%29;locus_tag=MEint283.genome.CDS.775
+MEint283.contig.40	feature	CDS	3490	4404	.	+	0	ID=MEint283.genome.CDS.1287;Product=Ribose ABC transport system%2C ATP-binding protein RbsA %28TC 3.A.1.2.1%29;locus_tag=MEint283.genome.CDS.1287
+MEint283.contig.40	feature	CDS	2337	3332	.	+	0	ID=MEint283.genome.CDS.1286;Product=ABC-type sugar transport system%2C periplasmic component;locus_tag=MEint283.genome.CDS.1286
+MEint283.contig.40	feature	CDS	1160	2161	.	-	0	ID=MEint283.genome.CDS.1285;Product=Phosphoenolpyruvate-dihydroxyacetone phosphotransferase %28EC 2.7.1.121%29%2C dihydroxyacetone binding subunit DhaK;locus_tag=MEint283.genome.CDS.1285
+MEint283.contig.40	feature	CDS	576	1163	.	-	0	ID=MEint283.genome.CDS.1284;Product=Phosphoenolpyruvate-dihydroxyacetone phosphotransferase %28EC 2.7.1.121%29%2C ADP-binding subunit DhaL;locus_tag=MEint283.genome.CDS.1284
+MEint283.contig.40	feature	CDS	142	552	.	+	0	ID=MEint283.genome.CDS.1283;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.1283
+MEint283.contig.41	feature	CDS	2439	2912	.	-	0	ID=MEint283.genome.CDS.1292;Product=Mannose-6-phosphate isomerase %28EC 5.3.1.8%29;locus_tag=MEint283.genome.CDS.1292
+MEint283.contig.41	feature	tRNA	2360	2433	.	+	.	ID=MEint283.genome.rna.16;Product=tRNA-Cys-GCA;locus_tag=MEint283.genome.rna.16
+MEint283.contig.41	feature	tRNA	2248	2323	.	+	.	ID=MEint283.genome.rna.15;Product=tRNA-Gly-GCC;locus_tag=MEint283.genome.rna.15
+MEint283.contig.41	feature	CDS	1168	2154	.	-	0	ID=MEint283.genome.CDS.1291;Product=Para-aminobenzoate synthase%2C aminase component %28EC 2.6.1.85%29;locus_tag=MEint283.genome.CDS.1291
+MEint283.contig.41	feature	CDS	401	1171	.	-	0	ID=MEint283.genome.CDS.1290;Product=Aminodeoxychorismate lyase %28EC 4.1.3.38%29;locus_tag=MEint283.genome.CDS.1290
+MEint283.contig.41	feature	CDS	111	404	.	-	0	ID=MEint283.genome.CDS.1289;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.1289
+MEint283.contig.41	feature	CDS	2	85	.	+	0	ID=MEint283.genome.CDS.1288;Product=;locus_tag=MEint283.genome.CDS.1288
+MEint283.contig.42	feature	misc_RNA	11883	14299	.	+	.	ID=MEint283.genome.repeat.12;Product=repeat region;locus_tag=MEint283.genome.repeat.12
+MEint283.contig.42	feature	CDS	13361	14272	.	-	0	ID=MEint283.genome.CDS.1307;Product=FIG019733: possible DNA-binding protein;locus_tag=MEint283.genome.CDS.1307
+MEint283.contig.42	feature	CDS	13146	13337	.	-	0	ID=MEint283.genome.CDS.1306;Product=Twin-arginine translocation protein TatA;locus_tag=MEint283.genome.CDS.1306
+MEint283.contig.42	feature	CDS	12334	13140	.	-	0	ID=MEint283.genome.CDS.1305;Product=Twin-arginine translocation protein TatC;locus_tag=MEint283.genome.CDS.1305
+MEint283.contig.42	feature	CDS	11453	12334	.	-	0	ID=MEint283.genome.CDS.1304;Product=Transcription regulator %5Bcontains diacylglycerol kinase catalytic domain%5D;locus_tag=MEint283.genome.CDS.1304
+MEint283.contig.42	feature	CDS	9114	11456	.	-	0	ID=MEint283.genome.CDS.1303;Product=FIG005666: putative helicase;locus_tag=MEint283.genome.CDS.1303
+MEint283.contig.42	feature	CDS	8212	9117	.	-	0	ID=MEint283.genome.CDS.1302;Product=DNA polymerase I %28EC 2.7.7.7%29;locus_tag=MEint283.genome.CDS.1302
+MEint283.contig.42	feature	CDS	6839	8215	.	-	0	ID=MEint283.genome.CDS.1301;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.1301
+MEint283.contig.42	feature	CDS	6118	6846	.	-	0	ID=MEint283.genome.CDS.1300;Product=;locus_tag=MEint283.genome.CDS.1300
+MEint283.contig.42	feature	CDS	3310	6093	.	+	0	ID=MEint283.genome.CDS.1299;Product=Glycine dehydrogenase %5Bdecarboxylating%5D %28glycine cleavage system P protein%29 %28EC 1.4.4.2%29;locus_tag=MEint283.genome.CDS.1299
+MEint283.contig.42	feature	CDS	2699	3205	.	+	0	ID=MEint283.genome.CDS.1298;Product=transcriptional regulator%2C MerR family;locus_tag=MEint283.genome.CDS.1298
+MEint283.contig.42	feature	CDS	2127	2600	.	+	0	ID=MEint283.genome.CDS.1297;Product=FIG01121484: hypothetical protein;locus_tag=MEint283.genome.CDS.1297
+MEint283.contig.42	feature	CDS	1395	2108	.	+	0	ID=MEint283.genome.CDS.1296;Product=transcriptional regulator%2C MerR family;locus_tag=MEint283.genome.CDS.1296
+MEint283.contig.42	feature	CDS	951	1394	.	+	0	ID=MEint283.genome.CDS.1295;Product=;locus_tag=MEint283.genome.CDS.1295
+MEint283.contig.42	feature	CDS	505	888	.	+	0	ID=MEint283.genome.CDS.1294;Product=Glycine cleavage system H protein;locus_tag=MEint283.genome.CDS.1294
+MEint283.contig.42	feature	CDS	3	497	.	+	0	ID=MEint283.genome.CDS.1293;Product=CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase %28EC 2.7.8.5%29;locus_tag=MEint283.genome.CDS.1293
+MEint283.contig.43	feature	CDS	20135	21130	.	-	0	ID=MEint283.genome.CDS.1331;Product=Phosphoglycerate kinase %28EC 2.7.2.3%29;locus_tag=MEint283.genome.CDS.1331
+MEint283.contig.43	feature	CDS	19341	20123	.	-	0	ID=MEint283.genome.CDS.1330;Product=Triosephosphate isomerase %28EC 5.3.1.1%29;locus_tag=MEint283.genome.CDS.1330
+MEint283.contig.43	feature	CDS	19034	19264	.	-	0	ID=MEint283.genome.CDS.1329;Product=Preprotein translocase subunit SecG %28TC 3.A.5.1.1%29;locus_tag=MEint283.genome.CDS.1329
+MEint283.contig.43	feature	CDS	18683	19024	.	-	0	ID=MEint283.genome.CDS.1328;Product=putative electron transport protein;locus_tag=MEint283.genome.CDS.1328
+MEint283.contig.43	feature	CDS	17187	18686	.	+	0	ID=MEint283.genome.CDS.1327;Product=Glucose-6-phosphate isomerase %28EC 5.3.1.9%29;locus_tag=MEint283.genome.CDS.1327
+MEint283.contig.43	feature	CDS	15060	17123	.	+	0	ID=MEint283.genome.CDS.1326;Product=Transketolase %28EC 2.2.1.1%29;locus_tag=MEint283.genome.CDS.1326
+MEint283.contig.43	feature	CDS	14161	15060	.	+	0	ID=MEint283.genome.CDS.1325;Product=Cytochrome oxidase assembly protein;locus_tag=MEint283.genome.CDS.1325
+MEint283.contig.43	feature	CDS	13353	14039	.	-	0	ID=MEint283.genome.CDS.1324;Product=Iron-sulfur cluster regulator SufR;locus_tag=MEint283.genome.CDS.1324
+MEint283.contig.43	feature	CDS	11941	13353	.	-	0	ID=MEint283.genome.CDS.1323;Product=Iron-sulfur cluster assembly protein SufB;locus_tag=MEint283.genome.CDS.1323
+MEint283.contig.43	feature	CDS	10856	11941	.	-	0	ID=MEint283.genome.CDS.1322;Product=Iron-sulfur cluster assembly protein SufD;locus_tag=MEint283.genome.CDS.1322
+MEint283.contig.43	feature	CDS	10560	10856	.	-	0	ID=MEint283.genome.CDS.1321;Product=Ferredoxin%2C 2Fe-2S;locus_tag=MEint283.genome.CDS.1321
+MEint283.contig.43	feature	CDS	9797	10549	.	-	0	ID=MEint283.genome.CDS.1320;Product=Iron-sulfur cluster assembly ATPase protein SufC;locus_tag=MEint283.genome.CDS.1320
+MEint283.contig.43	feature	CDS	8543	9790	.	-	0	ID=MEint283.genome.CDS.1319;Product=Cysteine desulfurase %28EC 2.8.1.7%29%2C SufS subfamily;locus_tag=MEint283.genome.CDS.1319
+MEint283.contig.43	feature	CDS	8109	8543	.	-	0	ID=MEint283.genome.CDS.1318;Product=Putative iron-sulfur cluster assembly scaffold protein for SUF system%2C SufE2;locus_tag=MEint283.genome.CDS.1318
+MEint283.contig.43	feature	CDS	7788	8099	.	-	0	ID=MEint283.genome.CDS.1317;Product=PaaD-like protein %28DUF59%29 involved in Fe-S cluster assembly;locus_tag=MEint283.genome.CDS.1317
+MEint283.contig.43	feature	CDS	5891	7756	.	-	0	ID=MEint283.genome.CDS.1316;Product=ABC transporter%2C ATP-binding/permease protein;locus_tag=MEint283.genome.CDS.1316
+MEint283.contig.43	feature	CDS	5622	5894	.	+	0	ID=MEint283.genome.CDS.1315;Product=;locus_tag=MEint283.genome.CDS.1315
+MEint283.contig.43	feature	CDS	4275	5531	.	+	0	ID=MEint283.genome.CDS.1314;Product=Uracil permease;locus_tag=MEint283.genome.CDS.1314
+MEint283.contig.43	feature	CDS	3397	3774	.	-	0	ID=MEint283.genome.CDS.1313;Product=Translation initiation factor 3;locus_tag=MEint283.genome.CDS.1313
+MEint283.contig.43	feature	CDS	3175	3372	.	-	0	ID=MEint283.genome.CDS.1312;Product=LSU ribosomal protein L35p;locus_tag=MEint283.genome.CDS.1312
+MEint283.contig.43	feature	CDS	2801	3163	.	-	0	ID=MEint283.genome.CDS.1311;Product=LSU ribosomal protein L20p;locus_tag=MEint283.genome.CDS.1311
+MEint283.contig.43	feature	CDS	1962	2777	.	-	0	ID=MEint283.genome.CDS.1310;Product=;locus_tag=MEint283.genome.CDS.1310
+MEint283.contig.43	feature	CDS	935	1951	.	-	0	ID=MEint283.genome.CDS.1309;Product=Phenylalanyl-tRNA synthetase alpha chain %28EC 6.1.1.20%29;locus_tag=MEint283.genome.CDS.1309
+MEint283.contig.43	feature	CDS	3	938	.	-	0	ID=MEint283.genome.CDS.1308;Product=Phenylalanyl-tRNA synthetase beta chain %28EC 6.1.1.20%29;locus_tag=MEint283.genome.CDS.1308
+MEint283.contig.44	feature	misc_RNA	1	1369	.	+	.	ID=MEint283.genome.repeat.14;Product=repeat region;locus_tag=MEint283.genome.repeat.14
+MEint283.contig.44	feature	misc_RNA	32193	32490	.	+	.	ID=MEint283.genome.repeat.15;Product=repeat region;locus_tag=MEint283.genome.repeat.15
+MEint283.contig.44	feature	CDS	32245	32490	.	+	0	ID=MEint283.genome.CDS.1362;Product=tRNA pseudouridine synthase B %28EC 4.2.1.70%29;locus_tag=MEint283.genome.CDS.1362
+MEint283.contig.44	feature	CDS	31821	32240	.	+	0	ID=MEint283.genome.CDS.1361;Product=Ribosome-binding factor A;locus_tag=MEint283.genome.CDS.1361
+MEint283.contig.44	feature	CDS	29185	31818	.	+	0	ID=MEint283.genome.CDS.1360;Product=Translation initiation factor 2;locus_tag=MEint283.genome.CDS.1360
+MEint283.contig.44	feature	CDS	28816	29079	.	+	0	ID=MEint283.genome.CDS.1359;Product=COG2740: Predicted nucleic-acid-binding protein implicated in transcription termination;locus_tag=MEint283.genome.CDS.1359
+MEint283.contig.44	feature	CDS	27775	28803	.	+	0	ID=MEint283.genome.CDS.1358;Product=Transcription termination protein NusA;locus_tag=MEint283.genome.CDS.1358
+MEint283.contig.44	feature	CDS	27332	27778	.	+	0	ID=MEint283.genome.CDS.1357;Product=FIG000325: clustered with transcription termination protein NusA;locus_tag=MEint283.genome.CDS.1357
+MEint283.contig.44	feature	CDS	26529	27296	.	+	0	ID=MEint283.genome.CDS.1356;Product=;locus_tag=MEint283.genome.CDS.1356
+MEint283.contig.44	feature	CDS	24814	26529	.	+	0	ID=MEint283.genome.CDS.1355;Product=Prolyl-tRNA synthetase %28EC 6.1.1.15%29%2C bacterial type;locus_tag=MEint283.genome.CDS.1355
+MEint283.contig.44	feature	CDS	23649	24800	.	+	0	ID=MEint283.genome.CDS.1354;Product=1-hydroxy-2-methyl-2-%28E%29-butenyl 4-diphosphate synthase %28EC 1.17.7.1%29;locus_tag=MEint283.genome.CDS.1354
+MEint283.contig.44	feature	CDS	22445	23635	.	+	0	ID=MEint283.genome.CDS.1353;Product=Membrane-associated zinc metalloprotease;locus_tag=MEint283.genome.CDS.1353
+MEint283.contig.44	feature	CDS	21318	22448	.	+	0	ID=MEint283.genome.CDS.1352;Product=1-deoxy-D-xylulose 5-phosphate reductoisomerase %28EC 1.1.1.267%29;locus_tag=MEint283.genome.CDS.1352
+MEint283.contig.44	feature	CDS	19917	21266	.	-	0	ID=MEint283.genome.CDS.1351;Product=Gamma-aminobutyrate:alpha-ketoglutarate aminotransferase %28EC 2.6.1.19%29;locus_tag=MEint283.genome.CDS.1351
+MEint283.contig.44	feature	CDS	18915	19916	.	+	0	ID=MEint283.genome.CDS.1350;Product=Arginase/agmatinase/formimionoglutamate hydrolase%2C arginase family;locus_tag=MEint283.genome.CDS.1350
+MEint283.contig.44	feature	CDS	17350	18894	.	+	0	ID=MEint283.genome.CDS.1349;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.1349
+MEint283.contig.44	feature	CDS	16346	17173	.	+	0	ID=MEint283.genome.CDS.1348;Product=Putrescine transport system permease protein PotI %28TC 3.A.1.11.2%29;locus_tag=MEint283.genome.CDS.1348
+MEint283.contig.44	feature	CDS	15447	16349	.	+	0	ID=MEint283.genome.CDS.1347;Product=Putrescine transport system permease protein PotH %28TC 3.A.1.11.2%29;locus_tag=MEint283.genome.CDS.1347
+MEint283.contig.44	feature	CDS	14316	15443	.	+	0	ID=MEint283.genome.CDS.1346;Product=Putrescine transport ATP-binding protein PotG %28TC 3.A.1.11.2%29;locus_tag=MEint283.genome.CDS.1346
+MEint283.contig.44	feature	CDS	13081	14280	.	+	0	ID=MEint283.genome.CDS.1345;Product=Putrescine ABC transporter putrescine-binding protein PotF %28TC 3.A.1.11.2%29;locus_tag=MEint283.genome.CDS.1345
+MEint283.contig.44	feature	CDS	11573	13018	.	+	0	ID=MEint283.genome.CDS.1344;Product=4-aminobutyraldehyde dehydrogenase %28EC 1.2.1.19%29;locus_tag=MEint283.genome.CDS.1344
+MEint283.contig.44	feature	CDS	10339	11397	.	+	0	ID=MEint283.genome.CDS.1343;Product=Ferric iron ABC transporter%2C ATP-binding protein;locus_tag=MEint283.genome.CDS.1343
+MEint283.contig.44	feature	CDS	8745	10337	.	+	0	ID=MEint283.genome.CDS.1342;Product=Ferric iron ABC transporter%2C permease protein;locus_tag=MEint283.genome.CDS.1342
+MEint283.contig.44	feature	CDS	7699	8742	.	+	0	ID=MEint283.genome.CDS.1341;Product=Ferric iron ABC transporter%2C iron-binding protein;locus_tag=MEint283.genome.CDS.1341
+MEint283.contig.44	feature	CDS	6542	7645	.	+	0	ID=MEint283.genome.CDS.1340;Product=Ribosomal RNA large subunit methyltransferase N %28EC 2.1.1.-%29;locus_tag=MEint283.genome.CDS.1340
+MEint283.contig.44	feature	CDS	5696	6541	.	+	0	ID=MEint283.genome.CDS.1339;Product=Phosphatidate cytidylyltransferase %28EC 2.7.7.41%29;locus_tag=MEint283.genome.CDS.1339
+MEint283.contig.44	feature	CDS	5130	5693	.	+	0	ID=MEint283.genome.CDS.1338;Product=Ribosome recycling factor;locus_tag=MEint283.genome.CDS.1338
+MEint283.contig.44	feature	CDS	4354	5070	.	+	0	ID=MEint283.genome.CDS.1337;Product=Uridine monophosphate kinase %28EC 2.7.4.22%29;locus_tag=MEint283.genome.CDS.1337
+MEint283.contig.44	feature	CDS	3491	4318	.	+	0	ID=MEint283.genome.CDS.1336;Product=Translation elongation factor Ts;locus_tag=MEint283.genome.CDS.1336
+MEint283.contig.44	feature	CDS	2674	3489	.	+	0	ID=MEint283.genome.CDS.1335;Product=SSU ribosomal protein S2p %28SAe%29;locus_tag=MEint283.genome.CDS.1335
+MEint283.contig.44	feature	CDS	1080	2249	.	+	0	ID=MEint283.genome.CDS.1334;Product=;locus_tag=MEint283.genome.CDS.1334
+MEint283.contig.44	feature	CDS	176	1075	.	+	0	ID=MEint283.genome.CDS.1333;Product=Site-specific tyrosine recombinase XerC;locus_tag=MEint283.genome.CDS.1333
+MEint283.contig.44	feature	CDS	1	165	.	+	0	ID=MEint283.genome.CDS.1332;Product=%28R%29-citramalate synthase %28EC 2.3.1.182%29;locus_tag=MEint283.genome.CDS.1332
+MEint283.contig.45	feature	CDS	4850	5368	.	+	0	ID=MEint283.genome.CDS.1371;Product=tmRNA-binding protein SmpB;locus_tag=MEint283.genome.CDS.1371
+MEint283.contig.45	feature	CDS	3915	4817	.	+	0	ID=MEint283.genome.CDS.1370;Product=Cell division protein FtsX;locus_tag=MEint283.genome.CDS.1370
+MEint283.contig.45	feature	CDS	3196	3885	.	+	0	ID=MEint283.genome.CDS.1369;Product=Cell division transporter%2C ATP-binding protein FtsE %28TC 3.A.5.1.1%29;locus_tag=MEint283.genome.CDS.1369
+MEint283.contig.45	feature	CDS	1966	3072	.	+	0	ID=MEint283.genome.CDS.1368;Product=Peptide chain release factor 2;locus_tag=MEint283.genome.CDS.1368
+MEint283.contig.45	feature	CDS	1481	1951	.	+	0	ID=MEint283.genome.CDS.1367;Product=;locus_tag=MEint283.genome.CDS.1367
+MEint283.contig.45	feature	CDS	1092	1490	.	+	0	ID=MEint283.genome.CDS.1366;Product=;locus_tag=MEint283.genome.CDS.1366
+MEint283.contig.45	feature	CDS	782	1105	.	+	0	ID=MEint283.genome.CDS.582;Product=;locus_tag=MEint283.genome.CDS.582
+MEint283.contig.45	feature	CDS	569	781	.	+	0	ID=MEint283.genome.CDS.1364;Product=;locus_tag=MEint283.genome.CDS.1364
+MEint283.contig.45	feature	CDS	1	432	.	+	0	ID=MEint283.genome.CDS.1363;Product=Pantothenate kinase %28EC 2.7.1.33%29;locus_tag=MEint283.genome.CDS.1363
+MEint283.contig.46	feature	misc_RNA	2973	4341	.	+	.	ID=MEint283.genome.repeat.27;Product=repeat region;locus_tag=MEint283.genome.repeat.27
+MEint283.contig.46	feature	CDS	4052	4339	.	+	0	ID=MEint283.genome.CDS.1376;Product=;locus_tag=MEint283.genome.CDS.1376
+MEint283.contig.46	feature	CDS	3148	4047	.	+	0	ID=MEint283.genome.CDS.1375;Product=Site-specific tyrosine recombinase XerC;locus_tag=MEint283.genome.CDS.1375
+MEint283.contig.46	feature	CDS	1548	3137	.	+	0	ID=MEint283.genome.CDS.1374;Product=%28R%29-citramalate synthase %28EC 2.3.1.182%29;locus_tag=MEint283.genome.CDS.1374
+MEint283.contig.46	feature	CDS	463	1548	.	+	0	ID=MEint283.genome.CDS.1373;Product=Branched-chain amino acid aminotransferase %28EC 2.6.1.42%29;locus_tag=MEint283.genome.CDS.1373
+MEint283.contig.46	feature	CDS	2	466	.	+	0	ID=MEint283.genome.CDS.1372;Product=3-isopropylmalate dehydrogenase %28EC 1.1.1.85%29;locus_tag=MEint283.genome.CDS.1372
+MEint283.contig.47	feature	CDS	15756	16688	.	+	0	ID=MEint283.genome.CDS.1396;Product=5-keto-2-deoxygluconokinase %28EC 2.7.1.92%29;locus_tag=MEint283.genome.CDS.1396
+MEint283.contig.47	feature	CDS	15394	15729	.	+	0	ID=MEint283.genome.CDS.1395;Product=Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase %28EC 5.3.1.16%29 / Phosphoribosyl-AMP cyclohydrolase %28EC 3.5.4.19%29 / Phosphoribosyl-ATP pyrophosphatase %28EC 3.6.1.31%29;locus_tag=MEint283.genome.CDS.1395
+MEint283.contig.47	feature	CDS	14606	15379	.	+	0	ID=MEint283.genome.CDS.1394;Product=Imidazole glycerol phosphate synthase cyclase subunit %28EC 4.1.3.-%29;locus_tag=MEint283.genome.CDS.1394
+MEint283.contig.47	feature	CDS	13884	14609	.	+	0	ID=MEint283.genome.CDS.1393;Product=Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase %28EC 5.3.1.16%29;locus_tag=MEint283.genome.CDS.1393
+MEint283.contig.47	feature	CDS	13285	13887	.	+	0	ID=MEint283.genome.CDS.1392;Product=Imidazole glycerol phosphate synthase amidotransferase subunit %28EC 2.4.2.-%29;locus_tag=MEint283.genome.CDS.1392
+MEint283.contig.47	feature	CDS	12699	13283	.	+	0	ID=MEint283.genome.CDS.1391;Product=Imidazoleglycerol-phosphate dehydratase %28EC 4.2.1.19%29;locus_tag=MEint283.genome.CDS.1391
+MEint283.contig.47	feature	CDS	11593	12702	.	+	0	ID=MEint283.genome.CDS.1390;Product=Histidinol-phosphate aminotransferase %28EC 2.6.1.9%29;locus_tag=MEint283.genome.CDS.1390
+MEint283.contig.47	feature	CDS	10289	11596	.	+	0	ID=MEint283.genome.CDS.1389;Product=Histidinol dehydrogenase %28EC 1.1.1.23%29;locus_tag=MEint283.genome.CDS.1389
+MEint283.contig.47	feature	CDS	9438	10250	.	-	0	ID=MEint283.genome.CDS.1388;Product=Histidinol-phosphatase %5Balternative form%5D %28EC 3.1.3.15%29;locus_tag=MEint283.genome.CDS.1388
+MEint283.contig.47	feature	CDS	9125	9388	.	-	0	ID=MEint283.genome.CDS.1387;Product=Phosphoribosyl-ATP pyrophosphatase %28EC 3.6.1.31%29;locus_tag=MEint283.genome.CDS.1387
+MEint283.contig.47	feature	CDS	8260	9105	.	-	0	ID=MEint283.genome.CDS.1386;Product=ATP phosphoribosyltransferase %28EC 2.4.2.17%29;locus_tag=MEint283.genome.CDS.1386
+MEint283.contig.47	feature	CDS	7569	8216	.	-	0	ID=MEint283.genome.CDS.1385;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.1385
+MEint283.contig.47	feature	CDS	6937	7569	.	-	0	ID=MEint283.genome.CDS.1384;Product=;locus_tag=MEint283.genome.CDS.1384
+MEint283.contig.47	feature	CDS	5701	6849	.	+	0	ID=MEint283.genome.CDS.1383;Product=Dopamine beta-hydroxylase;locus_tag=MEint283.genome.CDS.1383
+MEint283.contig.47	feature	tRNA	5509	5581	.	+	.	ID=MEint283.genome.rna.18;Product=tRNA-Lys-CTT;locus_tag=MEint283.genome.rna.18
+MEint283.contig.47	feature	CDS	4944	5435	.	+	0	ID=MEint283.genome.CDS.1382;Product=Inorganic pyrophosphatase %28EC 3.6.1.1%29;locus_tag=MEint283.genome.CDS.1382
+MEint283.contig.47	feature	tRNA	4825	4900	.	+	.	ID=MEint283.genome.rna.17;Product=tRNA-His-GTG;locus_tag=MEint283.genome.rna.17
+MEint283.contig.47	feature	CDS	4193	4741	.	+	0	ID=MEint283.genome.CDS.1381;Product=3%27-to-5%27 oligoribonuclease %28orn%29;locus_tag=MEint283.genome.CDS.1381
+MEint283.contig.47	feature	CDS	3105	4085	.	-	0	ID=MEint283.genome.CDS.1380;Product=Phosphate transport system permease protein PstC %28TC 3.A.1.7.1%29;locus_tag=MEint283.genome.CDS.1380
+MEint283.contig.47	feature	CDS	2031	3101	.	-	0	ID=MEint283.genome.CDS.1379;Product=Phosphate transport system permease protein PstA %28TC 3.A.1.7.1%29;locus_tag=MEint283.genome.CDS.1379
+MEint283.contig.47	feature	CDS	1090	2034	.	-	0	ID=MEint283.genome.CDS.1378;Product=Phosphate transport ATP-binding protein PstB %28TC 3.A.1.7.1%29;locus_tag=MEint283.genome.CDS.1378
+MEint283.contig.47	feature	CDS	3	950	.	-	0	ID=MEint283.genome.CDS.1377;Product=Phosphate ABC transporter%2C periplasmic phosphate-binding protein PstS %28TC 3.A.1.7.1%29;locus_tag=MEint283.genome.CDS.1377
+MEint283.contig.48	feature	CDS	13394	14395	.	+	0	ID=MEint283.genome.CDS.1406;Product=NAD-dependent glyceraldehyde-3-phosphate dehydrogenase %28EC 1.2.1.12%29;locus_tag=MEint283.genome.CDS.1406
+MEint283.contig.48	feature	CDS	12344	13315	.	+	0	ID=MEint283.genome.CDS.1405;Product=FIG001886: Cytoplasmic hypothetical protein;locus_tag=MEint283.genome.CDS.1405
+MEint283.contig.48	feature	CDS	11374	12300	.	+	0	ID=MEint283.genome.CDS.1404;Product=FIG002813: LPPG:FO 2-phospho-L-lactate transferase like%2C CofD-like;locus_tag=MEint283.genome.CDS.1404
+MEint283.contig.48	feature	CDS	10493	11371	.	+	0	ID=MEint283.genome.CDS.1403;Product=FIG000506: Predicted P-loop-containing kinase;locus_tag=MEint283.genome.CDS.1403
+MEint283.contig.48	feature	CDS	8558	10471	.	+	0	ID=MEint283.genome.CDS.1402;Product=Excinuclease ABC subunit C;locus_tag=MEint283.genome.CDS.1402
+MEint283.contig.48	feature	CDS	5715	8555	.	+	0	ID=MEint283.genome.CDS.1401;Product=Excinuclease ABC subunit A;locus_tag=MEint283.genome.CDS.1401
+MEint283.contig.48	feature	CDS	3646	5715	.	+	0	ID=MEint283.genome.CDS.1400;Product=Excinuclease ABC subunit B;locus_tag=MEint283.genome.CDS.1400
+MEint283.contig.48	feature	CDS	3050	3649	.	+	0	ID=MEint283.genome.CDS.1399;Product=Dephospho-CoA kinase %28EC 2.7.1.24%29;locus_tag=MEint283.genome.CDS.1399
+MEint283.contig.48	feature	CDS	1654	2988	.	+	0	ID=MEint283.genome.CDS.1398;Product=SSU ribosomal protein S1p;locus_tag=MEint283.genome.CDS.1398
+MEint283.contig.48	feature	CDS	1	1482	.	+	0	ID=MEint283.genome.CDS.1397;Product=DNA polymerase I %28EC 2.7.7.7%29;locus_tag=MEint283.genome.CDS.1397
+MEint283.contig.49	feature	misc_RNA	6090	8506	.	+	.	ID=MEint283.genome.repeat.11;Product=repeat region;locus_tag=MEint283.genome.repeat.11
+MEint283.contig.49	feature	CDS	8055	8504	.	+	0	ID=MEint283.genome.CDS.1418;Product=;locus_tag=MEint283.genome.CDS.1418
+MEint283.contig.49	feature	CDS	7249	8055	.	+	0	ID=MEint283.genome.CDS.1417;Product=Twin-arginine translocation protein TatC;locus_tag=MEint283.genome.CDS.1417
+MEint283.contig.49	feature	CDS	7052	7243	.	+	0	ID=MEint283.genome.CDS.1416;Product=Twin-arginine translocation protein TatA;locus_tag=MEint283.genome.CDS.1416
+MEint283.contig.49	feature	CDS	6117	7028	.	+	0	ID=MEint283.genome.CDS.1415;Product=FIG019733: possible DNA-binding protein;locus_tag=MEint283.genome.CDS.1415
+MEint283.contig.49	feature	CDS	5195	6124	.	+	0	ID=MEint283.genome.CDS.1414;Product=FIG005453: Putative DeoR-family transcriptional regulator;locus_tag=MEint283.genome.CDS.1414
+MEint283.contig.49	feature	CDS	4281	5126	.	+	0	ID=MEint283.genome.CDS.1413;Product=tRNA %28adenine%2858%29-N%281%29%29-methyltransferase %28EC 2.1.1.220%29;locus_tag=MEint283.genome.CDS.1413
+MEint283.contig.49	feature	CDS	3619	4284	.	+	0	ID=MEint283.genome.CDS.1412;Product=;locus_tag=MEint283.genome.CDS.1412
+MEint283.contig.49	feature	CDS	2330	3553	.	+	0	ID=MEint283.genome.CDS.1411;Product=L-cysteine:1D-myo-inosityl 2-amino-2-deoxy-alpha-D-glucopyranoside ligase MshC;locus_tag=MEint283.genome.CDS.1411
+MEint283.contig.49	feature	CDS	1636	2316	.	+	0	ID=MEint283.genome.CDS.1410;Product=FIG00820755: hypothetical protein;locus_tag=MEint283.genome.CDS.1410
+MEint283.contig.49	feature	CDS	1088	1627	.	+	0	ID=MEint283.genome.CDS.1409;Product=FIG01121520: hypothetical protein;locus_tag=MEint283.genome.CDS.1409
+MEint283.contig.49	feature	CDS	417	1088	.	+	0	ID=MEint283.genome.CDS.1408;Product=;locus_tag=MEint283.genome.CDS.1408
+MEint283.contig.49	feature	CDS	2	352	.	-	0	ID=MEint283.genome.CDS.1407;Product=putative oxidoreductase;locus_tag=MEint283.genome.CDS.1407
+MEint283.contig.5	feature	CDS	11235	11642	.	-	0	ID=MEint283.genome.CDS.807;Product=Peptide methionine sulfoxide reductase MsrB %28EC 1.8.4.12%29;locus_tag=MEint283.genome.CDS.807
+MEint283.contig.5	feature	CDS	10624	11238	.	+	0	ID=MEint283.genome.CDS.806;Product=;locus_tag=MEint283.genome.CDS.806
+MEint283.contig.5	feature	CDS	9433	10566	.	-	0	ID=MEint283.genome.CDS.805;Product=Cystathionine gamma-synthase %28EC 2.5.1.48%29;locus_tag=MEint283.genome.CDS.805
+MEint283.contig.5	feature	CDS	8947	9432	.	-	0	ID=MEint283.genome.CDS.804;Product=;locus_tag=MEint283.genome.CDS.804
+MEint283.contig.5	feature	CDS	8762	8911	.	-	0	ID=MEint283.genome.CDS.803;Product=;locus_tag=MEint283.genome.CDS.803
+MEint283.contig.5	feature	CDS	8382	8762	.	-	0	ID=MEint283.genome.CDS.802;Product=;locus_tag=MEint283.genome.CDS.802
+MEint283.contig.5	feature	CDS	7698	8387	.	+	0	ID=MEint283.genome.CDS.801;Product=Teichoic acid export ATP-binding protein TagH %28EC 3.6.3.40%29;locus_tag=MEint283.genome.CDS.801
+MEint283.contig.5	feature	CDS	6722	7597	.	+	0	ID=MEint283.genome.CDS.800;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.800
+MEint283.contig.5	feature	CDS	5817	6716	.	+	0	ID=MEint283.genome.CDS.799;Product=Integral membrane protein TerC;locus_tag=MEint283.genome.CDS.799
+MEint283.contig.5	feature	CDS	3985	5379	.	-	0	ID=MEint283.genome.CDS.798;Product=Glutamate-1-semialdehyde aminotransferase %28EC 5.4.3.8%29;locus_tag=MEint283.genome.CDS.798
+MEint283.contig.5	feature	CDS	2500	3984	.	+	0	ID=MEint283.genome.CDS.797;Product=Methylmalonate-semialdehyde dehydrogenase %5Binositol%5D %28EC 1.2.1.27%29;locus_tag=MEint283.genome.CDS.797
+MEint283.contig.5	feature	CDS	1062	2399	.	-	0	ID=MEint283.genome.CDS.796;Product=PLP-dependent aminotransferase NCgl2355 %28class III%29;locus_tag=MEint283.genome.CDS.796
+MEint283.contig.5	feature	CDS	141	1052	.	-	0	ID=MEint283.genome.CDS.795;Product=Ribokinase %28EC 2.7.1.15%29;locus_tag=MEint283.genome.CDS.795
+MEint283.contig.5	feature	CDS	1	129	.	-	0	ID=MEint283.genome.CDS.794;Product=;locus_tag=MEint283.genome.CDS.794
+MEint283.contig.50	feature	CDS	17286	17591	.	-	0	ID=MEint283.genome.CDS.1434;Product=rRNA small subunit 7-methylguanosine %28m7G%29 methyltransferase GidB;locus_tag=MEint283.genome.CDS.1434
+MEint283.contig.50	feature	CDS	16367	17275	.	-	0	ID=MEint283.genome.CDS.1433;Product=Chromosome %28plasmid%29 partitioning protein ParA;locus_tag=MEint283.genome.CDS.1433
+MEint283.contig.50	feature	CDS	15479	16363	.	-	0	ID=MEint283.genome.CDS.1432;Product=Chromosome %28plasmid%29 partitioning protein ParB;locus_tag=MEint283.genome.CDS.1432
+MEint283.contig.50	feature	CDS	13590	15443	.	-	0	ID=MEint283.genome.CDS.1431;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.1431
+MEint283.contig.50	feature	CDS	12307	13593	.	+	0	ID=MEint283.genome.CDS.1430;Product=Aspartate aminotransferase %28AspB-4%29 %28EC 2.6.1.1%29;locus_tag=MEint283.genome.CDS.1430
+MEint283.contig.50	feature	CDS	11140	12270	.	+	0	ID=MEint283.genome.CDS.1429;Product=N-acetylmuramoyl-L-alanine amidase %28EC 3.5.1.28%29;locus_tag=MEint283.genome.CDS.1429
+MEint283.contig.50	feature	CDS	10796	11119	.	+	0	ID=MEint283.genome.CDS.1428;Product=Thioredoxin;locus_tag=MEint283.genome.CDS.1428
+MEint283.contig.50	feature	CDS	9825	10754	.	+	0	ID=MEint283.genome.CDS.1427;Product=Thioredoxin reductase %28EC 1.8.1.9%29;locus_tag=MEint283.genome.CDS.1427
+MEint283.contig.50	feature	CDS	8223	9815	.	+	0	ID=MEint283.genome.CDS.1426;Product=Proposed peptidoglycan lipid II flippase MurJ;locus_tag=MEint283.genome.CDS.1426
+MEint283.contig.50	feature	CDS	7124	8230	.	+	0	ID=MEint283.genome.CDS.1425;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.1425
+MEint283.contig.50	feature	CDS	6534	7127	.	+	0	ID=MEint283.genome.CDS.1424;Product=MutT/nudix family protein;locus_tag=MEint283.genome.CDS.1424
+MEint283.contig.50	feature	CDS	4987	6423	.	-	0	ID=MEint283.genome.CDS.1423;Product=tRNA nucleotidyltransferase %28EC 2.7.7.27%29;locus_tag=MEint283.genome.CDS.1423
+MEint283.contig.50	feature	CDS	3744	5015	.	+	0	ID=MEint283.genome.CDS.1422;Product=;locus_tag=MEint283.genome.CDS.1422
+MEint283.contig.50	feature	CDS	3288	3701	.	-	0	ID=MEint283.genome.CDS.1421;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.1421
+MEint283.contig.50	feature	CDS	1311	3272	.	-	0	ID=MEint283.genome.CDS.1420;Product=Multimodular transpeptidase-transglycosylase %28EC 2.4.1.129%29 %28EC 3.4.-.-%29;locus_tag=MEint283.genome.CDS.1420
+MEint283.contig.50	feature	CDS	138	1307	.	-	0	ID=MEint283.genome.CDS.1419;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.1419
+MEint283.contig.51	feature	CDS	6351	9011	.	+	0	ID=MEint283.genome.CDS.1442;Product=Protein export cytoplasm protein SecA ATPase RNA helicase %28TC 3.A.5.1.1%29;locus_tag=MEint283.genome.CDS.1442
+MEint283.contig.51	feature	CDS	5631	6302	.	+	0	ID=MEint283.genome.CDS.1441;Product=;locus_tag=MEint283.genome.CDS.1441
+MEint283.contig.51	feature	CDS	4049	5587	.	+	0	ID=MEint283.genome.CDS.1440;Product=Sensor histidine kinase MtrB %28EC 2.7.3.-%29;locus_tag=MEint283.genome.CDS.1440
+MEint283.contig.51	feature	CDS	3373	4047	.	+	0	ID=MEint283.genome.CDS.1439;Product=;locus_tag=MEint283.genome.CDS.1439
+MEint283.contig.51	feature	CDS	2095	3372	.	+	0	ID=MEint283.genome.CDS.1438;Product=Adenosylhomocysteinase %28EC 3.3.1.1%29;locus_tag=MEint283.genome.CDS.1438
+MEint283.contig.51	feature	CDS	668	2020	.	+	0	ID=MEint283.genome.CDS.1437;Product=Phosphomannomutase %28EC 5.4.2.8%29;locus_tag=MEint283.genome.CDS.1437
+MEint283.contig.51	feature	CDS	283	633	.	+	0	ID=MEint283.genome.CDS.1436;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.1436
+MEint283.contig.51	feature	CDS	1	243	.	+	0	ID=MEint283.genome.CDS.1435;Product=;locus_tag=MEint283.genome.CDS.1435
+MEint283.contig.52	feature	CDS	13581	13715	.	-	0	ID=MEint283.genome.CDS.1457;Product=;locus_tag=MEint283.genome.CDS.1457
+MEint283.contig.52	feature	CDS	11938	13584	.	+	0	ID=MEint283.genome.CDS.1456;Product=DNA repair helicase;locus_tag=MEint283.genome.CDS.1456
+MEint283.contig.52	feature	CDS	10874	11941	.	+	0	ID=MEint283.genome.CDS.1455;Product=putative peptidase;locus_tag=MEint283.genome.CDS.1455
+MEint283.contig.52	feature	CDS	8685	10877	.	+	0	ID=MEint283.genome.CDS.1454;Product=probable DNA-binding protein;locus_tag=MEint283.genome.CDS.1454
+MEint283.contig.52	feature	CDS	7882	8652	.	+	0	ID=MEint283.genome.CDS.1453;Product=Phosphoserine phosphatase %28EC 3.1.3.3%29;locus_tag=MEint283.genome.CDS.1453
+MEint283.contig.52	feature	CDS	7211	7831	.	-	0	ID=MEint283.genome.CDS.1452;Product=Hypothetical%2C related to broad specificity phosphatases COG0406;locus_tag=MEint283.genome.CDS.1452
+MEint283.contig.52	feature	CDS	6672	7211	.	-	0	ID=MEint283.genome.CDS.1451;Product=Thiol:disulfide oxidoreductase related to ResA;locus_tag=MEint283.genome.CDS.1451
+MEint283.contig.52	feature	CDS	5948	6679	.	-	0	ID=MEint283.genome.CDS.1450;Product=Cytochrome c-type biogenesis protein CcdA %28DsbD analog%29;locus_tag=MEint283.genome.CDS.1450
+MEint283.contig.52	feature	CDS	4500	5948	.	-	0	ID=MEint283.genome.CDS.1449;Product=Ccs1/ResB-related putative cytochrome C-type biogenesis protein;locus_tag=MEint283.genome.CDS.1449
+MEint283.contig.52	feature	CDS	3611	4510	.	-	0	ID=MEint283.genome.CDS.1448;Product=Cytochrome c-type biogenesis protein CcsA/ResC;locus_tag=MEint283.genome.CDS.1448
+MEint283.contig.52	feature	CDS	3365	3616	.	+	0	ID=MEint283.genome.CDS.1447;Product=;locus_tag=MEint283.genome.CDS.1447
+MEint283.contig.52	feature	CDS	2497	3345	.	+	0	ID=MEint283.genome.CDS.1446;Product=1%2C4-dihydroxy-2-naphthoate polyprenyltransferase %28EC 2.5.1.74%29;locus_tag=MEint283.genome.CDS.1446
+MEint283.contig.52	feature	CDS	1415	2500	.	+	0	ID=MEint283.genome.CDS.1445;Product=O-succinylbenzoic acid--CoA ligase %28EC 6.2.1.26%29;locus_tag=MEint283.genome.CDS.1445
+MEint283.contig.52	feature	CDS	490	1368	.	-	0	ID=MEint283.genome.CDS.1444;Product=Naphthoate synthase %28EC 4.1.3.36%29;locus_tag=MEint283.genome.CDS.1444
+MEint283.contig.52	feature	CDS	2	487	.	-	0	ID=MEint283.genome.CDS.1443;Product=O-succinylbenzoate synthase %28EC 4.2.1.113%29;locus_tag=MEint283.genome.CDS.1443
+MEint283.contig.53	feature	CDS	9670	10248	.	-	0	ID=MEint283.genome.CDS.1469;Product=Ribose ABC transport system%2C ATP-binding protein RbsA %28TC 3.A.1.2.1%29;locus_tag=MEint283.genome.CDS.1469
+MEint283.contig.53	feature	CDS	8647	9669	.	-	0	ID=MEint283.genome.CDS.1468;Product=Ribose ABC transport system%2C permease protein RbsC %28TC 3.A.1.2.1%29;locus_tag=MEint283.genome.CDS.1468
+MEint283.contig.53	feature	CDS	7619	8647	.	-	0	ID=MEint283.genome.CDS.1467;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.1467
+MEint283.contig.53	feature	CDS	6534	7622	.	-	0	ID=MEint283.genome.CDS.1466;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.1466
+MEint283.contig.53	feature	CDS	4993	6528	.	-	0	ID=MEint283.genome.CDS.1465;Product=Carbohydrate kinase%2C FGGY;locus_tag=MEint283.genome.CDS.1465
+MEint283.contig.53	feature	CDS	3970	4986	.	+	0	ID=MEint283.genome.CDS.1464;Product=Sorbitol dehydrogenase %28EC 1.1.1.14%29;locus_tag=MEint283.genome.CDS.1464
+MEint283.contig.53	feature	CDS	3132	3938	.	+	0	ID=MEint283.genome.CDS.1463;Product=COG1830: DhnA-type fructose-1%2C6-bisphosphate aldolase and related enzymes;locus_tag=MEint283.genome.CDS.1463
+MEint283.contig.53	feature	CDS	3002	3118	.	+	0	ID=MEint283.genome.CDS.1462;Product=;locus_tag=MEint283.genome.CDS.1462
+MEint283.contig.53	feature	CDS	2186	2989	.	+	0	ID=MEint283.genome.CDS.1461;Product=;locus_tag=MEint283.genome.CDS.1461
+MEint283.contig.53	feature	CDS	1793	2104	.	+	0	ID=MEint283.genome.CDS.1460;Product=;locus_tag=MEint283.genome.CDS.1460
+MEint283.contig.53	feature	CDS	733	1665	.	+	0	ID=MEint283.genome.CDS.1459;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.1459
+MEint283.contig.53	feature	CDS	3	620	.	-	0	ID=MEint283.genome.CDS.1458;Product=;locus_tag=MEint283.genome.CDS.1458
+MEint283.contig.54	feature	CDS	4742	4828	.	+	0	ID=MEint283.genome.CDS.1478;Product=Fructose-bisphosphate aldolase class I %28EC 4.1.2.13%29;locus_tag=MEint283.genome.CDS.1478
+MEint283.contig.54	feature	CDS	4203	4646	.	+	0	ID=MEint283.genome.CDS.1477;Product=;locus_tag=MEint283.genome.CDS.1477
+MEint283.contig.54	feature	CDS	3608	4108	.	-	0	ID=MEint283.genome.CDS.1476;Product=;locus_tag=MEint283.genome.CDS.1476
+MEint283.contig.54	feature	CDS	3252	3611	.	-	0	ID=MEint283.genome.CDS.1475;Product=;locus_tag=MEint283.genome.CDS.1475
+MEint283.contig.54	feature	CDS	2968	3234	.	-	0	ID=MEint283.genome.CDS.1474;Product=;locus_tag=MEint283.genome.CDS.1474
+MEint283.contig.54	feature	CDS	1778	2971	.	-	0	ID=MEint283.genome.CDS.1473;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.1473
+MEint283.contig.54	feature	CDS	1304	1765	.	-	0	ID=MEint283.genome.CDS.1472;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.1472
+MEint283.contig.54	feature	CDS	407	1315	.	+	0	ID=MEint283.genome.CDS.1471;Product=Rhodanese domain protein UPF0176%2C Actinobacterial subgroup;locus_tag=MEint283.genome.CDS.1471
+MEint283.contig.54	feature	CDS	1	255	.	-	0	ID=MEint283.genome.CDS.1470;Product=;locus_tag=MEint283.genome.CDS.1470
+MEint283.contig.55	feature	CDS	9949	10320	.	-	0	ID=MEint283.genome.CDS.1490;Product=DinG family ATP-dependent helicase YoaA;locus_tag=MEint283.genome.CDS.1490
+MEint283.contig.55	feature	CDS	9497	9952	.	+	0	ID=MEint283.genome.CDS.1489;Product=Possible mutator protein MutT3 %287%2C8-dihydro-8-oxoguanine-triphosphatase%29;locus_tag=MEint283.genome.CDS.1489
+MEint283.contig.55	feature	CDS	8904	9410	.	-	0	ID=MEint283.genome.CDS.1488;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.1488
+MEint283.contig.55	feature	CDS	8149	8928	.	-	0	ID=MEint283.genome.CDS.1487;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.1487
+MEint283.contig.55	feature	CDS	7577	8092	.	-	0	ID=MEint283.genome.CDS.1486;Product=;locus_tag=MEint283.genome.CDS.1486
+MEint283.contig.55	feature	CDS	6453	7535	.	-	0	ID=MEint283.genome.CDS.1485;Product=Alanine dehydrogenase %28EC 1.4.1.1%29;locus_tag=MEint283.genome.CDS.1485
+MEint283.contig.55	feature	CDS	4953	6257	.	-	0	ID=MEint283.genome.CDS.1484;Product=O-acetylhomoserine sulfhydrylase %28EC 2.5.1.49%29 / O-succinylhomoserine sulfhydrylase %28EC 2.5.1.48%29;locus_tag=MEint283.genome.CDS.1484
+MEint283.contig.55	feature	CDS	3822	4919	.	-	0	ID=MEint283.genome.CDS.1483;Product=Homoserine O-acetyltransferase %28EC 2.3.1.31%29;locus_tag=MEint283.genome.CDS.1483
+MEint283.contig.55	feature	CDS	2137	3711	.	-	0	ID=MEint283.genome.CDS.1482;Product=RNA polymerase sigma factor RpoD;locus_tag=MEint283.genome.CDS.1482
+MEint283.contig.55	feature	CDS	1920	2111	.	-	0	ID=MEint283.genome.CDS.1481;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.1481
+MEint283.contig.55	feature	CDS	1708	1923	.	+	0	ID=MEint283.genome.CDS.1480;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.1480
+MEint283.contig.55	feature	CDS	3	1520	.	-	0	ID=MEint283.genome.CDS.1479;Product=Topoisomerase IV subunit B %28EC 5.99.1.-%29;locus_tag=MEint283.genome.CDS.1479
+MEint283.contig.56	feature	CDS	10285	11205	.	-	0	ID=MEint283.genome.CDS.1501;Product=Sulfate adenylyltransferase subunit 2 %28EC 2.7.7.4%29;locus_tag=MEint283.genome.CDS.1501
+MEint283.contig.56	feature	CDS	8465	10285	.	-	0	ID=MEint283.genome.CDS.1500;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.1500
+MEint283.contig.56	feature	CDS	7713	8468	.	-	0	ID=MEint283.genome.CDS.1499;Product=Sulfate transporter%2C CysZ-type;locus_tag=MEint283.genome.CDS.1499
+MEint283.contig.56	feature	CDS	6784	7716	.	+	0	ID=MEint283.genome.CDS.1498;Product=;locus_tag=MEint283.genome.CDS.1498
+MEint283.contig.56	feature	CDS	5484	6527	.	-	0	ID=MEint283.genome.CDS.1497;Product=Putrescine transport ATP-binding protein PotA %28TC 3.A.1.11.1%29;locus_tag=MEint283.genome.CDS.1497
+MEint283.contig.56	feature	CDS	4277	5446	.	-	0	ID=MEint283.genome.CDS.1496;Product=ABC transporter%2C periplasmic spermidine putrescine-binding protein PotD %28TC 3.A.1.11.1%29;locus_tag=MEint283.genome.CDS.1496
+MEint283.contig.56	feature	CDS	3281	4162	.	-	0	ID=MEint283.genome.CDS.1495;Product=Spermidine Putrescine ABC transporter permease component PotB %28TC 3.A.1.11.1%29;locus_tag=MEint283.genome.CDS.1495
+MEint283.contig.56	feature	CDS	2466	3278	.	-	0	ID=MEint283.genome.CDS.1494;Product=Spermidine Putrescine ABC transporter permease component potC %28TC_3.A.1.11.1%29;locus_tag=MEint283.genome.CDS.1494
+MEint283.contig.56	feature	CDS	1680	2453	.	+	0	ID=MEint283.genome.CDS.1493;Product=;locus_tag=MEint283.genome.CDS.1493
+MEint283.contig.56	feature	CDS	497	1618	.	+	0	ID=MEint283.genome.CDS.1492;Product=PQQ-dependent oxidoreductase%2C gdhB family;locus_tag=MEint283.genome.CDS.1492
+MEint283.contig.56	feature	CDS	1	423	.	+	0	ID=MEint283.genome.CDS.1491;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.1491
+MEint283.contig.57	feature	misc_RNA	19705	26224	.	+	.	ID=MEint283.genome.repeat.2;Product=repeat region;locus_tag=MEint283.genome.repeat.2
+MEint283.contig.57	feature	CDS	25454	26224	.	-	0	ID=MEint283.genome.CDS.1528;Product=Short chain dehydrogenase family protein;locus_tag=MEint283.genome.CDS.1528
+MEint283.contig.57	feature	CDS	24711	25457	.	+	0	ID=MEint283.genome.CDS.1527;Product=ATPase component NikO of energizing module of nickel ECF transporter;locus_tag=MEint283.genome.CDS.1527
+MEint283.contig.57	feature	CDS	24095	24706	.	+	0	ID=MEint283.genome.CDS.1526;Product=Transmembrane component NikQ of energizing module of nickel ECF transporter;locus_tag=MEint283.genome.CDS.1526
+MEint283.contig.57	feature	CDS	23599	23910	.	+	0	ID=MEint283.genome.CDS.1525;Product=Additional substrate-specific component NikN of nickel ECF transporter;locus_tag=MEint283.genome.CDS.1525
+MEint283.contig.57	feature	CDS	22926	23597	.	+	0	ID=MEint283.genome.CDS.1524;Product=Substrate-specific component NikM of nickel ECF transporter;locus_tag=MEint283.genome.CDS.1524
+MEint283.contig.57	feature	CDS	22337	22858	.	-	0	ID=MEint283.genome.CDS.1523;Product=;locus_tag=MEint283.genome.CDS.1523
+MEint283.contig.57	feature	CDS	20864	22294	.	+	0	ID=MEint283.genome.CDS.1522;Product=Glutamine synthetase type I %28EC 6.3.1.2%29;locus_tag=MEint283.genome.CDS.1522
+MEint283.contig.57	feature	CDS	20339	20719	.	-	0	ID=MEint283.genome.CDS.1521;Product=;locus_tag=MEint283.genome.CDS.1521
+MEint283.contig.57	feature	CDS	19638	20336	.	+	0	ID=MEint283.genome.CDS.1520;Product=;locus_tag=MEint283.genome.CDS.1520
+MEint283.contig.57	feature	CDS	18698	19627	.	+	0	ID=MEint283.genome.CDS.1519;Product=Lipoate synthase;locus_tag=MEint283.genome.CDS.1519
+MEint283.contig.57	feature	CDS	18048	18701	.	+	0	ID=MEint283.genome.CDS.1518;Product=Octanoate-%5Bacyl-carrier-protein%5D-protein-N-octanoyltransferase;locus_tag=MEint283.genome.CDS.1518
+MEint283.contig.57	feature	CDS	15741	17918	.	-	0	ID=MEint283.genome.CDS.1517;Product=possible membrane protein;locus_tag=MEint283.genome.CDS.1517
+MEint283.contig.57	feature	CDS	14716	15726	.	-	0	ID=MEint283.genome.CDS.1516;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.1516
+MEint283.contig.57	feature	CDS	13570	14715	.	-	0	ID=MEint283.genome.CDS.1515;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.1515
+MEint283.contig.57	feature	CDS	12702	13589	.	+	0	ID=MEint283.genome.CDS.1514;Product=Cell division inhibitor;locus_tag=MEint283.genome.CDS.1514
+MEint283.contig.57	feature	CDS	11018	12700	.	+	0	ID=MEint283.genome.CDS.1513;Product=Dihydrolipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex %28EC 2.3.1.168%29;locus_tag=MEint283.genome.CDS.1513
+MEint283.contig.57	feature	CDS	9638	11005	.	+	0	ID=MEint283.genome.CDS.1512;Product=Dihydrolipoamide dehydrogenase of branched-chain alpha-keto acid dehydrogenase %28EC 1.8.1.4%29;locus_tag=MEint283.genome.CDS.1512
+MEint283.contig.57	feature	CDS	8100	9584	.	+	0	ID=MEint283.genome.CDS.1511;Product=Cytosol aminopeptidase PepA %28EC 3.4.11.1%29;locus_tag=MEint283.genome.CDS.1511
+MEint283.contig.57	feature	CDS	6863	7951	.	-	0	ID=MEint283.genome.CDS.1510;Product=Aminomethyltransferase %28glycine cleavage system T protein%29 %28EC 2.1.2.10%29;locus_tag=MEint283.genome.CDS.1510
+MEint283.contig.57	feature	CDS	5783	6784	.	-	0	ID=MEint283.genome.CDS.1509;Product=Potassium channel beta chain;locus_tag=MEint283.genome.CDS.1509
+MEint283.contig.57	feature	CDS	5251	5781	.	+	0	ID=MEint283.genome.CDS.1508;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.1508
+MEint283.contig.57	feature	CDS	4062	5246	.	+	0	ID=MEint283.genome.CDS.1507;Product=Quinolinate synthetase %28EC 2.5.1.72%29;locus_tag=MEint283.genome.CDS.1507
+MEint283.contig.57	feature	CDS	3635	4009	.	-	0	ID=MEint283.genome.CDS.1506;Product=probable iron binding protein from the HesB_IscA_SufA family;locus_tag=MEint283.genome.CDS.1506
+MEint283.contig.57	feature	CDS	2619	3638	.	+	0	ID=MEint283.genome.CDS.1505;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.1505
+MEint283.contig.57	feature	CDS	1756	2523	.	-	0	ID=MEint283.genome.CDS.1504;Product=Cytochrome c oxidase polypeptide II %28EC 1.9.3.1%29;locus_tag=MEint283.genome.CDS.1504
+MEint283.contig.57	feature	CDS	98	1759	.	-	0	ID=MEint283.genome.CDS.1503;Product=Cytochrome c oxidase polypeptide I %28EC 1.9.3.1%29;locus_tag=MEint283.genome.CDS.1503
+MEint283.contig.57	feature	CDS	3	98	.	-	0	ID=MEint283.genome.CDS.1502;Product=;locus_tag=MEint283.genome.CDS.1502
+MEint283.contig.58	feature	misc_RNA	1	4205	.	+	.	ID=MEint283.genome.repeat.20;Product=repeat region;locus_tag=MEint283.genome.repeat.20
+MEint283.contig.58	feature	misc_RNA	12298	13444	.	+	.	ID=MEint283.genome.repeat.21;Product=repeat region;locus_tag=MEint283.genome.repeat.21
+MEint283.contig.58	feature	CDS	11809	13443	.	+	0	ID=MEint283.genome.CDS.1543;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.1543
+MEint283.contig.58	feature	CDS	11526	11777	.	+	0	ID=MEint283.genome.CDS.1542;Product=FIG01050400: hypothetical protein;locus_tag=MEint283.genome.CDS.1542
+MEint283.contig.58	feature	CDS	10532	11485	.	-	0	ID=MEint283.genome.CDS.1541;Product=Ornithine carbamoyltransferase %28EC 2.1.3.3%29;locus_tag=MEint283.genome.CDS.1541
+MEint283.contig.58	feature	CDS	9383	10507	.	-	0	ID=MEint283.genome.CDS.1540;Product=NAD%28P%29 transhydrogenase alpha subunit %28EC 1.6.1.2%29;locus_tag=MEint283.genome.CDS.1540
+MEint283.contig.58	feature	CDS	9057	9383	.	-	0	ID=MEint283.genome.CDS.1539;Product=NAD%28P%29 transhydrogenase alpha subunit %28EC 1.6.1.2%29;locus_tag=MEint283.genome.CDS.1539
+MEint283.contig.58	feature	CDS	7675	9060	.	-	0	ID=MEint283.genome.CDS.1538;Product=NAD%28P%29 transhydrogenase subunit beta %28EC 1.6.1.2%29;locus_tag=MEint283.genome.CDS.1538
+MEint283.contig.58	feature	CDS	6562	7611	.	-	0	ID=MEint283.genome.CDS.1537;Product=possible chromosome condensation protein;locus_tag=MEint283.genome.CDS.1537
+MEint283.contig.58	feature	CDS	6057	6524	.	+	0	ID=MEint283.genome.CDS.1536;Product=6%2C7-dimethyl-8-ribityllumazine synthase %28EC 2.5.1.78%29;locus_tag=MEint283.genome.CDS.1536
+MEint283.contig.58	feature	CDS	4852	6057	.	+	0	ID=MEint283.genome.CDS.1535;Product=3%2C4-dihydroxy-2-butanone 4-phosphate synthase %28EC 4.1.99.12%29 / GTP cyclohydrolase II %28EC 3.5.4.25%29;locus_tag=MEint283.genome.CDS.1535
+MEint283.contig.58	feature	CDS	4257	4859	.	+	0	ID=MEint283.genome.CDS.1534;Product=Riboflavin synthase eubacterial/eukaryotic %28EC 2.5.1.9%29;locus_tag=MEint283.genome.CDS.1534
+MEint283.contig.58	feature	CDS	3196	4257	.	+	0	ID=MEint283.genome.CDS.1533;Product=Diaminohydroxyphosphoribosylaminopyrimidine deaminase %28EC 3.5.4.26%29 / 5-amino-6-%285-phosphoribosylamino%29uracil reductase %28EC 1.1.1.193%29;locus_tag=MEint283.genome.CDS.1533
+MEint283.contig.58	feature	CDS	1685	3013	.	+	0	ID=MEint283.genome.CDS.1532;Product=Argininosuccinate synthase %28EC 6.3.4.5%29;locus_tag=MEint283.genome.CDS.1532
+MEint283.contig.58	feature	CDS	1045	1662	.	+	0	ID=MEint283.genome.CDS.1531;Product=;locus_tag=MEint283.genome.CDS.1531
+MEint283.contig.58	feature	CDS	390	1058	.	+	0	ID=MEint283.genome.CDS.1530;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.1530
+MEint283.contig.58	feature	CDS	1	390	.	+	0	ID=MEint283.genome.CDS.1529;Product=type II secretion system protein E;locus_tag=MEint283.genome.CDS.1529
+MEint283.contig.6	feature	misc_RNA	1	135	.	+	.	ID=MEint283.genome.repeat.16;Product=repeat region;locus_tag=MEint283.genome.repeat.16
+MEint283.contig.6	feature	misc_RNA	8078	9803	.	+	.	ID=MEint283.genome.repeat.17;Product=repeat region;locus_tag=MEint283.genome.repeat.17
+MEint283.contig.6	feature	CDS	9297	9803	.	+	0	ID=MEint283.genome.CDS.818;Product=putative membrane protein;locus_tag=MEint283.genome.CDS.818
+MEint283.contig.6	feature	CDS	6826	9159	.	+	0	ID=MEint283.genome.CDS.817;Product=DNA translocase FtsK;locus_tag=MEint283.genome.CDS.817
+MEint283.contig.6	feature	CDS	5063	6745	.	+	0	ID=MEint283.genome.CDS.816;Product=Ribonuclease J2 %28endoribonuclease in RNA processing%29;locus_tag=MEint283.genome.CDS.816
+MEint283.contig.6	feature	CDS	4168	5058	.	+	0	ID=MEint283.genome.CDS.815;Product=4-hydroxy-tetrahydrodipicolinate synthase %28EC 4.3.3.7%29;locus_tag=MEint283.genome.CDS.815
+MEint283.contig.6	feature	CDS	3428	4147	.	+	0	ID=MEint283.genome.CDS.814;Product=Thymidylate synthase thyX %28EC 2.1.1.-%29;locus_tag=MEint283.genome.CDS.814
+MEint283.contig.6	feature	CDS	2713	3375	.	-	0	ID=MEint283.genome.CDS.813;Product=;locus_tag=MEint283.genome.CDS.813
+MEint283.contig.6	feature	CDS	2408	2716	.	-	0	ID=MEint283.genome.CDS.812;Product=;locus_tag=MEint283.genome.CDS.812
+MEint283.contig.6	feature	CDS	2160	2411	.	+	0	ID=MEint283.genome.CDS.811;Product=;locus_tag=MEint283.genome.CDS.811
+MEint283.contig.6	feature	CDS	1417	2163	.	+	0	ID=MEint283.genome.CDS.810;Product=4-hydroxy-tetrahydrodipicolinate reductase %28EC 1.17.1.8%29;locus_tag=MEint283.genome.CDS.810
+MEint283.contig.6	feature	CDS	149	1420	.	+	0	ID=MEint283.genome.CDS.809;Product=FIG007959: peptidase%2C M16 family;locus_tag=MEint283.genome.CDS.809
+MEint283.contig.6	feature	CDS	1	147	.	+	0	ID=MEint283.genome.CDS.808;Product=;locus_tag=MEint283.genome.CDS.808
+MEint283.contig.7	feature	CDS	3242	3331	.	+	0	ID=MEint283.genome.CDS.822;Product=;locus_tag=MEint283.genome.CDS.822
+MEint283.contig.7	feature	CDS	1610	2929	.	+	0	ID=MEint283.genome.CDS.821;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.821
+MEint283.contig.7	feature	CDS	1339	1515	.	-	0	ID=MEint283.genome.CDS.67;Product=;locus_tag=MEint283.genome.CDS.67
+MEint283.contig.7	feature	CDS	271	1332	.	-	0	ID=MEint283.genome.CDS.820;Product=Lon-like protease with PDZ domain;locus_tag=MEint283.genome.CDS.820
+MEint283.contig.7	feature	CDS	3	251	.	-	0	ID=MEint283.genome.CDS.819;Product=;locus_tag=MEint283.genome.CDS.819
+MEint283.contig.8	feature	CDS	36177	36413	.	+	0	ID=MEint283.genome.CDS.862;Product=Transcriptional regulator%2C AsnC family;locus_tag=MEint283.genome.CDS.862
+MEint283.contig.8	feature	CDS	35159	36094	.	-	0	ID=MEint283.genome.CDS.861;Product=Thiamine-monophosphate kinase %28EC 2.7.4.16%29;locus_tag=MEint283.genome.CDS.861
+MEint283.contig.8	feature	CDS	34973	35158	.	+	0	ID=MEint283.genome.CDS.860;Product=LSU ribosomal protein L28p;locus_tag=MEint283.genome.CDS.860
+MEint283.contig.8	feature	CDS	32660	34846	.	-	0	ID=MEint283.genome.CDS.859;Product=ATP-dependent DNA helicase RecG %28EC 3.6.1.-%29;locus_tag=MEint283.genome.CDS.859
+MEint283.contig.8	feature	CDS	32082	32663	.	-	0	ID=MEint283.genome.CDS.858;Product=;locus_tag=MEint283.genome.CDS.858
+MEint283.contig.8	feature	CDS	31556	32038	.	-	0	ID=MEint283.genome.CDS.857;Product=Phosphopantetheine adenylyltransferase %28EC 2.7.7.3%29;locus_tag=MEint283.genome.CDS.857
+MEint283.contig.8	feature	CDS	31080	31553	.	-	0	ID=MEint283.genome.CDS.856;Product=;locus_tag=MEint283.genome.CDS.856
+MEint283.contig.8	feature	CDS	30494	31075	.	-	0	ID=MEint283.genome.CDS.855;Product=COG1399 protein%2C clustered with ribosomal protein L32p;locus_tag=MEint283.genome.CDS.855
+MEint283.contig.8	feature	CDS	30245	30418	.	-	0	ID=MEint283.genome.CDS.854;Product=LSU ribosomal protein L32p %40 LSU ribosomal protein L32p%2C zinc-dependent;locus_tag=MEint283.genome.CDS.854
+MEint283.contig.8	feature	CDS	29560	30195	.	-	0	ID=MEint283.genome.CDS.853;Product=Ribonuclease III %28EC 3.1.26.3%29;locus_tag=MEint283.genome.CDS.853
+MEint283.contig.8	feature	CDS	28711	29547	.	-	0	ID=MEint283.genome.CDS.852;Product=Formamidopyrimidine-DNA glycosylase %28EC 3.2.2.23%29;locus_tag=MEint283.genome.CDS.852
+MEint283.contig.8	feature	CDS	25541	28648	.	-	0	ID=MEint283.genome.CDS.851;Product=Chromosome partition protein smc;locus_tag=MEint283.genome.CDS.851
+MEint283.contig.8	feature	CDS	24696	25532	.	-	0	ID=MEint283.genome.CDS.850;Product=Signal recognition particle receptor protein FtsY %28%3Dalpha subunit%29 %28TC 3.A.5.1.1%29;locus_tag=MEint283.genome.CDS.850
+MEint283.contig.8	feature	CDS	23253	24551	.	-	0	ID=MEint283.genome.CDS.849;Product=Ammonium transporter;locus_tag=MEint283.genome.CDS.849
+MEint283.contig.8	feature	CDS	22912	23250	.	-	0	ID=MEint283.genome.CDS.848;Product=Nitrogen regulatory protein P-II;locus_tag=MEint283.genome.CDS.848
+MEint283.contig.8	feature	CDS	21459	22892	.	-	0	ID=MEint283.genome.CDS.847;Product=Signal recognition particle%2C subunit Ffh SRP54 %28TC 3.A.5.1.1%29;locus_tag=MEint283.genome.CDS.847
+MEint283.contig.8	feature	CDS	20733	21296	.	-	0	ID=MEint283.genome.CDS.846;Product=SSU ribosomal protein S16p;locus_tag=MEint283.genome.CDS.846
+MEint283.contig.8	feature	CDS	20048	20719	.	-	0	ID=MEint283.genome.CDS.845;Product=Signal peptidase I %28EC 3.4.21.89%29;locus_tag=MEint283.genome.CDS.845
+MEint283.contig.8	feature	CDS	19439	20038	.	-	0	ID=MEint283.genome.CDS.844;Product=Ribonuclease HII %28EC 3.1.26.4%29;locus_tag=MEint283.genome.CDS.844
+MEint283.contig.8	feature	CDS	18492	19373	.	-	0	ID=MEint283.genome.CDS.843;Product=Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake;locus_tag=MEint283.genome.CDS.843
+MEint283.contig.8	feature	CDS	17562	18467	.	-	0	ID=MEint283.genome.CDS.842;Product=GTP-binding protein Era;locus_tag=MEint283.genome.CDS.842
+MEint283.contig.8	feature	CDS	16709	17572	.	+	0	ID=MEint283.genome.CDS.841;Product=Permease of the drug/metabolite transporter %28DMT%29 superfamily;locus_tag=MEint283.genome.CDS.841
+MEint283.contig.8	feature	CDS	15770	16708	.	+	0	ID=MEint283.genome.CDS.840;Product=;locus_tag=MEint283.genome.CDS.840
+MEint283.contig.8	feature	CDS	14676	15701	.	-	0	ID=MEint283.genome.CDS.839;Product=6-phosphofructokinase %28EC 2.7.1.11%29;locus_tag=MEint283.genome.CDS.839
+MEint283.contig.8	feature	CDS	13286	14623	.	-	0	ID=MEint283.genome.CDS.838;Product=2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase II %28EC 2.5.1.54%29;locus_tag=MEint283.genome.CDS.838
+MEint283.contig.8	feature	CDS	12755	13246	.	-	0	ID=MEint283.genome.CDS.837;Product=Methylated-DNA--protein-cysteine methyltransferase %28EC 2.1.1.63%29;locus_tag=MEint283.genome.CDS.837
+MEint283.contig.8	feature	CDS	11780	12778	.	+	0	ID=MEint283.genome.CDS.836;Product=Low-specificity L-threonine aldolase %28EC 4.1.2.48%29;locus_tag=MEint283.genome.CDS.836
+MEint283.contig.8	feature	CDS	10849	11730	.	+	0	ID=MEint283.genome.CDS.835;Product=Permease of the drug/metabolite transporter %28DMT%29 superfamily;locus_tag=MEint283.genome.CDS.835
+MEint283.contig.8	feature	CDS	9983	10852	.	+	0	ID=MEint283.genome.CDS.834;Product=Endonuclease IV %28EC 3.1.21.2%29;locus_tag=MEint283.genome.CDS.834
+MEint283.contig.8	feature	CDS	8049	9950	.	+	0	ID=MEint283.genome.CDS.833;Product=Serine/threonine protein kinase PrkC%2C regulator of stationary phase;locus_tag=MEint283.genome.CDS.833
+MEint283.contig.8	feature	CDS	7474	8013	.	+	0	ID=MEint283.genome.CDS.78;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.78
+MEint283.contig.8	feature	CDS	6936	7487	.	+	0	ID=MEint283.genome.CDS.831;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.831
+MEint283.contig.8	feature	CDS	6467	6772	.	-	0	ID=MEint283.genome.CDS.830;Product=;locus_tag=MEint283.genome.CDS.830
+MEint283.contig.8	feature	CDS	6162	6467	.	-	0	ID=MEint283.genome.CDS.829;Product=Lycopene cyclase;locus_tag=MEint283.genome.CDS.829
+MEint283.contig.8	feature	CDS	5250	6161	.	+	0	ID=MEint283.genome.CDS.74;Product=Phytoene synthase %28EC 2.5.1.32%29;locus_tag=MEint283.genome.CDS.74
+MEint283.contig.8	feature	CDS	3761	5245	.	+	0	ID=MEint283.genome.CDS.827;Product=Phytoene dehydrogenase %28EC 1.14.99.-%29;locus_tag=MEint283.genome.CDS.827
+MEint283.contig.8	feature	CDS	2686	3759	.	+	0	ID=MEint283.genome.CDS.826;Product=Geranylgeranyl diphosphate synthase %28EC 2.5.1.29%29;locus_tag=MEint283.genome.CDS.826
+MEint283.contig.8	feature	CDS	1936	2553	.	-	0	ID=MEint283.genome.CDS.825;Product=;locus_tag=MEint283.genome.CDS.825
+MEint283.contig.8	feature	CDS	446	1939	.	+	0	ID=MEint283.genome.CDS.824;Product=Phytoene dehydrogenase %28EC 1.14.99.-%29;locus_tag=MEint283.genome.CDS.824
+MEint283.contig.8	feature	CDS	1	453	.	+	0	ID=MEint283.genome.CDS.823;Product=;locus_tag=MEint283.genome.CDS.823
+MEint283.contig.9	feature	CDS	21254	21379	.	-	0	ID=MEint283.genome.CDS.886;Product=;locus_tag=MEint283.genome.CDS.886
+MEint283.contig.9	feature	CDS	20632	21162	.	-	0	ID=MEint283.genome.CDS.885;Product=LSU ribosomal protein L19p;locus_tag=MEint283.genome.CDS.885
+MEint283.contig.9	feature	CDS	20390	20629	.	-	0	ID=MEint283.genome.CDS.884;Product=KH domain RNA binding protein YlqC;locus_tag=MEint283.genome.CDS.884
+MEint283.contig.9	feature	CDS	19888	20388	.	-	0	ID=MEint283.genome.CDS.883;Product=16S rRNA processing protein RimM;locus_tag=MEint283.genome.CDS.883
+MEint283.contig.9	feature	CDS	19200	19901	.	-	0	ID=MEint283.genome.CDS.882;Product=tRNA %28Guanine37-N1%29 -methyltransferase %28EC 2.1.1.31%29;locus_tag=MEint283.genome.CDS.882
+MEint283.contig.9	feature	CDS	18791	19090	.	-	0	ID=MEint283.genome.CDS.881;Product=FIG01121218: hypothetical protein;locus_tag=MEint283.genome.CDS.881
+MEint283.contig.9	feature	CDS	18345	18794	.	+	0	ID=MEint283.genome.CDS.880;Product=;locus_tag=MEint283.genome.CDS.880
+MEint283.contig.9	feature	CDS	17737	18321	.	-	0	ID=MEint283.genome.CDS.879;Product=FIG01123415: hypothetical protein;locus_tag=MEint283.genome.CDS.879
+MEint283.contig.9	feature	CDS	17306	17740	.	-	0	ID=MEint283.genome.CDS.878;Product=Deoxyuridine 5%27-triphosphate nucleotidohydrolase %28EC 3.6.1.23%29;locus_tag=MEint283.genome.CDS.878
+MEint283.contig.9	feature	CDS	16686	17309	.	-	0	ID=MEint283.genome.CDS.877;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.877
+MEint283.contig.9	feature	CDS	16036	16689	.	+	0	ID=MEint283.genome.CDS.876;Product=Trk system potassium uptake protein TrkA;locus_tag=MEint283.genome.CDS.876
+MEint283.contig.9	feature	CDS	15374	16039	.	+	0	ID=MEint283.genome.CDS.120;Product=Trk system potassium uptake protein TrkA;locus_tag=MEint283.genome.CDS.120
+MEint283.contig.9	feature	CDS	14136	15341	.	-	0	ID=MEint283.genome.CDS.874;Product=23S rRNA %28Uracil-5-%29 -methyltransferase RumA %28EC 2.1.1.-%29;locus_tag=MEint283.genome.CDS.874
+MEint283.contig.9	feature	CDS	11437	14097	.	-	0	ID=MEint283.genome.CDS.873;Product=Aconitate hydratase %28EC 4.2.1.3%29;locus_tag=MEint283.genome.CDS.873
+MEint283.contig.9	feature	CDS	9467	11401	.	-	0	ID=MEint283.genome.CDS.872;Product=1-deoxy-D-xylulose 5-phosphate synthase %28EC 2.2.1.7%29;locus_tag=MEint283.genome.CDS.872
+MEint283.contig.9	feature	CDS	6215	7420	.	+	0	ID=MEint283.genome.CDS.870;Product=3-ketoacyl-CoA thiolase %28EC 2.3.1.16%29;locus_tag=MEint283.genome.CDS.870
+MEint283.contig.9	feature	CDS	4760	6052	.	+	0	ID=MEint283.genome.CDS.869;Product=Ribonuclease D %28EC 3.1.26.3%29;locus_tag=MEint283.genome.CDS.869
+MEint283.contig.9	feature	CDS	4214	4753	.	+	0	ID=MEint283.genome.CDS.868;Product=Uncharacterized protein Q1 colocalized with Q;locus_tag=MEint283.genome.CDS.868
+MEint283.contig.9	feature	CDS	3284	4123	.	-	0	ID=MEint283.genome.CDS.867;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.867
+MEint283.contig.9	feature	CDS	2768	3292	.	+	0	ID=MEint283.genome.CDS.866;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.866
+MEint283.contig.9	feature	CDS	1409	2410	.	-	0	ID=MEint283.genome.CDS.865;Product=;locus_tag=MEint283.genome.CDS.865
+MEint283.contig.9	feature	CDS	274	1335	.	-	0	ID=MEint283.genome.CDS.864;Product=hypothetical protein;locus_tag=MEint283.genome.CDS.864

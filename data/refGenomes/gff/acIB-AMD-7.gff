@@ -1,0 +1,1042 @@
+##gff-version 3
+acIB-AMD-7.contig.1	feature	CDS	34907	35398	.	+	0	ID=acIB-AMD-7.genome.CDS.1001;Product=Fructokinase %28EC 2.7.1.4%29;locus_tag=acIB-AMD-7.genome.CDS.1001
+acIB-AMD-7.contig.1	feature	CDS	34422	34910	.	+	0	ID=acIB-AMD-7.genome.CDS.1000;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1000
+acIB-AMD-7.contig.1	feature	CDS	33571	34275	.	-	0	ID=acIB-AMD-7.genome.CDS.999;Product=;locus_tag=acIB-AMD-7.genome.CDS.999
+acIB-AMD-7.contig.1	feature	CDS	32282	33574	.	-	0	ID=acIB-AMD-7.genome.CDS.998;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.998
+acIB-AMD-7.contig.1	feature	CDS	31373	32191	.	-	0	ID=acIB-AMD-7.genome.CDS.997;Product=;locus_tag=acIB-AMD-7.genome.CDS.997
+acIB-AMD-7.contig.1	feature	CDS	30378	31376	.	-	0	ID=acIB-AMD-7.genome.CDS.996;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.996
+acIB-AMD-7.contig.1	feature	CDS	29271	30326	.	-	0	ID=acIB-AMD-7.genome.CDS.995;Product=;locus_tag=acIB-AMD-7.genome.CDS.995
+acIB-AMD-7.contig.1	feature	CDS	27521	29215	.	-	0	ID=acIB-AMD-7.genome.CDS.994;Product=Acetolactate synthase large subunit %28EC 2.2.1.6%29;locus_tag=acIB-AMD-7.genome.CDS.994
+acIB-AMD-7.contig.1	feature	CDS	26807	27517	.	+	0	ID=acIB-AMD-7.genome.CDS.993;Product=Glucose-1-phosphate cytidylyltransferase %28EC 2.7.7.33%29;locus_tag=acIB-AMD-7.genome.CDS.993
+acIB-AMD-7.contig.1	feature	CDS	25500	26810	.	+	0	ID=acIB-AMD-7.genome.CDS.992;Product=CDP-4-dehydro-6-deoxy-D-glucose 3-dehydratase %28EC 4.2.1.-%29;locus_tag=acIB-AMD-7.genome.CDS.992
+acIB-AMD-7.contig.1	feature	CDS	24366	25427	.	-	0	ID=acIB-AMD-7.genome.CDS.991;Product=Similar to CDP-glucose 4%2C6-dehydratase %28EC 4.2.1.45%29;locus_tag=acIB-AMD-7.genome.CDS.991
+acIB-AMD-7.contig.1	feature	CDS	23029	24354	.	+	0	ID=acIB-AMD-7.genome.CDS.990;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.990
+acIB-AMD-7.contig.1	feature	CDS	21930	23027	.	+	0	ID=acIB-AMD-7.genome.CDS.989;Product=;locus_tag=acIB-AMD-7.genome.CDS.989
+acIB-AMD-7.contig.1	feature	CDS	21065	21967	.	+	0	ID=acIB-AMD-7.genome.CDS.988;Product=;locus_tag=acIB-AMD-7.genome.CDS.988
+acIB-AMD-7.contig.1	feature	CDS	19717	20610	.	-	0	ID=acIB-AMD-7.genome.CDS.987;Product=;locus_tag=acIB-AMD-7.genome.CDS.987
+acIB-AMD-7.contig.1	feature	CDS	18730	19737	.	+	0	ID=acIB-AMD-7.genome.CDS.986;Product=dTDP-glucose 4%2C6-dehydratase %28EC 4.2.1.46%29;locus_tag=acIB-AMD-7.genome.CDS.986
+acIB-AMD-7.contig.1	feature	CDS	17909	18727	.	+	0	ID=acIB-AMD-7.genome.CDS.985;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.985
+acIB-AMD-7.contig.1	feature	CDS	16813	17868	.	+	0	ID=acIB-AMD-7.genome.CDS.984;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.984
+acIB-AMD-7.contig.1	feature	CDS	14917	16725	.	-	0	ID=acIB-AMD-7.genome.CDS.983;Product=;locus_tag=acIB-AMD-7.genome.CDS.983
+acIB-AMD-7.contig.1	feature	CDS	13944	14930	.	+	0	ID=acIB-AMD-7.genome.CDS.982;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.982
+acIB-AMD-7.contig.1	feature	CDS	12851	13837	.	-	0	ID=acIB-AMD-7.genome.CDS.981;Product=dTDP-glucose 4%2C6-dehydratase %28EC 4.2.1.46%29;locus_tag=acIB-AMD-7.genome.CDS.981
+acIB-AMD-7.contig.1	feature	CDS	11638	12882	.	+	0	ID=acIB-AMD-7.genome.CDS.980;Product=UDP-glucose dehydrogenase %28EC 1.1.1.22%29;locus_tag=acIB-AMD-7.genome.CDS.980
+acIB-AMD-7.contig.1	feature	CDS	10273	11619	.	+	0	ID=acIB-AMD-7.genome.CDS.979;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.979
+acIB-AMD-7.contig.1	feature	CDS	9241	10272	.	+	0	ID=acIB-AMD-7.genome.CDS.978;Product=Undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase %28EC 2.7.8.-%29;locus_tag=acIB-AMD-7.genome.CDS.978
+acIB-AMD-7.contig.1	feature	tRNA	9088	9160	.	+	.	ID=acIB-AMD-7.genome.rna.1;Product=tRNA-Lys-TTT;locus_tag=acIB-AMD-7.genome.rna.1
+acIB-AMD-7.contig.1	feature	CDS	7687	8802	.	-	0	ID=acIB-AMD-7.genome.CDS.977;Product=;locus_tag=acIB-AMD-7.genome.CDS.977
+acIB-AMD-7.contig.1	feature	CDS	6825	7697	.	+	0	ID=acIB-AMD-7.genome.CDS.976;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.976
+acIB-AMD-7.contig.1	feature	CDS	5798	6835	.	+	0	ID=acIB-AMD-7.genome.CDS.975;Product=UDP-N-acetylglucosamine 4%2C6-dehydratase %28EC 4.2.1.-%29;locus_tag=acIB-AMD-7.genome.CDS.975
+acIB-AMD-7.contig.1	feature	CDS	3864	5645	.	+	0	ID=acIB-AMD-7.genome.CDS.974;Product=Acetolactate synthase large subunit %28EC 2.2.1.6%29;locus_tag=acIB-AMD-7.genome.CDS.974
+acIB-AMD-7.contig.1	feature	CDS	2915	3823	.	-	0	ID=acIB-AMD-7.genome.CDS.973;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.973
+acIB-AMD-7.contig.1	feature	CDS	1943	2908	.	+	0	ID=acIB-AMD-7.genome.CDS.972;Product=TsaC protein %28YrdC-Sua5 domains%29 required for threonylcarbamoyladenosine t%286%29A37 modification in tRNA;locus_tag=acIB-AMD-7.genome.CDS.972
+acIB-AMD-7.contig.1	feature	tRNA	1776	1851	.	-	.	ID=acIB-AMD-7.genome.rna.2;Product=tRNA-Glu-TTC;locus_tag=acIB-AMD-7.genome.rna.2
+acIB-AMD-7.contig.1	feature	tRNA	1660	1736	.	-	.	ID=acIB-AMD-7.genome.rna.3;Product=tRNA-Asp-GTC;locus_tag=acIB-AMD-7.genome.rna.3
+acIB-AMD-7.contig.1	feature	tRNA	1562	1638	.	-	.	ID=acIB-AMD-7.genome.rna.4;Product=tRNA-Phe-GAA;locus_tag=acIB-AMD-7.genome.rna.4
+acIB-AMD-7.contig.1	feature	CDS	1114	1524	.	-	0	ID=acIB-AMD-7.genome.CDS.971;Product=;locus_tag=acIB-AMD-7.genome.CDS.971
+acIB-AMD-7.contig.1	feature	CDS	914	1117	.	+	0	ID=acIB-AMD-7.genome.CDS.970;Product=;locus_tag=acIB-AMD-7.genome.CDS.970
+acIB-AMD-7.contig.1	feature	CDS	646	888	.	+	0	ID=acIB-AMD-7.genome.CDS.969;Product=DNA binding domain protein%2C excisionase family;locus_tag=acIB-AMD-7.genome.CDS.969
+acIB-AMD-7.contig.1	feature	CDS	2	460	.	+	0	ID=acIB-AMD-7.genome.CDS.968;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.968
+acIB-AMD-7.contig.10	feature	CDS	18712	19509	.	-	0	ID=acIB-AMD-7.genome.CDS.1221;Product=Permease of the drug/metabolite transporter %28DMT%29 superfamily;locus_tag=acIB-AMD-7.genome.CDS.1221
+acIB-AMD-7.contig.10	feature	CDS	17817	18734	.	+	0	ID=acIB-AMD-7.genome.CDS.1220;Product=GTP-binding protein Era;locus_tag=acIB-AMD-7.genome.CDS.1220
+acIB-AMD-7.contig.10	feature	CDS	16911	17792	.	+	0	ID=acIB-AMD-7.genome.CDS.1219;Product=Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake;locus_tag=acIB-AMD-7.genome.CDS.1219
+acIB-AMD-7.contig.10	feature	CDS	16249	16848	.	+	0	ID=acIB-AMD-7.genome.CDS.1218;Product=Ribonuclease HII %28EC 3.1.26.4%29;locus_tag=acIB-AMD-7.genome.CDS.1218
+acIB-AMD-7.contig.10	feature	CDS	15567	16244	.	+	0	ID=acIB-AMD-7.genome.CDS.1217;Product=Signal peptidase I %28EC 3.4.21.89%29;locus_tag=acIB-AMD-7.genome.CDS.1217
+acIB-AMD-7.contig.10	feature	CDS	14983	15552	.	+	0	ID=acIB-AMD-7.genome.CDS.1216;Product=SSU ribosomal protein S16p;locus_tag=acIB-AMD-7.genome.CDS.1216
+acIB-AMD-7.contig.10	feature	CDS	13401	14825	.	+	0	ID=acIB-AMD-7.genome.CDS.1215;Product=Signal recognition particle%2C subunit Ffh SRP54 %28TC 3.A.5.1.1%29;locus_tag=acIB-AMD-7.genome.CDS.1215
+acIB-AMD-7.contig.10	feature	CDS	13042	13380	.	+	0	ID=acIB-AMD-7.genome.CDS.1214;Product=Nitrogen regulatory protein P-II;locus_tag=acIB-AMD-7.genome.CDS.1214
+acIB-AMD-7.contig.10	feature	CDS	11741	13045	.	+	0	ID=acIB-AMD-7.genome.CDS.1213;Product=Ammonium transporter;locus_tag=acIB-AMD-7.genome.CDS.1213
+acIB-AMD-7.contig.10	feature	CDS	10746	11582	.	+	0	ID=acIB-AMD-7.genome.CDS.1212;Product=Signal recognition particle receptor protein FtsY %28%3Dalpha subunit%29 %28TC 3.A.5.1.1%29;locus_tag=acIB-AMD-7.genome.CDS.1212
+acIB-AMD-7.contig.10	feature	CDS	7631	10738	.	+	0	ID=acIB-AMD-7.genome.CDS.1211;Product=Chromosome partition protein smc;locus_tag=acIB-AMD-7.genome.CDS.1211
+acIB-AMD-7.contig.10	feature	CDS	6739	7575	.	+	0	ID=acIB-AMD-7.genome.CDS.1210;Product=Formamidopyrimidine-DNA glycosylase %28EC 3.2.2.23%29;locus_tag=acIB-AMD-7.genome.CDS.1210
+acIB-AMD-7.contig.10	feature	CDS	6084	6722	.	+	0	ID=acIB-AMD-7.genome.CDS.1209;Product=Ribonuclease III %28EC 3.1.26.3%29;locus_tag=acIB-AMD-7.genome.CDS.1209
+acIB-AMD-7.contig.10	feature	CDS	5861	6034	.	+	0	ID=acIB-AMD-7.genome.CDS.1208;Product=LSU ribosomal protein L32p %40 LSU ribosomal protein L32p%2C zinc-dependent;locus_tag=acIB-AMD-7.genome.CDS.1208
+acIB-AMD-7.contig.10	feature	CDS	5215	5784	.	+	0	ID=acIB-AMD-7.genome.CDS.1207;Product=COG1399 protein%2C clustered with ribosomal protein L32p;locus_tag=acIB-AMD-7.genome.CDS.1207
+acIB-AMD-7.contig.10	feature	CDS	4734	5210	.	+	0	ID=acIB-AMD-7.genome.CDS.1206;Product=;locus_tag=acIB-AMD-7.genome.CDS.1206
+acIB-AMD-7.contig.10	feature	CDS	4249	4731	.	+	0	ID=acIB-AMD-7.genome.CDS.1205;Product=Phosphopantetheine adenylyltransferase %28EC 2.7.7.3%29;locus_tag=acIB-AMD-7.genome.CDS.1205
+acIB-AMD-7.contig.10	feature	CDS	3623	4207	.	+	0	ID=acIB-AMD-7.genome.CDS.1204;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1204
+acIB-AMD-7.contig.10	feature	CDS	1440	3626	.	+	0	ID=acIB-AMD-7.genome.CDS.1203;Product=ATP-dependent DNA helicase RecG %28EC 3.6.1.-%29;locus_tag=acIB-AMD-7.genome.CDS.1203
+acIB-AMD-7.contig.10	feature	CDS	1125	1310	.	-	0	ID=acIB-AMD-7.genome.CDS.229;Product=LSU ribosomal protein L28p %40 LSU ribosomal protein L28p%2C zinc-dependent;locus_tag=acIB-AMD-7.genome.CDS.229
+acIB-AMD-7.contig.10	feature	CDS	189	1124	.	+	0	ID=acIB-AMD-7.genome.CDS.1202;Product=Thiamine-monophosphate kinase %28EC 2.7.4.16%29;locus_tag=acIB-AMD-7.genome.CDS.1202
+acIB-AMD-7.contig.10	feature	CDS	3	104	.	-	0	ID=acIB-AMD-7.genome.CDS.1201;Product=Transcriptional regulator%2C AsnC family;locus_tag=acIB-AMD-7.genome.CDS.1201
+acIB-AMD-7.contig.11	feature	CDS	17998	18786	.	+	0	ID=acIB-AMD-7.genome.CDS.1243;Product=GTP-binding and nucleic acid-binding protein YchF;locus_tag=acIB-AMD-7.genome.CDS.1243
+acIB-AMD-7.contig.11	feature	CDS	16804	17934	.	-	0	ID=acIB-AMD-7.genome.CDS.1242;Product=DNA recombination protein RmuC;locus_tag=acIB-AMD-7.genome.CDS.1242
+acIB-AMD-7.contig.11	feature	CDS	16146	16775	.	-	0	ID=acIB-AMD-7.genome.CDS.1241;Product=;locus_tag=acIB-AMD-7.genome.CDS.1241
+acIB-AMD-7.contig.11	feature	CDS	15187	16149	.	+	0	ID=acIB-AMD-7.genome.CDS.1240;Product=4-hydroxy-3-methylbut-2-enyl diphosphate reductase %28EC 1.17.1.2%29;locus_tag=acIB-AMD-7.genome.CDS.1240
+acIB-AMD-7.contig.11	feature	CDS	13920	15128	.	-	0	ID=acIB-AMD-7.genome.CDS.1239;Product=Exodeoxyribonuclease VII large subunit %28EC 3.1.11.6%29;locus_tag=acIB-AMD-7.genome.CDS.1239
+acIB-AMD-7.contig.11	feature	CDS	13680	13901	.	-	0	ID=acIB-AMD-7.genome.CDS.1238;Product=Exodeoxyribonuclease VII small subunit %28EC 3.1.11.6%29;locus_tag=acIB-AMD-7.genome.CDS.1238
+acIB-AMD-7.contig.11	feature	CDS	13150	13683	.	+	0	ID=acIB-AMD-7.genome.CDS.1237;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1237
+acIB-AMD-7.contig.11	feature	CDS	11394	13061	.	-	0	ID=acIB-AMD-7.genome.CDS.1236;Product=Fumarate hydratase class I %28EC 4.2.1.2%29;locus_tag=acIB-AMD-7.genome.CDS.1236
+acIB-AMD-7.contig.11	feature	CDS	10016	11332	.	+	0	ID=acIB-AMD-7.genome.CDS.1235;Product=Predicted ATPase related to phosphate starvation-inducible protein PhoH;locus_tag=acIB-AMD-7.genome.CDS.1235
+acIB-AMD-7.contig.11	feature	CDS	9278	9916	.	+	0	ID=acIB-AMD-7.genome.CDS.1234;Product=L-lysine permease;locus_tag=acIB-AMD-7.genome.CDS.1234
+acIB-AMD-7.contig.11	feature	CDS	9084	9269	.	+	0	ID=acIB-AMD-7.genome.CDS.1233;Product=;locus_tag=acIB-AMD-7.genome.CDS.1233
+acIB-AMD-7.contig.11	feature	CDS	8244	9074	.	+	0	ID=acIB-AMD-7.genome.CDS.1232;Product=Mycothiol S-conjugate amidase Mca;locus_tag=acIB-AMD-7.genome.CDS.1232
+acIB-AMD-7.contig.11	feature	CDS	7669	8163	.	-	0	ID=acIB-AMD-7.genome.CDS.1231;Product=;locus_tag=acIB-AMD-7.genome.CDS.1231
+acIB-AMD-7.contig.11	feature	CDS	7168	7653	.	-	0	ID=acIB-AMD-7.genome.CDS.1230;Product=Transcription elongation factor GreA;locus_tag=acIB-AMD-7.genome.CDS.1230
+acIB-AMD-7.contig.11	feature	CDS	6332	7171	.	+	0	ID=acIB-AMD-7.genome.CDS.1229;Product=;locus_tag=acIB-AMD-7.genome.CDS.1229
+acIB-AMD-7.contig.11	feature	CDS	5352	6332	.	+	0	ID=acIB-AMD-7.genome.CDS.1228;Product=ABC-type multidrug transport system%2C ATPase component;locus_tag=acIB-AMD-7.genome.CDS.1228
+acIB-AMD-7.contig.11	feature	CDS	4093	5310	.	+	0	ID=acIB-AMD-7.genome.CDS.1227;Product=Threonine dehydratase %28EC 4.3.1.19%29;locus_tag=acIB-AMD-7.genome.CDS.1227
+acIB-AMD-7.contig.11	feature	CDS	2775	4013	.	-	0	ID=acIB-AMD-7.genome.CDS.1226;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1226
+acIB-AMD-7.contig.11	feature	CDS	2206	2724	.	-	0	ID=acIB-AMD-7.genome.CDS.1225;Product=Peptide methionine sulfoxide reductase MsrA %28EC 1.8.4.11%29;locus_tag=acIB-AMD-7.genome.CDS.1225
+acIB-AMD-7.contig.11	feature	CDS	1339	2154	.	+	0	ID=acIB-AMD-7.genome.CDS.1224;Product=;locus_tag=acIB-AMD-7.genome.CDS.1224
+acIB-AMD-7.contig.11	feature	CDS	399	1271	.	+	0	ID=acIB-AMD-7.genome.CDS.1223;Product=;locus_tag=acIB-AMD-7.genome.CDS.1223
+acIB-AMD-7.contig.11	feature	CDS	1	264	.	-	0	ID=acIB-AMD-7.genome.CDS.1222;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1222
+acIB-AMD-7.contig.12	feature	CDS	18013	18774	.	-	0	ID=acIB-AMD-7.genome.CDS.1261;Product=Lysyl-tRNA synthetase %28class II%29 %28EC 6.1.1.6%29;locus_tag=acIB-AMD-7.genome.CDS.1261
+acIB-AMD-7.contig.12	feature	CDS	17516	18013	.	-	0	ID=acIB-AMD-7.genome.CDS.1260;Product=N-acetylglutamate synthase %28EC 2.3.1.1%29;locus_tag=acIB-AMD-7.genome.CDS.1260
+acIB-AMD-7.contig.12	feature	CDS	14875	17373	.	-	0	ID=acIB-AMD-7.genome.CDS.1259;Product=ATP-dependent Clp protease%2C ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB;locus_tag=acIB-AMD-7.genome.CDS.1259
+acIB-AMD-7.contig.12	feature	CDS	13512	14882	.	+	0	ID=acIB-AMD-7.genome.CDS.1258;Product=DNA repair protein RadA;locus_tag=acIB-AMD-7.genome.CDS.1258
+acIB-AMD-7.contig.12	feature	CDS	12628	13485	.	+	0	ID=acIB-AMD-7.genome.CDS.1257;Product=FIG00820527: hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1257
+acIB-AMD-7.contig.12	feature	CDS	11759	12571	.	-	0	ID=acIB-AMD-7.genome.CDS.1256;Product=Pyrroline-5-carboxylate reductase %28EC 1.5.1.2%29;locus_tag=acIB-AMD-7.genome.CDS.1256
+acIB-AMD-7.contig.12	feature	CDS	10539	11762	.	-	0	ID=acIB-AMD-7.genome.CDS.1255;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1255
+acIB-AMD-7.contig.12	feature	CDS	10403	10501	.	-	0	ID=acIB-AMD-7.genome.CDS.1254;Product=FIG00945572: hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1254
+acIB-AMD-7.contig.12	feature	CDS	8054	10399	.	+	0	ID=acIB-AMD-7.genome.CDS.1253;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1253
+acIB-AMD-7.contig.12	feature	CDS	7741	7977	.	-	0	ID=acIB-AMD-7.genome.CDS.1252;Product=;locus_tag=acIB-AMD-7.genome.CDS.1252
+acIB-AMD-7.contig.12	feature	CDS	6098	7744	.	+	0	ID=acIB-AMD-7.genome.CDS.1251;Product=DNA repair helicase;locus_tag=acIB-AMD-7.genome.CDS.1251
+acIB-AMD-7.contig.12	feature	CDS	5034	6101	.	+	0	ID=acIB-AMD-7.genome.CDS.1250;Product=putative peptidase;locus_tag=acIB-AMD-7.genome.CDS.1250
+acIB-AMD-7.contig.12	feature	CDS	2845	5037	.	+	0	ID=acIB-AMD-7.genome.CDS.1249;Product=probable DNA-binding protein;locus_tag=acIB-AMD-7.genome.CDS.1249
+acIB-AMD-7.contig.12	feature	CDS	2042	2812	.	+	0	ID=acIB-AMD-7.genome.CDS.1248;Product=Phosphoserine phosphatase %28EC 3.1.3.3%29;locus_tag=acIB-AMD-7.genome.CDS.1248
+acIB-AMD-7.contig.12	feature	CDS	1371	1991	.	-	0	ID=acIB-AMD-7.genome.CDS.1247;Product=Hypothetical%2C related to broad specificity phosphatases COG0406;locus_tag=acIB-AMD-7.genome.CDS.1247
+acIB-AMD-7.contig.12	feature	CDS	832	1371	.	-	0	ID=acIB-AMD-7.genome.CDS.1246;Product=Thiol:disulfide oxidoreductase related to ResA;locus_tag=acIB-AMD-7.genome.CDS.1246
+acIB-AMD-7.contig.12	feature	CDS	108	839	.	-	0	ID=acIB-AMD-7.genome.CDS.1245;Product=Cytochrome c-type biogenesis protein CcdA %28DsbD analog%29;locus_tag=acIB-AMD-7.genome.CDS.1245
+acIB-AMD-7.contig.12	feature	CDS	1	108	.	-	0	ID=acIB-AMD-7.genome.CDS.1244;Product=Ccs1/ResB-related putative cytochrome C-type biogenesis protein;locus_tag=acIB-AMD-7.genome.CDS.1244
+acIB-AMD-7.contig.13	feature	CDS	17905	18324	.	-	0	ID=acIB-AMD-7.genome.CDS.1284;Product=Aquaporin Z;locus_tag=acIB-AMD-7.genome.CDS.1284
+acIB-AMD-7.contig.13	feature	CDS	17511	17912	.	-	0	ID=acIB-AMD-7.genome.CDS.1283;Product=Arsenate reductase %28EC 1.20.4.1%29;locus_tag=acIB-AMD-7.genome.CDS.1283
+acIB-AMD-7.contig.13	feature	CDS	17210	17521	.	+	0	ID=acIB-AMD-7.genome.CDS.1282;Product=;locus_tag=acIB-AMD-7.genome.CDS.1282
+acIB-AMD-7.contig.13	feature	CDS	16401	17189	.	-	0	ID=acIB-AMD-7.genome.CDS.1281;Product=;locus_tag=acIB-AMD-7.genome.CDS.1281
+acIB-AMD-7.contig.13	feature	CDS	15742	16404	.	-	0	ID=acIB-AMD-7.genome.CDS.1280;Product=Spheroidene monooxygenase %28EC 1.14.15.9%29;locus_tag=acIB-AMD-7.genome.CDS.1280
+acIB-AMD-7.contig.13	feature	CDS	14912	15724	.	-	0	ID=acIB-AMD-7.genome.CDS.1279;Product=Ammonium transporter;locus_tag=acIB-AMD-7.genome.CDS.1279
+acIB-AMD-7.contig.13	feature	CDS	13848	14912	.	-	0	ID=acIB-AMD-7.genome.CDS.1278;Product=Glycosyl transferase%2C family 2;locus_tag=acIB-AMD-7.genome.CDS.1278
+acIB-AMD-7.contig.13	feature	CDS	12354	13847	.	-	0	ID=acIB-AMD-7.genome.CDS.1277;Product=Phytoene dehydrogenase %28EC 1.14.99.-%29;locus_tag=acIB-AMD-7.genome.CDS.1277
+acIB-AMD-7.contig.13	feature	CDS	11740	12357	.	+	0	ID=acIB-AMD-7.genome.CDS.1276;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1276
+acIB-AMD-7.contig.13	feature	CDS	10877	11740	.	+	0	ID=acIB-AMD-7.genome.CDS.1275;Product=5%2C10-methylenetetrahydrofolate reductase %28EC 1.5.1.20%29;locus_tag=acIB-AMD-7.genome.CDS.1275
+acIB-AMD-7.contig.13	feature	CDS	9780	10853	.	-	0	ID=acIB-AMD-7.genome.CDS.1274;Product=Geranylgeranyl diphosphate synthase %28EC 2.5.1.29%29;locus_tag=acIB-AMD-7.genome.CDS.1274
+acIB-AMD-7.contig.13	feature	CDS	8293	9777	.	-	0	ID=acIB-AMD-7.genome.CDS.1273;Product=Phytoene dehydrogenase %28EC 1.14.99.-%29;locus_tag=acIB-AMD-7.genome.CDS.1273
+acIB-AMD-7.contig.13	feature	CDS	7378	8289	.	-	0	ID=acIB-AMD-7.genome.CDS.1272;Product=Phytoene synthase %28EC 2.5.1.32%29;locus_tag=acIB-AMD-7.genome.CDS.1272
+acIB-AMD-7.contig.13	feature	CDS	7072	7377	.	+	0	ID=acIB-AMD-7.genome.CDS.1271;Product=Lycopene cyclase;locus_tag=acIB-AMD-7.genome.CDS.1271
+acIB-AMD-7.contig.13	feature	CDS	6761	7072	.	+	0	ID=acIB-AMD-7.genome.CDS.1270;Product=;locus_tag=acIB-AMD-7.genome.CDS.1270
+acIB-AMD-7.contig.13	feature	CDS	6060	6611	.	-	0	ID=acIB-AMD-7.genome.CDS.1269;Product=;locus_tag=acIB-AMD-7.genome.CDS.1269
+acIB-AMD-7.contig.13	feature	CDS	5522	6067	.	-	0	ID=acIB-AMD-7.genome.CDS.1268;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1268
+acIB-AMD-7.contig.13	feature	CDS	3584	5485	.	-	0	ID=acIB-AMD-7.genome.CDS.1267;Product=Serine/threonine protein kinase PrkC%2C regulator of stationary phase;locus_tag=acIB-AMD-7.genome.CDS.1267
+acIB-AMD-7.contig.13	feature	CDS	2683	3549	.	-	0	ID=acIB-AMD-7.genome.CDS.1266;Product=Endonuclease IV %28EC 3.1.21.2%29;locus_tag=acIB-AMD-7.genome.CDS.1266
+acIB-AMD-7.contig.13	feature	CDS	1801	2682	.	-	0	ID=acIB-AMD-7.genome.CDS.1265;Product=Permease of the drug/metabolite transporter %28DMT%29 superfamily;locus_tag=acIB-AMD-7.genome.CDS.1265
+acIB-AMD-7.contig.13	feature	CDS	753	1811	.	-	0	ID=acIB-AMD-7.genome.CDS.1264;Product=Low-specificity L-threonine aldolase %28EC 4.1.2.48%29;locus_tag=acIB-AMD-7.genome.CDS.1264
+acIB-AMD-7.contig.13	feature	CDS	288	779	.	+	0	ID=acIB-AMD-7.genome.CDS.1263;Product=;locus_tag=acIB-AMD-7.genome.CDS.1263
+acIB-AMD-7.contig.13	feature	CDS	1	249	.	+	0	ID=acIB-AMD-7.genome.CDS.1262;Product=2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase II %28EC 2.5.1.54%29;locus_tag=acIB-AMD-7.genome.CDS.1262
+acIB-AMD-7.contig.14	feature	CDS	15960	16856	.	-	0	ID=acIB-AMD-7.genome.CDS.1301;Product=ABC transporter ATP-binding protein;locus_tag=acIB-AMD-7.genome.CDS.1301
+acIB-AMD-7.contig.14	feature	CDS	14857	15963	.	-	0	ID=acIB-AMD-7.genome.CDS.1300;Product=Putative deoxyribose-specific ABC transporter%2C permease protein;locus_tag=acIB-AMD-7.genome.CDS.1300
+acIB-AMD-7.contig.14	feature	CDS	13604	14860	.	-	0	ID=acIB-AMD-7.genome.CDS.1299;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1299
+acIB-AMD-7.contig.14	feature	CDS	12602	13591	.	-	0	ID=acIB-AMD-7.genome.CDS.1298;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1298
+acIB-AMD-7.contig.14	feature	CDS	12315	12605	.	+	0	ID=acIB-AMD-7.genome.CDS.1297;Product=;locus_tag=acIB-AMD-7.genome.CDS.1297
+acIB-AMD-7.contig.14	feature	CDS	10842	12041	.	-	0	ID=acIB-AMD-7.genome.CDS.1296;Product=;locus_tag=acIB-AMD-7.genome.CDS.1296
+acIB-AMD-7.contig.14	feature	CDS	9914	10849	.	-	0	ID=acIB-AMD-7.genome.CDS.1295;Product=Inosine-uridine preferring nucleoside hydrolase %28EC 3.2.2.1%29;locus_tag=acIB-AMD-7.genome.CDS.1295
+acIB-AMD-7.contig.14	feature	CDS	9183	9914	.	-	0	ID=acIB-AMD-7.genome.CDS.1294;Product=Uridine phosphorylase %28EC 2.4.2.3%29;locus_tag=acIB-AMD-7.genome.CDS.1294
+acIB-AMD-7.contig.14	feature	CDS	8428	9183	.	-	0	ID=acIB-AMD-7.genome.CDS.1293;Product=Uridine phosphorylase %28EC 2.4.2.3%29;locus_tag=acIB-AMD-7.genome.CDS.1293
+acIB-AMD-7.contig.14	feature	CDS	7498	8427	.	+	0	ID=acIB-AMD-7.genome.CDS.1292;Product=Inosine-uridine preferring nucleoside hydrolase %28EC 3.2.2.1%29;locus_tag=acIB-AMD-7.genome.CDS.1292
+acIB-AMD-7.contig.14	feature	CDS	6477	7415	.	-	0	ID=acIB-AMD-7.genome.CDS.1291;Product=Deoxyribose-phosphate aldolase %28EC 4.1.2.4%29;locus_tag=acIB-AMD-7.genome.CDS.1291
+acIB-AMD-7.contig.14	feature	CDS	5036	6475	.	-	0	ID=acIB-AMD-7.genome.CDS.1290;Product=Aldehyde dehydrogenase %28EC 1.2.1.3%29;locus_tag=acIB-AMD-7.genome.CDS.1290
+acIB-AMD-7.contig.14	feature	CDS	4197	5036	.	-	0	ID=acIB-AMD-7.genome.CDS.1289;Product=Aldehyde dehydrogenase %28EC 1.2.1.3%29;locus_tag=acIB-AMD-7.genome.CDS.1289
+acIB-AMD-7.contig.14	feature	CDS	3025	4200	.	+	0	ID=acIB-AMD-7.genome.CDS.1288;Product=putative cytochrome P450 hydroxylase;locus_tag=acIB-AMD-7.genome.CDS.1288
+acIB-AMD-7.contig.14	feature	CDS	1994	3028	.	+	0	ID=acIB-AMD-7.genome.CDS.1287;Product=Adenosine deaminase %28EC 3.5.4.4%29;locus_tag=acIB-AMD-7.genome.CDS.1287
+acIB-AMD-7.contig.14	feature	CDS	1602	1988	.	+	0	ID=acIB-AMD-7.genome.CDS.1286;Product=Cytidine deaminase %28EC 3.5.4.5%29;locus_tag=acIB-AMD-7.genome.CDS.1286
+acIB-AMD-7.contig.14	feature	CDS	2	1591	.	+	0	ID=acIB-AMD-7.genome.CDS.1285;Product=Phosphomannomutase %28EC 5.4.2.8%29;locus_tag=acIB-AMD-7.genome.CDS.1285
+acIB-AMD-7.contig.15	feature	CDS	15506	16318	.	-	0	ID=acIB-AMD-7.genome.CDS.1312;Product=putative DNA-binding protein;locus_tag=acIB-AMD-7.genome.CDS.1312
+acIB-AMD-7.contig.15	feature	CDS	15024	15485	.	-	0	ID=acIB-AMD-7.genome.CDS.1311;Product=Lipoprotein signal peptidase %28EC 3.4.23.36%29;locus_tag=acIB-AMD-7.genome.CDS.1311
+acIB-AMD-7.contig.15	feature	CDS	14089	15027	.	-	0	ID=acIB-AMD-7.genome.CDS.1310;Product=Ribosomal large subunit pseudouridine synthase D %28EC 4.2.1.70%29;locus_tag=acIB-AMD-7.genome.CDS.1310
+acIB-AMD-7.contig.15	feature	CDS	10531	14058	.	-	0	ID=acIB-AMD-7.genome.CDS.1309;Product=DNA polymerase III alpha subunit %28EC 2.7.7.7%29;locus_tag=acIB-AMD-7.genome.CDS.1309
+acIB-AMD-7.contig.15	feature	CDS	9854	10312	.	-	0	ID=acIB-AMD-7.genome.CDS.1308;Product=;locus_tag=acIB-AMD-7.genome.CDS.1308
+acIB-AMD-7.contig.15	feature	CDS	9167	9844	.	-	0	ID=acIB-AMD-7.genome.CDS.1307;Product=;locus_tag=acIB-AMD-7.genome.CDS.1307
+acIB-AMD-7.contig.15	feature	CDS	8318	9151	.	-	0	ID=acIB-AMD-7.genome.CDS.1306;Product=Prolipoprotein diacylglyceryl transferase %28EC 2.4.99.-%29;locus_tag=acIB-AMD-7.genome.CDS.1306
+acIB-AMD-7.contig.15	feature	CDS	7604	8308	.	-	0	ID=acIB-AMD-7.genome.CDS.1305;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1305
+acIB-AMD-7.contig.15	feature	CDS	2997	7523	.	-	0	ID=acIB-AMD-7.genome.CDS.1304;Product=Glutamate synthase %5BNADPH%5D large chain %28EC 1.4.1.13%29;locus_tag=acIB-AMD-7.genome.CDS.1304
+acIB-AMD-7.contig.15	feature	CDS	1547	3004	.	-	0	ID=acIB-AMD-7.genome.CDS.1303;Product=Glutamate synthase %5BNADPH%5D small chain %28EC 1.4.1.13%29;locus_tag=acIB-AMD-7.genome.CDS.1303
+acIB-AMD-7.contig.15	feature	CDS	94	1536	.	-	0	ID=acIB-AMD-7.genome.CDS.1302;Product=Pyruvate kinase %28EC 2.7.1.40%29;locus_tag=acIB-AMD-7.genome.CDS.1302
+acIB-AMD-7.contig.16	feature	CDS	15818	16237	.	+	0	ID=acIB-AMD-7.genome.CDS.1326;Product=Excinuclease ABC subunit C;locus_tag=acIB-AMD-7.genome.CDS.1326
+acIB-AMD-7.contig.16	feature	CDS	12984	15815	.	+	0	ID=acIB-AMD-7.genome.CDS.1325;Product=Excinuclease ABC subunit A;locus_tag=acIB-AMD-7.genome.CDS.1325
+acIB-AMD-7.contig.16	feature	CDS	10915	12984	.	+	0	ID=acIB-AMD-7.genome.CDS.1324;Product=Excinuclease ABC subunit B;locus_tag=acIB-AMD-7.genome.CDS.1324
+acIB-AMD-7.contig.16	feature	CDS	10319	10918	.	+	0	ID=acIB-AMD-7.genome.CDS.1323;Product=Dephospho-CoA kinase %28EC 2.7.1.24%29;locus_tag=acIB-AMD-7.genome.CDS.1323
+acIB-AMD-7.contig.16	feature	CDS	8923	10257	.	+	0	ID=acIB-AMD-7.genome.CDS.1322;Product=SSU ribosomal protein S1p;locus_tag=acIB-AMD-7.genome.CDS.1322
+acIB-AMD-7.contig.16	feature	CDS	6178	8751	.	+	0	ID=acIB-AMD-7.genome.CDS.1321;Product=DNA polymerase I %28EC 2.7.7.7%29;locus_tag=acIB-AMD-7.genome.CDS.1321
+acIB-AMD-7.contig.16	feature	CDS	5728	6138	.	-	0	ID=acIB-AMD-7.genome.CDS.1320;Product=ComA operon protein 2;locus_tag=acIB-AMD-7.genome.CDS.1320
+acIB-AMD-7.contig.16	feature	CDS	5004	5723	.	+	0	ID=acIB-AMD-7.genome.CDS.1319;Product=Branched-chain amino acid transport ATP-binding protein LivF %28TC 3.A.1.4.1%29;locus_tag=acIB-AMD-7.genome.CDS.1319
+acIB-AMD-7.contig.16	feature	CDS	4235	5014	.	+	0	ID=acIB-AMD-7.genome.CDS.1318;Product=Branched-chain amino acid transport ATP-binding protein LivG %28TC 3.A.1.4.1%29;locus_tag=acIB-AMD-7.genome.CDS.1318
+acIB-AMD-7.contig.16	feature	CDS	3213	4238	.	+	0	ID=acIB-AMD-7.genome.CDS.1317;Product=Branched-chain amino acid transport system permease protein LivM %28TC 3.A.1.4.1%29;locus_tag=acIB-AMD-7.genome.CDS.1317
+acIB-AMD-7.contig.16	feature	CDS	2258	3211	.	+	0	ID=acIB-AMD-7.genome.CDS.1316;Product=High-affinity branched-chain amino acid transport system permease protein LivH %28TC 3.A.1.4.1%29;locus_tag=acIB-AMD-7.genome.CDS.1316
+acIB-AMD-7.contig.16	feature	CDS	1054	2187	.	+	0	ID=acIB-AMD-7.genome.CDS.1315;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1315
+acIB-AMD-7.contig.16	feature	CDS	312	908	.	+	0	ID=acIB-AMD-7.genome.CDS.1314;Product=putative two-component system response regulator;locus_tag=acIB-AMD-7.genome.CDS.1314
+acIB-AMD-7.contig.16	feature	tRNA	238	310	.	+	.	ID=acIB-AMD-7.genome.rna.12;Product=tRNA-Leu-CAA;locus_tag=acIB-AMD-7.genome.rna.12
+acIB-AMD-7.contig.16	feature	CDS	2	193	.	+	0	ID=acIB-AMD-7.genome.CDS.1313;Product=Pyruvate kinase %28EC 2.7.1.40%29;locus_tag=acIB-AMD-7.genome.CDS.1313
+acIB-AMD-7.contig.17	feature	CDS	14229	16043	.	+	0	ID=acIB-AMD-7.genome.CDS.1345;Product=Phenylalanyl-tRNA synthetase beta chain %28EC 6.1.1.20%29;locus_tag=acIB-AMD-7.genome.CDS.1345
+acIB-AMD-7.contig.17	feature	CDS	13216	14232	.	+	0	ID=acIB-AMD-7.genome.CDS.1344;Product=Phenylalanyl-tRNA synthetase alpha chain %28EC 6.1.1.20%29;locus_tag=acIB-AMD-7.genome.CDS.1344
+acIB-AMD-7.contig.17	feature	CDS	12390	13205	.	+	0	ID=acIB-AMD-7.genome.CDS.1343;Product=;locus_tag=acIB-AMD-7.genome.CDS.1343
+acIB-AMD-7.contig.17	feature	CDS	12004	12366	.	+	0	ID=acIB-AMD-7.genome.CDS.1342;Product=LSU ribosomal protein L20p;locus_tag=acIB-AMD-7.genome.CDS.1342
+acIB-AMD-7.contig.17	feature	CDS	11795	11992	.	+	0	ID=acIB-AMD-7.genome.CDS.1341;Product=LSU ribosomal protein L35p;locus_tag=acIB-AMD-7.genome.CDS.1341
+acIB-AMD-7.contig.17	feature	CDS	11393	11770	.	+	0	ID=acIB-AMD-7.genome.CDS.1340;Product=Translation initiation factor 3;locus_tag=acIB-AMD-7.genome.CDS.1340
+acIB-AMD-7.contig.17	feature	CDS	9636	10892	.	-	0	ID=acIB-AMD-7.genome.CDS.1339;Product=Uracil permease;locus_tag=acIB-AMD-7.genome.CDS.1339
+acIB-AMD-7.contig.17	feature	CDS	9273	9545	.	-	0	ID=acIB-AMD-7.genome.CDS.1338;Product=;locus_tag=acIB-AMD-7.genome.CDS.1338
+acIB-AMD-7.contig.17	feature	CDS	7411	9276	.	+	0	ID=acIB-AMD-7.genome.CDS.1337;Product=ABC transporter%2C ATP-binding/permease protein;locus_tag=acIB-AMD-7.genome.CDS.1337
+acIB-AMD-7.contig.17	feature	CDS	7068	7379	.	+	0	ID=acIB-AMD-7.genome.CDS.1336;Product=PaaD-like protein %28DUF59%29 involved in Fe-S cluster assembly;locus_tag=acIB-AMD-7.genome.CDS.1336
+acIB-AMD-7.contig.17	feature	CDS	6624	7058	.	+	0	ID=acIB-AMD-7.genome.CDS.1335;Product=Putative iron-sulfur cluster assembly scaffold protein for SUF system%2C SufE2;locus_tag=acIB-AMD-7.genome.CDS.1335
+acIB-AMD-7.contig.17	feature	CDS	5377	6624	.	+	0	ID=acIB-AMD-7.genome.CDS.1334;Product=Cysteine desulfurase %28EC 2.8.1.7%29%2C SufS subfamily;locus_tag=acIB-AMD-7.genome.CDS.1334
+acIB-AMD-7.contig.17	feature	CDS	4618	5370	.	+	0	ID=acIB-AMD-7.genome.CDS.1333;Product=Iron-sulfur cluster assembly ATPase protein SufC;locus_tag=acIB-AMD-7.genome.CDS.1333
+acIB-AMD-7.contig.17	feature	CDS	4311	4607	.	+	0	ID=acIB-AMD-7.genome.CDS.1332;Product=Ferredoxin%2C 2Fe-2S;locus_tag=acIB-AMD-7.genome.CDS.1332
+acIB-AMD-7.contig.17	feature	CDS	3226	4311	.	+	0	ID=acIB-AMD-7.genome.CDS.1331;Product=Iron-sulfur cluster assembly protein SufD;locus_tag=acIB-AMD-7.genome.CDS.1331
+acIB-AMD-7.contig.17	feature	CDS	1814	3226	.	+	0	ID=acIB-AMD-7.genome.CDS.1330;Product=Iron-sulfur cluster assembly protein SufB;locus_tag=acIB-AMD-7.genome.CDS.1330
+acIB-AMD-7.contig.17	feature	CDS	1128	1814	.	+	0	ID=acIB-AMD-7.genome.CDS.1329;Product=Iron-sulfur cluster regulator SufR;locus_tag=acIB-AMD-7.genome.CDS.1329
+acIB-AMD-7.contig.17	feature	CDS	107	1006	.	-	0	ID=acIB-AMD-7.genome.CDS.1328;Product=Cytochrome oxidase assembly protein;locus_tag=acIB-AMD-7.genome.CDS.1328
+acIB-AMD-7.contig.17	feature	CDS	3	107	.	-	0	ID=acIB-AMD-7.genome.CDS.1327;Product=Transketolase %28EC 2.2.1.1%29;locus_tag=acIB-AMD-7.genome.CDS.1327
+acIB-AMD-7.contig.18	feature	CDS	15121	15972	.	-	0	ID=acIB-AMD-7.genome.CDS.1362;Product=;locus_tag=acIB-AMD-7.genome.CDS.1362
+acIB-AMD-7.contig.18	feature	CDS	15013	15111	.	+	0	ID=acIB-AMD-7.genome.CDS.1361;Product=FIG00945572: hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1361
+acIB-AMD-7.contig.18	feature	CDS	13751	14974	.	+	0	ID=acIB-AMD-7.genome.CDS.1360;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1360
+acIB-AMD-7.contig.18	feature	CDS	12942	13754	.	+	0	ID=acIB-AMD-7.genome.CDS.1359;Product=Pyrroline-5-carboxylate reductase %28EC 1.5.1.2%29;locus_tag=acIB-AMD-7.genome.CDS.1359
+acIB-AMD-7.contig.18	feature	CDS	12025	12885	.	-	0	ID=acIB-AMD-7.genome.CDS.1358;Product=FIG01122970: hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1358
+acIB-AMD-7.contig.18	feature	CDS	10628	11998	.	-	0	ID=acIB-AMD-7.genome.CDS.1357;Product=DNA repair protein RadA;locus_tag=acIB-AMD-7.genome.CDS.1357
+acIB-AMD-7.contig.18	feature	CDS	8137	10635	.	+	0	ID=acIB-AMD-7.genome.CDS.1356;Product=ATP-dependent Clp protease%2C ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB;locus_tag=acIB-AMD-7.genome.CDS.1356
+acIB-AMD-7.contig.18	feature	CDS	7493	7990	.	+	0	ID=acIB-AMD-7.genome.CDS.1355;Product=Acetyltransferase%2C GNAT family;locus_tag=acIB-AMD-7.genome.CDS.1355
+acIB-AMD-7.contig.18	feature	CDS	6030	7493	.	+	0	ID=acIB-AMD-7.genome.CDS.1354;Product=Lysyl-tRNA synthetase %28class II%29 %28EC 6.1.1.6%29;locus_tag=acIB-AMD-7.genome.CDS.1354
+acIB-AMD-7.contig.18	feature	CDS	5216	5989	.	+	0	ID=acIB-AMD-7.genome.CDS.1353;Product=Pantothenate kinase type III%2C CoaX-like %28EC 2.7.1.33%29;locus_tag=acIB-AMD-7.genome.CDS.1353
+acIB-AMD-7.contig.18	feature	CDS	4344	5216	.	+	0	ID=acIB-AMD-7.genome.CDS.1352;Product=Quinolinate phosphoribosyltransferase %5Bdecarboxylating%5D %28EC 2.4.2.19%29;locus_tag=acIB-AMD-7.genome.CDS.1352
+acIB-AMD-7.contig.18	feature	CDS	2742	4343	.	+	0	ID=acIB-AMD-7.genome.CDS.1351;Product=L-aspartate oxidase %28EC 1.4.3.16%29;locus_tag=acIB-AMD-7.genome.CDS.1351
+acIB-AMD-7.contig.18	feature	CDS	1957	2745	.	+	0	ID=acIB-AMD-7.genome.CDS.1350;Product=Pantoate--beta-alanine ligase %28EC 6.3.2.1%29;locus_tag=acIB-AMD-7.genome.CDS.1350
+acIB-AMD-7.contig.18	feature	CDS	1462	1917	.	+	0	ID=acIB-AMD-7.genome.CDS.1349;Product=2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase %28EC 2.7.6.3%29;locus_tag=acIB-AMD-7.genome.CDS.1349
+acIB-AMD-7.contig.18	feature	CDS	1109	1465	.	+	0	ID=acIB-AMD-7.genome.CDS.1348;Product=Dihydroneopterin aldolase %28EC 4.1.2.25%29;locus_tag=acIB-AMD-7.genome.CDS.1348
+acIB-AMD-7.contig.18	feature	CDS	315	1112	.	+	0	ID=acIB-AMD-7.genome.CDS.1347;Product=Dihydropteroate synthase %28EC 2.5.1.15%29;locus_tag=acIB-AMD-7.genome.CDS.1347
+acIB-AMD-7.contig.18	feature	CDS	1	309	.	+	0	ID=acIB-AMD-7.genome.CDS.1346;Product=GTP cyclohydrolase I %28EC 3.5.4.16%29 type 1;locus_tag=acIB-AMD-7.genome.CDS.1346
+acIB-AMD-7.contig.19	feature	CDS	14612	15802	.	+	0	ID=acIB-AMD-7.genome.CDS.1379;Product=S-adenosylmethionine synthetase %28EC 2.5.1.6%29;locus_tag=acIB-AMD-7.genome.CDS.1379
+acIB-AMD-7.contig.19	feature	CDS	13408	14607	.	+	0	ID=acIB-AMD-7.genome.CDS.1378;Product=Phosphopantothenoylcysteine decarboxylase %28EC 4.1.1.36%29 / Phosphopantothenoylcysteine synthetase %28EC 6.3.2.5%29;locus_tag=acIB-AMD-7.genome.CDS.1378
+acIB-AMD-7.contig.19	feature	CDS	13120	13398	.	+	0	ID=acIB-AMD-7.genome.CDS.1377;Product=DNA-directed RNA polymerase omega subunit %28EC 2.7.7.6%29;locus_tag=acIB-AMD-7.genome.CDS.1377
+acIB-AMD-7.contig.19	feature	CDS	12228	13094	.	+	0	ID=acIB-AMD-7.genome.CDS.1376;Product=Guanylate kinase %28EC 2.7.4.8%29;locus_tag=acIB-AMD-7.genome.CDS.1376
+acIB-AMD-7.contig.19	feature	CDS	11533	12225	.	+	0	ID=acIB-AMD-7.genome.CDS.1375;Product=Orotidine 5%27-phosphate decarboxylase %28EC 4.1.1.23%29;locus_tag=acIB-AMD-7.genome.CDS.1375
+acIB-AMD-7.contig.19	feature	CDS	10601	11533	.	+	0	ID=acIB-AMD-7.genome.CDS.1374;Product=Dihydroorotate dehydrogenase%2C catalytic subunit %28EC 1.3.3.1%29;locus_tag=acIB-AMD-7.genome.CDS.1374
+acIB-AMD-7.contig.19	feature	CDS	9750	10598	.	+	0	ID=acIB-AMD-7.genome.CDS.1373;Product=Dihydroorotate dehydrogenase electron transfer subunit %28EC 1.3.3.1%29;locus_tag=acIB-AMD-7.genome.CDS.1373
+acIB-AMD-7.contig.19	feature	CDS	6502	9753	.	+	0	ID=acIB-AMD-7.genome.CDS.1372;Product=Carbamoyl-phosphate synthase large chain %28EC 6.3.5.5%29;locus_tag=acIB-AMD-7.genome.CDS.1372
+acIB-AMD-7.contig.19	feature	CDS	5361	6509	.	+	0	ID=acIB-AMD-7.genome.CDS.1371;Product=Carbamoyl-phosphate synthase small chain %28EC 6.3.5.5%29;locus_tag=acIB-AMD-7.genome.CDS.1371
+acIB-AMD-7.contig.19	feature	CDS	4067	5368	.	+	0	ID=acIB-AMD-7.genome.CDS.1370;Product=Dihydroorotase %28EC 3.5.2.3%29;locus_tag=acIB-AMD-7.genome.CDS.1370
+acIB-AMD-7.contig.19	feature	CDS	3117	4067	.	+	0	ID=acIB-AMD-7.genome.CDS.1369;Product=Aspartate carbamoyltransferase %28EC 2.1.3.2%29;locus_tag=acIB-AMD-7.genome.CDS.1369
+acIB-AMD-7.contig.19	feature	CDS	2599	3120	.	+	0	ID=acIB-AMD-7.genome.CDS.1368;Product=Uracil phosphoribosyltransferase %28EC 2.4.2.9%29 / Pyrimidine operon regulatory protein PyrR;locus_tag=acIB-AMD-7.genome.CDS.1368
+acIB-AMD-7.contig.19	feature	CDS	2035	2484	.	-	0	ID=acIB-AMD-7.genome.CDS.1367;Product=transcriptional regulator%2C XRE family;locus_tag=acIB-AMD-7.genome.CDS.1367
+acIB-AMD-7.contig.19	feature	CDS	1631	2038	.	+	0	ID=acIB-AMD-7.genome.CDS.1366;Product=Transcription termination protein NusB;locus_tag=acIB-AMD-7.genome.CDS.1366
+acIB-AMD-7.contig.19	feature	CDS	1067	1627	.	+	0	ID=acIB-AMD-7.genome.CDS.1365;Product=Translation elongation factor P;locus_tag=acIB-AMD-7.genome.CDS.1365
+acIB-AMD-7.contig.19	feature	CDS	569	1000	.	+	0	ID=acIB-AMD-7.genome.CDS.1364;Product=3-dehydroquinate dehydratase II %28EC 4.2.1.10%29;locus_tag=acIB-AMD-7.genome.CDS.1364
+acIB-AMD-7.contig.19	feature	CDS	3	572	.	+	0	ID=acIB-AMD-7.genome.CDS.1363;Product=3-dehydroquinate synthase %28EC 4.2.3.4%29;locus_tag=acIB-AMD-7.genome.CDS.1363
+acIB-AMD-7.contig.2	feature	CDS	29651	32800	.	+	0	ID=acIB-AMD-7.genome.CDS.1033;Product=Carbamoyl-phosphate synthase large chain %28EC 6.3.5.5%29;locus_tag=acIB-AMD-7.genome.CDS.1033
+acIB-AMD-7.contig.2	feature	CDS	28510	29658	.	+	0	ID=acIB-AMD-7.genome.CDS.1032;Product=Carbamoyl-phosphate synthase small chain %28EC 6.3.5.5%29;locus_tag=acIB-AMD-7.genome.CDS.1032
+acIB-AMD-7.contig.2	feature	CDS	27213	28517	.	+	0	ID=acIB-AMD-7.genome.CDS.1031;Product=Dihydroorotase %28EC 3.5.2.3%29;locus_tag=acIB-AMD-7.genome.CDS.1031
+acIB-AMD-7.contig.2	feature	CDS	26267	27220	.	+	0	ID=acIB-AMD-7.genome.CDS.1030;Product=Aspartate carbamoyltransferase %28EC 2.1.3.2%29;locus_tag=acIB-AMD-7.genome.CDS.1030
+acIB-AMD-7.contig.2	feature	CDS	25749	26270	.	+	0	ID=acIB-AMD-7.genome.CDS.1029;Product=Uracil phosphoribosyltransferase %28EC 2.4.2.9%29 / Pyrimidine operon regulatory protein PyrR;locus_tag=acIB-AMD-7.genome.CDS.1029
+acIB-AMD-7.contig.2	feature	CDS	25185	25634	.	-	0	ID=acIB-AMD-7.genome.CDS.1028;Product=transcriptional regulator%2C XRE family;locus_tag=acIB-AMD-7.genome.CDS.1028
+acIB-AMD-7.contig.2	feature	CDS	24781	25188	.	+	0	ID=acIB-AMD-7.genome.CDS.1027;Product=Transcription termination protein NusB;locus_tag=acIB-AMD-7.genome.CDS.1027
+acIB-AMD-7.contig.2	feature	CDS	24215	24778	.	+	0	ID=acIB-AMD-7.genome.CDS.1026;Product=Translation elongation factor P;locus_tag=acIB-AMD-7.genome.CDS.1026
+acIB-AMD-7.contig.2	feature	CDS	23723	24154	.	+	0	ID=acIB-AMD-7.genome.CDS.1025;Product=3-dehydroquinate dehydratase II %28EC 4.2.1.10%29;locus_tag=acIB-AMD-7.genome.CDS.1025
+acIB-AMD-7.contig.2	feature	CDS	22701	23726	.	+	0	ID=acIB-AMD-7.genome.CDS.1024;Product=3-dehydroquinate synthase %28EC 4.2.3.4%29;locus_tag=acIB-AMD-7.genome.CDS.1024
+acIB-AMD-7.contig.2	feature	CDS	22189	22704	.	+	0	ID=acIB-AMD-7.genome.CDS.1023;Product=;locus_tag=acIB-AMD-7.genome.CDS.1023
+acIB-AMD-7.contig.2	feature	CDS	21005	22189	.	+	0	ID=acIB-AMD-7.genome.CDS.1022;Product=Chorismate synthase %28EC 4.2.3.5%29;locus_tag=acIB-AMD-7.genome.CDS.1022
+acIB-AMD-7.contig.2	feature	CDS	20554	20931	.	+	0	ID=acIB-AMD-7.genome.CDS.1021;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1021
+acIB-AMD-7.contig.2	feature	CDS	19711	20508	.	+	0	ID=acIB-AMD-7.genome.CDS.1020;Product=Shikimate 5-dehydrogenase I alpha %28EC 1.1.1.25%29;locus_tag=acIB-AMD-7.genome.CDS.1020
+acIB-AMD-7.contig.2	feature	CDS	18719	19714	.	+	0	ID=acIB-AMD-7.genome.CDS.1019;Product=FIG004453: protein YceG like;locus_tag=acIB-AMD-7.genome.CDS.1019
+acIB-AMD-7.contig.2	feature	CDS	18270	18722	.	+	0	ID=acIB-AMD-7.genome.CDS.1018;Product=;locus_tag=acIB-AMD-7.genome.CDS.1018
+acIB-AMD-7.contig.2	feature	CDS	15579	18260	.	+	0	ID=acIB-AMD-7.genome.CDS.1017;Product=Alanyl-tRNA synthetase %28EC 6.1.1.7%29;locus_tag=acIB-AMD-7.genome.CDS.1017
+acIB-AMD-7.contig.2	feature	CDS	15264	15575	.	+	0	ID=acIB-AMD-7.genome.CDS.1016;Product=;locus_tag=acIB-AMD-7.genome.CDS.1016
+acIB-AMD-7.contig.2	feature	CDS	13483	15234	.	+	0	ID=acIB-AMD-7.genome.CDS.1015;Product=Aspartyl-tRNA synthetase %28EC 6.1.1.12%29 %40 Aspartyl-tRNA%28Asn%29 synthetase %28EC 6.1.1.23%29;locus_tag=acIB-AMD-7.genome.CDS.1015
+acIB-AMD-7.contig.2	feature	CDS	12215	13483	.	+	0	ID=acIB-AMD-7.genome.CDS.1014;Product=Histidyl-tRNA synthetase %28EC 6.1.1.21%29;locus_tag=acIB-AMD-7.genome.CDS.1014
+acIB-AMD-7.contig.2	feature	CDS	11526	12218	.	+	0	ID=acIB-AMD-7.genome.CDS.1013;Product=Hydroxyacylglutathione hydrolase %28EC 3.1.2.6%29;locus_tag=acIB-AMD-7.genome.CDS.1013
+acIB-AMD-7.contig.2	feature	CDS	10043	11350	.	-	0	ID=acIB-AMD-7.genome.CDS.1012;Product=ATPase involved in DNA repair;locus_tag=acIB-AMD-7.genome.CDS.1012
+acIB-AMD-7.contig.2	feature	CDS	7878	10046	.	+	0	ID=acIB-AMD-7.genome.CDS.1011;Product=GTP pyrophosphokinase %28EC 2.7.6.5%29%2C %28p%29ppGpp synthetase I;locus_tag=acIB-AMD-7.genome.CDS.1011
+acIB-AMD-7.contig.2	feature	CDS	6797	7846	.	+	0	ID=acIB-AMD-7.genome.CDS.1010;Product=Protein-export membrane protein SecF %28TC 3.A.5.1.1%29;locus_tag=acIB-AMD-7.genome.CDS.1010
+acIB-AMD-7.contig.2	feature	CDS	5271	6797	.	+	0	ID=acIB-AMD-7.genome.CDS.1009;Product=Protein-export membrane protein SecD %28TC 3.A.5.1.1%29;locus_tag=acIB-AMD-7.genome.CDS.1009
+acIB-AMD-7.contig.2	feature	CDS	4129	5184	.	+	0	ID=acIB-AMD-7.genome.CDS.1008;Product=Holliday junction DNA helicase RuvB;locus_tag=acIB-AMD-7.genome.CDS.1008
+acIB-AMD-7.contig.2	feature	CDS	3542	4129	.	+	0	ID=acIB-AMD-7.genome.CDS.1007;Product=Holliday junction DNA helicase RuvA;locus_tag=acIB-AMD-7.genome.CDS.1007
+acIB-AMD-7.contig.2	feature	CDS	3024	3545	.	+	0	ID=acIB-AMD-7.genome.CDS.1006;Product=Crossover junction endodeoxyribonuclease RuvC %28EC 3.1.22.4%29;locus_tag=acIB-AMD-7.genome.CDS.1006
+acIB-AMD-7.contig.2	feature	CDS	2238	2993	.	+	0	ID=acIB-AMD-7.genome.CDS.1005;Product=FIG000859: hypothetical protein YebC;locus_tag=acIB-AMD-7.genome.CDS.1005
+acIB-AMD-7.contig.2	feature	CDS	1623	2228	.	+	0	ID=acIB-AMD-7.genome.CDS.1004;Product=Pyridoxine biosynthesis glutamine amidotransferase%2C glutaminase subunit %28EC 2.4.2.-%29;locus_tag=acIB-AMD-7.genome.CDS.1004
+acIB-AMD-7.contig.2	feature	CDS	733	1620	.	+	0	ID=acIB-AMD-7.genome.CDS.1003;Product=Pyridoxine biosynthesis glutamine amidotransferase%2C synthase subunit %28EC 2.4.2.-%29;locus_tag=acIB-AMD-7.genome.CDS.1003
+acIB-AMD-7.contig.2	feature	CDS	1	636	.	+	0	ID=acIB-AMD-7.genome.CDS.1002;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1002
+acIB-AMD-7.contig.20	feature	CDS	13379	15238	.	+	0	ID=acIB-AMD-7.genome.CDS.1395;Product=;locus_tag=acIB-AMD-7.genome.CDS.1395
+acIB-AMD-7.contig.20	feature	CDS	13171	13329	.	-	0	ID=acIB-AMD-7.genome.CDS.1394;Product=;locus_tag=acIB-AMD-7.genome.CDS.1394
+acIB-AMD-7.contig.20	feature	CDS	12892	13167	.	+	0	ID=acIB-AMD-7.genome.CDS.1393;Product=;locus_tag=acIB-AMD-7.genome.CDS.1393
+acIB-AMD-7.contig.20	feature	CDS	12261	12836	.	-	0	ID=acIB-AMD-7.genome.CDS.1392;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1392
+acIB-AMD-7.contig.20	feature	CDS	10427	12211	.	-	0	ID=acIB-AMD-7.genome.CDS.1391;Product=Copper resistance protein D;locus_tag=acIB-AMD-7.genome.CDS.1391
+acIB-AMD-7.contig.20	feature	CDS	9254	10411	.	-	0	ID=acIB-AMD-7.genome.CDS.1390;Product=Butyryl-CoA dehydrogenase %28EC 1.3.8.1%29;locus_tag=acIB-AMD-7.genome.CDS.1390
+acIB-AMD-7.contig.20	feature	CDS	8715	9257	.	+	0	ID=acIB-AMD-7.genome.CDS.1389;Product=5-formyltetrahydrofolate cyclo-ligase %28EC 6.3.3.2%29;locus_tag=acIB-AMD-7.genome.CDS.1389
+acIB-AMD-7.contig.20	feature	CDS	7759	8670	.	-	0	ID=acIB-AMD-7.genome.CDS.1388;Product=Molybdopterin biosynthesis protein MoeA;locus_tag=acIB-AMD-7.genome.CDS.1388
+acIB-AMD-7.contig.20	feature	CDS	7202	7762	.	-	0	ID=acIB-AMD-7.genome.CDS.1387;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1387
+acIB-AMD-7.contig.20	feature	CDS	6412	7134	.	-	0	ID=acIB-AMD-7.genome.CDS.1386;Product=;locus_tag=acIB-AMD-7.genome.CDS.1386
+acIB-AMD-7.contig.20	feature	CDS	5164	6411	.	+	0	ID=acIB-AMD-7.genome.CDS.1385;Product=CONSERVED MEMBRANE PROTEIN;locus_tag=acIB-AMD-7.genome.CDS.1385
+acIB-AMD-7.contig.20	feature	CDS	4262	5104	.	-	0	ID=acIB-AMD-7.genome.CDS.1384;Product=rRNA small subunit methyltransferase I;locus_tag=acIB-AMD-7.genome.CDS.1384
+acIB-AMD-7.contig.20	feature	CDS	2703	4259	.	-	0	ID=acIB-AMD-7.genome.CDS.1383;Product=Methionyl-tRNA synthetase %28EC 6.1.1.10%29;locus_tag=acIB-AMD-7.genome.CDS.1383
+acIB-AMD-7.contig.20	feature	CDS	1845	2699	.	-	0	ID=acIB-AMD-7.genome.CDS.1382;Product=Putative deoxyribonuclease YcfH;locus_tag=acIB-AMD-7.genome.CDS.1382
+acIB-AMD-7.contig.20	feature	CDS	999	1844	.	-	0	ID=acIB-AMD-7.genome.CDS.1381;Product=SSU rRNA %28adenine%281518%29-N%286%29/adenine%281519%29-N%286%29%29-dimethyltransferase %28EC 2.1.1.182%29;locus_tag=acIB-AMD-7.genome.CDS.1381
+acIB-AMD-7.contig.20	feature	CDS	52	972	.	-	0	ID=acIB-AMD-7.genome.CDS.1380;Product=4-diphosphocytidyl-2-C-methyl-D-erythritol kinase %28EC 2.7.1.148%29;locus_tag=acIB-AMD-7.genome.CDS.1380
+acIB-AMD-7.contig.21	feature	CDS	14972	15190	.	+	0	ID=acIB-AMD-7.genome.CDS.1413;Product=NADH-ubiquinone oxidoreductase chain G %28EC 1.6.5.3%29;locus_tag=acIB-AMD-7.genome.CDS.1413
+acIB-AMD-7.contig.21	feature	CDS	14797	14982	.	+	0	ID=acIB-AMD-7.genome.CDS.430;Product=NADH-ubiquinone oxidoreductase chain G %28EC 1.6.5.3%29;locus_tag=acIB-AMD-7.genome.CDS.430
+acIB-AMD-7.contig.21	feature	CDS	13451	14755	.	+	0	ID=acIB-AMD-7.genome.CDS.1411;Product=NADH-ubiquinone oxidoreductase chain F %28EC 1.6.5.3%29;locus_tag=acIB-AMD-7.genome.CDS.1411
+acIB-AMD-7.contig.21	feature	CDS	12828	13454	.	+	0	ID=acIB-AMD-7.genome.CDS.1410;Product=NADH-ubiquinone oxidoreductase chain E %28EC 1.6.5.3%29;locus_tag=acIB-AMD-7.genome.CDS.1410
+acIB-AMD-7.contig.21	feature	CDS	11488	12828	.	+	0	ID=acIB-AMD-7.genome.CDS.1409;Product=NADH-ubiquinone oxidoreductase chain D %28EC 1.6.5.3%29;locus_tag=acIB-AMD-7.genome.CDS.1409
+acIB-AMD-7.contig.21	feature	CDS	10862	11491	.	+	0	ID=acIB-AMD-7.genome.CDS.1408;Product=NADH-ubiquinone oxidoreductase chain C %28EC 1.6.5.3%29;locus_tag=acIB-AMD-7.genome.CDS.1408
+acIB-AMD-7.contig.21	feature	CDS	10311	10865	.	+	0	ID=acIB-AMD-7.genome.CDS.425;Product=NADH-ubiquinone oxidoreductase chain B %28EC 1.6.5.3%29;locus_tag=acIB-AMD-7.genome.CDS.425
+acIB-AMD-7.contig.21	feature	CDS	9937	10308	.	+	0	ID=acIB-AMD-7.genome.CDS.1406;Product=NADH ubiquinone oxidoreductase chain A %28EC 1.6.5.3%29;locus_tag=acIB-AMD-7.genome.CDS.1406
+acIB-AMD-7.contig.21	feature	CDS	9203	9895	.	+	0	ID=acIB-AMD-7.genome.CDS.1405;Product=Demethylmenaquinone methyltransferase %28EC 2.1.1.163%29;locus_tag=acIB-AMD-7.genome.CDS.1405
+acIB-AMD-7.contig.21	feature	CDS	7908	9137	.	-	0	ID=acIB-AMD-7.genome.CDS.1404;Product=Isochorismate synthase %28EC 5.4.4.2%29 %40 Menaquinone-specific isochorismate synthase %28EC 5.4.4.2%29;locus_tag=acIB-AMD-7.genome.CDS.1404
+acIB-AMD-7.contig.21	feature	CDS	6391	7953	.	+	0	ID=acIB-AMD-7.genome.CDS.1403;Product=2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase %28EC 2.2.1.9%29;locus_tag=acIB-AMD-7.genome.CDS.1403
+acIB-AMD-7.contig.21	feature	CDS	5453	6394	.	+	0	ID=acIB-AMD-7.genome.CDS.1402;Product=O-succinylbenzoate synthase %28EC 4.2.1.113%29;locus_tag=acIB-AMD-7.genome.CDS.1402
+acIB-AMD-7.contig.21	feature	CDS	4572	5450	.	+	0	ID=acIB-AMD-7.genome.CDS.1401;Product=Naphthoate synthase %28EC 4.1.3.36%29;locus_tag=acIB-AMD-7.genome.CDS.1401
+acIB-AMD-7.contig.21	feature	CDS	3440	4525	.	-	0	ID=acIB-AMD-7.genome.CDS.1400;Product=O-succinylbenzoic acid--CoA ligase %28EC 6.2.1.26%29;locus_tag=acIB-AMD-7.genome.CDS.1400
+acIB-AMD-7.contig.21	feature	CDS	2595	3443	.	-	0	ID=acIB-AMD-7.genome.CDS.1399;Product=1%2C4-dihydroxy-2-naphthoate polyprenyltransferase %28EC 2.5.1.74%29;locus_tag=acIB-AMD-7.genome.CDS.1399
+acIB-AMD-7.contig.21	feature	CDS	2324	2575	.	-	0	ID=acIB-AMD-7.genome.CDS.1398;Product=;locus_tag=acIB-AMD-7.genome.CDS.1398
+acIB-AMD-7.contig.21	feature	CDS	1430	2329	.	+	0	ID=acIB-AMD-7.genome.CDS.1397;Product=Cytochrome c-type biogenesis protein CcsA/ResC;locus_tag=acIB-AMD-7.genome.CDS.1397
+acIB-AMD-7.contig.21	feature	CDS	1	1440	.	+	0	ID=acIB-AMD-7.genome.CDS.1396;Product=Ccs1/ResB-related putative cytochrome C-type biogenesis protein;locus_tag=acIB-AMD-7.genome.CDS.1396
+acIB-AMD-7.contig.22	feature	CDS	14453	14905	.	+	0	ID=acIB-AMD-7.genome.CDS.1431;Product=;locus_tag=acIB-AMD-7.genome.CDS.1431
+acIB-AMD-7.contig.22	feature	CDS	13950	14456	.	+	0	ID=acIB-AMD-7.genome.CDS.1430;Product=;locus_tag=acIB-AMD-7.genome.CDS.1430
+acIB-AMD-7.contig.22	feature	CDS	12793	13953	.	+	0	ID=acIB-AMD-7.genome.CDS.1429;Product=Phosphatidylinositol alpha-mannosyltransferase %28EC 2.4.1.57%29;locus_tag=acIB-AMD-7.genome.CDS.1429
+acIB-AMD-7.contig.22	feature	CDS	11946	12806	.	+	0	ID=acIB-AMD-7.genome.CDS.1428;Product=Lauroyl/myristoyl acyltransferase involved in lipid A biosynthesis %28Lauroyl/myristoyl acyltransferase%29;locus_tag=acIB-AMD-7.genome.CDS.1428
+acIB-AMD-7.contig.22	feature	CDS	11341	11946	.	+	0	ID=acIB-AMD-7.genome.CDS.1427;Product=CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase %28EC 2.7.8.5%29;locus_tag=acIB-AMD-7.genome.CDS.1427
+acIB-AMD-7.contig.22	feature	CDS	10734	11324	.	-	0	ID=acIB-AMD-7.genome.CDS.1426;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1426
+acIB-AMD-7.contig.22	feature	CDS	10218	10760	.	+	0	ID=acIB-AMD-7.genome.CDS.1425;Product=FIG049476: HIT family protein;locus_tag=acIB-AMD-7.genome.CDS.1425
+acIB-AMD-7.contig.22	feature	CDS	8223	10217	.	+	0	ID=acIB-AMD-7.genome.CDS.1424;Product=Threonyl-tRNA synthetase %28EC 6.1.1.3%29;locus_tag=acIB-AMD-7.genome.CDS.1424
+acIB-AMD-7.contig.22	feature	CDS	7891	8184	.	+	0	ID=acIB-AMD-7.genome.CDS.1423;Product=;locus_tag=acIB-AMD-7.genome.CDS.1423
+acIB-AMD-7.contig.22	feature	CDS	7124	7894	.	+	0	ID=acIB-AMD-7.genome.CDS.1422;Product=Aminodeoxychorismate lyase %28EC 4.1.3.38%29;locus_tag=acIB-AMD-7.genome.CDS.1422
+acIB-AMD-7.contig.22	feature	CDS	6141	7127	.	+	0	ID=acIB-AMD-7.genome.CDS.1421;Product=Para-aminobenzoate synthase%2C aminase component %28EC 2.6.1.85%29;locus_tag=acIB-AMD-7.genome.CDS.1421
+acIB-AMD-7.contig.22	feature	tRNA	5972	6047	.	-	.	ID=acIB-AMD-7.genome.rna.13;Product=tRNA-Gly-GCC;locus_tag=acIB-AMD-7.genome.rna.13
+acIB-AMD-7.contig.22	feature	tRNA	5862	5935	.	-	.	ID=acIB-AMD-7.genome.rna.14;Product=tRNA-Cys-GCA;locus_tag=acIB-AMD-7.genome.rna.14
+acIB-AMD-7.contig.22	feature	CDS	4948	5856	.	+	0	ID=acIB-AMD-7.genome.CDS.1420;Product=Mannose-6-phosphate isomerase %28EC 5.3.1.8%29;locus_tag=acIB-AMD-7.genome.CDS.1420
+acIB-AMD-7.contig.22	feature	CDS	4554	4880	.	-	0	ID=acIB-AMD-7.genome.CDS.435;Product=Mannose-1-phosphate guanylyltransferase %28GDP%29 %28EC 2.7.7.22%29;locus_tag=acIB-AMD-7.genome.CDS.435
+acIB-AMD-7.contig.22	feature	tRNA	4492	4563	.	-	.	ID=acIB-AMD-7.genome.rna.15;Product=tRNA-Val-GAC;locus_tag=acIB-AMD-7.genome.rna.15
+acIB-AMD-7.contig.22	feature	CDS	3275	4288	.	-	0	ID=acIB-AMD-7.genome.CDS.1418;Product=FIG00344945: hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1418
+acIB-AMD-7.contig.22	feature	CDS	2249	3274	.	-	0	ID=acIB-AMD-7.genome.CDS.1417;Product=;locus_tag=acIB-AMD-7.genome.CDS.1417
+acIB-AMD-7.contig.22	feature	CDS	1279	2130	.	-	0	ID=acIB-AMD-7.genome.CDS.1416;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1416
+acIB-AMD-7.contig.22	feature	CDS	478	1227	.	-	0	ID=acIB-AMD-7.genome.CDS.1415;Product=;locus_tag=acIB-AMD-7.genome.CDS.1415
+acIB-AMD-7.contig.22	feature	CDS	1	477	.	-	0	ID=acIB-AMD-7.genome.CDS.1414;Product=;locus_tag=acIB-AMD-7.genome.CDS.1414
+acIB-AMD-7.contig.23	feature	CDS	14421	14717	.	+	0	ID=acIB-AMD-7.genome.CDS.1446;Product=Heat shock protein 60 family co-chaperone GroES;locus_tag=acIB-AMD-7.genome.CDS.1446
+acIB-AMD-7.contig.23	feature	CDS	13267	14292	.	+	0	ID=acIB-AMD-7.genome.CDS.1445;Product=Kinase-Associated Endopeptidase %28Kae1%29%2C required for threonylcarbamoyladenosine t%286%29A37 formation in tRNA;locus_tag=acIB-AMD-7.genome.CDS.1445
+acIB-AMD-7.contig.23	feature	CDS	12269	13267	.	+	0	ID=acIB-AMD-7.genome.CDS.1444;Product=TsaB protein%2C required for threonylcarbamoyladenosine %28t%286%29A%29 formation in tRNA;locus_tag=acIB-AMD-7.genome.CDS.1444
+acIB-AMD-7.contig.23	feature	CDS	11829	12272	.	+	0	ID=acIB-AMD-7.genome.CDS.1443;Product=TsaE protein%2C required for threonylcarbamoyladenosine t%286%29A37 formation in tRNA;locus_tag=acIB-AMD-7.genome.CDS.1443
+acIB-AMD-7.contig.23	feature	CDS	10127	11746	.	+	0	ID=acIB-AMD-7.genome.CDS.1442;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1442
+acIB-AMD-7.contig.23	feature	CDS	8802	10130	.	+	0	ID=acIB-AMD-7.genome.CDS.1441;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1441
+acIB-AMD-7.contig.23	feature	CDS	7793	8764	.	+	0	ID=acIB-AMD-7.genome.CDS.1440;Product=ABC transporter permease protein;locus_tag=acIB-AMD-7.genome.CDS.1440
+acIB-AMD-7.contig.23	feature	CDS	6895	7791	.	+	0	ID=acIB-AMD-7.genome.CDS.1439;Product=High-affinity branched-chain amino acid transport system permease protein LivH %28TC 3.A.1.4.1%29;locus_tag=acIB-AMD-7.genome.CDS.1439
+acIB-AMD-7.contig.23	feature	CDS	6183	6893	.	+	0	ID=acIB-AMD-7.genome.CDS.1438;Product=Branched-chain amino acid transport ATP-binding protein LivF %28TC 3.A.1.4.1%29;locus_tag=acIB-AMD-7.genome.CDS.1438
+acIB-AMD-7.contig.23	feature	CDS	5425	6186	.	+	0	ID=acIB-AMD-7.genome.CDS.1437;Product=Branched-chain amino acid transport ATP-binding protein LivG %28TC 3.A.1.4.1%29;locus_tag=acIB-AMD-7.genome.CDS.1437
+acIB-AMD-7.contig.23	feature	CDS	4308	5432	.	+	0	ID=acIB-AMD-7.genome.CDS.1436;Product=Alanine racemase %28EC 5.1.1.1%29;locus_tag=acIB-AMD-7.genome.CDS.1436
+acIB-AMD-7.contig.23	feature	CDS	3620	4285	.	+	0	ID=acIB-AMD-7.genome.CDS.1435;Product=;locus_tag=acIB-AMD-7.genome.CDS.1435
+acIB-AMD-7.contig.23	feature	CDS	1809	3614	.	+	0	ID=acIB-AMD-7.genome.CDS.1434;Product=Glucosamine--fructose-6-phosphate aminotransferase %5Bisomerizing%5D %28EC 2.6.1.16%29;locus_tag=acIB-AMD-7.genome.CDS.1434
+acIB-AMD-7.contig.23	feature	CDS	451	1791	.	+	0	ID=acIB-AMD-7.genome.CDS.1433;Product=Phosphoglucosamine mutase %28EC 5.4.2.10%29;locus_tag=acIB-AMD-7.genome.CDS.1433
+acIB-AMD-7.contig.23	feature	CDS	3	425	.	+	0	ID=acIB-AMD-7.genome.CDS.1432;Product=SSU ribosomal protein S9p %28S16e%29;locus_tag=acIB-AMD-7.genome.CDS.1432
+acIB-AMD-7.contig.24	feature	CDS	14055	14474	.	-	0	ID=acIB-AMD-7.genome.CDS.1461;Product=Thymidylate kinase %28EC 2.7.4.9%29;locus_tag=acIB-AMD-7.genome.CDS.1461
+acIB-AMD-7.contig.24	feature	CDS	12910	14055	.	-	0	ID=acIB-AMD-7.genome.CDS.1460;Product=DNA polymerase III delta prime subunit %28EC 2.7.7.7%29;locus_tag=acIB-AMD-7.genome.CDS.1460
+acIB-AMD-7.contig.24	feature	CDS	12221	12865	.	-	0	ID=acIB-AMD-7.genome.CDS.1459;Product=;locus_tag=acIB-AMD-7.genome.CDS.1459
+acIB-AMD-7.contig.24	feature	CDS	10785	12083	.	-	0	ID=acIB-AMD-7.genome.CDS.1458;Product=ATP-dependent RNA helicase;locus_tag=acIB-AMD-7.genome.CDS.1458
+acIB-AMD-7.contig.24	feature	CDS	9324	10760	.	-	0	ID=acIB-AMD-7.genome.CDS.1457;Product=Cytosine/purine/uracil/thiamine/allantoin permease family protein;locus_tag=acIB-AMD-7.genome.CDS.1457
+acIB-AMD-7.contig.24	feature	CDS	7958	9343	.	+	0	ID=acIB-AMD-7.genome.CDS.1456;Product=Inosine-5%27-monophosphate dehydrogenase %28EC 1.1.1.205%29;locus_tag=acIB-AMD-7.genome.CDS.1456
+acIB-AMD-7.contig.24	feature	CDS	6715	7659	.	-	0	ID=acIB-AMD-7.genome.CDS.1455;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1455
+acIB-AMD-7.contig.24	feature	CDS	6065	6718	.	+	0	ID=acIB-AMD-7.genome.CDS.1454;Product=spoU rRNA methylase family protein;locus_tag=acIB-AMD-7.genome.CDS.1454
+acIB-AMD-7.contig.24	feature	CDS	5145	6035	.	-	0	ID=acIB-AMD-7.genome.CDS.1453;Product=Permease of the drug/metabolite transporter %28DMT%29 superfamily;locus_tag=acIB-AMD-7.genome.CDS.1453
+acIB-AMD-7.contig.24	feature	CDS	3985	5148	.	-	0	ID=acIB-AMD-7.genome.CDS.1452;Product=D-alanyl-D-alanine carboxypeptidase %28EC 3.4.16.4%29;locus_tag=acIB-AMD-7.genome.CDS.1452
+acIB-AMD-7.contig.24	feature	CDS	3098	3949	.	-	0	ID=acIB-AMD-7.genome.CDS.1451;Product=Heme O synthase%2C protoheme IX farnesyltransferase %28EC 2.5.1.-%29 COX10-CtaB;locus_tag=acIB-AMD-7.genome.CDS.1451
+acIB-AMD-7.contig.24	feature	CDS	2160	3065	.	-	0	ID=acIB-AMD-7.genome.CDS.1450;Product=ABC transporter%2C ATP-binding protein;locus_tag=acIB-AMD-7.genome.CDS.1450
+acIB-AMD-7.contig.24	feature	CDS	1367	2158	.	-	0	ID=acIB-AMD-7.genome.CDS.1449;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1449
+acIB-AMD-7.contig.24	feature	CDS	174	1367	.	-	0	ID=acIB-AMD-7.genome.CDS.1448;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1448
+acIB-AMD-7.contig.24	feature	CDS	2	187	.	-	0	ID=acIB-AMD-7.genome.CDS.1447;Product=tRNA%28Ile%29-lysidine synthetase %28EC 6.3.4.19%29;locus_tag=acIB-AMD-7.genome.CDS.1447
+acIB-AMD-7.contig.25	feature	CDS	13900	14403	.	+	0	ID=acIB-AMD-7.genome.CDS.1477;Product=DUF1794;locus_tag=acIB-AMD-7.genome.CDS.1477
+acIB-AMD-7.contig.25	feature	CDS	13787	13900	.	+	0	ID=acIB-AMD-7.genome.CDS.1476;Product=;locus_tag=acIB-AMD-7.genome.CDS.1476
+acIB-AMD-7.contig.25	feature	CDS	12864	13769	.	+	0	ID=acIB-AMD-7.genome.CDS.1475;Product=Folate-dependent protein for Fe/S cluster synthesis/repair in oxidative stress;locus_tag=acIB-AMD-7.genome.CDS.1475
+acIB-AMD-7.contig.25	feature	CDS	12445	12864	.	+	0	ID=acIB-AMD-7.genome.CDS.1474;Product=Transcriptional regulator%2C FUR family;locus_tag=acIB-AMD-7.genome.CDS.1474
+acIB-AMD-7.contig.25	feature	CDS	11259	12179	.	+	0	ID=acIB-AMD-7.genome.CDS.1473;Product=;locus_tag=acIB-AMD-7.genome.CDS.1473
+acIB-AMD-7.contig.25	feature	CDS	10697	11164	.	+	0	ID=acIB-AMD-7.genome.CDS.1472;Product=;locus_tag=acIB-AMD-7.genome.CDS.1472
+acIB-AMD-7.contig.25	feature	CDS	10099	10500	.	+	0	ID=acIB-AMD-7.genome.CDS.1471;Product=;locus_tag=acIB-AMD-7.genome.CDS.1471
+acIB-AMD-7.contig.25	feature	CDS	9374	10078	.	-	0	ID=acIB-AMD-7.genome.CDS.1470;Product=;locus_tag=acIB-AMD-7.genome.CDS.1470
+acIB-AMD-7.contig.25	feature	CDS	8453	9367	.	-	0	ID=acIB-AMD-7.genome.CDS.1469;Product=;locus_tag=acIB-AMD-7.genome.CDS.1469
+acIB-AMD-7.contig.25	feature	tRNA	8317	8390	.	-	.	ID=acIB-AMD-7.genome.rna.16;Product=tRNA-Val-AAC;locus_tag=acIB-AMD-7.genome.rna.16
+acIB-AMD-7.contig.25	feature	CDS	7453	8220	.	+	0	ID=acIB-AMD-7.genome.CDS.1468;Product=;locus_tag=acIB-AMD-7.genome.CDS.1468
+acIB-AMD-7.contig.25	feature	CDS	6547	7452	.	+	0	ID=acIB-AMD-7.genome.CDS.1467;Product=Fructokinase %28EC 2.7.1.4%29;locus_tag=acIB-AMD-7.genome.CDS.1467
+acIB-AMD-7.contig.25	feature	CDS	6068	6550	.	+	0	ID=acIB-AMD-7.genome.CDS.1466;Product=;locus_tag=acIB-AMD-7.genome.CDS.1466
+acIB-AMD-7.contig.25	feature	CDS	5091	6044	.	+	0	ID=acIB-AMD-7.genome.CDS.1465;Product=dTDP-glucose 4%2C6-dehydratase %28EC 4.2.1.46%29;locus_tag=acIB-AMD-7.genome.CDS.1465
+acIB-AMD-7.contig.25	feature	CDS	3901	5091	.	+	0	ID=acIB-AMD-7.genome.CDS.1464;Product=UDP-glucose 6-dehydrogenase %28EC 1.1.1.22%29;locus_tag=acIB-AMD-7.genome.CDS.1464
+acIB-AMD-7.contig.25	feature	CDS	2037	3899	.	+	0	ID=acIB-AMD-7.genome.CDS.1463;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1463
+acIB-AMD-7.contig.25	feature	CDS	2	1948	.	+	0	ID=acIB-AMD-7.genome.CDS.1462;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1462
+acIB-AMD-7.contig.26	feature	CDS	14093	14251	.	-	0	ID=acIB-AMD-7.genome.CDS.1492;Product=Deoxyribose-phosphate aldolase %28EC 4.1.2.4%29;locus_tag=acIB-AMD-7.genome.CDS.1492
+acIB-AMD-7.contig.26	feature	CDS	13795	14085	.	-	0	ID=acIB-AMD-7.genome.CDS.1491;Product=Aldehyde dehydrogenase %28EC 1.2.1.3%29;locus_tag=acIB-AMD-7.genome.CDS.1491
+acIB-AMD-7.contig.26	feature	CDS	12684	13835	.	-	0	ID=acIB-AMD-7.genome.CDS.1490;Product=Aldehyde dehydrogenase %28EC 1.2.1.3%29;locus_tag=acIB-AMD-7.genome.CDS.1490
+acIB-AMD-7.contig.26	feature	CDS	11845	12687	.	-	0	ID=acIB-AMD-7.genome.CDS.1489;Product=Aldehyde dehydrogenase %28EC 1.2.1.3%29;locus_tag=acIB-AMD-7.genome.CDS.1489
+acIB-AMD-7.contig.26	feature	CDS	10749	11843	.	+	0	ID=acIB-AMD-7.genome.CDS.1488;Product=Adenosine deaminase %28EC 3.5.4.4%29;locus_tag=acIB-AMD-7.genome.CDS.1488
+acIB-AMD-7.contig.26	feature	CDS	9453	10748	.	+	0	ID=acIB-AMD-7.genome.CDS.1487;Product=Thymidine phosphorylase %28EC 2.4.2.4%29;locus_tag=acIB-AMD-7.genome.CDS.1487
+acIB-AMD-7.contig.26	feature	CDS	9066	9452	.	+	0	ID=acIB-AMD-7.genome.CDS.1486;Product=Cytidine deaminase %28EC 3.5.4.5%29;locus_tag=acIB-AMD-7.genome.CDS.1486
+acIB-AMD-7.contig.26	feature	CDS	7784	9040	.	+	0	ID=acIB-AMD-7.genome.CDS.1485;Product=Nucleoside ABC transporter%2C permease protein 2;locus_tag=acIB-AMD-7.genome.CDS.1485
+acIB-AMD-7.contig.26	feature	CDS	6612	7784	.	+	0	ID=acIB-AMD-7.genome.CDS.1484;Product=Nucleoside ABC transporter%2C permease protein 1;locus_tag=acIB-AMD-7.genome.CDS.1484
+acIB-AMD-7.contig.26	feature	CDS	5119	6615	.	+	0	ID=acIB-AMD-7.genome.CDS.1483;Product=;locus_tag=acIB-AMD-7.genome.CDS.1483
+acIB-AMD-7.contig.26	feature	CDS	4006	5046	.	+	0	ID=acIB-AMD-7.genome.CDS.1482;Product=Nucleoside ABC transporter%2C periplasmic nucleoside-binding protein;locus_tag=acIB-AMD-7.genome.CDS.1482
+acIB-AMD-7.contig.26	feature	CDS	2835	3833	.	+	0	ID=acIB-AMD-7.genome.CDS.1481;Product=Tryptophanyl-tRNA synthetase %28EC 6.1.1.2%29;locus_tag=acIB-AMD-7.genome.CDS.1481
+acIB-AMD-7.contig.26	feature	CDS	1549	2835	.	+	0	ID=acIB-AMD-7.genome.CDS.1480;Product=Hemolysins and related proteins containing CBS domains;locus_tag=acIB-AMD-7.genome.CDS.1480
+acIB-AMD-7.contig.26	feature	CDS	300	1379	.	-	0	ID=acIB-AMD-7.genome.CDS.1479;Product=Glycerol-3-phosphate ABC transporter%2C ATP-binding protein UgpC %28TC 3.A.1.1.3%29;locus_tag=acIB-AMD-7.genome.CDS.1479
+acIB-AMD-7.contig.26	feature	CDS	1	252	.	+	0	ID=acIB-AMD-7.genome.CDS.1478;Product=Isocitrate dehydrogenase %5BNADP%5D %28EC 1.1.1.42%29;locus_tag=acIB-AMD-7.genome.CDS.1478
+acIB-AMD-7.contig.27	feature	CDS	13866	14246	.	-	0	ID=acIB-AMD-7.genome.CDS.1509;Product=D-alanyl-D-alanine carboxypeptidase %28EC 3.4.16.4%29;locus_tag=acIB-AMD-7.genome.CDS.1509
+acIB-AMD-7.contig.27	feature	CDS	12978	13829	.	-	0	ID=acIB-AMD-7.genome.CDS.1508;Product=Heme O synthase%2C protoheme IX farnesyltransferase %28EC 2.5.1.-%29 COX10-CtaB;locus_tag=acIB-AMD-7.genome.CDS.1508
+acIB-AMD-7.contig.27	feature	CDS	12040	12945	.	-	0	ID=acIB-AMD-7.genome.CDS.1507;Product=ABC transporter%2C ATP-binding protein;locus_tag=acIB-AMD-7.genome.CDS.1507
+acIB-AMD-7.contig.27	feature	CDS	11246	12037	.	-	0	ID=acIB-AMD-7.genome.CDS.1506;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1506
+acIB-AMD-7.contig.27	feature	CDS	10053	11249	.	-	0	ID=acIB-AMD-7.genome.CDS.1505;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1505
+acIB-AMD-7.contig.27	feature	CDS	9080	10069	.	-	0	ID=acIB-AMD-7.genome.CDS.1504;Product=tRNA%28Ile%29-lysidine synthetase %28EC 6.3.4.19%29;locus_tag=acIB-AMD-7.genome.CDS.1504
+acIB-AMD-7.contig.27	feature	CDS	8520	9071	.	-	0	ID=acIB-AMD-7.genome.CDS.1503;Product=Hypoxanthine-guanine phosphoribosyltransferase %28EC 2.4.2.8%29;locus_tag=acIB-AMD-7.genome.CDS.1503
+acIB-AMD-7.contig.27	feature	CDS	6413	8482	.	-	0	ID=acIB-AMD-7.genome.CDS.1502;Product=Cell division protein FtsH %28EC 3.4.24.-%29;locus_tag=acIB-AMD-7.genome.CDS.1502
+acIB-AMD-7.contig.27	feature	CDS	5800	6420	.	-	0	ID=acIB-AMD-7.genome.CDS.1501;Product=GTP cyclohydrolase I %28EC 3.5.4.16%29 type 1;locus_tag=acIB-AMD-7.genome.CDS.1501
+acIB-AMD-7.contig.27	feature	CDS	4998	5795	.	-	0	ID=acIB-AMD-7.genome.CDS.1500;Product=Dihydropteroate synthase %28EC 2.5.1.15%29;locus_tag=acIB-AMD-7.genome.CDS.1500
+acIB-AMD-7.contig.27	feature	CDS	4645	5001	.	-	0	ID=acIB-AMD-7.genome.CDS.1499;Product=Dihydroneopterin aldolase %28EC 4.1.2.25%29;locus_tag=acIB-AMD-7.genome.CDS.1499
+acIB-AMD-7.contig.27	feature	CDS	4193	4648	.	-	0	ID=acIB-AMD-7.genome.CDS.1498;Product=2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase %28EC 2.7.6.3%29;locus_tag=acIB-AMD-7.genome.CDS.1498
+acIB-AMD-7.contig.27	feature	CDS	3368	4153	.	-	0	ID=acIB-AMD-7.genome.CDS.1497;Product=Pantoate--beta-alanine ligase %28EC 6.3.2.1%29;locus_tag=acIB-AMD-7.genome.CDS.1497
+acIB-AMD-7.contig.27	feature	CDS	1767	3368	.	-	0	ID=acIB-AMD-7.genome.CDS.1496;Product=L-aspartate oxidase %28EC 1.4.3.16%29;locus_tag=acIB-AMD-7.genome.CDS.1496
+acIB-AMD-7.contig.27	feature	CDS	894	1766	.	-	0	ID=acIB-AMD-7.genome.CDS.1495;Product=Quinolinate phosphoribosyltransferase %5Bdecarboxylating%5D %28EC 2.4.2.19%29;locus_tag=acIB-AMD-7.genome.CDS.1495
+acIB-AMD-7.contig.27	feature	CDS	121	894	.	-	0	ID=acIB-AMD-7.genome.CDS.1494;Product=Pantothenate kinase type III%2C CoaX-like %28EC 2.7.1.33%29;locus_tag=acIB-AMD-7.genome.CDS.1494
+acIB-AMD-7.contig.27	feature	CDS	3	80	.	-	0	ID=acIB-AMD-7.genome.CDS.1493;Product=Lysyl-tRNA synthetase %28class II%29 %28EC 6.1.1.6%29;locus_tag=acIB-AMD-7.genome.CDS.1493
+acIB-AMD-7.contig.28	feature	CDS	14013	14156	.	+	0	ID=acIB-AMD-7.genome.CDS.1524;Product=;locus_tag=acIB-AMD-7.genome.CDS.1524
+acIB-AMD-7.contig.28	feature	CDS	12615	13796	.	+	0	ID=acIB-AMD-7.genome.CDS.1523;Product=Predicted CDP-4-keto-6-deoxy-D-glucose-3-dehydrase;locus_tag=acIB-AMD-7.genome.CDS.1523
+acIB-AMD-7.contig.28	feature	CDS	12119	12622	.	+	0	ID=acIB-AMD-7.genome.CDS.1522;Product=;locus_tag=acIB-AMD-7.genome.CDS.1522
+acIB-AMD-7.contig.28	feature	CDS	11475	12086	.	+	0	ID=acIB-AMD-7.genome.CDS.1521;Product=;locus_tag=acIB-AMD-7.genome.CDS.1521
+acIB-AMD-7.contig.28	feature	CDS	10463	11437	.	+	0	ID=acIB-AMD-7.genome.CDS.1520;Product=D%2CD-heptose 7-phosphate kinase;locus_tag=acIB-AMD-7.genome.CDS.1520
+acIB-AMD-7.contig.28	feature	CDS	9519	10457	.	+	0	ID=acIB-AMD-7.genome.CDS.1519;Product=UDP-glucose 4-epimerase %28EC 5.1.3.2%29;locus_tag=acIB-AMD-7.genome.CDS.1519
+acIB-AMD-7.contig.28	feature	CDS	8932	9471	.	+	0	ID=acIB-AMD-7.genome.CDS.1518;Product=;locus_tag=acIB-AMD-7.genome.CDS.1518
+acIB-AMD-7.contig.28	feature	CDS	7885	8928	.	+	0	ID=acIB-AMD-7.genome.CDS.1517;Product=;locus_tag=acIB-AMD-7.genome.CDS.1517
+acIB-AMD-7.contig.28	feature	CDS	6792	7709	.	-	0	ID=acIB-AMD-7.genome.CDS.1516;Product=UDP-glucose 4-epimerase %28EC 5.1.3.2%29;locus_tag=acIB-AMD-7.genome.CDS.1516
+acIB-AMD-7.contig.28	feature	CDS	5817	6737	.	+	0	ID=acIB-AMD-7.genome.CDS.1515;Product=GDP-fucose synthetase;locus_tag=acIB-AMD-7.genome.CDS.1515
+acIB-AMD-7.contig.28	feature	CDS	4610	5824	.	+	0	ID=acIB-AMD-7.genome.CDS.1514;Product=;locus_tag=acIB-AMD-7.genome.CDS.1514
+acIB-AMD-7.contig.28	feature	CDS	2748	4613	.	+	0	ID=acIB-AMD-7.genome.CDS.1513;Product=;locus_tag=acIB-AMD-7.genome.CDS.1513
+acIB-AMD-7.contig.28	feature	CDS	1664	2620	.	+	0	ID=acIB-AMD-7.genome.CDS.1512;Product=UDP-glucose 4-epimerase %28EC 5.1.3.2%29;locus_tag=acIB-AMD-7.genome.CDS.1512
+acIB-AMD-7.contig.28	feature	CDS	717	1667	.	+	0	ID=acIB-AMD-7.genome.CDS.1511;Product=UDP-glucose 4-epimerase %28EC 5.1.3.2%29;locus_tag=acIB-AMD-7.genome.CDS.1511
+acIB-AMD-7.contig.28	feature	CDS	1	546	.	+	0	ID=acIB-AMD-7.genome.CDS.1510;Product=;locus_tag=acIB-AMD-7.genome.CDS.1510
+acIB-AMD-7.contig.29	feature	CDS	12850	13830	.	+	0	ID=acIB-AMD-7.genome.CDS.1543;Product=;locus_tag=acIB-AMD-7.genome.CDS.1543
+acIB-AMD-7.contig.29	feature	CDS	12022	12834	.	+	0	ID=acIB-AMD-7.genome.CDS.1542;Product=putative secreted protein;locus_tag=acIB-AMD-7.genome.CDS.1542
+acIB-AMD-7.contig.29	feature	CDS	11549	12001	.	-	0	ID=acIB-AMD-7.genome.CDS.1541;Product=Transamidase GatB domain protein;locus_tag=acIB-AMD-7.genome.CDS.1541
+acIB-AMD-7.contig.29	feature	CDS	11376	11531	.	-	0	ID=acIB-AMD-7.genome.CDS.1540;Product=FIG011121: hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1540
+acIB-AMD-7.contig.29	feature	CDS	10918	11379	.	-	0	ID=acIB-AMD-7.genome.CDS.1539;Product=RidA/YER057c/UK114 superfamily%2C group 1;locus_tag=acIB-AMD-7.genome.CDS.1539
+acIB-AMD-7.contig.29	feature	CDS	10232	10921	.	+	0	ID=acIB-AMD-7.genome.CDS.1538;Product=cAMP-binding proteins - catabolite gene activator and regulatory subunit of cAMP-dependent protein kinases;locus_tag=acIB-AMD-7.genome.CDS.1538
+acIB-AMD-7.contig.29	feature	CDS	9473	10174	.	-	0	ID=acIB-AMD-7.genome.CDS.1537;Product=Endonuclease III %28EC 4.2.99.18%29;locus_tag=acIB-AMD-7.genome.CDS.1537
+acIB-AMD-7.contig.29	feature	CDS	8937	9476	.	-	0	ID=acIB-AMD-7.genome.CDS.1536;Product=Cytochrome c-type biogenesis protein ResA;locus_tag=acIB-AMD-7.genome.CDS.1536
+acIB-AMD-7.contig.29	feature	CDS	8443	8937	.	-	0	ID=acIB-AMD-7.genome.CDS.1535;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1535
+acIB-AMD-7.contig.29	feature	CDS	6488	8446	.	+	0	ID=acIB-AMD-7.genome.CDS.1534;Product=Acetyl-coenzyme A synthetase %28EC 6.2.1.1%29;locus_tag=acIB-AMD-7.genome.CDS.1534
+acIB-AMD-7.contig.29	feature	CDS	6233	6355	.	-	0	ID=acIB-AMD-7.genome.CDS.543;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.543
+acIB-AMD-7.contig.29	feature	CDS	4791	6077	.	-	0	ID=acIB-AMD-7.genome.CDS.1533;Product=Adenylosuccinate synthetase %28EC 6.3.4.4%29;locus_tag=acIB-AMD-7.genome.CDS.1533
+acIB-AMD-7.contig.29	feature	CDS	3394	4794	.	-	0	ID=acIB-AMD-7.genome.CDS.1532;Product=Adenylosuccinate lyase %28EC 4.3.2.2%29;locus_tag=acIB-AMD-7.genome.CDS.1532
+acIB-AMD-7.contig.29	feature	CDS	3076	3387	.	-	0	ID=acIB-AMD-7.genome.CDS.1531;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1531
+acIB-AMD-7.contig.29	feature	CDS	2810	2995	.	-	0	ID=acIB-AMD-7.genome.CDS.1530;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1530
+acIB-AMD-7.contig.29	feature	CDS	1920	2735	.	-	0	ID=acIB-AMD-7.genome.CDS.1529;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1529
+acIB-AMD-7.contig.29	feature	CDS	1552	1773	.	-	0	ID=acIB-AMD-7.genome.CDS.1528;Product=DNA binding domain protein%2C excisionase family;locus_tag=acIB-AMD-7.genome.CDS.1528
+acIB-AMD-7.contig.29	feature	CDS	1313	1549	.	-	0	ID=acIB-AMD-7.genome.CDS.1527;Product=;locus_tag=acIB-AMD-7.genome.CDS.1527
+acIB-AMD-7.contig.29	feature	CDS	371	1309	.	-	0	ID=acIB-AMD-7.genome.CDS.1526;Product=Acetyl-CoA:Cys-GlcN-Ins acetyltransferase%2C mycothiol synthase MshD;locus_tag=acIB-AMD-7.genome.CDS.1526
+acIB-AMD-7.contig.29	feature	CDS	1	387	.	+	0	ID=acIB-AMD-7.genome.CDS.1525;Product=;locus_tag=acIB-AMD-7.genome.CDS.1525
+acIB-AMD-7.contig.3	feature	CDS	24887	25531	.	-	0	ID=acIB-AMD-7.genome.CDS.1058;Product=Uracil phosphoribosyltransferase %28EC 2.4.2.9%29;locus_tag=acIB-AMD-7.genome.CDS.1058
+acIB-AMD-7.contig.3	feature	CDS	23510	24886	.	-	0	ID=acIB-AMD-7.genome.CDS.1057;Product=NADP-dependent malic enzyme %28EC 1.1.1.40%29;locus_tag=acIB-AMD-7.genome.CDS.1057
+acIB-AMD-7.contig.3	feature	CDS	22899	23507	.	-	0	ID=acIB-AMD-7.genome.CDS.1056;Product=DedA protein;locus_tag=acIB-AMD-7.genome.CDS.1056
+acIB-AMD-7.contig.3	feature	CDS	22078	22923	.	+	0	ID=acIB-AMD-7.genome.CDS.1055;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1055
+acIB-AMD-7.contig.3	feature	CDS	20817	21926	.	+	0	ID=acIB-AMD-7.genome.CDS.1054;Product=;locus_tag=acIB-AMD-7.genome.CDS.1054
+acIB-AMD-7.contig.3	feature	CDS	19539	20642	.	+	0	ID=acIB-AMD-7.genome.CDS.1053;Product=N-acylamino acid racemase;locus_tag=acIB-AMD-7.genome.CDS.1053
+acIB-AMD-7.contig.3	feature	CDS	18832	19542	.	+	0	ID=acIB-AMD-7.genome.CDS.1052;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1052
+acIB-AMD-7.contig.3	feature	CDS	18552	18704	.	+	0	ID=acIB-AMD-7.genome.CDS.1051;Product=;locus_tag=acIB-AMD-7.genome.CDS.1051
+acIB-AMD-7.contig.3	feature	CDS	17276	18424	.	+	0	ID=acIB-AMD-7.genome.CDS.1050;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1050
+acIB-AMD-7.contig.3	feature	tRNA	17051	17126	.	+	.	ID=acIB-AMD-7.genome.rna.7;Product=tRNA-Arg-ACG;locus_tag=acIB-AMD-7.genome.rna.7
+acIB-AMD-7.contig.3	feature	CDS	15711	17018	.	+	0	ID=acIB-AMD-7.genome.CDS.1049;Product=Ferredoxin--NADP%28%2B%29 reductase%2C actinobacterial %28eukaryote-like%29 type %28EC 1.18.1.2%29;locus_tag=acIB-AMD-7.genome.CDS.1049
+acIB-AMD-7.contig.3	feature	tRNA	15629	15716	.	+	.	ID=acIB-AMD-7.genome.rna.6;Product=tRNA-Ser-GCT;locus_tag=acIB-AMD-7.genome.rna.6
+acIB-AMD-7.contig.3	feature	CDS	14101	15561	.	-	0	ID=acIB-AMD-7.genome.CDS.1048;Product=Xaa-Pro aminopeptidase %28EC 3.4.11.9%29;locus_tag=acIB-AMD-7.genome.CDS.1048
+acIB-AMD-7.contig.3	feature	CDS	13587	13937	.	+	0	ID=acIB-AMD-7.genome.CDS.1047;Product=;locus_tag=acIB-AMD-7.genome.CDS.1047
+acIB-AMD-7.contig.3	feature	CDS	12822	13583	.	+	0	ID=acIB-AMD-7.genome.CDS.1046;Product=Succinate dehydrogenase iron-sulfur protein %28EC 1.3.99.1%29;locus_tag=acIB-AMD-7.genome.CDS.1046
+acIB-AMD-7.contig.3	feature	CDS	10927	12825	.	+	0	ID=acIB-AMD-7.genome.CDS.1045;Product=Succinate dehydrogenase flavoprotein subunit %28EC 1.3.99.1%29;locus_tag=acIB-AMD-7.genome.CDS.1045
+acIB-AMD-7.contig.3	feature	CDS	9969	10910	.	+	0	ID=acIB-AMD-7.genome.CDS.1044;Product=putative succinate dehydrogenase %5Bmembrane anchor subunit%5D %28succinic dehydrogenase%29;locus_tag=acIB-AMD-7.genome.CDS.1044
+acIB-AMD-7.contig.3	feature	CDS	9072	9905	.	+	0	ID=acIB-AMD-7.genome.CDS.1043;Product=;locus_tag=acIB-AMD-7.genome.CDS.1043
+acIB-AMD-7.contig.3	feature	CDS	7813	9075	.	+	0	ID=acIB-AMD-7.genome.CDS.1042;Product=Seryl-tRNA synthetase %28EC 6.1.1.11%29;locus_tag=acIB-AMD-7.genome.CDS.1042
+acIB-AMD-7.contig.3	feature	CDS	6964	7794	.	+	0	ID=acIB-AMD-7.genome.CDS.1041;Product=Prephenate dehydratase %28EC 4.2.1.51%29;locus_tag=acIB-AMD-7.genome.CDS.1041
+acIB-AMD-7.contig.3	feature	CDS	6274	6960	.	+	0	ID=acIB-AMD-7.genome.CDS.1040;Product=Glycerophosphoryl diester phosphodiesterase %28EC 3.1.4.46%29;locus_tag=acIB-AMD-7.genome.CDS.1040
+acIB-AMD-7.contig.3	feature	CDS	5446	6222	.	-	0	ID=acIB-AMD-7.genome.CDS.1039;Product=Protein serine/threonine phosphatase PrpC%2C regulation of stationary phase;locus_tag=acIB-AMD-7.genome.CDS.1039
+acIB-AMD-7.contig.3	feature	CDS	3909	5453	.	-	0	ID=acIB-AMD-7.genome.CDS.1038;Product=Serine/threonine protein kinase PrkC%2C regulator of stationary phase;locus_tag=acIB-AMD-7.genome.CDS.1038
+acIB-AMD-7.contig.3	feature	CDS	3370	3912	.	+	0	ID=acIB-AMD-7.genome.CDS.1037;Product=Anthranilate synthase%2C amidotransferase component %28EC 4.1.3.27%29 %40 Para-aminobenzoate synthase%2C amidotransferase component %28EC 2.6.1.85%29;locus_tag=acIB-AMD-7.genome.CDS.1037
+acIB-AMD-7.contig.3	feature	CDS	2977	3246	.	-	0	ID=acIB-AMD-7.genome.CDS.1036;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1036
+acIB-AMD-7.contig.3	feature	CDS	828	2888	.	-	0	ID=acIB-AMD-7.genome.CDS.1035;Product=Fe-S oxidoreductase;locus_tag=acIB-AMD-7.genome.CDS.1035
+acIB-AMD-7.contig.3	feature	CDS	13	756	.	-	0	ID=acIB-AMD-7.genome.CDS.1034;Product=;locus_tag=acIB-AMD-7.genome.CDS.1034
+acIB-AMD-7.contig.30	feature	CDS	12393	13538	.	+	0	ID=acIB-AMD-7.genome.CDS.1551;Product=DNA recombination protein RmuC;locus_tag=acIB-AMD-7.genome.CDS.1551
+acIB-AMD-7.contig.30	feature	CDS	11268	12341	.	-	0	ID=acIB-AMD-7.genome.CDS.1550;Product=GTP-binding and nucleic acid-binding protein YchF;locus_tag=acIB-AMD-7.genome.CDS.1550
+acIB-AMD-7.contig.30	feature	CDS	9377	11275	.	-	0	ID=acIB-AMD-7.genome.CDS.1549;Product=GTP-binding protein TypA/BipA;locus_tag=acIB-AMD-7.genome.CDS.1549
+acIB-AMD-7.contig.30	feature	CDS	6250	9324	.	-	0	ID=acIB-AMD-7.genome.CDS.1548;Product=ATP-dependent DNA helicase SCO5183;locus_tag=acIB-AMD-7.genome.CDS.1548
+acIB-AMD-7.contig.30	feature	CDS	2993	6253	.	-	0	ID=acIB-AMD-7.genome.CDS.1547;Product=ATP-dependent DNA helicase SCO5184;locus_tag=acIB-AMD-7.genome.CDS.1547
+acIB-AMD-7.contig.30	feature	CDS	2148	3002	.	+	0	ID=acIB-AMD-7.genome.CDS.1546;Product=;locus_tag=acIB-AMD-7.genome.CDS.1546
+acIB-AMD-7.contig.30	feature	CDS	1202	2119	.	-	0	ID=acIB-AMD-7.genome.CDS.1545;Product=NADH pyrophosphatase %28EC 3.6.1.22%29;locus_tag=acIB-AMD-7.genome.CDS.1545
+acIB-AMD-7.contig.30	feature	CDS	3	1211	.	-	0	ID=acIB-AMD-7.genome.CDS.1544;Product=ATP-dependent DNA helicase UvrD/PcrA%2C actinomycete paralog;locus_tag=acIB-AMD-7.genome.CDS.1544
+acIB-AMD-7.contig.31	feature	CDS	12460	13419	.	-	0	ID=acIB-AMD-7.genome.CDS.1562;Product=TsaC protein %28YrdC-Sua5 domains%29 required for threonylcarbamoyladenosine t%286%29A37 modification in tRNA;locus_tag=acIB-AMD-7.genome.CDS.1562
+acIB-AMD-7.contig.31	feature	CDS	11898	12287	.	-	0	ID=acIB-AMD-7.genome.CDS.1561;Product=;locus_tag=acIB-AMD-7.genome.CDS.1561
+acIB-AMD-7.contig.31	feature	tRNA	11735	11810	.	-	.	ID=acIB-AMD-7.genome.rna.17;Product=tRNA-Lys-TTT;locus_tag=acIB-AMD-7.genome.rna.17
+acIB-AMD-7.contig.31	feature	CDS	10626	11612	.	-	0	ID=acIB-AMD-7.genome.CDS.1560;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1560
+acIB-AMD-7.contig.31	feature	CDS	8601	10505	.	-	0	ID=acIB-AMD-7.genome.CDS.1559;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1559
+acIB-AMD-7.contig.31	feature	CDS	5954	8362	.	-	0	ID=acIB-AMD-7.genome.CDS.1558;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1558
+acIB-AMD-7.contig.31	feature	CDS	4180	5844	.	-	0	ID=acIB-AMD-7.genome.CDS.1557;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1557
+acIB-AMD-7.contig.31	feature	CDS	2917	4131	.	-	0	ID=acIB-AMD-7.genome.CDS.1556;Product=UDP-glucose 6-dehydrogenase %28EC 1.1.1.22%29;locus_tag=acIB-AMD-7.genome.CDS.1556
+acIB-AMD-7.contig.31	feature	CDS	1970	2920	.	+	0	ID=acIB-AMD-7.genome.CDS.1555;Product=dTDP-glucose 4%2C6-dehydratase %28EC 4.2.1.46%29;locus_tag=acIB-AMD-7.genome.CDS.1555
+acIB-AMD-7.contig.31	feature	CDS	1393	1881	.	-	0	ID=acIB-AMD-7.genome.CDS.1554;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1554
+acIB-AMD-7.contig.31	feature	CDS	494	1396	.	-	0	ID=acIB-AMD-7.genome.CDS.1553;Product=Fructokinase %28EC 2.7.1.4%29;locus_tag=acIB-AMD-7.genome.CDS.1553
+acIB-AMD-7.contig.31	feature	CDS	1	489	.	-	0	ID=acIB-AMD-7.genome.CDS.1552;Product=;locus_tag=acIB-AMD-7.genome.CDS.1552
+acIB-AMD-7.contig.32	feature	CDS	12898	13476	.	-	0	ID=acIB-AMD-7.genome.CDS.1573;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1573
+acIB-AMD-7.contig.32	feature	CDS	12248	12901	.	+	0	ID=acIB-AMD-7.genome.CDS.1572;Product=Trk system potassium uptake protein TrkA;locus_tag=acIB-AMD-7.genome.CDS.1572
+acIB-AMD-7.contig.32	feature	CDS	11601	12251	.	+	0	ID=acIB-AMD-7.genome.CDS.1571;Product=Trk system potassium uptake protein TrkA;locus_tag=acIB-AMD-7.genome.CDS.1571
+acIB-AMD-7.contig.32	feature	CDS	10348	11553	.	-	0	ID=acIB-AMD-7.genome.CDS.1570;Product=23S rRNA %28Uracil-5-%29 -methyltransferase RumA %28EC 2.1.1.-%29;locus_tag=acIB-AMD-7.genome.CDS.1570
+acIB-AMD-7.contig.32	feature	CDS	7649	10309	.	-	0	ID=acIB-AMD-7.genome.CDS.1569;Product=Aconitate hydratase %28EC 4.2.1.3%29;locus_tag=acIB-AMD-7.genome.CDS.1569
+acIB-AMD-7.contig.32	feature	CDS	5679	7613	.	-	0	ID=acIB-AMD-7.genome.CDS.1568;Product=1-deoxy-D-xylulose 5-phosphate synthase %28EC 2.2.1.7%29;locus_tag=acIB-AMD-7.genome.CDS.1568
+acIB-AMD-7.contig.32	feature	CDS	2427	3632	.	+	0	ID=acIB-AMD-7.genome.CDS.1566;Product=3-ketoacyl-CoA thiolase %28EC 2.3.1.16%29;locus_tag=acIB-AMD-7.genome.CDS.1566
+acIB-AMD-7.contig.32	feature	CDS	972	2264	.	+	0	ID=acIB-AMD-7.genome.CDS.1565;Product=Ribonuclease D %28EC 3.1.26.3%29;locus_tag=acIB-AMD-7.genome.CDS.1565
+acIB-AMD-7.contig.32	feature	CDS	426	965	.	+	0	ID=acIB-AMD-7.genome.CDS.1564;Product=Uncharacterized protein Q1 colocalized with Q;locus_tag=acIB-AMD-7.genome.CDS.1564
+acIB-AMD-7.contig.32	feature	CDS	3	335	.	-	0	ID=acIB-AMD-7.genome.CDS.1563;Product=;locus_tag=acIB-AMD-7.genome.CDS.1563
+acIB-AMD-7.contig.33	feature	CDS	12830	13393	.	-	0	ID=acIB-AMD-7.genome.CDS.1583;Product=;locus_tag=acIB-AMD-7.genome.CDS.1583
+acIB-AMD-7.contig.33	feature	CDS	12018	12773	.	-	0	ID=acIB-AMD-7.genome.CDS.1582;Product=;locus_tag=acIB-AMD-7.genome.CDS.1582
+acIB-AMD-7.contig.33	feature	CDS	11471	12007	.	+	0	ID=acIB-AMD-7.genome.CDS.1581;Product=Orotate phosphoribosyltransferase %28EC 2.4.2.10%29;locus_tag=acIB-AMD-7.genome.CDS.1581
+acIB-AMD-7.contig.33	feature	CDS	10735	11370	.	-	0	ID=acIB-AMD-7.genome.CDS.1580;Product=POSSIBLE RNA METHYLTRANSFERASE %28RNA METHYLASE%29;locus_tag=acIB-AMD-7.genome.CDS.1580
+acIB-AMD-7.contig.33	feature	CDS	6953	10588	.	-	0	ID=acIB-AMD-7.genome.CDS.1579;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1579
+acIB-AMD-7.contig.33	feature	CDS	5847	6869	.	-	0	ID=acIB-AMD-7.genome.CDS.1578;Product=Fructose-bisphosphate aldolase class II %28EC 4.1.2.13%29;locus_tag=acIB-AMD-7.genome.CDS.1578
+acIB-AMD-7.contig.33	feature	CDS	5416	5847	.	-	0	ID=acIB-AMD-7.genome.CDS.1577;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1577
+acIB-AMD-7.contig.33	feature	CDS	4089	5375	.	-	0	ID=acIB-AMD-7.genome.CDS.1576;Product=Adenylosuccinate synthetase %28EC 6.3.4.4%29;locus_tag=acIB-AMD-7.genome.CDS.1576
+acIB-AMD-7.contig.33	feature	CDS	2839	4011	.	-	0	ID=acIB-AMD-7.genome.CDS.1575;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1575
+acIB-AMD-7.contig.33	feature	CDS	37	2763	.	+	0	ID=acIB-AMD-7.genome.CDS.1574;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1574
+acIB-AMD-7.contig.34	feature	CDS	12644	13330	.	-	0	ID=acIB-AMD-7.genome.CDS.1597;Product=Excinuclease ABC subunit C;locus_tag=acIB-AMD-7.genome.CDS.1597
+acIB-AMD-7.contig.34	feature	CDS	11744	12622	.	-	0	ID=acIB-AMD-7.genome.CDS.1596;Product=FIG000506: Predicted P-loop-containing kinase;locus_tag=acIB-AMD-7.genome.CDS.1596
+acIB-AMD-7.contig.34	feature	CDS	10811	11743	.	-	0	ID=acIB-AMD-7.genome.CDS.1595;Product=FIG002813: LPPG:FO 2-phospho-L-lactate transferase like%2C CofD-like;locus_tag=acIB-AMD-7.genome.CDS.1595
+acIB-AMD-7.contig.34	feature	CDS	9792	10769	.	-	0	ID=acIB-AMD-7.genome.CDS.1594;Product=FIG001886: Cytoplasmic hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1594
+acIB-AMD-7.contig.34	feature	CDS	8705	9706	.	-	0	ID=acIB-AMD-7.genome.CDS.1593;Product=NAD-dependent glyceraldehyde-3-phosphate dehydrogenase %28EC 1.2.1.12%29;locus_tag=acIB-AMD-7.genome.CDS.1593
+acIB-AMD-7.contig.34	feature	CDS	7515	8699	.	-	0	ID=acIB-AMD-7.genome.CDS.1592;Product=Phosphoglycerate kinase %28EC 2.7.2.3%29;locus_tag=acIB-AMD-7.genome.CDS.1592
+acIB-AMD-7.contig.34	feature	CDS	6721	7503	.	-	0	ID=acIB-AMD-7.genome.CDS.1591;Product=Triosephosphate isomerase %28EC 5.3.1.1%29;locus_tag=acIB-AMD-7.genome.CDS.1591
+acIB-AMD-7.contig.34	feature	CDS	6410	6637	.	-	0	ID=acIB-AMD-7.genome.CDS.1590;Product=Preprotein translocase subunit SecG %28TC 3.A.5.1.1%29;locus_tag=acIB-AMD-7.genome.CDS.1590
+acIB-AMD-7.contig.34	feature	CDS	6047	6388	.	-	0	ID=acIB-AMD-7.genome.CDS.1589;Product=putative electron transport protein;locus_tag=acIB-AMD-7.genome.CDS.1589
+acIB-AMD-7.contig.34	feature	CDS	4538	6043	.	+	0	ID=acIB-AMD-7.genome.CDS.1588;Product=Glucose-6-phosphate isomerase %28EC 5.3.1.9%29;locus_tag=acIB-AMD-7.genome.CDS.1588
+acIB-AMD-7.contig.34	feature	CDS	3456	4538	.	+	0	ID=acIB-AMD-7.genome.CDS.1587;Product=Transaldolase %28EC 2.2.1.2%29;locus_tag=acIB-AMD-7.genome.CDS.1587
+acIB-AMD-7.contig.34	feature	CDS	1394	3463	.	+	0	ID=acIB-AMD-7.genome.CDS.1586;Product=Transketolase %28EC 2.2.1.1%29;locus_tag=acIB-AMD-7.genome.CDS.1586
+acIB-AMD-7.contig.34	feature	CDS	498	1397	.	+	0	ID=acIB-AMD-7.genome.CDS.1585;Product=Cytochrome oxidase assembly protein;locus_tag=acIB-AMD-7.genome.CDS.1585
+acIB-AMD-7.contig.34	feature	CDS	1	411	.	-	0	ID=acIB-AMD-7.genome.CDS.1584;Product=Iron-sulfur cluster regulator SufR;locus_tag=acIB-AMD-7.genome.CDS.1584
+acIB-AMD-7.contig.35	feature	CDS	12800	13339	.	+	0	ID=acIB-AMD-7.genome.CDS.1616;Product=;locus_tag=acIB-AMD-7.genome.CDS.1616
+acIB-AMD-7.contig.35	feature	CDS	12138	12731	.	+	0	ID=acIB-AMD-7.genome.CDS.1615;Product=Ribosomal-protein-S5p-alanine acetyltransferase;locus_tag=acIB-AMD-7.genome.CDS.1615
+acIB-AMD-7.contig.35	feature	CDS	11236	12135	.	+	0	ID=acIB-AMD-7.genome.CDS.1614;Product=UTP--glucose-1-phosphate uridylyltransferase %28EC 2.7.7.9%29;locus_tag=acIB-AMD-7.genome.CDS.1614
+acIB-AMD-7.contig.35	feature	CDS	10592	11170	.	-	0	ID=acIB-AMD-7.genome.CDS.1613;Product=5-formyltetrahydrofolate cyclo-ligase %28EC 6.3.3.2%29;locus_tag=acIB-AMD-7.genome.CDS.1613
+acIB-AMD-7.contig.35	feature	CDS	10200	10595	.	+	0	ID=acIB-AMD-7.genome.CDS.1612;Product=;locus_tag=acIB-AMD-7.genome.CDS.1612
+acIB-AMD-7.contig.35	feature	CDS	9784	10203	.	+	0	ID=acIB-AMD-7.genome.CDS.1611;Product=CrcB protein;locus_tag=acIB-AMD-7.genome.CDS.1611
+acIB-AMD-7.contig.35	feature	CDS	9454	9750	.	-	0	ID=acIB-AMD-7.genome.CDS.1610;Product=;locus_tag=acIB-AMD-7.genome.CDS.1610
+acIB-AMD-7.contig.35	feature	CDS	8779	9393	.	-	0	ID=acIB-AMD-7.genome.CDS.1609;Product=;locus_tag=acIB-AMD-7.genome.CDS.1609
+acIB-AMD-7.contig.35	feature	tRNA	8650	8725	.	-	.	ID=acIB-AMD-7.genome.rna.18;Product=tRNA-Arg-CCT;locus_tag=acIB-AMD-7.genome.rna.18
+acIB-AMD-7.contig.35	feature	CDS	8131	8595	.	-	0	ID=acIB-AMD-7.genome.CDS.1608;Product=Mg%282%2B%29-transport-ATPase-associated protein MgtC;locus_tag=acIB-AMD-7.genome.CDS.1608
+acIB-AMD-7.contig.35	feature	CDS	7262	8134	.	+	0	ID=acIB-AMD-7.genome.CDS.1607;Product=NLP/P60 family protein;locus_tag=acIB-AMD-7.genome.CDS.1607
+acIB-AMD-7.contig.35	feature	CDS	5821	7212	.	-	0	ID=acIB-AMD-7.genome.CDS.1606;Product=Deoxyribodipyrimidine photolyase %28EC 4.1.99.3%29;locus_tag=acIB-AMD-7.genome.CDS.1606
+acIB-AMD-7.contig.35	feature	CDS	5196	5843	.	+	0	ID=acIB-AMD-7.genome.CDS.1605;Product=Pyridoxamine 5%27-phosphate oxidase %28EC 1.4.3.5%29;locus_tag=acIB-AMD-7.genome.CDS.1605
+acIB-AMD-7.contig.35	feature	CDS	4016	5122	.	-	0	ID=acIB-AMD-7.genome.CDS.1604;Product=Citrate synthase %28si%29 %28EC 2.3.3.1%29;locus_tag=acIB-AMD-7.genome.CDS.1604
+acIB-AMD-7.contig.35	feature	CDS	2892	4013	.	-	0	ID=acIB-AMD-7.genome.CDS.1603;Product=Phosphoserine aminotransferase %28EC 2.6.1.52%29;locus_tag=acIB-AMD-7.genome.CDS.1603
+acIB-AMD-7.contig.35	feature	CDS	2519	2821	.	-	0	ID=acIB-AMD-7.genome.CDS.1602;Product=;locus_tag=acIB-AMD-7.genome.CDS.1602
+acIB-AMD-7.contig.35	feature	CDS	2086	2388	.	-	0	ID=acIB-AMD-7.genome.CDS.1601;Product=;locus_tag=acIB-AMD-7.genome.CDS.1601
+acIB-AMD-7.contig.35	feature	CDS	1182	2063	.	-	0	ID=acIB-AMD-7.genome.CDS.1600;Product=5-methyltetrahydrofolate--homocysteine methyltransferase %28EC 2.1.1.13%29;locus_tag=acIB-AMD-7.genome.CDS.1600
+acIB-AMD-7.contig.35	feature	CDS	501	1175	.	-	0	ID=acIB-AMD-7.genome.CDS.1599;Product=SpoU rRNA methylase family protein;locus_tag=acIB-AMD-7.genome.CDS.1599
+acIB-AMD-7.contig.36	feature	CDS	12396	12716	.	+	0	ID=acIB-AMD-7.genome.CDS.1632;Product=Deoxyribose-phosphate aldolase %28EC 4.1.2.4%29;locus_tag=acIB-AMD-7.genome.CDS.1632
+acIB-AMD-7.contig.36	feature	CDS	10786	12399	.	+	0	ID=acIB-AMD-7.genome.CDS.1631;Product=Phosphomannomutase %28EC 5.4.2.8%29;locus_tag=acIB-AMD-7.genome.CDS.1631
+acIB-AMD-7.contig.36	feature	CDS	9980	10789	.	+	0	ID=acIB-AMD-7.genome.CDS.1630;Product=Purine nucleoside phosphorylase %28EC 2.4.2.1%29;locus_tag=acIB-AMD-7.genome.CDS.1630
+acIB-AMD-7.contig.36	feature	CDS	9358	9957	.	+	0	ID=acIB-AMD-7.genome.CDS.1629;Product=Septum formation protein Maf;locus_tag=acIB-AMD-7.genome.CDS.1629
+acIB-AMD-7.contig.36	feature	CDS	8516	9337	.	-	0	ID=acIB-AMD-7.genome.CDS.1628;Product=Phosphoribosylaminoimidazole carboxylase ATPase subunit %28EC 4.1.1.21%29;locus_tag=acIB-AMD-7.genome.CDS.1628
+acIB-AMD-7.contig.36	feature	CDS	8123	8515	.	+	0	ID=acIB-AMD-7.genome.CDS.1627;Product=Succinyl-CoA synthetase%2C alpha subunit-related enzymes;locus_tag=acIB-AMD-7.genome.CDS.1627
+acIB-AMD-7.contig.36	feature	CDS	6814	8130	.	+	0	ID=acIB-AMD-7.genome.CDS.1626;Product=UDP-glucose 6-dehydrogenase %28EC 1.1.1.22%29;locus_tag=acIB-AMD-7.genome.CDS.1626
+acIB-AMD-7.contig.36	feature	CDS	5685	6785	.	+	0	ID=acIB-AMD-7.genome.CDS.1625;Product=Cell envelope-associated transcriptional attenuator LytR-CpsA-Psr%2C subfamily A1 %28as in PMID19099556%29;locus_tag=acIB-AMD-7.genome.CDS.1625
+acIB-AMD-7.contig.36	feature	CDS	4651	5625	.	-	0	ID=acIB-AMD-7.genome.CDS.1624;Product=putative glycosyl transferase;locus_tag=acIB-AMD-7.genome.CDS.1624
+acIB-AMD-7.contig.36	feature	CDS	3722	4654	.	+	0	ID=acIB-AMD-7.genome.CDS.1623;Product=2%2C3%2C4%2C5-tetrahydropyridine-2%2C6-dicarboxylate N-succinyltransferase %28EC 2.3.1.117%29;locus_tag=acIB-AMD-7.genome.CDS.1623
+acIB-AMD-7.contig.36	feature	CDS	3141	3677	.	-	0	ID=acIB-AMD-7.genome.CDS.1622;Product=Lysine decarboxylase family;locus_tag=acIB-AMD-7.genome.CDS.1622
+acIB-AMD-7.contig.36	feature	CDS	2683	3144	.	-	0	ID=acIB-AMD-7.genome.CDS.1621;Product=;locus_tag=acIB-AMD-7.genome.CDS.1621
+acIB-AMD-7.contig.36	feature	CDS	2448	2645	.	-	0	ID=acIB-AMD-7.genome.CDS.1620;Product=;locus_tag=acIB-AMD-7.genome.CDS.1620
+acIB-AMD-7.contig.36	feature	CDS	2178	2357	.	-	0	ID=acIB-AMD-7.genome.CDS.1619;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1619
+acIB-AMD-7.contig.36	feature	CDS	658	2151	.	-	0	ID=acIB-AMD-7.genome.CDS.1618;Product=Cytosol aminopeptidase PepA %28EC 3.4.11.1%29;locus_tag=acIB-AMD-7.genome.CDS.1618
+acIB-AMD-7.contig.36	feature	CDS	20	661	.	-	0	ID=acIB-AMD-7.genome.CDS.619;Product=FIG00945644: hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.619
+acIB-AMD-7.contig.37	feature	CDS	12237	12599	.	-	0	ID=acIB-AMD-7.genome.CDS.1646;Product=Triosephosphate isomerase %28EC 5.3.1.1%29;locus_tag=acIB-AMD-7.genome.CDS.1646
+acIB-AMD-7.contig.37	feature	CDS	11874	12146	.	-	0	ID=acIB-AMD-7.genome.CDS.1645;Product=;locus_tag=acIB-AMD-7.genome.CDS.1645
+acIB-AMD-7.contig.37	feature	CDS	10011	11882	.	+	0	ID=acIB-AMD-7.genome.CDS.1644;Product=ABC transporter%2C ATP-binding/permease protein;locus_tag=acIB-AMD-7.genome.CDS.1644
+acIB-AMD-7.contig.37	feature	CDS	9668	9979	.	+	0	ID=acIB-AMD-7.genome.CDS.1643;Product=PaaD-like protein %28DUF59%29 involved in Fe-S cluster assembly;locus_tag=acIB-AMD-7.genome.CDS.1643
+acIB-AMD-7.contig.37	feature	CDS	9224	9658	.	+	0	ID=acIB-AMD-7.genome.CDS.1642;Product=Putative iron-sulfur cluster assembly scaffold protein for SUF system%2C SufE2;locus_tag=acIB-AMD-7.genome.CDS.1642
+acIB-AMD-7.contig.37	feature	CDS	7976	9223	.	+	0	ID=acIB-AMD-7.genome.CDS.1641;Product=Cysteine desulfurase %28EC 2.8.1.7%29%2C SufS subfamily;locus_tag=acIB-AMD-7.genome.CDS.1641
+acIB-AMD-7.contig.37	feature	CDS	7220	7972	.	+	0	ID=acIB-AMD-7.genome.CDS.1640;Product=Iron-sulfur cluster assembly ATPase protein SufC;locus_tag=acIB-AMD-7.genome.CDS.1640
+acIB-AMD-7.contig.37	feature	CDS	6909	7205	.	+	0	ID=acIB-AMD-7.genome.CDS.1639;Product=Ferredoxin%2C 2Fe-2S;locus_tag=acIB-AMD-7.genome.CDS.1639
+acIB-AMD-7.contig.37	feature	CDS	5824	6909	.	+	0	ID=acIB-AMD-7.genome.CDS.1638;Product=Iron-sulfur cluster assembly protein SufD;locus_tag=acIB-AMD-7.genome.CDS.1638
+acIB-AMD-7.contig.37	feature	CDS	4412	5824	.	+	0	ID=acIB-AMD-7.genome.CDS.1637;Product=Iron-sulfur cluster assembly protein SufB;locus_tag=acIB-AMD-7.genome.CDS.1637
+acIB-AMD-7.contig.37	feature	CDS	3693	4412	.	+	0	ID=acIB-AMD-7.genome.CDS.1636;Product=Iron-sulfur cluster regulator SufR;locus_tag=acIB-AMD-7.genome.CDS.1636
+acIB-AMD-7.contig.37	feature	CDS	2704	3606	.	-	0	ID=acIB-AMD-7.genome.CDS.1635;Product=Cytochrome oxidase assembly protein;locus_tag=acIB-AMD-7.genome.CDS.1635
+acIB-AMD-7.contig.37	feature	CDS	641	2707	.	-	0	ID=acIB-AMD-7.genome.CDS.1634;Product=Transketolase %28EC 2.2.1.1%29;locus_tag=acIB-AMD-7.genome.CDS.1634
+acIB-AMD-7.contig.37	feature	CDS	1	648	.	-	0	ID=acIB-AMD-7.genome.CDS.1633;Product=Transaldolase %28EC 2.2.1.2%29;locus_tag=acIB-AMD-7.genome.CDS.1633
+acIB-AMD-7.contig.38	feature	CDS	11548	12525	.	+	0	ID=acIB-AMD-7.genome.CDS.1656;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1656
+acIB-AMD-7.contig.38	feature	CDS	11053	11517	.	+	0	ID=acIB-AMD-7.genome.CDS.1655;Product=;locus_tag=acIB-AMD-7.genome.CDS.1655
+acIB-AMD-7.contig.38	feature	CDS	9591	10979	.	+	0	ID=acIB-AMD-7.genome.CDS.1654;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1654
+acIB-AMD-7.contig.38	feature	CDS	7927	9588	.	+	0	ID=acIB-AMD-7.genome.CDS.1653;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1653
+acIB-AMD-7.contig.38	feature	CDS	7283	7927	.	+	0	ID=acIB-AMD-7.genome.CDS.1652;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1652
+acIB-AMD-7.contig.38	feature	CDS	2581	7281	.	+	0	ID=acIB-AMD-7.genome.CDS.1651;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1651
+acIB-AMD-7.contig.38	feature	CDS	2170	2580	.	+	0	ID=acIB-AMD-7.genome.CDS.1650;Product=;locus_tag=acIB-AMD-7.genome.CDS.1650
+acIB-AMD-7.contig.38	feature	CDS	1961	2173	.	+	0	ID=acIB-AMD-7.genome.CDS.1649;Product=;locus_tag=acIB-AMD-7.genome.CDS.1649
+acIB-AMD-7.contig.38	feature	CDS	1788	1931	.	+	0	ID=acIB-AMD-7.genome.CDS.1648;Product=;locus_tag=acIB-AMD-7.genome.CDS.1648
+acIB-AMD-7.contig.38	feature	CDS	13	1770	.	+	0	ID=acIB-AMD-7.genome.CDS.1647;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1647
+acIB-AMD-7.contig.39	feature	CDS	11722	12387	.	+	0	ID=acIB-AMD-7.genome.CDS.1671;Product=Glucose-methanol-choline %28GMC%29 oxidoreductase:NAD binding site;locus_tag=acIB-AMD-7.genome.CDS.1671
+acIB-AMD-7.contig.39	feature	CDS	10931	11725	.	+	0	ID=acIB-AMD-7.genome.CDS.1670;Product=Fructose ABC transporter%2C ATP-binding component FrcA;locus_tag=acIB-AMD-7.genome.CDS.1670
+acIB-AMD-7.contig.39	feature	CDS	9894	10934	.	+	0	ID=acIB-AMD-7.genome.CDS.1669;Product=Fructose ABC transporter%2C permease component FrcC;locus_tag=acIB-AMD-7.genome.CDS.1669
+acIB-AMD-7.contig.39	feature	CDS	8686	9747	.	+	0	ID=acIB-AMD-7.genome.CDS.1668;Product=Fructose ABC transporter%2C substrate-binding component FrcB;locus_tag=acIB-AMD-7.genome.CDS.1668
+acIB-AMD-7.contig.39	feature	CDS	8179	8568	.	+	0	ID=acIB-AMD-7.genome.CDS.1667;Product=;locus_tag=acIB-AMD-7.genome.CDS.1667
+acIB-AMD-7.contig.39	feature	CDS	7255	8169	.	+	0	ID=acIB-AMD-7.genome.CDS.1666;Product=Ribokinase %28EC 2.7.1.15%29;locus_tag=acIB-AMD-7.genome.CDS.1666
+acIB-AMD-7.contig.39	feature	CDS	6097	7092	.	-	0	ID=acIB-AMD-7.genome.CDS.1665;Product=Sorbitol dehydrogenase %28EC 1.1.1.14%29;locus_tag=acIB-AMD-7.genome.CDS.1665
+acIB-AMD-7.contig.39	feature	CDS	4844	6082	.	-	0	ID=acIB-AMD-7.genome.CDS.1664;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1664
+acIB-AMD-7.contig.39	feature	CDS	4019	4837	.	+	0	ID=acIB-AMD-7.genome.CDS.1663;Product=;locus_tag=acIB-AMD-7.genome.CDS.1663
+acIB-AMD-7.contig.39	feature	CDS	3210	4025	.	+	0	ID=acIB-AMD-7.genome.CDS.1662;Product=3-oxoacyl-%5Bacyl-carrier protein%5D reductase %28EC 1.1.1.100%29;locus_tag=acIB-AMD-7.genome.CDS.1662
+acIB-AMD-7.contig.39	feature	CDS	2159	3196	.	+	0	ID=acIB-AMD-7.genome.CDS.1661;Product=Xylitol dehydrogenase %28EC 1.1.1.9%29;locus_tag=acIB-AMD-7.genome.CDS.1661
+acIB-AMD-7.contig.39	feature	CDS	1957	2154	.	+	0	ID=acIB-AMD-7.genome.CDS.1660;Product=;locus_tag=acIB-AMD-7.genome.CDS.1660
+acIB-AMD-7.contig.39	feature	CDS	1088	1954	.	+	0	ID=acIB-AMD-7.genome.CDS.1659;Product=Maltose/maltodextrin ABC transporter%2C permease protein MalG;locus_tag=acIB-AMD-7.genome.CDS.1659
+acIB-AMD-7.contig.39	feature	CDS	204	1091	.	+	0	ID=acIB-AMD-7.genome.CDS.1658;Product=Various polyols ABC transporter%2C permease component 1;locus_tag=acIB-AMD-7.genome.CDS.1658
+acIB-AMD-7.contig.39	feature	CDS	1	132	.	+	0	ID=acIB-AMD-7.genome.CDS.1657;Product=N-Acetyl-D-glucosamine ABC transport system%2C sugar-binding protein;locus_tag=acIB-AMD-7.genome.CDS.1657
+acIB-AMD-7.contig.4	feature	CDS	23240	23968	.	+	0	ID=acIB-AMD-7.genome.CDS.1082;Product=Dolichol-phosphate mannosyltransferase %28EC 2.4.1.83%29 in lipid-linked oligosaccharide synthesis cluster;locus_tag=acIB-AMD-7.genome.CDS.1082
+acIB-AMD-7.contig.4	feature	CDS	21861	23243	.	+	0	ID=acIB-AMD-7.genome.CDS.1081;Product=Apolipoprotein N-acyltransferase %28EC 2.3.1.-%29 / Copper homeostasis protein CutE;locus_tag=acIB-AMD-7.genome.CDS.1081
+acIB-AMD-7.contig.4	feature	CDS	20962	21864	.	+	0	ID=acIB-AMD-7.genome.CDS.1080;Product=DNA polymerase I %28EC 2.7.7.7%29;locus_tag=acIB-AMD-7.genome.CDS.1080
+acIB-AMD-7.contig.4	feature	CDS	18623	20965	.	+	0	ID=acIB-AMD-7.genome.CDS.1079;Product=FIG005666: putative helicase;locus_tag=acIB-AMD-7.genome.CDS.1079
+acIB-AMD-7.contig.4	feature	CDS	17745	18626	.	+	0	ID=acIB-AMD-7.genome.CDS.1078;Product=Diacylglycerol kinase-related protein;locus_tag=acIB-AMD-7.genome.CDS.1078
+acIB-AMD-7.contig.4	feature	CDS	16938	17744	.	+	0	ID=acIB-AMD-7.genome.CDS.1077;Product=Twin-arginine translocation protein TatC;locus_tag=acIB-AMD-7.genome.CDS.1077
+acIB-AMD-7.contig.4	feature	CDS	16741	16932	.	+	0	ID=acIB-AMD-7.genome.CDS.1076;Product=Twin-arginine translocation protein TatA;locus_tag=acIB-AMD-7.genome.CDS.1076
+acIB-AMD-7.contig.4	feature	CDS	15801	16736	.	+	0	ID=acIB-AMD-7.genome.CDS.1075;Product=FIG019733: possible DNA-binding protein;locus_tag=acIB-AMD-7.genome.CDS.1075
+acIB-AMD-7.contig.4	feature	CDS	14885	15808	.	+	0	ID=acIB-AMD-7.genome.CDS.1074;Product=FIG005453: Putative DeoR-family transcriptional regulator;locus_tag=acIB-AMD-7.genome.CDS.1074
+acIB-AMD-7.contig.4	feature	CDS	14338	14841	.	-	0	ID=acIB-AMD-7.genome.CDS.1073;Product=FKBP-type peptidyl-prolyl cis-trans isomerase;locus_tag=acIB-AMD-7.genome.CDS.1073
+acIB-AMD-7.contig.4	feature	CDS	13491	14336	.	+	0	ID=acIB-AMD-7.genome.CDS.1072;Product=tRNA %28adenine%2858%29-N%281%29%29-methyltransferase %28EC 2.1.1.220%29;locus_tag=acIB-AMD-7.genome.CDS.1072
+acIB-AMD-7.contig.4	feature	CDS	12826	13494	.	+	0	ID=acIB-AMD-7.genome.CDS.1071;Product=;locus_tag=acIB-AMD-7.genome.CDS.1071
+acIB-AMD-7.contig.4	feature	CDS	9356	12829	.	+	0	ID=acIB-AMD-7.genome.CDS.1070;Product=5-methyltetrahydrofolate--homocysteine methyltransferase %28EC 2.1.1.13%29;locus_tag=acIB-AMD-7.genome.CDS.1070
+acIB-AMD-7.contig.4	feature	CDS	8089	9312	.	+	0	ID=acIB-AMD-7.genome.CDS.1069;Product=L-cysteine:1D-myo-inosityl 2-amino-2-deoxy-alpha-D-glucopyranoside ligase MshC;locus_tag=acIB-AMD-7.genome.CDS.1069
+acIB-AMD-7.contig.4	feature	CDS	7377	8072	.	+	0	ID=acIB-AMD-7.genome.CDS.1068;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1068
+acIB-AMD-7.contig.4	feature	CDS	6841	7380	.	+	0	ID=acIB-AMD-7.genome.CDS.1067;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1067
+acIB-AMD-7.contig.4	feature	CDS	6167	6841	.	+	0	ID=acIB-AMD-7.genome.CDS.1066;Product=;locus_tag=acIB-AMD-7.genome.CDS.1066
+acIB-AMD-7.contig.4	feature	CDS	5176	6117	.	-	0	ID=acIB-AMD-7.genome.CDS.1065;Product=putative oxidoreductase;locus_tag=acIB-AMD-7.genome.CDS.1065
+acIB-AMD-7.contig.4	feature	CDS	3850	5169	.	+	0	ID=acIB-AMD-7.genome.CDS.1064;Product=Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase and related deacylases;locus_tag=acIB-AMD-7.genome.CDS.1064
+acIB-AMD-7.contig.4	feature	tRNA	3702	3785	.	-	.	ID=acIB-AMD-7.genome.rna.8;Product=tRNA-Leu-GAG;locus_tag=acIB-AMD-7.genome.rna.8
+acIB-AMD-7.contig.4	feature	CDS	3145	3669	.	-	0	ID=acIB-AMD-7.genome.CDS.1063;Product=Adenine phosphoribosyltransferase %28EC 2.4.2.7%29;locus_tag=acIB-AMD-7.genome.CDS.1063
+acIB-AMD-7.contig.4	feature	CDS	2502	3140	.	-	0	ID=acIB-AMD-7.genome.CDS.1062;Product=Thymidine kinase %28EC 2.7.1.21%29;locus_tag=acIB-AMD-7.genome.CDS.1062
+acIB-AMD-7.contig.4	feature	CDS	1753	2487	.	+	0	ID=acIB-AMD-7.genome.CDS.1061;Product=membrane protein%2C putative;locus_tag=acIB-AMD-7.genome.CDS.1061
+acIB-AMD-7.contig.4	feature	CDS	890	1753	.	+	0	ID=acIB-AMD-7.genome.CDS.1060;Product=Undecaprenyl-diphosphatase %28EC 3.6.1.27%29;locus_tag=acIB-AMD-7.genome.CDS.1060
+acIB-AMD-7.contig.4	feature	CDS	140	847	.	-	0	ID=acIB-AMD-7.genome.CDS.1059;Product=FIG00761799: membrane protein;locus_tag=acIB-AMD-7.genome.CDS.1059
+acIB-AMD-7.contig.40	feature	CDS	11370	12311	.	-	0	ID=acIB-AMD-7.genome.CDS.1689;Product=;locus_tag=acIB-AMD-7.genome.CDS.1689
+acIB-AMD-7.contig.40	feature	CDS	11068	11364	.	-	0	ID=acIB-AMD-7.genome.CDS.1688;Product=Twin-arginine translocation protein TatB;locus_tag=acIB-AMD-7.genome.CDS.1688
+acIB-AMD-7.contig.40	feature	CDS	9956	11071	.	-	0	ID=acIB-AMD-7.genome.CDS.1687;Product=Mrp protein homolog;locus_tag=acIB-AMD-7.genome.CDS.1687
+acIB-AMD-7.contig.40	feature	CDS	9468	9959	.	+	0	ID=acIB-AMD-7.genome.CDS.1686;Product=PROBABLE MEMBRANE PROTEIN;locus_tag=acIB-AMD-7.genome.CDS.1686
+acIB-AMD-7.contig.40	feature	CDS	8191	9465	.	+	0	ID=acIB-AMD-7.genome.CDS.1685;Product=Mg/Co/Ni transporter MgtE%2C CBS domain-containing;locus_tag=acIB-AMD-7.genome.CDS.1685
+acIB-AMD-7.contig.40	feature	CDS	7221	8126	.	-	0	ID=acIB-AMD-7.genome.CDS.1684;Product=;locus_tag=acIB-AMD-7.genome.CDS.1684
+acIB-AMD-7.contig.40	feature	CDS	6383	7228	.	-	0	ID=acIB-AMD-7.genome.CDS.1683;Product=FIG00031715: Predicted metal-dependent phosphoesterases %28PHP family%29;locus_tag=acIB-AMD-7.genome.CDS.1683
+acIB-AMD-7.contig.40	feature	CDS	6119	6382	.	+	0	ID=acIB-AMD-7.genome.CDS.1682;Product=;locus_tag=acIB-AMD-7.genome.CDS.1682
+acIB-AMD-7.contig.40	feature	CDS	5473	6081	.	+	0	ID=acIB-AMD-7.genome.CDS.1681;Product=Transcriptional regulator%2C TetR family;locus_tag=acIB-AMD-7.genome.CDS.1681
+acIB-AMD-7.contig.40	feature	CDS	4542	5387	.	-	0	ID=acIB-AMD-7.genome.CDS.1680;Product=1D-myo-inositol 2-acetamido-2-deoxy-alpha-D-glucopyranoside deacetylase %28EC 3.5.1.103%29;locus_tag=acIB-AMD-7.genome.CDS.1680
+acIB-AMD-7.contig.40	feature	CDS	4219	4542	.	-	0	ID=acIB-AMD-7.genome.CDS.1679;Product=;locus_tag=acIB-AMD-7.genome.CDS.1679
+acIB-AMD-7.contig.40	feature	CDS	2825	4222	.	+	0	ID=acIB-AMD-7.genome.CDS.1678;Product=Cysteinyl-tRNA synthetase %28EC 6.1.1.16%29;locus_tag=acIB-AMD-7.genome.CDS.1678
+acIB-AMD-7.contig.40	feature	CDS	2646	2828	.	+	0	ID=acIB-AMD-7.genome.CDS.1677;Product=;locus_tag=acIB-AMD-7.genome.CDS.1677
+acIB-AMD-7.contig.40	feature	CDS	2233	2553	.	-	0	ID=acIB-AMD-7.genome.CDS.1676;Product=Ferredoxin;locus_tag=acIB-AMD-7.genome.CDS.1676
+acIB-AMD-7.contig.40	feature	CDS	1179	2195	.	-	0	ID=acIB-AMD-7.genome.CDS.1675;Product=N-succinyl-L%2CL-diaminopimelate aminotransferase %28EC 2.6.1.17%29%2C type 2;locus_tag=acIB-AMD-7.genome.CDS.1675
+acIB-AMD-7.contig.40	feature	CDS	580	1182	.	-	0	ID=acIB-AMD-7.genome.CDS.1674;Product=D-glycero-D-manno-heptose 1-phosphate guanosyltransferase;locus_tag=acIB-AMD-7.genome.CDS.1674
+acIB-AMD-7.contig.40	feature	CDS	273	608	.	-	0	ID=acIB-AMD-7.genome.CDS.1673;Product=;locus_tag=acIB-AMD-7.genome.CDS.1673
+acIB-AMD-7.contig.40	feature	CDS	2	148	.	-	0	ID=acIB-AMD-7.genome.CDS.1672;Product=Sporulation regulatory protein WhiB;locus_tag=acIB-AMD-7.genome.CDS.1672
+acIB-AMD-7.contig.41	feature	CDS	10970	12112	.	+	0	ID=acIB-AMD-7.genome.CDS.1700;Product=Quinolinate synthetase %28EC 2.5.1.72%29;locus_tag=acIB-AMD-7.genome.CDS.1700
+acIB-AMD-7.contig.41	feature	CDS	10510	10872	.	-	0	ID=acIB-AMD-7.genome.CDS.1699;Product=probable iron binding protein from the HesB_IscA_SufA family;locus_tag=acIB-AMD-7.genome.CDS.1699
+acIB-AMD-7.contig.41	feature	CDS	9501	10490	.	-	0	ID=acIB-AMD-7.genome.CDS.1698;Product=putative Adenosine kinase %28EC 2.7.1.20%29;locus_tag=acIB-AMD-7.genome.CDS.1698
+acIB-AMD-7.contig.41	feature	CDS	8485	9504	.	+	0	ID=acIB-AMD-7.genome.CDS.1697;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1697
+acIB-AMD-7.contig.41	feature	CDS	7622	8389	.	-	0	ID=acIB-AMD-7.genome.CDS.1696;Product=Cytochrome c oxidase polypeptide II %28EC 1.9.3.1%29;locus_tag=acIB-AMD-7.genome.CDS.1696
+acIB-AMD-7.contig.41	feature	CDS	5964	7625	.	-	0	ID=acIB-AMD-7.genome.CDS.1695;Product=Cytochrome c oxidase polypeptide I %28EC 1.9.3.1%29;locus_tag=acIB-AMD-7.genome.CDS.1695
+acIB-AMD-7.contig.41	feature	CDS	5563	5964	.	-	0	ID=acIB-AMD-7.genome.CDS.1694;Product=;locus_tag=acIB-AMD-7.genome.CDS.1694
+acIB-AMD-7.contig.41	feature	CDS	5102	5560	.	-	0	ID=acIB-AMD-7.genome.CDS.1693;Product=;locus_tag=acIB-AMD-7.genome.CDS.1693
+acIB-AMD-7.contig.41	feature	CDS	1758	5105	.	-	0	ID=acIB-AMD-7.genome.CDS.1692;Product=Proline dehydrogenase %28EC 1.5.99.8%29 %28Proline oxidase%29 / Delta-1-pyrroline-5-carboxylate dehydrogenase %28EC 1.2.1.88%29;locus_tag=acIB-AMD-7.genome.CDS.1692
+acIB-AMD-7.contig.41	feature	CDS	406	1755	.	+	0	ID=acIB-AMD-7.genome.CDS.1691;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1691
+acIB-AMD-7.contig.41	feature	CDS	3	278	.	+	0	ID=acIB-AMD-7.genome.CDS.1690;Product=Ubiquinol--cytochrome c reductase%2C cytochrome B subunit %28EC 1.10.2.2%29;locus_tag=acIB-AMD-7.genome.CDS.1690
+acIB-AMD-7.contig.42	feature	CDS	11889	12026	.	-	0	ID=acIB-AMD-7.genome.CDS.1713;Product=;locus_tag=acIB-AMD-7.genome.CDS.1713
+acIB-AMD-7.contig.42	feature	CDS	10672	11892	.	+	0	ID=acIB-AMD-7.genome.CDS.1712;Product=L-lactate dehydrogenase %28EC 1.1.2.3%29;locus_tag=acIB-AMD-7.genome.CDS.1712
+acIB-AMD-7.contig.42	feature	CDS	9824	10669	.	+	0	ID=acIB-AMD-7.genome.CDS.1711;Product=L-fuconolactone hydrolase;locus_tag=acIB-AMD-7.genome.CDS.1711
+acIB-AMD-7.contig.42	feature	CDS	8070	9821	.	+	0	ID=acIB-AMD-7.genome.CDS.1710;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1710
+acIB-AMD-7.contig.42	feature	CDS	6708	8009	.	-	0	ID=acIB-AMD-7.genome.CDS.1709;Product=L-fuconate dehydratase %28EC 4.2.1.68%29;locus_tag=acIB-AMD-7.genome.CDS.1709
+acIB-AMD-7.contig.42	feature	CDS	5678	6640	.	+	0	ID=acIB-AMD-7.genome.CDS.1708;Product=Possible fucose ABC transporter%2C substrate-binding component;locus_tag=acIB-AMD-7.genome.CDS.1708
+acIB-AMD-7.contig.42	feature	CDS	4614	5627	.	+	0	ID=acIB-AMD-7.genome.CDS.1707;Product=Ribose ABC transport system%2C permease protein RbsC %28TC 3.A.1.2.1%29;locus_tag=acIB-AMD-7.genome.CDS.1707
+acIB-AMD-7.contig.42	feature	CDS	2993	4600	.	+	0	ID=acIB-AMD-7.genome.CDS.1706;Product=Ribose ABC transport system%2C ATP-binding protein RbsA %28TC 3.A.1.2.1%29;locus_tag=acIB-AMD-7.genome.CDS.1706
+acIB-AMD-7.contig.42	feature	CDS	1959	2954	.	-	0	ID=acIB-AMD-7.genome.CDS.1705;Product=Sorbitol dehydrogenase %28EC 1.1.1.14%29;locus_tag=acIB-AMD-7.genome.CDS.1705
+acIB-AMD-7.contig.42	feature	CDS	964	1956	.	-	0	ID=acIB-AMD-7.genome.CDS.1704;Product=;locus_tag=acIB-AMD-7.genome.CDS.1704
+acIB-AMD-7.contig.42	feature	CDS	451	942	.	+	0	ID=acIB-AMD-7.genome.CDS.1703;Product=;locus_tag=acIB-AMD-7.genome.CDS.1703
+acIB-AMD-7.contig.42	feature	CDS	215	439	.	+	0	ID=acIB-AMD-7.genome.CDS.1702;Product=;locus_tag=acIB-AMD-7.genome.CDS.1702
+acIB-AMD-7.contig.42	feature	CDS	1	108	.	+	0	ID=acIB-AMD-7.genome.CDS.1701;Product=Homocysteine S-methyltransferase %28EC 2.1.1.10%29;locus_tag=acIB-AMD-7.genome.CDS.1701
+acIB-AMD-7.contig.43	feature	CDS	10637	11806	.	+	0	ID=acIB-AMD-7.genome.CDS.1724;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1724
+acIB-AMD-7.contig.43	feature	CDS	8675	10633	.	+	0	ID=acIB-AMD-7.genome.CDS.1723;Product=Multimodular transpeptidase-transglycosylase %28EC 2.4.1.129%29 %28EC 3.4.-.-%29;locus_tag=acIB-AMD-7.genome.CDS.1723
+acIB-AMD-7.contig.43	feature	CDS	8245	8658	.	+	0	ID=acIB-AMD-7.genome.CDS.1722;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1722
+acIB-AMD-7.contig.43	feature	CDS	6933	8201	.	-	0	ID=acIB-AMD-7.genome.CDS.1721;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1721
+acIB-AMD-7.contig.43	feature	CDS	5525	6958	.	+	0	ID=acIB-AMD-7.genome.CDS.1720;Product=tRNA nucleotidyltransferase %28EC 2.7.7.27%29;locus_tag=acIB-AMD-7.genome.CDS.1720
+acIB-AMD-7.contig.43	feature	CDS	4846	5439	.	-	0	ID=acIB-AMD-7.genome.CDS.1719;Product=MutT/nudix family protein;locus_tag=acIB-AMD-7.genome.CDS.1719
+acIB-AMD-7.contig.43	feature	CDS	3752	4822	.	-	0	ID=acIB-AMD-7.genome.CDS.1718;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1718
+acIB-AMD-7.contig.43	feature	CDS	2163	3752	.	-	0	ID=acIB-AMD-7.genome.CDS.1717;Product=Proposed peptidoglycan lipid II flippase MurJ;locus_tag=acIB-AMD-7.genome.CDS.1717
+acIB-AMD-7.contig.43	feature	CDS	1221	2150	.	-	0	ID=acIB-AMD-7.genome.CDS.1716;Product=Thioredoxin reductase %28EC 1.8.1.9%29;locus_tag=acIB-AMD-7.genome.CDS.1716
+acIB-AMD-7.contig.43	feature	CDS	857	1180	.	-	0	ID=acIB-AMD-7.genome.CDS.1715;Product=Thioredoxin;locus_tag=acIB-AMD-7.genome.CDS.1715
+acIB-AMD-7.contig.43	feature	CDS	3	830	.	-	0	ID=acIB-AMD-7.genome.CDS.1714;Product=N-acetylmuramoyl-L-alanine amidase %28EC 3.5.1.28%29;locus_tag=acIB-AMD-7.genome.CDS.1714
+acIB-AMD-7.contig.44	feature	CDS	10726	11889	.	+	0	ID=acIB-AMD-7.genome.CDS.1737;Product=Signal recognition particle%2C subunit Ffh SRP54 %28TC 3.A.5.1.1%29;locus_tag=acIB-AMD-7.genome.CDS.1737
+acIB-AMD-7.contig.44	feature	CDS	10368	10706	.	+	0	ID=acIB-AMD-7.genome.CDS.1736;Product=Nitrogen regulatory protein P-II;locus_tag=acIB-AMD-7.genome.CDS.1736
+acIB-AMD-7.contig.44	feature	CDS	9067	10365	.	+	0	ID=acIB-AMD-7.genome.CDS.1735;Product=Ammonium transporter;locus_tag=acIB-AMD-7.genome.CDS.1735
+acIB-AMD-7.contig.44	feature	CDS	8085	8921	.	+	0	ID=acIB-AMD-7.genome.CDS.1734;Product=Signal recognition particle receptor protein FtsY %28%3Dalpha subunit%29 %28TC 3.A.5.1.1%29;locus_tag=acIB-AMD-7.genome.CDS.1734
+acIB-AMD-7.contig.44	feature	CDS	4969	8076	.	+	0	ID=acIB-AMD-7.genome.CDS.1733;Product=Chromosome partition protein smc;locus_tag=acIB-AMD-7.genome.CDS.1733
+acIB-AMD-7.contig.44	feature	CDS	4070	4906	.	+	0	ID=acIB-AMD-7.genome.CDS.1732;Product=Formamidopyrimidine-DNA glycosylase %28EC 3.2.2.23%29;locus_tag=acIB-AMD-7.genome.CDS.1732
+acIB-AMD-7.contig.44	feature	CDS	3422	4057	.	+	0	ID=acIB-AMD-7.genome.CDS.1731;Product=Ribonuclease III %28EC 3.1.26.3%29;locus_tag=acIB-AMD-7.genome.CDS.1731
+acIB-AMD-7.contig.44	feature	CDS	3120	3254	.	-	0	ID=acIB-AMD-7.genome.CDS.1730;Product=;locus_tag=acIB-AMD-7.genome.CDS.1730
+acIB-AMD-7.contig.44	feature	CDS	2542	3123	.	+	0	ID=acIB-AMD-7.genome.CDS.1729;Product=COG1399 protein%2C clustered with ribosomal protein L32p;locus_tag=acIB-AMD-7.genome.CDS.1729
+acIB-AMD-7.contig.44	feature	CDS	2064	2537	.	+	0	ID=acIB-AMD-7.genome.CDS.1728;Product=;locus_tag=acIB-AMD-7.genome.CDS.1728
+acIB-AMD-7.contig.44	feature	CDS	1579	2061	.	+	0	ID=acIB-AMD-7.genome.CDS.1727;Product=Phosphopantetheine adenylyltransferase %28EC 2.7.7.3%29;locus_tag=acIB-AMD-7.genome.CDS.1727
+acIB-AMD-7.contig.44	feature	CDS	954	1535	.	+	0	ID=acIB-AMD-7.genome.CDS.1726;Product=;locus_tag=acIB-AMD-7.genome.CDS.1726
+acIB-AMD-7.contig.44	feature	CDS	1	957	.	+	0	ID=acIB-AMD-7.genome.CDS.1725;Product=ATP-dependent DNA helicase RecG %28EC 3.6.1.-%29;locus_tag=acIB-AMD-7.genome.CDS.1725
+acIB-AMD-7.contig.45	feature	CDS	11330	11773	.	-	0	ID=acIB-AMD-7.genome.CDS.1748;Product=;locus_tag=acIB-AMD-7.genome.CDS.1748
+acIB-AMD-7.contig.45	feature	CDS	10620	11333	.	-	0	ID=acIB-AMD-7.genome.CDS.1747;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1747
+acIB-AMD-7.contig.45	feature	CDS	10132	10605	.	-	0	ID=acIB-AMD-7.genome.CDS.1746;Product=FIG01121484: hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1746
+acIB-AMD-7.contig.45	feature	CDS	9526	10032	.	-	0	ID=acIB-AMD-7.genome.CDS.1745;Product=transcriptional regulator%2C MerR family;locus_tag=acIB-AMD-7.genome.CDS.1745
+acIB-AMD-7.contig.45	feature	CDS	6637	9480	.	-	0	ID=acIB-AMD-7.genome.CDS.1744;Product=Glycine dehydrogenase %5Bdecarboxylating%5D %28glycine cleavage system P protein%29 %28EC 1.4.4.2%29;locus_tag=acIB-AMD-7.genome.CDS.1744
+acIB-AMD-7.contig.45	feature	CDS	5882	6610	.	+	0	ID=acIB-AMD-7.genome.CDS.1743;Product=Dolichol-phosphate mannosyltransferase %28EC 2.4.1.83%29 in lipid-linked oligosaccharide synthesis cluster;locus_tag=acIB-AMD-7.genome.CDS.1743
+acIB-AMD-7.contig.45	feature	CDS	4503	5885	.	+	0	ID=acIB-AMD-7.genome.CDS.1742;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1742
+acIB-AMD-7.contig.45	feature	CDS	3604	4506	.	+	0	ID=acIB-AMD-7.genome.CDS.1741;Product=DNA polymerase I %28EC 2.7.7.7%29;locus_tag=acIB-AMD-7.genome.CDS.1741
+acIB-AMD-7.contig.45	feature	CDS	1265	3607	.	+	0	ID=acIB-AMD-7.genome.CDS.1740;Product=FIG005666: putative helicase;locus_tag=acIB-AMD-7.genome.CDS.1740
+acIB-AMD-7.contig.45	feature	CDS	387	1268	.	+	0	ID=acIB-AMD-7.genome.CDS.1739;Product=Diacylglycerol kinase-related protein;locus_tag=acIB-AMD-7.genome.CDS.1739
+acIB-AMD-7.contig.45	feature	CDS	3	386	.	+	0	ID=acIB-AMD-7.genome.CDS.1738;Product=Twin-arginine translocation protein TatC;locus_tag=acIB-AMD-7.genome.CDS.1738
+acIB-AMD-7.contig.46	feature	CDS	11761	11832	.	+	0	ID=acIB-AMD-7.genome.CDS.1761;Product=;locus_tag=acIB-AMD-7.genome.CDS.1761
+acIB-AMD-7.contig.46	feature	CDS	10821	11750	.	+	0	ID=acIB-AMD-7.genome.CDS.1760;Product=Lipoate synthase;locus_tag=acIB-AMD-7.genome.CDS.1760
+acIB-AMD-7.contig.46	feature	CDS	10171	10824	.	+	0	ID=acIB-AMD-7.genome.CDS.1759;Product=Octanoate-%5Bacyl-carrier-protein%5D-protein-N-octanoyltransferase;locus_tag=acIB-AMD-7.genome.CDS.1759
+acIB-AMD-7.contig.46	feature	CDS	7864	10041	.	-	0	ID=acIB-AMD-7.genome.CDS.1758;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1758
+acIB-AMD-7.contig.46	feature	CDS	6839	7849	.	-	0	ID=acIB-AMD-7.genome.CDS.1757;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1757
+acIB-AMD-7.contig.46	feature	CDS	5693	6838	.	-	0	ID=acIB-AMD-7.genome.CDS.1756;Product=;locus_tag=acIB-AMD-7.genome.CDS.1756
+acIB-AMD-7.contig.46	feature	CDS	4825	5712	.	+	0	ID=acIB-AMD-7.genome.CDS.1755;Product=Cell division inhibitor;locus_tag=acIB-AMD-7.genome.CDS.1755
+acIB-AMD-7.contig.46	feature	CDS	4014	4823	.	+	0	ID=acIB-AMD-7.genome.CDS.1754;Product=Dihydrolipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex %28EC 2.3.1.168%29;locus_tag=acIB-AMD-7.genome.CDS.1754
+acIB-AMD-7.contig.46	feature	CDS	3196	3957	.	+	0	ID=acIB-AMD-7.genome.CDS.1753;Product=Dihydrolipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex %28EC 2.3.1.168%29;locus_tag=acIB-AMD-7.genome.CDS.1753
+acIB-AMD-7.contig.46	feature	CDS	1816	3183	.	+	0	ID=acIB-AMD-7.genome.CDS.1752;Product=Dihydrolipoamide dehydrogenase of branched-chain alpha-keto acid dehydrogenase %28EC 1.8.1.4%29;locus_tag=acIB-AMD-7.genome.CDS.1752
+acIB-AMD-7.contig.46	feature	CDS	590	1762	.	+	0	ID=acIB-AMD-7.genome.CDS.742;Product=Cytosol aminopeptidase PepA %28EC 3.4.11.1%29;locus_tag=acIB-AMD-7.genome.CDS.742
+acIB-AMD-7.contig.46	feature	CDS	331	600	.	+	0	ID=acIB-AMD-7.genome.CDS.1750;Product=Cytosol aminopeptidase PepA %28EC 3.4.11.1%29;locus_tag=acIB-AMD-7.genome.CDS.1750
+acIB-AMD-7.contig.46	feature	CDS	3	182	.	-	0	ID=acIB-AMD-7.genome.CDS.1749;Product=Aminomethyltransferase %28glycine cleavage system T protein%29 %28EC 2.1.2.10%29;locus_tag=acIB-AMD-7.genome.CDS.1749
+acIB-AMD-7.contig.47	feature	CDS	11348	11764	.	-	0	ID=acIB-AMD-7.genome.CDS.1774;Product=Putrescine transport system permease protein PotH %28TC 3.A.1.11.2%29;locus_tag=acIB-AMD-7.genome.CDS.1774
+acIB-AMD-7.contig.47	feature	CDS	10524	11351	.	-	0	ID=acIB-AMD-7.genome.CDS.1773;Product=Putrescine transport system permease protein PotI %28TC 3.A.1.11.2%29;locus_tag=acIB-AMD-7.genome.CDS.1773
+acIB-AMD-7.contig.47	feature	CDS	9526	10527	.	-	0	ID=acIB-AMD-7.genome.CDS.1772;Product=Arginase/agmatinase/formimionoglutamate hydrolase%2C arginase family;locus_tag=acIB-AMD-7.genome.CDS.1772
+acIB-AMD-7.contig.47	feature	CDS	8176	9525	.	+	0	ID=acIB-AMD-7.genome.CDS.1771;Product=Gamma-aminobutyrate:alpha-ketoglutarate aminotransferase %28EC 2.6.1.19%29;locus_tag=acIB-AMD-7.genome.CDS.1771
+acIB-AMD-7.contig.47	feature	CDS	6994	8124	.	-	0	ID=acIB-AMD-7.genome.CDS.1770;Product=1-deoxy-D-xylulose 5-phosphate reductoisomerase %28EC 1.1.1.267%29;locus_tag=acIB-AMD-7.genome.CDS.1770
+acIB-AMD-7.contig.47	feature	CDS	5807	6997	.	-	0	ID=acIB-AMD-7.genome.CDS.1769;Product=Membrane-associated zinc metalloprotease;locus_tag=acIB-AMD-7.genome.CDS.1769
+acIB-AMD-7.contig.47	feature	CDS	4642	5793	.	-	0	ID=acIB-AMD-7.genome.CDS.1768;Product=1-hydroxy-2-methyl-2-%28E%29-butenyl 4-diphosphate synthase %28EC 1.17.7.1%29;locus_tag=acIB-AMD-7.genome.CDS.1768
+acIB-AMD-7.contig.47	feature	CDS	2913	4628	.	-	0	ID=acIB-AMD-7.genome.CDS.1767;Product=Prolyl-tRNA synthetase %28EC 6.1.1.15%29%2C bacterial type;locus_tag=acIB-AMD-7.genome.CDS.1767
+acIB-AMD-7.contig.47	feature	CDS	2146	2913	.	-	0	ID=acIB-AMD-7.genome.CDS.1766;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1766
+acIB-AMD-7.contig.47	feature	CDS	1664	2110	.	-	0	ID=acIB-AMD-7.genome.CDS.1765;Product=FIG000325: clustered with transcription termination protein NusA;locus_tag=acIB-AMD-7.genome.CDS.1765
+acIB-AMD-7.contig.47	feature	CDS	639	1667	.	-	0	ID=acIB-AMD-7.genome.CDS.1764;Product=Transcription termination protein NusA;locus_tag=acIB-AMD-7.genome.CDS.1764
+acIB-AMD-7.contig.47	feature	CDS	363	626	.	-	0	ID=acIB-AMD-7.genome.CDS.1763;Product=COG2740: Predicted nucleic-acid-binding protein implicated in transcription termination;locus_tag=acIB-AMD-7.genome.CDS.1763
+acIB-AMD-7.contig.47	feature	CDS	179	301	.	+	0	ID=acIB-AMD-7.genome.CDS.752;Product=;locus_tag=acIB-AMD-7.genome.CDS.752
+acIB-AMD-7.contig.47	feature	CDS	1	174	.	-	0	ID=acIB-AMD-7.genome.CDS.1762;Product=Translation initiation factor 2;locus_tag=acIB-AMD-7.genome.CDS.1762
+acIB-AMD-7.contig.48	feature	CDS	10242	11546	.	-	0	ID=acIB-AMD-7.genome.CDS.1784;Product=O-acetylhomoserine sulfhydrylase %28EC 2.5.1.49%29 / O-succinylhomoserine sulfhydrylase %28EC 2.5.1.48%29;locus_tag=acIB-AMD-7.genome.CDS.1784
+acIB-AMD-7.contig.48	feature	CDS	9141	10238	.	-	0	ID=acIB-AMD-7.genome.CDS.1783;Product=Homoserine O-acetyltransferase %28EC 2.3.1.31%29;locus_tag=acIB-AMD-7.genome.CDS.1783
+acIB-AMD-7.contig.48	feature	CDS	7461	9032	.	-	0	ID=acIB-AMD-7.genome.CDS.1782;Product=RNA polymerase sigma factor RpoD;locus_tag=acIB-AMD-7.genome.CDS.1782
+acIB-AMD-7.contig.48	feature	CDS	7253	7444	.	-	0	ID=acIB-AMD-7.genome.CDS.1781;Product=;locus_tag=acIB-AMD-7.genome.CDS.1781
+acIB-AMD-7.contig.48	feature	CDS	7012	7251	.	+	0	ID=acIB-AMD-7.genome.CDS.1780;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1780
+acIB-AMD-7.contig.48	feature	CDS	4731	6851	.	-	0	ID=acIB-AMD-7.genome.CDS.1779;Product=Topoisomerase IV subunit B %28EC 5.99.1.-%29;locus_tag=acIB-AMD-7.genome.CDS.1779
+acIB-AMD-7.contig.48	feature	CDS	3136	4734	.	+	0	ID=acIB-AMD-7.genome.CDS.1778;Product=ABC transporter ATP-binding protein;locus_tag=acIB-AMD-7.genome.CDS.1778
+acIB-AMD-7.contig.48	feature	CDS	1630	3129	.	+	0	ID=acIB-AMD-7.genome.CDS.1777;Product=Topoisomerase IV subunit A %28EC 5.99.1.-%29;locus_tag=acIB-AMD-7.genome.CDS.1777
+acIB-AMD-7.contig.48	feature	CDS	385	1479	.	-	0	ID=acIB-AMD-7.genome.CDS.1776;Product=Alkaline phosphodiesterase I %28EC 3.1.4.1%29 / Nucleotide pyrophosphatase %28EC 3.6.1.9%29;locus_tag=acIB-AMD-7.genome.CDS.1776
+acIB-AMD-7.contig.48	feature	CDS	2	388	.	+	0	ID=acIB-AMD-7.genome.CDS.1775;Product=;locus_tag=acIB-AMD-7.genome.CDS.1775
+acIB-AMD-7.contig.49	feature	CDS	10669	11583	.	+	0	ID=acIB-AMD-7.genome.CDS.1793;Product=Exopolyphosphatase %28EC 3.6.1.11%29;locus_tag=acIB-AMD-7.genome.CDS.1793
+acIB-AMD-7.contig.49	feature	CDS	10111	10668	.	+	0	ID=acIB-AMD-7.genome.CDS.1792;Product=FIG004853: possible toxin to DivIC;locus_tag=acIB-AMD-7.genome.CDS.1792
+acIB-AMD-7.contig.49	feature	CDS	9657	10109	.	+	0	ID=acIB-AMD-7.genome.CDS.1791;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1791
+acIB-AMD-7.contig.49	feature	CDS	8374	9651	.	+	0	ID=acIB-AMD-7.genome.CDS.1790;Product=Enolase %28EC 4.2.1.11%29;locus_tag=acIB-AMD-7.genome.CDS.1790
+acIB-AMD-7.contig.49	feature	CDS	7683	8327	.	+	0	ID=acIB-AMD-7.genome.CDS.1789;Product=Nucleoside triphosphate pyrophosphohydrolase MazG %28EC 3.6.1.8%29;locus_tag=acIB-AMD-7.genome.CDS.1789
+acIB-AMD-7.contig.49	feature	CDS	7075	7674	.	+	0	ID=acIB-AMD-7.genome.CDS.1788;Product=;locus_tag=acIB-AMD-7.genome.CDS.1788
+acIB-AMD-7.contig.49	feature	CDS	3562	7056	.	+	0	ID=acIB-AMD-7.genome.CDS.1787;Product=Transcription-repair coupling factor;locus_tag=acIB-AMD-7.genome.CDS.1787
+acIB-AMD-7.contig.49	feature	CDS	588	3266	.	-	0	ID=acIB-AMD-7.genome.CDS.1786;Product=Pyruvate%2Cphosphate dikinase %28EC 2.7.9.1%29;locus_tag=acIB-AMD-7.genome.CDS.1786
+acIB-AMD-7.contig.49	feature	CDS	35	598	.	+	0	ID=acIB-AMD-7.genome.CDS.1785;Product=Peptidyl-tRNA hydrolase %28EC 3.1.1.29%29;locus_tag=acIB-AMD-7.genome.CDS.1785
+acIB-AMD-7.contig.5	feature	CDS	22143	22901	.	+	0	ID=acIB-AMD-7.genome.CDS.1105;Product=Glutamate-1-semialdehyde aminotransferase %28EC 5.4.3.8%29;locus_tag=acIB-AMD-7.genome.CDS.1105
+acIB-AMD-7.contig.5	feature	CDS	20711	21610	.	-	0	ID=acIB-AMD-7.genome.CDS.1104;Product=Integral membrane protein TerC;locus_tag=acIB-AMD-7.genome.CDS.1104
+acIB-AMD-7.contig.5	feature	CDS	20271	20651	.	+	0	ID=acIB-AMD-7.genome.CDS.133;Product=;locus_tag=acIB-AMD-7.genome.CDS.133
+acIB-AMD-7.contig.5	feature	CDS	20121	20270	.	+	0	ID=acIB-AMD-7.genome.CDS.1102;Product=;locus_tag=acIB-AMD-7.genome.CDS.1102
+acIB-AMD-7.contig.5	feature	CDS	19597	20085	.	+	0	ID=acIB-AMD-7.genome.CDS.1101;Product=;locus_tag=acIB-AMD-7.genome.CDS.1101
+acIB-AMD-7.contig.5	feature	CDS	18467	19600	.	+	0	ID=acIB-AMD-7.genome.CDS.1100;Product=Cystathionine gamma-synthase %28EC 2.5.1.48%29;locus_tag=acIB-AMD-7.genome.CDS.1100
+acIB-AMD-7.contig.5	feature	CDS	17986	18441	.	+	0	ID=acIB-AMD-7.genome.CDS.1099;Product=Peptide methionine sulfoxide reductase MsrB %28EC 1.8.4.12%29;locus_tag=acIB-AMD-7.genome.CDS.1099
+acIB-AMD-7.contig.5	feature	CDS	17460	17993	.	+	0	ID=acIB-AMD-7.genome.CDS.1098;Product=Peptide methionine sulfoxide reductase MsrA %28EC 1.8.4.11%29;locus_tag=acIB-AMD-7.genome.CDS.1098
+acIB-AMD-7.contig.5	feature	CDS	16868	17137	.	-	0	ID=acIB-AMD-7.genome.CDS.1097;Product=WhiB-like transcription regulator;locus_tag=acIB-AMD-7.genome.CDS.1097
+acIB-AMD-7.contig.5	feature	CDS	15405	16871	.	+	0	ID=acIB-AMD-7.genome.CDS.1096;Product=Signal transduction histidine kinase%2C subgroup 2;locus_tag=acIB-AMD-7.genome.CDS.1096
+acIB-AMD-7.contig.5	feature	CDS	14445	15380	.	+	0	ID=acIB-AMD-7.genome.CDS.1095;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1095
+acIB-AMD-7.contig.5	feature	CDS	13868	14461	.	+	0	ID=acIB-AMD-7.genome.CDS.1094;Product=;locus_tag=acIB-AMD-7.genome.CDS.1094
+acIB-AMD-7.contig.5	feature	CDS	13342	13782	.	-	0	ID=acIB-AMD-7.genome.CDS.1093;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1093
+acIB-AMD-7.contig.5	feature	CDS	10685	13345	.	+	0	ID=acIB-AMD-7.genome.CDS.1092;Product=Protein export cytoplasm protein SecA ATPase RNA helicase %28TC 3.A.5.1.1%29;locus_tag=acIB-AMD-7.genome.CDS.1092
+acIB-AMD-7.contig.5	feature	CDS	9904	10638	.	+	0	ID=acIB-AMD-7.genome.CDS.121;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.121
+acIB-AMD-7.contig.5	feature	CDS	8376	9932	.	+	0	ID=acIB-AMD-7.genome.CDS.1090;Product=Sensor histidine kinase MtrB %28EC 2.7.3.-%29;locus_tag=acIB-AMD-7.genome.CDS.1090
+acIB-AMD-7.contig.5	feature	CDS	7699	8373	.	+	0	ID=acIB-AMD-7.genome.CDS.1089;Product=Phosphate regulon transcriptional regulatory protein PhoB %28SphR%29;locus_tag=acIB-AMD-7.genome.CDS.1089
+acIB-AMD-7.contig.5	feature	CDS	6421	7698	.	+	0	ID=acIB-AMD-7.genome.CDS.1088;Product=Adenosylhomocysteinase %28EC 3.3.1.1%29;locus_tag=acIB-AMD-7.genome.CDS.1088
+acIB-AMD-7.contig.5	feature	CDS	4983	6329	.	+	0	ID=acIB-AMD-7.genome.CDS.1087;Product=Phosphomannomutase %28EC 5.4.2.8%29;locus_tag=acIB-AMD-7.genome.CDS.1087
+acIB-AMD-7.contig.5	feature	CDS	4593	4943	.	+	0	ID=acIB-AMD-7.genome.CDS.1086;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1086
+acIB-AMD-7.contig.5	feature	CDS	3192	4553	.	+	0	ID=acIB-AMD-7.genome.CDS.1085;Product=;locus_tag=acIB-AMD-7.genome.CDS.1085
+acIB-AMD-7.contig.5	feature	CDS	79	3195	.	+	0	ID=acIB-AMD-7.genome.CDS.1084;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1084
+acIB-AMD-7.contig.5	feature	CDS	2	70	.	+	0	ID=acIB-AMD-7.genome.CDS.1083;Product=Sporulation regulatory protein WhiB;locus_tag=acIB-AMD-7.genome.CDS.1083
+acIB-AMD-7.contig.50	feature	CDS	10129	11607	.	-	0	ID=acIB-AMD-7.genome.CDS.1803;Product=Arginyl-tRNA synthetase %28EC 6.1.1.19%29;locus_tag=acIB-AMD-7.genome.CDS.1803
+acIB-AMD-7.contig.50	feature	CDS	8762	10129	.	-	0	ID=acIB-AMD-7.genome.CDS.1802;Product=Diaminopimelate decarboxylase %28EC 4.1.1.20%29;locus_tag=acIB-AMD-7.genome.CDS.1802
+acIB-AMD-7.contig.50	feature	CDS	7460	8743	.	-	0	ID=acIB-AMD-7.genome.CDS.1801;Product=Homoserine dehydrogenase %28EC 1.1.1.3%29;locus_tag=acIB-AMD-7.genome.CDS.1801
+acIB-AMD-7.contig.50	feature	CDS	6381	7460	.	-	0	ID=acIB-AMD-7.genome.CDS.1800;Product=Threonine synthase %28EC 4.2.3.1%29;locus_tag=acIB-AMD-7.genome.CDS.1800
+acIB-AMD-7.contig.50	feature	CDS	5431	6381	.	-	0	ID=acIB-AMD-7.genome.CDS.1799;Product=Homoserine kinase %28EC 2.7.1.39%29;locus_tag=acIB-AMD-7.genome.CDS.1799
+acIB-AMD-7.contig.50	feature	CDS	3834	5309	.	-	0	ID=acIB-AMD-7.genome.CDS.1798;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1798
+acIB-AMD-7.contig.50	feature	CDS	2019	3650	.	-	0	ID=acIB-AMD-7.genome.CDS.1797;Product=Transcription termination factor Rho;locus_tag=acIB-AMD-7.genome.CDS.1797
+acIB-AMD-7.contig.50	feature	CDS	1668	1892	.	-	0	ID=acIB-AMD-7.genome.CDS.1796;Product=LSU ribosomal protein L31p %40 LSU ribosomal protein L31p%2C zinc-dependent;locus_tag=acIB-AMD-7.genome.CDS.1796
+acIB-AMD-7.contig.50	feature	CDS	554	1576	.	-	0	ID=acIB-AMD-7.genome.CDS.1795;Product=Peptide chain release factor 1;locus_tag=acIB-AMD-7.genome.CDS.1795
+acIB-AMD-7.contig.50	feature	CDS	3	557	.	-	0	ID=acIB-AMD-7.genome.CDS.1794;Product=Protein-N%285%29-glutamine methyltransferase PrmC%2C methylates polypeptide chain release factors RF1 and RF2;locus_tag=acIB-AMD-7.genome.CDS.1794
+acIB-AMD-7.contig.51	feature	CDS	10293	11540	.	+	0	ID=acIB-AMD-7.genome.CDS.1813;Product=Proposed peptidoglycan lipid II flippase MurJ;locus_tag=acIB-AMD-7.genome.CDS.1813
+acIB-AMD-7.contig.51	feature	CDS	8252	10303	.	+	0	ID=acIB-AMD-7.genome.CDS.1812;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1812
+acIB-AMD-7.contig.51	feature	CDS	6759	8201	.	-	0	ID=acIB-AMD-7.genome.CDS.1811;Product=tRNA nucleotidyltransferase %28EC 2.7.7.27%29;locus_tag=acIB-AMD-7.genome.CDS.1811
+acIB-AMD-7.contig.51	feature	CDS	6302	6739	.	-	0	ID=acIB-AMD-7.genome.CDS.1810;Product=;locus_tag=acIB-AMD-7.genome.CDS.1810
+acIB-AMD-7.contig.51	feature	CDS	4165	6297	.	-	0	ID=acIB-AMD-7.genome.CDS.1809;Product=Multimodular transpeptidase-transglycosylase %28EC 2.4.1.129%29 %28EC 3.4.-.-%29;locus_tag=acIB-AMD-7.genome.CDS.1809
+acIB-AMD-7.contig.51	feature	CDS	3122	4168	.	+	0	ID=acIB-AMD-7.genome.CDS.1808;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1808
+acIB-AMD-7.contig.51	feature	CDS	1992	3119	.	+	0	ID=acIB-AMD-7.genome.CDS.1807;Product=tRNA-dependent lipid II--amino acid ligase;locus_tag=acIB-AMD-7.genome.CDS.1807
+acIB-AMD-7.contig.51	feature	CDS	1208	1990	.	+	0	ID=acIB-AMD-7.genome.CDS.1806;Product=Endonuclease IV %28EC 3.1.21.2%29;locus_tag=acIB-AMD-7.genome.CDS.1806
+acIB-AMD-7.contig.51	feature	CDS	738	1037	.	-	0	ID=acIB-AMD-7.genome.CDS.1805;Product=SSU ribosomal protein S6p;locus_tag=acIB-AMD-7.genome.CDS.1805
+acIB-AMD-7.contig.51	feature	CDS	235	738	.	-	0	ID=acIB-AMD-7.genome.CDS.1804;Product=Single-stranded DNA-binding protein;locus_tag=acIB-AMD-7.genome.CDS.1804
+acIB-AMD-7.contig.52	feature	CDS	11146	11280	.	-	0	ID=acIB-AMD-7.genome.CDS.1826;Product=;locus_tag=acIB-AMD-7.genome.CDS.1826
+acIB-AMD-7.contig.52	feature	CDS	10469	10987	.	-	0	ID=acIB-AMD-7.genome.CDS.1825;Product=Arogenate dehydrogenase %28EC 1.3.1.43%29;locus_tag=acIB-AMD-7.genome.CDS.1825
+acIB-AMD-7.contig.52	feature	CDS	10303	10443	.	-	0	ID=acIB-AMD-7.genome.CDS.814;Product=;locus_tag=acIB-AMD-7.genome.CDS.814
+acIB-AMD-7.contig.52	feature	CDS	8301	10271	.	-	0	ID=acIB-AMD-7.genome.CDS.1823;Product=GTP-binding protein EngA;locus_tag=acIB-AMD-7.genome.CDS.1823
+acIB-AMD-7.contig.52	feature	CDS	7772	8311	.	-	0	ID=acIB-AMD-7.genome.CDS.1822;Product=CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase %28EC 2.7.8.5%29;locus_tag=acIB-AMD-7.genome.CDS.1822
+acIB-AMD-7.contig.52	feature	CDS	7381	7764	.	-	0	ID=acIB-AMD-7.genome.CDS.1821;Product=Glycine cleavage system H protein;locus_tag=acIB-AMD-7.genome.CDS.1821
+acIB-AMD-7.contig.52	feature	CDS	6875	7318	.	-	0	ID=acIB-AMD-7.genome.CDS.1820;Product=;locus_tag=acIB-AMD-7.genome.CDS.1820
+acIB-AMD-7.contig.52	feature	CDS	6161	6874	.	-	0	ID=acIB-AMD-7.genome.CDS.1819;Product=transcriptional regulator%2C MerR family;locus_tag=acIB-AMD-7.genome.CDS.1819
+acIB-AMD-7.contig.52	feature	CDS	5669	6142	.	-	0	ID=acIB-AMD-7.genome.CDS.1818;Product=FIG01121484: hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1818
+acIB-AMD-7.contig.52	feature	CDS	5064	5570	.	-	0	ID=acIB-AMD-7.genome.CDS.1817;Product=transcriptional regulator%2C MerR family;locus_tag=acIB-AMD-7.genome.CDS.1817
+acIB-AMD-7.contig.52	feature	CDS	2176	4959	.	-	0	ID=acIB-AMD-7.genome.CDS.1816;Product=Glycine dehydrogenase %5Bdecarboxylating%5D %28glycine cleavage system P protein%29 %28EC 1.4.4.2%29;locus_tag=acIB-AMD-7.genome.CDS.1816
+acIB-AMD-7.contig.52	feature	CDS	1423	2151	.	+	0	ID=acIB-AMD-7.genome.CDS.1815;Product=;locus_tag=acIB-AMD-7.genome.CDS.1815
+acIB-AMD-7.contig.52	feature	CDS	54	1430	.	+	0	ID=acIB-AMD-7.genome.CDS.1814;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1814
+acIB-AMD-7.contig.53	feature	CDS	11048	11278	.	-	0	ID=acIB-AMD-7.genome.CDS.1840;Product=Transcriptional regulator%2C AsnC family;locus_tag=acIB-AMD-7.genome.CDS.1840
+acIB-AMD-7.contig.53	feature	CDS	10813	11043	.	+	0	ID=acIB-AMD-7.genome.CDS.1839;Product=Possible transmembrane protein;locus_tag=acIB-AMD-7.genome.CDS.1839
+acIB-AMD-7.contig.53	feature	CDS	10358	10816	.	+	0	ID=acIB-AMD-7.genome.CDS.1838;Product=Uncharacterized protein SCO3165;locus_tag=acIB-AMD-7.genome.CDS.1838
+acIB-AMD-7.contig.53	feature	CDS	9310	10353	.	+	0	ID=acIB-AMD-7.genome.CDS.1837;Product=D-alanine--D-alanine ligase %28EC 6.3.2.4%29;locus_tag=acIB-AMD-7.genome.CDS.1837
+acIB-AMD-7.contig.53	feature	CDS	8312	9310	.	+	0	ID=acIB-AMD-7.genome.CDS.1836;Product=Glycerol-3-phosphate dehydrogenase %5BNAD%28P%29%2B%5D %28EC 1.1.1.94%29;locus_tag=acIB-AMD-7.genome.CDS.1836
+acIB-AMD-7.contig.53	feature	CDS	7533	8315	.	+	0	ID=acIB-AMD-7.genome.CDS.1835;Product=1-acyl-sn-glycerol-3-phosphate acyltransferase %28EC 2.3.1.51%29;locus_tag=acIB-AMD-7.genome.CDS.1835
+acIB-AMD-7.contig.53	feature	CDS	7036	7440	.	+	0	ID=acIB-AMD-7.genome.CDS.1834;Product=;locus_tag=acIB-AMD-7.genome.CDS.1834
+acIB-AMD-7.contig.53	feature	CDS	6261	6857	.	+	0	ID=acIB-AMD-7.genome.CDS.1833;Product=3-isopropylmalate dehydratase small subunit %28EC 4.2.1.33%29;locus_tag=acIB-AMD-7.genome.CDS.1833
+acIB-AMD-7.contig.53	feature	CDS	4862	6259	.	+	0	ID=acIB-AMD-7.genome.CDS.1832;Product=3-isopropylmalate dehydratase large subunit %28EC 4.2.1.33%29;locus_tag=acIB-AMD-7.genome.CDS.1832
+acIB-AMD-7.contig.53	feature	CDS	4057	4779	.	-	0	ID=acIB-AMD-7.genome.CDS.1831;Product=Transcriptional regulator%2C IclR family;locus_tag=acIB-AMD-7.genome.CDS.1831
+acIB-AMD-7.contig.53	feature	tRNA	3916	3990	.	+	.	ID=acIB-AMD-7.genome.rna.19;Product=tRNA-Gln-CTG;locus_tag=acIB-AMD-7.genome.rna.19
+acIB-AMD-7.contig.53	feature	CDS	2410	3873	.	+	0	ID=acIB-AMD-7.genome.CDS.1830;Product=Glutamyl-tRNA synthetase %28EC 6.1.1.17%29 %40 Glutamyl-tRNA%28Gln%29 synthetase %28EC 6.1.1.24%29;locus_tag=acIB-AMD-7.genome.CDS.1830
+acIB-AMD-7.contig.53	feature	CDS	1629	2420	.	+	0	ID=acIB-AMD-7.genome.CDS.1829;Product=Fumarylacetoacetate hydrolase family protein;locus_tag=acIB-AMD-7.genome.CDS.1829
+acIB-AMD-7.contig.53	feature	CDS	324	1619	.	+	0	ID=acIB-AMD-7.genome.CDS.1828;Product=Magnesium and cobalt efflux protein CorC;locus_tag=acIB-AMD-7.genome.CDS.1828
+acIB-AMD-7.contig.53	feature	CDS	1	327	.	+	0	ID=acIB-AMD-7.genome.CDS.1827;Product=Metal-dependent hydrolase YbeY%2C involved in rRNA and/or ribosome maturation and assembly;locus_tag=acIB-AMD-7.genome.CDS.1827
+acIB-AMD-7.contig.54	feature	CDS	10555	11274	.	+	0	ID=acIB-AMD-7.genome.CDS.1852;Product=;locus_tag=acIB-AMD-7.genome.CDS.1852
+acIB-AMD-7.contig.54	feature	CDS	9973	10554	.	+	0	ID=acIB-AMD-7.genome.CDS.1851;Product=Peptidyl-tRNA hydrolase %28EC 3.1.1.29%29;locus_tag=acIB-AMD-7.genome.CDS.1851
+acIB-AMD-7.contig.54	feature	CDS	9351	9932	.	+	0	ID=acIB-AMD-7.genome.CDS.1850;Product=LSU ribosomal protein L25p;locus_tag=acIB-AMD-7.genome.CDS.1850
+acIB-AMD-7.contig.54	feature	CDS	8278	9267	.	+	0	ID=acIB-AMD-7.genome.CDS.1849;Product=Ribose-phosphate pyrophosphokinase %28EC 2.7.6.1%29;locus_tag=acIB-AMD-7.genome.CDS.1849
+acIB-AMD-7.contig.54	feature	CDS	6797	8221	.	+	0	ID=acIB-AMD-7.genome.CDS.1848;Product=N-acetylglucosamine-1-phosphate uridyltransferase %28EC 2.7.7.23%29 / Glucosamine-1-phosphate N-acetyltransferase %28EC 2.3.1.157%29;locus_tag=acIB-AMD-7.genome.CDS.1848
+acIB-AMD-7.contig.54	feature	tRNA	6687	6761	.	+	.	ID=acIB-AMD-7.genome.rna.20;Product=tRNA-Gln-TTG;locus_tag=acIB-AMD-7.genome.rna.20
+acIB-AMD-7.contig.54	feature	CDS	5844	6608	.	-	0	ID=acIB-AMD-7.genome.CDS.1847;Product=Transcriptional regulator%2C TetR family;locus_tag=acIB-AMD-7.genome.CDS.1847
+acIB-AMD-7.contig.54	feature	CDS	4922	5851	.	+	0	ID=acIB-AMD-7.genome.CDS.1846;Product=4-diphosphocytidyl-2-C-methyl-D-erythritol kinase %28EC 2.7.1.148%29;locus_tag=acIB-AMD-7.genome.CDS.1846
+acIB-AMD-7.contig.54	feature	CDS	4053	4925	.	+	0	ID=acIB-AMD-7.genome.CDS.1845;Product=SSU rRNA %28adenine%281518%29-N%286%29/adenine%281519%29-N%286%29%29-dimethyltransferase %28EC 2.1.1.182%29;locus_tag=acIB-AMD-7.genome.CDS.1845
+acIB-AMD-7.contig.54	feature	CDS	3160	4056	.	+	0	ID=acIB-AMD-7.genome.CDS.1844;Product=Putative deoxyribonuclease YcfH;locus_tag=acIB-AMD-7.genome.CDS.1844
+acIB-AMD-7.contig.54	feature	CDS	1581	3170	.	+	0	ID=acIB-AMD-7.genome.CDS.1843;Product=Methionyl-tRNA synthetase %28EC 6.1.1.10%29;locus_tag=acIB-AMD-7.genome.CDS.1843
+acIB-AMD-7.contig.54	feature	CDS	742	1584	.	+	0	ID=acIB-AMD-7.genome.CDS.1842;Product=rRNA small subunit methyltransferase I;locus_tag=acIB-AMD-7.genome.CDS.1842
+acIB-AMD-7.contig.54	feature	CDS	2	697	.	-	0	ID=acIB-AMD-7.genome.CDS.1841;Product=CONSERVED MEMBRANE PROTEIN;locus_tag=acIB-AMD-7.genome.CDS.1841
+acIB-AMD-7.contig.55	feature	CDS	10531	11085	.	-	0	ID=acIB-AMD-7.genome.CDS.1863;Product=Aldehyde dehydrogenase %28EC 1.2.1.3%29;locus_tag=acIB-AMD-7.genome.CDS.1863
+acIB-AMD-7.contig.55	feature	CDS	9388	10536	.	+	0	ID=acIB-AMD-7.genome.CDS.1862;Product=Cystathionine beta-lyase%2C type II %28EC 4.4.1.8%29;locus_tag=acIB-AMD-7.genome.CDS.1862
+acIB-AMD-7.contig.55	feature	CDS	8569	9345	.	+	0	ID=acIB-AMD-7.genome.CDS.1861;Product=3-oxoacyl-%5Bacyl-carrier protein%5D reductase %28EC 1.1.1.100%29;locus_tag=acIB-AMD-7.genome.CDS.1861
+acIB-AMD-7.contig.55	feature	CDS	7588	8511	.	-	0	ID=acIB-AMD-7.genome.CDS.1860;Product=conserved hypothetical protein SC4A7.31;locus_tag=acIB-AMD-7.genome.CDS.1860
+acIB-AMD-7.contig.55	feature	CDS	6882	7586	.	-	0	ID=acIB-AMD-7.genome.CDS.848;Product=;locus_tag=acIB-AMD-7.genome.CDS.848
+acIB-AMD-7.contig.55	feature	CDS	5881	6870	.	-	0	ID=acIB-AMD-7.genome.CDS.1858;Product=;locus_tag=acIB-AMD-7.genome.CDS.1858
+acIB-AMD-7.contig.55	feature	CDS	4613	5884	.	-	0	ID=acIB-AMD-7.genome.CDS.1857;Product=Enolase %28EC 4.2.1.11%29;locus_tag=acIB-AMD-7.genome.CDS.1857
+acIB-AMD-7.contig.55	feature	CDS	2889	4616	.	+	0	ID=acIB-AMD-7.genome.CDS.1856;Product=L-arabonate dehydratase %28EC 4.2.1.25%29;locus_tag=acIB-AMD-7.genome.CDS.1856
+acIB-AMD-7.contig.55	feature	CDS	1911	2774	.	-	0	ID=acIB-AMD-7.genome.CDS.1855;Product=2-hydroxyhepta-2%2C4-diene-1%2C7-dioate isomerase %28EC 5.3.3.-%29 / 5-carboxymethyl-2-oxo-hex-3- ene-1%2C7-dioate decarboxylase %28EC 4.1.1.68%29;locus_tag=acIB-AMD-7.genome.CDS.1855
+acIB-AMD-7.contig.55	feature	CDS	384	1910	.	+	0	ID=acIB-AMD-7.genome.CDS.1854;Product=Ketoglutarate semialdehyde dehydrogenase %28EC 1.2.1.26%29;locus_tag=acIB-AMD-7.genome.CDS.1854
+acIB-AMD-7.contig.55	feature	CDS	2	331	.	+	0	ID=acIB-AMD-7.genome.CDS.1853;Product=;locus_tag=acIB-AMD-7.genome.CDS.1853
+acIB-AMD-7.contig.56	feature	CDS	10416	10724	.	-	0	ID=acIB-AMD-7.genome.CDS.1875;Product=;locus_tag=acIB-AMD-7.genome.CDS.1875
+acIB-AMD-7.contig.56	feature	CDS	9225	10265	.	-	0	ID=acIB-AMD-7.genome.CDS.1874;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1874
+acIB-AMD-7.contig.56	feature	CDS	8195	9205	.	-	0	ID=acIB-AMD-7.genome.CDS.1873;Product=Ribose ABC transport system%2C permease protein RbsC %28TC 3.A.1.2.1%29;locus_tag=acIB-AMD-7.genome.CDS.1873
+acIB-AMD-7.contig.56	feature	CDS	7440	8198	.	-	0	ID=acIB-AMD-7.genome.CDS.1872;Product=;locus_tag=acIB-AMD-7.genome.CDS.1872
+acIB-AMD-7.contig.56	feature	CDS	6565	7440	.	-	0	ID=acIB-AMD-7.genome.CDS.1871;Product=D-tagatose 3-epimerase %28EC 5.3.1.-%29;locus_tag=acIB-AMD-7.genome.CDS.1871
+acIB-AMD-7.contig.56	feature	CDS	5924	6556	.	-	0	ID=acIB-AMD-7.genome.CDS.1870;Product=Pantothenate kinase %28EC 2.7.1.33%29;locus_tag=acIB-AMD-7.genome.CDS.1870
+acIB-AMD-7.contig.56	feature	CDS	4599	5822	.	-	0	ID=acIB-AMD-7.genome.CDS.1869;Product=D-serine deaminase;locus_tag=acIB-AMD-7.genome.CDS.1869
+acIB-AMD-7.contig.56	feature	CDS	4197	4574	.	-	0	ID=acIB-AMD-7.genome.CDS.1868;Product=Bona fide RidA/YjgF/TdcF/RutC subgroup;locus_tag=acIB-AMD-7.genome.CDS.1868
+acIB-AMD-7.contig.56	feature	CDS	3388	4185	.	-	0	ID=acIB-AMD-7.genome.CDS.1867;Product=;locus_tag=acIB-AMD-7.genome.CDS.1867
+acIB-AMD-7.contig.56	feature	CDS	1787	3382	.	-	0	ID=acIB-AMD-7.genome.CDS.1866;Product=putative D-aminoacylase;locus_tag=acIB-AMD-7.genome.CDS.1866
+acIB-AMD-7.contig.56	feature	CDS	402	1649	.	-	0	ID=acIB-AMD-7.genome.CDS.1865;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1865
+acIB-AMD-7.contig.56	feature	CDS	2	307	.	-	0	ID=acIB-AMD-7.genome.CDS.1864;Product=;locus_tag=acIB-AMD-7.genome.CDS.1864
+acIB-AMD-7.contig.57	feature	tRNA	10546	10622	.	-	.	ID=acIB-AMD-7.genome.rna.21;Product=tRNA-Phe-GAA;locus_tag=acIB-AMD-7.genome.rna.21
+acIB-AMD-7.contig.57	feature	CDS	9797	10510	.	+	0	ID=acIB-AMD-7.genome.CDS.1891;Product=Phosphate regulon transcriptional regulatory protein PhoB %28SphR%29;locus_tag=acIB-AMD-7.genome.CDS.1891
+acIB-AMD-7.contig.57	feature	CDS	9375	9776	.	-	0	ID=acIB-AMD-7.genome.CDS.1890;Product=;locus_tag=acIB-AMD-7.genome.CDS.1890
+acIB-AMD-7.contig.57	feature	CDS	8711	9166	.	-	0	ID=acIB-AMD-7.genome.CDS.1889;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1889
+acIB-AMD-7.contig.57	feature	CDS	8256	8675	.	-	0	ID=acIB-AMD-7.genome.CDS.1888;Product=Transcriptional regulator%2C FUR family;locus_tag=acIB-AMD-7.genome.CDS.1888
+acIB-AMD-7.contig.57	feature	CDS	7351	8256	.	-	0	ID=acIB-AMD-7.genome.CDS.1887;Product=Folate-dependent protein for Fe/S cluster synthesis/repair in oxidative stress;locus_tag=acIB-AMD-7.genome.CDS.1887
+acIB-AMD-7.contig.57	feature	CDS	7217	7333	.	-	0	ID=acIB-AMD-7.genome.CDS.1886;Product=;locus_tag=acIB-AMD-7.genome.CDS.1886
+acIB-AMD-7.contig.57	feature	CDS	6689	7192	.	-	0	ID=acIB-AMD-7.genome.CDS.1885;Product=DUF1794;locus_tag=acIB-AMD-7.genome.CDS.1885
+acIB-AMD-7.contig.57	feature	CDS	5761	6654	.	-	0	ID=acIB-AMD-7.genome.CDS.1884;Product=Hypothetical protein of L-Asparaginase type 2-like superfamily;locus_tag=acIB-AMD-7.genome.CDS.1884
+acIB-AMD-7.contig.57	feature	CDS	4448	5731	.	-	0	ID=acIB-AMD-7.genome.CDS.1883;Product=Glycosyltransferase MshA involved in mycothiol biosynthesis %28EC 2.4.1.-%29;locus_tag=acIB-AMD-7.genome.CDS.1883
+acIB-AMD-7.contig.57	feature	CDS	3979	4455	.	-	0	ID=acIB-AMD-7.genome.CDS.1882;Product=Uncharacterized protein Rv0487/MT0505 clustered with mycothiol biosynthesis gene;locus_tag=acIB-AMD-7.genome.CDS.1882
+acIB-AMD-7.contig.57	feature	CDS	3209	3955	.	-	0	ID=acIB-AMD-7.genome.CDS.1881;Product=Phosphoglycerate mutase %28EC 5.4.2.11%29;locus_tag=acIB-AMD-7.genome.CDS.1881
+acIB-AMD-7.contig.57	feature	CDS	2554	3207	.	+	0	ID=acIB-AMD-7.genome.CDS.1880;Product=Phosphate transport system regulatory protein PhoU;locus_tag=acIB-AMD-7.genome.CDS.1880
+acIB-AMD-7.contig.57	feature	CDS	1312	2514	.	-	0	ID=acIB-AMD-7.genome.CDS.1879;Product=Phosphate regulon sensor protein PhoR %28SphS%29 %28EC 2.7.13.3%29;locus_tag=acIB-AMD-7.genome.CDS.1879
+acIB-AMD-7.contig.57	feature	CDS	632	1312	.	-	0	ID=acIB-AMD-7.genome.CDS.1878;Product=Phosphate regulon transcriptional regulatory protein PhoB %28SphR%29;locus_tag=acIB-AMD-7.genome.CDS.1878
+acIB-AMD-7.contig.57	feature	CDS	141	635	.	+	0	ID=acIB-AMD-7.genome.CDS.1877;Product=;locus_tag=acIB-AMD-7.genome.CDS.1877
+acIB-AMD-7.contig.57	feature	CDS	3	77	.	-	0	ID=acIB-AMD-7.genome.CDS.1876;Product=;locus_tag=acIB-AMD-7.genome.CDS.1876
+acIB-AMD-7.contig.58	feature	CDS	10325	10591	.	+	0	ID=acIB-AMD-7.genome.CDS.1905;Product=Aspartate carbamoyltransferase %28EC 2.1.3.2%29;locus_tag=acIB-AMD-7.genome.CDS.1905
+acIB-AMD-7.contig.58	feature	CDS	9807	10328	.	+	0	ID=acIB-AMD-7.genome.CDS.1904;Product=Uracil phosphoribosyltransferase %28EC 2.4.2.9%29 / Pyrimidine operon regulatory protein PyrR;locus_tag=acIB-AMD-7.genome.CDS.1904
+acIB-AMD-7.contig.58	feature	CDS	9243	9692	.	-	0	ID=acIB-AMD-7.genome.CDS.1903;Product=transcriptional regulator%2C XRE family;locus_tag=acIB-AMD-7.genome.CDS.1903
+acIB-AMD-7.contig.58	feature	CDS	8839	9246	.	+	0	ID=acIB-AMD-7.genome.CDS.1902;Product=Transcription termination protein NusB;locus_tag=acIB-AMD-7.genome.CDS.1902
+acIB-AMD-7.contig.58	feature	CDS	8276	8836	.	+	0	ID=acIB-AMD-7.genome.CDS.1901;Product=Translation elongation factor P;locus_tag=acIB-AMD-7.genome.CDS.1901
+acIB-AMD-7.contig.58	feature	CDS	7778	8209	.	+	0	ID=acIB-AMD-7.genome.CDS.1900;Product=3-dehydroquinate dehydratase II %28EC 4.2.1.10%29;locus_tag=acIB-AMD-7.genome.CDS.1900
+acIB-AMD-7.contig.58	feature	CDS	6756	7781	.	+	0	ID=acIB-AMD-7.genome.CDS.1899;Product=3-dehydroquinate synthase %28EC 4.2.3.4%29;locus_tag=acIB-AMD-7.genome.CDS.1899
+acIB-AMD-7.contig.58	feature	CDS	6244	6759	.	+	0	ID=acIB-AMD-7.genome.CDS.1898;Product=Shikimate kinase I %28EC 2.7.1.71%29;locus_tag=acIB-AMD-7.genome.CDS.1898
+acIB-AMD-7.contig.58	feature	CDS	5060	6244	.	+	0	ID=acIB-AMD-7.genome.CDS.1897;Product=Chorismate synthase %28EC 4.2.3.5%29;locus_tag=acIB-AMD-7.genome.CDS.1897
+acIB-AMD-7.contig.58	feature	CDS	4608	4982	.	+	0	ID=acIB-AMD-7.genome.CDS.1896;Product=;locus_tag=acIB-AMD-7.genome.CDS.1896
+acIB-AMD-7.contig.58	feature	CDS	3765	4562	.	+	0	ID=acIB-AMD-7.genome.CDS.1895;Product=Shikimate 5-dehydrogenase I alpha %28EC 1.1.1.25%29;locus_tag=acIB-AMD-7.genome.CDS.1895
+acIB-AMD-7.contig.58	feature	CDS	2774	3772	.	+	0	ID=acIB-AMD-7.genome.CDS.1894;Product=FIG004453: protein YceG like;locus_tag=acIB-AMD-7.genome.CDS.1894
+acIB-AMD-7.contig.58	feature	CDS	2325	2777	.	+	0	ID=acIB-AMD-7.genome.CDS.1893;Product=;locus_tag=acIB-AMD-7.genome.CDS.1893
+acIB-AMD-7.contig.58	feature	CDS	1	2310	.	+	0	ID=acIB-AMD-7.genome.CDS.1892;Product=Alanyl-tRNA synthetase %28EC 6.1.1.7%29;locus_tag=acIB-AMD-7.genome.CDS.1892
+acIB-AMD-7.contig.59	feature	CDS	10226	10591	.	+	0	ID=acIB-AMD-7.genome.CDS.1916;Product=;locus_tag=acIB-AMD-7.genome.CDS.1916
+acIB-AMD-7.contig.59	feature	CDS	9294	10226	.	+	0	ID=acIB-AMD-7.genome.CDS.1915;Product=D-3-phosphoglycerate dehydrogenase %28EC 1.1.1.95%29;locus_tag=acIB-AMD-7.genome.CDS.1915
+acIB-AMD-7.contig.59	feature	CDS	7798	9294	.	+	0	ID=acIB-AMD-7.genome.CDS.1914;Product=Xylulose kinase %28EC 2.7.1.17%29;locus_tag=acIB-AMD-7.genome.CDS.1914
+acIB-AMD-7.contig.59	feature	CDS	7224	7793	.	+	0	ID=acIB-AMD-7.genome.CDS.1913;Product=Glucose-6-phosphate isomerase%2C archaeal %28EC 5.3.1.9%29;locus_tag=acIB-AMD-7.genome.CDS.1913
+acIB-AMD-7.contig.59	feature	CDS	6145	7134	.	+	0	ID=acIB-AMD-7.genome.CDS.1912;Product=Possible fucose ABC transporter%2C substrate-binding component;locus_tag=acIB-AMD-7.genome.CDS.1912
+acIB-AMD-7.contig.59	feature	CDS	4732	6033	.	+	0	ID=acIB-AMD-7.genome.CDS.1911;Product=L-fuconate dehydratase %28EC 4.2.1.68%29;locus_tag=acIB-AMD-7.genome.CDS.1911
+acIB-AMD-7.contig.59	feature	CDS	2908	4671	.	-	0	ID=acIB-AMD-7.genome.CDS.1910;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1910
+acIB-AMD-7.contig.59	feature	CDS	2072	2917	.	-	0	ID=acIB-AMD-7.genome.CDS.1909;Product=L-fuconolactone hydrolase;locus_tag=acIB-AMD-7.genome.CDS.1909
+acIB-AMD-7.contig.59	feature	CDS	850	2070	.	-	0	ID=acIB-AMD-7.genome.CDS.1908;Product=L-lactate dehydrogenase %28EC 1.1.2.3%29;locus_tag=acIB-AMD-7.genome.CDS.1908
+acIB-AMD-7.contig.59	feature	CDS	95	853	.	+	0	ID=acIB-AMD-7.genome.CDS.1907;Product=3-oxoacyl-%5Bacyl-carrier protein%5D reductase %28EC 1.1.1.100%29;locus_tag=acIB-AMD-7.genome.CDS.1907
+acIB-AMD-7.contig.59	feature	CDS	3	98	.	+	0	ID=acIB-AMD-7.genome.CDS.1906;Product=;locus_tag=acIB-AMD-7.genome.CDS.1906
+acIB-AMD-7.contig.6	feature	CDS	22522	22869	.	-	0	ID=acIB-AMD-7.genome.CDS.1129;Product=;locus_tag=acIB-AMD-7.genome.CDS.1129
+acIB-AMD-7.contig.6	feature	CDS	21489	22400	.	-	0	ID=acIB-AMD-7.genome.CDS.1128;Product=;locus_tag=acIB-AMD-7.genome.CDS.1128
+acIB-AMD-7.contig.6	feature	CDS	20572	21489	.	-	0	ID=acIB-AMD-7.genome.CDS.1127;Product=Predicted beta-glucoside-regulated ABC transport system%2C permease component 2%2C COG0395;locus_tag=acIB-AMD-7.genome.CDS.1127
+acIB-AMD-7.contig.6	feature	CDS	19676	20569	.	-	0	ID=acIB-AMD-7.genome.CDS.1126;Product=;locus_tag=acIB-AMD-7.genome.CDS.1126
+acIB-AMD-7.contig.6	feature	CDS	18725	19675	.	-	0	ID=acIB-AMD-7.genome.CDS.1125;Product=2-dehydro-3-deoxygluconate kinase %28EC 2.7.1.45%29;locus_tag=acIB-AMD-7.genome.CDS.1125
+acIB-AMD-7.contig.6	feature	CDS	18087	18725	.	-	0	ID=acIB-AMD-7.genome.CDS.1124;Product=4-hydroxy-2-oxoglutarate aldolase %28EC 4.1.3.16%29 %40 2-dehydro-3-deoxyphosphogluconate aldolase %28EC 4.1.2.14%29;locus_tag=acIB-AMD-7.genome.CDS.1124
+acIB-AMD-7.contig.6	feature	CDS	17345	18103	.	-	0	ID=acIB-AMD-7.genome.CDS.1123;Product=3-oxoacyl-%5Bacyl-carrier protein%5D reductase %28EC 1.1.1.100%29;locus_tag=acIB-AMD-7.genome.CDS.1123
+acIB-AMD-7.contig.6	feature	CDS	16590	17348	.	-	0	ID=acIB-AMD-7.genome.CDS.1122;Product=;locus_tag=acIB-AMD-7.genome.CDS.1122
+acIB-AMD-7.contig.6	feature	CDS	15373	16593	.	+	0	ID=acIB-AMD-7.genome.CDS.1121;Product=L-lactate dehydrogenase %28EC 1.1.2.3%29;locus_tag=acIB-AMD-7.genome.CDS.1121
+acIB-AMD-7.contig.6	feature	CDS	14525	15370	.	+	0	ID=acIB-AMD-7.genome.CDS.1120;Product=L-fuconolactone hydrolase;locus_tag=acIB-AMD-7.genome.CDS.1120
+acIB-AMD-7.contig.6	feature	CDS	12771	14522	.	+	0	ID=acIB-AMD-7.genome.CDS.1119;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1119
+acIB-AMD-7.contig.6	feature	CDS	11408	12709	.	-	0	ID=acIB-AMD-7.genome.CDS.1118;Product=L-fuconate dehydratase %28EC 4.2.1.68%29;locus_tag=acIB-AMD-7.genome.CDS.1118
+acIB-AMD-7.contig.6	feature	CDS	10312	11301	.	-	0	ID=acIB-AMD-7.genome.CDS.1117;Product=Possible fucose ABC transporter%2C substrate-binding component;locus_tag=acIB-AMD-7.genome.CDS.1117
+acIB-AMD-7.contig.6	feature	CDS	9649	10224	.	-	0	ID=acIB-AMD-7.genome.CDS.1116;Product=Glucose-6-phosphate isomerase%2C archaeal %28EC 5.3.1.9%29;locus_tag=acIB-AMD-7.genome.CDS.1116
+acIB-AMD-7.contig.6	feature	CDS	8153	9649	.	-	0	ID=acIB-AMD-7.genome.CDS.1115;Product=Xylulose kinase %28EC 2.7.1.17%29;locus_tag=acIB-AMD-7.genome.CDS.1115
+acIB-AMD-7.contig.6	feature	CDS	7218	8153	.	-	0	ID=acIB-AMD-7.genome.CDS.1114;Product=D-3-phosphoglycerate dehydrogenase %28EC 1.1.1.95%29;locus_tag=acIB-AMD-7.genome.CDS.1114
+acIB-AMD-7.contig.6	feature	CDS	6325	7167	.	-	0	ID=acIB-AMD-7.genome.CDS.1113;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1113
+acIB-AMD-7.contig.6	feature	CDS	5930	6268	.	-	0	ID=acIB-AMD-7.genome.CDS.1112;Product=;locus_tag=acIB-AMD-7.genome.CDS.1112
+acIB-AMD-7.contig.6	feature	CDS	4999	5922	.	-	0	ID=acIB-AMD-7.genome.CDS.1111;Product=Ribokinase %28EC 2.7.1.15%29;locus_tag=acIB-AMD-7.genome.CDS.1111
+acIB-AMD-7.contig.6	feature	CDS	3401	4909	.	-	0	ID=acIB-AMD-7.genome.CDS.1110;Product=Ribose ABC transport system%2C ATP-binding protein RbsA %28TC 3.A.1.2.1%29;locus_tag=acIB-AMD-7.genome.CDS.1110
+acIB-AMD-7.contig.6	feature	CDS	2409	3389	.	-	0	ID=acIB-AMD-7.genome.CDS.1109;Product=Ribose ABC transport system%2C permease protein RbsC %28TC 3.A.1.2.1%29;locus_tag=acIB-AMD-7.genome.CDS.1109
+acIB-AMD-7.contig.6	feature	CDS	1405	2400	.	-	0	ID=acIB-AMD-7.genome.CDS.1108;Product=Sorbitol dehydrogenase %28EC 1.1.1.14%29;locus_tag=acIB-AMD-7.genome.CDS.1108
+acIB-AMD-7.contig.6	feature	CDS	410	1402	.	-	0	ID=acIB-AMD-7.genome.CDS.1107;Product=Alcohol dehydrogenase %28EC 1.1.1.1%29;locus_tag=acIB-AMD-7.genome.CDS.1107
+acIB-AMD-7.contig.6	feature	CDS	120	413	.	+	0	ID=acIB-AMD-7.genome.CDS.1106;Product=;locus_tag=acIB-AMD-7.genome.CDS.1106
+acIB-AMD-7.contig.6	feature	tRNA	25	101	.	+	.	ID=acIB-AMD-7.genome.rna.9;Product=tRNA-Met-CAT;locus_tag=acIB-AMD-7.genome.rna.9
+acIB-AMD-7.contig.60	feature	CDS	8812	10410	.	-	0	ID=acIB-AMD-7.genome.CDS.1925;Product=Lead%2C cadmium%2C zinc and mercury transporting ATPase %28EC 3.6.3.3%29 %28EC 3.6.3.5%29%3B Copper-translocating P-type ATPase %28EC 3.6.3.4%29;locus_tag=acIB-AMD-7.genome.CDS.1925
+acIB-AMD-7.contig.60	feature	tRNA	8733	8809	.	+	.	ID=acIB-AMD-7.genome.rna.22;Product=tRNA-Met-CAT;locus_tag=acIB-AMD-7.genome.rna.22
+acIB-AMD-7.contig.60	feature	CDS	5805	8678	.	+	0	ID=acIB-AMD-7.genome.CDS.1924;Product=UPF0182 protein AF1421;locus_tag=acIB-AMD-7.genome.CDS.1924
+acIB-AMD-7.contig.60	feature	CDS	4724	5785	.	+	0	ID=acIB-AMD-7.genome.CDS.1923;Product=Lon-like protease with PDZ domain;locus_tag=acIB-AMD-7.genome.CDS.1923
+acIB-AMD-7.contig.60	feature	CDS	3127	4446	.	-	0	ID=acIB-AMD-7.genome.CDS.1922;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1922
+acIB-AMD-7.contig.60	feature	CDS	2176	2808	.	-	0	ID=acIB-AMD-7.genome.CDS.1921;Product=;locus_tag=acIB-AMD-7.genome.CDS.1921
+acIB-AMD-7.contig.60	feature	CDS	1861	2019	.	-	0	ID=acIB-AMD-7.genome.CDS.1920;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1920
+acIB-AMD-7.contig.60	feature	CDS	1297	1767	.	+	0	ID=acIB-AMD-7.genome.CDS.1919;Product=WhiB-family transcriptional regulator;locus_tag=acIB-AMD-7.genome.CDS.1919
+acIB-AMD-7.contig.60	feature	CDS	991	1167	.	+	0	ID=acIB-AMD-7.genome.CDS.1918;Product=;locus_tag=acIB-AMD-7.genome.CDS.1918
+acIB-AMD-7.contig.60	feature	CDS	2	952	.	+	0	ID=acIB-AMD-7.genome.CDS.1917;Product=ATP-dependent DNA helicase UvrD/PcrA%2C actinomycete paralog;locus_tag=acIB-AMD-7.genome.CDS.1917
+acIB-AMD-7.contig.61	feature	CDS	9306	10316	.	+	0	ID=acIB-AMD-7.genome.CDS.1936;Product=Ferric iron ABC transporter%2C ATP-binding protein;locus_tag=acIB-AMD-7.genome.CDS.1936
+acIB-AMD-7.contig.61	feature	CDS	7712	9304	.	+	0	ID=acIB-AMD-7.genome.CDS.1935;Product=Ferric iron ABC transporter%2C permease protein;locus_tag=acIB-AMD-7.genome.CDS.1935
+acIB-AMD-7.contig.61	feature	CDS	6666	7709	.	+	0	ID=acIB-AMD-7.genome.CDS.1934;Product=Ferric iron ABC transporter%2C iron-binding protein;locus_tag=acIB-AMD-7.genome.CDS.1934
+acIB-AMD-7.contig.61	feature	CDS	5509	6612	.	+	0	ID=acIB-AMD-7.genome.CDS.1933;Product=Ribosomal RNA large subunit methyltransferase N %28EC 2.1.1.-%29;locus_tag=acIB-AMD-7.genome.CDS.1933
+acIB-AMD-7.contig.61	feature	CDS	4663	5508	.	+	0	ID=acIB-AMD-7.genome.CDS.1932;Product=Phosphatidate cytidylyltransferase %28EC 2.7.7.41%29;locus_tag=acIB-AMD-7.genome.CDS.1932
+acIB-AMD-7.contig.61	feature	CDS	4097	4660	.	+	0	ID=acIB-AMD-7.genome.CDS.1931;Product=Ribosome recycling factor;locus_tag=acIB-AMD-7.genome.CDS.1931
+acIB-AMD-7.contig.61	feature	CDS	3321	4037	.	+	0	ID=acIB-AMD-7.genome.CDS.1930;Product=Uridine monophosphate kinase %28EC 2.7.4.22%29;locus_tag=acIB-AMD-7.genome.CDS.1930
+acIB-AMD-7.contig.61	feature	CDS	2458	3285	.	+	0	ID=acIB-AMD-7.genome.CDS.1929;Product=Translation elongation factor Ts;locus_tag=acIB-AMD-7.genome.CDS.1929
+acIB-AMD-7.contig.61	feature	CDS	1839	2456	.	+	0	ID=acIB-AMD-7.genome.CDS.1928;Product=SSU ribosomal protein S2p %28SAe%29;locus_tag=acIB-AMD-7.genome.CDS.1928
+acIB-AMD-7.contig.61	feature	CDS	1695	1784	.	+	0	ID=acIB-AMD-7.genome.CDS.1927;Product=SSU ribosomal protein S2p %28SAe%29;locus_tag=acIB-AMD-7.genome.CDS.1927
+acIB-AMD-7.contig.61	feature	CDS	101	1270	.	+	0	ID=acIB-AMD-7.genome.CDS.1926;Product=;locus_tag=acIB-AMD-7.genome.CDS.1926
+acIB-AMD-7.contig.62	feature	CDS	8368	10236	.	-	0	ID=acIB-AMD-7.genome.CDS.1946;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1946
+acIB-AMD-7.contig.62	feature	CDS	6425	8281	.	-	0	ID=acIB-AMD-7.genome.CDS.1945;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1945
+acIB-AMD-7.contig.62	feature	CDS	5230	6417	.	-	0	ID=acIB-AMD-7.genome.CDS.1944;Product=UDP-glucose 6-dehydrogenase %28EC 1.1.1.22%29;locus_tag=acIB-AMD-7.genome.CDS.1944
+acIB-AMD-7.contig.62	feature	CDS	4277	5230	.	-	0	ID=acIB-AMD-7.genome.CDS.1943;Product=dTDP-glucose 4%2C6-dehydratase %28EC 4.2.1.46%29;locus_tag=acIB-AMD-7.genome.CDS.1943
+acIB-AMD-7.contig.62	feature	CDS	3771	4253	.	-	0	ID=acIB-AMD-7.genome.CDS.1942;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1942
+acIB-AMD-7.contig.62	feature	CDS	2869	3774	.	-	0	ID=acIB-AMD-7.genome.CDS.1941;Product=Fructokinase %28EC 2.7.1.4%29;locus_tag=acIB-AMD-7.genome.CDS.1941
+acIB-AMD-7.contig.62	feature	CDS	2101	2868	.	-	0	ID=acIB-AMD-7.genome.CDS.1940;Product=;locus_tag=acIB-AMD-7.genome.CDS.1940
+acIB-AMD-7.contig.62	feature	CDS	1185	2099	.	+	0	ID=acIB-AMD-7.genome.CDS.1939;Product=;locus_tag=acIB-AMD-7.genome.CDS.1939
+acIB-AMD-7.contig.62	feature	CDS	469	1173	.	+	0	ID=acIB-AMD-7.genome.CDS.1938;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1938
+acIB-AMD-7.contig.62	feature	CDS	47	448	.	-	0	ID=acIB-AMD-7.genome.CDS.1937;Product=;locus_tag=acIB-AMD-7.genome.CDS.1937
+acIB-AMD-7.contig.63	feature	misc_RNA	10159	10252	.	-	.	ID=acIB-AMD-7.genome.rna.1;Product=5S rRNA %23 5S ribosomal RNA - 5 prime truncation;locus_tag=acIB-AMD-7.genome.rna.1
+acIB-AMD-7.contig.63	feature	CDS	9900	10046	.	-	0	ID=acIB-AMD-7.genome.CDS.1958;Product=;locus_tag=acIB-AMD-7.genome.CDS.1958
+acIB-AMD-7.contig.63	feature	CDS	9108	9896	.	-	0	ID=acIB-AMD-7.genome.CDS.1957;Product=RNA binding methyltransferase FtsJ like;locus_tag=acIB-AMD-7.genome.CDS.1957
+acIB-AMD-7.contig.63	feature	CDS	8260	9111	.	-	0	ID=acIB-AMD-7.genome.CDS.1956;Product=NAD kinase %28EC 2.7.1.23%29;locus_tag=acIB-AMD-7.genome.CDS.1956
+acIB-AMD-7.contig.63	feature	CDS	6543	8270	.	-	0	ID=acIB-AMD-7.genome.CDS.1955;Product=DNA repair protein RecN;locus_tag=acIB-AMD-7.genome.CDS.1955
+acIB-AMD-7.contig.63	feature	CDS	4899	6536	.	-	0	ID=acIB-AMD-7.genome.CDS.1954;Product=CTP synthase %28EC 6.3.4.2%29;locus_tag=acIB-AMD-7.genome.CDS.1954
+acIB-AMD-7.contig.63	feature	CDS	3992	4909	.	-	0	ID=acIB-AMD-7.genome.CDS.1953;Product=Site-specific tyrosine recombinase XerD;locus_tag=acIB-AMD-7.genome.CDS.1953
+acIB-AMD-7.contig.63	feature	CDS	3591	3989	.	+	0	ID=acIB-AMD-7.genome.CDS.1952;Product=FIG059443: hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1952
+acIB-AMD-7.contig.63	feature	CDS	2737	3594	.	+	0	ID=acIB-AMD-7.genome.CDS.1951;Product=Chromosome %28plasmid%29 partitioning protein ParA;locus_tag=acIB-AMD-7.genome.CDS.1951
+acIB-AMD-7.contig.63	feature	CDS	1773	2684	.	-	0	ID=acIB-AMD-7.genome.CDS.1950;Product=Segregation and condensation protein A;locus_tag=acIB-AMD-7.genome.CDS.1950
+acIB-AMD-7.contig.63	feature	CDS	1223	1780	.	-	0	ID=acIB-AMD-7.genome.CDS.1949;Product=Segregation and condensation protein B;locus_tag=acIB-AMD-7.genome.CDS.1949
+acIB-AMD-7.contig.63	feature	CDS	640	1170	.	-	0	ID=acIB-AMD-7.genome.CDS.1948;Product=Ribosomal large subunit pseudouridine synthase B %28EC 4.2.1.70%29;locus_tag=acIB-AMD-7.genome.CDS.1948
+acIB-AMD-7.contig.63	feature	CDS	1	225	.	-	0	ID=acIB-AMD-7.genome.CDS.1947;Product=Chorismate mutase II %28EC 5.4.99.5%29;locus_tag=acIB-AMD-7.genome.CDS.1947
+acIB-AMD-7.contig.64	feature	CDS	9526	10125	.	-	0	ID=acIB-AMD-7.genome.CDS.1965;Product=Dephospho-CoA kinase %28EC 2.7.1.24%29;locus_tag=acIB-AMD-7.genome.CDS.1965
+acIB-AMD-7.contig.64	feature	CDS	7460	9529	.	-	0	ID=acIB-AMD-7.genome.CDS.1964;Product=Excinuclease ABC subunit B;locus_tag=acIB-AMD-7.genome.CDS.1964
+acIB-AMD-7.contig.64	feature	CDS	4629	7460	.	-	0	ID=acIB-AMD-7.genome.CDS.1963;Product=Excinuclease ABC subunit A;locus_tag=acIB-AMD-7.genome.CDS.1963
+acIB-AMD-7.contig.64	feature	CDS	2713	4626	.	-	0	ID=acIB-AMD-7.genome.CDS.1962;Product=Excinuclease ABC subunit C;locus_tag=acIB-AMD-7.genome.CDS.1962
+acIB-AMD-7.contig.64	feature	CDS	1813	2691	.	-	0	ID=acIB-AMD-7.genome.CDS.1961;Product=FIG000506: Predicted P-loop-containing kinase;locus_tag=acIB-AMD-7.genome.CDS.1961
+acIB-AMD-7.contig.64	feature	CDS	880	1812	.	-	0	ID=acIB-AMD-7.genome.CDS.1960;Product=FIG002813: LPPG:FO 2-phospho-L-lactate transferase like%2C CofD-like;locus_tag=acIB-AMD-7.genome.CDS.1960
+acIB-AMD-7.contig.64	feature	CDS	1	837	.	-	0	ID=acIB-AMD-7.genome.CDS.1959;Product=FIG001886: Cytoplasmic hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1959
+acIB-AMD-7.contig.65	feature	CDS	9481	10137	.	-	0	ID=acIB-AMD-7.genome.CDS.1976;Product=Diaminopimelate decarboxylase %28EC 4.1.1.20%29;locus_tag=acIB-AMD-7.genome.CDS.1976
+acIB-AMD-7.contig.65	feature	CDS	8220	9461	.	-	0	ID=acIB-AMD-7.genome.CDS.1975;Product=Homoserine dehydrogenase %28EC 1.1.1.3%29;locus_tag=acIB-AMD-7.genome.CDS.1975
+acIB-AMD-7.contig.65	feature	CDS	7129	8220	.	-	0	ID=acIB-AMD-7.genome.CDS.1974;Product=Threonine synthase %28EC 4.2.3.1%29;locus_tag=acIB-AMD-7.genome.CDS.1974
+acIB-AMD-7.contig.65	feature	CDS	6179	7129	.	-	0	ID=acIB-AMD-7.genome.CDS.1973;Product=Homoserine kinase %28EC 2.7.1.39%29;locus_tag=acIB-AMD-7.genome.CDS.1973
+acIB-AMD-7.contig.65	feature	CDS	4408	6030	.	-	0	ID=acIB-AMD-7.genome.CDS.1972;Product=Transcription termination factor Rho;locus_tag=acIB-AMD-7.genome.CDS.1972
+acIB-AMD-7.contig.65	feature	CDS	4060	4284	.	-	0	ID=acIB-AMD-7.genome.CDS.1971;Product=LSU ribosomal protein L31p %40 LSU ribosomal protein L31p%2C zinc-dependent;locus_tag=acIB-AMD-7.genome.CDS.1971
+acIB-AMD-7.contig.65	feature	CDS	2895	3974	.	-	0	ID=acIB-AMD-7.genome.CDS.1970;Product=Peptide chain release factor 1;locus_tag=acIB-AMD-7.genome.CDS.1970
+acIB-AMD-7.contig.65	feature	CDS	2044	2898	.	-	0	ID=acIB-AMD-7.genome.CDS.1969;Product=Protein-N%285%29-glutamine methyltransferase PrmC%2C methylates polypeptide chain release factors RF1 and RF2;locus_tag=acIB-AMD-7.genome.CDS.1969
+acIB-AMD-7.contig.65	feature	CDS	1379	2038	.	-	0	ID=acIB-AMD-7.genome.CDS.1968;Product=TsaC protein %28YrdC domain%29 required for threonylcarbamoyladenosine t%286%29A37 modification in tRNA;locus_tag=acIB-AMD-7.genome.CDS.1968
+acIB-AMD-7.contig.65	feature	CDS	89	1369	.	-	0	ID=acIB-AMD-7.genome.CDS.1967;Product=Serine hydroxymethyltransferase %28EC 2.1.2.1%29;locus_tag=acIB-AMD-7.genome.CDS.1967
+acIB-AMD-7.contig.65	feature	CDS	1	78	.	-	0	ID=acIB-AMD-7.genome.CDS.1966;Product=Undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase %28EC 2.7.8.-%29;locus_tag=acIB-AMD-7.genome.CDS.1966
+acIB-AMD-7.contig.66	feature	CDS	9952	10128	.	+	0	ID=acIB-AMD-7.genome.CDS.1986;Product=Twin-arginine translocation protein TatA;locus_tag=acIB-AMD-7.genome.CDS.1986
+acIB-AMD-7.contig.66	feature	CDS	9011	9937	.	+	0	ID=acIB-AMD-7.genome.CDS.1985;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1985
+acIB-AMD-7.contig.66	feature	CDS	8095	9018	.	+	0	ID=acIB-AMD-7.genome.CDS.1984;Product=FIG005453: Putative DeoR-family transcriptional regulator;locus_tag=acIB-AMD-7.genome.CDS.1984
+acIB-AMD-7.contig.66	feature	CDS	7551	8051	.	-	0	ID=acIB-AMD-7.genome.CDS.1983;Product=;locus_tag=acIB-AMD-7.genome.CDS.1983
+acIB-AMD-7.contig.66	feature	CDS	6705	7550	.	+	0	ID=acIB-AMD-7.genome.CDS.1982;Product=tRNA %28adenine%2858%29-N%281%29%29-methyltransferase %28EC 2.1.1.220%29;locus_tag=acIB-AMD-7.genome.CDS.1982
+acIB-AMD-7.contig.66	feature	CDS	6041	6718	.	+	0	ID=acIB-AMD-7.genome.CDS.1981;Product=;locus_tag=acIB-AMD-7.genome.CDS.1981
+acIB-AMD-7.contig.66	feature	CDS	2571	6044	.	+	0	ID=acIB-AMD-7.genome.CDS.1980;Product=5-methyltetrahydrofolate--homocysteine methyltransferase %28EC 2.1.1.13%29;locus_tag=acIB-AMD-7.genome.CDS.1980
+acIB-AMD-7.contig.66	feature	CDS	1305	2528	.	+	0	ID=acIB-AMD-7.genome.CDS.1979;Product=L-cysteine:1D-myo-inosityl 2-amino-2-deoxy-alpha-D-glucopyranoside ligase MshC;locus_tag=acIB-AMD-7.genome.CDS.1979
+acIB-AMD-7.contig.66	feature	CDS	596	1291	.	+	0	ID=acIB-AMD-7.genome.CDS.1978;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1978
+acIB-AMD-7.contig.66	feature	CDS	60	599	.	+	0	ID=acIB-AMD-7.genome.CDS.1977;Product=;locus_tag=acIB-AMD-7.genome.CDS.1977
+acIB-AMD-7.contig.7	feature	CDS	19799	21040	.	-	0	ID=acIB-AMD-7.genome.CDS.1152;Product=tRNA-i%286%29A37 methylthiotransferase;locus_tag=acIB-AMD-7.genome.CDS.1152
+acIB-AMD-7.contig.7	feature	CDS	18900	19802	.	-	0	ID=acIB-AMD-7.genome.CDS.1151;Product=tRNA dimethylallyltransferase %28EC 2.5.1.75%29;locus_tag=acIB-AMD-7.genome.CDS.1151
+acIB-AMD-7.contig.7	feature	CDS	18106	18900	.	-	0	ID=acIB-AMD-7.genome.CDS.1150;Product=Diaminopimelate epimerase %28EC 5.1.1.7%29;locus_tag=acIB-AMD-7.genome.CDS.1150
+acIB-AMD-7.contig.7	feature	CDS	16655	18109	.	-	0	ID=acIB-AMD-7.genome.CDS.1149;Product=GTP-binding protein HflX;locus_tag=acIB-AMD-7.genome.CDS.1149
+acIB-AMD-7.contig.7	feature	CDS	15654	16658	.	+	0	ID=acIB-AMD-7.genome.CDS.1148;Product=4-hydroxyproline epimerase %28EC 5.1.1.8%29;locus_tag=acIB-AMD-7.genome.CDS.1148
+acIB-AMD-7.contig.7	feature	CDS	14747	15649	.	+	0	ID=acIB-AMD-7.genome.CDS.1147;Product=1-pyrroline-4-hydroxy-2-carboxylate deaminase %28EC 3.5.4.22%29;locus_tag=acIB-AMD-7.genome.CDS.1147
+acIB-AMD-7.contig.7	feature	CDS	13352	14737	.	+	0	ID=acIB-AMD-7.genome.CDS.1146;Product=Putative oxidoreductase in 4-hydroxyproline catabolic gene cluster;locus_tag=acIB-AMD-7.genome.CDS.1146
+acIB-AMD-7.contig.7	feature	CDS	13093	13359	.	+	0	ID=acIB-AMD-7.genome.CDS.1145;Product=Opine oxidase subunit C;locus_tag=acIB-AMD-7.genome.CDS.1145
+acIB-AMD-7.contig.7	feature	CDS	11949	13106	.	+	0	ID=acIB-AMD-7.genome.CDS.1144;Product=D-amino-acid oxidase %28EC 1.4.3.3%29;locus_tag=acIB-AMD-7.genome.CDS.1144
+acIB-AMD-7.contig.7	feature	CDS	11629	11877	.	-	0	ID=acIB-AMD-7.genome.CDS.1143;Product=;locus_tag=acIB-AMD-7.genome.CDS.1143
+acIB-AMD-7.contig.7	feature	CDS	10981	11562	.	-	0	ID=acIB-AMD-7.genome.CDS.1142;Product=;locus_tag=acIB-AMD-7.genome.CDS.1142
+acIB-AMD-7.contig.7	feature	CDS	9758	10843	.	-	0	ID=acIB-AMD-7.genome.CDS.1141;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1141
+acIB-AMD-7.contig.7	feature	CDS	8784	9740	.	-	0	ID=acIB-AMD-7.genome.CDS.1140;Product=ComEC/Rec2-related protein;locus_tag=acIB-AMD-7.genome.CDS.1140
+acIB-AMD-7.contig.7	feature	CDS	7849	8808	.	-	0	ID=acIB-AMD-7.genome.CDS.1139;Product=DNA polymerase III delta subunit %28EC 2.7.7.7%29;locus_tag=acIB-AMD-7.genome.CDS.1139
+acIB-AMD-7.contig.7	feature	CDS	7484	7753	.	-	0	ID=acIB-AMD-7.genome.CDS.1138;Product=SSU ribosomal protein S20p;locus_tag=acIB-AMD-7.genome.CDS.1138
+acIB-AMD-7.contig.7	feature	CDS	5593	7458	.	-	0	ID=acIB-AMD-7.genome.CDS.1137;Product=Translation elongation factor LepA;locus_tag=acIB-AMD-7.genome.CDS.1137
+acIB-AMD-7.contig.7	feature	CDS	4447	5592	.	-	0	ID=acIB-AMD-7.genome.CDS.1136;Product=Hypothetical radical SAM family enzyme in heat shock gene cluster%2C similarity with CPO of BS HemN-type;locus_tag=acIB-AMD-7.genome.CDS.1136
+acIB-AMD-7.contig.7	feature	CDS	3421	4422	.	-	0	ID=acIB-AMD-7.genome.CDS.1135;Product=Heat-inducible transcription repressor HrcA;locus_tag=acIB-AMD-7.genome.CDS.1135
+acIB-AMD-7.contig.7	feature	CDS	2311	3417	.	-	0	ID=acIB-AMD-7.genome.CDS.1134;Product=Chaperone protein DnaJ;locus_tag=acIB-AMD-7.genome.CDS.1134
+acIB-AMD-7.contig.7	feature	CDS	1595	2311	.	-	0	ID=acIB-AMD-7.genome.CDS.1133;Product=Ribosomal RNA small subunit methyltransferase E %28EC 2.1.1.-%29;locus_tag=acIB-AMD-7.genome.CDS.1133
+acIB-AMD-7.contig.7	feature	CDS	1257	1595	.	-	0	ID=acIB-AMD-7.genome.CDS.1132;Product=HIT family hydrolase;locus_tag=acIB-AMD-7.genome.CDS.1132
+acIB-AMD-7.contig.7	feature	CDS	242	1240	.	-	0	ID=acIB-AMD-7.genome.CDS.1131;Product=Phosphate starvation-inducible protein PhoH%2C predicted ATPase;locus_tag=acIB-AMD-7.genome.CDS.1131
+acIB-AMD-7.contig.7	feature	CDS	1	210	.	-	0	ID=acIB-AMD-7.genome.CDS.1130;Product=Metal-dependent hydrolase YbeY%2C involved in rRNA and/or ribosome maturation and assembly;locus_tag=acIB-AMD-7.genome.CDS.1130
+acIB-AMD-7.contig.8	feature	CDS	19985	20083	.	+	0	ID=acIB-AMD-7.genome.CDS.1177;Product=;locus_tag=acIB-AMD-7.genome.CDS.1177
+acIB-AMD-7.contig.8	feature	tRNA	19820	19893	.	-	.	ID=acIB-AMD-7.genome.rna.10;Product=tRNA-Met-CAT;locus_tag=acIB-AMD-7.genome.rna.10
+acIB-AMD-7.contig.8	feature	CDS	18010	19392	.	+	0	ID=acIB-AMD-7.genome.CDS.1175;Product=Nitrate/nitrite transporter;locus_tag=acIB-AMD-7.genome.CDS.1175
+acIB-AMD-7.contig.8	feature	CDS	16691	18013	.	+	0	ID=acIB-AMD-7.genome.CDS.1174;Product=Nitrate/nitrite transporter NarK;locus_tag=acIB-AMD-7.genome.CDS.1174
+acIB-AMD-7.contig.8	feature	CDS	12867	16538	.	-	0	ID=acIB-AMD-7.genome.CDS.1173;Product=Respiratory nitrate reductase alpha chain %28EC 1.7.99.4%29;locus_tag=acIB-AMD-7.genome.CDS.1173
+acIB-AMD-7.contig.8	feature	CDS	11296	12867	.	-	0	ID=acIB-AMD-7.genome.CDS.1172;Product=Respiratory nitrate reductase beta chain %28EC 1.7.99.4%29;locus_tag=acIB-AMD-7.genome.CDS.1172
+acIB-AMD-7.contig.8	feature	CDS	10670	11296	.	-	0	ID=acIB-AMD-7.genome.CDS.1171;Product=;locus_tag=acIB-AMD-7.genome.CDS.1171
+acIB-AMD-7.contig.8	feature	CDS	9945	10676	.	-	0	ID=acIB-AMD-7.genome.CDS.1170;Product=Respiratory nitrate reductase gamma chain %28EC 1.7.99.4%29;locus_tag=acIB-AMD-7.genome.CDS.1170
+acIB-AMD-7.contig.8	feature	CDS	9094	9939	.	-	0	ID=acIB-AMD-7.genome.CDS.197;Product=;locus_tag=acIB-AMD-7.genome.CDS.197
+acIB-AMD-7.contig.8	feature	CDS	8458	9135	.	+	0	ID=acIB-AMD-7.genome.CDS.1168;Product=;locus_tag=acIB-AMD-7.genome.CDS.1168
+acIB-AMD-7.contig.8	feature	CDS	8184	8420	.	-	0	ID=acIB-AMD-7.genome.CDS.1167;Product=;locus_tag=acIB-AMD-7.genome.CDS.1167
+acIB-AMD-7.contig.8	feature	CDS	7177	8187	.	+	0	ID=acIB-AMD-7.genome.CDS.1166;Product=Cyclic pyranopterin monophosphate synthase %28EC 4.1.99.18%29;locus_tag=acIB-AMD-7.genome.CDS.1166
+acIB-AMD-7.contig.8	feature	CDS	6767	7180	.	+	0	ID=acIB-AMD-7.genome.CDS.1165;Product=;locus_tag=acIB-AMD-7.genome.CDS.1165
+acIB-AMD-7.contig.8	feature	CDS	6304	6780	.	+	0	ID=acIB-AMD-7.genome.CDS.1164;Product=Molybdopterin biosynthesis molybdochelatase MogA;locus_tag=acIB-AMD-7.genome.CDS.1164
+acIB-AMD-7.contig.8	feature	CDS	5882	6307	.	+	0	ID=acIB-AMD-7.genome.CDS.1163;Product=Molybdenum cofactor biosynthesis protein MoaC;locus_tag=acIB-AMD-7.genome.CDS.1163
+acIB-AMD-7.contig.8	feature	CDS	4698	5846	.	+	0	ID=acIB-AMD-7.genome.CDS.1162;Product=Molybdopterin biosynthesis protein MoeA;locus_tag=acIB-AMD-7.genome.CDS.1162
+acIB-AMD-7.contig.8	feature	CDS	4150	4701	.	+	0	ID=acIB-AMD-7.genome.CDS.1161;Product=;locus_tag=acIB-AMD-7.genome.CDS.1161
+acIB-AMD-7.contig.8	feature	CDS	3383	4153	.	+	0	ID=acIB-AMD-7.genome.CDS.1160;Product=Molybdenum transport system permease protein ModB %28TC 3.A.1.8.1%29;locus_tag=acIB-AMD-7.genome.CDS.1160
+acIB-AMD-7.contig.8	feature	CDS	2685	3386	.	+	0	ID=acIB-AMD-7.genome.CDS.1159;Product=Molybdenum ABC transporter%2C periplasmic molybdenum-binding protein ModA %28TC 3.A.1.8.1%29;locus_tag=acIB-AMD-7.genome.CDS.1159
+acIB-AMD-7.contig.8	feature	CDS	1584	2678	.	+	0	ID=acIB-AMD-7.genome.CDS.1158;Product=Sulfur carrier protein adenylyltransferase ThiF;locus_tag=acIB-AMD-7.genome.CDS.1158
+acIB-AMD-7.contig.8	feature	CDS	1015	1191	.	-	0	ID=acIB-AMD-7.genome.CDS.1157;Product=;locus_tag=acIB-AMD-7.genome.CDS.1157
+acIB-AMD-7.contig.8	feature	CDS	830	1018	.	-	0	ID=acIB-AMD-7.genome.CDS.1156;Product=;locus_tag=acIB-AMD-7.genome.CDS.1156
+acIB-AMD-7.contig.8	feature	CDS	558	767	.	-	0	ID=acIB-AMD-7.genome.CDS.1155;Product=;locus_tag=acIB-AMD-7.genome.CDS.1155
+acIB-AMD-7.contig.8	feature	CDS	213	404	.	+	0	ID=acIB-AMD-7.genome.CDS.1154;Product=;locus_tag=acIB-AMD-7.genome.CDS.1154
+acIB-AMD-7.contig.8	feature	CDS	2	220	.	+	0	ID=acIB-AMD-7.genome.CDS.1153;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1153
+acIB-AMD-7.contig.9	feature	tRNA	19614	19690	.	-	.	ID=acIB-AMD-7.genome.rna.11;Product=tRNA-Phe-GAA;locus_tag=acIB-AMD-7.genome.rna.11
+acIB-AMD-7.contig.9	feature	CDS	19165	19572	.	-	0	ID=acIB-AMD-7.genome.CDS.1200;Product=;locus_tag=acIB-AMD-7.genome.CDS.1200
+acIB-AMD-7.contig.9	feature	CDS	18131	19168	.	+	0	ID=acIB-AMD-7.genome.CDS.1199;Product=Undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase %28EC 2.7.8.-%29;locus_tag=acIB-AMD-7.genome.CDS.1199
+acIB-AMD-7.contig.9	feature	CDS	17930	18112	.	+	0	ID=acIB-AMD-7.genome.CDS.1198;Product=;locus_tag=acIB-AMD-7.genome.CDS.1198
+acIB-AMD-7.contig.9	feature	CDS	17715	17927	.	+	0	ID=acIB-AMD-7.genome.CDS.1197;Product=DNA binding domain protein%2C excisionase family;locus_tag=acIB-AMD-7.genome.CDS.1197
+acIB-AMD-7.contig.9	feature	CDS	16809	17624	.	+	0	ID=acIB-AMD-7.genome.CDS.1196;Product=;locus_tag=acIB-AMD-7.genome.CDS.1196
+acIB-AMD-7.contig.9	feature	CDS	16626	16796	.	+	0	ID=acIB-AMD-7.genome.CDS.1195;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1195
+acIB-AMD-7.contig.9	feature	CDS	15203	16582	.	+	0	ID=acIB-AMD-7.genome.CDS.1194;Product=;locus_tag=acIB-AMD-7.genome.CDS.1194
+acIB-AMD-7.contig.9	feature	CDS	14878	15213	.	+	0	ID=acIB-AMD-7.genome.CDS.1193;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1193
+acIB-AMD-7.contig.9	feature	CDS	13499	14881	.	+	0	ID=acIB-AMD-7.genome.CDS.1192;Product=Adenylosuccinate lyase %28EC 4.3.2.2%29;locus_tag=acIB-AMD-7.genome.CDS.1192
+acIB-AMD-7.contig.9	feature	CDS	12216	13502	.	+	0	ID=acIB-AMD-7.genome.CDS.1191;Product=Adenylosuccinate synthetase %28EC 6.3.4.4%29;locus_tag=acIB-AMD-7.genome.CDS.1191
+acIB-AMD-7.contig.9	feature	CDS	11958	12080	.	+	0	ID=acIB-AMD-7.genome.CDS.1190;Product=;locus_tag=acIB-AMD-7.genome.CDS.1190
+acIB-AMD-7.contig.9	feature	CDS	10995	11798	.	+	0	ID=acIB-AMD-7.genome.CDS.1189;Product=3-oxoacyl-%5Bacyl-carrier protein%5D reductase %28EC 1.1.1.100%29;locus_tag=acIB-AMD-7.genome.CDS.1189
+acIB-AMD-7.contig.9	feature	CDS	10290	10991	.	+	0	ID=acIB-AMD-7.genome.CDS.1188;Product=N-Acetylneuraminate cytidylyltransferase %28EC 2.7.7.43%29;locus_tag=acIB-AMD-7.genome.CDS.1188
+acIB-AMD-7.contig.9	feature	CDS	9264	10289	.	+	0	ID=acIB-AMD-7.genome.CDS.1187;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1187
+acIB-AMD-7.contig.9	feature	CDS	8147	9205	.	+	0	ID=acIB-AMD-7.genome.CDS.1186;Product=D-glycero-D-manno-heptose 1-phosphate guanosyltransferase;locus_tag=acIB-AMD-7.genome.CDS.1186
+acIB-AMD-7.contig.9	feature	CDS	7055	8119	.	+	0	ID=acIB-AMD-7.genome.CDS.1185;Product=UDP-N-acetylglucosamine 2-epimerase %28EC 5.1.3.14%29;locus_tag=acIB-AMD-7.genome.CDS.1185
+acIB-AMD-7.contig.9	feature	CDS	5968	6972	.	+	0	ID=acIB-AMD-7.genome.CDS.1184;Product=N-acetylneuraminate synthase %28EC 2.5.1.56%29;locus_tag=acIB-AMD-7.genome.CDS.1184
+acIB-AMD-7.contig.9	feature	CDS	5342	5962	.	+	0	ID=acIB-AMD-7.genome.CDS.1183;Product=;locus_tag=acIB-AMD-7.genome.CDS.1183
+acIB-AMD-7.contig.9	feature	CDS	4170	5336	.	+	0	ID=acIB-AMD-7.genome.CDS.1182;Product=Bacillosamine/Legionaminic acid biosynthesis aminotransferase PglE%3B 4-keto-6-deoxy-N-Acetyl-D-hexosaminyl-%28Lipid carrier%29 aminotransferase;locus_tag=acIB-AMD-7.genome.CDS.1182
+acIB-AMD-7.contig.9	feature	CDS	3143	4159	.	+	0	ID=acIB-AMD-7.genome.CDS.1181;Product=UDP-glucose 4-epimerase %28EC 5.1.3.2%29;locus_tag=acIB-AMD-7.genome.CDS.1181
+acIB-AMD-7.contig.9	feature	CDS	798	2705	.	-	0	ID=acIB-AMD-7.genome.CDS.1180;Product=Acetyl-coenzyme A synthetase %28EC 6.2.1.1%29;locus_tag=acIB-AMD-7.genome.CDS.1180
+acIB-AMD-7.contig.9	feature	CDS	307	801	.	+	0	ID=acIB-AMD-7.genome.CDS.1179;Product=hypothetical protein;locus_tag=acIB-AMD-7.genome.CDS.1179
+acIB-AMD-7.contig.9	feature	CDS	2	310	.	+	0	ID=acIB-AMD-7.genome.CDS.1178;Product=Cytochrome c-type biogenesis protein ResA;locus_tag=acIB-AMD-7.genome.CDS.1178

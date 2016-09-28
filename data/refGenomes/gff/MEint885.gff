@@ -1,0 +1,966 @@
+##gff-version 3
+MEint885.contig.1	feature	CDS	13784	14680	.	+	0	ID=MEint885.genome.CDS.848;Product=Aldehyde dehydrogenase %28EC 1.2.1.3%29;locus_tag=MEint885.genome.CDS.848
+MEint885.contig.1	feature	CDS	13048	13761	.	-	0	ID=MEint885.genome.CDS.847;Product=Predicted hydrolase of the alpha/beta superfamily;locus_tag=MEint885.genome.CDS.847
+MEint885.contig.1	feature	CDS	11919	13046	.	+	0	ID=MEint885.genome.CDS.846;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.846
+MEint885.contig.1	feature	CDS	10651	11886	.	-	0	ID=MEint885.genome.CDS.845;Product=Chromosome segregation ATPases;locus_tag=MEint885.genome.CDS.845
+MEint885.contig.1	feature	CDS	9766	10638	.	-	0	ID=MEint885.genome.CDS.844;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.844
+MEint885.contig.1	feature	CDS	8570	9769	.	-	0	ID=MEint885.genome.CDS.843;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.843
+MEint885.contig.1	feature	CDS	6633	8573	.	+	0	ID=MEint885.genome.CDS.842;Product=1%2C4-alpha-glucan %28glycogen%29 branching enzyme%2C GH-13-type %28EC 2.4.1.18%29;locus_tag=MEint885.genome.CDS.842
+MEint885.contig.1	feature	CDS	4872	6617	.	+	0	ID=MEint885.genome.CDS.841;Product=Alpha-amylase %28EC 3.2.1.1%29;locus_tag=MEint885.genome.CDS.841
+MEint885.contig.1	feature	CDS	2137	4875	.	+	0	ID=MEint885.genome.CDS.840;Product=Pyruvate dehydrogenase E1 component %28EC 1.2.4.1%29;locus_tag=MEint885.genome.CDS.840
+MEint885.contig.1	feature	CDS	1563	1970	.	-	0	ID=MEint885.genome.CDS.839;Product=FIG00819990: hypothetical protein;locus_tag=MEint885.genome.CDS.839
+MEint885.contig.1	feature	CDS	1099	1563	.	-	0	ID=MEint885.genome.CDS.838;Product=Alkyl hydroperoxide reductase subunit C-like protein;locus_tag=MEint885.genome.CDS.838
+MEint885.contig.1	feature	tRNA	1003	1077	.	-	.	ID=MEint885.genome.rna.1;Product=tRNA-Val-TAC;locus_tag=MEint885.genome.rna.1
+MEint885.contig.1	feature	CDS	762	878	.	-	0	ID=MEint885.genome.CDS.2;Product=;locus_tag=MEint885.genome.CDS.2
+MEint885.contig.1	feature	CDS	202	762	.	-	0	ID=MEint885.genome.CDS.837;Product=;locus_tag=MEint885.genome.CDS.837
+MEint885.contig.1	feature	CDS	1	195	.	+	0	ID=MEint885.genome.CDS.836;Product=;locus_tag=MEint885.genome.CDS.836
+MEint885.contig.10	feature	CDS	6855	7424	.	+	0	ID=MEint885.genome.CDS.962;Product=Membrane proteins related to metalloendopeptidases;locus_tag=MEint885.genome.CDS.962
+MEint885.contig.10	feature	tRNA	6598	6671	.	-	.	ID=MEint885.genome.rna.2;Product=tRNA-Met-CAT;locus_tag=MEint885.genome.rna.2
+MEint885.contig.10	feature	CDS	5329	6483	.	-	0	ID=MEint885.genome.CDS.961;Product=Ferric iron ABC transporter%2C iron-binding protein;locus_tag=MEint885.genome.CDS.961
+MEint885.contig.10	feature	CDS	3542	5242	.	-	0	ID=MEint885.genome.CDS.960;Product=ABC transporter permease protein;locus_tag=MEint885.genome.CDS.960
+MEint885.contig.10	feature	CDS	2399	3532	.	-	0	ID=MEint885.genome.CDS.959;Product=Sulfate and thiosulfate import ATP-binding protein CysA %28EC 3.6.3.25%29;locus_tag=MEint885.genome.CDS.959
+MEint885.contig.10	feature	CDS	2157	2402	.	-	0	ID=MEint885.genome.CDS.958;Product=;locus_tag=MEint885.genome.CDS.958
+MEint885.contig.10	feature	CDS	1889	2149	.	-	0	ID=MEint885.genome.CDS.957;Product=;locus_tag=MEint885.genome.CDS.957
+MEint885.contig.10	feature	CDS	273	1892	.	-	0	ID=MEint885.genome.CDS.956;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.956
+MEint885.contig.10	feature	CDS	1	276	.	+	0	ID=MEint885.genome.CDS.955;Product=;locus_tag=MEint885.genome.CDS.955
+MEint885.contig.11	feature	CDS	2585	3562	.	+	0	ID=MEint885.genome.CDS.965;Product=Branched-chain amino acid aminotransferase %28EC 2.6.1.42%29;locus_tag=MEint885.genome.CDS.965
+MEint885.contig.11	feature	CDS	1545	2585	.	+	0	ID=MEint885.genome.CDS.964;Product=3-isopropylmalate dehydrogenase %28EC 1.1.1.85%29;locus_tag=MEint885.genome.CDS.964
+MEint885.contig.11	feature	CDS	1	1548	.	+	0	ID=MEint885.genome.CDS.963;Product=D-3-phosphoglycerate dehydrogenase %28EC 1.1.1.95%29;locus_tag=MEint885.genome.CDS.963
+MEint885.contig.12	feature	misc_RNA	1080	1191	.	+	.	ID=MEint885.genome.repeat.13;Product=repeat region;locus_tag=MEint885.genome.repeat.13
+MEint885.contig.12	feature	misc_RNA	23721	24115	.	+	.	ID=MEint885.genome.repeat.14;Product=repeat region;locus_tag=MEint885.genome.repeat.14
+MEint885.contig.12	feature	CDS	24001	24114	.	+	0	ID=MEint885.genome.CDS.990;Product=ATP synthase beta chain %28EC 3.6.3.14%29;locus_tag=MEint885.genome.CDS.990
+MEint885.contig.12	feature	CDS	23087	24001	.	+	0	ID=MEint885.genome.CDS.989;Product=ATP synthase gamma chain %28EC 3.6.3.14%29;locus_tag=MEint885.genome.CDS.989
+MEint885.contig.12	feature	CDS	21457	23082	.	+	0	ID=MEint885.genome.CDS.988;Product=ATP synthase alpha chain %28EC 3.6.3.14%29;locus_tag=MEint885.genome.CDS.988
+MEint885.contig.12	feature	CDS	20603	21442	.	+	0	ID=MEint885.genome.CDS.987;Product=ATP synthase delta chain %28EC 3.6.3.14%29;locus_tag=MEint885.genome.CDS.987
+MEint885.contig.12	feature	CDS	20073	20600	.	+	0	ID=MEint885.genome.CDS.986;Product=ATP synthase F0 sector subunit b %28EC 3.6.3.14%29;locus_tag=MEint885.genome.CDS.986
+MEint885.contig.12	feature	CDS	19820	20056	.	+	0	ID=MEint885.genome.CDS.985;Product=ATP synthase F0 sector subunit c %28EC 3.6.3.14%29;locus_tag=MEint885.genome.CDS.985
+MEint885.contig.12	feature	CDS	18996	19784	.	+	0	ID=MEint885.genome.CDS.984;Product=ATP synthase F0 sector subunit a %28EC 3.6.3.14%29;locus_tag=MEint885.genome.CDS.984
+MEint885.contig.12	feature	CDS	18865	18984	.	-	0	ID=MEint885.genome.CDS.137;Product=;locus_tag=MEint885.genome.CDS.137
+MEint885.contig.12	feature	CDS	18642	18848	.	+	0	ID=MEint885.genome.CDS.983;Product=ATP synthase protein I;locus_tag=MEint885.genome.CDS.983
+MEint885.contig.12	feature	CDS	18214	18639	.	+	0	ID=MEint885.genome.CDS.982;Product=;locus_tag=MEint885.genome.CDS.982
+MEint885.contig.12	feature	CDS	17134	18213	.	+	0	ID=MEint885.genome.CDS.981;Product=Undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase %28EC 2.7.8.-%29;locus_tag=MEint885.genome.CDS.981
+MEint885.contig.12	feature	CDS	15869	17134	.	+	0	ID=MEint885.genome.CDS.980;Product=Serine hydroxymethyltransferase %28EC 2.1.2.1%29;locus_tag=MEint885.genome.CDS.980
+MEint885.contig.12	feature	CDS	15205	15858	.	+	0	ID=MEint885.genome.CDS.979;Product=;locus_tag=MEint885.genome.CDS.979
+MEint885.contig.12	feature	CDS	14336	15205	.	+	0	ID=MEint885.genome.CDS.978;Product=Protein-N%285%29-glutamine methyltransferase PrmC%2C methylates polypeptide chain release factors RF1 and RF2;locus_tag=MEint885.genome.CDS.978
+MEint885.contig.12	feature	CDS	13237	14331	.	+	0	ID=MEint885.genome.CDS.977;Product=Peptide chain release factor 1;locus_tag=MEint885.genome.CDS.977
+MEint885.contig.12	feature	CDS	12882	13139	.	+	0	ID=MEint885.genome.CDS.976;Product=LSU ribosomal protein L31p %40 LSU ribosomal protein L31p%2C zinc-independent;locus_tag=MEint885.genome.CDS.976
+MEint885.contig.12	feature	CDS	11163	12773	.	+	0	ID=MEint885.genome.CDS.975;Product=Transcription termination factor Rho;locus_tag=MEint885.genome.CDS.975
+MEint885.contig.12	feature	CDS	10037	10984	.	+	0	ID=MEint885.genome.CDS.974;Product=Homoserine kinase %28EC 2.7.1.39%29;locus_tag=MEint885.genome.CDS.974
+MEint885.contig.12	feature	CDS	8955	10034	.	+	0	ID=MEint885.genome.CDS.973;Product=Threonine synthase %28EC 4.2.3.1%29;locus_tag=MEint885.genome.CDS.973
+MEint885.contig.12	feature	CDS	7660	8955	.	+	0	ID=MEint885.genome.CDS.972;Product=Homoserine dehydrogenase %28EC 1.1.1.3%29;locus_tag=MEint885.genome.CDS.972
+MEint885.contig.12	feature	CDS	6290	7663	.	+	0	ID=MEint885.genome.CDS.971;Product=Diaminopimelate decarboxylase %28EC 4.1.1.20%29;locus_tag=MEint885.genome.CDS.971
+MEint885.contig.12	feature	CDS	4578	6287	.	+	0	ID=MEint885.genome.CDS.970;Product=Arginyl-tRNA synthetase %28EC 6.1.1.19%29;locus_tag=MEint885.genome.CDS.970
+MEint885.contig.12	feature	CDS	3286	4356	.	-	0	ID=MEint885.genome.CDS.969;Product=Xylose ABC transporter%2C periplasmic xylose-binding protein XylF;locus_tag=MEint885.genome.CDS.969
+MEint885.contig.12	feature	CDS	2445	3182	.	-	0	ID=MEint885.genome.CDS.968;Product=D-xylose transport ATP-binding protein XylG;locus_tag=MEint885.genome.CDS.968
+MEint885.contig.12	feature	CDS	1237	2448	.	-	0	ID=MEint885.genome.CDS.967;Product=Xylose ABC transporter%2C permease protein XylH;locus_tag=MEint885.genome.CDS.967
+MEint885.contig.12	feature	tRNA	1080	1161	.	-	.	ID=MEint885.genome.rna.3;Product=tRNA-Leu-TAG;locus_tag=MEint885.genome.rna.3
+MEint885.contig.12	feature	CDS	3	986	.	-	0	ID=MEint885.genome.CDS.966;Product=NAD-specific glutamate dehydrogenase %28EC 1.4.1.2%29%3B NADP-specific glutamate dehydrogenase %28EC 1.4.1.4%29;locus_tag=MEint885.genome.CDS.966
+MEint885.contig.13	feature	CDS	8382	9347	.	+	0	ID=MEint885.genome.CDS.1002;Product=O-succinylbenzoate synthase %28EC 4.2.1.113%29;locus_tag=MEint885.genome.CDS.1002
+MEint885.contig.13	feature	CDS	7500	8378	.	+	0	ID=MEint885.genome.CDS.1001;Product=Naphthoate synthase %28EC 4.1.3.36%29;locus_tag=MEint885.genome.CDS.1001
+MEint885.contig.13	feature	CDS	6438	7499	.	-	0	ID=MEint885.genome.CDS.1000;Product=O-succinylbenzoic acid--CoA ligase %28EC 6.2.1.26%29;locus_tag=MEint885.genome.CDS.1000
+MEint885.contig.13	feature	CDS	5582	6454	.	-	0	ID=MEint885.genome.CDS.999;Product=1%2C4-dihydroxy-2-naphthoate polyprenyltransferase %28EC 2.5.1.74%29;locus_tag=MEint885.genome.CDS.999
+MEint885.contig.13	feature	CDS	5315	5572	.	-	0	ID=MEint885.genome.CDS.998;Product=;locus_tag=MEint885.genome.CDS.998
+MEint885.contig.13	feature	CDS	4760	5320	.	+	0	ID=MEint885.genome.CDS.997;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.997
+MEint885.contig.13	feature	CDS	4338	4646	.	-	0	ID=MEint885.genome.CDS.996;Product=;locus_tag=MEint885.genome.CDS.996
+MEint885.contig.13	feature	CDS	3447	4343	.	+	0	ID=MEint885.genome.CDS.995;Product=Cytochrome c-type biogenesis protein CcsA/ResC;locus_tag=MEint885.genome.CDS.995
+MEint885.contig.13	feature	CDS	1999	3450	.	+	0	ID=MEint885.genome.CDS.994;Product=Ccs1/ResB-related putative cytochrome C-type biogenesis protein;locus_tag=MEint885.genome.CDS.994
+MEint885.contig.13	feature	CDS	1274	1999	.	+	0	ID=MEint885.genome.CDS.993;Product=Cytochrome c-type biogenesis protein CcdA %28DsbD analog%29;locus_tag=MEint885.genome.CDS.993
+MEint885.contig.13	feature	CDS	742	1281	.	+	0	ID=MEint885.genome.CDS.992;Product=Thiol:disulfide oxidoreductase related to ResA;locus_tag=MEint885.genome.CDS.992
+MEint885.contig.13	feature	CDS	92	745	.	+	0	ID=MEint885.genome.CDS.991;Product=Hypothetical%2C related to broad specificity phosphatases COG0406;locus_tag=MEint885.genome.CDS.991
+MEint885.contig.14	feature	CDS	9168	9299	.	-	0	ID=MEint885.genome.CDS.1012;Product=Nucleoside diphosphate kinase %28EC 2.7.4.6%29;locus_tag=MEint885.genome.CDS.1012
+MEint885.contig.14	feature	CDS	8116	9156	.	-	0	ID=MEint885.genome.CDS.1011;Product=Rod shape-determining protein MreB;locus_tag=MEint885.genome.CDS.1011
+MEint885.contig.14	feature	CDS	7191	8108	.	-	0	ID=MEint885.genome.CDS.1010;Product=Rod shape-determining protein MreC;locus_tag=MEint885.genome.CDS.1010
+MEint885.contig.14	feature	CDS	6668	7186	.	-	0	ID=MEint885.genome.CDS.1009;Product=;locus_tag=MEint885.genome.CDS.1009
+MEint885.contig.14	feature	CDS	4598	6667	.	-	0	ID=MEint885.genome.CDS.1008;Product=Penicillin-binding protein 2 %28PBP-2%29;locus_tag=MEint885.genome.CDS.1008
+MEint885.contig.14	feature	CDS	3459	4601	.	-	0	ID=MEint885.genome.CDS.1007;Product=Rod shape-determining protein RodA;locus_tag=MEint885.genome.CDS.1007
+MEint885.contig.14	feature	CDS	1125	3254	.	-	0	ID=MEint885.genome.CDS.1006;Product=Cytoplasmic axial filament protein CafA and Ribonuclease G %28EC 3.1.4.-%29;locus_tag=MEint885.genome.CDS.1006
+MEint885.contig.14	feature	CDS	716	1030	.	-	0	ID=MEint885.genome.CDS.1005;Product=LSU ribosomal protein L21p;locus_tag=MEint885.genome.CDS.1005
+MEint885.contig.14	feature	CDS	447	701	.	-	0	ID=MEint885.genome.CDS.1004;Product=LSU ribosomal protein L27p;locus_tag=MEint885.genome.CDS.1004
+MEint885.contig.14	feature	CDS	3	362	.	-	0	ID=MEint885.genome.CDS.1003;Product=GTP-binding protein Obg;locus_tag=MEint885.genome.CDS.1003
+MEint885.contig.15	feature	misc_RNA	1	427	.	+	.	ID=MEint885.genome.repeat.48;Product=repeat region;locus_tag=MEint885.genome.repeat.48
+MEint885.contig.15	feature	CDS	23595	24281	.	+	0	ID=MEint885.genome.CDS.1040;Product=;locus_tag=MEint885.genome.CDS.1040
+MEint885.contig.15	feature	CDS	22455	23594	.	+	0	ID=MEint885.genome.CDS.1039;Product=Predicted glycogen synthase%2C ADP-glucose transglucosylase %28EC 2.4.1.21%29%2C Actinobacterial type;locus_tag=MEint885.genome.CDS.1039
+MEint885.contig.15	feature	CDS	21181	22404	.	-	0	ID=MEint885.genome.CDS.1038;Product=Glucose-1-phosphate adenylyltransferase %28EC 2.7.7.27%29;locus_tag=MEint885.genome.CDS.1038
+MEint885.contig.15	feature	CDS	20071	21096	.	-	0	ID=MEint885.genome.CDS.1037;Product=6-phosphofructokinase %28EC 2.7.1.11%29;locus_tag=MEint885.genome.CDS.1037
+MEint885.contig.15	feature	CDS	18695	20029	.	-	0	ID=MEint885.genome.CDS.1036;Product=2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase II %28EC 2.5.1.54%29;locus_tag=MEint885.genome.CDS.1036
+MEint885.contig.15	feature	CDS	18166	18657	.	-	0	ID=MEint885.genome.CDS.1035;Product=Methylated-DNA--protein-cysteine methyltransferase %28EC 2.1.1.63%29;locus_tag=MEint885.genome.CDS.1035
+MEint885.contig.15	feature	CDS	17128	18192	.	+	0	ID=MEint885.genome.CDS.1034;Product=Low-specificity L-threonine aldolase %28EC 4.1.2.48%29;locus_tag=MEint885.genome.CDS.1034
+MEint885.contig.15	feature	CDS	16255	17115	.	+	0	ID=MEint885.genome.CDS.1033;Product=Permease of the drug/metabolite transporter %28DMT%29 superfamily;locus_tag=MEint885.genome.CDS.1033
+MEint885.contig.15	feature	CDS	15389	16255	.	+	0	ID=MEint885.genome.CDS.1032;Product=Endonuclease IV %28EC 3.1.21.2%29;locus_tag=MEint885.genome.CDS.1032
+MEint885.contig.15	feature	CDS	13474	15384	.	+	0	ID=MEint885.genome.CDS.1031;Product=Serine/threonine protein kinase PrkC%2C regulator of stationary phase;locus_tag=MEint885.genome.CDS.1031
+MEint885.contig.15	feature	CDS	12895	13464	.	+	0	ID=MEint885.genome.CDS.1030;Product=;locus_tag=MEint885.genome.CDS.1030
+MEint885.contig.15	feature	CDS	12291	12893	.	+	0	ID=MEint885.genome.CDS.1029;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1029
+MEint885.contig.15	feature	CDS	11865	12197	.	-	0	ID=MEint885.genome.CDS.1028;Product=;locus_tag=MEint885.genome.CDS.1028
+MEint885.contig.15	feature	CDS	11563	11868	.	-	0	ID=MEint885.genome.CDS.1027;Product=;locus_tag=MEint885.genome.CDS.1027
+MEint885.contig.15	feature	CDS	10658	11566	.	+	0	ID=MEint885.genome.CDS.1026;Product=Phytoene synthase %28EC 2.5.1.32%29;locus_tag=MEint885.genome.CDS.1026
+MEint885.contig.15	feature	CDS	9174	10655	.	+	0	ID=MEint885.genome.CDS.1025;Product=Phytoene dehydrogenase %28EC 1.14.99.-%29;locus_tag=MEint885.genome.CDS.1025
+MEint885.contig.15	feature	CDS	8111	9172	.	+	0	ID=MEint885.genome.CDS.1024;Product=Geranylgeranyl diphosphate synthase %28EC 2.5.1.29%29;locus_tag=MEint885.genome.CDS.1024
+MEint885.contig.15	feature	CDS	7238	8086	.	-	0	ID=MEint885.genome.CDS.1023;Product=5%2C10-methylenetetrahydrofolate reductase %28EC 1.5.1.20%29;locus_tag=MEint885.genome.CDS.1023
+MEint885.contig.15	feature	CDS	6612	7241	.	-	0	ID=MEint885.genome.CDS.1022;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1022
+MEint885.contig.15	feature	CDS	5144	6661	.	+	0	ID=MEint885.genome.CDS.1021;Product=Phytoene dehydrogenase %28EC 1.14.99.-%29;locus_tag=MEint885.genome.CDS.1021
+MEint885.contig.15	feature	CDS	4059	5147	.	+	0	ID=MEint885.genome.CDS.1020;Product=Glycosyl transferase%2C family 2;locus_tag=MEint885.genome.CDS.1020
+MEint885.contig.15	feature	CDS	3246	4052	.	+	0	ID=MEint885.genome.CDS.1019;Product=Ammonium transporter;locus_tag=MEint885.genome.CDS.1019
+MEint885.contig.15	feature	CDS	2572	3231	.	+	0	ID=MEint885.genome.CDS.1018;Product=Spheroidene monooxygenase %28EC 1.14.15.9%29;locus_tag=MEint885.genome.CDS.1018
+MEint885.contig.15	feature	CDS	1781	2575	.	+	0	ID=MEint885.genome.CDS.1017;Product=;locus_tag=MEint885.genome.CDS.1017
+MEint885.contig.15	feature	CDS	1277	1765	.	+	0	ID=MEint885.genome.CDS.1016;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1016
+MEint885.contig.15	feature	CDS	869	1267	.	+	0	ID=MEint885.genome.CDS.1015;Product=Arsenate reductase %28EC 1.20.4.1%29;locus_tag=MEint885.genome.CDS.1015
+MEint885.contig.15	feature	CDS	228	872	.	+	0	ID=MEint885.genome.CDS.1014;Product=Aquaporin Z;locus_tag=MEint885.genome.CDS.1014
+MEint885.contig.15	feature	CDS	1	231	.	+	0	ID=MEint885.genome.CDS.1013;Product=;locus_tag=MEint885.genome.CDS.1013
+MEint885.contig.16	feature	CDS	6272	7777	.	-	0	ID=MEint885.genome.CDS.1047;Product=Methionyl-tRNA synthetase %28EC 6.1.1.10%29;locus_tag=MEint885.genome.CDS.1047
+MEint885.contig.16	feature	CDS	5399	6259	.	-	0	ID=MEint885.genome.CDS.1046;Product=Putative deoxyribonuclease YcfH;locus_tag=MEint885.genome.CDS.1046
+MEint885.contig.16	feature	CDS	4557	5402	.	-	0	ID=MEint885.genome.CDS.1045;Product=SSU rRNA %28adenine%281518%29-N%286%29/adenine%281519%29-N%286%29%29-dimethyltransferase %28EC 2.1.1.182%29;locus_tag=MEint885.genome.CDS.1045
+MEint885.contig.16	feature	CDS	3616	4530	.	-	0	ID=MEint885.genome.CDS.1044;Product=4-diphosphocytidyl-2-C-methyl-D-erythritol kinase %28EC 2.7.1.148%29;locus_tag=MEint885.genome.CDS.1044
+MEint885.contig.16	feature	CDS	2003	3505	.	-	0	ID=MEint885.genome.CDS.1043;Product=N-acetylglucosamine-1-phosphate uridyltransferase %28EC 2.7.7.23%29 / Glucosamine-1-phosphate N-acetyltransferase %28EC 2.3.1.157%29;locus_tag=MEint885.genome.CDS.1043
+MEint885.contig.16	feature	CDS	1023	2006	.	-	0	ID=MEint885.genome.CDS.1042;Product=Ribose-phosphate pyrophosphokinase %28EC 2.7.6.1%29;locus_tag=MEint885.genome.CDS.1042
+MEint885.contig.16	feature	CDS	2	1060	.	-	0	ID=MEint885.genome.CDS.1041;Product=;locus_tag=MEint885.genome.CDS.1041
+MEint885.contig.17	feature	CDS	6837	7265	.	+	0	ID=MEint885.genome.CDS.1056;Product=Topoisomerase IV subunit A %28EC 5.99.1.-%29;locus_tag=MEint885.genome.CDS.1056
+MEint885.contig.17	feature	CDS	5996	6886	.	+	0	ID=MEint885.genome.CDS.1055;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1055
+MEint885.contig.17	feature	CDS	5100	5993	.	+	0	ID=MEint885.genome.CDS.1054;Product=Indigoidine synthase A-like protein%2C uncharacterized enzyme involved in pigment biosynthesis;locus_tag=MEint885.genome.CDS.1054
+MEint885.contig.17	feature	CDS	3968	5068	.	-	0	ID=MEint885.genome.CDS.1053;Product=Alkaline phosphodiesterase I %28EC 3.1.4.1%29 / Nucleotide pyrophosphatase %28EC 3.6.1.9%29;locus_tag=MEint885.genome.CDS.1053
+MEint885.contig.17	feature	CDS	3160	3963	.	+	0	ID=MEint885.genome.CDS.1052;Product=;locus_tag=MEint885.genome.CDS.1052
+MEint885.contig.17	feature	CDS	1899	3113	.	+	0	ID=MEint885.genome.CDS.1051;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1051
+MEint885.contig.17	feature	CDS	1075	1851	.	-	0	ID=MEint885.genome.CDS.1050;Product=Inositol-1-monophosphatase %28EC 3.1.3.25%29;locus_tag=MEint885.genome.CDS.1050
+MEint885.contig.17	feature	CDS	419	943	.	-	0	ID=MEint885.genome.CDS.1049;Product=LSU ribosomal protein L19p;locus_tag=MEint885.genome.CDS.1049
+MEint885.contig.17	feature	CDS	3	407	.	-	0	ID=MEint885.genome.CDS.1048;Product=Signal peptidase I %28EC 3.4.21.89%29;locus_tag=MEint885.genome.CDS.1048
+MEint885.contig.18	feature	misc_RNA	1	1347	.	+	.	ID=MEint885.genome.repeat.33;Product=repeat region;locus_tag=MEint885.genome.repeat.33
+MEint885.contig.18	feature	CDS	5799	7061	.	-	0	ID=MEint885.genome.CDS.1061;Product=5-Enolpyruvylshikimate-3-phosphate synthase %28EC 2.5.1.19%29;locus_tag=MEint885.genome.CDS.1061
+MEint885.contig.18	feature	CDS	4826	5806	.	-	0	ID=MEint885.genome.CDS.1060;Product=Ribosome small subunit-stimulated GTPase EngC;locus_tag=MEint885.genome.CDS.1060
+MEint885.contig.18	feature	CDS	4011	4820	.	-	0	ID=MEint885.genome.CDS.1059;Product=Histidinol-phosphatase %5Balternative form%5D %28EC 3.1.3.15%29;locus_tag=MEint885.genome.CDS.1059
+MEint885.contig.18	feature	CDS	1756	4014	.	-	0	ID=MEint885.genome.CDS.1058;Product=Lead%2C cadmium%2C zinc and mercury transporting ATPase %28EC 3.6.3.3%29 %28EC 3.6.3.5%29%3B Copper-translocating P-type ATPase %28EC 3.6.3.4%29;locus_tag=MEint885.genome.CDS.1058
+MEint885.contig.18	feature	tRNA	1580	1656	.	+	.	ID=MEint885.genome.rna.5;Product=tRNA-Met-CAT;locus_tag=MEint885.genome.rna.5
+MEint885.contig.18	feature	CDS	1	1533	.	+	0	ID=MEint885.genome.CDS.1057;Product=UPF0182 protein AF1421;locus_tag=MEint885.genome.CDS.1057
+MEint885.contig.19	feature	misc_RNA	1	1347	.	+	.	ID=MEint885.genome.repeat.42;Product=repeat region;locus_tag=MEint885.genome.repeat.42
+MEint885.contig.19	feature	misc_RNA	6574	7480	.	+	.	ID=MEint885.genome.repeat.43;Product=repeat region;locus_tag=MEint885.genome.repeat.43
+MEint885.contig.19	feature	CDS	6783	7478	.	+	0	ID=MEint885.genome.CDS.1068;Product=;locus_tag=MEint885.genome.CDS.1068
+MEint885.contig.19	feature	CDS	6445	6603	.	+	0	ID=MEint885.genome.CDS.1067;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1067
+MEint885.contig.19	feature	CDS	5771	6334	.	+	0	ID=MEint885.genome.CDS.1066;Product=;locus_tag=MEint885.genome.CDS.1066
+MEint885.contig.19	feature	CDS	4195	5520	.	+	0	ID=MEint885.genome.CDS.1065;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1065
+MEint885.contig.19	feature	CDS	3805	4020	.	-	0	ID=MEint885.genome.CDS.1064;Product=;locus_tag=MEint885.genome.CDS.1064
+MEint885.contig.19	feature	CDS	2732	3799	.	-	0	ID=MEint885.genome.CDS.1063;Product=Lon-like protease with PDZ domain;locus_tag=MEint885.genome.CDS.1063
+MEint885.contig.19	feature	CDS	1	2703	.	-	0	ID=MEint885.genome.CDS.1062;Product=UPF0182 protein AF1421;locus_tag=MEint885.genome.CDS.1062
+MEint885.contig.2	feature	CDS	3245	4813	.	+	0	ID=MEint885.genome.CDS.852;Product=Dipeptidyl carboxypeptidase Dcp %28EC 3.4.15.5%29;locus_tag=MEint885.genome.CDS.852
+MEint885.contig.2	feature	CDS	2478	3248	.	+	0	ID=MEint885.genome.CDS.851;Product=;locus_tag=MEint885.genome.CDS.851
+MEint885.contig.2	feature	CDS	621	2420	.	-	0	ID=MEint885.genome.CDS.850;Product=DNA polymerase III epsilon subunit %28EC 2.7.7.7%29;locus_tag=MEint885.genome.CDS.850
+MEint885.contig.20	feature	misc_RNA	2937	4112	.	+	.	ID=MEint885.genome.repeat.23;Product=repeat region;locus_tag=MEint885.genome.repeat.23
+MEint885.contig.20	feature	CDS	3120	4112	.	-	0	ID=MEint885.genome.CDS.1072;Product=Deoxyribodipyrimidine photolyase %28EC 4.1.99.3%29;locus_tag=MEint885.genome.CDS.1072
+MEint885.contig.20	feature	CDS	1683	3116	.	+	0	ID=MEint885.genome.CDS.1071;Product=Homospermidine synthase %28EC 2.5.1.44%29;locus_tag=MEint885.genome.CDS.1071
+MEint885.contig.20	feature	CDS	173	1588	.	+	0	ID=MEint885.genome.CDS.1070;Product=diguanylate cyclase/phosphodiesterase %28GGDEF %26 EAL domains%29 with PAS/PAC sensor%28s%29;locus_tag=MEint885.genome.CDS.1070
+MEint885.contig.20	feature	CDS	3	149	.	-	0	ID=MEint885.genome.CDS.1069;Product=;locus_tag=MEint885.genome.CDS.1069
+MEint885.contig.21	feature	misc_RNA	1	5151	.	+	.	ID=MEint885.genome.repeat.41;Product=repeat region;locus_tag=MEint885.genome.repeat.41
+MEint885.contig.21	feature	CDS	13066	13515	.	+	0	ID=MEint885.genome.CDS.1085;Product=FIG021292: hypothetical protein;locus_tag=MEint885.genome.CDS.1085
+MEint885.contig.21	feature	CDS	12376	13044	.	+	0	ID=MEint885.genome.CDS.1084;Product=Hypothetical protein YggS%2C proline synthase co-transcribed bacterial homolog PROSC;locus_tag=MEint885.genome.CDS.1084
+MEint885.contig.21	feature	CDS	11696	12379	.	+	0	ID=MEint885.genome.CDS.1083;Product=COG1496: Uncharacterized conserved protein;locus_tag=MEint885.genome.CDS.1083
+MEint885.contig.21	feature	CDS	10557	11684	.	+	0	ID=MEint885.genome.CDS.1082;Product=Cell division protein FtsZ %28EC 3.4.24.-%29;locus_tag=MEint885.genome.CDS.1082
+MEint885.contig.21	feature	CDS	9660	10427	.	+	0	ID=MEint885.genome.CDS.1081;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1081
+MEint885.contig.21	feature	CDS	8258	9655	.	+	0	ID=MEint885.genome.CDS.1080;Product=UDP-N-acetylmuramate--alanine ligase %28EC 6.3.2.8%29;locus_tag=MEint885.genome.CDS.1080
+MEint885.contig.21	feature	CDS	7169	8257	.	+	0	ID=MEint885.genome.CDS.1079;Product=UDP-N-acetylglucosamine--N-acetylmuramyl-%28pentapeptide%29 pyrophosphoryl-undecaprenol N-acetylglucosamine transferase %28EC 2.4.1.227%29;locus_tag=MEint885.genome.CDS.1079
+MEint885.contig.21	feature	CDS	5985	7163	.	+	0	ID=MEint885.genome.CDS.1078;Product=Cell division protein FtsW;locus_tag=MEint885.genome.CDS.1078
+MEint885.contig.21	feature	CDS	4625	5992	.	+	0	ID=MEint885.genome.CDS.1077;Product=UDP-N-acetylmuramoylalanine--D-glutamate ligase %28EC 6.3.2.9%29;locus_tag=MEint885.genome.CDS.1077
+MEint885.contig.21	feature	CDS	3570	4628	.	+	0	ID=MEint885.genome.CDS.1076;Product=Phospho-N-acetylmuramoyl-pentapeptide-transferase %28EC 2.7.8.13%29;locus_tag=MEint885.genome.CDS.1076
+MEint885.contig.21	feature	CDS	2188	3573	.	+	0	ID=MEint885.genome.CDS.1075;Product=UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase %28EC 6.3.2.10%29;locus_tag=MEint885.genome.CDS.1075
+MEint885.contig.21	feature	CDS	686	2191	.	+	0	ID=MEint885.genome.CDS.1074;Product=UDP-N-acetylmuramoylalanyl-D-glutamate--2%2C6-diaminopimelate ligase %28EC 6.3.2.13%29;locus_tag=MEint885.genome.CDS.1074
+MEint885.contig.21	feature	CDS	1	693	.	+	0	ID=MEint885.genome.CDS.1073;Product=Cell division protein FtsI %5BPeptidoglycan synthetase%5D %28EC 2.4.1.129%29;locus_tag=MEint885.genome.CDS.1073
+MEint885.contig.22	feature	CDS	7198	7791	.	-	0	ID=MEint885.genome.CDS.1094;Product=Peptide chain release factor 2;locus_tag=MEint885.genome.CDS.1094
+MEint885.contig.22	feature	CDS	6406	7095	.	-	0	ID=MEint885.genome.CDS.1093;Product=Cell division transporter%2C ATP-binding protein FtsE %28TC 3.A.5.1.1%29;locus_tag=MEint885.genome.CDS.1093
+MEint885.contig.22	feature	CDS	5501	6403	.	-	0	ID=MEint885.genome.CDS.1092;Product=Cell division protein FtsX;locus_tag=MEint885.genome.CDS.1092
+MEint885.contig.22	feature	CDS	4103	5374	.	-	0	ID=MEint885.genome.CDS.1091;Product=;locus_tag=MEint885.genome.CDS.1091
+MEint885.contig.22	feature	CDS	3542	4048	.	-	0	ID=MEint885.genome.CDS.1090;Product=tmRNA-binding protein SmpB;locus_tag=MEint885.genome.CDS.1090
+MEint885.contig.22	feature	CDS	2775	3047	.	+	0	ID=MEint885.genome.CDS.1089;Product=;locus_tag=MEint885.genome.CDS.1089
+MEint885.contig.22	feature	CDS	1352	2740	.	+	0	ID=MEint885.genome.CDS.1088;Product=NAD%28P%29 transhydrogenase subunit beta %28EC 1.6.1.2%29;locus_tag=MEint885.genome.CDS.1088
+MEint885.contig.22	feature	CDS	1046	1351	.	+	0	ID=MEint885.genome.CDS.1087;Product=NAD%28P%29 transhydrogenase alpha subunit %28EC 1.6.1.2%29;locus_tag=MEint885.genome.CDS.1087
+MEint885.contig.22	feature	CDS	1	1041	.	+	0	ID=MEint885.genome.CDS.1086;Product=NAD%28P%29 transhydrogenase alpha subunit %28EC 1.6.1.2%29;locus_tag=MEint885.genome.CDS.1086
+MEint885.contig.23	feature	misc_RNA	19320	19819	.	+	.	ID=MEint885.genome.repeat.3;Product=repeat region;locus_tag=MEint885.genome.repeat.3
+MEint885.contig.23	feature	CDS	19151	19819	.	-	0	ID=MEint885.genome.CDS.1117;Product=FIG00945644: hypothetical protein;locus_tag=MEint885.genome.CDS.1117
+MEint885.contig.23	feature	CDS	18792	19130	.	-	0	ID=MEint885.genome.CDS.1116;Product=Twin-arginine translocation protein TatB;locus_tag=MEint885.genome.CDS.1116
+MEint885.contig.23	feature	CDS	17659	18795	.	-	0	ID=MEint885.genome.CDS.1115;Product=Mrp protein homolog;locus_tag=MEint885.genome.CDS.1115
+MEint885.contig.23	feature	CDS	16757	17629	.	-	0	ID=MEint885.genome.CDS.1114;Product=Permease of the drug/metabolite transporter %28DMT%29 superfamily;locus_tag=MEint885.genome.CDS.1114
+MEint885.contig.23	feature	CDS	15883	16746	.	-	0	ID=MEint885.genome.CDS.257;Product=FIG00031715: Predicted metal-dependent phosphoesterases %28PHP family%29;locus_tag=MEint885.genome.CDS.257
+MEint885.contig.23	feature	CDS	15275	15886	.	-	0	ID=MEint885.genome.CDS.1112;Product=;locus_tag=MEint885.genome.CDS.1112
+MEint885.contig.23	feature	CDS	14496	15278	.	-	0	ID=MEint885.genome.CDS.1111;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1111
+MEint885.contig.23	feature	CDS	13789	14499	.	-	0	ID=MEint885.genome.CDS.1110;Product=;locus_tag=MEint885.genome.CDS.1110
+MEint885.contig.23	feature	CDS	13524	13787	.	+	0	ID=MEint885.genome.CDS.1109;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1109
+MEint885.contig.23	feature	CDS	12842	13468	.	+	0	ID=MEint885.genome.CDS.1108;Product=Transcriptional regulator%2C TetR family;locus_tag=MEint885.genome.CDS.1108
+MEint885.contig.23	feature	CDS	11922	12785	.	-	0	ID=MEint885.genome.CDS.1107;Product=1D-myo-inositol 2-acetamido-2-deoxy-alpha-D-glucopyranoside deacetylase %28EC 3.5.1.103%29;locus_tag=MEint885.genome.CDS.1107
+MEint885.contig.23	feature	CDS	11614	11925	.	-	0	ID=MEint885.genome.CDS.1106;Product=;locus_tag=MEint885.genome.CDS.1106
+MEint885.contig.23	feature	CDS	10159	11610	.	+	0	ID=MEint885.genome.CDS.1105;Product=Cysteinyl-tRNA synthetase %28EC 6.1.1.16%29;locus_tag=MEint885.genome.CDS.1105
+MEint885.contig.23	feature	CDS	9774	10100	.	-	0	ID=MEint885.genome.CDS.1104;Product=Ferredoxin;locus_tag=MEint885.genome.CDS.1104
+MEint885.contig.23	feature	CDS	8690	9469	.	-	0	ID=MEint885.genome.CDS.1103;Product=N-succinyl-L%2CL-diaminopimelate aminotransferase %28EC 2.6.1.17%29%2C type 2;locus_tag=MEint885.genome.CDS.1103
+MEint885.contig.23	feature	CDS	7716	8693	.	-	0	ID=MEint885.genome.CDS.1102;Product=D-glycero-D-manno-heptose 1-phosphate guanosyltransferase;locus_tag=MEint885.genome.CDS.1102
+MEint885.contig.23	feature	CDS	7589	7705	.	+	0	ID=MEint885.genome.CDS.1101;Product=;locus_tag=MEint885.genome.CDS.1101
+MEint885.contig.23	feature	CDS	7261	7554	.	-	0	ID=MEint885.genome.CDS.1100;Product=Sporulation regulatory protein WhiB;locus_tag=MEint885.genome.CDS.1100
+MEint885.contig.23	feature	CDS	4096	7173	.	-	0	ID=MEint885.genome.CDS.1099;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1099
+MEint885.contig.23	feature	CDS	2792	4099	.	-	0	ID=MEint885.genome.CDS.1098;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1098
+MEint885.contig.23	feature	CDS	2363	2749	.	-	0	ID=MEint885.genome.CDS.1097;Product=;locus_tag=MEint885.genome.CDS.1097
+MEint885.contig.23	feature	CDS	956	2344	.	-	0	ID=MEint885.genome.CDS.1096;Product=Phosphomannomutase %28EC 5.4.2.8%29;locus_tag=MEint885.genome.CDS.1096
+MEint885.contig.23	feature	CDS	3	902	.	-	0	ID=MEint885.genome.CDS.1095;Product=Adenosylhomocysteinase %28EC 3.3.1.1%29;locus_tag=MEint885.genome.CDS.1095
+MEint885.contig.24	feature	misc_RNA	1939	8660	.	+	.	ID=MEint885.genome.repeat.8;Product=repeat region;locus_tag=MEint885.genome.repeat.8
+MEint885.contig.24	feature	CDS	7636	8658	.	+	0	ID=MEint885.genome.CDS.1125;Product=Acetylornithine aminotransferase %28EC 2.6.1.11%29;locus_tag=MEint885.genome.CDS.1125
+MEint885.contig.24	feature	CDS	6881	7639	.	+	0	ID=MEint885.genome.CDS.1124;Product=Acetylglutamate kinase %28EC 2.7.2.8%29;locus_tag=MEint885.genome.CDS.1124
+MEint885.contig.24	feature	CDS	5715	6884	.	+	0	ID=MEint885.genome.CDS.1123;Product=Glutamate N-acetyltransferase %28EC 2.3.1.35%29 / N-acetylglutamate synthase %28EC 2.3.1.1%29;locus_tag=MEint885.genome.CDS.1123
+MEint885.contig.24	feature	CDS	4699	5718	.	+	0	ID=MEint885.genome.CDS.1122;Product=N-acetyl-gamma-glutamyl-phosphate reductase %28EC 1.2.1.38%29;locus_tag=MEint885.genome.CDS.1122
+MEint885.contig.24	feature	CDS	2166	4643	.	+	0	ID=MEint885.genome.CDS.1121;Product=Phenylalanyl-tRNA synthetase beta chain %28EC 6.1.1.20%29;locus_tag=MEint885.genome.CDS.1121
+MEint885.contig.24	feature	CDS	1153	2169	.	+	0	ID=MEint885.genome.CDS.1120;Product=Phenylalanyl-tRNA synthetase alpha chain %28EC 6.1.1.20%29;locus_tag=MEint885.genome.CDS.1120
+MEint885.contig.24	feature	CDS	314	1117	.	+	0	ID=MEint885.genome.CDS.1119;Product=;locus_tag=MEint885.genome.CDS.1119
+MEint885.contig.24	feature	CDS	1	294	.	+	0	ID=MEint885.genome.CDS.1118;Product=LSU ribosomal protein L20p;locus_tag=MEint885.genome.CDS.1118
+MEint885.contig.25	feature	misc_RNA	6395	6554	.	+	.	ID=MEint885.genome.repeat.50;Product=repeat region;locus_tag=MEint885.genome.repeat.50
+MEint885.contig.25	feature	misc_RNA	6615	6760	.	+	.	ID=MEint885.genome.repeat.51;Product=repeat region;locus_tag=MEint885.genome.repeat.51
+MEint885.contig.25	feature	CDS	5226	6635	.	-	0	ID=MEint885.genome.CDS.1131;Product=RNA polymerase sigma factor RpoD;locus_tag=MEint885.genome.CDS.1131
+MEint885.contig.25	feature	CDS	5024	5215	.	-	0	ID=MEint885.genome.CDS.1130;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1130
+MEint885.contig.25	feature	CDS	3718	5046	.	-	0	ID=MEint885.genome.CDS.271;Product=;locus_tag=MEint885.genome.CDS.271
+MEint885.contig.25	feature	CDS	3429	3743	.	+	0	ID=MEint885.genome.CDS.270;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.270
+MEint885.contig.25	feature	CDS	1248	3335	.	-	0	ID=MEint885.genome.CDS.1127;Product=Topoisomerase IV subunit B %28EC 5.99.1.-%29;locus_tag=MEint885.genome.CDS.1127
+MEint885.contig.25	feature	CDS	1	1251	.	+	0	ID=MEint885.genome.CDS.1126;Product=Topoisomerase IV subunit A %28EC 5.99.1.-%29;locus_tag=MEint885.genome.CDS.1126
+MEint885.contig.26	feature	CDS	4832	5464	.	+	0	ID=MEint885.genome.CDS.1138;Product=putative oxidoreductase;locus_tag=MEint885.genome.CDS.1138
+MEint885.contig.26	feature	CDS	4102	4767	.	-	0	ID=MEint885.genome.CDS.1137;Product=;locus_tag=MEint885.genome.CDS.1137
+MEint885.contig.26	feature	CDS	3579	4112	.	-	0	ID=MEint885.genome.CDS.1136;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1136
+MEint885.contig.26	feature	CDS	2877	3578	.	-	0	ID=MEint885.genome.CDS.1135;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1135
+MEint885.contig.26	feature	CDS	1605	2837	.	-	0	ID=MEint885.genome.CDS.1134;Product=L-cysteine:1D-myo-inosityl 2-amino-2-deoxy-alpha-D-glucopyranoside ligase MshC;locus_tag=MEint885.genome.CDS.1134
+MEint885.contig.26	feature	CDS	763	1608	.	+	0	ID=MEint885.genome.CDS.1133;Product=PFIG00823557: AC2 %28Proteasome assembly chaperone%29 family;locus_tag=MEint885.genome.CDS.1133
+MEint885.contig.26	feature	CDS	3	734	.	-	0	ID=MEint885.genome.CDS.1132;Product=5-methyltetrahydrofolate--homocysteine methyltransferase %28EC 2.1.1.13%29;locus_tag=MEint885.genome.CDS.1132
+MEint885.contig.27	feature	misc_RNA	2954	4193	.	+	.	ID=MEint885.genome.repeat.28;Product=repeat region;locus_tag=MEint885.genome.repeat.28
+MEint885.contig.27	feature	CDS	2383	3993	.	-	0	ID=MEint885.genome.CDS.1142;Product=Transcription termination factor Rho;locus_tag=MEint885.genome.CDS.1142
+MEint885.contig.27	feature	CDS	2018	2275	.	-	0	ID=MEint885.genome.CDS.1141;Product=LSU ribosomal protein L31p %40 LSU ribosomal protein L31p%2C zinc-independent;locus_tag=MEint885.genome.CDS.1141
+MEint885.contig.27	feature	CDS	824	1918	.	-	0	ID=MEint885.genome.CDS.1140;Product=Peptide chain release factor 1;locus_tag=MEint885.genome.CDS.1140
+MEint885.contig.27	feature	CDS	3	818	.	-	0	ID=MEint885.genome.CDS.1139;Product=Protein-N%285%29-glutamine methyltransferase PrmC%2C methylates polypeptide chain release factors RF1 and RF2;locus_tag=MEint885.genome.CDS.1139
+MEint885.contig.28	feature	CDS	11879	12448	.	+	0	ID=MEint885.genome.CDS.1154;Product=;locus_tag=MEint885.genome.CDS.1154
+MEint885.contig.28	feature	CDS	9717	11888	.	+	0	ID=MEint885.genome.CDS.1153;Product=DNA internalization-related competence protein ComEC/Rec2;locus_tag=MEint885.genome.CDS.1153
+MEint885.contig.28	feature	CDS	9022	9612	.	+	0	ID=MEint885.genome.CDS.1152;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1152
+MEint885.contig.28	feature	CDS	6473	8932	.	+	0	ID=MEint885.genome.CDS.1151;Product=Leucyl-tRNA synthetase %28EC 6.1.1.4%29;locus_tag=MEint885.genome.CDS.1151
+MEint885.contig.28	feature	CDS	5507	6463	.	+	0	ID=MEint885.genome.CDS.1150;Product=;locus_tag=MEint885.genome.CDS.1150
+MEint885.contig.28	feature	tRNA	5430	5502	.	+	.	ID=MEint885.genome.rna.6;Product=tRNA-Ala-GGC;locus_tag=MEint885.genome.rna.6
+MEint885.contig.28	feature	CDS	4736	5380	.	+	0	ID=MEint885.genome.CDS.1149;Product=;locus_tag=MEint885.genome.CDS.1149
+MEint885.contig.28	feature	CDS	4350	4733	.	+	0	ID=MEint885.genome.CDS.1148;Product=;locus_tag=MEint885.genome.CDS.1148
+MEint885.contig.28	feature	CDS	3761	4363	.	+	0	ID=MEint885.genome.CDS.1147;Product=Nicotinate-nucleotide adenylyltransferase %28EC 2.7.7.18%29;locus_tag=MEint885.genome.CDS.1147
+MEint885.contig.28	feature	CDS	3625	3774	.	+	0	ID=MEint885.genome.CDS.1146;Product=;locus_tag=MEint885.genome.CDS.1146
+MEint885.contig.28	feature	CDS	1579	3615	.	+	0	ID=MEint885.genome.CDS.1145;Product=DNA ligase %28EC 6.5.1.2%29;locus_tag=MEint885.genome.CDS.1145
+MEint885.contig.28	feature	CDS	497	1579	.	+	0	ID=MEint885.genome.CDS.1144;Product=tRNA-specific 2-thiouridylase MnmA;locus_tag=MEint885.genome.CDS.1144
+MEint885.contig.28	feature	CDS	1	486	.	+	0	ID=MEint885.genome.CDS.1143;Product=Cysteine desulfurase %28EC 2.8.1.7%29;locus_tag=MEint885.genome.CDS.1143
+MEint885.contig.29	feature	CDS	13039	14058	.	-	0	ID=MEint885.genome.CDS.1173;Product=Transcription-repair coupling factor;locus_tag=MEint885.genome.CDS.1173
+MEint885.contig.29	feature	CDS	12435	13031	.	-	0	ID=MEint885.genome.CDS.1172;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1172
+MEint885.contig.29	feature	CDS	11775	12416	.	-	0	ID=MEint885.genome.CDS.1171;Product=Nucleoside triphosphate pyrophosphohydrolase MazG %28EC 3.6.1.8%29;locus_tag=MEint885.genome.CDS.1171
+MEint885.contig.29	feature	CDS	10474	11763	.	-	0	ID=MEint885.genome.CDS.1170;Product=Enolase %28EC 4.2.1.11%29;locus_tag=MEint885.genome.CDS.1170
+MEint885.contig.29	feature	CDS	9998	10444	.	-	0	ID=MEint885.genome.CDS.1169;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1169
+MEint885.contig.29	feature	CDS	9482	9988	.	-	0	ID=MEint885.genome.CDS.1168;Product=FIG004853: possible toxin to DivIC;locus_tag=MEint885.genome.CDS.1168
+MEint885.contig.29	feature	CDS	8571	9485	.	-	0	ID=MEint885.genome.CDS.1167;Product=Exopolyphosphatase %28EC 3.6.1.11%29;locus_tag=MEint885.genome.CDS.1167
+MEint885.contig.29	feature	tRNA	7774	7846	.	-	.	ID=MEint885.genome.rna.7;Product=tRNA-Leu-TAA;locus_tag=MEint885.genome.rna.7
+MEint885.contig.29	feature	CDS	6927	7721	.	-	0	ID=MEint885.genome.CDS.1165;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1165
+MEint885.contig.29	feature	CDS	5880	6926	.	+	0	ID=MEint885.genome.CDS.1164;Product=;locus_tag=MEint885.genome.CDS.1164
+MEint885.contig.29	feature	CDS	4646	5863	.	-	0	ID=MEint885.genome.CDS.1163;Product=Methionine ABC transporter ATP-binding protein;locus_tag=MEint885.genome.CDS.1163
+MEint885.contig.29	feature	CDS	3846	4649	.	-	0	ID=MEint885.genome.CDS.1162;Product=ABC-type multidrug transport system%2C permease component;locus_tag=MEint885.genome.CDS.1162
+MEint885.contig.29	feature	CDS	3372	3845	.	+	0	ID=MEint885.genome.CDS.1161;Product=Transcription elongation factor GreA;locus_tag=MEint885.genome.CDS.1161
+MEint885.contig.29	feature	CDS	2943	3359	.	+	0	ID=MEint885.genome.CDS.1160;Product=;locus_tag=MEint885.genome.CDS.1160
+MEint885.contig.29	feature	CDS	2785	2928	.	-	0	ID=MEint885.genome.CDS.1159;Product=;locus_tag=MEint885.genome.CDS.1159
+MEint885.contig.29	feature	CDS	2088	2801	.	-	0	ID=MEint885.genome.CDS.1158;Product=Cytochrome oxidase biogenesis protein Surf1%2C facilitates heme A insertion;locus_tag=MEint885.genome.CDS.1158
+MEint885.contig.29	feature	CDS	1799	2104	.	-	0	ID=MEint885.genome.CDS.1157;Product=;locus_tag=MEint885.genome.CDS.1157
+MEint885.contig.29	feature	CDS	1014	1802	.	-	0	ID=MEint885.genome.CDS.1156;Product=%282E%2C6Z%29-farnesyl diphosphate synthase %28EC 2.5.1.68%29;locus_tag=MEint885.genome.CDS.1156
+MEint885.contig.29	feature	CDS	3	872	.	-	0	ID=MEint885.genome.CDS.1155;Product=Predicted ATPase related to phosphate starvation-inducible protein PhoH;locus_tag=MEint885.genome.CDS.1155
+MEint885.contig.3	feature	CDS	6434	7669	.	+	0	ID=MEint885.genome.CDS.858;Product=Acetolactate synthase large subunit %28EC 2.2.1.6%29;locus_tag=MEint885.genome.CDS.858
+MEint885.contig.3	feature	CDS	4529	6205	.	+	0	ID=MEint885.genome.CDS.857;Product=Dihydroxy-acid dehydratase %28EC 4.2.1.9%29;locus_tag=MEint885.genome.CDS.857
+MEint885.contig.3	feature	CDS	3013	4515	.	+	0	ID=MEint885.genome.CDS.856;Product=Aspartyl-tRNA%28Asn%29 amidotransferase subunit B %28EC 6.3.5.6%29 %40 Glutamyl-tRNA%28Gln%29 amidotransferase subunit B %28EC 6.3.5.7%29;locus_tag=MEint885.genome.CDS.856
+MEint885.contig.3	feature	CDS	1529	3013	.	+	0	ID=MEint885.genome.CDS.855;Product=Aspartyl-tRNA%28Asn%29 amidotransferase subunit A %28EC 6.3.5.6%29 %40 Glutamyl-tRNA%28Gln%29 amidotransferase subunit A %28EC 6.3.5.7%29;locus_tag=MEint885.genome.CDS.855
+MEint885.contig.3	feature	CDS	1233	1529	.	+	0	ID=MEint885.genome.CDS.854;Product=Aspartyl-tRNA%28Asn%29 amidotransferase subunit C %28EC 6.3.5.6%29 %40 Glutamyl-tRNA%28Gln%29 amidotransferase subunit C %28EC 6.3.5.7%29;locus_tag=MEint885.genome.CDS.854
+MEint885.contig.3	feature	CDS	1	1194	.	+	0	ID=MEint885.genome.CDS.853;Product=Gamma-glutamyl phosphate reductase %28EC 1.2.1.41%29;locus_tag=MEint885.genome.CDS.853
+MEint885.contig.30	feature	misc_RNA	1	1729	.	+	.	ID=MEint885.genome.repeat.45;Product=repeat region;locus_tag=MEint885.genome.repeat.45
+MEint885.contig.30	feature	misc_RNA	20527	25385	.	+	.	ID=MEint885.genome.repeat.46;Product=repeat region;locus_tag=MEint885.genome.repeat.46
+MEint885.contig.30	feature	CDS	23438	25372	.	+	0	ID=MEint885.genome.CDS.1200;Product=1-deoxy-D-xylulose 5-phosphate synthase %28EC 2.2.1.7%29;locus_tag=MEint885.genome.CDS.1200
+MEint885.contig.30	feature	CDS	20760	23417	.	+	0	ID=MEint885.genome.CDS.1199;Product=Aconitate hydratase %28EC 4.2.1.3%29;locus_tag=MEint885.genome.CDS.1199
+MEint885.contig.30	feature	CDS	19547	20701	.	+	0	ID=MEint885.genome.CDS.1198;Product=;locus_tag=MEint885.genome.CDS.1198
+MEint885.contig.30	feature	CDS	18783	19430	.	-	0	ID=MEint885.genome.CDS.1197;Product=Trk system potassium uptake protein TrkA;locus_tag=MEint885.genome.CDS.1197
+MEint885.contig.30	feature	CDS	18121	18780	.	-	0	ID=MEint885.genome.CDS.1196;Product=Trk system potassium uptake protein TrkA;locus_tag=MEint885.genome.CDS.1196
+MEint885.contig.30	feature	CDS	17492	18124	.	+	0	ID=MEint885.genome.CDS.1195;Product=PROBABLE CONSERVED INTEGRAL MEMBRANE ALANINE AND LEUCINE RICH PROTEIN;locus_tag=MEint885.genome.CDS.1195
+MEint885.contig.30	feature	CDS	17061	17495	.	+	0	ID=MEint885.genome.CDS.1194;Product=Deoxyuridine 5%27-triphosphate nucleotidohydrolase %28EC 3.6.1.23%29;locus_tag=MEint885.genome.CDS.1194
+MEint885.contig.30	feature	CDS	16486	17064	.	+	0	ID=MEint885.genome.CDS.1193;Product=FIG01123415: hypothetical protein;locus_tag=MEint885.genome.CDS.1193
+MEint885.contig.30	feature	CDS	15998	16423	.	-	0	ID=MEint885.genome.CDS.1192;Product=;locus_tag=MEint885.genome.CDS.1192
+MEint885.contig.30	feature	CDS	15708	16001	.	+	0	ID=MEint885.genome.CDS.1191;Product=FIG01121218: hypothetical protein;locus_tag=MEint885.genome.CDS.1191
+MEint885.contig.30	feature	CDS	14893	15570	.	+	0	ID=MEint885.genome.CDS.1190;Product=tRNA %28Guanine37-N1%29 -methyltransferase %28EC 2.1.1.31%29;locus_tag=MEint885.genome.CDS.1190
+MEint885.contig.30	feature	CDS	14396	14896	.	+	0	ID=MEint885.genome.CDS.1189;Product=16S rRNA processing protein RimM;locus_tag=MEint885.genome.CDS.1189
+MEint885.contig.30	feature	CDS	14138	14380	.	+	0	ID=MEint885.genome.CDS.1188;Product=KH domain RNA binding protein YlqC;locus_tag=MEint885.genome.CDS.1188
+MEint885.contig.30	feature	CDS	13566	14135	.	+	0	ID=MEint885.genome.CDS.1187;Product=SSU ribosomal protein S16p;locus_tag=MEint885.genome.CDS.1187
+MEint885.contig.30	feature	CDS	11940	13394	.	+	0	ID=MEint885.genome.CDS.1186;Product=Signal recognition particle%2C subunit Ffh SRP54 %28TC 3.A.5.1.1%29;locus_tag=MEint885.genome.CDS.1186
+MEint885.contig.30	feature	CDS	11499	11837	.	+	0	ID=MEint885.genome.CDS.1185;Product=Nitrogen regulatory protein P-II;locus_tag=MEint885.genome.CDS.1185
+MEint885.contig.30	feature	CDS	10204	11496	.	+	0	ID=MEint885.genome.CDS.1184;Product=Ammonium transporter;locus_tag=MEint885.genome.CDS.1184
+MEint885.contig.30	feature	CDS	9209	10045	.	+	0	ID=MEint885.genome.CDS.1183;Product=Signal recognition particle receptor protein FtsY %28%3Dalpha subunit%29 %28TC 3.A.5.1.1%29;locus_tag=MEint885.genome.CDS.1183
+MEint885.contig.30	feature	CDS	5661	9206	.	+	0	ID=MEint885.genome.CDS.1182;Product=Chromosome partition protein smc;locus_tag=MEint885.genome.CDS.1182
+MEint885.contig.30	feature	CDS	4722	5621	.	+	0	ID=MEint885.genome.CDS.1181;Product=Formamidopyrimidine-DNA glycosylase %28EC 3.2.2.23%29;locus_tag=MEint885.genome.CDS.1181
+MEint885.contig.30	feature	CDS	4275	4718	.	+	0	ID=MEint885.genome.CDS.1180;Product=Ribonuclease III %28EC 3.1.26.3%29;locus_tag=MEint885.genome.CDS.1180
+MEint885.contig.30	feature	CDS	3853	4002	.	-	0	ID=MEint885.genome.CDS.1179;Product=;locus_tag=MEint885.genome.CDS.1179
+MEint885.contig.30	feature	CDS	3247	3783	.	+	0	ID=MEint885.genome.CDS.1178;Product=;locus_tag=MEint885.genome.CDS.1178
+MEint885.contig.30	feature	CDS	2763	3239	.	+	0	ID=MEint885.genome.CDS.1177;Product=;locus_tag=MEint885.genome.CDS.1177
+MEint885.contig.30	feature	CDS	2252	2761	.	+	0	ID=MEint885.genome.CDS.1176;Product=Phosphopantetheine adenylyltransferase %28EC 2.7.7.3%29;locus_tag=MEint885.genome.CDS.1176
+MEint885.contig.30	feature	CDS	1651	2220	.	+	0	ID=MEint885.genome.CDS.1175;Product=;locus_tag=MEint885.genome.CDS.1175
+MEint885.contig.30	feature	CDS	1	1650	.	+	0	ID=MEint885.genome.CDS.1174;Product=ATP-dependent DNA helicase RecG %28EC 3.6.1.-%29;locus_tag=MEint885.genome.CDS.1174
+MEint885.contig.31	feature	CDS	6689	6832	.	+	0	ID=MEint885.genome.CDS.1210;Product=;locus_tag=MEint885.genome.CDS.1210
+MEint885.contig.31	feature	CDS	6258	6674	.	-	0	ID=MEint885.genome.CDS.1209;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1209
+MEint885.contig.31	feature	CDS	5773	6246	.	-	0	ID=MEint885.genome.CDS.1208;Product=Transcription elongation factor GreA;locus_tag=MEint885.genome.CDS.1208
+MEint885.contig.31	feature	CDS	4969	5772	.	+	0	ID=MEint885.genome.CDS.1207;Product=ABC-type multidrug transport system%2C permease component;locus_tag=MEint885.genome.CDS.1207
+MEint885.contig.31	feature	CDS	3980	4972	.	+	0	ID=MEint885.genome.CDS.1206;Product=Methionine ABC transporter ATP-binding protein;locus_tag=MEint885.genome.CDS.1206
+MEint885.contig.31	feature	CDS	2692	3843	.	-	0	ID=MEint885.genome.CDS.1205;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1205
+MEint885.contig.31	feature	CDS	1897	2691	.	+	0	ID=MEint885.genome.CDS.1204;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1204
+MEint885.contig.31	feature	tRNA	1771	1843	.	+	.	ID=MEint885.genome.rna.8;Product=tRNA-Leu-TAA;locus_tag=MEint885.genome.rna.8
+MEint885.contig.31	feature	CDS	132	1046	.	+	0	ID=MEint885.genome.CDS.1202;Product=Exopolyphosphatase %28EC 3.6.1.11%29;locus_tag=MEint885.genome.CDS.1202
+MEint885.contig.31	feature	CDS	1	135	.	+	0	ID=MEint885.genome.CDS.1201;Product=;locus_tag=MEint885.genome.CDS.1201
+MEint885.contig.32	feature	misc_RNA	1	4859	.	+	.	ID=MEint885.genome.repeat.32;Product=repeat region;locus_tag=MEint885.genome.repeat.32
+MEint885.contig.32	feature	CDS	22035	22880	.	-	0	ID=MEint885.genome.CDS.1231;Product=;locus_tag=MEint885.genome.CDS.1231
+MEint885.contig.32	feature	CDS	21088	22032	.	+	0	ID=MEint885.genome.CDS.1230;Product=Putative sugar kinase;locus_tag=MEint885.genome.CDS.1230
+MEint885.contig.32	feature	CDS	20650	21087	.	+	0	ID=MEint885.genome.CDS.1229;Product=;locus_tag=MEint885.genome.CDS.1229
+MEint885.contig.32	feature	CDS	18809	20596	.	-	0	ID=MEint885.genome.CDS.1228;Product=Long-chain-fatty-acid--CoA ligase %28EC 6.2.1.3%29;locus_tag=MEint885.genome.CDS.1228
+MEint885.contig.32	feature	CDS	18211	18816	.	-	0	ID=MEint885.genome.CDS.1227;Product=;locus_tag=MEint885.genome.CDS.1227
+MEint885.contig.32	feature	CDS	17604	18218	.	-	0	ID=MEint885.genome.CDS.1226;Product=;locus_tag=MEint885.genome.CDS.1226
+MEint885.contig.32	feature	CDS	16464	17615	.	+	0	ID=MEint885.genome.CDS.1225;Product=Poly%28glycerol-phosphate%29 alpha-glucosyltransferase %28EC 2.4.1.52%29;locus_tag=MEint885.genome.CDS.1225
+MEint885.contig.32	feature	CDS	15425	16441	.	+	0	ID=MEint885.genome.CDS.1224;Product=;locus_tag=MEint885.genome.CDS.1224
+MEint885.contig.32	feature	CDS	15129	15392	.	+	0	ID=MEint885.genome.CDS.358;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.358
+MEint885.contig.32	feature	CDS	14580	15110	.	-	0	ID=MEint885.genome.CDS.1222;Product=;locus_tag=MEint885.genome.CDS.1222
+MEint885.contig.32	feature	CDS	13758	14597	.	+	0	ID=MEint885.genome.CDS.1221;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1221
+MEint885.contig.32	feature	CDS	13118	13684	.	-	0	ID=MEint885.genome.CDS.1220;Product=Uncharacterized protein Q1 colocalized with Q;locus_tag=MEint885.genome.CDS.1220
+MEint885.contig.32	feature	CDS	11810	13111	.	-	0	ID=MEint885.genome.CDS.1219;Product=Ribonuclease D %28EC 3.1.26.3%29;locus_tag=MEint885.genome.CDS.1219
+MEint885.contig.32	feature	CDS	10740	11750	.	-	0	ID=MEint885.genome.CDS.1218;Product=Ferric iron ABC transporter%2C iron-binding protein;locus_tag=MEint885.genome.CDS.1218
+MEint885.contig.32	feature	CDS	9163	10713	.	-	0	ID=MEint885.genome.CDS.1217;Product=Ferric iron ABC transporter%2C permease protein;locus_tag=MEint885.genome.CDS.1217
+MEint885.contig.32	feature	CDS	8102	9166	.	-	0	ID=MEint885.genome.CDS.1216;Product=;locus_tag=MEint885.genome.CDS.1216
+MEint885.contig.32	feature	CDS	6890	8092	.	-	0	ID=MEint885.genome.CDS.1215;Product=3-ketoacyl-CoA thiolase %28EC 2.3.1.16%29;locus_tag=MEint885.genome.CDS.1215
+MEint885.contig.32	feature	CDS	2912	4846	.	+	0	ID=MEint885.genome.CDS.1213;Product=1-deoxy-D-xylulose 5-phosphate synthase %28EC 2.2.1.7%29;locus_tag=MEint885.genome.CDS.1213
+MEint885.contig.32	feature	CDS	234	2891	.	+	0	ID=MEint885.genome.CDS.1212;Product=Aconitate hydratase %28EC 4.2.1.3%29;locus_tag=MEint885.genome.CDS.1212
+MEint885.contig.32	feature	CDS	2	175	.	+	0	ID=MEint885.genome.CDS.1211;Product=;locus_tag=MEint885.genome.CDS.1211
+MEint885.contig.33	feature	CDS	3080	3652	.	+	0	ID=MEint885.genome.CDS.1235;Product=3-methyl-2-oxobutanoate hydroxymethyltransferase %28EC 2.1.2.11%29;locus_tag=MEint885.genome.CDS.1235
+MEint885.contig.33	feature	CDS	1323	3008	.	-	0	ID=MEint885.genome.CDS.1234;Product=NAD synthetase %28EC 6.3.1.5%29 / Glutamine amidotransferase chain of NAD synthetase;locus_tag=MEint885.genome.CDS.1234
+MEint885.contig.33	feature	CDS	1151	1282	.	+	0	ID=MEint885.genome.CDS.368;Product=;locus_tag=MEint885.genome.CDS.368
+MEint885.contig.33	feature	CDS	159	1088	.	-	0	ID=MEint885.genome.CDS.1233;Product=Cysteine synthase %28EC 2.5.1.47%29;locus_tag=MEint885.genome.CDS.1233
+MEint885.contig.33	feature	CDS	2	154	.	-	0	ID=MEint885.genome.CDS.1232;Product=Serine acetyltransferase %28EC 2.3.1.30%29;locus_tag=MEint885.genome.CDS.1232
+MEint885.contig.34	feature	CDS	3910	4404	.	+	0	ID=MEint885.genome.CDS.1242;Product=ATP synthase F0 sector subunit b %28EC 3.6.3.14%29;locus_tag=MEint885.genome.CDS.1242
+MEint885.contig.34	feature	CDS	3657	3893	.	+	0	ID=MEint885.genome.CDS.1241;Product=ATP synthase F0 sector subunit c %28EC 3.6.3.14%29;locus_tag=MEint885.genome.CDS.1241
+MEint885.contig.34	feature	CDS	2833	3621	.	+	0	ID=MEint885.genome.CDS.1240;Product=ATP synthase F0 sector subunit a %28EC 3.6.3.14%29;locus_tag=MEint885.genome.CDS.1240
+MEint885.contig.34	feature	CDS	2480	2686	.	+	0	ID=MEint885.genome.CDS.1239;Product=ATP synthase protein I;locus_tag=MEint885.genome.CDS.1239
+MEint885.contig.34	feature	CDS	2052	2477	.	+	0	ID=MEint885.genome.CDS.1238;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1238
+MEint885.contig.34	feature	CDS	972	2051	.	+	0	ID=MEint885.genome.CDS.1237;Product=Undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase %28EC 2.7.8.-%29;locus_tag=MEint885.genome.CDS.1237
+MEint885.contig.34	feature	CDS	1	972	.	+	0	ID=MEint885.genome.CDS.1236;Product=Serine hydroxymethyltransferase %28EC 2.1.2.1%29;locus_tag=MEint885.genome.CDS.1236
+MEint885.contig.35	feature	misc_RNA	6221	7110	.	+	.	ID=MEint885.genome.repeat.7;Product=repeat region;locus_tag=MEint885.genome.repeat.7
+MEint885.contig.35	feature	CDS	6733	7110	.	-	0	ID=MEint885.genome.CDS.1251;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1251
+MEint885.contig.35	feature	CDS	6269	6736	.	+	0	ID=MEint885.genome.CDS.1250;Product=;locus_tag=MEint885.genome.CDS.1250
+MEint885.contig.35	feature	CDS	5330	6241	.	-	0	ID=MEint885.genome.CDS.1249;Product=N-acetylmuramic acid 6-phosphate etherase;locus_tag=MEint885.genome.CDS.1249
+MEint885.contig.35	feature	CDS	4328	5257	.	-	0	ID=MEint885.genome.CDS.1248;Product=Sialic acid utilization regulator%2C RpiR family;locus_tag=MEint885.genome.CDS.1248
+MEint885.contig.35	feature	CDS	3053	4327	.	-	0	ID=MEint885.genome.CDS.1247;Product=;locus_tag=MEint885.genome.CDS.1247
+MEint885.contig.35	feature	CDS	2073	2990	.	-	0	ID=MEint885.genome.CDS.1246;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1246
+MEint885.contig.35	feature	CDS	1249	2076	.	-	0	ID=MEint885.genome.CDS.1245;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1245
+MEint885.contig.35	feature	CDS	381	1244	.	-	0	ID=MEint885.genome.CDS.1244;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1244
+MEint885.contig.35	feature	CDS	1	384	.	+	0	ID=MEint885.genome.CDS.1243;Product=;locus_tag=MEint885.genome.CDS.1243
+MEint885.contig.36	feature	CDS	12560	13813	.	+	0	ID=MEint885.genome.CDS.1262;Product=Glycerol-3-phosphate dehydrogenase %28EC 1.1.5.3%29;locus_tag=MEint885.genome.CDS.1262
+MEint885.contig.36	feature	CDS	11041	12540	.	-	0	ID=MEint885.genome.CDS.1261;Product=Glycerol kinase %28EC 2.7.1.30%29;locus_tag=MEint885.genome.CDS.1261
+MEint885.contig.36	feature	CDS	8924	11044	.	+	0	ID=MEint885.genome.CDS.1260;Product=Alpha-galactosidase %28EC 3.2.1.22%29;locus_tag=MEint885.genome.CDS.1260
+MEint885.contig.36	feature	CDS	7793	8902	.	-	0	ID=MEint885.genome.CDS.1259;Product=Galactose-1-phosphate uridylyltransferase %28EC 2.7.7.10%29;locus_tag=MEint885.genome.CDS.1259
+MEint885.contig.36	feature	CDS	6659	7786	.	-	0	ID=MEint885.genome.CDS.1258;Product=Galactokinase %28EC 2.7.1.6%29;locus_tag=MEint885.genome.CDS.1258
+MEint885.contig.36	feature	CDS	6423	6662	.	+	0	ID=MEint885.genome.CDS.1257;Product=;locus_tag=MEint885.genome.CDS.1257
+MEint885.contig.36	feature	tRNA	6328	6400	.	+	.	ID=MEint885.genome.rna.9;Product=tRNA-Asn-GTT;locus_tag=MEint885.genome.rna.9
+MEint885.contig.36	feature	CDS	4475	6310	.	+	0	ID=MEint885.genome.CDS.1256;Product=DNA primase %28EC 2.7.7.-%29;locus_tag=MEint885.genome.CDS.1256
+MEint885.contig.36	feature	CDS	3223	4464	.	+	0	ID=MEint885.genome.CDS.1255;Product=dNTP triphosphohydrolase%2C broad substrate specificity%2C subgroup 2;locus_tag=MEint885.genome.CDS.1255
+MEint885.contig.36	feature	CDS	2592	3215	.	+	0	ID=MEint885.genome.CDS.1254;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1254
+MEint885.contig.36	feature	CDS	1420	2592	.	+	0	ID=MEint885.genome.CDS.1253;Product=tRNA dihydrouridine synthase B %28EC 1.-.-.-%29;locus_tag=MEint885.genome.CDS.1253
+MEint885.contig.36	feature	CDS	74	1450	.	+	0	ID=MEint885.genome.CDS.1252;Product=Glycyl-tRNA synthetase %28EC 6.1.1.14%29;locus_tag=MEint885.genome.CDS.1252
+MEint885.contig.37	feature	CDS	4739	4945	.	+	0	ID=MEint885.genome.CDS.1268;Product=;locus_tag=MEint885.genome.CDS.1268
+MEint885.contig.37	feature	CDS	4207	4716	.	-	0	ID=MEint885.genome.CDS.1267;Product=protein of unknown function DUF305;locus_tag=MEint885.genome.CDS.1267
+MEint885.contig.37	feature	CDS	2956	4191	.	-	0	ID=MEint885.genome.CDS.1266;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1266
+MEint885.contig.37	feature	CDS	2284	2934	.	-	0	ID=MEint885.genome.CDS.1265;Product=Putative preQ0 transporter;locus_tag=MEint885.genome.CDS.1265
+MEint885.contig.37	feature	CDS	1043	2287	.	+	0	ID=MEint885.genome.CDS.1264;Product=tRNA-guanine transglycosylase %28EC 2.4.2.29%29;locus_tag=MEint885.genome.CDS.1264
+MEint885.contig.37	feature	CDS	3	1004	.	-	0	ID=MEint885.genome.CDS.1263;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1263
+MEint885.contig.38	feature	tRNA	4818	4891	.	+	.	ID=MEint885.genome.rna.10;Product=tRNA-Pro-GGG;locus_tag=MEint885.genome.rna.10
+MEint885.contig.38	feature	CDS	2813	4783	.	+	0	ID=MEint885.genome.CDS.1273;Product=GTP-binding protein EngA;locus_tag=MEint885.genome.CDS.1273
+MEint885.contig.38	feature	CDS	1728	2816	.	+	0	ID=MEint885.genome.CDS.1272;Product=Arogenate dehydrogenase %28EC 1.3.1.43%29;locus_tag=MEint885.genome.CDS.1272
+MEint885.contig.38	feature	CDS	1366	1728	.	+	0	ID=MEint885.genome.CDS.1271;Product=Chorismate mutase II %28EC 5.4.99.5%29;locus_tag=MEint885.genome.CDS.1271
+MEint885.contig.38	feature	CDS	388	1083	.	+	0	ID=MEint885.genome.CDS.1270;Product=Ribosomal large subunit pseudouridine synthase B %28EC 4.2.1.70%29;locus_tag=MEint885.genome.CDS.1270
+MEint885.contig.38	feature	CDS	1	372	.	+	0	ID=MEint885.genome.CDS.1269;Product=Segregation and condensation protein B;locus_tag=MEint885.genome.CDS.1269
+MEint885.contig.39	feature	misc_RNA	1	1240	.	+	.	ID=MEint885.genome.repeat.39;Product=repeat region;locus_tag=MEint885.genome.repeat.39
+MEint885.contig.39	feature	misc_RNA	7770	7881	.	+	.	ID=MEint885.genome.repeat.40;Product=repeat region;locus_tag=MEint885.genome.repeat.40
+MEint885.contig.39	feature	CDS	10160	11908	.	+	0	ID=MEint885.genome.CDS.1282;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1282
+MEint885.contig.39	feature	CDS	9345	10160	.	+	0	ID=MEint885.genome.CDS.1281;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1281
+MEint885.contig.39	feature	CDS	7976	9241	.	+	0	ID=MEint885.genome.CDS.1280;Product=NAD-specific glutamate dehydrogenase %28EC 1.4.1.2%29%3B NADP-specific glutamate dehydrogenase %28EC 1.4.1.4%29;locus_tag=MEint885.genome.CDS.1280
+MEint885.contig.39	feature	tRNA	7800	7881	.	+	.	ID=MEint885.genome.rna.11;Product=tRNA-Leu-TAG;locus_tag=MEint885.genome.rna.11
+MEint885.contig.39	feature	CDS	5917	7626	.	-	0	ID=MEint885.genome.CDS.1279;Product=Arginyl-tRNA synthetase %28EC 6.1.1.19%29;locus_tag=MEint885.genome.CDS.1279
+MEint885.contig.39	feature	CDS	4541	5914	.	-	0	ID=MEint885.genome.CDS.1278;Product=Diaminopimelate decarboxylase %28EC 4.1.1.20%29;locus_tag=MEint885.genome.CDS.1278
+MEint885.contig.39	feature	CDS	3249	4544	.	-	0	ID=MEint885.genome.CDS.1277;Product=Homoserine dehydrogenase %28EC 1.1.1.3%29;locus_tag=MEint885.genome.CDS.1277
+MEint885.contig.39	feature	CDS	2170	3249	.	-	0	ID=MEint885.genome.CDS.1276;Product=Threonine synthase %28EC 4.2.3.1%29;locus_tag=MEint885.genome.CDS.1276
+MEint885.contig.39	feature	CDS	1220	2167	.	-	0	ID=MEint885.genome.CDS.1275;Product=Homoserine kinase %28EC 2.7.1.39%29;locus_tag=MEint885.genome.CDS.1275
+MEint885.contig.39	feature	CDS	3	1040	.	-	0	ID=MEint885.genome.CDS.1274;Product=Transcription termination factor Rho;locus_tag=MEint885.genome.CDS.1274
+MEint885.contig.4	feature	misc_RNA	1	6738	.	+	.	ID=MEint885.genome.repeat.35;Product=repeat region;locus_tag=MEint885.genome.repeat.35
+MEint885.contig.4	feature	misc_RNA	15949	18392	.	+	.	ID=MEint885.genome.repeat.36;Product=repeat region;locus_tag=MEint885.genome.repeat.36
+MEint885.contig.4	feature	CDS	17807	18346	.	-	0	ID=MEint885.genome.CDS.879;Product=;locus_tag=MEint885.genome.CDS.879
+MEint885.contig.4	feature	CDS	16719	17807	.	-	0	ID=MEint885.genome.CDS.878;Product=Inositol-1-phosphate synthase %28EC 5.5.1.4%29;locus_tag=MEint885.genome.CDS.878
+MEint885.contig.4	feature	CDS	15966	16709	.	-	0	ID=MEint885.genome.CDS.877;Product=Enoyl-CoA hydratase %28EC 4.2.1.17%29;locus_tag=MEint885.genome.CDS.877
+MEint885.contig.4	feature	CDS	15135	15965	.	-	0	ID=MEint885.genome.CDS.876;Product=Short chain dehydrogenase family protein;locus_tag=MEint885.genome.CDS.876
+MEint885.contig.4	feature	CDS	14398	15138	.	+	0	ID=MEint885.genome.CDS.875;Product=ATPase component NikO of energizing module of nickel ECF transporter;locus_tag=MEint885.genome.CDS.875
+MEint885.contig.4	feature	CDS	13699	14382	.	+	0	ID=MEint885.genome.CDS.874;Product=Transmembrane component NikQ of energizing module of nickel ECF transporter;locus_tag=MEint885.genome.CDS.874
+MEint885.contig.4	feature	CDS	13292	13597	.	+	0	ID=MEint885.genome.CDS.873;Product=Additional substrate-specific component NikN of nickel ECF transporter;locus_tag=MEint885.genome.CDS.873
+MEint885.contig.4	feature	CDS	12621	13292	.	+	0	ID=MEint885.genome.CDS.872;Product=Substrate-specific component NikM of nickel ECF transporter;locus_tag=MEint885.genome.CDS.872
+MEint885.contig.4	feature	CDS	11590	12534	.	-	0	ID=MEint885.genome.CDS.871;Product=Uncharacterized inner membrane transporter YedA;locus_tag=MEint885.genome.CDS.871
+MEint885.contig.4	feature	CDS	10852	11586	.	+	0	ID=MEint885.genome.CDS.870;Product=;locus_tag=MEint885.genome.CDS.870
+MEint885.contig.4	feature	CDS	9605	10822	.	-	0	ID=MEint885.genome.CDS.869;Product=CAAX prenyl protease 1%2C putative;locus_tag=MEint885.genome.CDS.869
+MEint885.contig.4	feature	CDS	8130	9560	.	+	0	ID=MEint885.genome.CDS.868;Product=Glutamine synthetase type I %28EC 6.3.1.2%29;locus_tag=MEint885.genome.CDS.868
+MEint885.contig.4	feature	CDS	7600	7971	.	-	0	ID=MEint885.genome.CDS.867;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.867
+MEint885.contig.4	feature	CDS	6920	7603	.	+	0	ID=MEint885.genome.CDS.866;Product=Transmembrane protein MT2276%2C clustered with lipoate gene;locus_tag=MEint885.genome.CDS.866
+MEint885.contig.4	feature	CDS	6185	6916	.	+	0	ID=MEint885.genome.CDS.865;Product=1-acyl-sn-glycerol-3-phosphate acyltransferase %28EC 2.3.1.51%29;locus_tag=MEint885.genome.CDS.865
+MEint885.contig.4	feature	CDS	5257	6192	.	+	0	ID=MEint885.genome.CDS.864;Product=Lipoate synthase;locus_tag=MEint885.genome.CDS.864
+MEint885.contig.4	feature	CDS	4595	5257	.	+	0	ID=MEint885.genome.CDS.863;Product=Octanoate-%5Bacyl-carrier-protein%5D-protein-N-octanoyltransferase;locus_tag=MEint885.genome.CDS.863
+MEint885.contig.4	feature	CDS	2262	4451	.	-	0	ID=MEint885.genome.CDS.862;Product=possible membrane protein;locus_tag=MEint885.genome.CDS.862
+MEint885.contig.4	feature	CDS	1237	2250	.	-	0	ID=MEint885.genome.CDS.861;Product=;locus_tag=MEint885.genome.CDS.861
+MEint885.contig.4	feature	CDS	343	1233	.	+	0	ID=MEint885.genome.CDS.860;Product=Cell division inhibitor;locus_tag=MEint885.genome.CDS.860
+MEint885.contig.4	feature	CDS	1	342	.	+	0	ID=MEint885.genome.CDS.859;Product=Dihydrolipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex %28EC 2.3.1.168%29;locus_tag=MEint885.genome.CDS.859
+MEint885.contig.40	feature	CDS	7400	9265	.	+	0	ID=MEint885.genome.CDS.1291;Product=ATP-dependent DNA helicase UvrD/PcrA;locus_tag=MEint885.genome.CDS.1291
+MEint885.contig.40	feature	CDS	6654	7376	.	-	0	ID=MEint885.genome.CDS.1290;Product=;locus_tag=MEint885.genome.CDS.1290
+MEint885.contig.40	feature	CDS	5965	6657	.	+	0	ID=MEint885.genome.CDS.1289;Product=Probable peptidyl-prolyl cis-trans isomerase B %28EC 5.2.1.8%29 %28PPIase B%29 %28Rotamase B%29;locus_tag=MEint885.genome.CDS.1289
+MEint885.contig.40	feature	CDS	4424	5974	.	+	0	ID=MEint885.genome.CDS.1288;Product=GMP synthase %5Bglutamine-hydrolyzing%5D %28EC 6.3.5.2%29;locus_tag=MEint885.genome.CDS.1288
+MEint885.contig.40	feature	CDS	3299	4411	.	+	0	ID=MEint885.genome.CDS.1287;Product=Inosine-5%27-monophosphate dehydrogenase%2C catalytic domain %28EC 1.1.1.205%29;locus_tag=MEint885.genome.CDS.1287
+MEint885.contig.40	feature	CDS	2178	3299	.	+	0	ID=MEint885.genome.CDS.1286;Product=Inosine-5%27-monophosphate dehydrogenase %28EC 1.1.1.205%29 / CBS domain;locus_tag=MEint885.genome.CDS.1286
+MEint885.contig.40	feature	CDS	1223	2152	.	+	0	ID=MEint885.genome.CDS.1285;Product=;locus_tag=MEint885.genome.CDS.1285
+MEint885.contig.40	feature	CDS	820	1122	.	-	0	ID=MEint885.genome.CDS.1284;Product=Sporulation regulatory protein WhiD;locus_tag=MEint885.genome.CDS.1284
+MEint885.contig.40	feature	CDS	1	810	.	+	0	ID=MEint885.genome.CDS.1283;Product=Integral membrane protein TerC;locus_tag=MEint885.genome.CDS.1283
+MEint885.contig.41	feature	misc_RNA	3404	3903	.	+	.	ID=MEint885.genome.repeat.27;Product=repeat region;locus_tag=MEint885.genome.repeat.27
+MEint885.contig.41	feature	CDS	3404	3901	.	+	0	ID=MEint885.genome.CDS.1297;Product=;locus_tag=MEint885.genome.CDS.1297
+MEint885.contig.41	feature	CDS	1893	3404	.	+	0	ID=MEint885.genome.CDS.1296;Product=Cytosol aminopeptidase PepA %28EC 3.4.11.1%29;locus_tag=MEint885.genome.CDS.1296
+MEint885.contig.41	feature	CDS	1717	1896	.	+	0	ID=MEint885.genome.CDS.1295;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1295
+MEint885.contig.41	feature	CDS	1423	1629	.	+	0	ID=MEint885.genome.CDS.424;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.424
+MEint885.contig.41	feature	CDS	940	1392	.	+	0	ID=MEint885.genome.CDS.1294;Product=;locus_tag=MEint885.genome.CDS.1294
+MEint885.contig.41	feature	CDS	410	943	.	+	0	ID=MEint885.genome.CDS.1293;Product=;locus_tag=MEint885.genome.CDS.1293
+MEint885.contig.41	feature	CDS	3	335	.	-	0	ID=MEint885.genome.CDS.1292;Product=2%2C3%2C4%2C5-tetrahydropyridine-2%2C6-dicarboxylate N-succinyltransferase %28EC 2.3.1.117%29;locus_tag=MEint885.genome.CDS.1292
+MEint885.contig.42	feature	misc_RNA	1	890	.	+	.	ID=MEint885.genome.repeat.37;Product=repeat region;locus_tag=MEint885.genome.repeat.37
+MEint885.contig.42	feature	CDS	6540	6644	.	-	0	ID=MEint885.genome.CDS.1305;Product=3-oxoacyl-%5Bacyl-carrier protein%5D reductase %28EC 1.1.1.100%29;locus_tag=MEint885.genome.CDS.1305
+MEint885.contig.42	feature	CDS	6073	6543	.	-	0	ID=MEint885.genome.CDS.1304;Product=;locus_tag=MEint885.genome.CDS.1304
+MEint885.contig.42	feature	CDS	5002	6084	.	+	0	ID=MEint885.genome.CDS.1303;Product=N-acetylglucosamine-6-phosphate deacetylase %28EC 3.5.1.25%29;locus_tag=MEint885.genome.CDS.1303
+MEint885.contig.42	feature	CDS	3736	4863	.	-	0	ID=MEint885.genome.CDS.1302;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1302
+MEint885.contig.42	feature	CDS	3200	3718	.	-	0	ID=MEint885.genome.CDS.1301;Product=;locus_tag=MEint885.genome.CDS.1301
+MEint885.contig.42	feature	CDS	1694	3199	.	-	0	ID=MEint885.genome.CDS.1300;Product=Tricarboxylate transport membrane protein TctA;locus_tag=MEint885.genome.CDS.1300
+MEint885.contig.42	feature	CDS	513	1697	.	-	0	ID=MEint885.genome.CDS.1299;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1299
+MEint885.contig.42	feature	CDS	49	516	.	+	0	ID=MEint885.genome.CDS.1298;Product=;locus_tag=MEint885.genome.CDS.1298
+MEint885.contig.43	feature	CDS	11862	11930	.	+	0	ID=MEint885.genome.CDS.1315;Product=;locus_tag=MEint885.genome.CDS.1315
+MEint885.contig.43	feature	CDS	10768	11853	.	+	0	ID=MEint885.genome.CDS.1314;Product=Oligopeptide transport system permease protein OppC %28TC 3.A.1.5.1%29;locus_tag=MEint885.genome.CDS.1314
+MEint885.contig.43	feature	CDS	9227	10771	.	+	0	ID=MEint885.genome.CDS.1313;Product=Oligopeptide transport system permease protein OppB %28TC 3.A.1.5.1%29;locus_tag=MEint885.genome.CDS.1313
+MEint885.contig.43	feature	CDS	7223	9076	.	+	0	ID=MEint885.genome.CDS.1312;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1312
+MEint885.contig.43	feature	CDS	6261	6860	.	-	0	ID=MEint885.genome.CDS.1311;Product=;locus_tag=MEint885.genome.CDS.1311
+MEint885.contig.43	feature	CDS	5176	6264	.	+	0	ID=MEint885.genome.CDS.1310;Product=Oligopeptide transport system permease protein OppC %28TC 3.A.1.5.1%29;locus_tag=MEint885.genome.CDS.1310
+MEint885.contig.43	feature	CDS	3632	5176	.	+	0	ID=MEint885.genome.CDS.1309;Product=Oligopeptide transport system permease protein OppB %28TC 3.A.1.5.1%29;locus_tag=MEint885.genome.CDS.1309
+MEint885.contig.43	feature	CDS	1641	3485	.	+	0	ID=MEint885.genome.CDS.1308;Product=Oligopeptide ABC transporter%2C periplasmic oligopeptide-binding protein OppA %28TC 3.A.1.5.1%29;locus_tag=MEint885.genome.CDS.1308
+MEint885.contig.43	feature	CDS	152	1474	.	+	0	ID=MEint885.genome.CDS.1307;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1307
+MEint885.contig.43	feature	CDS	3	113	.	-	0	ID=MEint885.genome.CDS.1306;Product=;locus_tag=MEint885.genome.CDS.1306
+MEint885.contig.44	feature	misc_RNA	1	11721	.	+	.	ID=MEint885.genome.repeat.21;Product=repeat region;locus_tag=MEint885.genome.repeat.21
+MEint885.contig.44	feature	misc_RNA	16969	17759	.	+	.	ID=MEint885.genome.repeat.22;Product=repeat region;locus_tag=MEint885.genome.repeat.22
+MEint885.contig.44	feature	CDS	24133	24837	.	-	0	ID=MEint885.genome.CDS.1342;Product=Protein export cytoplasm protein SecA ATPase RNA helicase %28TC 3.A.5.1.1%29;locus_tag=MEint885.genome.CDS.1342
+MEint885.contig.44	feature	CDS	23600	24124	.	+	0	ID=MEint885.genome.CDS.1341;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1341
+MEint885.contig.44	feature	CDS	22825	23463	.	-	0	ID=MEint885.genome.CDS.1340;Product=;locus_tag=MEint885.genome.CDS.1340
+MEint885.contig.44	feature	CDS	21827	22828	.	-	0	ID=MEint885.genome.CDS.1339;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1339
+MEint885.contig.44	feature	CDS	20333	21811	.	-	0	ID=MEint885.genome.CDS.1338;Product=Signal transduction histidine kinase%2C subgroup 2;locus_tag=MEint885.genome.CDS.1338
+MEint885.contig.44	feature	CDS	20053	20328	.	+	0	ID=MEint885.genome.CDS.1337;Product=WhiB-like transcription regulator;locus_tag=MEint885.genome.CDS.1337
+MEint885.contig.44	feature	tRNA	19755	19826	.	+	.	ID=MEint885.genome.rna.12;Product=tRNA-Arg-CCG;locus_tag=MEint885.genome.rna.12
+MEint885.contig.44	feature	CDS	19189	19710	.	-	0	ID=MEint885.genome.CDS.1336;Product=Peptide methionine sulfoxide reductase MsrA %28EC 1.8.4.11%29;locus_tag=MEint885.genome.CDS.1336
+MEint885.contig.44	feature	CDS	18720	19178	.	-	0	ID=MEint885.genome.CDS.1335;Product=Peptide methionine sulfoxide reductase MsrB %28EC 1.8.4.12%29;locus_tag=MEint885.genome.CDS.1335
+MEint885.contig.44	feature	CDS	18094	18723	.	+	0	ID=MEint885.genome.CDS.1334;Product=DNA-3-methyladenine glycosylase II %28EC 3.2.2.21%29;locus_tag=MEint885.genome.CDS.1334
+MEint885.contig.44	feature	CDS	16980	17987	.	-	0	ID=MEint885.genome.CDS.1333;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1333
+MEint885.contig.44	feature	CDS	15319	16959	.	-	0	ID=MEint885.genome.CDS.1332;Product=Alpha-glucosidase %28EC 3.2.1.20%29;locus_tag=MEint885.genome.CDS.1332
+MEint885.contig.44	feature	CDS	13839	15191	.	-	0	ID=MEint885.genome.CDS.1331;Product=Alpha-glucosides-binding periplasmic protein AglE precursor;locus_tag=MEint885.genome.CDS.1331
+MEint885.contig.44	feature	CDS	12665	13666	.	-	0	ID=MEint885.genome.CDS.1330;Product=ABC alpha-glucoside transporter%2C inner membrane subunit AglF;locus_tag=MEint885.genome.CDS.1330
+MEint885.contig.44	feature	CDS	11742	12665	.	-	0	ID=MEint885.genome.CDS.1329;Product=Alpha-glucoside transport system permease protein AglG;locus_tag=MEint885.genome.CDS.1329
+MEint885.contig.44	feature	CDS	10552	11700	.	-	0	ID=MEint885.genome.CDS.1328;Product=Aspartate aminotransferase %28EC 2.6.1.1%29;locus_tag=MEint885.genome.CDS.1328
+MEint885.contig.44	feature	CDS	9014	10555	.	-	0	ID=MEint885.genome.CDS.1327;Product=Beta-carotene ketolase;locus_tag=MEint885.genome.CDS.1327
+MEint885.contig.44	feature	CDS	8855	9004	.	-	0	ID=MEint885.genome.CDS.1326;Product=;locus_tag=MEint885.genome.CDS.1326
+MEint885.contig.44	feature	CDS	8475	8855	.	-	0	ID=MEint885.genome.CDS.1325;Product=;locus_tag=MEint885.genome.CDS.1325
+MEint885.contig.44	feature	CDS	8011	8355	.	-	0	ID=MEint885.genome.CDS.1324;Product=;locus_tag=MEint885.genome.CDS.1324
+MEint885.contig.44	feature	CDS	6757	7938	.	-	0	ID=MEint885.genome.CDS.1323;Product=Methyltransferase %28EC 2.1.1.-%29;locus_tag=MEint885.genome.CDS.1323
+MEint885.contig.44	feature	CDS	5387	6757	.	-	0	ID=MEint885.genome.CDS.1322;Product=Argininosuccinate synthase %28EC 6.3.4.5%29;locus_tag=MEint885.genome.CDS.1322
+MEint885.contig.44	feature	CDS	3740	5386	.	-	0	ID=MEint885.genome.CDS.1321;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1321
+MEint885.contig.44	feature	CDS	2506	3531	.	-	0	ID=MEint885.genome.CDS.1320;Product=Diaminohydroxyphosphoribosylaminopyrimidine deaminase %28EC 3.5.4.26%29 / 5-amino-6-%285-phosphoribosylamino%29uracil reductase %28EC 1.1.1.193%29;locus_tag=MEint885.genome.CDS.1320
+MEint885.contig.44	feature	CDS	1916	2506	.	-	0	ID=MEint885.genome.CDS.1319;Product=Riboflavin synthase eubacterial/eukaryotic %28EC 2.5.1.9%29;locus_tag=MEint885.genome.CDS.1319
+MEint885.contig.44	feature	CDS	708	1916	.	-	0	ID=MEint885.genome.CDS.1318;Product=3%2C4-dihydroxy-2-butanone 4-phosphate synthase %28EC 4.1.99.12%29 / GTP cyclohydrolase II %28EC 3.5.4.25%29;locus_tag=MEint885.genome.CDS.1318
+MEint885.contig.44	feature	CDS	223	708	.	-	0	ID=MEint885.genome.CDS.1317;Product=6%2C7-dimethyl-8-ribityllumazine synthase %28EC 2.5.1.78%29;locus_tag=MEint885.genome.CDS.1317
+MEint885.contig.44	feature	CDS	1	246	.	+	0	ID=MEint885.genome.CDS.1316;Product=Methylmalonate-semialdehyde dehydrogenase %5Binositol%5D %28EC 1.2.1.27%29;locus_tag=MEint885.genome.CDS.1316
+MEint885.contig.45	feature	CDS	3773	4846	.	-	0	ID=MEint885.genome.CDS.1347;Product=GTP-binding and nucleic acid-binding protein YchF;locus_tag=MEint885.genome.CDS.1347
+MEint885.contig.45	feature	CDS	1882	3780	.	-	0	ID=MEint885.genome.CDS.472;Product=GTP-binding protein TypA/BipA;locus_tag=MEint885.genome.CDS.472
+MEint885.contig.45	feature	CDS	1289	1786	.	-	0	ID=MEint885.genome.CDS.1345;Product=;locus_tag=MEint885.genome.CDS.1345
+MEint885.contig.45	feature	CDS	747	1289	.	-	0	ID=MEint885.genome.CDS.1344;Product=;locus_tag=MEint885.genome.CDS.1344
+MEint885.contig.45	feature	CDS	1	750	.	+	0	ID=MEint885.genome.CDS.1343;Product=;locus_tag=MEint885.genome.CDS.1343
+MEint885.contig.46	feature	misc_RNA	1	1729	.	+	.	ID=MEint885.genome.repeat.24;Product=repeat region;locus_tag=MEint885.genome.repeat.24
+MEint885.contig.46	feature	misc_RNA	13806	16311	.	+	.	ID=MEint885.genome.repeat.25;Product=repeat region;locus_tag=MEint885.genome.repeat.25
+MEint885.contig.46	feature	CDS	15970	16311	.	-	0	ID=MEint885.genome.CDS.1366;Product=Ribosomal RNA small subunit methyltransferase E %28EC 2.1.1.-%29;locus_tag=MEint885.genome.CDS.1366
+MEint885.contig.46	feature	CDS	15625	15960	.	-	0	ID=MEint885.genome.CDS.1365;Product=Bis%285%27-nucleosyl%29-tetraphosphatase %28asymmetrical%29 %28EC 3.6.1.17%29;locus_tag=MEint885.genome.CDS.1365
+MEint885.contig.46	feature	CDS	14607	15614	.	-	0	ID=MEint885.genome.CDS.1364;Product=Phosphate starvation-inducible protein PhoH%2C predicted ATPase;locus_tag=MEint885.genome.CDS.1364
+MEint885.contig.46	feature	CDS	14131	14577	.	-	0	ID=MEint885.genome.CDS.1363;Product=Metal-dependent hydrolase YbeY%2C involved in rRNA and/or ribosome maturation and assembly;locus_tag=MEint885.genome.CDS.1363
+MEint885.contig.46	feature	CDS	12845	14134	.	-	0	ID=MEint885.genome.CDS.1362;Product=Magnesium and cobalt efflux protein CorC;locus_tag=MEint885.genome.CDS.1362
+MEint885.contig.46	feature	CDS	12047	12835	.	-	0	ID=MEint885.genome.CDS.1361;Product=Fumarylacetoacetate hydrolase family protein;locus_tag=MEint885.genome.CDS.1361
+MEint885.contig.46	feature	CDS	10588	12054	.	-	0	ID=MEint885.genome.CDS.1360;Product=Glutamyl-tRNA synthetase %28EC 6.1.1.17%29 %40 Glutamyl-tRNA%28Gln%29 synthetase %28EC 6.1.1.24%29;locus_tag=MEint885.genome.CDS.1360
+MEint885.contig.46	feature	tRNA	10426	10497	.	-	.	ID=MEint885.genome.rna.13;Product=tRNA-Gln-CTG;locus_tag=MEint885.genome.rna.13
+MEint885.contig.46	feature	tRNA	10302	10377	.	-	.	ID=MEint885.genome.rna.14;Product=tRNA-Glu-CTC;locus_tag=MEint885.genome.rna.14
+MEint885.contig.46	feature	CDS	9554	10297	.	+	0	ID=MEint885.genome.CDS.1359;Product=Transcriptional regulator%2C IclR family;locus_tag=MEint885.genome.CDS.1359
+MEint885.contig.46	feature	CDS	8118	9515	.	-	0	ID=MEint885.genome.CDS.1358;Product=3-isopropylmalate dehydratase large subunit %28EC 4.2.1.33%29;locus_tag=MEint885.genome.CDS.1358
+MEint885.contig.46	feature	CDS	7507	8106	.	-	0	ID=MEint885.genome.CDS.1357;Product=3-isopropylmalate dehydratase small subunit %28EC 4.2.1.33%29;locus_tag=MEint885.genome.CDS.1357
+MEint885.contig.46	feature	CDS	6913	7314	.	-	0	ID=MEint885.genome.CDS.1356;Product=;locus_tag=MEint885.genome.CDS.1356
+MEint885.contig.46	feature	CDS	6050	6844	.	-	0	ID=MEint885.genome.CDS.1355;Product=1-acyl-sn-glycerol-3-phosphate acyltransferase %28EC 2.3.1.51%29;locus_tag=MEint885.genome.CDS.1355
+MEint885.contig.46	feature	CDS	5046	6050	.	-	0	ID=MEint885.genome.CDS.1354;Product=Glycerol-3-phosphate dehydrogenase %5BNAD%28P%29%2B%5D %28EC 1.1.1.94%29;locus_tag=MEint885.genome.CDS.1354
+MEint885.contig.46	feature	CDS	3982	5049	.	-	0	ID=MEint885.genome.CDS.1353;Product=D-alanine--D-alanine ligase %28EC 6.3.2.4%29;locus_tag=MEint885.genome.CDS.1353
+MEint885.contig.46	feature	CDS	3737	3973	.	+	0	ID=MEint885.genome.CDS.1352;Product=Transcriptional regulator%2C AsnC family;locus_tag=MEint885.genome.CDS.1352
+MEint885.contig.46	feature	CDS	2666	3595	.	-	0	ID=MEint885.genome.CDS.1351;Product=Thiamine-monophosphate kinase %28EC 2.7.4.16%29;locus_tag=MEint885.genome.CDS.1351
+MEint885.contig.46	feature	CDS	2469	2654	.	+	0	ID=MEint885.genome.CDS.1350;Product=LSU ribosomal protein L28p %40 LSU ribosomal protein L28p%2C zinc-dependent;locus_tag=MEint885.genome.CDS.1350
+MEint885.contig.46	feature	CDS	80	2299	.	-	0	ID=MEint885.genome.CDS.1349;Product=ATP-dependent DNA helicase RecG %28EC 3.6.1.-%29;locus_tag=MEint885.genome.CDS.1349
+MEint885.contig.46	feature	CDS	2	79	.	-	0	ID=MEint885.genome.CDS.1348;Product=;locus_tag=MEint885.genome.CDS.1348
+MEint885.contig.47	feature	CDS	3303	5366	.	-	0	ID=MEint885.genome.CDS.1370;Product=DNA topoisomerase I %28EC 5.99.1.2%29;locus_tag=MEint885.genome.CDS.1370
+MEint885.contig.47	feature	CDS	1284	3290	.	-	0	ID=MEint885.genome.CDS.1369;Product=Thymidylate kinase %28EC 2.7.4.9%29;locus_tag=MEint885.genome.CDS.1369
+MEint885.contig.47	feature	CDS	145	1284	.	-	0	ID=MEint885.genome.CDS.1368;Product=DNA polymerase III delta prime subunit %28EC 2.7.7.7%29;locus_tag=MEint885.genome.CDS.1368
+MEint885.contig.47	feature	CDS	3	125	.	-	0	ID=MEint885.genome.CDS.1367;Product=;locus_tag=MEint885.genome.CDS.1367
+MEint885.contig.48	feature	CDS	10371	10817	.	-	0	ID=MEint885.genome.CDS.1383;Product=CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase %28EC 2.7.8.5%29;locus_tag=MEint885.genome.CDS.1383
+MEint885.contig.48	feature	CDS	9471	10361	.	-	0	ID=MEint885.genome.CDS.1382;Product=;locus_tag=MEint885.genome.CDS.1382
+MEint885.contig.48	feature	CDS	8302	9474	.	-	0	ID=MEint885.genome.CDS.1381;Product=Phosphatidylinositol alpha-mannosyltransferase %28EC 2.4.1.57%29;locus_tag=MEint885.genome.CDS.1381
+MEint885.contig.48	feature	CDS	7787	8302	.	-	0	ID=MEint885.genome.CDS.1380;Product=;locus_tag=MEint885.genome.CDS.1380
+MEint885.contig.48	feature	CDS	6813	7790	.	-	0	ID=MEint885.genome.CDS.1379;Product=;locus_tag=MEint885.genome.CDS.1379
+MEint885.contig.48	feature	CDS	5872	6771	.	-	0	ID=MEint885.genome.CDS.1378;Product=Pyridoxine biosynthesis glutamine amidotransferase%2C synthase subunit %28EC 2.4.2.-%29;locus_tag=MEint885.genome.CDS.1378
+MEint885.contig.48	feature	CDS	5271	5867	.	-	0	ID=MEint885.genome.CDS.1377;Product=Pyridoxine biosynthesis glutamine amidotransferase%2C glutaminase subunit %28EC 2.4.2.-%29;locus_tag=MEint885.genome.CDS.1377
+MEint885.contig.48	feature	CDS	4506	5267	.	-	0	ID=MEint885.genome.CDS.1376;Product=FIG000859: hypothetical protein YebC;locus_tag=MEint885.genome.CDS.1376
+MEint885.contig.48	feature	CDS	3911	4474	.	-	0	ID=MEint885.genome.CDS.1375;Product=Crossover junction endodeoxyribonuclease RuvC %28EC 3.1.22.4%29;locus_tag=MEint885.genome.CDS.1375
+MEint885.contig.48	feature	CDS	3314	3910	.	-	0	ID=MEint885.genome.CDS.1374;Product=Holliday junction DNA helicase RuvA;locus_tag=MEint885.genome.CDS.1374
+MEint885.contig.48	feature	CDS	2273	3310	.	-	0	ID=MEint885.genome.CDS.1373;Product=Holliday junction DNA helicase RuvB;locus_tag=MEint885.genome.CDS.1373
+MEint885.contig.48	feature	CDS	726	2261	.	-	0	ID=MEint885.genome.CDS.1372;Product=Protein-export membrane protein SecD %28TC 3.A.5.1.1%29;locus_tag=MEint885.genome.CDS.1372
+MEint885.contig.48	feature	CDS	3	722	.	-	0	ID=MEint885.genome.CDS.1371;Product=Protein-export membrane protein SecF %28TC 3.A.5.1.1%29;locus_tag=MEint885.genome.CDS.1371
+MEint885.contig.49	feature	misc_RNA	1	1731	.	+	.	ID=MEint885.genome.repeat.12;Product=repeat region;locus_tag=MEint885.genome.repeat.12
+MEint885.contig.49	feature	CDS	15215	15958	.	-	0	ID=MEint885.genome.CDS.1395;Product=Branched-chain amino acid transport ATP-binding protein LivG %28TC 3.A.1.4.1%29;locus_tag=MEint885.genome.CDS.1395
+MEint885.contig.49	feature	CDS	14497	15225	.	-	0	ID=MEint885.genome.CDS.1394;Product=Branched-chain amino acid transport ATP-binding protein LivF %28TC 3.A.1.4.1%29;locus_tag=MEint885.genome.CDS.1394
+MEint885.contig.49	feature	CDS	14092	14496	.	+	0	ID=MEint885.genome.CDS.1393;Product=ComA operon protein 2;locus_tag=MEint885.genome.CDS.1393
+MEint885.contig.49	feature	CDS	11497	14052	.	-	0	ID=MEint885.genome.CDS.1392;Product=DNA polymerase I %28EC 2.7.7.7%29;locus_tag=MEint885.genome.CDS.1392
+MEint885.contig.49	feature	CDS	9981	11327	.	-	0	ID=MEint885.genome.CDS.1391;Product=SSU ribosomal protein S1p;locus_tag=MEint885.genome.CDS.1391
+MEint885.contig.49	feature	CDS	9303	9908	.	-	0	ID=MEint885.genome.CDS.1390;Product=Dephospho-CoA kinase %28EC 2.7.1.24%29;locus_tag=MEint885.genome.CDS.1390
+MEint885.contig.49	feature	CDS	7220	9301	.	-	0	ID=MEint885.genome.CDS.511;Product=Excinuclease ABC subunit B;locus_tag=MEint885.genome.CDS.511
+MEint885.contig.49	feature	CDS	4383	7220	.	-	0	ID=MEint885.genome.CDS.1388;Product=Excinuclease ABC subunit A;locus_tag=MEint885.genome.CDS.1388
+MEint885.contig.49	feature	CDS	2467	4380	.	-	0	ID=MEint885.genome.CDS.1387;Product=Excinuclease ABC subunit C;locus_tag=MEint885.genome.CDS.1387
+MEint885.contig.49	feature	CDS	1573	2445	.	-	0	ID=MEint885.genome.CDS.1386;Product=Hypothetical ATP-binding protein UPF0042%2C contains P-loop;locus_tag=MEint885.genome.CDS.1386
+MEint885.contig.49	feature	CDS	617	1576	.	-	0	ID=MEint885.genome.CDS.1385;Product=FIG002813: LPPG:FO 2-phospho-L-lactate transferase like%2C CofD-like;locus_tag=MEint885.genome.CDS.1385
+MEint885.contig.49	feature	CDS	3	611	.	-	0	ID=MEint885.genome.CDS.1384;Product=FIG001886: Cytoplasmic hypothetical protein;locus_tag=MEint885.genome.CDS.1384
+MEint885.contig.5	feature	misc_RNA	1	160	.	+	.	ID=MEint885.genome.repeat.19;Product=repeat region;locus_tag=MEint885.genome.repeat.19
+MEint885.contig.5	feature	misc_RNA	221	366	.	+	.	ID=MEint885.genome.repeat.20;Product=repeat region;locus_tag=MEint885.genome.repeat.20
+MEint885.contig.5	feature	CDS	5137	5541	.	-	0	ID=MEint885.genome.CDS.886;Product=;locus_tag=MEint885.genome.CDS.886
+MEint885.contig.5	feature	CDS	4025	5134	.	-	0	ID=MEint885.genome.CDS.885;Product=Alanine dehydrogenase %28EC 1.4.1.1%29;locus_tag=MEint885.genome.CDS.885
+MEint885.contig.5	feature	CDS	2985	3836	.	-	0	ID=MEint885.genome.CDS.884;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.884
+MEint885.contig.5	feature	CDS	2051	2950	.	-	0	ID=MEint885.genome.CDS.883;Product=polar amino acid ABC transporter%2C inner membrane subunit;locus_tag=MEint885.genome.CDS.883
+MEint885.contig.5	feature	CDS	1305	2051	.	-	0	ID=MEint885.genome.CDS.882;Product=;locus_tag=MEint885.genome.CDS.882
+MEint885.contig.5	feature	CDS	502	1308	.	-	0	ID=MEint885.genome.CDS.881;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.881
+MEint885.contig.5	feature	CDS	2	241	.	-	0	ID=MEint885.genome.CDS.880;Product=;locus_tag=MEint885.genome.CDS.880
+MEint885.contig.50	feature	CDS	6898	7362	.	+	0	ID=MEint885.genome.CDS.1407;Product=;locus_tag=MEint885.genome.CDS.1407
+MEint885.contig.50	feature	CDS	6618	6872	.	+	0	ID=MEint885.genome.CDS.1406;Product=;locus_tag=MEint885.genome.CDS.1406
+MEint885.contig.50	feature	CDS	5764	6531	.	-	0	ID=MEint885.genome.CDS.1405;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1405
+MEint885.contig.50	feature	CDS	5524	5763	.	+	0	ID=MEint885.genome.CDS.1404;Product=POSSIBLE GLUTAREDOXIN PROTEIN;locus_tag=MEint885.genome.CDS.1404
+MEint885.contig.50	feature	CDS	4785	5504	.	+	0	ID=MEint885.genome.CDS.1403;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1403
+MEint885.contig.50	feature	CDS	4271	4738	.	+	0	ID=MEint885.genome.CDS.1402;Product=;locus_tag=MEint885.genome.CDS.1402
+MEint885.contig.50	feature	CDS	3546	4226	.	+	0	ID=MEint885.genome.CDS.1401;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1401
+MEint885.contig.50	feature	CDS	3042	3485	.	-	0	ID=MEint885.genome.CDS.1400;Product=;locus_tag=MEint885.genome.CDS.1400
+MEint885.contig.50	feature	CDS	1960	3027	.	-	0	ID=MEint885.genome.CDS.1399;Product=NADH:flavin oxidoreductases%2C Old Yellow Enzyme family;locus_tag=MEint885.genome.CDS.1399
+MEint885.contig.50	feature	CDS	1490	1957	.	+	0	ID=MEint885.genome.CDS.1398;Product=;locus_tag=MEint885.genome.CDS.1398
+MEint885.contig.50	feature	CDS	621	1388	.	-	0	ID=MEint885.genome.CDS.1397;Product=membrane protein%2C putative;locus_tag=MEint885.genome.CDS.1397
+MEint885.contig.50	feature	CDS	483	620	.	+	0	ID=MEint885.genome.CDS.519;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.519
+MEint885.contig.50	feature	CDS	18	407	.	-	0	ID=MEint885.genome.CDS.1396;Product=;locus_tag=MEint885.genome.CDS.1396
+MEint885.contig.51	feature	misc_RNA	5035	6210	.	+	.	ID=MEint885.genome.repeat.4;Product=repeat region;locus_tag=MEint885.genome.repeat.4
+MEint885.contig.51	feature	CDS	6031	6210	.	-	0	ID=MEint885.genome.CDS.1412;Product=;locus_tag=MEint885.genome.CDS.1412
+MEint885.contig.51	feature	CDS	4672	6027	.	+	0	ID=MEint885.genome.CDS.1411;Product=Deoxyribodipyrimidine photolyase %28EC 4.1.99.3%29;locus_tag=MEint885.genome.CDS.1411
+MEint885.contig.51	feature	CDS	2820	4643	.	+	0	ID=MEint885.genome.CDS.1410;Product=Maltodextrin glucosidase %28EC 3.2.1.20%29;locus_tag=MEint885.genome.CDS.1410
+MEint885.contig.51	feature	CDS	911	2860	.	+	0	ID=MEint885.genome.CDS.1409;Product=Maltodextrin glucosidase %28EC 3.2.1.20%29;locus_tag=MEint885.genome.CDS.1409
+MEint885.contig.51	feature	CDS	60	911	.	+	0	ID=MEint885.genome.CDS.1408;Product=Maltose/maltodextrin ABC transporter%2C permease protein MalG;locus_tag=MEint885.genome.CDS.1408
+MEint885.contig.52	feature	CDS	5129	6283	.	+	0	ID=MEint885.genome.CDS.1418;Product=ATP-dependent Clp protease%2C ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB;locus_tag=MEint885.genome.CDS.1418
+MEint885.contig.52	feature	CDS	4470	4967	.	+	0	ID=MEint885.genome.CDS.1417;Product=Acetyltransferase%2C GNAT family;locus_tag=MEint885.genome.CDS.1417
+MEint885.contig.52	feature	CDS	2961	4469	.	+	0	ID=MEint885.genome.CDS.1416;Product=Lysyl-tRNA synthetase %28class II%29 %28EC 6.1.1.6%29;locus_tag=MEint885.genome.CDS.1416
+MEint885.contig.52	feature	CDS	2195	2968	.	+	0	ID=MEint885.genome.CDS.1415;Product=Pantothenate kinase type III%2C CoaX-like %28EC 2.7.1.33%29;locus_tag=MEint885.genome.CDS.1415
+MEint885.contig.52	feature	CDS	1328	2194	.	+	0	ID=MEint885.genome.CDS.1414;Product=Quinolinate phosphoribosyltransferase %5Bdecarboxylating%5D %28EC 2.4.2.19%29;locus_tag=MEint885.genome.CDS.1414
+MEint885.contig.52	feature	CDS	1	1350	.	+	0	ID=MEint885.genome.CDS.1413;Product=L-aspartate oxidase %28EC 1.4.3.16%29;locus_tag=MEint885.genome.CDS.1413
+MEint885.contig.53	feature	misc_RNA	1	1860	.	+	.	ID=MEint885.genome.repeat.10;Product=repeat region;locus_tag=MEint885.genome.repeat.10
+MEint885.contig.53	feature	misc_RNA	23305	24211	.	+	.	ID=MEint885.genome.repeat.11;Product=repeat region;locus_tag=MEint885.genome.repeat.11
+MEint885.contig.53	feature	CDS	22917	24002	.	-	0	ID=MEint885.genome.CDS.1440;Product=;locus_tag=MEint885.genome.CDS.1440
+MEint885.contig.53	feature	CDS	21543	22880	.	-	0	ID=MEint885.genome.CDS.1439;Product=Uncharacterized ABC1 family protein SCO5192;locus_tag=MEint885.genome.CDS.1439
+MEint885.contig.53	feature	CDS	20769	21536	.	+	0	ID=MEint885.genome.CDS.1438;Product=putative secreted protein;locus_tag=MEint885.genome.CDS.1438
+MEint885.contig.53	feature	tRNA	20606	20678	.	-	.	ID=MEint885.genome.rna.15;Product=tRNA-Lys-CTT;locus_tag=MEint885.genome.rna.15
+MEint885.contig.53	feature	CDS	19677	20465	.	-	0	ID=MEint885.genome.CDS.1437;Product=Glucosamine-6-phosphate deaminase %28EC 3.5.99.6%29;locus_tag=MEint885.genome.CDS.1437
+MEint885.contig.53	feature	CDS	18720	19667	.	-	0	ID=MEint885.genome.CDS.1436;Product=5-keto-2-deoxygluconokinase %28EC 2.7.1.92%29;locus_tag=MEint885.genome.CDS.1436
+MEint885.contig.53	feature	CDS	17848	18723	.	-	0	ID=MEint885.genome.CDS.1435;Product=5-deoxy-glucuronate isomerase %28EC 5.3.1.-%29;locus_tag=MEint885.genome.CDS.1435
+MEint885.contig.53	feature	CDS	16061	17851	.	-	0	ID=MEint885.genome.CDS.1434;Product=Epi-inositol hydrolase %28EC 3.7.1.-%29;locus_tag=MEint885.genome.CDS.1434
+MEint885.contig.53	feature	CDS	15186	16064	.	+	0	ID=MEint885.genome.CDS.1433;Product=;locus_tag=MEint885.genome.CDS.1433
+MEint885.contig.53	feature	CDS	13977	15185	.	+	0	ID=MEint885.genome.CDS.554;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.554
+MEint885.contig.53	feature	CDS	12877	13908	.	+	0	ID=MEint885.genome.CDS.1431;Product=Ribose operon repressor;locus_tag=MEint885.genome.CDS.1431
+MEint885.contig.53	feature	CDS	11536	12744	.	+	0	ID=MEint885.genome.CDS.1430;Product=;locus_tag=MEint885.genome.CDS.1430
+MEint885.contig.53	feature	CDS	10462	11532	.	+	0	ID=MEint885.genome.CDS.1429;Product=Glycerol-3-phosphate ABC transporter%2C ATP-binding protein UgpC %28TC 3.A.1.1.3%29;locus_tag=MEint885.genome.CDS.1429
+MEint885.contig.53	feature	CDS	9623	10465	.	+	0	ID=MEint885.genome.CDS.1428;Product=putative ABC transporter permease protein;locus_tag=MEint885.genome.CDS.1428
+MEint885.contig.53	feature	CDS	8721	9626	.	+	0	ID=MEint885.genome.CDS.1427;Product=;locus_tag=MEint885.genome.CDS.1427
+MEint885.contig.53	feature	CDS	7155	8666	.	+	0	ID=MEint885.genome.CDS.1426;Product=N-Acetyl-D-glucosamine ABC transport system%2C sugar-binding protein;locus_tag=MEint885.genome.CDS.1426
+MEint885.contig.53	feature	CDS	6314	6793	.	+	0	ID=MEint885.genome.CDS.1425;Product=Mg%282%2B%29-transport-ATPase-associated protein MgtC;locus_tag=MEint885.genome.CDS.1425
+MEint885.contig.53	feature	CDS	5927	6046	.	+	0	ID=MEint885.genome.CDS.546;Product=;locus_tag=MEint885.genome.CDS.546
+MEint885.contig.53	feature	CDS	5357	5836	.	-	0	ID=MEint885.genome.CDS.1424;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1424
+MEint885.contig.53	feature	CDS	4355	5236	.	-	0	ID=MEint885.genome.CDS.1423;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1423
+MEint885.contig.53	feature	CDS	3248	4144	.	-	0	ID=MEint885.genome.CDS.1422;Product=;locus_tag=MEint885.genome.CDS.1422
+MEint885.contig.53	feature	CDS	2380	3207	.	+	0	ID=MEint885.genome.CDS.1421;Product=;locus_tag=MEint885.genome.CDS.1421
+MEint885.contig.53	feature	CDS	1455	2387	.	+	0	ID=MEint885.genome.CDS.1420;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1420
+MEint885.contig.53	feature	CDS	94	1446	.	+	0	ID=MEint885.genome.CDS.1419;Product=;locus_tag=MEint885.genome.CDS.1419
+MEint885.contig.54	feature	CDS	9581	9895	.	-	0	ID=MEint885.genome.CDS.1451;Product=Inosine-5%27-monophosphate dehydrogenase %28EC 1.1.1.205%29 / CBS domain;locus_tag=MEint885.genome.CDS.1451
+MEint885.contig.54	feature	CDS	8427	9584	.	+	0	ID=MEint885.genome.CDS.1450;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1450
+MEint885.contig.54	feature	CDS	7242	8351	.	-	0	ID=MEint885.genome.CDS.1449;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1449
+MEint885.contig.54	feature	CDS	6220	7158	.	-	0	ID=MEint885.genome.CDS.1448;Product=;locus_tag=MEint885.genome.CDS.1448
+MEint885.contig.54	feature	CDS	5717	6220	.	-	0	ID=MEint885.genome.CDS.1447;Product=Low molecular weight protein tyrosine phosphatase %28EC 3.1.3.48%29;locus_tag=MEint885.genome.CDS.1447
+MEint885.contig.54	feature	CDS	5087	5728	.	+	0	ID=MEint885.genome.CDS.1446;Product=spoU rRNA methylase family protein;locus_tag=MEint885.genome.CDS.1446
+MEint885.contig.54	feature	CDS	3996	5090	.	+	0	ID=MEint885.genome.CDS.1445;Product=Deacetylases%2C including yeast histone deacetylase and acetoin utilization protein;locus_tag=MEint885.genome.CDS.1445
+MEint885.contig.54	feature	CDS	2845	3966	.	-	0	ID=MEint885.genome.CDS.1444;Product=D-alanyl-D-alanine carboxypeptidase %28EC 3.4.16.4%29;locus_tag=MEint885.genome.CDS.1444
+MEint885.contig.54	feature	CDS	1779	2867	.	+	0	ID=MEint885.genome.CDS.1443;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1443
+MEint885.contig.54	feature	CDS	892	1749	.	-	0	ID=MEint885.genome.CDS.1442;Product=Heme O synthase%2C protoheme IX farnesyltransferase %28EC 2.5.1.-%29 COX10-CtaB;locus_tag=MEint885.genome.CDS.1442
+MEint885.contig.54	feature	CDS	3	800	.	-	0	ID=MEint885.genome.CDS.1441;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1441
+MEint885.contig.55	feature	CDS	17759	17986	.	-	0	ID=MEint885.genome.CDS.1471;Product=;locus_tag=MEint885.genome.CDS.1471
+MEint885.contig.55	feature	CDS	17058	17720	.	-	0	ID=MEint885.genome.CDS.1470;Product=RNA polymerase sigma-54 factor RpoN;locus_tag=MEint885.genome.CDS.1470
+MEint885.contig.55	feature	CDS	16687	17061	.	-	0	ID=MEint885.genome.CDS.1469;Product=;locus_tag=MEint885.genome.CDS.1469
+MEint885.contig.55	feature	CDS	16248	16658	.	-	0	ID=MEint885.genome.CDS.1468;Product=;locus_tag=MEint885.genome.CDS.1468
+MEint885.contig.55	feature	CDS	12577	16239	.	+	0	ID=MEint885.genome.CDS.1467;Product=2-oxoglutarate dehydrogenase E1 component %28EC 1.2.4.2%29;locus_tag=MEint885.genome.CDS.1467
+MEint885.contig.55	feature	CDS	11772	12470	.	-	0	ID=MEint885.genome.CDS.1466;Product=3-oxoacyl-%5Bacyl-carrier protein%5D reductase %28EC 1.1.1.100%29;locus_tag=MEint885.genome.CDS.1466
+MEint885.contig.55	feature	CDS	11416	11793	.	+	0	ID=MEint885.genome.CDS.1465;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1465
+MEint885.contig.55	feature	CDS	10961	11344	.	-	0	ID=MEint885.genome.CDS.1464;Product=;locus_tag=MEint885.genome.CDS.1464
+MEint885.contig.55	feature	CDS	10404	10955	.	+	0	ID=MEint885.genome.CDS.1463;Product=3%27-to-5%27 oligoribonuclease %28orn%29;locus_tag=MEint885.genome.CDS.1463
+MEint885.contig.55	feature	CDS	9134	10264	.	-	0	ID=MEint885.genome.CDS.1462;Product=Phosphate ABC transporter%2C periplasmic phosphate-binding protein PstS %28TC 3.A.1.7.1%29;locus_tag=MEint885.genome.CDS.1462
+MEint885.contig.55	feature	CDS	8116	9060	.	-	0	ID=MEint885.genome.CDS.1461;Product=Phosphate transport system permease protein PstC %28TC 3.A.1.7.1%29;locus_tag=MEint885.genome.CDS.1461
+MEint885.contig.55	feature	CDS	7226	8116	.	-	0	ID=MEint885.genome.CDS.1460;Product=Phosphate transport system permease protein PstA %28TC 3.A.1.7.1%29;locus_tag=MEint885.genome.CDS.1460
+MEint885.contig.55	feature	CDS	6321	7226	.	-	0	ID=MEint885.genome.CDS.1459;Product=Phosphate transport ATP-binding protein PstB %28TC 3.A.1.7.1%29;locus_tag=MEint885.genome.CDS.1459
+MEint885.contig.55	feature	tRNA	6177	6250	.	+	.	ID=MEint885.genome.rna.16;Product=tRNA-Arg-TCT;locus_tag=MEint885.genome.rna.16
+MEint885.contig.55	feature	CDS	4446	6113	.	-	0	ID=MEint885.genome.CDS.1458;Product=ABC transporter ATP-binding protein;locus_tag=MEint885.genome.CDS.1458
+MEint885.contig.55	feature	CDS	4039	4449	.	-	0	ID=MEint885.genome.CDS.1457;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1457
+MEint885.contig.55	feature	CDS	2336	4042	.	-	0	ID=MEint885.genome.CDS.1456;Product=Alpha-glucosidase %28EC 3.2.1.20%29;locus_tag=MEint885.genome.CDS.1456
+MEint885.contig.55	feature	CDS	1122	2339	.	-	0	ID=MEint885.genome.CDS.1455;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1455
+MEint885.contig.55	feature	CDS	736	1113	.	-	0	ID=MEint885.genome.CDS.1454;Product=Hemoglobin-like protein HbO;locus_tag=MEint885.genome.CDS.1454
+MEint885.contig.55	feature	CDS	194	754	.	+	0	ID=MEint885.genome.CDS.1453;Product=Potassium efflux system KefA protein / Small-conductance mechanosensitive channel;locus_tag=MEint885.genome.CDS.1453
+MEint885.contig.55	feature	CDS	3	80	.	-	0	ID=MEint885.genome.CDS.1452;Product=;locus_tag=MEint885.genome.CDS.1452
+MEint885.contig.56	feature	misc_RNA	5096	7601	.	+	.	ID=MEint885.genome.repeat.38;Product=repeat region;locus_tag=MEint885.genome.repeat.38
+MEint885.contig.56	feature	CDS	7273	7599	.	+	0	ID=MEint885.genome.CDS.1481;Product=Magnesium and cobalt efflux protein CorC;locus_tag=MEint885.genome.CDS.1481
+MEint885.contig.56	feature	CDS	6830	7276	.	+	0	ID=MEint885.genome.CDS.1480;Product=Metal-dependent hydrolase YbeY%2C involved in rRNA and/or ribosome maturation and assembly;locus_tag=MEint885.genome.CDS.1480
+MEint885.contig.56	feature	CDS	5793	6800	.	+	0	ID=MEint885.genome.CDS.1479;Product=Phosphate starvation-inducible protein PhoH%2C predicted ATPase;locus_tag=MEint885.genome.CDS.1479
+MEint885.contig.56	feature	CDS	5447	5782	.	+	0	ID=MEint885.genome.CDS.1478;Product=Bis%285%27-nucleosyl%29-tetraphosphatase %28asymmetrical%29 %28EC 3.6.1.17%29;locus_tag=MEint885.genome.CDS.1478
+MEint885.contig.56	feature	CDS	4703	5437	.	+	0	ID=MEint885.genome.CDS.1477;Product=Ribosomal RNA small subunit methyltransferase E %28EC 2.1.1.-%29;locus_tag=MEint885.genome.CDS.1477
+MEint885.contig.56	feature	CDS	3579	4703	.	+	0	ID=MEint885.genome.CDS.1476;Product=Chaperone protein DnaJ;locus_tag=MEint885.genome.CDS.1476
+MEint885.contig.56	feature	CDS	2566	3579	.	+	0	ID=MEint885.genome.CDS.1475;Product=Heat-inducible transcription repressor HrcA;locus_tag=MEint885.genome.CDS.1475
+MEint885.contig.56	feature	CDS	2195	2539	.	+	0	ID=MEint885.genome.CDS.1474;Product=;locus_tag=MEint885.genome.CDS.1474
+MEint885.contig.56	feature	CDS	1037	2182	.	+	0	ID=MEint885.genome.CDS.1473;Product=Hypothetical radical SAM family enzyme in heat shock gene cluster%2C similarity with CPO of BS HemN-type;locus_tag=MEint885.genome.CDS.1473
+MEint885.contig.56	feature	CDS	1	1035	.	+	0	ID=MEint885.genome.CDS.1472;Product=Translation elongation factor LepA;locus_tag=MEint885.genome.CDS.1472
+MEint885.contig.57	feature	misc_RNA	3816	10537	.	+	.	ID=MEint885.genome.repeat.44;Product=repeat region;locus_tag=MEint885.genome.repeat.44
+MEint885.contig.57	feature	CDS	10307	10537	.	-	0	ID=MEint885.genome.CDS.1490;Product=Phenylalanyl-tRNA synthetase alpha chain %28EC 6.1.1.20%29;locus_tag=MEint885.genome.CDS.1490
+MEint885.contig.57	feature	CDS	7833	10310	.	-	0	ID=MEint885.genome.CDS.1489;Product=Phenylalanyl-tRNA synthetase beta chain %28EC 6.1.1.20%29;locus_tag=MEint885.genome.CDS.1489
+MEint885.contig.57	feature	CDS	6758	7777	.	-	0	ID=MEint885.genome.CDS.1488;Product=N-acetyl-gamma-glutamyl-phosphate reductase %28EC 1.2.1.38%29;locus_tag=MEint885.genome.CDS.1488
+MEint885.contig.57	feature	CDS	5592	6761	.	-	0	ID=MEint885.genome.CDS.1487;Product=Glutamate N-acetyltransferase %28EC 2.3.1.35%29 / N-acetylglutamate synthase %28EC 2.3.1.1%29;locus_tag=MEint885.genome.CDS.1487
+MEint885.contig.57	feature	CDS	4837	5595	.	-	0	ID=MEint885.genome.CDS.1486;Product=Acetylglutamate kinase %28EC 2.7.2.8%29;locus_tag=MEint885.genome.CDS.1486
+MEint885.contig.57	feature	CDS	3659	4840	.	-	0	ID=MEint885.genome.CDS.1485;Product=Acetylornithine aminotransferase %28EC 2.6.1.11%29;locus_tag=MEint885.genome.CDS.1485
+MEint885.contig.57	feature	CDS	3133	3666	.	-	0	ID=MEint885.genome.CDS.1484;Product=Arginine pathway regulatory protein ArgR%2C repressor of arg regulon;locus_tag=MEint885.genome.CDS.1484
+MEint885.contig.57	feature	CDS	1706	3133	.	-	0	ID=MEint885.genome.CDS.1483;Product=Argininosuccinate lyase %28EC 4.3.2.1%29;locus_tag=MEint885.genome.CDS.1483
+MEint885.contig.57	feature	CDS	435	1709	.	-	0	ID=MEint885.genome.CDS.1482;Product=Tyrosyl-tRNA synthetase %28EC 6.1.1.1%29;locus_tag=MEint885.genome.CDS.1482
+MEint885.contig.58	feature	misc_RNA	1	791	.	+	.	ID=MEint885.genome.repeat.15;Product=repeat region;locus_tag=MEint885.genome.repeat.15
+MEint885.contig.58	feature	misc_RNA	795	12515	.	+	.	ID=MEint885.genome.repeat.16;Product=repeat region;locus_tag=MEint885.genome.repeat.16
+MEint885.contig.58	feature	CDS	12270	12515	.	-	0	ID=MEint885.genome.CDS.1504;Product=Methylmalonate-semialdehyde dehydrogenase %5Binositol%5D %28EC 1.2.1.27%29;locus_tag=MEint885.genome.CDS.1504
+MEint885.contig.58	feature	CDS	11808	12293	.	+	0	ID=MEint885.genome.CDS.1503;Product=6%2C7-dimethyl-8-ribityllumazine synthase %28EC 2.5.1.78%29;locus_tag=MEint885.genome.CDS.1503
+MEint885.contig.58	feature	CDS	10600	11808	.	+	0	ID=MEint885.genome.CDS.1502;Product=3%2C4-dihydroxy-2-butanone 4-phosphate synthase %28EC 4.1.99.12%29 / GTP cyclohydrolase II %28EC 3.5.4.25%29;locus_tag=MEint885.genome.CDS.1502
+MEint885.contig.58	feature	CDS	10010	10600	.	+	0	ID=MEint885.genome.CDS.1501;Product=Riboflavin synthase eubacterial/eukaryotic %28EC 2.5.1.9%29;locus_tag=MEint885.genome.CDS.1501
+MEint885.contig.58	feature	CDS	8985	10010	.	+	0	ID=MEint885.genome.CDS.1500;Product=Diaminohydroxyphosphoribosylaminopyrimidine deaminase %28EC 3.5.4.26%29 / 5-amino-6-%285-phosphoribosylamino%29uracil reductase %28EC 1.1.1.193%29;locus_tag=MEint885.genome.CDS.1500
+MEint885.contig.58	feature	CDS	7130	8776	.	+	0	ID=MEint885.genome.CDS.1499;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1499
+MEint885.contig.58	feature	CDS	5759	7129	.	+	0	ID=MEint885.genome.CDS.1498;Product=Argininosuccinate synthase %28EC 6.3.4.5%29;locus_tag=MEint885.genome.CDS.1498
+MEint885.contig.58	feature	CDS	4578	5759	.	+	0	ID=MEint885.genome.CDS.1497;Product=Methyltransferase %28EC 2.1.1.-%29;locus_tag=MEint885.genome.CDS.1497
+MEint885.contig.58	feature	CDS	4161	4505	.	+	0	ID=MEint885.genome.CDS.1496;Product=;locus_tag=MEint885.genome.CDS.1496
+MEint885.contig.58	feature	CDS	3661	4041	.	+	0	ID=MEint885.genome.CDS.1495;Product=;locus_tag=MEint885.genome.CDS.1495
+MEint885.contig.58	feature	CDS	3512	3661	.	+	0	ID=MEint885.genome.CDS.1494;Product=;locus_tag=MEint885.genome.CDS.1494
+MEint885.contig.58	feature	CDS	1961	3502	.	+	0	ID=MEint885.genome.CDS.1493;Product=Beta-carotene ketolase;locus_tag=MEint885.genome.CDS.1493
+MEint885.contig.58	feature	CDS	816	1964	.	+	0	ID=MEint885.genome.CDS.1492;Product=Aspartate aminotransferase %28EC 2.6.1.1%29;locus_tag=MEint885.genome.CDS.1492
+MEint885.contig.58	feature	CDS	1	780	.	+	0	ID=MEint885.genome.CDS.1491;Product=;locus_tag=MEint885.genome.CDS.1491
+MEint885.contig.59	feature	CDS	7410	7892	.	+	0	ID=MEint885.genome.CDS.1513;Product=;locus_tag=MEint885.genome.CDS.1513
+MEint885.contig.59	feature	CDS	6396	7406	.	+	0	ID=MEint885.genome.CDS.1512;Product=Tryptophanyl-tRNA synthetase %28EC 6.1.1.2%29;locus_tag=MEint885.genome.CDS.1512
+MEint885.contig.59	feature	CDS	5058	6383	.	+	0	ID=MEint885.genome.CDS.1511;Product=Hemolysins and related proteins containing CBS domains;locus_tag=MEint885.genome.CDS.1511
+MEint885.contig.59	feature	CDS	3803	4885	.	-	0	ID=MEint885.genome.CDS.1510;Product=Glycerol-3-phosphate ABC transporter%2C ATP-binding protein UgpC %28TC 3.A.1.1.3%29;locus_tag=MEint885.genome.CDS.1510
+MEint885.contig.59	feature	CDS	2531	3745	.	+	0	ID=MEint885.genome.CDS.1509;Product=Isocitrate dehydrogenase %5BNADP%5D %28EC 1.1.1.42%29;locus_tag=MEint885.genome.CDS.1509
+MEint885.contig.59	feature	CDS	1542	2498	.	+	0	ID=MEint885.genome.CDS.1508;Product=Malate dehydrogenase %28EC 1.1.1.37%29;locus_tag=MEint885.genome.CDS.1508
+MEint885.contig.59	feature	CDS	1312	1524	.	+	0	ID=MEint885.genome.CDS.1507;Product=;locus_tag=MEint885.genome.CDS.1507
+MEint885.contig.59	feature	CDS	468	1304	.	+	0	ID=MEint885.genome.CDS.1506;Product=Methylenetetrahydrofolate dehydrogenase %28NADP%2B%29 %28EC 1.5.1.5%29 / Methenyltetrahydrofolate cyclohydrolase %28EC 3.5.4.9%29;locus_tag=MEint885.genome.CDS.1506
+MEint885.contig.59	feature	CDS	1	438	.	+	0	ID=MEint885.genome.CDS.1505;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1505
+MEint885.contig.6	feature	CDS	21019	22269	.	+	0	ID=MEint885.genome.CDS.904;Product=Glutamate synthase %5BNADPH%5D small chain %28EC 1.4.1.13%29;locus_tag=MEint885.genome.CDS.904
+MEint885.contig.6	feature	CDS	16509	21026	.	+	0	ID=MEint885.genome.CDS.903;Product=Glutamate synthase %5BNADPH%5D large chain %28EC 1.4.1.13%29;locus_tag=MEint885.genome.CDS.903
+MEint885.contig.6	feature	CDS	15672	16379	.	+	0	ID=MEint885.genome.CDS.902;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.902
+MEint885.contig.6	feature	CDS	14846	15667	.	+	0	ID=MEint885.genome.CDS.901;Product=Prolipoprotein diacylglyceryl transferase %28EC 2.4.99.-%29;locus_tag=MEint885.genome.CDS.901
+MEint885.contig.6	feature	CDS	14103	14849	.	+	0	ID=MEint885.genome.CDS.900;Product=;locus_tag=MEint885.genome.CDS.900
+MEint885.contig.6	feature	CDS	13235	14038	.	+	0	ID=MEint885.genome.CDS.899;Product=Tryptophan synthase alpha chain %28EC 4.2.1.20%29;locus_tag=MEint885.genome.CDS.899
+MEint885.contig.6	feature	CDS	12030	13220	.	+	0	ID=MEint885.genome.CDS.898;Product=Tryptophan synthase beta chain %28EC 4.2.1.20%29;locus_tag=MEint885.genome.CDS.898
+MEint885.contig.6	feature	CDS	11230	12009	.	+	0	ID=MEint885.genome.CDS.897;Product=Indole-3-glycerol phosphate synthase %28EC 4.1.1.48%29;locus_tag=MEint885.genome.CDS.897
+MEint885.contig.6	feature	CDS	9719	11224	.	+	0	ID=MEint885.genome.CDS.896;Product=Anthranilate synthase%2C aminase component %28EC 4.1.3.27%29;locus_tag=MEint885.genome.CDS.896
+MEint885.contig.6	feature	CDS	9389	9718	.	+	0	ID=MEint885.genome.CDS.895;Product=Phosphoribosyl-AMP cyclohydrolase %28EC 3.5.4.19%29;locus_tag=MEint885.genome.CDS.895
+MEint885.contig.6	feature	CDS	8603	9385	.	+	0	ID=MEint885.genome.CDS.894;Product=Imidazole glycerol phosphate synthase cyclase subunit %28EC 4.1.3.-%29;locus_tag=MEint885.genome.CDS.894
+MEint885.contig.6	feature	CDS	7881	8606	.	+	0	ID=MEint885.genome.CDS.893;Product=Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase %28EC 5.3.1.16%29 %40 Acting phosphoribosylanthranilate isomerase %28EC 5.3.1.24%29;locus_tag=MEint885.genome.CDS.893
+MEint885.contig.6	feature	CDS	7282	7884	.	+	0	ID=MEint885.genome.CDS.892;Product=Imidazole glycerol phosphate synthase amidotransferase subunit %28EC 2.4.2.-%29;locus_tag=MEint885.genome.CDS.892
+MEint885.contig.6	feature	CDS	6692	7285	.	+	0	ID=MEint885.genome.CDS.891;Product=Imidazoleglycerol-phosphate dehydratase %28EC 4.2.1.19%29;locus_tag=MEint885.genome.CDS.891
+MEint885.contig.6	feature	CDS	5534	6622	.	+	0	ID=MEint885.genome.CDS.890;Product=Histidinol-phosphate aminotransferase %28EC 2.6.1.9%29;locus_tag=MEint885.genome.CDS.890
+MEint885.contig.6	feature	CDS	4179	5534	.	+	0	ID=MEint885.genome.CDS.889;Product=Histidinol dehydrogenase %28EC 1.1.1.23%29;locus_tag=MEint885.genome.CDS.889
+MEint885.contig.6	feature	CDS	608	4129	.	+	0	ID=MEint885.genome.CDS.888;Product=DNA polymerase III alpha subunit %28EC 2.7.7.7%29;locus_tag=MEint885.genome.CDS.888
+MEint885.contig.6	feature	CDS	1	582	.	+	0	ID=MEint885.genome.CDS.887;Product=Ribosomal large subunit pseudouridine synthase D %28EC 4.2.1.70%29;locus_tag=MEint885.genome.CDS.887
+MEint885.contig.60	feature	misc_RNA	1	427	.	+	.	ID=MEint885.genome.repeat.5;Product=repeat region;locus_tag=MEint885.genome.repeat.5
+MEint885.contig.60	feature	misc_RNA	12146	17296	.	+	.	ID=MEint885.genome.repeat.6;Product=repeat region;locus_tag=MEint885.genome.repeat.6
+MEint885.contig.60	feature	CDS	16770	17294	.	+	0	ID=MEint885.genome.CDS.1529;Product=;locus_tag=MEint885.genome.CDS.1529
+MEint885.contig.60	feature	CDS	15715	16773	.	+	0	ID=MEint885.genome.CDS.1528;Product=Phospho-N-acetylmuramoyl-pentapeptide-transferase %28EC 2.7.8.13%29;locus_tag=MEint885.genome.CDS.1528
+MEint885.contig.60	feature	CDS	14333	15718	.	+	0	ID=MEint885.genome.CDS.1527;Product=UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase %28EC 6.3.2.10%29;locus_tag=MEint885.genome.CDS.1527
+MEint885.contig.60	feature	CDS	12831	14336	.	+	0	ID=MEint885.genome.CDS.1526;Product=UDP-N-acetylmuramoylalanyl-D-glutamate--2%2C6-diaminopimelate ligase %28EC 6.3.2.13%29;locus_tag=MEint885.genome.CDS.1526
+MEint885.contig.60	feature	CDS	10991	12838	.	+	0	ID=MEint885.genome.CDS.1525;Product=Cell division protein FtsI %5BPeptidoglycan synthetase%5D %28EC 2.4.1.129%29;locus_tag=MEint885.genome.CDS.1525
+MEint885.contig.60	feature	CDS	10572	10994	.	+	0	ID=MEint885.genome.CDS.1524;Product=;locus_tag=MEint885.genome.CDS.1524
+MEint885.contig.60	feature	CDS	9625	10572	.	+	0	ID=MEint885.genome.CDS.1523;Product=rRNA small subunit methyltransferase H;locus_tag=MEint885.genome.CDS.1523
+MEint885.contig.60	feature	CDS	9017	9448	.	+	0	ID=MEint885.genome.CDS.1522;Product=Cell division protein MraZ;locus_tag=MEint885.genome.CDS.1522
+MEint885.contig.60	feature	CDS	8457	8822	.	+	0	ID=MEint885.genome.CDS.1521;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1521
+MEint885.contig.60	feature	CDS	7210	8400	.	+	0	ID=MEint885.genome.CDS.1520;Product=DNA polymerase IV %28EC 2.7.7.7%29;locus_tag=MEint885.genome.CDS.1520
+MEint885.contig.60	feature	CDS	4029	7205	.	+	0	ID=MEint885.genome.CDS.1519;Product=DNA polymerase III alpha subunit %28EC 2.7.7.7%29;locus_tag=MEint885.genome.CDS.1519
+MEint885.contig.60	feature	CDS	3718	4032	.	+	0	ID=MEint885.genome.CDS.1518;Product=;locus_tag=MEint885.genome.CDS.1518
+MEint885.contig.60	feature	CDS	1584	3596	.	-	0	ID=MEint885.genome.CDS.1517;Product=5%27-nucleotidase %28EC 3.1.3.5%29;locus_tag=MEint885.genome.CDS.1517
+MEint885.contig.60	feature	CDS	1035	1448	.	-	0	ID=MEint885.genome.CDS.1516;Product=;locus_tag=MEint885.genome.CDS.1516
+MEint885.contig.60	feature	CDS	197	946	.	-	0	ID=MEint885.genome.CDS.1515;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1515
+MEint885.contig.60	feature	CDS	3	200	.	-	0	ID=MEint885.genome.CDS.1514;Product=;locus_tag=MEint885.genome.CDS.1514
+MEint885.contig.61	feature	CDS	11644	13443	.	-	0	ID=MEint885.genome.CDS.1541;Product=GTP pyrophosphokinase %28EC 2.7.6.5%29%2C %28p%29ppGpp synthetase I;locus_tag=MEint885.genome.CDS.1541
+MEint885.contig.61	feature	CDS	10343	11647	.	+	0	ID=MEint885.genome.CDS.1540;Product=ATPase involved in DNA repair;locus_tag=MEint885.genome.CDS.1540
+MEint885.contig.61	feature	CDS	9462	10169	.	-	0	ID=MEint885.genome.CDS.1539;Product=Hydroxyacylglutathione hydrolase %28EC 3.1.2.6%29;locus_tag=MEint885.genome.CDS.1539
+MEint885.contig.61	feature	CDS	8185	9465	.	-	0	ID=MEint885.genome.CDS.1538;Product=Histidyl-tRNA synthetase %28EC 6.1.1.21%29;locus_tag=MEint885.genome.CDS.1538
+MEint885.contig.61	feature	CDS	6426	8159	.	-	0	ID=MEint885.genome.CDS.1537;Product=Aspartyl-tRNA synthetase %28EC 6.1.1.12%29 %40 Aspartyl-tRNA%28Asn%29 synthetase %28EC 6.1.1.23%29;locus_tag=MEint885.genome.CDS.1537
+MEint885.contig.61	feature	CDS	5999	6397	.	-	0	ID=MEint885.genome.CDS.1536;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1536
+MEint885.contig.61	feature	CDS	3317	5992	.	-	0	ID=MEint885.genome.CDS.1535;Product=Alanyl-tRNA synthetase %28EC 6.1.1.7%29;locus_tag=MEint885.genome.CDS.1535
+MEint885.contig.61	feature	CDS	2856	3311	.	-	0	ID=MEint885.genome.CDS.1534;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1534
+MEint885.contig.61	feature	CDS	1814	2866	.	-	0	ID=MEint885.genome.CDS.1533;Product=FIG004453: protein YceG like;locus_tag=MEint885.genome.CDS.1533
+MEint885.contig.61	feature	CDS	1008	1817	.	-	0	ID=MEint885.genome.CDS.1532;Product=Shikimate 5-dehydrogenase I alpha %28EC 1.1.1.25%29;locus_tag=MEint885.genome.CDS.1532
+MEint885.contig.61	feature	CDS	530	952	.	-	0	ID=MEint885.genome.CDS.1531;Product=;locus_tag=MEint885.genome.CDS.1531
+MEint885.contig.61	feature	CDS	3	473	.	-	0	ID=MEint885.genome.CDS.1530;Product=Chorismate synthase %28EC 4.2.3.5%29;locus_tag=MEint885.genome.CDS.1530
+MEint885.contig.62	feature	CDS	953	3358	.	-	0	ID=MEint885.genome.CDS.1543;Product=FIG005666: putative helicase;locus_tag=MEint885.genome.CDS.1543
+MEint885.contig.62	feature	CDS	51	956	.	-	0	ID=MEint885.genome.CDS.1542;Product=DNA polymerase I %28EC 2.7.7.7%29;locus_tag=MEint885.genome.CDS.1542
+MEint885.contig.63	feature	misc_RNA	3225	9963	.	+	.	ID=MEint885.genome.repeat.49;Product=repeat region;locus_tag=MEint885.genome.repeat.49
+MEint885.contig.63	feature	CDS	9410	9961	.	+	0	ID=MEint885.genome.CDS.1552;Product=1-acyl-sn-glycerol-3-phosphate acyltransferase %28EC 2.3.1.51%29;locus_tag=MEint885.genome.CDS.1552
+MEint885.contig.63	feature	CDS	8482	9417	.	+	0	ID=MEint885.genome.CDS.1551;Product=Lipoate synthase;locus_tag=MEint885.genome.CDS.1551
+MEint885.contig.63	feature	CDS	7820	8482	.	+	0	ID=MEint885.genome.CDS.1550;Product=Octanoate-%5Bacyl-carrier-protein%5D-protein-N-octanoyltransferase;locus_tag=MEint885.genome.CDS.1550
+MEint885.contig.63	feature	CDS	5486	7675	.	-	0	ID=MEint885.genome.CDS.1549;Product=possible membrane protein;locus_tag=MEint885.genome.CDS.1549
+MEint885.contig.63	feature	CDS	4461	5474	.	-	0	ID=MEint885.genome.CDS.1548;Product=;locus_tag=MEint885.genome.CDS.1548
+MEint885.contig.63	feature	CDS	3567	4457	.	+	0	ID=MEint885.genome.CDS.1547;Product=Cell division inhibitor;locus_tag=MEint885.genome.CDS.1547
+MEint885.contig.63	feature	CDS	2199	3566	.	+	0	ID=MEint885.genome.CDS.1546;Product=Dihydrolipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex %28EC 2.3.1.168%29;locus_tag=MEint885.genome.CDS.1546
+MEint885.contig.63	feature	CDS	747	2114	.	+	0	ID=MEint885.genome.CDS.1545;Product=Dihydrolipoamide dehydrogenase of branched-chain alpha-keto acid dehydrogenase %28EC 1.8.1.4%29;locus_tag=MEint885.genome.CDS.1545
+MEint885.contig.63	feature	CDS	1	699	.	+	0	ID=MEint885.genome.CDS.1544;Product=Cytosol aminopeptidase PepA %28EC 3.4.11.1%29;locus_tag=MEint885.genome.CDS.1544
+MEint885.contig.64	feature	tRNA	23354	23437	.	-	.	ID=MEint885.genome.rna.17;Product=tRNA-Leu-GAG;locus_tag=MEint885.genome.rna.17
+MEint885.contig.64	feature	CDS	22773	23330	.	-	0	ID=MEint885.genome.CDS.1578;Product=Adenine phosphoribosyltransferase %28EC 2.4.2.7%29;locus_tag=MEint885.genome.CDS.1578
+MEint885.contig.64	feature	CDS	22114	22755	.	-	0	ID=MEint885.genome.CDS.1577;Product=Thymidine kinase %28EC 2.7.1.21%29;locus_tag=MEint885.genome.CDS.1577
+MEint885.contig.64	feature	CDS	21381	22112	.	+	0	ID=MEint885.genome.CDS.1576;Product=;locus_tag=MEint885.genome.CDS.1576
+MEint885.contig.64	feature	CDS	20679	21341	.	-	0	ID=MEint885.genome.CDS.1575;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1575
+MEint885.contig.64	feature	CDS	19131	20567	.	-	0	ID=MEint885.genome.CDS.1574;Product=Xanthine/uracil/thiamine/ascorbate permease family protein;locus_tag=MEint885.genome.CDS.1574
+MEint885.contig.64	feature	CDS	18427	19077	.	+	0	ID=MEint885.genome.CDS.1573;Product=Uracil-DNA glycosylase%2C family 1;locus_tag=MEint885.genome.CDS.1573
+MEint885.contig.64	feature	CDS	17642	18427	.	+	0	ID=MEint885.genome.CDS.1572;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1572
+MEint885.contig.64	feature	CDS	17356	17592	.	-	0	ID=MEint885.genome.CDS.1571;Product=;locus_tag=MEint885.genome.CDS.1571
+MEint885.contig.64	feature	CDS	16730	17359	.	-	0	ID=MEint885.genome.CDS.1570;Product=Phosphoserine phosphatase %28EC 3.1.3.3%29;locus_tag=MEint885.genome.CDS.1570
+MEint885.contig.64	feature	CDS	15871	16725	.	+	0	ID=MEint885.genome.CDS.1569;Product=ATP phosphoribosyltransferase %28EC 2.4.2.17%29;locus_tag=MEint885.genome.CDS.1569
+MEint885.contig.64	feature	CDS	15593	15871	.	+	0	ID=MEint885.genome.CDS.1568;Product=Phosphoribosyl-ATP pyrophosphatase %28EC 3.6.1.31%29;locus_tag=MEint885.genome.CDS.1568
+MEint885.contig.64	feature	CDS	14885	15544	.	+	0	ID=MEint885.genome.CDS.1567;Product=Ribulose-phosphate 3-epimerase %28EC 5.1.3.1%29;locus_tag=MEint885.genome.CDS.1567
+MEint885.contig.64	feature	CDS	13572	14876	.	+	0	ID=MEint885.genome.CDS.1566;Product=16S rRNA %28cytosine%28967%29-C%285%29%29-methyltransferase %28EC 2.1.1.176%29;locus_tag=MEint885.genome.CDS.1566
+MEint885.contig.64	feature	CDS	12667	13575	.	+	0	ID=MEint885.genome.CDS.1565;Product=Methionyl-tRNA formyltransferase %28EC 2.1.2.9%29;locus_tag=MEint885.genome.CDS.1565
+MEint885.contig.64	feature	CDS	12092	12652	.	+	0	ID=MEint885.genome.CDS.1564;Product=Peptide deformylase %28EC 3.5.1.88%29;locus_tag=MEint885.genome.CDS.1564
+MEint885.contig.64	feature	CDS	10233	12062	.	+	0	ID=MEint885.genome.CDS.1563;Product=Helicase PriA essential for oriC/DnaA-independent DNA replication;locus_tag=MEint885.genome.CDS.1563
+MEint885.contig.64	feature	CDS	9031	10224	.	+	0	ID=MEint885.genome.CDS.1562;Product=S-adenosylmethionine synthetase %28EC 2.5.1.6%29;locus_tag=MEint885.genome.CDS.1562
+MEint885.contig.64	feature	CDS	7818	9038	.	+	0	ID=MEint885.genome.CDS.1561;Product=Phosphopantothenoylcysteine decarboxylase %28EC 4.1.1.36%29 / Phosphopantothenoylcysteine synthetase %28EC 6.3.2.5%29;locus_tag=MEint885.genome.CDS.1561
+MEint885.contig.64	feature	CDS	7552	7809	.	+	0	ID=MEint885.genome.CDS.1560;Product=DNA-directed RNA polymerase omega subunit %28EC 2.7.7.6%29;locus_tag=MEint885.genome.CDS.1560
+MEint885.contig.64	feature	CDS	6949	7500	.	+	0	ID=MEint885.genome.CDS.1559;Product=Guanylate kinase %28EC 2.7.4.8%29;locus_tag=MEint885.genome.CDS.1559
+MEint885.contig.64	feature	CDS	6635	6949	.	+	0	ID=MEint885.genome.CDS.1558;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1558
+MEint885.contig.64	feature	CDS	5928	6617	.	+	0	ID=MEint885.genome.CDS.1557;Product=Orotidine 5%27-phosphate decarboxylase %28EC 4.1.1.23%29;locus_tag=MEint885.genome.CDS.1557
+MEint885.contig.64	feature	CDS	4997	5938	.	+	0	ID=MEint885.genome.CDS.1556;Product=Dihydroorotate dehydrogenase%2C catalytic subunit %28EC 1.3.3.1%29;locus_tag=MEint885.genome.CDS.1556
+MEint885.contig.64	feature	CDS	4144	5004	.	+	0	ID=MEint885.genome.CDS.1555;Product=Dihydroorotate dehydrogenase electron transfer subunit %28EC 1.3.3.1%29;locus_tag=MEint885.genome.CDS.1555
+MEint885.contig.64	feature	CDS	890	4147	.	+	0	ID=MEint885.genome.CDS.1554;Product=Carbamoyl-phosphate synthase large chain %28EC 6.3.5.5%29;locus_tag=MEint885.genome.CDS.1554
+MEint885.contig.64	feature	CDS	1	903	.	+	0	ID=MEint885.genome.CDS.1553;Product=Carbamoyl-phosphate synthase small chain %28EC 6.3.5.5%29;locus_tag=MEint885.genome.CDS.1553
+MEint885.contig.65	feature	misc_RNA	6026	9944	.	+	.	ID=MEint885.genome.repeat.30;Product=repeat region;locus_tag=MEint885.genome.repeat.30
+MEint885.contig.65	feature	misc_RNA	10016	12930	.	+	.	ID=MEint885.genome.repeat.31;Product=repeat region;locus_tag=MEint885.genome.repeat.31
+MEint885.contig.65	feature	CDS	12557	12928	.	+	0	ID=MEint885.genome.CDS.1591;Product=1-deoxy-D-xylulose 5-phosphate reductoisomerase %28EC 1.1.1.267%29;locus_tag=MEint885.genome.CDS.1591
+MEint885.contig.65	feature	CDS	11163	12503	.	-	0	ID=MEint885.genome.CDS.1590;Product=Gamma-aminobutyrate:alpha-ketoglutarate aminotransferase %28EC 2.6.1.19%29;locus_tag=MEint885.genome.CDS.1590
+MEint885.contig.65	feature	CDS	10168	11166	.	+	0	ID=MEint885.genome.CDS.1589;Product=Arginase/agmatinase/formimionoglutamate hydrolase%2C arginase family;locus_tag=MEint885.genome.CDS.1589
+MEint885.contig.65	feature	CDS	9046	10158	.	+	0	ID=MEint885.genome.CDS.1588;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1588
+MEint885.contig.65	feature	CDS	7963	8790	.	+	0	ID=MEint885.genome.CDS.1587;Product=Putrescine transport system permease protein PotI %28TC 3.A.1.11.2%29;locus_tag=MEint885.genome.CDS.1587
+MEint885.contig.65	feature	CDS	7058	7966	.	+	0	ID=MEint885.genome.CDS.1586;Product=Putrescine transport system permease protein PotH %28TC 3.A.1.11.2%29;locus_tag=MEint885.genome.CDS.1586
+MEint885.contig.65	feature	CDS	5927	7054	.	+	0	ID=MEint885.genome.CDS.1585;Product=Putrescine transport ATP-binding protein PotG %28TC 3.A.1.11.2%29;locus_tag=MEint885.genome.CDS.1585
+MEint885.contig.65	feature	CDS	4703	5905	.	+	0	ID=MEint885.genome.CDS.1584;Product=Putrescine ABC transporter putrescine-binding protein PotF %28TC 3.A.1.11.2%29;locus_tag=MEint885.genome.CDS.1584
+MEint885.contig.65	feature	CDS	3212	4654	.	+	0	ID=MEint885.genome.CDS.1583;Product=4-aminobutyraldehyde dehydrogenase %28EC 1.2.1.19%29;locus_tag=MEint885.genome.CDS.1583
+MEint885.contig.65	feature	CDS	2039	3145	.	+	0	ID=MEint885.genome.CDS.1582;Product=Ribosomal RNA large subunit methyltransferase N %28EC 2.1.1.-%29;locus_tag=MEint885.genome.CDS.1582
+MEint885.contig.65	feature	CDS	1197	2042	.	+	0	ID=MEint885.genome.CDS.1581;Product=Phosphatidate cytidylyltransferase %28EC 2.7.7.41%29;locus_tag=MEint885.genome.CDS.1581
+MEint885.contig.65	feature	CDS	621	1181	.	+	0	ID=MEint885.genome.CDS.1580;Product=Ribosome recycling factor;locus_tag=MEint885.genome.CDS.1580
+MEint885.contig.65	feature	CDS	3	611	.	+	0	ID=MEint885.genome.CDS.1579;Product=Uridine monophosphate kinase %28EC 2.7.4.22%29;locus_tag=MEint885.genome.CDS.1579
+MEint885.contig.66	feature	misc_RNA	1	3792	.	+	.	ID=MEint885.genome.repeat.47;Product=repeat region;locus_tag=MEint885.genome.repeat.47
+MEint885.contig.66	feature	CDS	3613	3798	.	-	0	ID=MEint885.genome.CDS.1595;Product=;locus_tag=MEint885.genome.CDS.1595
+MEint885.contig.66	feature	CDS	1459	3465	.	-	0	ID=MEint885.genome.CDS.1594;Product=DinG family ATP-dependent helicase YoaA;locus_tag=MEint885.genome.CDS.1594
+MEint885.contig.66	feature	CDS	681	1397	.	-	0	ID=MEint885.genome.CDS.1593;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1593
+MEint885.contig.66	feature	CDS	3	620	.	-	0	ID=MEint885.genome.CDS.1592;Product=;locus_tag=MEint885.genome.CDS.1592
+MEint885.contig.67	feature	misc_RNA	1	3919	.	+	.	ID=MEint885.genome.repeat.1;Product=repeat region;locus_tag=MEint885.genome.repeat.1
+MEint885.contig.67	feature	misc_RNA	3991	6905	.	+	.	ID=MEint885.genome.repeat.2;Product=repeat region;locus_tag=MEint885.genome.repeat.2
+MEint885.contig.67	feature	CDS	10048	10239	.	+	0	ID=MEint885.genome.CDS.1605;Product=Prolyl-tRNA synthetase %28EC 6.1.1.15%29%2C bacterial type;locus_tag=MEint885.genome.CDS.1605
+MEint885.contig.67	feature	CDS	8878	10029	.	+	0	ID=MEint885.genome.CDS.1604;Product=1-hydroxy-2-methyl-2-%28E%29-butenyl 4-diphosphate synthase %28EC 1.17.7.1%29;locus_tag=MEint885.genome.CDS.1604
+MEint885.contig.67	feature	CDS	7682	8863	.	+	0	ID=MEint885.genome.CDS.1603;Product=Membrane-associated zinc metalloprotease;locus_tag=MEint885.genome.CDS.1603
+MEint885.contig.67	feature	CDS	6532	7668	.	+	0	ID=MEint885.genome.CDS.1602;Product=1-deoxy-D-xylulose 5-phosphate reductoisomerase %28EC 1.1.1.267%29;locus_tag=MEint885.genome.CDS.1602
+MEint885.contig.67	feature	CDS	5138	6478	.	-	0	ID=MEint885.genome.CDS.1601;Product=Gamma-aminobutyrate:alpha-ketoglutarate aminotransferase %28EC 2.6.1.19%29;locus_tag=MEint885.genome.CDS.1601
+MEint885.contig.67	feature	CDS	4143	5141	.	+	0	ID=MEint885.genome.CDS.1600;Product=Arginase/agmatinase/formimionoglutamate hydrolase%2C arginase family;locus_tag=MEint885.genome.CDS.1600
+MEint885.contig.67	feature	CDS	3021	4133	.	+	0	ID=MEint885.genome.CDS.1599;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1599
+MEint885.contig.67	feature	CDS	1938	2765	.	+	0	ID=MEint885.genome.CDS.1598;Product=Putrescine transport system permease protein PotI %28TC 3.A.1.11.2%29;locus_tag=MEint885.genome.CDS.1598
+MEint885.contig.67	feature	CDS	1033	1941	.	+	0	ID=MEint885.genome.CDS.1597;Product=Putrescine transport system permease protein PotH %28TC 3.A.1.11.2%29;locus_tag=MEint885.genome.CDS.1597
+MEint885.contig.67	feature	CDS	1	1029	.	+	0	ID=MEint885.genome.CDS.1596;Product=Putrescine transport ATP-binding protein PotG %28TC 3.A.1.11.2%29;locus_tag=MEint885.genome.CDS.1596
+MEint885.contig.68	feature	CDS	4713	5255	.	-	0	ID=MEint885.genome.CDS.1610;Product=tRNA nucleotidyltransferase %28EC 2.7.7.27%29;locus_tag=MEint885.genome.CDS.1610
+MEint885.contig.68	feature	CDS	3440	4729	.	+	0	ID=MEint885.genome.CDS.1609;Product=;locus_tag=MEint885.genome.CDS.1609
+MEint885.contig.68	feature	CDS	3001	3399	.	-	0	ID=MEint885.genome.CDS.1608;Product=FIG00659286: hypothetical protein;locus_tag=MEint885.genome.CDS.1608
+MEint885.contig.68	feature	CDS	940	2973	.	-	0	ID=MEint885.genome.CDS.1607;Product=Multimodular transpeptidase-transglycosylase %28EC 2.4.1.129%29 %28EC 3.4.-.-%29;locus_tag=MEint885.genome.CDS.1607
+MEint885.contig.68	feature	CDS	3	938	.	-	0	ID=MEint885.genome.CDS.1606;Product=;locus_tag=MEint885.genome.CDS.1606
+MEint885.contig.69	feature	CDS	6839	7321	.	+	0	ID=MEint885.genome.CDS.1620;Product=CarD-like transcriptional regulator;locus_tag=MEint885.genome.CDS.1620
+MEint885.contig.69	feature	CDS	6280	6738	.	-	0	ID=MEint885.genome.CDS.1619;Product=;locus_tag=MEint885.genome.CDS.1619
+MEint885.contig.69	feature	CDS	5615	6298	.	+	0	ID=MEint885.genome.CDS.1618;Product=Phosphate regulon transcriptional regulatory protein PhoB %28SphR%29;locus_tag=MEint885.genome.CDS.1618
+MEint885.contig.69	feature	CDS	4551	5618	.	+	0	ID=MEint885.genome.CDS.1617;Product=Phosphate regulon sensor protein PhoR %28SphS%29 %28EC 2.7.13.3%29;locus_tag=MEint885.genome.CDS.1617
+MEint885.contig.69	feature	CDS	3765	4424	.	-	0	ID=MEint885.genome.CDS.1616;Product=Phosphate transport system regulatory protein PhoU;locus_tag=MEint885.genome.CDS.1616
+MEint885.contig.69	feature	CDS	3018	3764	.	+	0	ID=MEint885.genome.CDS.1615;Product=Phosphoglycerate mutase %28EC 5.4.2.11%29;locus_tag=MEint885.genome.CDS.1615
+MEint885.contig.69	feature	CDS	2511	2996	.	+	0	ID=MEint885.genome.CDS.1614;Product=Uncharacterized protein Rv0487/MT0505 clustered with mycothiol biosynthesis gene;locus_tag=MEint885.genome.CDS.1614
+MEint885.contig.69	feature	CDS	1238	2509	.	+	0	ID=MEint885.genome.CDS.1613;Product=Glycosyltransferase MshA involved in mycothiol biosynthesis %28EC 2.4.1.-%29;locus_tag=MEint885.genome.CDS.1613
+MEint885.contig.69	feature	CDS	309	1238	.	+	0	ID=MEint885.genome.CDS.1612;Product=Hypothetical protein of L-Asparaginase type 2-like superfamily;locus_tag=MEint885.genome.CDS.1612
+MEint885.contig.69	feature	CDS	1	303	.	+	0	ID=MEint885.genome.CDS.1611;Product=;locus_tag=MEint885.genome.CDS.1611
+MEint885.contig.7	feature	misc_RNA	1	1731	.	+	.	ID=MEint885.genome.repeat.26;Product=repeat region;locus_tag=MEint885.genome.repeat.26
+MEint885.contig.7	feature	CDS	12291	13448	.	+	0	ID=MEint885.genome.CDS.918;Product=Iron-sulfur cluster assembly protein SufB;locus_tag=MEint885.genome.CDS.918
+MEint885.contig.7	feature	CDS	11554	12294	.	+	0	ID=MEint885.genome.CDS.917;Product=Iron-sulfur cluster regulator SufR;locus_tag=MEint885.genome.CDS.917
+MEint885.contig.7	feature	CDS	10611	11519	.	-	0	ID=MEint885.genome.CDS.916;Product=Cytochrome oxidase assembly protein;locus_tag=MEint885.genome.CDS.916
+MEint885.contig.7	feature	CDS	8551	10611	.	-	0	ID=MEint885.genome.CDS.915;Product=Transketolase %28EC 2.2.1.1%29;locus_tag=MEint885.genome.CDS.915
+MEint885.contig.7	feature	CDS	7445	8554	.	-	0	ID=MEint885.genome.CDS.914;Product=Transaldolase %28EC 2.2.1.2%29;locus_tag=MEint885.genome.CDS.914
+MEint885.contig.7	feature	CDS	5931	7448	.	-	0	ID=MEint885.genome.CDS.913;Product=Glucose-6-phosphate isomerase %28EC 5.3.1.9%29;locus_tag=MEint885.genome.CDS.913
+MEint885.contig.7	feature	CDS	5587	5934	.	+	0	ID=MEint885.genome.CDS.912;Product=putative electron transport protein;locus_tag=MEint885.genome.CDS.912
+MEint885.contig.7	feature	CDS	5323	5550	.	+	0	ID=MEint885.genome.CDS.911;Product=Preprotein translocase subunit SecG %28TC 3.A.5.1.1%29;locus_tag=MEint885.genome.CDS.911
+MEint885.contig.7	feature	CDS	4463	5242	.	+	0	ID=MEint885.genome.CDS.910;Product=Triosephosphate isomerase %28EC 5.3.1.1%29;locus_tag=MEint885.genome.CDS.910
+MEint885.contig.7	feature	CDS	3238	4437	.	+	0	ID=MEint885.genome.CDS.909;Product=Phosphoglycerate kinase %28EC 2.7.2.3%29;locus_tag=MEint885.genome.CDS.909
+MEint885.contig.7	feature	CDS	2231	3241	.	+	0	ID=MEint885.genome.CDS.908;Product=NAD-dependent glyceraldehyde-3-phosphate dehydrogenase %28EC 1.2.1.12%29;locus_tag=MEint885.genome.CDS.908
+MEint885.contig.7	feature	CDS	1121	2098	.	+	0	ID=MEint885.genome.CDS.907;Product=FIG001886: Cytoplasmic hypothetical protein;locus_tag=MEint885.genome.CDS.907
+MEint885.contig.7	feature	CDS	156	1115	.	+	0	ID=MEint885.genome.CDS.906;Product=FIG002813: LPPG:FO 2-phospho-L-lactate transferase like%2C CofD-like;locus_tag=MEint885.genome.CDS.906
+MEint885.contig.7	feature	CDS	1	159	.	+	0	ID=MEint885.genome.CDS.905;Product=;locus_tag=MEint885.genome.CDS.905
+MEint885.contig.70	feature	misc_RNA	6221	8080	.	+	.	ID=MEint885.genome.repeat.34;Product=repeat region;locus_tag=MEint885.genome.repeat.34
+MEint885.contig.70	feature	CDS	7675	8079	.	+	0	ID=MEint885.genome.CDS.1627;Product=;locus_tag=MEint885.genome.CDS.1627
+MEint885.contig.70	feature	CDS	6314	7666	.	+	0	ID=MEint885.genome.CDS.1626;Product=;locus_tag=MEint885.genome.CDS.1626
+MEint885.contig.70	feature	CDS	4462	5586	.	-	0	ID=MEint885.genome.CDS.1625;Product=;locus_tag=MEint885.genome.CDS.1625
+MEint885.contig.70	feature	CDS	3476	4366	.	+	0	ID=MEint885.genome.CDS.1624;Product=Inosose dehydratase %28EC 4.2.1.44%29;locus_tag=MEint885.genome.CDS.1624
+MEint885.contig.70	feature	CDS	1956	3470	.	+	0	ID=MEint885.genome.CDS.1623;Product=Inositol-1-monophosphatase %28EC 3.1.3.25%29;locus_tag=MEint885.genome.CDS.1623
+MEint885.contig.70	feature	CDS	930	1955	.	+	0	ID=MEint885.genome.CDS.1622;Product=Ferric iron ABC transporter%2C ATP-binding protein;locus_tag=MEint885.genome.CDS.1622
+MEint885.contig.70	feature	CDS	54	896	.	+	0	ID=MEint885.genome.CDS.1621;Product=Putative ABC transporter of substrate X%2C permease subunit II;locus_tag=MEint885.genome.CDS.1621
+MEint885.contig.71	feature	CDS	7104	8000	.	-	0	ID=MEint885.genome.CDS.1635;Product=ATP-dependent Clp protease ATP-binding subunit ClpX;locus_tag=MEint885.genome.CDS.1635
+MEint885.contig.71	feature	CDS	4493	7081	.	-	0	ID=MEint885.genome.CDS.1634;Product=Valyl-tRNA synthetase %28EC 6.1.1.9%29;locus_tag=MEint885.genome.CDS.1634
+MEint885.contig.71	feature	CDS	3144	4490	.	-	0	ID=MEint885.genome.CDS.1633;Product=Dihydrofolate synthase %28EC 6.3.2.12%29 %40 Folylpolyglutamate synthase %28EC 6.3.2.17%29;locus_tag=MEint885.genome.CDS.1633
+MEint885.contig.71	feature	CDS	2794	3138	.	-	0	ID=MEint885.genome.CDS.1632;Product=;locus_tag=MEint885.genome.CDS.1632
+MEint885.contig.71	feature	CDS	2335	2772	.	-	0	ID=MEint885.genome.CDS.1631;Product=Nucleoside diphosphate kinase %28EC 2.7.4.6%29;locus_tag=MEint885.genome.CDS.1631
+MEint885.contig.71	feature	CDS	1283	2323	.	-	0	ID=MEint885.genome.CDS.1630;Product=Rod shape-determining protein MreB;locus_tag=MEint885.genome.CDS.1630
+MEint885.contig.71	feature	CDS	358	1275	.	-	0	ID=MEint885.genome.CDS.1629;Product=Rod shape-determining protein MreC;locus_tag=MEint885.genome.CDS.1629
+MEint885.contig.71	feature	CDS	3	353	.	-	0	ID=MEint885.genome.CDS.1628;Product=;locus_tag=MEint885.genome.CDS.1628
+MEint885.contig.72	feature	CDS	14724	17399	.	+	0	ID=MEint885.genome.CDS.1650;Product=Protein export cytoplasm protein SecA ATPase RNA helicase %28TC 3.A.5.1.1%29;locus_tag=MEint885.genome.CDS.1650
+MEint885.contig.72	feature	CDS	13991	14692	.	+	0	ID=MEint885.genome.CDS.1649;Product=Competence protein F homolog%2C phosphoribosyltransferase domain%3B protein YhgH required for utilization of DNA as sole source of carbon and energy;locus_tag=MEint885.genome.CDS.1649
+MEint885.contig.72	feature	CDS	12405	13943	.	+	0	ID=MEint885.genome.CDS.1648;Product=Sensor histidine kinase mtrB %28EC 2.7.3.-%29;locus_tag=MEint885.genome.CDS.1648
+MEint885.contig.72	feature	CDS	11701	12390	.	+	0	ID=MEint885.genome.CDS.1647;Product=DNA-binding response regulator mtrA;locus_tag=MEint885.genome.CDS.1647
+MEint885.contig.72	feature	CDS	10421	11701	.	+	0	ID=MEint885.genome.CDS.1646;Product=Adenosylhomocysteinase %28EC 3.3.1.1%29;locus_tag=MEint885.genome.CDS.1646
+MEint885.contig.72	feature	CDS	8979	10367	.	+	0	ID=MEint885.genome.CDS.1645;Product=Phosphomannomutase %28EC 5.4.2.8%29;locus_tag=MEint885.genome.CDS.1645
+MEint885.contig.72	feature	CDS	8574	8960	.	+	0	ID=MEint885.genome.CDS.1644;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1644
+MEint885.contig.72	feature	CDS	7224	8531	.	+	0	ID=MEint885.genome.CDS.1643;Product=;locus_tag=MEint885.genome.CDS.1643
+MEint885.contig.72	feature	CDS	4150	7227	.	+	0	ID=MEint885.genome.CDS.1642;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1642
+MEint885.contig.72	feature	CDS	3769	4062	.	+	0	ID=MEint885.genome.CDS.1641;Product=Sporulation regulatory protein WhiB;locus_tag=MEint885.genome.CDS.1641
+MEint885.contig.72	feature	CDS	2630	3607	.	+	0	ID=MEint885.genome.CDS.1639;Product=N-acetylglucosamine-1-phosphate uridyltransferase %28EC 2.7.7.23%29 / Glucosamine-1-phosphate N-acetyltransferase %28EC 2.3.1.157%29;locus_tag=MEint885.genome.CDS.1639
+MEint885.contig.72	feature	CDS	1806	2633	.	+	0	ID=MEint885.genome.CDS.1638;Product=N-succinyl-L%2CL-diaminopimelate aminotransferase %28EC 2.6.1.17%29%2C type 2;locus_tag=MEint885.genome.CDS.1638
+MEint885.contig.72	feature	CDS	1223	1549	.	+	0	ID=MEint885.genome.CDS.1637;Product=Ferredoxin;locus_tag=MEint885.genome.CDS.1637
+MEint885.contig.72	feature	CDS	3	1166	.	-	0	ID=MEint885.genome.CDS.1636;Product=Cysteinyl-tRNA synthetase %28EC 6.1.1.16%29;locus_tag=MEint885.genome.CDS.1636
+MEint885.contig.73	feature	CDS	6994	9138	.	+	0	ID=MEint885.genome.CDS.1657;Product=Transcription-repair coupling factor;locus_tag=MEint885.genome.CDS.1657
+MEint885.contig.73	feature	CDS	4164	6848	.	-	0	ID=MEint885.genome.CDS.1656;Product=Phosphoenolpyruvate carboxylase %28EC 4.1.1.31%29;locus_tag=MEint885.genome.CDS.1656
+MEint885.contig.73	feature	CDS	3546	4163	.	+	0	ID=MEint885.genome.CDS.1655;Product=Peptidyl-tRNA hydrolase %28EC 3.1.1.29%29;locus_tag=MEint885.genome.CDS.1655
+MEint885.contig.73	feature	CDS	2884	3528	.	+	0	ID=MEint885.genome.CDS.1654;Product=LSU ribosomal protein L25p;locus_tag=MEint885.genome.CDS.1654
+MEint885.contig.73	feature	CDS	1425	2789	.	+	0	ID=MEint885.genome.CDS.1653;Product=;locus_tag=MEint885.genome.CDS.1653
+MEint885.contig.73	feature	CDS	455	1438	.	+	0	ID=MEint885.genome.CDS.1652;Product=Ribose-phosphate pyrophosphokinase %28EC 2.7.6.1%29;locus_tag=MEint885.genome.CDS.1652
+MEint885.contig.73	feature	CDS	3	458	.	+	0	ID=MEint885.genome.CDS.1651;Product=N-acetylglucosamine-1-phosphate uridyltransferase %28EC 2.7.7.23%29 / Glucosamine-1-phosphate N-acetyltransferase %28EC 2.3.1.157%29;locus_tag=MEint885.genome.CDS.1651
+MEint885.contig.74	feature	misc_RNA	1	16108	.	+	.	ID=MEint885.genome.repeat.17;Product=repeat region;locus_tag=MEint885.genome.repeat.17
+MEint885.contig.74	feature	misc_RNA	24856	28647	.	+	.	ID=MEint885.genome.repeat.18;Product=repeat region;locus_tag=MEint885.genome.repeat.18
+MEint885.contig.74	feature	CDS	28028	28645	.	+	0	ID=MEint885.genome.CDS.1687;Product=;locus_tag=MEint885.genome.CDS.1687
+MEint885.contig.74	feature	CDS	27251	27967	.	+	0	ID=MEint885.genome.CDS.1686;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1686
+MEint885.contig.74	feature	CDS	25183	27189	.	+	0	ID=MEint885.genome.CDS.1685;Product=DinG family ATP-dependent helicase YoaA;locus_tag=MEint885.genome.CDS.1685
+MEint885.contig.74	feature	CDS	22225	25035	.	+	0	ID=MEint885.genome.CDS.1684;Product=Ribonucleotide reductase of class II %28coenzyme B12-dependent%29 %28EC 1.17.4.1%29;locus_tag=MEint885.genome.CDS.1684
+MEint885.contig.74	feature	CDS	21622	22122	.	+	0	ID=MEint885.genome.CDS.1683;Product=Ribonucleotide reductase transcriptional regulator NrdR;locus_tag=MEint885.genome.CDS.1683
+MEint885.contig.74	feature	CDS	21074	21457	.	+	0	ID=MEint885.genome.CDS.1682;Product=;locus_tag=MEint885.genome.CDS.1682
+MEint885.contig.74	feature	CDS	20243	20914	.	-	0	ID=MEint885.genome.CDS.1681;Product=SOS-response repressor and protease LexA %28EC 3.4.21.88%29;locus_tag=MEint885.genome.CDS.1681
+MEint885.contig.74	feature	CDS	18794	20239	.	+	0	ID=MEint885.genome.CDS.1680;Product=GTP-binding protein HflX;locus_tag=MEint885.genome.CDS.1680
+MEint885.contig.74	feature	CDS	17995	18801	.	+	0	ID=MEint885.genome.CDS.1679;Product=Diaminopimelate epimerase %28EC 5.1.1.7%29;locus_tag=MEint885.genome.CDS.1679
+MEint885.contig.74	feature	CDS	17087	17998	.	+	0	ID=MEint885.genome.CDS.1678;Product=tRNA dimethylallyltransferase %28EC 2.5.1.75%29;locus_tag=MEint885.genome.CDS.1678
+MEint885.contig.74	feature	CDS	15669	17090	.	+	0	ID=MEint885.genome.CDS.1677;Product=tRNA-i%286%29A37 methylthiotransferase;locus_tag=MEint885.genome.CDS.1677
+MEint885.contig.74	feature	CDS	15137	15634	.	+	0	ID=MEint885.genome.CDS.1676;Product=;locus_tag=MEint885.genome.CDS.1676
+MEint885.contig.74	feature	CDS	14014	15150	.	+	0	ID=MEint885.genome.CDS.1675;Product=RecA protein;locus_tag=MEint885.genome.CDS.1675
+MEint885.contig.74	feature	CDS	12469	13983	.	-	0	ID=MEint885.genome.CDS.1674;Product=;locus_tag=MEint885.genome.CDS.1674
+MEint885.contig.74	feature	CDS	12279	12476	.	+	0	ID=MEint885.genome.CDS.1673;Product=;locus_tag=MEint885.genome.CDS.1673
+MEint885.contig.74	feature	CDS	11729	12262	.	+	0	ID=MEint885.genome.CDS.1672;Product=;locus_tag=MEint885.genome.CDS.1672
+MEint885.contig.74	feature	CDS	11435	11707	.	+	0	ID=MEint885.genome.CDS.1671;Product=FIG01123282: hypothetical protein;locus_tag=MEint885.genome.CDS.1671
+MEint885.contig.74	feature	CDS	10924	11394	.	+	0	ID=MEint885.genome.CDS.1670;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1670
+MEint885.contig.74	feature	CDS	10397	10927	.	+	0	ID=MEint885.genome.CDS.1669;Product=CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase %28EC 2.7.8.5%29;locus_tag=MEint885.genome.CDS.1669
+MEint885.contig.74	feature	CDS	9000	10400	.	+	0	ID=MEint885.genome.CDS.1668;Product=Ribosomal protein S12p Asp88 %28E. coli%29 methylthiotransferase;locus_tag=MEint885.genome.CDS.1668
+MEint885.contig.74	feature	CDS	8254	8970	.	+	0	ID=MEint885.genome.CDS.1667;Product=;locus_tag=MEint885.genome.CDS.1667
+MEint885.contig.74	feature	CDS	5799	8132	.	+	0	ID=MEint885.genome.CDS.1666;Product=DNA translocase FtsK;locus_tag=MEint885.genome.CDS.1666
+MEint885.contig.74	feature	CDS	4067	5749	.	+	0	ID=MEint885.genome.CDS.1665;Product=Ribonuclease J2 %28endoribonuclease in RNA processing%29;locus_tag=MEint885.genome.CDS.1665
+MEint885.contig.74	feature	CDS	3177	4067	.	+	0	ID=MEint885.genome.CDS.1664;Product=4-hydroxy-tetrahydrodipicolinate synthase %28EC 4.3.3.7%29;locus_tag=MEint885.genome.CDS.1664
+MEint885.contig.74	feature	CDS	2422	3153	.	+	0	ID=MEint885.genome.CDS.1663;Product=Thymidylate synthase thyX %28EC 2.1.1.-%29;locus_tag=MEint885.genome.CDS.1663
+MEint885.contig.74	feature	CDS	1678	2361	.	-	0	ID=MEint885.genome.CDS.1662;Product=;locus_tag=MEint885.genome.CDS.1662
+MEint885.contig.74	feature	CDS	1376	1681	.	-	0	ID=MEint885.genome.CDS.1661;Product=;locus_tag=MEint885.genome.CDS.1661
+MEint885.contig.74	feature	CDS	1125	1379	.	+	0	ID=MEint885.genome.CDS.1660;Product=;locus_tag=MEint885.genome.CDS.1660
+MEint885.contig.74	feature	CDS	369	1115	.	+	0	ID=MEint885.genome.CDS.1659;Product=4-hydroxy-tetrahydrodipicolinate reductase %28EC 1.17.1.8%29;locus_tag=MEint885.genome.CDS.1659
+MEint885.contig.74	feature	CDS	1	354	.	+	0	ID=MEint885.genome.CDS.1658;Product=FIG007959: peptidase%2C M16 family;locus_tag=MEint885.genome.CDS.1658
+MEint885.contig.75	feature	CDS	6989	7612	.	+	0	ID=MEint885.genome.CDS.1695;Product=Succinate dehydrogenase iron-sulfur protein %28EC 1.3.99.1%29;locus_tag=MEint885.genome.CDS.1695
+MEint885.contig.75	feature	CDS	5094	6989	.	+	0	ID=MEint885.genome.CDS.1694;Product=Succinate dehydrogenase flavoprotein subunit %28EC 1.3.99.1%29;locus_tag=MEint885.genome.CDS.1694
+MEint885.contig.75	feature	CDS	4283	5086	.	+	0	ID=MEint885.genome.CDS.1693;Product=putative succinate dehydrogenase %5Bmembrane anchor subunit%5D %28succinic dehydrogenase%29;locus_tag=MEint885.genome.CDS.1693
+MEint885.contig.75	feature	tRNA	4075	4160	.	+	.	ID=MEint885.genome.rna.18;Product=tRNA-Ser-TGA;locus_tag=MEint885.genome.rna.18
+MEint885.contig.75	feature	CDS	3411	4058	.	+	0	ID=MEint885.genome.CDS.1692;Product=;locus_tag=MEint885.genome.CDS.1692
+MEint885.contig.75	feature	CDS	2593	3414	.	+	0	ID=MEint885.genome.CDS.1691;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1691
+MEint885.contig.75	feature	CDS	1331	2596	.	+	0	ID=MEint885.genome.CDS.1690;Product=Seryl-tRNA synthetase %28EC 6.1.1.11%29;locus_tag=MEint885.genome.CDS.1690
+MEint885.contig.75	feature	CDS	410	1330	.	+	0	ID=MEint885.genome.CDS.1689;Product=Prephenate dehydratase %28EC 4.2.1.51%29;locus_tag=MEint885.genome.CDS.1689
+MEint885.contig.75	feature	CDS	3	329	.	-	0	ID=MEint885.genome.CDS.1688;Product=Protein serine/threonine phosphatase PrpC%2C regulation of stationary phase;locus_tag=MEint885.genome.CDS.1688
+MEint885.contig.76	feature	misc_RNA	10105	10499	.	+	.	ID=MEint885.genome.repeat.9;Product=repeat region;locus_tag=MEint885.genome.repeat.9
+MEint885.contig.76	feature	CDS	10219	10497	.	-	0	ID=MEint885.genome.CDS.1707;Product=ATP synthase gamma chain %28EC 3.6.3.14%29;locus_tag=MEint885.genome.CDS.1707
+MEint885.contig.76	feature	CDS	8798	10219	.	-	0	ID=MEint885.genome.CDS.1706;Product=ATP synthase beta chain %28EC 3.6.3.14%29;locus_tag=MEint885.genome.CDS.1706
+MEint885.contig.76	feature	CDS	8531	8794	.	-	0	ID=MEint885.genome.CDS.1705;Product=ATP synthase epsilon chain %28EC 3.6.3.14%29;locus_tag=MEint885.genome.CDS.1705
+MEint885.contig.76	feature	CDS	7798	8544	.	-	0	ID=MEint885.genome.CDS.1704;Product=;locus_tag=MEint885.genome.CDS.1704
+MEint885.contig.76	feature	CDS	6497	7792	.	+	0	ID=MEint885.genome.CDS.1703;Product=UDP-N-acetylglucosamine 1-carboxyvinyltransferase %28EC 2.5.1.7%29;locus_tag=MEint885.genome.CDS.1703
+MEint885.contig.76	feature	CDS	5842	6414	.	-	0	ID=MEint885.genome.CDS.1702;Product=ATP:Cob%28I%29alamin adenosyltransferase %28EC 2.5.1.17%29;locus_tag=MEint885.genome.CDS.1702
+MEint885.contig.76	feature	CDS	5525	5845	.	+	0	ID=MEint885.genome.CDS.1701;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1701
+MEint885.contig.76	feature	CDS	4943	5515	.	+	0	ID=MEint885.genome.CDS.1700;Product=;locus_tag=MEint885.genome.CDS.1700
+MEint885.contig.76	feature	CDS	4588	4905	.	-	0	ID=MEint885.genome.CDS.806;Product=;locus_tag=MEint885.genome.CDS.806
+MEint885.contig.76	feature	CDS	3122	4591	.	+	0	ID=MEint885.genome.CDS.1699;Product=Aldehyde dehydrogenase %28EC 1.2.1.3%29;locus_tag=MEint885.genome.CDS.1699
+MEint885.contig.76	feature	CDS	2386	3099	.	-	0	ID=MEint885.genome.CDS.1698;Product=Predicted hydrolase of the alpha/beta superfamily;locus_tag=MEint885.genome.CDS.1698
+MEint885.contig.76	feature	CDS	1257	2384	.	+	0	ID=MEint885.genome.CDS.1697;Product=;locus_tag=MEint885.genome.CDS.1697
+MEint885.contig.76	feature	CDS	1	1224	.	-	0	ID=MEint885.genome.CDS.1696;Product=Chromosome segregation ATPases;locus_tag=MEint885.genome.CDS.1696
+MEint885.contig.77	feature	CDS	12094	12375	.	+	0	ID=MEint885.genome.CDS.1722;Product=SSU ribosomal protein S4p %28S9e%29 %40 SSU ribosomal protein S4p %28S9e%29%2C zinc-dependent;locus_tag=MEint885.genome.CDS.1722
+MEint885.contig.77	feature	CDS	11645	12076	.	+	0	ID=MEint885.genome.CDS.1721;Product=SSU ribosomal protein S11p %28S14e%29;locus_tag=MEint885.genome.CDS.1721
+MEint885.contig.77	feature	CDS	11268	11645	.	+	0	ID=MEint885.genome.CDS.1720;Product=SSU ribosomal protein S13p %28S18e%29;locus_tag=MEint885.genome.CDS.1720
+MEint885.contig.77	feature	CDS	10777	10998	.	+	0	ID=MEint885.genome.CDS.1719;Product=Translation initiation factor 1;locus_tag=MEint885.genome.CDS.1719
+MEint885.contig.77	feature	CDS	9722	10690	.	+	0	ID=MEint885.genome.CDS.1718;Product=Putative membrane protein YeiH;locus_tag=MEint885.genome.CDS.1718
+MEint885.contig.77	feature	CDS	8715	9725	.	+	0	ID=MEint885.genome.CDS.1717;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1717
+MEint885.contig.77	feature	CDS	7762	8715	.	+	0	ID=MEint885.genome.CDS.1716;Product=D-3-phosphoglycerate dehydrogenase %28EC 1.1.1.95%29;locus_tag=MEint885.genome.CDS.1716
+MEint885.contig.77	feature	CDS	6557	7723	.	+	0	ID=MEint885.genome.CDS.1715;Product=Altronate hydrolase %28EC 4.2.1.7%29;locus_tag=MEint885.genome.CDS.1715
+MEint885.contig.77	feature	CDS	6279	6578	.	+	0	ID=MEint885.genome.CDS.1714;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1714
+MEint885.contig.77	feature	CDS	5393	6238	.	+	0	ID=MEint885.genome.CDS.1713;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1713
+MEint885.contig.77	feature	CDS	4683	5393	.	+	0	ID=MEint885.genome.CDS.1712;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1712
+MEint885.contig.77	feature	CDS	3868	4683	.	+	0	ID=MEint885.genome.CDS.1711;Product=;locus_tag=MEint885.genome.CDS.1711
+MEint885.contig.77	feature	CDS	3018	3860	.	+	0	ID=MEint885.genome.CDS.1710;Product=;locus_tag=MEint885.genome.CDS.1710
+MEint885.contig.77	feature	CDS	1477	2916	.	+	0	ID=MEint885.genome.CDS.1709;Product=;locus_tag=MEint885.genome.CDS.1709
+MEint885.contig.77	feature	CDS	3	1436	.	+	0	ID=MEint885.genome.CDS.1708;Product=;locus_tag=MEint885.genome.CDS.1708
+MEint885.contig.78	feature	CDS	6301	6552	.	+	0	ID=MEint885.genome.CDS.1729;Product=Twin-arginine translocation protein TatA;locus_tag=MEint885.genome.CDS.1729
+MEint885.contig.78	feature	CDS	5362	6279	.	+	0	ID=MEint885.genome.CDS.1728;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.1728
+MEint885.contig.78	feature	CDS	4419	5369	.	+	0	ID=MEint885.genome.CDS.1727;Product=FIG005453: Putative DeoR-family transcriptional regulator;locus_tag=MEint885.genome.CDS.1727
+MEint885.contig.78	feature	CDS	3849	4373	.	-	0	ID=MEint885.genome.CDS.1726;Product=;locus_tag=MEint885.genome.CDS.1726
+MEint885.contig.78	feature	CDS	2992	3852	.	+	0	ID=MEint885.genome.CDS.1725;Product=tRNA %28adenine%2858%29-N%281%29%29-methyltransferase %28EC 2.1.1.220%29;locus_tag=MEint885.genome.CDS.1725
+MEint885.contig.78	feature	CDS	2292	2984	.	+	0	ID=MEint885.genome.CDS.1724;Product=;locus_tag=MEint885.genome.CDS.1724
+MEint885.contig.78	feature	CDS	2	2302	.	+	0	ID=MEint885.genome.CDS.1723;Product=5-methyltetrahydrofolate--homocysteine methyltransferase %28EC 2.1.1.13%29;locus_tag=MEint885.genome.CDS.1723
+MEint885.contig.8	feature	misc_RNA	1	16108	.	+	.	ID=MEint885.genome.repeat.52;Product=repeat region;locus_tag=MEint885.genome.repeat.52
+MEint885.contig.8	feature	CDS	22024	24444	.	-	0	ID=MEint885.genome.CDS.944;Product=Translation initiation factor 2;locus_tag=MEint885.genome.CDS.944
+MEint885.contig.8	feature	CDS	21577	22020	.	-	0	ID=MEint885.genome.CDS.943;Product=Ribosome-binding factor A;locus_tag=MEint885.genome.CDS.943
+MEint885.contig.8	feature	CDS	20719	21576	.	-	0	ID=MEint885.genome.CDS.942;Product=tRNA pseudouridine synthase B %28EC 4.2.1.70%29;locus_tag=MEint885.genome.CDS.942
+MEint885.contig.8	feature	CDS	19797	20705	.	-	0	ID=MEint885.genome.CDS.941;Product=Riboflavin kinase %28EC 2.7.1.26%29 / FMN adenylyltransferase %28EC 2.7.7.2%29;locus_tag=MEint885.genome.CDS.941
+MEint885.contig.8	feature	CDS	19402	19671	.	-	0	ID=MEint885.genome.CDS.940;Product=SSU ribosomal protein S15p %28S13e%29;locus_tag=MEint885.genome.CDS.940
+MEint885.contig.8	feature	CDS	17043	19250	.	-	0	ID=MEint885.genome.CDS.939;Product=Polyribonucleotide nucleotidyltransferase %28EC 2.7.7.8%29;locus_tag=MEint885.genome.CDS.939
+MEint885.contig.8	feature	CDS	15755	17032	.	-	0	ID=MEint885.genome.CDS.938;Product=FIG007959: peptidase%2C M16 family;locus_tag=MEint885.genome.CDS.938
+MEint885.contig.8	feature	CDS	14994	15740	.	-	0	ID=MEint885.genome.CDS.937;Product=4-hydroxy-tetrahydrodipicolinate reductase %28EC 1.17.1.8%29;locus_tag=MEint885.genome.CDS.937
+MEint885.contig.8	feature	CDS	14730	14984	.	-	0	ID=MEint885.genome.CDS.936;Product=;locus_tag=MEint885.genome.CDS.936
+MEint885.contig.8	feature	CDS	14428	14733	.	+	0	ID=MEint885.genome.CDS.935;Product=;locus_tag=MEint885.genome.CDS.935
+MEint885.contig.8	feature	CDS	13748	14431	.	+	0	ID=MEint885.genome.CDS.934;Product=;locus_tag=MEint885.genome.CDS.934
+MEint885.contig.8	feature	CDS	12956	13687	.	-	0	ID=MEint885.genome.CDS.933;Product=Thymidylate synthase thyX %28EC 2.1.1.-%29;locus_tag=MEint885.genome.CDS.933
+MEint885.contig.8	feature	CDS	12042	12932	.	-	0	ID=MEint885.genome.CDS.932;Product=4-hydroxy-tetrahydrodipicolinate synthase %28EC 4.3.3.7%29;locus_tag=MEint885.genome.CDS.932
+MEint885.contig.8	feature	CDS	10360	12042	.	-	0	ID=MEint885.genome.CDS.931;Product=Ribonuclease J2 %28endoribonuclease in RNA processing%29;locus_tag=MEint885.genome.CDS.931
+MEint885.contig.8	feature	CDS	7977	10310	.	-	0	ID=MEint885.genome.CDS.930;Product=DNA translocase FtsK;locus_tag=MEint885.genome.CDS.930
+MEint885.contig.8	feature	CDS	7139	7855	.	-	0	ID=MEint885.genome.CDS.929;Product=;locus_tag=MEint885.genome.CDS.929
+MEint885.contig.8	feature	CDS	5709	7109	.	-	0	ID=MEint885.genome.CDS.928;Product=Ribosomal protein S12p Asp88 %28E. coli%29 methylthiotransferase;locus_tag=MEint885.genome.CDS.928
+MEint885.contig.8	feature	CDS	5182	5712	.	-	0	ID=MEint885.genome.CDS.927;Product=CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase %28EC 2.7.8.5%29;locus_tag=MEint885.genome.CDS.927
+MEint885.contig.8	feature	CDS	4715	5185	.	-	0	ID=MEint885.genome.CDS.926;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.926
+MEint885.contig.8	feature	CDS	4402	4674	.	-	0	ID=MEint885.genome.CDS.925;Product=FIG01123282: hypothetical protein;locus_tag=MEint885.genome.CDS.925
+MEint885.contig.8	feature	CDS	3847	4380	.	-	0	ID=MEint885.genome.CDS.924;Product=;locus_tag=MEint885.genome.CDS.924
+MEint885.contig.8	feature	CDS	3633	3830	.	-	0	ID=MEint885.genome.CDS.923;Product=;locus_tag=MEint885.genome.CDS.923
+MEint885.contig.8	feature	CDS	2126	3640	.	+	0	ID=MEint885.genome.CDS.922;Product=;locus_tag=MEint885.genome.CDS.922
+MEint885.contig.8	feature	CDS	959	2095	.	-	0	ID=MEint885.genome.CDS.921;Product=RecA protein;locus_tag=MEint885.genome.CDS.921
+MEint885.contig.8	feature	CDS	475	972	.	-	0	ID=MEint885.genome.CDS.920;Product=;locus_tag=MEint885.genome.CDS.920
+MEint885.contig.8	feature	CDS	3	440	.	-	0	ID=MEint885.genome.CDS.919;Product=tRNA-i%286%29A37 methylthiotransferase;locus_tag=MEint885.genome.CDS.919
+MEint885.contig.9	feature	misc_RNA	6108	8551	.	+	.	ID=MEint885.genome.repeat.29;Product=repeat region;locus_tag=MEint885.genome.repeat.29
+MEint885.contig.9	feature	CDS	7791	8534	.	+	0	ID=MEint885.genome.CDS.954;Product=Enoyl-CoA hydratase %28EC 4.2.1.17%29;locus_tag=MEint885.genome.CDS.954
+MEint885.contig.9	feature	CDS	6693	7781	.	+	0	ID=MEint885.genome.CDS.953;Product=Inositol-1-phosphate synthase %28EC 5.5.1.4%29;locus_tag=MEint885.genome.CDS.953
+MEint885.contig.9	feature	CDS	6154	6693	.	+	0	ID=MEint885.genome.CDS.952;Product=;locus_tag=MEint885.genome.CDS.952
+MEint885.contig.9	feature	CDS	4649	5914	.	-	0	ID=MEint885.genome.CDS.951;Product=Uracil permease;locus_tag=MEint885.genome.CDS.951
+MEint885.contig.9	feature	CDS	3893	4534	.	-	0	ID=MEint885.genome.CDS.950;Product=;locus_tag=MEint885.genome.CDS.950
+MEint885.contig.9	feature	CDS	3181	3855	.	-	0	ID=MEint885.genome.CDS.949;Product=;locus_tag=MEint885.genome.CDS.949
+MEint885.contig.9	feature	CDS	2419	3180	.	+	0	ID=MEint885.genome.CDS.948;Product=1-acyl-sn-glycerol-3-phosphate acyltransferase %28EC 2.3.1.51%29;locus_tag=MEint885.genome.CDS.948
+MEint885.contig.9	feature	CDS	1268	2380	.	-	0	ID=MEint885.genome.CDS.947;Product=hypothetical protein;locus_tag=MEint885.genome.CDS.947
+MEint885.contig.9	feature	CDS	294	1271	.	-	0	ID=MEint885.genome.CDS.946;Product=;locus_tag=MEint885.genome.CDS.946
+MEint885.contig.9	feature	CDS	1	291	.	+	0	ID=MEint885.genome.CDS.945;Product=;locus_tag=MEint885.genome.CDS.945
