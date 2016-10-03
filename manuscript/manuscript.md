@@ -112,6 +112,75 @@ All genomic and metatranscriptomic sequences are available through IMG and NCBI,
 
 # Results
 
+## Phylogenetics (Figure 1)
+* assemble Actino genomes from our extensive FW genome collection and other sources
+* identify acI as a monophyletic group w/in phylum Actinobacteria, acI-C as a group within acI - Figure 1 shows just these genomes
+
+## Completeness Estimates (Figure 2)
+* reverse ecology tested on complete genomes, SAGs and MAGs are incomplete
+* construct composite genomes at tribe- and clade-level
+* tribe-level remain incomplete, choose clade-level for Analysis
+
+## Protein Clustering and Metatranscriptomics
+* total number of protein clusters
+* core and accessory genome for lineage based on presence/absence w/in clades
+* read recruiting - % of MG/MT reads which map to acI reference genome collections (still need to map the MGs)
+* what does this say about...
+  * are acI active or dormant?
+  * quality of our reference genomes wrt conditions that day?
+
+## Workflow (Figure 3)
+* developed a computational pipeline for reverse ecology analysis on incomplete genomes
+* annotate using KBase, no gapfilling (explain justification)
+* size of models, fraction of total genes, comparison to other organisms
+* metabolic models converted to network graphs and merged
+* check size of SCC and reduce to largest component (compare to other studies re: size, % of nodes)
+* seed compound calculations - # of seed sets, % which contain one compound, max size
+
+## Evaluation of Potential Seed Compounds (Figure 4a)
+* anticipate "noise" in results and evaluate individual compounds
+* screen seed compounds to identify a subset for further investigation
+  * examples of reasons to reject
+    * network pruning (carbamoyl phosphate)
+    * missing annotations (fatty acids)
+  * examples of reasons to retain
+    * homoserine auxotrophy
+    * peptide degradation
+* manually curate selected compounds
+  * false negative - genes missing from the model - lysine auxotrophy
+  * false negative - alternative pathways - threonine auxotrophy
+  * true result - gene missing from model and genome - homoserine auxotrophy
+
+## Re-annotation of Peptidases and Glycoside Hydrolases (Figure 4b)
+* peptidases
+  * families and sub-families
+  * consistency with MAR-FISH and genomic studies
+  * similarities / differences btw clades - presence/absence and expression
+* glycoside hydrolases
+  * families and sub-families
+  * consistency with MAR-FISH and genomic studies
+  * similarities / differences btw clades - presence/absence and expression
+
+## Transporters
+* summary of transporters
+* diverse array of N-rich compounds consistent w/ literature
+* transport of simple and complex sugars
+* nucleotides and vitamins
+  * discuss Sarahi's vitamin auxotrophy idea?
+* other transporters not shown in figure
+* ecological niche
+  * scavenger of cell lysate, exudates/partially degraded plant materials
+  * ecological successful b/c ready to eat whatever comes its way
+* actinorhodopsin also highly expressed - hypothesis: establishes a protein gradient to drive ATP transport
+
+## Actinorhodopsin (possible Figure 5 or new analysis)
+* among most highly-expressed genes
+* coupled with high expression of sugar transporters confirms acI are photoheterotrophs
+* retinal biosynthesis pathway expressed (and functional in acI-A and acI-B)
+* other reasons for such high expression (MMBR review, need to investigate in our genomes)
+  * promoter strength?
+  * co-localized w/ other highly-expressed genes?
+
 # Discussion
 
 # Acknowledgements
