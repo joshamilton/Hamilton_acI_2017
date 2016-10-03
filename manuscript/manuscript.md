@@ -9,6 +9,33 @@ date: ^1^ Department of Bacteriology, University of Wisconsin-Madison, Madison, 
 
 # Introduction
 
+## acI
+
+### What we know from tag data
+* persistent and abundant through time and across lakes
+* three clades and thirteen tribes
+
+### What we know from SAG data
+* small and streamlined genome
+* conclusions on substrate utilization from SAG studies, incl. rhodopsin
+* conclusions on substrate utilization from FISH studies
+* no genomes from acI-C
+
+## Reverse Ecology
+* genome-gazing is a bottleneck, FISH studies are laborious - need an alternative
+* reverse-ecology is an emerging paradigm to infer ecology from genomic information w/ a focus on systems-level signatures
+* metabolism one aspect of ecology, long tradition of metabolic network analysis
+* example of reverse ecology - seed compounds and environment
+
+## Overview
+
+* assembled largest catalog of acI genomes, including acI-C
+* use existing reverse ecology to predict seed compounds for acI genomes
+  * high-throughput approach to leverage incomplete genome data
+* confirm conserved gene functions and revealed clade-specific differences
+* integrate with metatranscriptomic data
+* many diverse transporters, all highly expressed. possible key to success of passive & planktonic lifestyle
+
 # Materials and Methods
 
 ## Single-Cell Genome Generation, Selection, and Sequencing
