@@ -163,15 +163,11 @@ All genomic and metatranscriptomic sequences are available through IMG and NCBI,
 
 ## Transporters
 * summary of transporters
-* diverse array of N-rich compounds consistent w/ literature
+* diverse array of N-rich compounds
 * transport of simple and complex sugars
 * nucleotides and vitamins
-  * discuss Sarahi's vitamin auxotrophy idea?
 * other transporters not shown in figure
-* ecological niche
-  * scavenger of cell lysate, exudates/partially degraded plant materials
-  * ecological successful b/c ready to eat whatever comes its way
-* actinorhodopsin also highly expressed - hypothesis: establishes a protein gradient to drive ATP transport
+* actinorhodopsin also highly expressed
 
 ## Actinorhodopsin (possible Figure 5 or new analysis)
 * among most highly-expressed genes
@@ -182,6 +178,23 @@ All genomic and metatranscriptomic sequences are available through IMG and NCBI,
   * co-localized w/ other highly-expressed genes?
 
 # Discussion
+
+## (Dis)Agreement w/ previous findings
+* diverse array of N-rich compounds & transport of sugars consistent w/ literature
+* cyanophycinase?
+
+## Ecology of acI
+* ecological niche
+  * scavenger of cell lysate, exudates/partially degraded plant materials
+  * ecological successful b/c ready to eat whatever comes its way
+* actR hypothesis: establishes a protein gradient to drive ATP transport
+* discuss Sarahi's vitamin auxotrophy idea?
+
+## Potential and Limitations of Reverse Ecology
+* potential applications
+* limitations
+  * only as good as database, known functions of interest are missing
+  * lacks pathway information, enabling alternative metabolic routes - may miss true auxotrophies
 
 # Acknowledgements
 
