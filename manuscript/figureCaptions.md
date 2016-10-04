@@ -18,7 +18,7 @@ Phylogenetic placement of the SAGs and MAGs within the acI lineage, relative to 
 
 &nbsp;
 
-Mean estimated completeness of tribe(clade)-level population genomes. For each tribe(clade), genomes were randomly sampled (with replacement) from the set of all genomes belonging to that tribe(clade). Completeness was estimated using single-copy marker genes [@Parks2015]. Error bars represent the 95% confidence estimated from 1000 iterations.
+Mean estimated completeness of tribe(clade)-level population genomes. For each tribe(clade), genomes were randomly sampled (with replacement) from the set of all genomes belonging to that tribe(clade). Completeness was estimated using 204 single-copy marker genes from the phylum Actinobacteria [@Parks2015]. Error bars represent the 95% confidence estimated from 1000 iterations.
 
 &nbsp;
 
