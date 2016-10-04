@@ -121,9 +121,10 @@ A phylogenetic tree of these genomes is shown in Figure 1. The acI lineage has p
 Genome completeness estimates for the new genomes range from 51 to 87% (Table 1), with estimated genome sizes between 1 and 2 MB. The GC content of these genomes was also low (40 to 50%), and both estimated genome size and GC content are consistent with other acI genomes. Estimated genome size and GC content of clade acI-C were not statistically different from clades acI-A and acI-B.
 
 ## Completeness Estimates (Figure 2)
-* reverse ecology tested on complete genomes, SAGs and MAGs are incomplete
-* construct composite genomes at tribe- and clade-level
-* tribe-level remain incomplete, choose clade-level for Analysis
+
+Metabolic network reconstructions created from these genomes will necessarily be missing reactions, as the underlying genomes are incomplete. Previous studies have shown that the percentage of correctly identified seed compounds (true positives) is approximately equal to the completeness of the reaction network [@Borenstein2008], and the number of false positives is approximately equal to the incompleteness of the network [@Borenstein2008].
+
+Using conserved single-copy marker genes [@Parks2015], We estimated the completeness of tribe- and clade-level composite genomes to determine the finest level of taxonomic resolution at which we could confidently compute seed sets (Figure 2). At the tribe level, with the exception of tribe acI-B1, tribe-level composite genomes are estimated to be incomplete (Figure 2A). At the clade level, clades acI-A and B are estimated to be complete, while acI-C remains incomplete (Figure 2B). As a result, seed sets were calculated for composite clade-level genomes, with the understanding that some true seed compounds for the acI-C clade will not be predicted.
 
 ## Protein Clustering and Metatranscriptomics
 * total number of protein clusters
@@ -197,6 +198,7 @@ Genome completeness estimates for the new genomes range from 51 to 87% (Table 1)
 ## Potential and Limitations of Reverse Ecology
 * potential applications
 * limitations
+  * because analysis performed at clade level, cannot capture interactions btw tribes
   * only as good as database, known functions of interest are missing
   * lacks pathway information, enabling alternative metabolic routes - may miss true auxotrophies
 
