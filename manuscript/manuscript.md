@@ -52,7 +52,7 @@ Shotgun libraries were constructed for each of the samples and sequenced on an I
 
 Raw sequence data was passed through a filtering program developed at JGI to eliminate known sequencing and library preparation artifacts. Prior to assembly, reads were merged with FLASH [@Magoc2011], as previously described [@Bendall2016]. Merged reads were pooled by lake and layer into three co-assemblies using SOAPdenovo [@Luo2012a], and contigs from the resulting assemblies were assembled into a final assembly using Minimus [@Sommer2007], as previously described [@Bendall2016]. Additional details of the assembly process and metagenomic sequence reads are available through the JGI Genome Portal (http://genome.jgi.doe.gov) under Proposal ID 394.
 
-Genomes were binned from each metagenomic co-assembly using MetaBat [@Kang2015], as described previously [@Bendall2016]. Briefly, contigs were classified into bins using tetranucleotide frequency and coverage patterns across the time-series and then manually curated, as previously described [@Bendall2016]. Genome sequences are available through IMG (https://img.jgi.doe.gov/cgi-bin/mer/main.cgi) by searching for the IMG Taxon OIDs given in Table 1. Genomes were classified using taxonomic assignments from a set of 37 highly-conserved single-copy marker genes using Phylosift [@Darling2014], as previously described [@Bendall2016]. acI genomes (class Actinobacteria) were further classified using a defined ontology for freshwater bacteria [@Newton2011a] as described below. Final bin size and number of contigs are reported in Table 1.
+Genomes were binned from each metagenomic co-assembly using MetaBat [@Kang2015], as described previously [@Bendall2016]. Briefly, contigs were classified into bins using tetranucleotide frequency and coverage patterns across the time-series and then manually curated, as previously described [@Bendall2016]. Genome sequences are available through IMG (https://img.jgi.doe.gov/cgi-bin/mer/main.cgi). Genomes were classified using taxonomic assignments from a set of 37 highly-conserved single-copy marker genes using Phylosift [@Darling2014], as previously described [@Bendall2016].
 
 ## Metatranscriptome Sampling and Sequencing
 
@@ -65,6 +65,10 @@ Samples were subject to TRIzol-based RNA extraction (Thermo Fisher Scientific, W
 Raw paired-end reads were then merged using FLASH [@Magoc2011] using default parameters. Finally, additional rRNA and ncRNA sequences were removed using SortMeRNA [@Kopylova2012] using default parameters. SortMeRNA was run using eight built-in databases for bacterial, archaeal, and eukaryotic small and large ribosomal subunits and ncRNAs, derived from the SILVA 119 [@Quast2013] and RFAM [@Nawrocki2015] databases.
 
 Additional information, including all protocols and scripts for RNA analysis, can be found on Github (https://github.com/McMahonLab/OMD-TOILv2). Raw RNA sequences can be found on the National Center for Biotechnology Information (NCBI) website under BioProject PRJNA######.
+
+## Identification of acI SAGs and MAGs
+
+Novel acI SAGs were identified using partial 16S rRNA genes and a reference taxonomy for freshwater bacteria, as described above. To identify acI MAGs, a phylogenetic tree containing all acI SAGs and Actinobacterial MAGs was constructed as described below. Actinobacterial MAGs forming a monophyletic group with the acI SAGs were deemed acI MAGs.
 
 ## Genome Completeness and Phylogenetic Relationships
 
@@ -108,9 +112,13 @@ All genomic and metatranscriptomic sequences are available through IMG and NCBI,
 
 # Results
 
-## Phylogenetics (Figure 1)
-* assemble Actino genomes from our extensive FW genome collection and other sources
-* identify acI as a monophyletic group w/in phylum Actinobacteria, acI-C as a group within acI - Figure 1 shows just these genomes
+## Genome Statistics and Phylogenetic Affiliation
+
+We have assembled a reference genome collection containing 17 SAGs and 19 MAGs from members of the acI lineage. The SAGs, 11 of which have been previously described [@Garcia2013, @Ghylin2014], come from four temperate lakes in the United States and Europe, while the MAGs come from two temperate lakes in the United States (15 MAGs, nine of which have been previously-described [@Bendall2016]), Spanish and American reservoirs (three MAGs [@Ghai2014, @Tsementzi2014]), and a mixed culture from a European temperate lake [@Garcia2015]. The full list of genomes is given in Table 1.
+
+A phylogenetic tree of these genomes is shown in Figure 1. The acI lineage has previously been shown to contain three distinct clades [@Newton2011a], and our concatenated gene tree recapitulates this topology. Of note, three MAGs were classified as belonging to the acI-C clade, and represent the first genomes from this group. Additionally, five MAGs fell into one of the seven tribes defined by our SAGs.
+
+Genome completeness estimates for the new genomes range from 51 to 87% (Table 1), with estimated genome sizes between 1 and 2 MB. The GC content of these genomes was also low (40 to 50%), and both estimated genome size and GC content are consistent with other acI genomes. Estimated genome size and GC content of clade acI-C were not statistically different from clades acI-A and acI-B.
 
 ## Completeness Estimates (Figure 2)
 * reverse ecology tested on complete genomes, SAGs and MAGs are incomplete
