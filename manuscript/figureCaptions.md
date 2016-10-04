@@ -10,7 +10,7 @@ date: September 16, 2016
 
 &nbsp;
 
-Phylogenetic placement of the SAGs and MAGs within the acI lineage, relative to other sequenced actinobacterial genomes in the class Actinobacteria [@Gao2012]. The tree was built using RAxML [@Stamatakis2014] from a concatenated alignment of single-copy marker genes [@Darling2014]. The class Acidimicrobiia forms the outgroup.
+Phylogenetic placement of the SAGs and MAGs within the acI lineage, relative to other sequenced actinobacterial genomes in the class Actinobacteria [@Gao2012]. The tree was built using RAxML [@Stamatakis2014] from a concatenated alignment of protein sequences from 37 single-copy marker genes [@Darling2014]. The order Actinomycetales forms the outgroup. In addition, Supplemental Figure S1 shows the position of the acI lineage relative to other orders within the class Actinobacteria.
 
 &nbsp;
 
@@ -58,7 +58,7 @@ acI actinobacteria contain a retinal-based photosystem, comprising the opsin pro
 
 &nbsp;
 
-Phylogenetic placement of the SAGs and MAGs within the acI lineage, relative to other sequenced actinobacterial genomes in the class Actinobacteria [@Gao2012]. The tree was built using RAxML [@Stamatakis2014] from a concatenated alignment of single-copy marker genes [@Darling2014]. The class Acidimicrobiia forms the outgroup.
+Phylogenetic placement of the acI lineage, relative to other sequenced actinobacterial genomes in the class Actinobacteria [@Gao2012]. The tree was built using RAxML [@Stamatakis2014] from a concatenated alignment of single-copy marker genes [@Darling2014]. The class Acidimicrobiia forms the outgroup.
 
 &nbsp;
 
