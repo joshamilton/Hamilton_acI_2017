@@ -21,6 +21,8 @@ date: ^1^ Department of Bacteriology, University of Wisconsin-Madison, Madison, 
 * conclusions on substrate utilization from FISH studies
 * no genomes from acI-C
 
+### What we know from MAG data
+
 ## Reverse Ecology
 * genome-gazing is a bottleneck, FISH studies are laborious - need an alternative
 * reverse-ecology is an emerging paradigm to infer ecology from genomic information w/ a focus on systems-level signatures
@@ -28,13 +30,7 @@ date: ^1^ Department of Bacteriology, University of Wisconsin-Madison, Madison, 
 * example of reverse ecology - seed compounds and environment
 
 ## Overview
-
-* assembled largest catalog of acI genomes, including acI-C
-* use existing reverse ecology to predict seed compounds for acI genomes
-  * high-throughput approach to leverage incomplete genome data
-* confirm conserved gene functions and revealed clade-specific differences
-* integrate with metatranscriptomic data
-* many diverse transporters, all highly expressed. possible key to success of passive & planktonic lifestyle
+In this work, we expand existing genome-based analyzes of the acI lineage by analyzing six additional single-cell genomes (SAGs) and 15 metagenome-assembled genomes (MAGs), including for the first time genomes from the acI-C clade. In lieu of manual reconstruction of these genomes, we use a high-throughput reverse ecological analysis to predict seed compounds for each clade, using metabolic network reconstructions generated from KBase (http://kbase.us). Predicted seed compounds confirm the ability of the acI to metabolize N-rich organic compounds and an array of carbohydrates, while also revealing clade-specific differences in auxotrophies and degradation capabilities. We also use metatranscriptomics to profile gene expression across the three acI clades. These data show that the acI express a diverse array of transporters at a high level, which may be key to the success of their passive and planktonic lifestyle. Finally, we observe actinorhodopsin to be among the most highly expressed genes in all three lineages, strongly suggesting a photoheterotrophic lifestyle for the acI.
 
 # Materials and Methods
 
