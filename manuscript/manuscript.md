@@ -96,7 +96,7 @@ Many seed compounds were associated with reactions catalyzed by peptidases or gl
 
 ### Protein Clustering, Metatranscriptomic Mapping, and Clade-Level Gene Expression
 
-OrthoMCL [@Li2003] was used to identify clusters of orthologous genes (COGs) in the set of acI genomes. OrthoMCL was run using default options. Then, metatranscriptomic reads were mapped to a single fasta file containing all acI genomes using BBMap (https://sourceforge.net/projects/bbmap/) with the `ambig=all` and `minid=0.85` options. With this command, reads are allowed to map equally well to multiple sites. An 85% percent identity cutoff was chosen as it minimizes the percent of reads which map to multiple sites.
+OrthoMCL [@Li2003] was used to identify clusters of orthologous genes (COGs) in the set of acI genomes. OrthoMCL was run using default options. Annotations were assigned to protein clusters by choosing the most common annotation among all genes assigned to that cluster. Then, metatranscriptomic reads were mapped to a single fasta file containing all acI genomes using BBMap (https://sourceforge.net/projects/bbmap/) with the `ambig=all` and `minid=0.85` options. With this command, reads are allowed to map equally well to multiple sites. An 85% percent identity cutoff was chosen as it minimizes the percent of reads which map to multiple sites.
 
 Next, a custom implementation of HTSeq-Count [@Anders2014] was used to count the total number of reads which map to each (genome, gene) pairing. Any read which mapped to multiple sites within the collection of acI genomes was discarded. Using the COGs identified by OrthoMCL, the total number of reads which map to each (clade, COG) pairing was then counted. This gives a measure of gene expression for the clade-level composite genome.
 
@@ -120,15 +120,16 @@ A phylogenetic tree of these genomes is shown in Figure 1. The acI lineage has p
 
 Genome completeness estimates for the new genomes range from 51 to 87% (Table 1), with estimated genome sizes between 1 and 2 MB. The GC content of these genomes was also low (40 to 50%), and both estimated genome size and GC content are consistent with other acI genomes. Estimated genome size and GC content of clade acI-C were not statistically different from clades acI-A and acI-B.
 
-## Completeness Estimates (Figure 2)
+## Estimated Completeness of Tribe- and Clade-Level Composite Genomes
 
 Metabolic network reconstructions created from these genomes will necessarily be missing reactions, as the underlying genomes are incomplete. Previous studies have shown that the percentage of correctly identified seed compounds (true positives) is approximately equal to the completeness of the reaction network [@Borenstein2008], and the number of false positives is approximately equal to the incompleteness of the network [@Borenstein2008].
 
 Using conserved single-copy marker genes [@Parks2015], We estimated the completeness of tribe- and clade-level composite genomes to determine the finest level of taxonomic resolution at which we could confidently compute seed sets (Figure 2). At the tribe level, with the exception of tribe acI-B1, tribe-level composite genomes are estimated to be incomplete (Figure 2A). At the clade level, clades acI-A and B are estimated to be complete, while acI-C remains incomplete (Figure 2B). As a result, seed sets were calculated for composite clade-level genomes, with the understanding that some true seed compounds for the acI-C clade will not be predicted.
 
 ## Protein Clustering and Metatranscriptomics
-* total number of protein clusters
-* core and accessory genome for lineage based on presence/absence w/in clades
+
+OrthoMCL identified a total of 5013 protein clusters across the three clades (Table S8). Of these, 1078 represent core genes, defined as present in at least one genome belonging to that clade.
+
 * read recruiting - % of MG/MT reads which map to acI reference genome collections (still need to map the MGs)
 * what does this say about...
   * are acI active or dormant?
