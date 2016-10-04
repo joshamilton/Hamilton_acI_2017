@@ -14,7 +14,9 @@
 ################################################################################
 
 from Bio import SeqIO
+from collections import Counter
 import pandas as pd
+import re
 
 #%%#############################################################################
 ### User-defined files and folder structure
@@ -107,7 +109,7 @@ for genome in outCogFrame.columns:
 cogAnnotFrame.to_csv(resultsFolder+'/annotTable.csv')
 
 #%%#############################################################################
-### Extract uniqe annotations
+### Extract uniqe and consensus annotations
 ### Create a empty DF indexed by groups
 ### For each group, extract unique annotations and drop 'nan'
 ### Add to dataframe
@@ -133,3 +135,26 @@ for group in cogAnnotFrame.index:
     annotSummary.loc[group] = annotList.strip(';')
 
 annotSummary.to_csv(resultsFolder+'/annotSummary.csv')
+
+
+# Create dataframe for consensus annotations
+annotConsensus = pd.DataFrame(index=inCogDict.keys(), columns=['Annotation'])
+
+for cog in annotConsensus.index:
+    annotList = []
+    for genome in cogAnnotFrame.columns:
+        if not pd.isnull(cogAnnotFrame.loc[cog][genome]):
+            innerString = cogAnnotFrame.loc[cog][genome]
+            # Dataframe element is a string enclosed in brackets with a comma separating elements
+            innerString = re.sub('[\[\]]' , '', innerString)
+            innerList = re.split('\', \'|\", \"', innerString)
+            innerList = [re.sub('\"|\'', '', string) for string in innerList]
+            annotList = annotList + innerList
+    # Find the most common 
+    annotCounter = Counter(annotList)
+    majorityAnnot = annotCounter.most_common(1)[0][0]
+        
+    # Assign the Annotation
+    annotConsensus.set_value(cog, 'Annotation', majorityAnnot)
+    
+annotConsensus.to_csv(resultsFolder+'/annotConsensns.csv')
