@@ -80,7 +80,7 @@ CheckM [@Parks2015] was used to estimate genome completeness based on 204 single
 
 Genome annotations and metabolic network reconstructions were performed using KBase (http://kbase.us/). Unannotated contigs for each genome were pushed to KBase and annotated using the "Annotate Microbial Contigs" method using default options, which uses components of the RAST toolkit [@Brettin2015, @Overbeek2014] for genome annotation. Genome-scale metabolic network reconstructions were performed using the "Build Metabolic Model" app using default parameters, which relies on the Model SEED framework [@Henry2010a] to build a draft metabolic model.
 
-Metabolic models were then downloaded via KBase, pruned, and converted to metabolic network graphs. In particular, biomass, exchange, transport, spontaneous, and DNA/RNA biosynthesis reactions were removed from the model, and reactions were mass- and charge-balanced. Next, currency metabolites (compounds used to carry electrons and functional groups) were removed following an established procedure  [@Ma2003]. Finally, the network model was converted to a metabolic network graph, in which nodes denote compounds and edges denote reactions. A directed edge from compound _a_ to compound _b_ means that _a_ is a substrate in a reaction which produces _b_. Supplemental Figure 2 illustrates process by which a genome gets converted to a pruned metabolic network graph, for a genome containing only glycolysis.
+Metabolic models were then downloaded via KBase, pruned, and converted to metabolic network graphs. In particular, biomass, exchange, transport, spontaneous, and DNA/RNA biosynthesis reactions were removed from the model, and reactions were mass- and charge-balanced. Next, currency metabolites (compounds used to carry electrons and functional groups) and highly-connected compounds (those which participate in many reactions, such as CO2 and O2) were removed following an established procedure  [@Ma2003]. Finally, the network model was converted to a metabolic network graph, in which nodes denote compounds and edges denote reactions. A directed edge from compound _a_ to compound _b_ means that _a_ is a substrate in a reaction which produces _b_. Supplemental Figure 2 illustrates process by which a genome gets converted to a pruned metabolic network graph, for a genome containing only glycolysis.
 
 Finally, all genome-level metabolic network graphs for a single acI clade were combined to generate a composite clade-level metabolic network graph for that clade. Beginning with two genomes, nodes and edges unique to the second genome are identified and appended to the network graph for the first genome, giving a composite metabolic network graph. The process is repeated for each genome belonging to the clade, until all of the network graphs have been incorporated into the composite. Figure 3A shows metabolic network graphs for three acI-C genomes, and Figure 3B shows the composite metabolic network graph for clade acI-C.
 
@@ -147,19 +147,63 @@ Decomposition of composite metabolic network graphs into their SCCs resulted in 
 
 The total number of predicted seed sets (source components in the SCC decomposition) ranged from 63 to 95, and the number of seed compounds ranged from 70 to 102. This discrepency arises because some seed sets contain multiple compounds (an example is discussed below). However, such seed sets were rare (4% of all seed sets), and contained at most six compounds. The majority of seed compounds (96%) belonged to seed sets containing only a single compound. A total of 125 unique seed compounds were identified across the three clades, and a complete list can be found in Supplementary Table S9.
 
-## Evaluation of Potential Seed Compounds (Figure 4a)
-* anticipate "noise" in results and evaluate individual compounds
-* screen seed compounds to identify a subset for further investigation
-  * examples of reasons to reject
-    * network pruning (carbamoyl phosphate)
-    * missing annotations (fatty acids)
-  * examples of reasons to retain
-    * homoserine auxotrophy
-    * peptide degradation
-* manually curate selected compounds
-  * false negative - genes missing from the model - lysine auxotrophy
-  * false negative - alternative pathways - threonine auxotrophy
-  * true result - gene missing from model and genome - homoserine auxotrophy
+## Evaluation of Potential Seed Compounds
+Seed compounds were predicted using the results of an automated annotation pipeline, and as such are likely to contain inaccuracies [REF]. As a result, we screened the set of predicted seed compounds to identify those which represented biologically plausible auxotrophies and degradation capabilities. This subset of seed compounds were then manually curated. Supplemental Tables S2 and S3 contain the final set of proposed auxotrophies and degradation capabilities, respectively, for clades acI-A, B, and C. Here, we present a series of brief vignettes explaining why compounds were retained or discarded discarded as biologically plausible. For biologically plausible compounds, we also provide examples of manual curation efforts.
+
+__Carbamoyl phosphate__. Carbamoyl phosphate was predicted as a seed compound for all three clades. Carbamoyl phosphate synthase is the first step in arginine and pyrimidine biosynthesis, and catalyzes the reaction:
+
+    2 ATP + L-glutamine + hydrogen carbonate + H2O → L-glutamate + carbamoyl phosphate + 2 ADP + phosphate + 2 H+
+
+This reaction contains a number of currency metabolites (ATP, ADP glutamine, glutamate), as well as the highly-connected metabolites carbonate, water, phosphate and protons. All of these metabolites were removed from the network during pruning. Thus, the reaction responsible for carbamoyl phosphate synthesis was effectively removed from the network, rendering this compound a seed compound. Manual inspection of individual genomes revealed the gene for carbamoylphosphate synthase, confirming carbamoyl phosphate is not an auxotrophy.
+
+__R-enoyl-ACP__. A number of R-enoyl-ACP compounds were predicted to be seed compounds in clades acI-A and B. These compounds were associated with a single COG annotated as an "Enoyl-[acyl-carrier-protein] reductase," the enzyme which catalyzes the final step in fatty acid elongation. Many other predicted seed compounds were predicted to partcipate in fatty acid and phospholipid biosynthesis, including a number of saturated fatty acids (associated with a COG annotated as a "long-chain-fatty-acid--CoA ligase") and 1-acyl-sn-glycerol 3-phosphate compounds (associated with a COG annotated as an "1-acyl-sn-glycerol-3-phosphate acyltransferase"). Given the broad substrate specificity of these enzymes, KBase automatically assigns these enzymes to the catalysis of a number of reactions. It is highly likely that manual curation will reveal complete fatty acid and phospholipid biosynthesis pathways, so and other such compounds were excluded from further consideration.
+
+__L-Aspartate-4-semialdehyde, L-homoserine, and O-Phospho-L-homoserine.__ Clade acI-C was predicted to have a seed set containing these three compounds. These three compounds can be interconverted via the following reactions:
+
+    Homoserine dehydrogenase: L-Aspartate-4-semialdehyde <--> L-homoserine
+
+    Homoserine kinase: L-homoserine <--> O-Phospho-L-homoserine
+
+making the three compounds the vertices of a strongly connected component. The first reaction, homoserine dehydrogenase, is the final step in homoserine biosynthesis, so these compounds suggest an auxotrophy for homoserine. Homoserine biosynthesis proceeds via the following reactions:
+
+    aspartate kinase: aspartate --> L-aspartyl-4-phosphate
+    aspartate semialdehyde dehydrogenase: L-aspartyl-4-phosphate --> L-Aspartate-4-semialdehyde
+    homoserine dehydrogenase: L-Aspartate-4-semialdehyde --> homoserine
+
+The presence of L-Aspartate-4-semialdehyde as a seed compound suggests the reaction "aspartate semialdehyde dehydrogenase" is missing, and were unable to manually identify a candidate gene for this reaction.  Furthermore, the acI-C composite genome contains the other two reactions in the pathway. Thus, on the evidence available, we conclude acI-C is auxotrophic for homoserine.
+
+__L-arogenate.__ This compound was predicted as a seed compound for clade acI-C, suggesting an auxotrophy for tyrosine. Tyrosine can be synthesized via the following route:
+
+    chorismate mutase: chorismate --> prephenate
+    prephenate aminotransferase: prephanate --> L-arogenate
+    arogenate dehydrogenase: L-arogenate --> L-tyrosine
+
+L-arogenate was predicted to be a seed compound based on the presence of "arogenate dehydrogenase", the final step in the pathway. The reaction "chorismate mutase" is also present, but we were unable to find a candidate gene for the reaction "prephenate aminotransferase," suggesting an auxotrophy for tyrosine. However, L-tyrosine can be synthesized from chorismate via an alternative pathway:
+
+    chorismate mutase: chorismate --> prephenate
+    prephenate dehydrogenase: prephenate --> 4-hydroxyphenylpyruvate
+    tyrosine aminotransferase: 4-hydroxyphenylpyruvate --> L-tyrosine
+
+All three genes in this pathway are present in the genome, indicating acI-C is not auxotrophic for tyrosine.
+
+__Ala-Leu and gly-pro-L__. These di-peptides were predicted to be seed compounds for all three clades. The compounds are associated with the following reactions:
+
+    H2O + Ala-Leu --> L-Leucine + L-Alanine
+    H2O + Gly-Pro --> Glycine + L-Proline
+
+These reactions were associated with four COGs, annotated as aminopeptidases. These seed compounds suggest the ability for the acI to degrade peptides, but the broad specificity of aminopeptidases means these particular di-peptides are unlikely to be the only substrates. Similarly, a number of seed compounds were associated with COGs annotated as gluco- and galactosidases, which also have broad substrate specificity. As a result, these genes were further investigated as described below.
+
+## Summary of Seed Compounds
+* Auxotrophies (Figure 4a)
+  * Amino acids
+  * Vitamins
+  * Other compounds
+  * similarities / differences btw clades
+
+* Degradation capabilities
+  * Peptides
+  * Amino acids
+  * Segue into next section
 
 ## Re-annotation of Peptidases and Glycoside Hydrolases (Figure 4b)
 * peptidases
