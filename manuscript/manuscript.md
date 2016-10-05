@@ -78,7 +78,7 @@ CheckM [@Parks2015] was used to estimate genome completeness based on 204 single
 
 ### Genome Annotation and Model Processing
 
-Genome annotations and metabolic network reconstructions were performed using KBase (http://kbase.us/). Unannotated contigs for each genome were pushed to KBase and annotated using the "Annotate Microbial Contigs" method using default options, which uses components of the RAST toolkit [@Brettin2015, @Overbeek2014] for genome annotation. Genome-scale metabolic network reconstructions were performed using the "Build Metabolic Model" app using default parameters, which relies on the Model SEED framework [@Henry2010a] to build a draft metabolic model without gapfilling. As acI genomes are known to be small with numerous auxotrophies [@Garcia2015], we opted to forgo the gapfilling step and instead leverage multiple genomes to fill gaps, as described below.
+Genome annotations and metabolic network reconstructions were performed using KBase (http://kbase.us/). Unannotated contigs for each genome were pushed to KBase and annotated using the "Annotate Microbial Contigs" method using default options, which uses components of the RAST toolkit [@Brettin2015, @Overbeek2014] for genome annotation. Genome-scale metabolic network reconstructions were performed using the "Build Metabolic Model" app using default parameters, which relies on the Model SEED framework [@Henry2010a] to build a draft metabolic model.
 
 Metabolic models were then downloaded via KBase, pruned, and converted to metabolic network graphs. In particular, biomass, exchange, transport, spontaneous, and DNA/RNA biosynthesis reactions were removed from the model, and reactions were mass- and charge-balanced. Next, currency metabolites (compounds used to carry electrons and functional groups) were removed following an established procedure  [@Ma2003]. Finally, the network model was converted to a metabolic network graph, in which nodes denote compounds and edges denote reactions. A directed edge from compound _a_ to compound _b_ means that _a_ is a substrate in a reaction which produces _b_. Supplemental Figure 2 illustrates process by which a genome gets converted to a pruned metabolic network graph, for a genome containing only glycolysis.
 
@@ -86,8 +86,7 @@ Finally, all genome-level metabolic network graphs for a single acI clade were c
 
 ### Calculation and Evaluation of Seed Compounds
 
-Seed compounds for each composite clade-level metabolic network graph were calculated using established methods [@Borenstein2008]. Briefly, the metabolic network is decomposed into its strongly connected components (SCCs), sets of nodes where each node in the set is reachable from every other node. Seed compounds can then be found by identifying source components (components with no incoming edges) on the condensation of the original graph: each source component represents a collection of seed compounds.
-Supplemental Figure 3 illustrates this process for a simple network containing only glycolysis, and Figure 3B shows seed compounds for clade acI-C. Finally, all predicted seed compounds were manually evaluated to identify those which may be biologically meaningful. Examples are given in the Results section.
+Seed compounds for each composite clade-level metabolic network graph were calculated using established methods [@Borenstein2008]. Briefly, the metabolic network is decomposed into its strongly connected components (SCCs), sets of nodes where each node in the set is reachable from every other node. Seed compounds can then be found by identifying source components (components with no incoming edges) on the condensation of the original graph: each source component represents a seed set, and the nodes within that component represent seed compounds. Supplemental Figure 3 illustrates this process for a simple network containing only glycolysis, and Figure 3B shows seed compounds for clade acI-C. Finally, all predicted seed compounds were manually evaluated to identify those which may be biologically meaningful. Examples are given in the Results section.
 
 ### Re-annotation of Peptidases and Glycoside Hydrolases
 
@@ -125,7 +124,7 @@ Genome completeness estimates for the new genomes range from 51 to 87% (Table 1)
 
 Metabolic network reconstructions created from these genomes will necessarily be missing reactions, as the underlying genomes are incomplete. Previous studies have shown that the percentage of correctly identified seed compounds (true positives) is approximately equal to the completeness of the reaction network [@Borenstein2008], and the number of false positives is approximately equal to the incompleteness of the network [@Borenstein2008].
 
-Using conserved single-copy marker genes [@Parks2015], We estimated the completeness of tribe- and clade-level composite genomes to determine the finest level of taxonomic resolution at which we could confidently compute seed sets (Figure 2). At the tribe level, with the exception of tribe acI-B1, tribe-level composite genomes are estimated to be incomplete (Figure 2A). At the clade level, clades acI-A and B are estimated to be complete, while acI-C remains incomplete (Figure 2B). As a result, seed sets were calculated for composite clade-level genomes, with the understanding that some true seed compounds for the acI-C clade will not be predicted.
+Using conserved single-copy marker genes [@Parks2015], We estimated the completeness of tribe- and clade-level composite genomes to determine the finest level of taxonomic resolution at which we could confidently compute seed compounds (Figure 2). At the tribe level, with the exception of tribe acI-B1, tribe-level composite genomes are estimated to be incomplete (Figure 2A). At the clade level, clades acI-A and B are estimated to be complete, while acI-C remains incomplete (Figure 2B). As a result, seed compounds were calculated for composite clade-level genomes, with the understanding that some true seed compounds for the acI-C clade will not be predicted.
 
 ## Protein Clustering and Metatranscriptomics
 
@@ -136,13 +135,17 @@ OrthoMCL identified a total of 5013 protein clusters across the three clades (Ta
   * are acI active or dormant?
   * quality of our reference genomes wrt conditions that day?
 
-## Workflow (Figure 3)
-* developed a computational pipeline for reverse ecology analysis on incomplete genomes
-* annotate using KBase, no gapfilling (explain justification)
-* size of models, fraction of total genes, comparison to other organisms
-* metabolic models converted to network graphs and merged
-* check size of SCC and reduce to largest component (compare to other studies re: size, % of nodes)
-* seed compound calculations - # of seed sets, % which contain one compound, max size
+## A Workflow for High-Throughput Reverse Ecological Analysis of Metabolic Networks
+
+A central contribution of this work is a computational pipeline to compute an organism's seed compounds from a graph-based representation of its metabolic network. To recap, unannotated contigs are converted to metabolic network reconstructions using KBase. The reconstructions are then converted to metabolic network graphs (Supplemental Figure S2) and combined to give composite metabolic network graphs for each clade (Figure 3). Seed compounds are then computed for each clade, using its composite metabolic network graph (Figure 3, Supplemental Figure S3).
+
+Metabolic network reconstructions for the acI genomes contained between 110 and 339 genes, encoding between 241 and 587 reactions which interconvert between 374 and 699 metabolites. On average, these genes account for 25% of the genes in the genome, a value consistent with metabolic network reconstructions for other organisms. Clade-level composite metabolic network graphs were considerably larger, with between 602 and 811 metabolites.
+
+These composite metabolic network graphs contained a large number of disconnected components (groups of nodes that are not connected to the bulk of the network, Supplemental Figure S4). For simplicity, these components were dropped from the graph, and seed compounds were computed for the single largest component. In all cases, the single largest component contained at least 80% of the nodes in the original graph.
+
+Decomposition of composite metabolic network graphs into their SCCs resulted in a bow-tie structure, in which a single giant component contains a substantial fraction of the compounds (Supplemental Figure S4). Across the three clades, the giant component contained 61% of the metabolites, a substantially larger fraction than reported for other organisms [@Ma2003a].
+
+The total number of predicted seed sets (source components in the SCC decomposition) ranged from 63 to 95, and the number of seed compounds ranged from 70 to 102. This discrepency arises because some seed sets contain multiple compounds (an example is discussed below). However, such seed sets were rare (4% of all seed sets), and contained at most six compounds. The majority of seed compounds (96%) belonged to seed sets containing only a single compound. A total of 125 unique seed compounds were identified across the three clades, and a complete list can be found in Supplementary Table S9.
 
 ## Evaluation of Potential Seed Compounds (Figure 4a)
 * anticipate "noise" in results and evaluate individual compounds

@@ -78,6 +78,14 @@ Identifying seed compounds in metabolic networks, using the same metabolic netwo
 
 &nbsp;
 
+## Supplementary Figure 4 (figures/fig3-workflow/FigureS4.pdf)
+
+&nbsp;
+
+Complete composite metabolic network graph for clade acI-C, showing disconnected components and the giant strongly connected components. Gray nodes and edges represent disconnected components which are dropped prior to computing the network's seed sets. Red nodes represent those present in the giant strongly connected component which contains the majority of the metabolites in the network.
+
+&nbsp;
+
 ## References
 
 &nbsp;
