@@ -193,27 +193,25 @@ __Ala-Leu and gly-pro-L__. These di-peptides were predicted to be seed compounds
 
 These reactions were associated with four COGs, annotated as aminopeptidases. These seed compounds suggest the ability for the acI to degrade peptides, but the broad specificity of aminopeptidases means these particular di-peptides are unlikely to be the only substrates. Similarly, a number of seed compounds were associated with COGs annotated as gluco- and galactosidases, which also have broad substrate specificity. As a result, these genes were further investigated as described below.
 
-## Summary of Seed Compounds
-* Auxotrophies (Figure 4a)
-  * Amino acids
-  * Vitamins
-  * Other compounds
-  * similarities / differences btw clades
+## Auxotrophies and Degradation Capabilities of the acI Lineage
 
-* Degradation capabilities
-  * Peptides
-  * Amino acids
-  * Segue into next section
+Figure 4a summarizes predicted auxotrophies for the acI lineage. In all three clades, beta-alanine was identified as a seed compound, suggesting an auxotrophy for Vitamin B5. (Vitamin B5, also known as pantothenic acid, is a precursor to coenzyme A formed from beta-alanine and pantoate). In bacteria, beta-alanine is typically synthesized via the decarboxylation of aspartate [REF], and we were unable to identify a candidate gene for this enzyme in any acI genome (Supplemental Table S3). Pyridoxine phosphate and pyridoxamine phosphate (forms of Vitamin B6) were also predicted to be seed compounds, and numerous enzymes in the biosynthesis of these compounds were undetected in the genomes (Supplemental Table S3). Vitamin B6 serve as cofactors for numerous metabolic enzymes [REF], which were detected in all three acI clades.
 
-## Re-annotation of Peptidases and Glycoside Hydrolases (Figure 4b)
-* peptidases
-  * families and sub-families
-  * consistency with MAR-FISH and genomic studies
-  * similarities / differences btw clades - presence/absence and expression
-* glycoside hydrolases
-  * families and sub-families
-  * consistency with MAR-FISH and genomic studies
-  * similarities / differences btw clades - presence/absence and expression
+__Discuss Sarahi's vitamin auxotrophy idea?__
+__(Dis)agreement__ w/ literature wrt auxotrophies
+
+Clades within the acI lineage also exhibited distinct auxotrophies. Clade acI-A was predicted to be auxotrophic for the cofactor tetrahydrofolate (THF), and numerous enzymes for its biosynthesis were missing (Supplemental Table S3). In turn, acI-C was predicted to be auxotrophic for UMP and the amino acids lysine and homoserine, and in all cases multiple enzymes for the biosynthesis of these compounds went not found in the acI-C genomes. However, because the acI-C composite genome was estimated to be around 80% complete, we cannot rule out the possibility that the missing genes might be found in additional genomes.
+
+Furthermore, both clades acI-A and B were predicted to degrade D-altronate and trans-hydroxy proline, and acI-B was additionally predicted to degrade glycine betaine. __These compounds relate to the ecology of acI...__
+
+Finally, all three clades were predicted to degrade the di-peptides
+ala-leu and gly-pro-L and the sugar maltose. Clades acI-A and acI-C were also predicted to degrade the polysaccharides stachyose, manninotriose, and cellobiose. In all cases, these compounds were associated with reactions catalyzed by peptidases or glycoside hydrolases, and genes associated with these reactions were re-annotated as described above. In most cases, these annotations were in agreement with annotations given by KBase (Supplemental Tables S4 and S5), despite the narrow substrate range reflected by the reactions assigned by KBase. The results of this re-annotation are shown in Figure 5.
+
+All three clades were predicted to contain both cytosolic- and membrane-bound aminopeptidases capable of releasing a variety of residues from both di- and polypeptides. __Compare to MAR-FISH and genomic studies.__ The genes for these two enzymes were also highly expressed, being above the 78th percentile for gene expression in all three clades. Additionally, all three clades were predicted to encode an alpha-glucosidase, which was expressed above the 65th percentile in all three clades. Clades acI-A and C also encode an additional alpha-glucosidase and an alpha-amylase.
+
+Furthermore, these two clades encode an alpha-galactosidase and an enzyme which could be a beta-glucosidase, beta-galactosidase, or a beta-D-fucosidase. __Compare to MAR-FISH and genomic studies.__ With the exception of the alpha-galactosidase, these enzymes were more highly expressed in clade acI-A than in acI-C, being expressed above the 73rd percentile instead of the 15th. The alpha-galactosidase was expressed approximately equally in the two clades, around the 67th percentile for gene expression.
+
+In the aggregate, these results suggest the acI lineage is capable of degrading a diverse array of peptides and polysaccharides, such as polyamine, spermidine, and __some polysaccharides that are abundant in lakes__, which are all known to be abundant in freshwater ecosystems [REFs].
 
 ## Transporters
 * summary of transporters
@@ -223,7 +221,7 @@ These reactions were associated with four COGs, annotated as aminopeptidases. Th
 * other transporters not shown in figure
 * actinorhodopsin also highly expressed
 
-## Actinorhodopsin (possible Figure 5 or new analysis)
+## Actinorhodopsin (possible Figure 6 or new analysis)
 * among most highly-expressed genes
 * coupled with high expression of sugar transporters confirms acI are photoheterotrophs
 * retinal biosynthesis pathway expressed (and functional in acI-A and acI-B)
@@ -236,20 +234,20 @@ These reactions were associated with four COGs, annotated as aminopeptidases. Th
 ## (Dis)Agreement w/ previous findings
 * diverse array of N-rich compounds & transport of sugars consistent w/ literature
 * cyanophycinase?
+* added value comes from metranscriptomics (segue to next section)
 
 ## Ecology of acI
 * ecological niche
   * scavenger of cell lysate, exudates/partially degraded plant materials
   * ecological successful b/c ready to eat whatever comes its way
 * actR hypothesis: establishes a protein gradient to drive ATP transport
-* discuss Sarahi's vitamin auxotrophy idea?
 
 ## Potential and Limitations of Reverse Ecology
 * potential applications
 * limitations
   * because analysis performed at clade level, cannot capture interactions btw tribes
   * only as good as database, known functions of interest are missing
-  * lacks pathway information, enabling alternative metabolic routes - may miss true auxotrophies
+  * lacks pathway information, enabling alternative metabolic routes - may miss true auxotrophies (give examples)
 
 # Acknowledgements
 

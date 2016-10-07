@@ -34,7 +34,7 @@ Overview of reverse ecology pipeline, using three genomes from the acI-C clade a
 
 &nbsp;
 
-Seed compounds of members of the acI lineage. Compounds in the lower panel are degraded by peptidases and glycoside hydrolases. For these compounds, the intensity of the color indicates the percentile average log2 RPKM of the encoding gene cluster. For compounds acted upon by multiple gene clusters, the percentile of the most highly-expressed cluster was chosen.
+Seed compounds of members of the acI lineage. (A) Auxotrophies and compounds which can be degraded, exclusive of Compounds degraded by peptidases and glycoside hydrolases. (B) Compounds which degraded by peptidases and glycoside hydrolases. For these compounds, the intensity of the color indicates the percentile average log2 RPKM of the encoding gene cluster. For compounds acted upon by multiple gene clusters, the percentile of the most highly-expressed cluster was chosen.
 
 &nbsp;
 
