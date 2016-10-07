@@ -205,7 +205,7 @@ Clades within the acI lineage also exhibited distinct auxotrophies. Clade acI-A 
 Furthermore, both clades acI-A and B were predicted to degrade D-altronate and trans-hydroxy proline, and acI-B was additionally predicted to degrade glycine betaine. __These compounds relate to the ecology of acI...__
 
 Finally, all three clades were predicted to degrade the di-peptides
-ala-leu and gly-pro-L and the sugar maltose. Clades acI-A and acI-C were also predicted to degrade the polysaccharides stachyose, manninotriose, and cellobiose. In all cases, these compounds were associated with reactions catalyzed by peptidases or glycoside hydrolases, and genes associated with these reactions were re-annotated as described above. In most cases, these annotations were in agreement with annotations given by KBase (Supplemental Tables S4 and S5), despite the narrow substrate range reflected by the reactions assigned by KBase. The results of this re-annotation are shown in Figure 5.
+ala-leu and gly-pro-L and the sugar maltose. Clades acI-A and acI-C were also predicted to degrade the polysaccharides stachyose, manninotriose, and cellobiose. In all cases, these compounds were associated with reactions catalyzed by peptidases or glycoside hydrolases, and genes associated with these reactions were re-annotated as described above. In most cases, these annotations were in agreement with annotations given by KBase (Supplemental Tables S4 and S5), despite the narrow substrate range reflected by the reactions assigned by KBase. The results of this re-annotation are shown in Figure 4b.
 
 All three clades were predicted to contain both cytosolic- and membrane-bound aminopeptidases capable of releasing a variety of residues from both di- and polypeptides. __Compare to MAR-FISH and genomic studies.__ The genes for these two enzymes were also highly expressed, being above the 78th percentile for gene expression in all three clades. Additionally, all three clades were predicted to encode an alpha-glucosidase, which was expressed above the 65th percentile in all three clades. Clades acI-A and C also encode an additional alpha-glucosidase and an alpha-amylase.
 
@@ -213,17 +213,17 @@ Furthermore, these two clades encode an alpha-galactosidase and an enzyme which 
 
 In the aggregate, these results suggest the acI lineage is capable of degrading a diverse array of peptides and polysaccharides, such as polyamine, spermidine, and __some polysaccharides that are abundant in lakes__, which are all known to be abundant in freshwater ecosystems [REFs].
 
-## Transporters
-* summary of transporters
-* diverse array of N-rich compounds
-* transport of simple and complex sugars
-* nucleotides and vitamins
-* other transporters not shown in figure
-* actinorhodopsin also highly expressed
+## Compounds Transported by the acI Lineage
 
-## Actinorhodopsin (possible Figure 6 or new analysis)
-* among most highly-expressed genes
-* coupled with high expression of sugar transporters confirms acI are photoheterotrophs
+All acI clades encode for and express a diverse array of transporters (Figure 5 and Supplementary Table S6). Consistent with the presence of intra- and extra-cellular peptidases, all clades express numerous genes for the transport of peptides and amino acids, including at least one oligopeptide transporter, two branched-chain amino acid transporters, and a transporter for the polyamines spermidine and putrescine. Additionally, clades acI-A and B contain an additional di-peptide transporter, clades acI-A and C contain a transporter for basic amino acids (including lysine, for which acI-C is auxotrophic), and clade acI-A contains a transporter for glycine betaine. All clades also contain a transporter for ammonium. Of these, the ammonium, branched-chain amino acid, polyamine, and oligopeptide transporters are among the most highly expressed in these genomes, often above the 90th percentile of all expressed genes.
+
+All clades also strongly express transporters consistent with the presence of glycoside hydrolases, including a glucoside transporter and transporters for the sugars maltose (a dimer of glucose), xylose, and ribose (both aldopentoses). All three clades also express a transporter for N-acetyl-glucosamine (a derivative of glucose), though this transporter is not expressed as highly as the other saccharide transporters.
+
+The acI lineage also encodes for and expresses a number of transporters which do not have corresponding seed compounds, including transporters for nucleosides, pyrimidines, and the purine derivatives guanine and hypoxanthine. Clades acI-A and B contain a generic purine transporter, as well as a tricarboxylate transporter. With the exception of the purine transporter, these are also all highly expressed. Clade acI-A expresses a transporter for Vitamins B7 (the cofactor biotin), and clades acI-A and C express a transporter for Vitamin B12 (the cofactor cobalamin). Oddly, despite predicted auxotrophies for Vitamins B5 and B6, we were unable to find transporters for these two compounds.
+
+Finally, all three clades express actinorhodopsin, a light-sensitive opsin protein which functions as an outward proton pump [REF]. In all clades, actinorhodopsin is among the top three most highly-expressed genes in that clade (Supplementary Table S10). Given that many of the transport proteins are of the ABC type, we speculate that actinorhodopsin may facilitate maintenance of the proton gradient necessary for ATP synthesis. Coupled with high expression levels of the diverse diverse transporters expressed by acI, this result strongly suggests that acI are photoheterotrophs.
+
+## Photoheterotrophy in the acI Lineage (possible Figure 6 or new analysis)
 * retinal biosynthesis pathway expressed (and functional in acI-A and acI-B)
 * other reasons for such high expression (MMBR review, need to investigate in our genomes)
   * promoter strength?
