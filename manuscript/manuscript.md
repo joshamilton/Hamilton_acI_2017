@@ -13,15 +13,52 @@ date: ^1^ Department of Bacteriology, University of Wisconsin-Madison, Madison, 
 
 ### What we know from tag data
 * persistent and abundant through time and across lakes
-* three clades and thirteen tribes
+  * FWFG and references therein, possibly newer surveys
+  * Newer surveys - Ghai2011, Ghai2012a (analysis of other folk's MGs)
+  * Also found in brackish waters (Salka2014, Hugerth2015)
+* three clades and thirteen tribes - FWFG
 
-### What we know from SAG data
-* small and streamlined genome
-* conclusions on substrate utilization from SAG studies, incl. rhodopsin
+### What we know from experiments
 * conclusions on substrate utilization from FISH studies
-* no genomes from acI-C
+  * glucose [@Buck2009]
+  * leucine [@Buck2009, @Perez2010, @Salcher2010, @Eckert2012]
+  * acetate [@Buck2009]
+  * thymidine [@Perez2010]
+  * N-acetylglucosamine (NAG) [@Beier2011, @Eckert2012]
+  * di-NAG [@Beier2011, @Eckert2012, @Tada2014]
+  * amino acids [@Salcher2013] - what specific ones?
+  * can't find any newer studies
+* FISH is not tribe-/clade-specific
 
-### What we know from MAG data
+### What we know from SAG/MAG data
+* small and streamlined genome
+* conclusions on substrate utilization from SAG/MAG studies
+  * acI-B: chitinase (CAZyme, polymer of NAG) [@Garcia2013, @Garcia2015]
+  * cyanophycinase [@Ghai2014, @Ghylin2014, @Garcia2015]
+  * alpha- and beta-galactosidases [@Ghylin2014, @Garcia2015] - poly- and oligo-saccharides
+  * sucrose, maltose, acetate, lactate, pyruvate [@Garcia2015]
+* conclusions on transporters from SAG/MAG studies
+  * acI-A - glycerol uptake, unique AA uptake, oligopeptide transporter [@Ghylin2014]
+  * acI-B - auxilary component for ribose transporter [@Ghylin2014]
+  * acI-B - biotin [@Garcia2015]
+  * branched-chain AAs [@Ghylin2014, @Garcia2015]
+  * 5-C sugars (xylose, ribose, arabinose) [@Garcia2013, @Ghylin2014, @Garcia2015]
+  * galactosides [@Ghylin2014]
+  * polyamine (putrescine) [@Ghylin2014, @Garcia2015]
+  * di-peptides [@Ghylin2014]
+  * absence of glucose transporter [@Garcia2013, @Ghylin2014], but sugar transporters and glucose-binding protein [@Ghylin2014]
+  * absence of carboxylic acids, NAG [@Ghylin2014]
+  * N permease [@Ghylin2014]
+  * PstSCAB system [@Ghylin2014, @Garcia2015]
+* conclusions on auxotrophies (acI-B) [@Garcia2015]
+  * vitamins and cofactors - vitamin B12, riboflavin, niacin, pantothenate, folate, biotin
+  * isoleucine, leucine, valine, tyrosine, tryptophan, phenylalanine, asparagine
+* actinorhodopsin
+  * first detected [@Sharma2009]
+  * abundant [@Martinez-Garcia2012]
+  * found in SAGs and MAGs [@Garcia2013, @Garcia2014, @Ghylin2014 @Garcia2015]
+  * retinal biosynthesis pathway [@Ghylin2014]
+* no genomes from acI-C
 
 ## Reverse Ecology
 * genome-gazing is a bottleneck, FISH studies are laborious - need an alternative
@@ -118,7 +155,7 @@ We have assembled a reference genome collection containing 17 SAGs and 19 MAGs f
 
 A phylogenetic tree of these genomes is shown in Figure 1. The acI lineage has previously been shown to contain three distinct clades [@Newton2011a], and our concatenated gene tree recapitulates this topology. Of note, three MAGs were classified as belonging to the acI-C clade, and represent the first genomes from this group. Additionally, five MAGs fell into one of the seven tribes defined by our SAGs.
 
-Genome completeness estimates for the new genomes range from 51 to 87% (Table 1), with estimated genome sizes between 1 and 2 MB. The GC content of these genomes was also low (40 to 50%), and both estimated genome size and GC content are consistent with other acI genomes. Estimated genome size and GC content of clade acI-C were not statistically different from clades acI-A and acI-B.
+Genome completeness estimates for the new genomes range from 51 to 87% (Table 1), with estimated genome sizes between 1 and 2 MB. The GC content of these genomes was also low (40 to 50%), and both estimated genome size and GC content are consistent with other acI genomes [REFs, @Ghai2012]. Estimated genome size and GC content of clade acI-C were not statistically different from clades acI-A and acI-B.
 
 ## Estimated Completeness of Tribe- and Clade-Level Composite Genomes
 
@@ -227,6 +264,7 @@ Finally, all three clades express actinorhodopsin, a light-sensitive opsin prote
 
 ## (Dis)Agreement w/ previous findings
 * diverse array of N-rich compounds & transport of sugars consistent w/ literature
+  * glucose transporter not previously detected [@Garcia2013]
 * cyanophycinase?
 * added value comes from metranscriptomics (segue to next section)
 
@@ -242,6 +280,7 @@ Finally, all three clades express actinorhodopsin, a light-sensitive opsin prote
   * because analysis performed at clade level, cannot capture interactions btw tribes
   * only as good as database, known functions of interest are missing
   * lacks pathway information, enabling alternative metabolic routes - may miss true auxotrophies (give examples)
+  * pruning results in inability to comment on N, S metabolism [see @Garcia2013] for what we know
 
 # Acknowledgements
 
