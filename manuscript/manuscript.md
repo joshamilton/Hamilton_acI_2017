@@ -223,12 +223,6 @@ The acI lineage also encodes for and expresses a number of transporters which do
 
 Finally, all three clades express actinorhodopsin, a light-sensitive opsin protein which functions as an outward proton pump [REF]. In all clades, actinorhodopsin is among the top three most highly-expressed genes in that clade (Supplementary Table S10). Given that many of the transport proteins are of the ABC type, we speculate that actinorhodopsin may facilitate maintenance of the proton gradient necessary for ATP synthesis. Coupled with high expression levels of the diverse diverse transporters expressed by acI, this result strongly suggests that acI are photoheterotrophs.
 
-## Photoheterotrophy in the acI Lineage (possible Figure 6 or new analysis)
-* retinal biosynthesis pathway expressed (and functional in acI-A and acI-B)
-* other reasons for such high expression (MMBR review, need to investigate in our genomes)
-  * promoter strength?
-  * co-localized w/ other highly-expressed genes?
-
 # Discussion
 
 ## (Dis)Agreement w/ previous findings
