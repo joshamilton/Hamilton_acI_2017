@@ -9,65 +9,17 @@ date: ^1^ Department of Bacteriology, University of Wisconsin-Madison, Madison, 
 
 # Introduction
 
-## acI
+Microbes are critical players in freshwater systems, where they support essential ecosystem functions such as nutrient cycling. Of the freshwater bacteria, Actinobacteria of the lineage acI are among the most abundant, constituting upwards of 50% of the total bacteria in a variety of aquatic systems [@Zwart1998, @Glockner2000, @Zwart2002]. Despite their abundance, no isolates of the acI lineage have been stably propagated in pure culture.
 
-### What we know from tag data
-* persistent and abundant through time and across lakes
-  * FWFG and references therein, possibly newer surveys
-  * Newer surveys - Ghai2011, Ghai2012a (analysis of other folk's MGs)
-  * Also found in brackish waters (Salka2014, Hugerth2015)
-* three clades and thirteen tribes - FWFG
+Nevertheless, the acI lineage has been extensively studied in a community context using both DNA sequencing and single-cell targeted experiments. Most fundamentally, the acI have been phylogenetically divided into three clades (A, B, and C) and thirteen tribes [@Newton2011a] on the basis of their 16S rRNA gene sequences. Several studies have used fluorescent in situ hybridization (FISH) and catalyzed reporter deposition (CARD) or microautoradiography (MAR) to identify substrate uptake capabilities of the acI. These studies reveal that the acI are capable of consuming an amino acids generally [@Salcher2010, @Salcher2013]; the individual amino acids arginine, glutamate, glutamine, and leucine [@Buck2009, @Perez2010, @Salcher2010, @Eckert2012, @Salcher2013]); the saccharides glucose [@Buck2009, @Salcher2013], N-acetylglucosamine (NAG) [@Beier2011, @Eckert2012, @Eckert2013; the deoxynucleoside thymidine [@Perez2010, @Salcher2013], and acetate [@Buck2009]. However, due to limited phylogenetic resolution of some FISH probes, the studies cannot always link the uptake of these substrates to clades or tribes within the lineage.
 
-### What we know from experiments
-* conclusions on substrate utilization from FISH studies
-  * glucose [@Buck2009]
-  * leucine [@Buck2009, @Perez2010, @Salcher2010, @Eckert2012]
-  * acetate [@Buck2009]
-  * thymidine [@Perez2010]
-  * N-acetylglucosamine (NAG) [@Beier2011, @Eckert2012]
-  * di-NAG [@Beier2011, @Eckert2012, @Tada2014]
-  * amino acids [@Salcher2013] - what specific ones?
-  * can't find any newer studies
-* FISH is not tribe-/clade-specific
+Instead, metabolic reconstructions of single-cell genomes (SAGs) and metagenome-assembled genomes (MAGs) have been used to propose substrate uptake capabilities of clades aI-A and acI-B. Notably, to date, no genomes from clade acI-C have been included in these studies. These studies indicate both tribes are capable of consuming a wide array of N-containing compounds, including ammonium, branched-chain amino acids, polyamines, di-peptides, and cyanophycin [@Ghylin2014, @Garcia2015], with clade acI-A also capable of consuming oligopeptides [@Ghylin2014]. The lineage is also capable of consuming numerous saccharides, including the five-carbon sugars xylose, ribose, arabinose [@Garcia2013, @Ghylin2014, @Garcia2015] as well as poly- and oligo-saccharides [@Ghylin2014, @Garcia2015]. Notably, transporters for glucose and NAG have not yet been identified [@Garcia2013, @Ghylin2014], despite FISH studies showing uptake of those substrates. Clade acI-B is also predicted to consume sucrose and maltose [@Garcia2015]; it also contains a chitinase for the breakdown of NAG [@Garcia2013, @Garcia2015]. Finally, the acI are predicted to contain the actinobacterial opsin protein actinorhodopsin [@Garcia2013, @Garcia2014, @Ghylin2014 @Garcia2015], a light-harvesting transmembrane protein [@Sharma2008, @Sharma2009], as well as the complete pathway for the biosynthesis of its cofactor retinal [@Ghylin2014].
 
-### What we know from SAG/MAG data
-* small and streamlined genome
-* conclusions on substrate utilization from SAG/MAG studies
-  * acI-B: chitinase (CAZyme, polymer of NAG) [@Garcia2013, @Garcia2015]
-  * cyanophycinase [@Ghai2014, @Ghylin2014, @Garcia2015]
-  * alpha- and beta-galactosidases [@Ghylin2014, @Garcia2015] - poly- and oligo-saccharides
-  * sucrose, maltose, acetate, lactate, pyruvate [@Garcia2015]
-* conclusions on transporters from SAG/MAG studies
-  * acI-A - glycerol uptake, unique AA uptake, oligopeptide transporter [@Ghylin2014]
-  * acI-B - auxilary component for ribose transporter [@Ghylin2014]
-  * acI-B - biotin [@Garcia2015]
-  * branched-chain AAs [@Ghylin2014, @Garcia2015]
-  * 5-C sugars (xylose, ribose, arabinose) [@Garcia2013, @Ghylin2014, @Garcia2015]
-  * galactosides [@Ghylin2014]
-  * polyamine (putrescine) [@Ghylin2014, @Garcia2015]
-  * di-peptides [@Ghylin2014]
-  * absence of glucose transporter [@Garcia2013, @Ghylin2014], but sugar transporters and glucose-binding protein [@Ghylin2014]
-  * absence of carboxylic acids, NAG [@Ghylin2014]
-  * N permease [@Ghylin2014]
-  * PstSCAB system [@Ghylin2014, @Garcia2015]
-* conclusions on auxotrophies (acI-B) [@Garcia2015]
-  * vitamins and cofactors - vitamin B12, riboflavin, niacin, pantothenate, folate, biotin
-  * isoleucine, leucine, valine, tyrosine, tryptophan, phenylalanine, asparagine
-* actinorhodopsin
-  * first detected [@Sharma2009]
-  * abundant [@Martinez-Garcia2012]
-  * found in SAGs and MAGs [@Garcia2013, @Garcia2014, @Ghylin2014 @Garcia2015]
-  * retinal biosynthesis pathway [@Ghylin2014]
-* no genomes from acI-C
+Finally, a recent study has predicted a number of auxotrophies in a metagenome-assembled genome, including for the amino acids isoleucine, leucine, valine, tyrosine, tryptophan, phenylalanine, asparagine; and the cofactors biotin (Vitamin B7), cobalamin (Vitamin B12), folate (Vitamin B9), niacin (Vitamin B3), pantothenate (Vitamin B5), and riboflavin (Vitamin B2) [@Garcia2015].
 
-## Reverse Ecology
-* genome-gazing is a bottleneck, FISH studies are laborious - need an alternative
-* reverse-ecology is an emerging paradigm to infer ecology from genomic information w/ a focus on systems-level signatures
-* metabolism one aspect of ecology, long tradition of metabolic network analysis
-* example of reverse ecology - seed compounds and environment
+These metabolic reconstructions all assume that an organism's genome content says something about its ecology, an assumption underlying the emerging paradigm of reverse ecology [@Borenstein2012]. While metabolic reconstructions represent a common entry point to reverse ecological analyses, other approaches take cues from systems biology, focusing not just on the "parts" (genes) encoded in the genome, but on the way those parts come together and interact [@Borenstein2012]. In particular, this approach to reverse ecology analyzes genomes in terms of their metabolic networks with a focus on their topological properties. One such property is an organism's "seed set," the set of compounds that an organism cannot synthesize and must exogenously acquire from its environment [@Borenstein2008]. As such, these compounds may represent both auxotrophies, essential metabolites for which biosynthetic routes are missing, and nutrients, for which routes for degradation (not synthesis) are present in the genome.
 
-## Overview
-In this work, we expand existing genome-based analyzes of the acI lineage by analyzing six additional single-cell genomes (SAGs) and 15 metagenome-assembled genomes (MAGs), including for the first time genomes from the acI-C clade. In lieu of manual reconstruction of these genomes, we use a high-throughput reverse ecological analysis to predict seed compounds for each clade, using metabolic network reconstructions generated from KBase (http://kbase.us). Predicted seed compounds confirm the ability of the acI to metabolize N-rich organic compounds and an array of carbohydrates, while also revealing clade-specific differences in auxotrophies and degradation capabilities. We also use metatranscriptomics to profile gene expression across the three acI clades. These data show that the acI express a diverse array of transporters at a high level, which may be key to the success of their passive and planktonic lifestyle. Finally, we observe actinorhodopsin to be among the most highly expressed genes in all three lineages, strongly suggesting a photoheterotrophic lifestyle for the acI.
+In this work, we expand existing genome-based analyzes of the acI lineage trough such a reverse ecological approach. We re-analyze previously-described acI genomes, as well as six additional single-cell genomes (SAGs) and 15 metagenome-assembled genomes (MAGs), including for the first time genomes from the acI-C clade. For this analysis, we have developed a high-throughput reverse ecological analysis to predict seed compounds for each clade, using metabolic network reconstructions generated from KBase (http://kbase.us). Predicted seed compounds confirm the ability of the acI to metabolize N-rich organic compounds and an array of carbohydrates, while also revealing clade-specific differences in auxotrophies and degradation capabilities. We also present the first metatranscriptomic analysis of gene expression across the three acI clades. These data show that the acI express a diverse array of transporters at a high level, which may be key to the success of their passive and planktonic lifestyle. Finally, we observe actinorhodopsin to be among the most highly expressed genes in all three lineages, strongly suggesting a photoheterotrophic lifestyle for the acI.
 
 # Materials and Methods
 
