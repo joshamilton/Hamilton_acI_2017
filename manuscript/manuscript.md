@@ -263,16 +263,21 @@ Finally, all three clades express actinorhodopsin, a light-sensitive opsin prote
 # Discussion
 
 ## (Dis)Agreement w/ previous findings
-* diverse array of N-rich compounds & transport of sugars consistent w/ literature
-  * glucose transporter not previously detected [@Garcia2013]
-* cyanophycinase?
+* agree w/ previous findings
+* disagree w/ previous findings
+* big picture findings
+  * diverse array of N-rich compounds, sugars, and saccharides
+  * niche diversification w/in each of these areas
+  * actR and retinal biosynthesis pathway
+  * new findings about acI-C
 * added value comes from metranscriptomics (segue to next section)
 
-## Ecology of acI
-* ecological niche
-  * scavenger of cell lysate, exudates/partially degraded plant materials
-  * ecological successful b/c ready to eat whatever comes its way
+## ecology of acI based on metatranscriptomics
+* transporters expressed at a high level
+* peptidases more expressed than GHases
+* cyanophycinase not expressed
 * actR hypothesis: establishes a protein gradient to drive ATP transport
+* ecological successful b/c ready to eat whatever comes its way
 
 ## Potential and Limitations of Reverse Ecology
 * potential applications
@@ -280,7 +285,7 @@ Finally, all three clades express actinorhodopsin, a light-sensitive opsin prote
   * because analysis performed at clade level, cannot capture interactions btw tribes
   * only as good as database, known functions of interest are missing
   * lacks pathway information, enabling alternative metabolic routes - may miss true auxotrophies (give examples)
-  * pruning results in inability to comment on N, S metabolism [see @Garcia2013] for what we know
+  * pruning results in inability to comment on N, S metabolism
 
 # Acknowledgements
 
