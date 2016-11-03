@@ -51,7 +51,7 @@ Prior to extraction, three samples were spiked with an internal standard to enab
 
 Samples were subject to TRIzol-based RNA extraction (Thermo Fisher Scientific, Waltham, MA) followed by on-column DNAse digestion and RNA purification using an RNeasy Mini Kit (Qiagen, Venlo, Netherlands). RNA was then sent to the University of Wisconsin-Madison Biotechnology Center (https://www.biotech.wisc.edu) for sequencing. There, samples were prepared for sequencing using the TruSeq RNA Library Prep Kit v2 (Illumina, San Diego, CA), with the addition of a step for selective ribosomal RNA depletion using the Ribo-Zero rRNA Removal Kit (Bacteria) (Illumina). The resulting cDNA libraries were pooled in an equimolar ratio, and sequenced on an Illumina HiSeq2500.
 
-Raw paired-end reads were then merged using FLASH [@Magoc2011] using default parameters. Finally, additional rRNA and ncRNA sequences were removed using SortMeRNA [@Kopylova2012] using default parameters. SortMeRNA was run using eight built-in databases for bacterial, archaeal, and eukaryotic small and large ribosomal subunits and ncRNAs, derived from the SILVA 119 [@Quast2013] and RFAM [@Nawrocki2015] databases.
+Raw paired-end reads were then trimmed using Sickle [@Joshi2011] and merged using FLASH [@Magoc2011]. Sickle was run using default parameters, and FLASH was run with a maximum overlap of 100 (`M = 100`). Finally, additional rRNA and ncRNA sequences were removed using SortMeRNA [@Kopylova2012] using default parameters. SortMeRNA was run using eight built-in databases for bacterial, archaeal, and eukaryotic small and large ribosomal subunits and ncRNAs, derived from the SILVA 119 [@Quast2013] and RFAM [@Nawrocki2015] databases.
 
 Additional information, including all protocols and scripts for RNA analysis, can be found on Github (https://github.com/McMahonLab/OMD-TOILv2). Raw RNA sequences can be found on the National Center for Biotechnology Information (NCBI) website under BioProject PRJNA######.
 
@@ -85,11 +85,11 @@ Many seed compounds were associated with reactions catalyzed by peptidases or gl
 
 ### Protein Clustering, Metatranscriptomic Mapping, and Clade-Level Gene Expression
 
-OrthoMCL [@Li2003] was used to identify clusters of orthologous genes (COGs) in the set of acI genomes. OrthoMCL was run using default options. Annotations were assigned to protein clusters by choosing the most common annotation among all genes assigned to that cluster. Then, metatranscriptomic reads were mapped to a single fasta file containing all acI genomes using BBMap (https://sourceforge.net/projects/bbmap/) with the `ambig=all` and `minid=0.85` options. With this command, reads are allowed to map equally well to multiple sites. An 85% percent identity cutoff was chosen as it minimizes the percent of reads which map to multiple sites.
+OrthoMCL [@Li2003] was used to identify clusters of orthologous genes (COGs) in the set of acI genomes. OrthoMCL was run using default options. Annotations were assigned to protein clusters by choosing the most common annotation among all genes assigned to that cluster. Then, metatranscriptomic reads were mapped to a single fasta file containing all acI genomes using BBMap (https://sourceforge.net/projects/bbmap/) with the `ambig=random` and `minid=0.95` options. A 95% identity cutoff was chosen as it approximates the average nucleotide identity of acI sequence-discrete populations [REF], while competitive mapping ensures that reads map only to a single genome.
 
-Next, a custom implementation of HTSeq-Count [@Anders2014] was used to count the total number of reads which map to each (genome, gene) pairing. Any read which mapped to multiple sites within the collection of acI genomes was discarded. Using the COGs identified by OrthoMCL, the total number of reads which map to each (clade, COG) pairing was then counted. This gives a measure of gene expression for the clade-level composite genome. Because ambiguous reads were discarded after mapping, this measure of gene expression provides an underestimate of the true expression level.
+Next, HTSeq-Count [@Anders2014] was used to count the total number of reads which map to each (genome, gene) pairing. After mapping, (genome, gene) pairs were filtered to remove any pairs which did not map at least one read in all four samples. Using the COGs identified by OrthoMCL, the (genome, gene) pairs which map to each (clade, COG) pairing were then identified.
 
-For each clade, read counts were then normalized by sequencing depth and ORF length and expressed on a reads per kilobase million (RPKM) basis [@Mortazavi2008], while accounting for different ORF lengths within a COG. RPKM counts were averaged across the four metatranscriptomes to give the average expression across a 24-hour period. Finally, within each clade, the percentile rank expression for each COG was calculated. Figure 3C shows the calculated RPKM values for clade acI-C, along with the presence/absence of each COG in three acI-C genomes.
+For each (clade, COG) pairing, gene expression was computed on a reads per kilobase million (RPKM) basis [@Mortazavi2008], while accounting for different sequencing depths across genomes (based on total numbers of mapped reads) and ORF lengths within a COG. Because low abundance (genome, gene) pairs were discarded after mapping, this measure of gene expression provides an underestimate of the true expression level. RPKM counts were then averaged across the four metatranscriptomes. Finally, within each clade, the percentile rank expression for each COG was calculated. Figure 3C shows the calculated RPKM values for clade acI-C, along with the presence/absence of each COG in three acI-C genomes.
 
 ### Re-annotation of Transporter Genes
 
@@ -115,14 +115,10 @@ Metabolic network reconstructions created from these genomes will necessarily be
 
 Using conserved single-copy marker genes [@Parks2015], We estimated the completeness of tribe- and clade-level composite genomes to determine the finest level of taxonomic resolution at which we could confidently compute seed compounds (Figure 2). At the tribe level, with the exception of tribe acI-B1, tribe-level composite genomes are estimated to be incomplete (Figure 2A). At the clade level, clades acI-A and B are estimated to be complete, while acI-C remains incomplete (Figure 2B). As a result, seed compounds were calculated for composite clade-level genomes, with the understanding that some true seed compounds for the acI-C clade will not be predicted.
 
-## Protein Clustering and Metatranscriptomics
+## Metatranscriptomics and Protein Clustering
+Sequencing of cDNA from all four samples yielded approximately 160 billion paired-end reads. After merging, filtering, and _in-silico_ rRNA removal, approximately 81 billion, or 51% of the reads remained (Table S7). These reads were subsequently mapped against our collection of acI SAGs and MAGs. We used the metatranscriptomic reads that mapped to each clade as a proxies for relative activity (Table S7a). Overall, our acI genomes accounted for 1.23% of the total activity.
 
-OrthoMCL identified a total of 5013 protein clusters across the three clades (Table S8). Of these, 1078 represent core genes, defined as present in at least one genome belonging to that clade.
-
-* read recruiting - % of MG/MT reads which map to acI reference genome collections (still need to map the MGs)
-* what does this say about...
-  * are acI active or dormant?
-  * quality of our reference genomes wrt conditions that day?
+OrthoMCL identified a total of 5013 protein clusters across the three clades (Table S8). Of these, 1078 represent core genes, defined as present in at least one genome belonging to that clade. The COGs were unequally distributed across the three clades, with clade acI-A genomes containing 3175 COGs (63%), clade acI-B genomes containing 3459 COGs (69%), and clade acI-C genomes containing 1365 COGs (27%). Of these COGs, 650 were expressed in clade acI-A, 785 in clade acI-B, and 849 in clade acI-C. These COGs account for 0.15% (acI-A), 0.14% (acI-B), and 0.31% (acI-C), of the total activity. Within the acI, the remaining unaccounted for activity comes from non-protein encoding RNA, as we only identified COGs for protein-encoding RNA.
 
 ## A Workflow for High-Throughput Reverse Ecological Analysis of Metabolic Networks
 
@@ -223,6 +219,8 @@ Transport proteins for many all of these metabolites were among the most highly 
 Our analysis also provides new insights into auxotrophies within the acI-C lineage, identifying tetrahydrofolate (THF) as an auxotrophy for clade acI-A, and lysine, homoserine, and UMP as auxotrophies for acI-C. THF is a derivative of folic acid (Vitamin B9), which was previously identified as an auxotrophy for clade acI-B. Additionally, clade acI-B was previously identified as auxotrophic for a number of amino acids, though lysine and homoserine were not among them. In the aggregate, these results provide additional support to the hypothesis that distributed metabolic pathways and metabolic complmentarity may be common features of freshwater bacterial communities [@Garcia2015].
 
 While the reverse ecology pipeline presented here identified aspects of acI metabolism not observed previously, our approach does have some significant limitations. First, because our analysis relied on constructing clade-level composite genomes, we of necessity cannot say anything about the metabolism of individual tribes or interactions between them. And second, metabolic network analysis does account for biological pathway organization, and predicts organisms may synthesize compounds via non-canonical routes. An example is presented in the Supplemental Material. As a result, the pipeline may under-predict the number of auxotrophies for a genome, a limitation which may explain why we failed to predict many suspected auxotrophies for clade acI-B.
+
+__Need to discuss why our acI genomes recruit so few reads__
 
 # Acknowledgements
 
