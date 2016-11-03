@@ -42,7 +42,7 @@ Seed compounds of members of the acI lineage. (A) Auxotrophies and compounds whi
 
 &nbsp;
 
-Transporters that are actively expressed by members of the acI lineage, as inferred from transcript relative abundance. The intensity of the color indicates the percentile average log2 RPKM of the encoding gene cluster. For multi-subunit transporters, the percentile of the most highly-expressed subunit was chosen.
+Transporters that are actively expressed by members of the acI lineage, as inferred from transcript relative abundance. The intensity of the color indicates the average log2 RPKM of the encoding gene cluster. For multi-subunit transporters, the RPKM of the substrate-binding subunit was chosen.
 
 &nbsp;
 

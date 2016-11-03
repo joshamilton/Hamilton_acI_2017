@@ -1,0 +1,109 @@
+Reaction,COG,Avg RPKM,Log2 Avg RPKM,Percentile,Annotation
+rxn05145_c0,group00081,3233.57842226,11.658915884400001,84.142011834300007,Phosphate transport ATP-binding protein PstB (TC 3.A.1.7.1)
+rxn05145_c0,group00094,1817.7402353,10.827930330199999,77.988165680500003,Phosphate transport system permease protein PstC (TC 3.A.1.7.1)
+rxn05145_c0,group00191,19002.391144699999,14.213893349500001,96.094674556200005,"Phosphate ABC transporter, periplasmic phosphate-binding protein PstS (TC 3.A.1.7.1)"
+rxn05145_c0,group00254,2670.4676193499999,11.382876675699999,82.248520710099996,Phosphate transport system permease protein PstA (TC 3.A.1.7.1)
+rxn05145_c0,group01519,743.388100108,9.5379717840100007,59.763313609499995,Phosphate transport system permease protein PstA (TC 3.A.1.7.1)
+rxn05145_c0,group01566,10458.3961616,13.3523740048,92.189349112399995,"Phosphate ABC transporter, periplasmic phosphate-binding protein PstS (TC 3.A.1.7.1)"
+rxn05153_c0,group00012,788.19850046199997,9.6224151945400003,60.710059171600001,Sulfate and thiosulfate import ATP-binding protein CysA (EC 3.6.3.25)
+rxn05158_c0,group00654,4288.2190965,12.066162903499999,86.272189349100003,"Glycerol-3-phosphate ABC transporter, ATP-binding protein UgpC (TC 3.A.1.1.3)"
+rxn05158_c0,group02147,0,0,0,"Glycerol-3-phosphate ABC transporter, ATP-binding protein UgpC (TC 3.A.1.1.3)"
+rxn05158_c0,group02622,304.906901715,8.2522249965899999,36.094674556199998,"Glycerol-3-phosphate ABC transporter, ATP-binding protein UgpC (TC 3.A.1.1.3)"
+rxn05161_c0,group00004,1326.69377218,10.3736196905,73.491124260399999,Branched-chain amino acid transport ATP-binding protein LivG (TC 3.A.1.4.1)
+rxn05161_c0,group00016,1469.61676407,10.5212242733,76.331360946700002,Branched-chain amino acid transport ATP-binding protein LivF (TC 3.A.1.4.1)
+rxn05161_c0,group00516,0,0,0,Branched-chain amino acid transport system permease protein LivM (TC 3.A.1.4.1)
+rxn05161_c0,group00634,0,0,0,High-affinity branched-chain amino acid transport system permease protein LivH (TC 3.A.1.4.1)
+rxn05161_c0,group00984,0,0,0,High-affinity branched-chain amino acid transport system permease protein LivH (TC 3.A.1.4.1)
+rxn05161_c0,group01149,2887.26680136,11.4954887124,83.076923076900002,"Branched-chain amino acid ABC transporter, amino acid-binding protein (TC 3.A.1.4.1)"
+rxn05163_c0,group00012,788.19850046199997,9.6224151945400003,60.710059171600001,Sulfate and thiosulfate import ATP-binding protein CysA (EC 3.6.3.25)
+rxn05163_c0,group00453,204.34458844,7.67486022744,22.011834319499997,Putrescine transport system permease protein PotH (TC 3.A.1.11.2)
+rxn05163_c0,group00471,214.869553513,7.7473172606899992,24.733727810700003,Putrescine transport system permease protein PotI (TC 3.A.1.11.2)
+rxn05163_c0,group00970,305.02580172699999,8.2527874732700006,36.213017751500004,Putrescine transport ATP-binding protein PotA (TC 3.A.1.11.1)
+rxn05167_c0,group00434,1838.7341394800001,10.844497181800001,78.461538461499998,D-xylose transport ATP-binding protein XylG
+rxn05167_c0,group01189,208785.40469200001,17.671661337100002,99.763313609500003,"Xylose ABC transporter, periplasmic xylose-binding protein XylF"
+rxn05167_c0,group01208,1056.8125252899999,10.0455037552,68.875739644999996,"Xylose ABC transporter, permease protein XylH"
+rxn05168_c0,group00004,1326.69377218,10.3736196905,73.491124260399999,Branched-chain amino acid transport ATP-binding protein LivG (TC 3.A.1.4.1)
+rxn05168_c0,group00016,1469.61676407,10.5212242733,76.331360946700002,Branched-chain amino acid transport ATP-binding protein LivF (TC 3.A.1.4.1)
+rxn05168_c0,group00516,0,0,0,Branched-chain amino acid transport system permease protein LivM (TC 3.A.1.4.1)
+rxn05168_c0,group00634,0,0,0,High-affinity branched-chain amino acid transport system permease protein LivH (TC 3.A.1.4.1)
+rxn05168_c0,group00984,0,0,0,High-affinity branched-chain amino acid transport system permease protein LivH (TC 3.A.1.4.1)
+rxn05168_c0,group01149,2887.26680136,11.4954887124,83.076923076900002,"Branched-chain amino acid ABC transporter, amino acid-binding protein (TC 3.A.1.4.1)"
+rxn05170_c0,group01320,146.01322941200002,7.1899552790300003,11.597633136099999,"Maltose/maltodextrin ABC transporter, permease protein MalG"
+rxn05170_c0,group01387,0,0,0,"Maltose/maltodextrin ABC transporter, permease protein MalF"
+rxn05170_c0,group02355,0,0,0,"Maltose/maltodextrin ABC transporter, substrate binding periplasmic protein MalE"
+rxn05175_c0,group00012,788.19850046199997,9.6224151945400003,60.710059171600001,Sulfate and thiosulfate import ATP-binding protein CysA (EC 3.6.3.25)
+rxn05175_c0,group00453,204.34458844,7.67486022744,22.011834319499997,Putrescine transport system permease protein PotH (TC 3.A.1.11.2)
+rxn05175_c0,group00471,214.869553513,7.7473172606899992,24.733727810700003,Putrescine transport system permease protein PotI (TC 3.A.1.11.2)
+rxn05175_c0,group00970,305.02580172699999,8.2527874732700006,36.213017751500004,Putrescine transport ATP-binding protein PotA (TC 3.A.1.11.1)
+rxn05176_c0,group00012,788.19850046199997,9.6224151945400003,60.710059171600001,Sulfate and thiosulfate import ATP-binding protein CysA (EC 3.6.3.25)
+rxn05179_c0,group00004,1326.69377218,10.3736196905,73.491124260399999,Branched-chain amino acid transport ATP-binding protein LivG (TC 3.A.1.4.1)
+rxn05179_c0,group00016,1469.61676407,10.5212242733,76.331360946700002,Branched-chain amino acid transport ATP-binding protein LivF (TC 3.A.1.4.1)
+rxn05179_c0,group00516,0,0,0,Branched-chain amino acid transport system permease protein LivM (TC 3.A.1.4.1)
+rxn05179_c0,group00634,0,0,0,High-affinity branched-chain amino acid transport system permease protein LivH (TC 3.A.1.4.1)
+rxn05179_c0,group00984,0,0,0,High-affinity branched-chain amino acid transport system permease protein LivH (TC 3.A.1.4.1)
+rxn05179_c0,group01149,2887.26680136,11.4954887124,83.076923076900002,"Branched-chain amino acid ABC transporter, amino acid-binding protein (TC 3.A.1.4.1)"
+rxn05197_c0,group01406,5784.6461524899996,12.4980129969,88.757396449699996,Uracil permease
+rxn05201_c0,group00876,13669.544188299998,13.738677516500001,93.727810650899997,Xanthine/uracil/thiamine/ascorbate permease family protein
+rxn05206_c0,group00832,1560.2164597799999,10.6075304828,76.923076923099998,Potassium efflux system KefA protein / Small-conductance mechanosensitive channel
+rxn05209_c0,group00886,0,0,0,Na+/H+ antiporter NhaA type
+rxn05209_c0,group02869,0,0,0,Na+/H+ antiporter NhaA type
+rxn05466_c0,group00019,6147.8440635099996,12.585864857000001,89.112426035499993,Ammonium transporter
+rxn05466_c0,group00961,248.70217966299998,7.9582753413800003,29.467455621300001,Ammonium transporter
+rxn05516_c0,group00587,276.89477788200003,8.1131940351199994,32.781065088799998,"Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)"
+rxn05516_c0,group01728,0,0,0,"Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)"
+rxn05528_c0,group00587,276.89477788200003,8.1131940351199994,32.781065088799998,"Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)"
+rxn05528_c0,group01728,0,0,0,"Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)"
+rxn05533_c0,group00021,4800.6683947800002,12.2290195702,87.337278106499994,Oligopeptide transport system permease protein OppC (TC 3.A.1.5.1)
+rxn05533_c0,group01124,172203.920339,17.393758461500003,99.526627218899989,"Oligopeptide ABC transporter, periplasmic oligopeptide-binding protein OppA (TC 3.A.1.5.1)"
+rxn05534_c0,group00021,4800.6683947800002,12.2290195702,87.337278106499994,Oligopeptide transport system permease protein OppC (TC 3.A.1.5.1)
+rxn05534_c0,group01124,172203.920339,17.393758461500003,99.526627218899989,"Oligopeptide ABC transporter, periplasmic oligopeptide-binding protein OppA (TC 3.A.1.5.1)"
+rxn05535_c0,group00021,4800.6683947800002,12.2290195702,87.337278106499994,Oligopeptide transport system permease protein OppC (TC 3.A.1.5.1)
+rxn05535_c0,group01124,172203.920339,17.393758461500003,99.526627218899989,"Oligopeptide ABC transporter, periplasmic oligopeptide-binding protein OppA (TC 3.A.1.5.1)"
+rxn05536_c0,group00021,4800.6683947800002,12.2290195702,87.337278106499994,Oligopeptide transport system permease protein OppC (TC 3.A.1.5.1)
+rxn05536_c0,group01124,172203.920339,17.393758461500003,99.526627218899989,"Oligopeptide ABC transporter, periplasmic oligopeptide-binding protein OppA (TC 3.A.1.5.1)"
+rxn05537_c0,group00021,4800.6683947800002,12.2290195702,87.337278106499994,Oligopeptide transport system permease protein OppC (TC 3.A.1.5.1)
+rxn05537_c0,group01124,172203.920339,17.393758461500003,99.526627218899989,"Oligopeptide ABC transporter, periplasmic oligopeptide-binding protein OppA (TC 3.A.1.5.1)"
+rxn05538_c0,group00021,4800.6683947800002,12.2290195702,87.337278106499994,Oligopeptide transport system permease protein OppC (TC 3.A.1.5.1)
+rxn05538_c0,group01124,172203.920339,17.393758461500003,99.526627218899989,"Oligopeptide ABC transporter, periplasmic oligopeptide-binding protein OppA (TC 3.A.1.5.1)"
+rxn05539_c0,group00021,4800.6683947800002,12.2290195702,87.337278106499994,Oligopeptide transport system permease protein OppC (TC 3.A.1.5.1)
+rxn05539_c0,group01124,172203.920339,17.393758461500003,99.526627218899989,"Oligopeptide ABC transporter, periplasmic oligopeptide-binding protein OppA (TC 3.A.1.5.1)"
+rxn05540_c0,group00021,4800.6683947800002,12.2290195702,87.337278106499994,Oligopeptide transport system permease protein OppC (TC 3.A.1.5.1)
+rxn05540_c0,group01124,172203.920339,17.393758461500003,99.526627218899989,"Oligopeptide ABC transporter, periplasmic oligopeptide-binding protein OppA (TC 3.A.1.5.1)"
+rxn05541_c0,group00021,4800.6683947800002,12.2290195702,87.337278106499994,Oligopeptide transport system permease protein OppC (TC 3.A.1.5.1)
+rxn05541_c0,group01124,172203.920339,17.393758461500003,99.526627218899989,"Oligopeptide ABC transporter, periplasmic oligopeptide-binding protein OppA (TC 3.A.1.5.1)"
+rxn05542_c0,group00021,4800.6683947800002,12.2290195702,87.337278106499994,Oligopeptide transport system permease protein OppC (TC 3.A.1.5.1)
+rxn05542_c0,group01124,172203.920339,17.393758461500003,99.526627218899989,"Oligopeptide ABC transporter, periplasmic oligopeptide-binding protein OppA (TC 3.A.1.5.1)"
+rxn05543_c0,group00021,4800.6683947800002,12.2290195702,87.337278106499994,Oligopeptide transport system permease protein OppC (TC 3.A.1.5.1)
+rxn05543_c0,group01124,172203.920339,17.393758461500003,99.526627218899989,"Oligopeptide ABC transporter, periplasmic oligopeptide-binding protein OppA (TC 3.A.1.5.1)"
+rxn05544_c0,group00021,4800.6683947800002,12.2290195702,87.337278106499994,Oligopeptide transport system permease protein OppC (TC 3.A.1.5.1)
+rxn05544_c0,group01124,172203.920339,17.393758461500003,99.526627218899989,"Oligopeptide ABC transporter, periplasmic oligopeptide-binding protein OppA (TC 3.A.1.5.1)"
+rxn05545_c0,group00021,4800.6683947800002,12.2290195702,87.337278106499994,Oligopeptide transport system permease protein OppC (TC 3.A.1.5.1)
+rxn05545_c0,group01124,172203.920339,17.393758461500003,99.526627218899989,"Oligopeptide ABC transporter, periplasmic oligopeptide-binding protein OppA (TC 3.A.1.5.1)"
+rxn05546_c0,group00021,4800.6683947800002,12.2290195702,87.337278106499994,Oligopeptide transport system permease protein OppC (TC 3.A.1.5.1)
+rxn05546_c0,group01124,172203.920339,17.393758461500003,99.526627218899989,"Oligopeptide ABC transporter, periplasmic oligopeptide-binding protein OppA (TC 3.A.1.5.1)"
+rxn05547_c0,group00021,4800.6683947800002,12.2290195702,87.337278106499994,Oligopeptide transport system permease protein OppC (TC 3.A.1.5.1)
+rxn05547_c0,group01124,172203.920339,17.393758461500003,99.526627218899989,"Oligopeptide ABC transporter, periplasmic oligopeptide-binding protein OppA (TC 3.A.1.5.1)"
+rxn05596_c0,group00456,3223.8752591799998,11.6545802077,84.023668639099995,Trk system potassium uptake protein TrkA
+rxn05596_c0,group00476,6853.2072495599996,12.742563601199999,89.585798816600004,Trk system potassium uptake protein TrkA
+rxn05608_c0,group01320,146.01322941200002,7.1899552790300003,11.597633136099999,"Maltose/maltodextrin ABC transporter, permease protein MalG"
+rxn05608_c0,group01387,0,0,0,"Maltose/maltodextrin ABC transporter, permease protein MalF"
+rxn05608_c0,group02355,0,0,0,"Maltose/maltodextrin ABC transporter, substrate binding periplasmic protein MalE"
+rxn05616_c0,group01315,0,0,0,Magnesium and cobalt transport protein CorA
+rxn10174_c0,group01320,146.01322941200002,7.1899552790300003,11.597633136099999,"Maltose/maltodextrin ABC transporter, permease protein MalG"
+rxn10174_c0,group01387,0,0,0,"Maltose/maltodextrin ABC transporter, permease protein MalF"
+rxn10174_c0,group02355,0,0,0,"Maltose/maltodextrin ABC transporter, substrate binding periplasmic protein MalE"
+rxn10343_c0,group00587,276.89477788200003,8.1131940351199994,32.781065088799998,"Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)"
+rxn10343_c0,group01728,0,0,0,"Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)"
+rxn10344_c0,group00587,276.89477788200003,8.1131940351199994,32.781065088799998,"Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)"
+rxn10344_c0,group01728,0,0,0,"Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)"
+rxn10474_c0,group01315,0,0,0,Magnesium and cobalt transport protein CorA
+rxn10481_c0,group00587,276.89477788200003,8.1131940351199994,32.781065088799998,"Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)"
+rxn10481_c0,group01728,0,0,0,"Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)"
+rxn12848_c0,group00021,4800.6683947800002,12.2290195702,87.337278106499994,Oligopeptide transport system permease protein OppC (TC 3.A.1.5.1)
+rxn12848_c0,group01124,172203.920339,17.393758461500003,99.526627218899989,"Oligopeptide ABC transporter, periplasmic oligopeptide-binding protein OppA (TC 3.A.1.5.1)"
+rxn12849_c0,group00021,4800.6683947800002,12.2290195702,87.337278106499994,Oligopeptide transport system permease protein OppC (TC 3.A.1.5.1)
+rxn12849_c0,group01124,172203.920339,17.393758461500003,99.526627218899989,"Oligopeptide ABC transporter, periplasmic oligopeptide-binding protein OppA (TC 3.A.1.5.1)"
+rxn12850_c0,group00021,4800.6683947800002,12.2290195702,87.337278106499994,Oligopeptide transport system permease protein OppC (TC 3.A.1.5.1)
+rxn12850_c0,group01124,172203.920339,17.393758461500003,99.526627218899989,"Oligopeptide ABC transporter, periplasmic oligopeptide-binding protein OppA (TC 3.A.1.5.1)"
+rxn12851_c0,group00021,4800.6683947800002,12.2290195702,87.337278106499994,Oligopeptide transport system permease protein OppC (TC 3.A.1.5.1)
+rxn12851_c0,group01124,172203.920339,17.393758461500003,99.526627218899989,"Oligopeptide ABC transporter, periplasmic oligopeptide-binding protein OppA (TC 3.A.1.5.1)"
