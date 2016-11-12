@@ -46,15 +46,7 @@ Transporters that are actively expressed by members of the acI lineage, as infer
 
 &nbsp;
 
-## Supplementary Figure 1 (figures/fig1-tree/tree-full.pdf)
-
-&nbsp;
-
-Phylogenetic placement of the acI lineage, relative to other sequenced actinobacterial genomes in the class Actinobacteria [@Gao2012]. The tree was built using RAxML [@Stamatakis2014] from a concatenated alignment of single-copy marker genes [@Darling2014]. The class Acidimicrobiia forms the outgroup.
-
-&nbsp;
-
-## Supplementary Figure 2 (figures/fig3-workflow/FigureS2.pdf)
+## Supplementary Figure 1 (figures/fig3-workflow/FigureS2.pdf)
 
 &nbsp;
 
@@ -62,7 +54,7 @@ Converting an unannotated genome to a metabolic network graph, for a simplified 
 
 &nbsp;
 
-## Supplementary Figure 3 (figures/fig3-workflow/FigureS3.pdf)
+## Supplementary Figure 2 (figures/fig3-workflow/FigureS3.pdf)
 
 &nbsp;
 
@@ -70,11 +62,19 @@ Identifying seed compounds in metabolic networks, using the same metabolic netwo
 
 &nbsp;
 
-## Supplementary Figure 4 (figures/fig3-workflow/FigureS4.pdf)
+## Supplementary Figure 3 (figures/fig3-workflow/FigureS4.pdf)
 
 &nbsp;
 
 Complete composite metabolic network graph for clade acI-C, showing disconnected components and the giant strongly connected components. Gray nodes and edges represent disconnected components which are dropped prior to computing the network's seed sets. Red nodes represent those present in the giant strongly connected component which contains the majority of the metabolites in the network.
+
+&nbsp;
+
+## Supplementary Figure 4 (figures/fig1-tree/tree-full.pdf)
+
+&nbsp;
+
+Phylogenetic placement of the acI lineage, relative to other sequenced actinobacterial genomes in the class Actinobacteria [@Gao2012]. The tree was built using RAxML [@Stamatakis2014] from a concatenated alignment of single-copy marker genes [@Darling2014]. The class Acidimicrobiia forms the outgroup.
 
 &nbsp;
 
