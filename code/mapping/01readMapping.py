@@ -6,7 +6,7 @@
 # URL: http://http://mcmahonlab.wisc.edu/
 # All rights reserved.
 ################################################################################
-# Use BBMap to map a bunch of (sample, genome) pairs
+# Use BBMap to map metranscriptomic reads to our reference genome collection
 ################################################################################
 
 #%%#############################################################################

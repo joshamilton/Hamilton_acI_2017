@@ -1,12 +1,13 @@
 ###############################################################################
-# findGenes.py
+# findGenesAnnotExpr.py
 # Copyright (c) 2016, Joshua J Hamilton and Katherine D McMahon
 # Affiliation: Department of Bacteriology
 #              University of Wisconsin-Madison, Madison, Wisconsin, USA
 # URL: http://http://mcmahonlab.wisc.edu/
 # All rights reserved.
 ################################################################################
-# Identify transport reactions and their corresponding genes.
+# Identify transport reactions and their corresponding genes. Map genes to COGs
+# and extract their expression profiles.
 ################################################################################
 
 #%%#############################################################################

@@ -6,7 +6,8 @@
 # URL: http://http://mcmahonlab.wisc.edu/
 # All rights reserved.
 ################################################################################
-# Code description.
+# Convert Genbank files downloaded from KBase into FASTA files, in both
+# nucleotide (fna) and amino acid (faa) formats.
 ################################################################################
 
 #%%#############################################################################

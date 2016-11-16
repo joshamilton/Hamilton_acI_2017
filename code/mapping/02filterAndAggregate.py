@@ -1,13 +1,13 @@
 #%%#############################################################################
-# aggregateUniqueReads.py
+# filterAndAggregate.py
 # Copyright (c) 2016, Joshua J Hamilton and Katherine D McMahon
 # Affiliation: Department of Bacteriology
 #              University of Wisconsin-Madison, Madison, Wisconsin, USA
 # URL: http://http://mcmahonlab.wisc.edu/
 # All rights reserved.
 ################################################################################
-# Process read count data from mapping of OMD-TOIL MT reads to our reference
-# genomes.
+# Count reads which map to each (genome, gene) pair and to each (clade, COG)
+# pair.
 ################################################################################
 
 #%%#############################################################################
@@ -78,7 +78,6 @@ for sample in sampleList:
 #%%#############################################################################
 ### Filtering. In this section, filter out all coding sequences which do not 
 ### have at least one read in all samples.
-### Also
 ################################################################################
 
 # First, read in the read counts for each CDS
