@@ -1,3 +1,0 @@
-cpd00023_c	cpd00024_c
-cpd00053_c	cpd00023_c
-cpd00020_c	cpd00035_c
