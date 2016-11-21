@@ -4,6 +4,24 @@
 * core and accessory genome of each tribe - unable to say anything b/c of completeness issues
 * accumulation curves for acIs - haven't yet fully sampled the pangenome
 
+# Removed from Methods in Primary MS
+
+## Single-Cell Genome Generation, Selection, Sequencing, and Assembly
+
+SAGs were collected, sequenced, and assembled as described previously [@Martinez-Garcia2012; @Garcia2013; @Ghylin2014]. SAGs were phylogenetically classified using partial 16S rRNA genes [@Martinez-Garcia2012] and a controlled nomenclature for freshwater bacteria [@Newton2011a] by insertion into references trees created in the ARB software package [@Ludwig2004]. Genome sequences are available through IMG (https://img.jgi.doe.gov/cgi-bin/mer/main.cgi), and can be accessed by searching for the IMG Taxon OIDs given in Table 1. Additional information is available in the Supplemental Online Material.
+
+## Metagenome Sampling, Sequencing, Assembly, and Binning
+
+Sample collection, processing, DNA sequencing, metagenomic assembly, genomic binning, and phylogenetic classification for the Trout Bog samples have been described previously [@Bendall2016]. With the exception of sample collection, identical procedures were followed for the Lake Mendota samples, for which depth-integrated water samples were collected from the top 12 meters at 96 time points during ice-free periods from 2008 to 2011. Metagenomic sequence reads are publicly available on the JGI Genome Portal (http://genome.jgi.doe.gov/) under Proposal ID 394. Metagenome sequences are available through IMG (https://img.jgi.doe.gov/cgi-bin/mer/main.cgi), and can be accessed by searching for the IMG Taxon OIDs given in Table 1. Additional information is available in the Supplemental Online Material.
+
+## Removed b/c no longer used
+
+## Metabolic Network Reconstruction and Reverse Ecology
+### Re-annotation of Peptidases and Glycoside Hydrolases
+
+Many seed compounds were associated with reactions catalyzed by peptidases or glycoside hydrolases, and genes associated with these reactions were re-annotated. Peptidase sequences were annotated using the MEROPS batch BLAST interface using default parameters [@Rawlings2015]. Glycoside hydrolases were first annotated using dbCAN [@Yin2012] to assign these genes to glycoside hydrolase families, as defined in the Carbohydrate-Active enZYmes Database CAZY [@Lombard2014]. Hidden Markov Models for these sub-families were then downloaded from dbCAN, and HMMER3 [@Eddy2011] was used to assign these genes to individual sub-families using default parameters.
+
+# Removed from Results in Primary MS
 
 ## Non-canonical Biosynthetic Routes
 

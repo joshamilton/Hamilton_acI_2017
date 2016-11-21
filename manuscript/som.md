@@ -43,11 +43,15 @@ GGGTATTTTAACTTTACTAAGGAGAATTCATCATGGCAGAAATCGGTACTGGCTTTCCATTCGACCCCCATTATGTGGAA
 
 Genome annotations and metabolic network reconstructions were performed using KBase (http://kbase.us/). Metabolic models were then downloaded, converted to metabolic network graphs, and pruned. Figure S1 illustrates this process for a simple genome containing only the glycolytic reactions.
 
-### Calculation and Evaluation of Seed Compounds
+## Computation and Evaluation of Potential Seed Compounds
 
-Seed compounds for each composite clade-level metabolic network graph were calculated using established methods, in which the network is condensed into its strongly connected components (SCCs). Seed compounds are then found by identifying source components on the condensation of the original graph. Figure S2 illustrates this process for a simple genome containing only the glycolytic reactions.
+Metabolic network reconstructions for the individual acI genomes contained between 110 and 339 genes, encoding between 241 and 587 reactions which interconvert between 374 and 699 metabolites (Table S5). On average, these genes account for 25% of the genes in the genome, a value consistent with metabolic network reconstructions for other organisms [see Supplementary Table 2 in @Feist2009a]. Clade-level composite metabolic network graphs were considerably larger, with between 602 and 811 metabolites (Table S6).
 
-Decomposition of composite metabolic network graphs into their SCCs resulted in a bow-tie structure, in which a single giant component contains a substantial fraction of the compounds, as shown in Figure S3. For simplicity, seed compounds were computed using on the single giant component.
+These composite metabolic network graphs contained a large number of disconnected components (groups of nodes that are not connected to the bulk of the network, Figure S3). For simplicity, these components were dropped from the graph, and seed compounds were computed for the single largest component. In all cases, the single largest component contained at least 80% of the nodes in the original graph (Table S6).
+
+Decomposition of the three metabolic network graphs into their SCCs resulted in a bow-tie structure, in which a single giant component contains a substantial fraction of the compounds (Figure S3). Across the three clades, the giant component contained 61% of the metabolites, a substantially larger fraction than reported for other organisms [@Ma2003a], which may be a consequence of the small and streamlined genomes of acI bacteria.
+
+The total number of predicted seed sets (source components in the SCC condensation) ranged from 63 to 95, and the number of seed compounds ranged from 70 to 102 (Table S6). This discrepancy arises because some seed sets contain multiple compounds (an example is discussed below) (Table S7). However, such seed sets were rare (4% of all seed sets), and contained at most six compounds (Table S7). The majority of seed compounds (96%) belonged to seed sets containing only a single compound (Table S7). A total of 125 unique seed compounds were identified across the three clades, and a complete list can be found in Table S8.
 
 # Supplementary Results and Discussion
 
