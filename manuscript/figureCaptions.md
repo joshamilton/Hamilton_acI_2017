@@ -10,7 +10,7 @@ date: September 16, 2016
 
 &nbsp;
 
-Phylogenetic placement of the SAGs and MAGs within the acI lineage, relative to other sequenced actinobacterial genomes in the class Actinobacteria [@Gao2012]. The tree was built using RAxML [@Stamatakis2014] from a concatenated alignment of protein sequences from 37 single-copy marker genes [@Darling2014]. The order Actinomycetales forms the outgroup. In addition, Supplemental Figure S1 shows the position of the acI lineage relative to other orders within the class Actinobacteria.
+Phylogenetic placement of the SAGs and MAGs within the acI lineage, relative to other sequenced actinobacterial genomes in the class Actinobacteria [@Gao2012]. The tree was built using RAxML [@Stamatakis2014] from a concatenated alignment of protein sequences from 37 single-copy marker genes [@Darling2014]. The order Actinomycetales forms the outgroup. In addition, Supplemental Figure S5 shows the position of the acI lineage relative to other orders within the class Actinobacteria.
 
 &nbsp;
 
@@ -46,7 +46,7 @@ Transporters that are actively expressed by members of the acI lineage, as infer
 
 &nbsp;
 
-## Supplementary Figure 1 (figures/fig3-workflow/FigureS2.pdf)
+## Supplementary Figure 1 (figures/fig3-workflow/FigureS1.pdf)
 
 &nbsp;
 
@@ -54,15 +54,23 @@ Converting an unannotated genome to a metabolic network graph, for a simplified 
 
 &nbsp;
 
-## Supplementary Figure 2 (figures/fig3-workflow/FigureS3.pdf)
+## Supplementary Figure 2 (figures/fig3-workflow/FigureS2.pdf)
 
 &nbsp;
 
-Identifying seed compounds in metabolic networks, using the same metabolic network as in Supplemental Figure S3. __(A)__ To identify seed compounds, the metabolic network graph is first decomposed into its strongly connected components (SCCs), sets of nodes such that each node in the set is reachable from every other node. Here, each set of circles nodes corresponds to a unique SCC. __(B)__ SCC decomposition enables seed sets to be identified from source components (components with no incoming edges) on the condensation of the original graph. In the condensation of the original graph shown here, each node corresponds to a unique SCC. This network has a single seed set, SCC_1, enclosed in a dotted circle. __(C)__ Seed compounds can be found from the mapping between SCCs and their constituent metabolites. In this example, glucose is the sole seed compound. While this particular result is probably intuitive, real metabolic networks are considerably more complex.
+Construction of composite metabolic network graph for clade acI-C. Beginning with metabolic network graphs for genomes Actinobacterium_10 and ME00885, nodes and edges unique to ME00885 are identified (in red). These nodes and edges are added to the Actinobacterium_10 graph, giving the composite metabolic network graph for these two genomes (Actinobacterium_10 + ME00885). Then, this graph is compared to the graph for ME03864, and nodes and edges unique to ME03864 are identified (in red). These nodes and edges are added to the Actinobacterium_10 + ME00885 metabolic network graph, giving the composite metabolic network graph for clade acI-C.
 
 &nbsp;
 
-## Supplementary Figure 3 (figures/fig3-workflow/FigureS4.pdf)
+## Supplementary Figure 3 (figures/fig3-workflow/FigureS3.pdf)
+
+&nbsp;
+
+Identifying seed compounds in metabolic networks, using the same metabolic network as in Supplemental Figure S1. __(A)__ To identify seed compounds, the metabolic network graph is first decomposed into its strongly connected components (SCCs), sets of nodes such that each node in the set is reachable from every other node. Here, each set of circles nodes corresponds to a unique SCC. __(B)__ SCC decomposition enables seed sets to be identified from source components (components with no incoming edges) on the condensation of the original graph. In the condensation of the original graph shown here, each node corresponds to a unique SCC. This network has a single seed set, SCC_1, enclosed in a dotted circle. __(C)__ Seed compounds can be found from the mapping between SCCs and their constituent metabolites. In this example, glucose is the sole seed compound. While this particular result is probably intuitive, real metabolic networks are considerably more complex.
+
+&nbsp;
+
+## Supplementary Figure 4 (figures/fig3-workflow/FigureS4.pdf)
 
 &nbsp;
 
@@ -70,7 +78,7 @@ Complete composite metabolic network graph for clade acI-C, showing disconnected
 
 &nbsp;
 
-## Supplementary Figure 4 (figures/fig1-tree/tree-full.pdf)
+## Supplementary Figure 5 (figures/fig1-tree/tree-full.pdf)
 
 &nbsp;
 
