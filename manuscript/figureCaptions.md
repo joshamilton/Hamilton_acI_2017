@@ -6,7 +6,7 @@ date: September 16, 2016
 
 &nbsp;
 
-## Figure 1 (figures/fig1-tree/tree-abbrev.pdf)
+## Figure 1 (figures/fig1-tree/Figure1.pdf)
 
 &nbsp;
 
@@ -14,7 +14,7 @@ Phylogenetic placement of the genomes used in this study within the acI lineage.
 
 &nbsp;
 
-## Figure 2a(b) (figures/fig2-sampling/completeness-2.svg and figures/fig2-sampling/completeness-1.svg)
+## Figure 2 (figures/fig2-sampling/Figure2.pdf)
 
 &nbsp;
 
@@ -30,7 +30,7 @@ Overview of the seed set framework and metatranscriptomic mapping, using three g
 
 &nbsp;
 
-## Figure 4 (figures/fig4-seeds/acI-aux-GH.pdf)
+## Figure 4 (figures/fig4-seeds/Figure4.pdf)
 
 &nbsp;
 
@@ -38,7 +38,7 @@ Seed compounds of members of the acI lineage. __(A)__ Auxotrophies and nutrient 
 
 &nbsp;
 
-## Figure 5 (figures/fig5-transporters/acI-transporters.pdf)
+## Figure 5 (figures/fig5-transporters/Figure5.pdf)
 
 &nbsp;
 
@@ -78,7 +78,7 @@ Complete composite metabolic network graph for clade acI-C, showing disconnected
 
 &nbsp;
 
-## Supplementary Figure 5 (figures/fig1-tree/tree-full.pdf)
+## Supplementary Figure 5 (figures/fig1-tree/FigureS5.pdf)
 
 &nbsp;
 
