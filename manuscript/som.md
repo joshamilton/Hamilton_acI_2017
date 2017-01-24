@@ -17,7 +17,7 @@ Water samples were collected from the top of the water column (depth <1m) from e
 
 Actinobacterial SAGs used in this study were then sent to the JGI for sequencing and assembly, also as previously described [@Ghylin2014]. Briefly, shotgun libraries were constructed for each of the SAGs from re-amplified MDA products and sequenced on an Illumina HiSeq2000. All general aspects of and detailed protocols for library construction and sequencing can be found on the JGI website (http://www.jgi.doe.gov/).
 
-For assembly, raw sequence data was first passed through a filtering program developed at JGI to eliminate known sequencing and library preparation artifacts. Assembly was then performed using Velvet [@Zerbino2008] and ALLPATHS-LG [@Butler2008]. Additional details of the assembly process have been previously described [@Ghylin2014] and are available through the JGI Genome Portal (http://genome.jgi.doe.gov) Genome sequences are available through IMG (https://img.jgi.doe.gov/cgi-bin/mer/main.cgi). Genome-specific information can be accessed in both databases by searching for the IMG Taxon OIDs given in Table 1.
+For assembly, raw sequence data was first passed through a filtering program developed at JGI to eliminate known sequencing and library preparation artifacts. Assembly was then performed using Velvet [@Zerbino2008] and ALLPATHS-LG [@Gnerre2011]. Additional details of the assembly process have been previously described [@Ghylin2014] and are available through the JGI Genome Portal (http://genome.jgi.doe.gov) Genome sequences are available through IMG (https://img.jgi.doe.gov/cgi-bin/mer/main.cgi). Genome-specific information can be accessed in both databases by searching for the IMG Taxon OIDs given in Table 1.
 
 ### Metagenome Sampling, Sequencing, Assembly, and Binning
 
@@ -47,7 +47,7 @@ GGGTATTTTAACTTTACTAAGGAGAATTCATCATGGCAGAAATCGGTACTGGCTTTCCATTCGACCCCCATTATGTGGAA
 
 # Supplementary Results and Discussion
 
-## Computation and Evaluation of Potential Seed Compounds
+## Computation of Potential Seed Compounds
 
 Metabolic network reconstructions for individual genomes contained between 110 and 339 genes, encoding between 241 and 587 reactions which interconvert between 374 and 699 metabolites (Table S14). On average, these genes account for 25% of the genes in the genome, a value consistent with metabolic network reconstructions for other organisms [see Supplementary Table 2 in @Feist2009a]. Clade-level composite metabolic network graphs were larger, with between 602 and 811 metabolites (Table S15).
 
@@ -56,8 +56,6 @@ These composite metabolic network graphs contained a large number of disconnecte
 Decomposition of the three metabolic network graphs into their strongly connected components (SCCs) resulted in a bow-tie structure, in which a single giant component contains a substantial fraction of the compounds (Figure S4). Across the three clades, the giant component contained 61% of the metabolites, a larger fraction than reported for other organisms [@Ma2003a], which may be a consequence of the small and streamlined genomes of acI bacteria.
 
 The total number of predicted seed sets (source components in the SCC condensation) ranged from 63 to 95, and the number of seed compounds ranged from 70 to 102 (Table S15). This discrepancy arises because some seed sets contain multiple compounds (Table S16). However, such seed sets were rare (4% of all seed sets), and contained at most six compounds (Table S16). The majority of seed compounds (96%) belonged to seed sets containing only a single compound (Table S16).
-
-# Supplementary Results and Discussion
 
 ## Evaluation of Potential Seed Compounds
 
@@ -69,7 +67,7 @@ __Carbamoyl phosphate__. Carbamoyl phosphate was predicted as a seed compound fo
 
 This reaction contains a number of currency metabolites (ATP, ADP glutamine, glutamate), as well as the highly-connected metabolites carbonate, water, phosphate and protons. All of these metabolites were removed from the network during pruning. Thus, the reaction responsible for carbamoyl phosphate synthesis was effectively removed from the network, rendering carbamoyl phosphate a seed compound. Manual inspection of individual genomes revealed the gene for carbamoyl phosphate synthase, confirming carbamoyl phosphate is not an auxotrophy.
 
-__R-enoyl-ACP__. A number of R-enoyl-ACP compounds were predicted to be seed compounds in clades acI-A and acI-B. These compounds were associated with a single COG annotated as an "Enoyl-[acyl-carrier-protein] reductase," the enzyme which catalyzes the final step in fatty acid elongation. Many other predicted seed compounds were predicted to partcipate in fatty acid and phospholipid biosynthesis, including a number of saturated fatty acids (associated with a COG annotated as a "long-chain-fatty-acid--CoA ligase") and 1-acyl-sn-glycerol 3-phosphate compounds (associated with a COG annotated as an "1-acyl-sn-glycerol-3-phosphate acyltransferase"). Given the broad substrate specificity of these enzymes, KBase automatically assigns these enzymes to the catalysis of a number of reactions. Fatty acid and phospholipid biosynthesis pathways are often organism-specific and unlikely to be properly annotated by automatic metabolic reconstruction pipelines. Thus, these compounds were excluded from further consideration.
+__R-enoyl-ACP__. A number of R-enoyl-ACP compounds were predicted to be seed compounds in clades acI-A and acI-B. These compounds were associated with a single COG annotated as an "Enoyl-[acyl-carrier-protein] reductase," the enzyme which catalyzes the final step in fatty acid elongation. Many other seed compounds were predicted to participate in fatty acid and phospholipid biosynthesis, including a number of saturated fatty acids (associated with a COG annotated as a "long-chain-fatty-acid--CoA ligase") and 1-acyl-sn-glycerol 3-phosphate compounds (associated with a COG annotated as an "1-acyl-sn-glycerol-3-phosphate acyltransferase"). Given the broad substrate specificity of these enzymes, KBase automatically assigns these enzymes to the catalysis of a number of reactions. Fatty acid and phospholipid biosynthesis pathways are often organism-specific and unlikely to be properly annotated by automatic metabolic reconstruction pipelines. Thus, these compounds were excluded from further consideration.
 
 __L-Aspartate-4-semialdehyde, L-homoserine, and O-Phospho-L-homoserine.__ Clade acI-C was predicted to have a seed set containing these three compounds. These three compounds can be interconverted via the following reactions:
 
