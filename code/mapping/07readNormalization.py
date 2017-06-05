@@ -1,6 +1,6 @@
 #%%#############################################################################
 # readNormalization.py
-# Copyright (c) 2016, Joshua J Hamilton and Katherine D McMahon
+# Copyright (c) 2017, Joshua J Hamilton and Katherine D McMahon
 # Affiliation: Department of Bacteriology
 #              University of Wisconsin-Madison, Madison, Wisconsin, USA
 # URL: http://http://mcmahonlab.wisc.edu/
@@ -16,11 +16,10 @@
 
 from Bio import SeqIO
 from collections import Counter
-import numpy as np
 import os
 import pandas as pd
 import re
-import scipy.stats
+import subprocess
 
 #%%#############################################################################
 ### Static folder structure
@@ -92,13 +91,12 @@ cladeCogToCdsDF = pd.read_csv(cladesCogsToCDSTable, index_col=[0, 1])
 totalMappedReadsDF = pd.DataFrame(index=genomeList,columns=sampleList)
 for concat in concatList:
     for sample in sampleList:
-        genomeList = taxonClass.loc[taxonClass['Lineage'] == concat].index.tolist()
-        geneCountDF = pd.read_csv(countFolder+'/'+sample+'-'+concat+'.CDS.out', sep='\t', index_col=0, header=None, names=['Count'])
         for genome in genomeList:
-            subsetDF = geneCountDF[geneCountDF.index.str.contains(genome)]
-            totalMappedReadsDF.loc[genome][sample] = float(subsetDF['Count'].sum())
+            totalMappedReadsDF.loc[genome][sample] = float(subprocess.check_output('samtools view -F 0x4 '+bamFolder+'/'+sample+'-'+genome+'.bam | cut -f 1 | sort | uniq | wc -l', shell=True).strip())
 
 totalMappedReadsDF.to_csv(mapFolder+'/'+'genomeMappedReads.csv')
+
+totalMappedReadsDF = totalMappedReadsDF.sum(axis=1)
 
 # Create an empty gene length dictionary. Then read in the individual fasta 
 # files, and store the length of each gene in the dictionary. Write to file.
@@ -109,39 +107,34 @@ for genome in genomeList:
         
 #%%#############################################################################
 ### Count total and unique reads which map to each (clade, group) pairing
-### Requires integrating data from taxonomy and cog tables into a single data
-###  structure
 ################################################################################
 
-# For each MT, construct the count table and write to file
+for concat in concatList:    
 
-for sample in sampleList:
-    for concat in concatList:    
+    # Create a dataframe to store results
+    cladeCogNormDF = cladeCogToCdsDF.copy()
+    cladeCogNormDF = cladeCogNormDF.drop('CDS', axis=1)
+    cladeCogNormDF['RPKM'] = float(0)
 
-        # Create a dataframe to store results
-        cladeCogNormDF = cladeCogToCdsDF.copy()
-        cladeCogNormDF = cladeCogNormDF.drop('CDS', axis=1)
-        cladeCogNormDF['RPKM'] = float(0)
+    # Read in the DF of gene counts
+    geneCountDF = pd.read_csv(countFolder+'/filteredReadCounts.csv', sep=',', index_col=0, header=None, names=['Count'])
+    # For each (clade, COG) pairing, read in the list of genes
+    for index in cladeCogToCdsDF.index:
+        totRPKM = float(0)
+        if not pd.isnull(cladeCogToCdsDF.loc[index, 'CDS']):
+            cdsList = cladeCogToCdsDF.loc[index, 'CDS'].split(',')
+            # For each gene, comput the RPKM and update for the COG
+            for cds in cdsList:
+                if cds in geneCountDF.index:
+                    genome = cds.split('.')[0]
+                    # Sometimes low abundance genomes don't map any reads, so check for this before computing RPKM
+                    if totalMappedReadsDF.loc[genome] > 0:
+                        curRPKM = float(geneCountDF.loc[cds]['Count']) / ((geneLengthDict[cds] / 1000)*(totalMappedReadsDF[genome] / 1000000))
+                        totRPKM = totRPKM + curRPKM
+        cladeCogNormDF.loc[index]['RPKM'] = totRPKM
 
-        # Read in the DF of gene counts
-        geneCountDF = pd.read_csv(countFolder+'/'+sample+'-'+concat+'.CDS.out', sep='\t', index_col=0, header=None, names=['Count'])
-        # For each (clade, COG) pairing, read in the list of genes
-        for index in cladeCogToCdsDF.index:
-            totRPKM = float(0)
-            if not pd.isnull(cladeCogToCdsDF.loc[index, 'CDS']):
-                cdsList = cladeCogToCdsDF.loc[index, 'CDS'].split(',')
-                # For each gene, comput the RPKM and update for the COG
-                for cds in cdsList:
-                    if cds in geneCountDF.index:
-                        genome = cds.split('.')[0]
-                        # Sometimes low abundnace genomes don't map any reads, so check for this before computing RPKM
-                        if totalMappedReadsDF.loc[genome][sample] > 0:
-                            curRPKM = float(geneCountDF.loc[cds]['Count']) / ((geneLengthDict[cds] / 1000)*(totalMappedReadsDF.loc[genome][sample] / 1000000))
-                            totRPKM = totRPKM + curRPKM
-            cladeCogNormDF.loc[index]['RPKM'] = totRPKM
-
-        cladeCogNormDF = cladeCogNormDF.loc[cladeCogNormDF['RPKM'] > 0]
-        cladeCogNormDF.to_csv(countFolder+'/'+sample+'-'+concat+'.COG.norm')
+    cladeCogNormDF = cladeCogNormDF.loc[cladeCogNormDF['RPKM'] > 0]
+    cladeCogNormDF.to_csv(countFolder+'/'+concat+'.COG.norm')
 
 #%%#############################################################################
 ### Now average the RPKMs for the indicated sets of samples and normalize
@@ -149,22 +142,22 @@ for sample in sampleList:
 ### annotation
 ################################################################################
 
-rpkmDF = pd.DataFrame(0, index=cladeCogToCdsDF.index, columns=['Avg RPKM', 'Log2 Avg RPKM', 'Percentile', 'Annotation'], dtype=float)
-rpkmDF['Annotation'] = rpkmDF['Annotation'].astype('str')
-
-for sample in sampleList:
-    # Create a tempDF to store the RPKM values for that sample
-    tempDF = pd.read_csv(countFolder+'/'+sample+'-acI.COG.norm', index_col=[0,1])
-
-    # Update with the total RPKM
-    rpkmDF['Avg RPKM'] = rpkmDF['Avg RPKM'] + tempDF['RPKM']
-
-# Average across the samples
-rpkmDF['Avg RPKM'] = rpkmDF['Avg RPKM'] / float(len(sampleList))
+# Create additional columns
+rpkmDF = cladeCogNormDF.copy()
+rpkmDF['Median'] = 0
+rpkmDF['Rel to Med'] = 0
+rpkmDF['Annotation'] = 'None'
 
 # Compute the Log 2 RPKM and replace infinity with zero
-rpkmDF['Log2 Avg RPKM'] = np.log2(rpkmDF['Avg RPKM'])
-rpkmDF = rpkmDF.replace(to_replace='-inf', value='0')
+#rpkmDF['Log2 RPKM'] = np.log2(rpkmDF['RPKM'])
+#rpkmDF = rpkmDF.replace(to_replace='-inf', value='0')
+
+# Compute the median RPKM
+for clade in rpkmDF.index.levels[0]:
+    median = rpkmDF.loc[clade, 'RPKM'].median()
+    rpkmDF.loc[(clade), 'Median'] = median
+
+rpkmDF['Rel to Med'] = rpkmDF['RPKM'] / rpkmDF['Median']
 
 # Read in the annotation table
 annotDF = pd.read_csv(annotTable, index_col=0)
@@ -173,12 +166,6 @@ annotDF = pd.read_csv(annotTable, index_col=0)
 splitDF = rpkmDF.groupby(level=0)
 for (clade, COGs) in splitDF:
 
-    # Drop unexpressed COGs
-    COGs = COGs.loc[COGs['Avg RPKM'] > 0]
-    
-    # Percentile Rank
-    COGs['Percentile'] = [scipy.stats.percentileofscore(COGs['Avg RPKM'], i, kind='strict') for i in COGs['Avg RPKM']]
-    
     # Compute majority annotation
     # First subset the dataframe, keep genomes for that clade and dropping 
     genomeList = taxonClass.loc[taxonClass['Clade'] == clade].index.tolist()
@@ -204,4 +191,4 @@ for (clade, COGs) in splitDF:
     # Drop empty rows
     COGs = COGs.dropna(axis=0, how='any')
     
-    COGs.to_csv('../../results/expression/'+clade+'.norm')
+    COGs.to_csv(outputFolder+'/'+clade+'.norm')

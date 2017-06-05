@@ -1,6 +1,6 @@
 #%%#############################################################################
 # readMapping.py
-# Copyright (c) 2016, Joshua J Hamilton and Katherine D McMahon
+# Copyright (c) 2017, Joshua J Hamilton and Katherine D McMahon
 # Affiliation: Department of Bacteriology
 #              University of Wisconsin-Madison, Madison, Wisconsin, USA
 # URL: http://http://mcmahonlab.wisc.edu/
@@ -43,7 +43,6 @@ sampleList = []
 for sample in os.listdir(sampleFolder):
     if sample.endswith('.fastq'):
        sampleList.append(sample)
-
 sampleList = [sample.replace('.fastq', '') for sample in sampleList]
 
 genomeList = []
@@ -56,16 +55,16 @@ genomeList = [genome.replace('.fna', '') for genome in genomeList]
 #%%#############################################################################
 ### Run BBMap
 ################################################################################
-
+    
 i = 1
 for sample in sampleList:
     for genome in genomeList:
-        print 'Mapping pair '+str(i)+' of '+str(len(sampleList)*len(genomeList))
+        print('Mapping pair '+str(i)+' of '+str(len(sampleList)*len(genomeList)))
         
         subprocess.call(['bbmap.sh', 'ref='+genomeFolder+'/'+genome+'.fna',
                          'in='+sampleFolder+'/'+sample+'.fastq',
                          'outm='+bamFolder+'/'+sample+'-'+genome+'.sam',
-                         'minid=0.95', 
+                         'minid=0.80', 
                          'ambig=random', 
                          'nodisk', 
                          'sam=1.3'
@@ -81,7 +80,7 @@ readCountDF = pd.DataFrame(index=genomeList, columns=sampleList)
 i = 1
 for sample in sampleList:
     for genome in genomeList:
-        print 'Counting pair '+str(i)+' of '+str(len(sampleList)*len(genomeList))
+        print('Counting pair '+str(i)+' of '+str(len(sampleList)*len(genomeList)))
 
         readCountDF[sample][genome] = subprocess.check_output(
             'samtools view -F 0x4 '+bamFolder+'/'+sample+'-'+genome+'.sam'+'| cut -f 1 | sort | uniq | wc -l', shell=True).strip()

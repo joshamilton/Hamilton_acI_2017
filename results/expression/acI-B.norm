@@ -1,782 +1,269 @@
-Clade,COG,Avg RPKM,Log2 Avg RPKM,Percentile,Annotation
-acI-B,group00000,4274.2347737,12.0614504387,71.8309859155,3-oxoacyl-acyl-carrier protein reductase (EC 1.1.1.100)
-acI-B,group00001,148.640828974,7.21568664259,7.42637644046,DNA gyrase subunit A (EC 5.99.1.3)
-acI-B,group00002,3486.85207421,11.7677094454,69.014084507,Peptidyl-prolyl cis-trans isomerase (EC 5.2.1.8)
-acI-B,group00003,82.2394580031,6.36175885141,1.02432778489,Topoisomerase IV subunit B (EC 5.99.1.-)
-acI-B,group00004,3443.14623103,11.7495117384,68.6299615877,Branched-chain amino acid transport ATP-binding protein LivG (TC 3.A.1.4.1)
-acI-B,group00005,2844.08765889,11.4737502163,66.4532650448,Aldehyde dehydrogenase (EC 1.2.1.3)
-acI-B,group00007,16165.0419198,13.9805896283,87.7080665813,Heat shock protein 60 family chaperone GroEL
-acI-B,group00008,1053.06115057,10.0403734998,48.6555697823,Chromosome (plasmid) partitioning protein ParA
-acI-B,group00009,610.843208805,9.25465830647,40.0768245839,ATP-dependent RNA helicase
-acI-B,group00010,3404.51932431,11.7332354067,68.2458386684,"Ribose ABC transport system, ATP-binding protein RbsA (TC 3.A.1.2.1)"
-acI-B,group00011,8214.63288497,13.0039803867,80.2816901408,"ATP-dependent Clp protease, ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB"
-acI-B,group00012,5373.05747196,12.3915275543,74.6478873239,Putrescine transport ATP-binding protein PotG (TC 3.A.1.11.2)
-acI-B,group00013,14473.1513376,13.8210914634,87.1959026889,Fumarylacetoacetate hydrolase family protein
-acI-B,group00014,966.025009458,9.91591672931,47.119078105,Inosine-5-monophosphate dehydrogenase (EC 1.1.1.205) / CBS domain
-acI-B,group00016,2207.31355625,11.1080758685,62.8681177977,Branched-chain amino acid transport ATP-binding protein LivF (TC 3.A.1.4.1)
-acI-B,group00017,1638.45084978,10.6781166802,56.7221510883,HtrA protease/chaperone protein
-acI-B,group00018,804.172509939,9.65136120926,44.6862996159,Cytosol aminopeptidase PepA (EC 3.4.11.1)
-acI-B,group00019,113821.636173,16.7964152977,97.5672215109,Ammonium transporter
-acI-B,group00020,3457.72791742,11.7556086349,68.7580025608,Oligopeptide transport ATP-binding protein OppD (TC 3.A.1.5.1)
-acI-B,group00021,583.242971869,9.18795320748,39.052496799,Oligopeptide transport system permease protein OppC (TC 3.A.1.5.1)
-acI-B,group00022,1970.90291259,10.9446409951,59.795134443,RNA polymerase sigma factor RpoD
-acI-B,group00025,7611.19486249,12.8939072413,79.6414852753,Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)
-acI-B,group00027,10007.5104421,13.2887955006,83.7387964149,D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)
-acI-B,group00028,6057.50342817,12.5645076008,75.8002560819,Rod shape-determining protein MreB
-acI-B,group00029,4001.50604191,11.9663273722,70.8066581306,hypothetical protein
-acI-B,group00030,3532.00422787,11.7862713546,69.3982074264,DNA polymerase III alpha subunit (EC 2.7.7.7)
-acI-B,group00031,2020.70378308,10.9806421358,60.4353393086,Transketolase (EC 2.2.1.1)
-acI-B,group00033,2826.72317923,11.4649148917,66.1971830986,O-acetylhomoserine sulfhydrylase (EC 2.5.1.49) / O-succinylhomoserine sulfhydrylase (EC 2.5.1.48)
-acI-B,group00034,2712.86907111,11.4056037064,65.9411011524,Cytochrome c oxidase polypeptide I (EC 1.9.3.1)
-acI-B,group00036,3430.3888101,11.7441563895,68.5019206146,None Provided
-acI-B,group00037,1491.5653061,10.5426114301,54.6734955186,Aspartate aminotransferase (EC 2.6.1.1)
-acI-B,group00038,22561.9503813,14.4616041673,90.781049936,DNA-binding response regulator
-acI-B,group00040,6291.55487489,12.6192008889,76.1843790013,ATP-dependent DNA helicase RecG (EC 3.6.1.-)
-acI-B,group00041,11239.1438146,13.4562445164,84.7631241997,Chromosome partition protein smc
-acI-B,group00042,65.6065212023,6.03576731886,0.640204865557,Mrp protein homolog
-acI-B,group00043,4791.57616413,12.2262845857,73.3674775928,Citrate synthase (si) (EC 2.3.3.1)
-acI-B,group00044,578.073125869,9.17510819402,38.4122919334,Enolase (EC 4.2.1.11)
-acI-B,group00045,424.42748283,8.72937426747,33.5467349552,"Cell envelope-associated transcriptional attenuator LytR-CpsA-Psr, subfamily A1 (as in PMID19099556)"
-acI-B,group00047,499.197937085,8.96346816211,35.4673495519,Aconitate hydratase (EC 4.2.1.3)
-acI-B,group00048,4082.49906972,11.9952368417,71.0627400768,Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)
-acI-B,group00049,309639.215901,18.2402286753,98.3354673496,"Nucleoside ABC transporter, periplasmic nucleoside-binding protein"
-acI-B,group00050,2183.78701502,11.0926164416,62.2279129321,Glutamate synthase NADPH large chain (EC 1.4.1.13)
-acI-B,group00051,196.104254258,7.61547702326,13.9564660691,Phosphate regulon transcriptional regulatory protein PhoB (SphR)
-acI-B,group00052,870.546741389,9.7657779509,45.7106274008,Butyryl-CoA dehydrogenase (EC 1.3.8.1)
-acI-B,group00053,9915.50231723,13.2754701456,83.4827144686,NADH-ubiquinone oxidoreductase chain K (EC 1.6.5.3)
-acI-B,group00054,1114.75535961,10.1225114206,49.2957746479,Valyl-tRNA synthetase (EC 6.1.1.9)
-acI-B,group00056,333.371424187,8.38098663498,28.681177977,Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)
-acI-B,group00058,7118.44280371,12.7973459633,77.9769526248,NADH-ubiquinone oxidoreductase chain F (EC 1.6.5.3)
-acI-B,group00059,10457.2794764,13.3522199542,84.2509603073,Alanyl-tRNA synthetase (EC 6.1.1.7)
-acI-B,group00061,792.413075242,9.63010887544,44.4302176697,NADH-ubiquinone oxidoreductase chain N (EC 1.6.5.3)
-acI-B,group00062,589.748025497,9.20395487304,39.3085787452,"UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase (EC 6.3.2.13)"
-acI-B,group00063,3307.39770984,11.6914808226,68.1177976953,Carbamoyl-phosphate synthase small chain (EC 6.3.5.5)
-acI-B,group00064,2014.27945759,10.9760481389,60.1792573624,3-ketoacyl-CoA thiolase (EC 2.3.1.16)
-acI-B,group00065,18095.670085,14.1433569114,88.6043533931,"Phosphate starvation-inducible protein PhoH, predicted ATPase"
-acI-B,group00066,7277.0802089,12.829143997,78.6171574904,Chaperone protein DnaJ
-acI-B,group00067,6704.87050359,12.7109937532,77.0806658131,Translation elongation factor LepA
-acI-B,group00068,1835.58580009,10.842024836,58.3866837388,1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)
-acI-B,group00070,104.322099951,6.70490100546,2.56081946223,Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)
-acI-B,group00071,810.812990107,9.66322539231,44.814340589,Glycerol kinase (EC 2.7.1.30)
-acI-B,group00072,261.676168876,8.03163873239,22.1510883483,Cell division protein FtsI Peptidoglycan synthetase (EC 2.4.1.129)
-acI-B,group00073,7324.20511933,12.83845648,79.1293213828,Glutamate-1-semialdehyde aminotransferase (EC 5.4.3.8)
-acI-B,group00074,147.809174043,7.2075920055,7.17029449424,tRNA nucleotidyltransferase (EC 2.7.7.27)
-acI-B,group00075,2290.4153685,11.1613935405,63.252240717,Cytoplasmic axial filament protein CafA and Ribonuclease G (EC 3.1.4.-)
-acI-B,group00076,2097.83175497,11.0346832638,61.3316261204,Dihydrolipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex (EC 2.3.1.168)
-acI-B,group00077,1540.68320501,10.5893545303,55.4417413572,Nitrogen regulatory protein P-II
-acI-B,group00078,153.076445594,7.25810849718,8.19462227913,GTP-binding protein Obg
-acI-B,group00079,512.744496772,9.00209629228,36.1075544174,5-methyltetrahydrofolate--homocysteine methyltransferase (EC 2.1.1.13)
-acI-B,group00081,3676.5678252,11.8441438846,70.166453265,Phosphate transport ATP-binding protein PstB (TC 3.A.1.7.1)
-acI-B,group00083,6890.708919,12.7504367003,77.3367477593,NADH-ubiquinone oxidoreductase chain L (EC 1.6.5.3)
-acI-B,group00084,324.682135465,8.34288419717,28.0409731114,tRNA-i(6)A37 methylthiotransferase
-acI-B,group00088,879.502912454,9.78054454493,45.8386683739,Isoleucyl-tRNA synthetase (EC 6.1.1.5)
-acI-B,group00089,9487.01039965,13.2117378133,82.9705505762,Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
-acI-B,group00090,312417.724887,18.2531167809,98.4635083227,None Provided
-acI-B,group00091,279.581007059,8.12712254637,23.8156209987,Diaminopimelate decarboxylase (EC 4.1.1.20)
-acI-B,group00092,8462.95181579,13.0469452373,81.0499359795,Transcription termination factor Rho
-acI-B,group00093,19037.0104058,14.2165193135,89.1165172855,"LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-dependent"
-acI-B,group00096,1322.08446235,10.3685986321,51.9846350832,Integral membrane protein TerC
-acI-B,group00097,214.158904514,7.74253785407,16.2612035851,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
-acI-B,group00098,353.503033087,8.46557878331,29.5774647887,Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
-acI-B,group00099,1670.24252509,10.705841887,57.1062740077,4-hydroxy-tetrahydrodipicolinate synthase (EC 4.3.3.7)
-acI-B,group00100,168.788981526,7.39907691836,11.1395646607,Ribonuclease J2 (endoribonuclease in RNA processing)
-acI-B,group00101,7444.69549932,12.861997126,79.3854033291,"Signal recognition particle, subunit Ffh SRP54 (TC 3.A.5.1.1)"
-acI-B,group00102,152.672995961,7.25430109776,8.06658130602,"D-Lactate dehydrogenase, cytochrome c-dependent (EC 1.1.2.4)"
-acI-B,group00103,3589.71524285,11.8096536903,69.9103713188,Thioredoxin
-acI-B,group00104,10524.9048637,13.3615195721,84.3790012804,Aspartyl-tRNA synthetase (EC 6.1.1.12) @ Aspartyl-tRNA(Asn) synthetase (EC 6.1.1.23)
-acI-B,group00105,161.840561124,7.33842941682,10.2432778489,Cysteine desulfurase (EC 2.8.1.7)
-acI-B,group00106,5714.75220589,12.4804752286,75.5441741357,Histidyl-tRNA synthetase (EC 6.1.1.21)
-acI-B,group00107,2153.26231852,11.0723083694,61.7157490397,Glycine dehydrogenase decarboxylating (glycine cleavage system P protein) (EC 1.4.4.2)
-acI-B,group00108,899.540015536,9.81304365016,45.966709347,Membrane alanine aminopeptidase N (EC 3.4.11.2)
-acI-B,group00109,168.33289679,7.39517333554,11.0115236876,D-alanine--D-alanine ligase (EC 6.3.2.4)
-acI-B,group00111,4893.7728063,12.2567314104,73.6235595391,"Hypothetical radical SAM family enzyme in heat shock gene cluster, similarity with CPO of BS HemN-type"
-acI-B,group00112,373.496286943,8.54495009052,30.8578745198,Succinate dehydrogenase flavoprotein subunit (EC 1.3.99.1)
-acI-B,group00113,4074.64199444,11.9924575917,70.9346991037,UPF0182 protein AF1421
-acI-B,group00115,239.550601432,7.90418662538,19.4622279129,Cell division protein FtsW
-acI-B,group00116,747.97452618,9.54684532676,43.5339308579,Leucyl-tRNA synthetase (EC 6.1.1.4)
-acI-B,group00117,198.954534587,7.6362949712,14.7247119078,DNA primase (EC 2.7.7.-)
-acI-B,group00118,2556.44598867,11.3199238305,64.7887323944,Serine hydroxymethyltransferase (EC 2.1.2.1)
-acI-B,group00119,533.643378844,9.05973213497,36.747759283,Undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase (EC 2.7.8.-)
-acI-B,group00120,300.138754005,8.22948580195,25.6081946223,Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
-acI-B,group00122,214.338756679,7.74374893113,16.3892445583,UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
-acI-B,group00123,2018.68864515,10.9792026967,60.3072983355,Protein export cytoplasm protein SecA ATPase RNA helicase (TC 3.A.5.1.1)
-acI-B,group00124,853.851353858,9.73784112412,45.5825864277,Aspartyl-tRNA(Asn) amidotransferase subunit A (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit A (EC 6.3.5.7)
-acI-B,group00125,444.311720293,8.79542838781,34.0588988476,"COG1399 protein, clustered with ribosomal protein L32p"
-acI-B,group00126,8618.92566361,13.0732923354,81.1779769526,Magnesium and cobalt efflux protein CorC
-acI-B,group00127,8340.95925473,13.0259975955,80.5377720871,None Provided
-acI-B,group00128,33.2882345988,5.05694045581,0.0,Transcription-repair coupling factor
-acI-B,group00129,16518.6075601,14.0118044591,87.8361075544,Uracil phosphoribosyltransferase (EC 2.4.2.9) / Pyrimidine operon regulatory protein PyrR
-acI-B,group00131,580.387199826,9.18087189155,38.6683738796,DNA translocase FtsK
-acI-B,group00133,643.584766076,9.32998636704,40.9731113956,"ABC transporter, ATP-binding/permease protein"
-acI-B,group00134,361.720078304,8.49872987089,30.3457106274,Phosphatidate cytidylyltransferase (EC 2.7.7.41)
-acI-B,group00135,1600.80242669,10.644579544,55.8258642766,None Provided
-acI-B,group00136,411.390968456,8.68436631152,33.290653009,"GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I"
-acI-B,group00137,176.470659941,7.46328453034,11.7797695262,NADH-ubiquinone oxidoreductase chain E (EC 1.6.5.3)
-acI-B,group00138,266.565537952,8.05834646818,22.4071702945,"Cysteine desulfurase (EC 2.8.1.7), SufS subfamily"
-acI-B,group00139,141.603250705,7.14571057471,6.27400768246,Glutamate synthase NADPH small chain (EC 1.4.1.13)
-acI-B,group00141,119.266233453,6.89804183612,4.09731113956,DNA polymerase I (EC 2.7.7.7)
-acI-B,group00142,8011.84657635,12.967919079,80.1536491677,ABC transporter ATP-binding protein
-acI-B,group00144,67809.7417421,16.0492049295,96.1587708067,None Provided
-acI-B,group00145,158.274910794,7.30628877222,9.34699103713,UDP-N-acetylmuramate--alanine ligase (EC 6.3.2.8)
-acI-B,group00146,231.208737054,7.85305210607,18.5659411012,"Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly"
-acI-B,group00147,9391.10250161,13.1970788228,82.71446863,Heat-inducible transcription repressor HrcA
-acI-B,group00148,336.51462857,8.39452541112,29.1933418694,Homoserine kinase (EC 2.7.1.39)
-acI-B,group00149,2699.71565182,11.3985917477,65.8130601793,HNH endonuclease family protein
-acI-B,group00150,4734.43873397,12.2089776895,73.2394366197,Aspartate carbamoyltransferase (EC 2.1.3.2)
-acI-B,group00151,23243.5623335,14.5045435742,91.1651728553,Translation elongation factor P
-acI-B,group00154,536.255659566,9.06677715847,37.0038412292,hypothetical protein
-acI-B,group00156,578.783674558,9.17688041889,38.5403329065,Aspartyl-tRNA(Asn) amidotransferase subunit B (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) amidotransferase subunit B (EC 6.3.5.7)
-acI-B,group00157,6899.22138861,12.7522178404,77.4647887324,FIG004453: protein YceG like
-acI-B,group00158,223.4324416,7.80369486502,17.9257362356,None Provided
-acI-B,group00159,550.341156861,9.10418241337,38.0281690141,Ribosome recycling factor
-acI-B,group00160,2362.58889343,11.206152897,63.6363636364,Uridine monophosphate kinase (EC 2.7.4.22)
-acI-B,group00161,421.344922559,8.71885792979,33.4186939821,Cell division protein FtsH (EC 3.4.24.-)
-acI-B,group00162,2069.83575101,11.0153005738,61.2035851472,FIG005666: putative helicase
-acI-B,group00163,403.82296133,8.65757913426,32.9065300896,DNA polymerase III delta subunit (EC 2.7.7.7)
-acI-B,group00164,6914.41033444,12.7553905073,77.5928297055,LSU ribosomal protein L21p
-acI-B,group00165,303.209322025,8.24417029893,25.9923175416,ATP-dependent Clp protease ATP-binding subunit ClpX
-acI-B,group00166,15212.1364166,13.8929351612,87.4519846351,Ribonuclease III (EC 3.1.26.3)
-acI-B,group00167,513.011784748,9.00284815713,36.2355953905,Ribose 5-phosphate isomerase B (EC 5.3.1.6) / Galactose 6-phosphate isomerase
-acI-B,group00169,161.508328962,7.33546475619,10.1152368758,Pyrroline-5-carboxylate reductase (EC 1.5.1.2)
-acI-B,group00171,1008.46585752,9.97794652576,48.271446863,Chromosome (plasmid) partitioning protein ParB
-acI-B,group00172,234.886505671,7.87582002206,19.0781049936,UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)
-acI-B,group00173,2191.22861384,11.0975242952,62.3559539052,None Provided
-acI-B,group00174,1393.26189363,10.4442507537,53.1370038412,Multimodular transpeptidase-transglycosylase (EC 2.4.1.129) (EC 3.4.-.-)
-acI-B,group00175,181.775638553,7.50601505326,12.0358514725,Arginyl-tRNA synthetase (EC 6.1.1.19)
-acI-B,group00176,157.282174634,7.29721136387,9.09090909091,Ribosomal-protein-S5p-alanine acetyltransferase
-acI-B,group00177,675.709307354,9.400258917,42.2535211268,Phosphate transport system regulatory protein PhoU
-acI-B,group00179,129.387571739,7.01555523638,4.99359795134,Methionine ABC transporter ATP-binding protein
-acI-B,group00180,320.370860817,8.32359912383,27.6568501921,None Provided
-acI-B,group00181,1261.48980957,10.3009128368,51.0883482714,Xaa-Pro aminopeptidase (EC 3.4.11.9)
-acI-B,group00182,297.159380564,8.21509311365,25.2240717029,Rod shape-determining protein RodA
-acI-B,group00184,5191.15847748,12.3418408162,74.3918053777,"Anthranilate synthase, aminase component (EC 4.1.3.27)"
-acI-B,group00185,973.727587322,9.92737440624,47.2471190781,Cell division inhibitor
-acI-B,group00186,9126.17751387,13.1557950007,82.2023047375,Glutamyl-tRNA synthetase (EC 6.1.1.17) @ Glutamyl-tRNA(Gln) synthetase (EC 6.1.1.24)
-acI-B,group00187,3146.86622757,11.619700136,67.7336747759,Solanesyl diphosphate synthase (EC 2.5.1.11)
-acI-B,group00190,48595.3093435,15.5685294441,94.8783610755,SSU ribosomal protein S20p
-acI-B,group00191,80290.2309285,16.2929368424,96.542893726,"Phosphate ABC transporter, periplasmic phosphate-binding protein PstS (TC 3.A.1.7.1)"
-acI-B,group00192,2204.72497898,11.1063829875,62.7400768246,3-isopropylmalate dehydratase large subunit (EC 4.2.1.33)
-acI-B,group00193,138.055261053,7.10910205743,5.76184379001,GTP-binding protein HflX
-acI-B,group00194,7284.93205508,12.8306998013,78.8732394366,NADH-ubiquinone oxidoreductase chain G (EC 1.6.5.3)
-acI-B,group00195,1801.94603789,10.8153400927,58.0025608195,LSU ribosomal protein L27p
-acI-B,group00196,68012.4524229,16.0535112936,96.2868117798,SSU ribosomal protein S16p
-acI-B,group00197,143.950314495,7.1694271306,6.53008962868,GTP-binding protein Era
-acI-B,group00198,1495.16938018,10.546093214,54.8015364917,Homoserine dehydrogenase (EC 1.1.1.3)
-acI-B,group00199,387.392931118,8.59765381864,31.8822023047,"Transcriptional regulator, TetR family"
-acI-B,group00201,376.930689409,8.55815545269,31.1139564661,Peptide methionine sulfoxide reductase MsrA (EC 1.8.4.11)
-acI-B,group00202,1335.71764217,10.3833993529,52.4967989757,FIG000859: hypothetical protein YebC
-acI-B,group00204,2157.76897096,11.0753246906,61.8437900128,Acetolactate synthase large subunit (EC 2.2.1.6)
-acI-B,group00205,24551.7740017,14.5835396506,91.8053777209,RecA protein
-acI-B,group00206,4806.14154122,12.2306634212,73.4955185659,Tryptophan synthase beta chain (EC 4.2.1.20)
-acI-B,group00208,18977.2828527,14.2119858231,88.9884763124,3-dehydroquinate dehydratase II (EC 4.2.1.10)
-acI-B,group00209,129.886302923,7.0211054901,5.12163892446,N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28)
-acI-B,group00211,170.947112182,7.41740624123,11.3956466069,Cell division protein FtsI Peptidoglycan synthetase (EC 2.4.1.129)
-acI-B,group00212,239.857936427,7.90603636605,19.590268886,UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)
-acI-B,group00213,458.040382105,8.83933098568,34.5710627401,Signal peptidase I (EC 3.4.21.89)
-acI-B,group00214,8386.94603862,13.0339298585,80.6658130602,Single-stranded DNA-binding protein
-acI-B,group00216,1403.50717898,10.454820728,53.2650448143,Replicative DNA helicase (DnaB) (EC 3.6.4.12)
-acI-B,group00217,272.99958506,8.09275494813,23.3034571063,Tryptophan synthase alpha chain (EC 4.2.1.20)
-acI-B,group00218,1489.4907859,10.5406034837,54.4174135723,1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate synthase (EC 1.17.7.1)
-acI-B,group00219,8449.27201947,13.0446113303,80.7938540333,Translation elongation factor Ts
-acI-B,group00225,482.432726518,8.91418396763,35.0832266325,Branched-chain amino acid aminotransferase (EC 2.6.1.42)
-acI-B,group00227,8874.3902592,13.115432283,81.8181818182,Guanylate kinase (EC 2.7.4.8)
-acI-B,group00229,218.415138784,7.77092904554,17.1574903969,Sensor histidine kinase MtrB (EC 2.7.3.-)
-acI-B,group00230,83.9741570295,6.391873503,1.152368758,DNA ligase (EC 6.5.1.2)
-acI-B,group00234,151.29531454,7.24122349924,7.93854033291,5-Enolpyruvylshikimate-3-phosphate synthase (EC 2.5.1.19)
-acI-B,group00235,722.227119928,9.49630878488,43.2778489117,Triosephosphate isomerase (EC 5.3.1.1)
-acI-B,group00237,2719.61340255,11.4091858693,66.0691421255,Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
-acI-B,group00238,506.956019864,8.98571678379,35.9795134443,Transcription elongation factor GreA
-acI-B,group00239,755.831377899,9.56192060226,43.7900128041,4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)
-acI-B,group00240,184.378214292,7.52652439007,12.4199743918,3-isopropylmalate dehydrogenase (EC 1.1.1.85)
-acI-B,group00242,1411.01576517,10.4625183918,53.3930857875,Pyruvate dehydrogenase E1 component (EC 1.2.4.1)
-acI-B,group00244,5501.32331832,12.4255629788,75.0320102433,Cell division protein FtsZ (EC 3.4.24.-)
-acI-B,group00246,145.432317614,7.18420408682,6.7861715749,3-isopropylmalate dehydratase small subunit (EC 4.2.1.33)
-acI-B,group00248,322.628751167,8.33373120024,27.9129321383,rRNA small subunit methyltransferase H
-acI-B,group00249,118.817596048,6.8926046947,3.96927016645,1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
-acI-B,group00250,15541.5355119,13.9238414294,87.5800256082,SSU ribosomal protein S2p (SAe)
-acI-B,group00254,2174.72936641,11.086620161,62.099871959,Phosphate transport system permease protein PstA (TC 3.A.1.7.1)
-acI-B,group00255,440.901127826,8.78431135715,33.8028169014,Biotin carboxylase of acetyl-CoA carboxylase (EC 6.3.4.14) / Biotin carboxyl carrier protein of acetyl-CoA carboxylase
-acI-B,group00256,51004.8869932,15.6383478639,95.1344430218,Ribonucleotide reductase of class II (coenzyme B12-dependent) (EC 1.17.4.1)
-acI-B,group00257,6432.33188524,12.651126131,76.9526248399,Protein-export membrane protein SecD (TC 3.A.5.1.1)
-acI-B,group00258,7246.50300644,12.8230692367,78.3610755442,Ribosomal RNA small subunit methyltransferase E (EC 2.1.1.-)
-acI-B,group00259,74.6957680302,6.22295460276,0.89628681178,hypothetical protein
-acI-B,group00260,155.596941963,7.28166989625,8.45070422535,FIG004853: possible toxin to DivIC
-acI-B,group00262,7566.66246838,12.8854413759,79.5134443022,Nucleoside diphosphate kinase (EC 2.7.4.6)
-acI-B,group00263,336.113986085,8.39280676585,29.0653008963,4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.1.2)
-acI-B,group00265,7161.29306612,12.8060043933,78.104993598,NADH-ubiquinone oxidoreductase chain M (EC 1.6.5.3)
-acI-B,group00266,269.07186614,8.07184774203,22.9193341869,Deoxyribodipyrimidine photolyase (EC 4.1.99.3)
-acI-B,group00267,200.133701618,7.64482032085,14.980793854,Phosphomannomutase (EC 5.4.2.8)
-acI-B,group00268,529.601082583,9.04876226101,36.6197183099,Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
-acI-B,group00269,3062.79159369,11.5806314874,67.2215108835,ATP synthase F0 sector subunit a (EC 3.6.3.14)
-acI-B,group00270,250.022760742,7.96591562592,20.6145966709,Lipoate synthase
-acI-B,group00271,586.05950429,9.19490334279,39.1805377721,None Provided
-acI-B,group00272,8983.90801132,13.1331274403,81.9462227913,ATP synthase beta chain (EC 3.6.3.14)
-acI-B,group00273,11586.6243694,13.5001726944,85.019206146,3-dehydroquinate synthase (EC 4.2.3.4)
-acI-B,group00274,14016.3244559,13.7748204561,87.0678617157,Chorismate synthase (EC 4.2.3.5)
-acI-B,group00275,9510.66332768,13.215330251,83.0985915493,4-aminobutyraldehyde dehydrogenase (EC 1.2.1.19)
-acI-B,group00278,1288.04017975,10.3309618829,51.728553137,2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase II (EC 2.5.1.54)
-acI-B,group00280,13119.0930515,13.6793803666,85.9154929577,"SSU ribosomal protein S18p @ SSU ribosomal protein S18p, zinc-dependent"
-acI-B,group00281,3540.55941969,11.7897616134,69.5262483995,SSU ribosomal protein S6p
-acI-B,group00282,740.888312659,9.53311226548,43.4058898848,Glucosamine--fructose-6-phosphate aminotransferase isomerizing (EC 2.6.1.16)
-acI-B,group00284,13089.2351921,13.6760931822,85.7874519846,"Pyridoxine biosynthesis glutamine amidotransferase, synthase subunit (EC 2.4.2.-)"
-acI-B,group00296,1900.88111869,10.8924525932,58.8988476312,S-adenosylmethionine synthetase (EC 2.5.1.6)
-acI-B,group00297,3122.17407315,11.60833526,67.4775928297,DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)
-acI-B,group00299,149.152646245,7.22064576376,7.68245838668,Hydroxyacylglutathione hydrolase (EC 3.1.2.6)
-acI-B,group00300,9935.28028415,13.2783449526,83.6107554417,NADH-ubiquinone oxidoreductase chain H (EC 1.6.5.3)
-acI-B,group00301,109.264527182,6.77168129468,3.20102432778,Phosphate regulon sensor protein PhoR (SphS) (EC 2.7.13.3)
-acI-B,group00303,3583.18658472,11.8070274546,69.7823303457,Sporulation regulatory protein WhiB
-acI-B,group00305,98.7553691608,6.62578728206,2.17669654289,Ribosome small subunit-stimulated GTPase EngC
-acI-B,group00306,481.623695676,8.91176256359,34.9551856594,"Pyridoxine biosynthesis glutamine amidotransferase, glutaminase subunit (EC 2.4.2.-)"
-acI-B,group00309,5764.82692861,12.4930615807,75.6722151088,Shikimate kinase I (EC 2.7.1.71)
-acI-B,group00312,147.328815203,7.20289581625,6.91421254802,"Hypothetical protein YggS, proline synthase co-transcribed bacterial homolog PROSC"
-acI-B,group00313,8633.24906493,13.0756878948,81.3060179257,Twin-arginine translocation protein TatC
-acI-B,group00314,191.890837426,7.58414201587,13.3162612036,FIG019733: possible DNA-binding protein
-acI-B,group00317,194.353447565,7.60253888912,13.7003841229,Glycerol-3-phosphate dehydrogenase NAD(P)+ (EC 1.1.1.94)
-acI-B,group00318,3126.15408773,11.610173175,67.6056338028,Translation initiation factor 2
-acI-B,group00319,1847.59446124,10.851432411,58.5147247119,Glycyl-tRNA synthetase (EC 6.1.1.14)
-acI-B,group00320,219.206078358,7.77614399307,17.4135723431,Indole-3-glycerol phosphate synthase (EC 4.1.1.48)
-acI-B,group00322,8256.19347374,13.0112610636,80.409731114,LSU ribosomal protein L25p
-acI-B,group00323,2579.40817612,11.3328243738,64.9167733675,Iron-sulfur cluster assembly ATPase protein SufC
-acI-B,group00324,268.401348563,8.06824811005,22.7912932138,Geranylgeranyl diphosphate synthase (EC 2.5.1.29)
-acI-B,group00326,914.082805045,9.83618105201,46.4788732394,None Provided
-acI-B,group00328,161.332903169,7.33389688988,9.98719590269,Methionine aminopeptidase (EC 3.4.11.18)
-acI-B,group00329,10258.1569291,13.3244839265,83.866837388,Ketol-acid reductoisomerase (EC 1.1.1.86)
-acI-B,group00333,17036.1370328,14.0563106191,88.47631242,hypothetical protein
-acI-B,group00335,26712.4037212,14.7052221826,92.1895006402,None Provided
-acI-B,group00337,158.434797175,7.30774542039,9.47503201024,UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98)
-acI-B,group00338,258.712885201,8.01520809905,21.5108834827,None Provided
-acI-B,group00340,248.543779541,7.95735618628,20.2304737516,DNA repair protein RadA
-acI-B,group00345,193.505581926,7.5962313732,13.4443021767,Peptide chain release factor 2
-acI-B,group00346,333.801992262,8.38284875507,28.9372599232,"Cell division transporter, ATP-binding protein FtsE (TC 3.A.5.1.1)"
-acI-B,group00347,361.419401241,8.49753014291,30.0896286812,Cell division protein FtsX
-acI-B,group00348,649.579840722,9.34336304991,41.4852752881,NADH-ubiquinone oxidoreductase chain D (EC 1.6.5.3)
-acI-B,group00349,6361.0928385,12.6350589271,76.5685019206,NADH-ubiquinone oxidoreductase chain J (EC 1.6.5.3)
-acI-B,group00350,5542.99879388,12.4364509784,75.1600512164,Adenosylhomocysteinase (EC 3.3.1.1)
-acI-B,group00352,1170.39439181,10.1927790463,50.0640204866,Methylmalonate-semialdehyde dehydrogenase inositol (EC 1.2.1.27)
-acI-B,group00354,241.098403124,7.91347828529,19.7183098592,Ribosomal RNA large subunit methyltransferase N (EC 2.1.1.-)
-acI-B,group00355,1195.88790798,10.223866455,50.7042253521,hypothetical protein
-acI-B,group00356,1425.18425164,10.4769327315,53.6491677337,L-lactate dehydrogenase (EC 1.1.2.3)
-acI-B,group00357,644.695531066,9.33247417275,41.357234315,Threonyl-tRNA synthetase (EC 6.1.1.3)
-acI-B,group00360,4365.88330808,12.092057855,72.3431498079,L-cysteine:1D-myo-inosityl 2-amino-2-deoxy-alpha-D-glucopyranoside ligase MshC
-acI-B,group00362,209.13763443,7.70830888881,15.7490396927,Holliday junction DNA helicase RuvB
-acI-B,group00363,200.773369804,7.64942411544,15.2368758003,Phosphatidylinositol alpha-mannosyltransferase (EC 2.4.1.57)
-acI-B,group00365,190.735442166,7.5754291377,13.1882202305,tRNA-specific 2-thiouridylase MnmA
-acI-B,group00368,309.829629365,8.27533130709,26.6325224072,None Provided
-acI-B,group00369,1267.8513336,10.3081698717,51.2163892446,ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)
-acI-B,group00371,13478.9085693,13.7184160611,86.5556978233,LSU ribosomal protein L19p
-acI-B,group00372,183.121838442,7.51666004172,12.1638924456,Methionyl-tRNA synthetase (EC 6.1.1.10)
-acI-B,group00373,300.244383217,8.22999344693,25.7362355954,Dihydroxy-acid dehydratase (EC 4.2.1.9)
-acI-B,group00377,160.594561884,7.32727923035,9.73111395647,tRNA (adenine(58)-N(1))-methyltransferase (EC 2.1.1.220)
-acI-B,group00378,11190.6561705,13.4500070116,84.6350832266,NADH-ubiquinone oxidoreductase chain I (EC 1.6.5.3)
-acI-B,group00379,13441.4134299,13.714397232,86.4276568502,SSU ribosomal protein S1p
-acI-B,group00380,7035.705633,12.7804794078,77.7208706786,ATP synthase gamma chain (EC 3.6.3.14)
-acI-B,group00381,2435.82368125,11.2501939912,63.8924455826,Protein-export membrane protein SecF (TC 3.A.5.1.1)
-acI-B,group00382,133.481200714,7.06049275905,5.50576184379,hypothetical protein
-acI-B,group00386,1067.73166409,10.0603334078,48.7836107554,Pyruvate kinase (EC 2.7.1.40)
-acI-B,group00387,1639.52070984,10.6790584101,56.8501920615,NADH-ubiquinone oxidoreductase chain C (EC 1.6.5.3)
-acI-B,group00388,9898.8383888,13.2730435221,83.3546734955,ATP synthase delta chain (EC 3.6.3.14)
-acI-B,group00390,266.925839223,8.06029515923,22.5352112676,DNA recombination protein RmuC
-acI-B,group00391,8835.87104324,13.1091566478,81.6901408451,"Serine/threonine protein kinase PrkC, regulator of stationary phase"
-acI-B,group00392,32413.9763913,14.984328394,92.9577464789,Putrescine ABC transporter putrescine-binding protein PotF (TC 3.A.1.11.2)
-acI-B,group00393,1330.1694494,10.3773943261,52.2407170294,Ornithine carbamoyltransferase (EC 2.1.3.3)
-acI-B,group00394,395.151268241,8.62626122829,32.3943661972,Holliday junction DNA helicase RuvA
-acI-B,group00396,1667.35622226,10.7033466464,56.9782330346,2-oxoglutarate dehydrogenase E1 component (EC 1.2.4.2)
-acI-B,group00397,950.602661484,9.89269863066,46.9910371319,GTP-binding protein TypA/BipA
-acI-B,group00399,270.460440323,8.0792737793,23.0473751601,Cell division trigger factor (EC 5.2.1.8)
-acI-B,group00403,840.805048302,9.71562752123,45.3265044814,ATP:Cob(I)alamin adenosyltransferase (EC 2.5.1.17)
-acI-B,group00404,7704.59356845,12.9115031386,79.8975672215,LSU ribosomal protein L20p
-acI-B,group00406,1327.97247161,10.3750095251,52.1126760563,Cytochrome c oxidase polypeptide III (EC 1.9.3.1)
-acI-B,group00407,84.4569909035,6.40014494153,1.28040973111,Membrane-associated zinc metalloprotease
-acI-B,group00408,24354.952125,14.5719275268,91.6773367478,ATP synthase alpha chain (EC 3.6.3.14)
-acI-B,group00409,5012.94382907,12.2914423532,74.1357234315,LSU ribosomal protein L9p
-acI-B,group00410,13591.4130052,13.7304078305,86.8117797695,Prolipoprotein diacylglyceryl transferase (EC 2.4.99.-)
-acI-B,group00411,924.910350866,9.85316972553,46.7349551857,ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)
-acI-B,group00412,2052.79147198,11.0033713668,60.6914212548,Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)
-acI-B,group00413,5232.40269255,12.3532578615,74.5198463508,NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)
-acI-B,group00415,1289.54627434,10.3326478287,51.8565941101,"transcriptional regulator, MerR family"
-acI-B,group00416,3080.41352949,11.5889083229,67.3495518566,"Ubiquinol--cytochrome c reductase, cytochrome B subunit (EC 1.10.2.2)"
-acI-B,group00417,749.789562934,9.55034193323,43.661971831,DNA topoisomerase I (EC 5.99.1.2)
-acI-B,group00418,90.1468176814,6.49420465813,1.53649167734,DNA polymerase III delta prime subunit (EC 2.7.7.7)
-acI-B,group00419,386.455117567,8.59415706079,31.7541613316,Threonine synthase (EC 4.2.3.1)
-acI-B,group00421,1008.93575307,9.97861859421,48.3994878361,Cytochrome c oxidase polypeptide II (EC 1.9.3.1)
-acI-B,group00427,10590.0523816,13.3704221049,84.5070422535,Chaperone protein DnaK
-acI-B,group00430,2218.41942004,11.1153164356,62.9961587708,Argininosuccinate synthase (EC 6.3.4.5)
-acI-B,group00432,1163.15456462,10.1838271053,49.9359795134,Cysteine synthase (EC 2.5.1.47)
-acI-B,group00433,1631.02281134,10.6715612443,56.4660691421,None Provided
-acI-B,group00434,18881.9435674,14.2047196522,88.8604353393,D-xylose transport ATP-binding protein XylG
-acI-B,group00436,107693.556376,16.7165724062,97.3111395647,SSU ribosomal protein S15p (S13e)
-acI-B,group00437,619.712283509,9.27545475447,40.204865557,(R)-citramalate synthase (EC 2.3.1.182)
-acI-B,group00439,220.908273965,7.78730364461,17.5416133163,response regulator
-acI-B,group00443,602.058423158,9.23375968126,39.6927016645,ATP synthase epsilon chain (EC 3.6.3.14)
-acI-B,group00445,2032.69204838,10.989175949,60.5633802817,Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)
-acI-B,group00450,394.026712287,8.62214962752,32.2663252241,Acetolactate synthase small subunit (EC 2.2.1.6)
-acI-B,group00451,987.824510586,9.94811095608,47.6312419974,Potassium channel beta chain
-acI-B,group00452,355.350293546,8.47309808085,29.833546735,Rod shape-determining protein MreC
-acI-B,group00453,237.854671413,7.89393654956,19.3341869398,Putrescine transport system permease protein PotH (TC 3.A.1.11.2)
-acI-B,group00455,547.573157158,9.09690791507,37.7720870679,Isocitrate dehydrogenase NADP (EC 1.1.1.42)
-acI-B,group00457,636.199188489,9.31333472141,40.7170294494,Phosphoglucosamine mutase (EC 5.4.2.10)
-acI-B,group00458,6402.66417432,12.6444566259,76.6965428937,FIG021292: hypothetical protein
-acI-B,group00459,1612.07206433,10.6547005227,56.0819462228,N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
-acI-B,group00461,22732.0428567,14.47243972,90.9090909091,Translation initiation factor 3
-acI-B,group00462,1940.36651622,10.9221134738,59.4110115237,RNA-binding protein Jag
-acI-B,group00463,1155.62268564,10.174454715,49.6798975672,DNA polymerase III beta subunit (EC 2.7.7.7)
-acI-B,group00464,157.005047154,7.29466712715,8.70678617157,3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11)
-acI-B,group00465,10423.7357585,13.3475847967,84.1229193342,Segregation and condensation protein A
-acI-B,group00469,330.819771484,8.36990164971,28.5531370038,Heat shock protein GrpE
-acI-B,group00473,991.830597317,9.953949922,47.8873239437,protein of unknown function UPF0118
-acI-B,group00474,1142.44993762,10.1579152321,49.5518565941,Enoyl-CoA hydratase (EC 4.2.1.17)
-acI-B,group00477,245.449488622,7.93928235072,20.1024327785,Transcription termination protein NusA
-acI-B,group00478,185.044277925,7.53172671402,12.5480153649,"Signal transduction histidine kinase, subgroup 2"
-acI-B,group00479,314.478815047,8.2968190226,26.7605633803,PLP-dependent aminotransferase NCgl2355 (class III)
-acI-B,group00481,143.132658111,7.16120907441,6.40204865557,Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
-acI-B,group00483,1615.14255424,10.657445789,56.2099871959,Dihydrolipoamide dehydrogenase of branched-chain alpha-keto acid dehydrogenase (EC 1.8.1.4)
-acI-B,group00486,226.58985244,7.82393944298,18.1818181818,GTP-binding and nucleic acid-binding protein YchF
-acI-B,group00494,1561.82076243,10.6090131812,55.5697823303,"Inner membrane protein translocase component YidC, long form"
-acI-B,group00499,9060.08733757,13.1453092423,82.0742637644,Iron-sulfur cluster assembly protein SufB
-acI-B,group00504,291.762228352,8.18864931327,24.7119078105,Pyridoxamine 5-phosphate oxidase (EC 1.4.3.5)
-acI-B,group00506,13399.4371906,13.7098847848,86.2996158771,ATP synthase F0 sector subunit c (EC 3.6.3.14)
-acI-B,group00507,37755.9198928,15.2044152473,93.9820742638,ATP synthase F0 sector subunit b (EC 3.6.3.14)
-acI-B,group00510,258.739474795,8.01535636651,21.7669654289,Permease of the drug/metabolite transporter (DMT) superfamily
-acI-B,group00511,976.097796392,9.93088189013,47.5032010243,Aspartate aminotransferase (AspB-4) (EC 2.6.1.1)
-acI-B,group00513,644.143339683,9.33123795333,41.2291933419,Gamma-glutamyl phosphate reductase (EC 1.2.1.41)
-acI-B,group00516,9753.61281702,13.2517209884,83.2266325224,Branched-chain amino acid transport system permease protein LivM (TC 3.A.1.4.1)
-acI-B,group00517,1696.27872538,10.7281575316,57.3623559539,Chromosomal replication initiator protein DnaA
-acI-B,group00522,42910.807016,15.3890534134,94.4942381562,"SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-dependent"
-acI-B,group00523,16963.7323766,14.0501660075,88.3482714469,SSU ribosomal protein S9p (S16e)
-acI-B,group00525,120.89287833,6.91758544925,4.22535211268,Septum formation protein Maf
-acI-B,group00528,214.476703028,7.74467713703,16.5172855314,Thymidylate kinase (EC 2.7.4.9)
-acI-B,group00529,698.647198568,9.44842030007,42.7656850192,sensor histidine kinase
-acI-B,group00531,224.218822849,7.80876358518,18.0537772087,Multidrug resistance protein ErmB
-acI-B,group00539,289.736089927,8.17859558966,24.4558258643,Alpha-glucosidase (EC 3.2.1.20)
-acI-B,group00540,3491.51277557,11.7696365363,69.1421254802,"Nucleoside ABC transporter, permease protein 2"
-acI-B,group00541,5107.97931342,12.318536967,74.2637644046,"Nucleoside ABC transporter, permease protein 1"
-acI-B,group00543,3820.92779682,11.8997072803,70.6786171575,SOS-response repressor and protease LexA (EC 3.4.21.88)
-acI-B,group00545,231.223223362,7.85314249482,18.6939820743,Lauroyl/myristoyl acyltransferase involved in lipid A biosynthesis (Lauroyl/myristoyl acyltransferase)
-acI-B,group00546,438.627229925,8.7768515669,33.6747759283,Homoserine O-acetyltransferase (EC 2.3.1.31)
-acI-B,group00547,2356.08976999,11.2021787934,63.5083226633,Iron-sulfur cluster assembly protein SufD
-acI-B,group00548,356.939470462,8.47953563358,29.9615877081,"Transcriptional regulator, IclR family"
-acI-B,group00550,1201.23329183,10.2303006491,50.8322663252,NAD(P) transhydrogenase alpha subunit (EC 1.6.1.2)
-acI-B,group00551,2953.27356508,11.5280992858,66.8373879641,NAD(P) transhydrogenase subunit beta (EC 1.6.1.2)
-acI-B,group00552,13318.5843516,13.7011531243,86.0435339309,CarD-like transcriptional regulator
-acI-B,group00554,1184.3835992,10.2099207027,50.4481434059,2-isopropylmalate synthase (EC 2.3.3.13)
-acI-B,group00555,214.05345621,7.74182731994,16.0051216389,Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10)
-acI-B,group00557,19623.5476608,14.2602982636,89.628681178,DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
-acI-B,group00558,37907.047504,15.2101784721,94.1101152369,DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
-acI-B,group00559,96853.5636153,16.5635175117,96.7989756722,None Provided
-acI-B,group00566,396.179598306,8.63001077878,32.6504481434,None Provided
-acI-B,group00567,1074.02594702,10.068813132,48.9116517286,Ribosomal protein S12p Asp88 (E. coli) methylthiotransferase
-acI-B,group00569,298.382399662,8.22101862929,25.4801536492,Phosphoserine aminotransferase (EC 2.6.1.52)
-acI-B,group00572,770.089913585,9.58888309053,44.1741357234,WhiB-like transcription regulator
-acI-B,group00573,125.277594125,6.96898460176,4.4814340589,Deoxycytidine triphosphate deaminase (EC 3.5.4.13)
-acI-B,group00575,214.109695582,7.74220631689,16.133162612,"2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (EC 2.3.1.117)"
-acI-B,group00578,3524.34057973,11.7831376326,69.2701664533,Hemolysins and related proteins containing CBS domains
-acI-B,group00580,11943.8298457,13.5439778973,85.2752880922,LSU ribosomal protein L13p (L13Ae)
-acI-B,group00581,86.5249642868,6.43504453581,1.40845070423,Phosphoribosylaminoimidazole carboxylase ATPase subunit (EC 4.1.1.21)
-acI-B,group00586,4284.09978415,12.064776368,71.9590268886,probable iron binding protein from the HesB_IscA_SufA family
-acI-B,group00587,581.993390716,9.18485895934,38.7964148528,"Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)"
-acI-B,group00589,7422.38039191,12.8576662247,79.257362356,Endonuclease IV (EC 3.1.21.2)
-acI-B,group00590,131.116210316,7.03470225136,5.24967989757,Copper resistance protein D
-acI-B,group00593,56223.8452028,15.7788945039,95.5185659411,Ribonucleotide reductase transcriptional regulator NrdR
-acI-B,group00594,12769.0532412,13.6403639402,85.6594110115,SSU ribosomal protein S11p (S14e)
-acI-B,group00595,36589.3714012,15.1591370102,93.8540332907,SSU ribosomal protein S13p (S18e)
-acI-B,group00596,503.016171162,8.97446097088,35.7234314981,Ribonuclease PH (EC 2.7.7.56)
-acI-B,group00597,161.043485036,7.33130648789,9.85915492958,None Provided
-acI-B,group00598,845.924104487,9.72438442169,45.4545454545,"Rhodanese domain protein UPF0176, Actinobacterial subgroup"
-acI-B,group00599,537.504491468,9.0701329999,37.2599231754,Glucose-6-phosphate isomerase (EC 5.3.1.9)
-acI-B,group00601,720.22912299,9.49231212691,43.1498079385,Thiamine-monophosphate kinase (EC 2.7.4.16)
-acI-B,group00603,361.47550449,8.49775407554,30.2176696543,"ABC-type multidrug transport system, permease component"
-acI-B,group00604,288.571236111,8.17278369339,24.1997439181,None Provided
-acI-B,group00605,469.455217154,8.87484373089,34.6991037132,hypothetical protein
-acI-B,group00607,259.052478935,8.01710057892,21.895006402,"Prolyl-tRNA synthetase (EC 6.1.1.15), bacterial type"
-acI-B,group00608,657.554261942,9.36096614152,41.8693982074,"NADH:flavin oxidoreductases, Old Yellow Enzyme family"
-acI-B,group00609,250.277465375,7.96738458845,20.742637644,None Provided
-acI-B,group00610,33895.0612029,15.0487874554,93.2138284251,DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
-acI-B,group00611,4219.81709482,12.0429647523,71.5749039693,Preprotein translocase secY subunit (TC 3.A.5.1.1)
-acI-B,group00613,6272.54379992,12.6148349244,76.0563380282,"LSU ribosomal protein L33p @ LSU ribosomal protein L33p, zinc-dependent"
-acI-B,group00615,248.626065928,7.95783374608,20.3585147247,Adenosine deaminase (EC 3.5.4.4)
-acI-B,group00616,16608.4317943,14.0196282368,88.0921895006,Translation initiation factor 1
-acI-B,group00617,217.503121235,7.76489229399,17.0294494238,NAD(P) transhydrogenase alpha subunit (EC 1.6.1.2)
-acI-B,group00618,11474.3859615,13.4861293311,84.8911651729,LSU ribosomal protein L17p
-acI-B,group00626,254.395857968,7.99093137086,21.1267605634,None Provided
-acI-B,group00627,549.45550577,9.10185884801,37.900128041,None Provided
-acI-B,group00628,259.809931148,8.02131276815,22.0230473752,Peptide methionine sulfoxide reductase MsrB (EC 1.8.4.12)
-acI-B,group00629,198.309281975,7.63160839506,14.5966709347,hypothetical protein
-acI-B,group00632,2628.44081743,11.3599915359,65.1728553137,6-phosphofructokinase (EC 2.7.1.11)
-acI-B,group00634,19262.8585398,14.2335341894,89.2445582586,High-affinity branched-chain amino acid transport system permease protein LivH (TC 3.A.1.4.1)
-acI-B,group00637,974.781749498,9.92893543001,47.3751600512,UDP-glucose 6-dehydrogenase (EC 1.1.1.22)
-acI-B,group00638,216.754684444,7.75991936269,16.6453265045,FIG01122970: hypothetical protein
-acI-B,group00643,3730.9246161,11.8653174952,70.5505761844,Transcription antitermination protein NusG
-acI-B,group00644,7280.67382249,12.8298562619,78.7451984635,Deoxyribose-phosphate aldolase (EC 4.1.2.4)
-acI-B,group00646,135.109628461,7.07798668041,5.6338028169,hypothetical protein
-acI-B,group00649,32227.7698668,14.9760167382,92.8297055058,hypothetical protein
-acI-B,group00650,3291.09976824,11.6843540465,67.9897567222,hypothetical protein
-acI-B,group00651,131.520703611,7.03914611207,5.37772087068,Permease of the drug/metabolite transporter (DMT) superfamily
-acI-B,group00653,623.61337145,9.28450805225,40.4609475032,tRNA-guanine transglycosylase (EC 2.4.2.29)
-acI-B,group00654,8800.39815206,13.103353081,81.562099872,"Glycerol-3-phosphate ABC transporter, ATP-binding protein UgpC (TC 3.A.1.1.3)"
-acI-B,group00656,992.532210471,9.95497011232,48.0153649168,Protein rarD
-acI-B,group00657,23424.3203049,14.5157195659,91.4212548015,ATPase involved in DNA repair
-acI-B,group00659,45809.0321238,15.4833444607,94.7503201024,Twin-arginine translocation protein TatA
-acI-B,group00660,1186.90770417,10.2129920377,50.576184379,LemA protein
-acI-B,group00661,1466.85311318,10.5185086952,54.033290653,putative succinate dehydrogenase membrane anchor subunit (succinic dehydrogenase)
-acI-B,group00662,222.729906297,7.79915147385,17.7976952625,Cytidine deaminase (EC 3.5.4.5)
-acI-B,group00663,764.211242998,9.57782767241,44.0460947503,"Electron transfer flavoprotein, beta subunit"
-acI-B,group00664,113.998749014,6.83287418258,3.58514724712,Permease of the drug/metabolite transporter (DMT) superfamily
-acI-B,group00666,24689.2215766,14.5915937302,91.933418694,LSU ribosomal protein L10p (P0)
-acI-B,group00669,11971.5715032,13.5473249262,85.4033290653,LSU ribosomal protein L11p (L12e)
-acI-B,group00671,9408.19734887,13.1997026075,82.8425096031,WhiB-family transcriptional regulator
-acI-B,group00672,110.744838899,6.79109565543,3.3290653009,None Provided
-acI-B,group00673,675.869132744,9.40060011702,42.3815620999,hypothetical protein
-acI-B,group00674,3555.53444571,11.7958507177,69.6542893726,Gamma-aminobutyrate:alpha-ketoglutarate aminotransferase (EC 2.6.1.19)
-acI-B,group00675,327.556297879,8.35559907716,28.1690140845,None Provided
-acI-B,group00676,538.750947588,9.07347469148,37.3879641485,Predicted ATPase related to phosphate starvation-inducible protein PhoH
-acI-B,group00682,673.87160061,9.39632991648,42.1254801536,"Electron transfer flavoprotein, alpha subunit"
-acI-B,group00683,199.596908555,7.64094556552,14.8527528809,Galactose-1-phosphate uridylyltransferase (EC 2.7.7.10)
-acI-B,group00685,93.7668016154,6.55100531803,1.79257362356,Phytoene synthase (EC 2.5.1.32)
-acI-B,group00688,200.290178426,7.64594786762,15.1088348271,Adenylate kinase (EC 2.7.4.3)
-acI-B,group00691,157.916141813,7.30301483737,9.21895006402,NADH pyrophosphatase (EC 3.6.1.22)
-acI-B,group00693,218.841149527,7.7737402288,17.28553137,Glutamine synthetase type I (EC 6.3.1.2)
-acI-B,group00694,453.721742029,8.82566398406,34.443021767,None Provided
-acI-B,group00695,1607.86941689,10.6509345275,55.9539052497,"ubiquinol cytochrome C oxidoreductase, cytochrome C1 subunit"
-acI-B,group00696,716.135702452,9.48408918328,43.0217669654,Fe-S oxidoreductase
-acI-B,group00697,91.6562948266,6.51816206134,1.66453265045,O-antigen acetylase
-acI-B,group00698,271.106299013,8.08271482361,23.1754161332,Purine nucleoside phosphorylase (EC 2.4.2.1)
-acI-B,group00699,315.059484057,8.29948042871,26.8886043534,"Arginase/agmatinase/formimionoglutamate hydrolase, arginase family"
-acI-B,group00700,519.792570096,9.02179220188,36.4916773367,Thymidylate synthase thyX (EC 2.1.1.-)
-acI-B,group00701,10283.0193854,13.3279763224,83.9948783611,Phytoene dehydrogenase (EC 1.14.99.-)
-acI-B,group00704,138.150267884,7.11009454943,5.88988476312,probable DNA-binding protein
-acI-B,group00705,113.025807083,6.82050840932,3.45710627401,DNA repair helicase
-acI-B,group00709,23025.0475383,14.4909165145,91.0371318822,Translation elongation factor G
-acI-B,group00710,1486.92940387,10.5381204377,54.2893725992,possible chromosome condensation protein
-acI-B,group00712,72.2093060366,6.17411287255,0.768245838668,Cytosine/purine/uracil/thiamine/allantoin permease family protein
-acI-B,group00714,104.915180408,6.71307962951,2.81690140845,Phytoene dehydrogenase (EC 1.14.99.-)
-acI-B,group00715,6724.64436592,12.7152422572,77.2087067862,LSU ribosomal protein L15p (L27Ae)
-acI-B,group00716,176.704748413,7.46519699831,11.9078104994,D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)
-acI-B,group00717,150.584554271,7.23442998754,7.8104993598,"FIG007959: peptidase, M16 family"
-acI-B,group00718,49598.7753032,15.5980168775,95.0064020487,None Provided
-acI-B,group00719,5639.49093317,12.4613492236,75.2880921895,putative electron transport protein
-acI-B,group00721,1636.72836498,10.6765991935,56.5941101152,Ubiquinol-cytochrome C reductase iron-sulfur subunit (EC 1.10.2.2)
-acI-B,group00722,1500.89736909,10.5516096139,55.0576184379,Thymidine kinase (EC 2.7.1.21)
-acI-B,group00723,168.255509001,7.39450993192,10.8834827145,Phosphomannomutase (EC 5.4.2.8)
-acI-B,group00726,205.016481846,7.67959608644,15.4929577465,Octanoate-acyl-carrier-protein-protein-N-octanoyltransferase
-acI-B,group00727,333.726048517,8.38252048822,28.8092189501,Aquaporin Z
-acI-B,group00728,2497.44519785,11.2862373056,64.5326504481,None Provided
-acI-B,group00729,623.269549197,9.28371241913,40.3329065301,None Provided
-acI-B,group00731,212.782860411,7.73323813668,15.8770806658,Aminotransferase class-III
-acI-B,group00734,1942.37037698,10.923602609,59.5390524968,Glutamate racemase (EC 5.1.1.3)
-acI-B,group00737,560.694354808,9.13107073429,38.2842509603,ComA operon protein 2
-acI-B,group00738,201510.071687,17.6204924224,97.9513444302,Translation elongation factor Tu
-acI-B,group00739,9371.17219686,13.1940138039,82.5864276569,Pyrophosphate-energized proton pump (EC 3.6.1.1)
-acI-B,group00740,650.022497996,9.34434584205,41.7413572343,Alcohol dehydrogenase (EC 1.1.1.1)
-acI-B,group00748,231.021594253,7.85188390057,18.437900128,spoU rRNA methylase family protein
-acI-B,group00750,1375.36190186,10.4255955726,52.7528809219,Malate dehydrogenase (EC 1.1.1.37)
-acI-B,group00752,54.7040858201,5.77357668608,0.128040973111,ATP-dependent DNA helicase SCO5184
-acI-B,group00756,1581.92836357,10.6274685546,55.6978233035,Fumarate hydratase class I (EC 4.2.1.2)
-acI-B,group00757,8725.83942399,13.0910782096,81.4340588988,"LSU ribosomal protein L32p @ LSU ribosomal protein L32p, zinc-dependent"
-acI-B,group00763,256.990384745,8.005570572,21.2548015365,Thymidine phosphorylase (EC 2.4.2.4)
-acI-B,group00764,1786.21623999,10.8026910289,57.6184379001,LSU ribosomal protein L30p (L7e)
-acI-B,group00765,1171.78038872,10.1944864945,50.1920614597,1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)
-acI-B,group00768,95.0374610751,6.57042438996,1.92061459667,"Glycosyl transferase, family 2"
-acI-B,group00770,658.641127739,9.36334879119,41.9974391805,hypothetical protein
-acI-B,group00771,59734.2033264,15.8662696233,95.9026888604,LSU ribosomal protein L7/L12 (P1/P2)
-acI-B,group00772,990.164790266,9.95152483852,47.7592829706,"Transcriptional regulator, AsnC family"
-acI-B,group00774,1019863.08394,19.9599440535,99.3597951344,Proteorhodopsin
-acI-B,group00779,389.371911516,8.60500500455,32.138284251,None Provided
-acI-B,group00781,759.381632177,9.56868129344,43.9180537772,None Provided
-acI-B,group00783,388.743404692,8.60267438888,32.0102432778,Low-specificity L-threonine aldolase (EC 4.1.2.48)
-acI-B,group00784,300.750403974,8.23242286503,25.8642765685,Molybdopterin biosynthesis protein MoeA
-acI-B,group00785,281.155985047,8.13522694804,23.9436619718,None Provided
-acI-B,group00786,7086.14775312,12.790785832,77.8489116517,Carboxynorspermidine dehydrogenase
-acI-B,group00787,13961.95524,13.7692133711,86.9398207426,"Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)"
-acI-B,group00788,1811.16914978,10.8227055743,58.2586427657,None Provided
-acI-B,group00789,21488.6284304,14.3912857814,90.3969270166,Glutamine synthetase type I (EC 6.3.1.2)
-acI-B,group00790,128.7565346,7.00850184301,4.86555697823,"GDP-mannose 4,6-dehydratase (EC 4.2.1.47)"
-acI-B,group00791,4656.74206408,12.1851052585,72.9833546735,SSU ribosomal protein S3p (S3e)
-acI-B,group00794,5472.02699012,12.4178596308,74.9039692702,None Provided
-acI-B,group00795,502.918487202,8.9741807774,35.595390525,hypothetical protein
-acI-B,group00796,676.712709745,9.40239967469,42.509603073,Cold shock protein CspC
-acI-B,group00800,18329.6717355,14.1618933286,88.7323943662,LSU ribosomal protein L1p (L10Ae)
-acI-B,group00801,147.489360423,7.20446707497,7.04225352113,MutT/nudix family protein
-acI-B,group00802,1388.76382589,10.4395855592,53.0089628681,None Provided
-acI-B,group00809,348.0998746,8.44335748412,29.4494238156,Aldehyde dehydrogenase (EC 1.2.1.3)
-acI-B,group00810,221.09659801,7.78853301651,17.6696542894,putative peptidase
-acI-B,group00811,7656.88823741,12.902542484,79.7695262484,Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase and related deacylases
-acI-B,group00815,296.611936587,8.21243284727,25.0960307298,Cystathionine gamma-synthase (EC 2.5.1.48)
-acI-B,group00817,2107.11559372,11.0410537454,61.4596670935,Nickel-dependent superoxide dismutase (EC 1.15.1.1)
-acI-B,group00819,7852.9088048,12.939011428,80.0256081946,LSU ribosomal protein L14p (L23e)
-acI-B,group00820,1959.77100673,10.9364693743,59.6670934699,LSU ribosomal protein L18p (L5e)
-acI-B,group00821,518.380048214,9.01786638158,36.3636363636,Metallopeptidase
-acI-B,group00822,4440.18047677,12.1164026026,72.471190781,Aldehyde dehydrogenase (EC 1.2.1.3)
-acI-B,group00824,21014.9540422,14.359128681,90.0128040973,SSU ribosomal protein S5p (S2e)
-acI-B,group00828,2198.53269813,11.1023252742,62.4839948784,Ferredoxin
-acI-B,group00831,13373.1845394,13.707055433,86.171574904,Adenine phosphoribosyltransferase (EC 2.4.2.7)
-acI-B,group00832,379.524313112,8.5680485004,31.2419974392,Potassium efflux system KefA protein / Small-conductance mechanosensitive channel
-acI-B,group00834,242.992149404,7.92476589374,19.8463508323,Quinolinate synthetase (EC 2.5.1.72)
-acI-B,group00835,330.586899373,8.36888574385,28.4250960307,None Provided
-acI-B,group00836,593.184284392,9.21233656584,39.5646606914,Enoyl-CoA hydratase (EC 4.2.1.17) / 3-hydroxyacyl-CoA dehydrogenase (EC 1.1.1.35) / 3-hydroxybutyryl-CoA epimerase (EC 5.1.2.3)
-acI-B,group00838,643.596136219,9.33001185475,41.1011523688,Oligopeptide transport system permease protein OppB (TC 3.A.1.5.1)
-acI-B,group00840,2167.2170416,11.0816279278,61.9718309859,None Provided
-acI-B,group00844,4151.90234863,12.019556797,71.1907810499,LSU ribosomal protein L6p (L9e)
-acI-B,group00847,3685.48691615,11.8476395214,70.2944942382,LSU ribosomal protein L22p (L17e)
-acI-B,group00849,626.225299779,9.29053798495,40.5889884763,FIG01121526: hypothetical protein
-acI-B,group00852,24258.4185489,14.5661978811,91.5492957746,None Provided
-acI-B,group00853,35380.7124036,15.1106754771,93.4699103713,LSU ribosomal protein L16p (L10e)
-acI-B,group00855,606.909975589,9.24533872371,39.8207426376,hypothetical protein
-acI-B,group00861,1794.59615169,10.8094435073,57.8745198464,SSU ribosomal protein S19p (S15e)
-acI-B,group00863,297.988358097,8.2191121579,25.3521126761,hypothetical protein
-acI-B,group00867,198.116870177,7.63020792454,14.3405889885,DNA polymerase I (EC 2.7.7.7)
-acI-B,group00869,162.134701202,7.34104908935,10.4993597951,Deoxyguanosinetriphosphate triphosphohydrolase (EC 3.1.5.1)
-acI-B,group00872,11727.23367,13.5175751166,85.1472471191,SSU ribosomal protein S17p (S11e)
-acI-B,group00873,1810.8746871,10.8224709996,58.1306017926,LSU ribosomal protein L29p (L35e)
-acI-B,group00876,148149.561888,17.1766948344,97.695262484,Xanthine/uracil/thiamine/ascorbate permease family protein
-acI-B,group00878,481.324683489,8.91086659985,34.8271446863,None Provided
-acI-B,group00880,16588.9703937,14.0179367267,87.9641485275,putative oxidoreductase
-acI-B,group00883,716.085534154,9.48398811292,42.8937259923,None Provided
-acI-B,group00885,20887.9196073,14.3503811897,89.7567221511,LSU ribosomal protein L2p (L8e)
-acI-B,group00886,59.4181459013,5.89283168255,0.384122919334,Na+/H+ antiporter NhaA type
-acI-B,group00887,355.139986122,8.47224399602,29.7055057618,FIG021764: Possible membrane protein
-acI-B,group00890,144.175326748,7.17168048179,6.65813060179,None Provided
-acI-B,group00891,1913.69584581,10.9021458373,59.2829705506,hypothetical protein
-acI-B,group00893,148.757818053,7.21682168186,7.55441741357,hypothetical protein
-acI-B,group00894,1331.15118593,10.3784587198,52.3687580026,"SSU ribosomal protein S14p (S29e) @ SSU ribosomal protein S14p (S29e), zinc-dependent"
-acI-B,group00895,1776.91359137,10.7951578116,57.490396927,LSU ribosomal protein L24p (L26e)
-acI-B,group00896,34459.9592253,15.072633374,93.3418693982,LSU ribosomal protein L5p (L11e)
-acI-B,group00900,610.160647743,9.2530453262,39.9487836108,D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)
-acI-B,group00902,153.125718074,7.25857279934,8.32266325224,hypothetical protein
-acI-B,group00906,7310.70150445,12.8357941325,79.0012804097,hypothetical protein
-acI-B,group00908,2833.67768512,11.4684599538,66.3252240717,putative DNA-binding protein
-acI-B,group00910,506.19766469,8.98355704146,35.8514724712,hypothetical protein
-acI-B,group00912,16665.5148885,14.0245782704,88.2202304738,None Provided
-acI-B,group00913,251.77834837,7.97601041389,20.8706786172,None Provided
-acI-B,group00916,13539.1802494,13.7248527709,86.6837387964,SSU ribosomal protein S8p (S15Ae)
-acI-B,group00918,914.865424228,9.83741572981,46.6069142125,Gamma-aminobutyrate:alpha-ketoglutarate aminotransferase (EC 2.6.1.19)
-acI-B,group00919,1025.68479972,10.0023717332,48.5275288092,LSU ribosomal protein L23p (L23Ae)
-acI-B,group00920,21058.1744592,14.3620927536,90.1408450704,LSU ribosomal protein L4p (L1e)
-acI-B,group00921,2697.84907652,11.3975939277,65.6850192061,LSU ribosomal protein L3p (L3e)
-acI-B,group00924,120.993947462,6.91879107046,4.35339308579,Phosphoenolpyruvate carboxylase (EC 4.1.1.31)
-acI-B,group00930,231.429703253,7.85443023134,18.8220230474,None Provided
-acI-B,group00931,107.275295089,6.74517405938,2.94494238156,Spheroidene monooxygenase
-acI-B,group00934,1788.83870391,10.8048075929,57.7464788732,"Branched-chain alpha-keto acid dehydrogenase, E1 component, alpha subunit (EC 1.2.4.4) / Branched-chain alpha-keto acid dehydrogenase, E1 component, beta subunit (EC 1.2.4.4)"
-acI-B,group00935,185.140238464,7.53247467506,12.676056338,hypothetical protein
-acI-B,group00936,316.838148352,8.30760224087,27.2727272727,None Provided
-acI-B,group00940,6313.45229691,12.6242133944,76.4404609475,None Provided
-acI-B,group00944,2457.3305117,11.2628761983,64.0204865557,SSU ribosomal protein S7p (S5e)
-acI-B,group00945,62494.6568732,15.931445228,96.0307298335,SSU ribosomal protein S12p (S23e)
-acI-B,group00947,306.561912343,8.26003465557,26.3764404609,hypothetical protein
-acI-B,group00949,296.399127811,8.21139739212,24.9679897567,"Fructose-1,6-bisphosphatase, GlpX type (EC 3.1.3.11)"
-acI-B,group00950,126.306340106,6.98078324861,4.60947503201,"Cystathionine beta-lyase, type II (EC 4.4.1.8)"
-acI-B,group00952,309.540585662,8.27398477173,26.5044814341,None Provided
-acI-B,group00953,117.641721847,6.87825599507,3.84122919334,"Pyruvate,phosphate dikinase (EC 2.7.9.1)"
-acI-B,group00954,3634.15469489,11.8274041167,70.0384122919,hypothetical protein
-acI-B,group00956,1284.30325739,10.3267701852,51.6005121639,Formyltetrahydrofolate deformylase (EC 3.5.1.10)
-acI-B,group00962,2495.93211856,11.2853629827,64.404609475,Ferrous iron transport permease EfeU
-acI-B,group00964,1527.30616244,10.5767735772,55.185659411,Alcohol dehydrogenase (EC 1.1.1.1)
-acI-B,group00969,2053.7915499,11.004074047,60.8194622279,"CblZ, a non-orthologous displasment for Alpha-ribazole-5-phosphate phosphatase"
-acI-B,group00970,159.622869553,7.31852355454,9.60307298335,"Ferric iron ABC transporter, ATP-binding protein"
-acI-B,group00974,450.557006221,8.81556584274,34.1869398207,Aldehyde dehydrogenase in hypothetical Actinobacterial gene cluster
-acI-B,group00976,316.516599783,8.30613735387,27.1446862996,"transcriptional regulator, XRE family"
-acI-B,group00977,328.266586174,8.35872409712,28.2970550576,hypothetical protein
-acI-B,group00979,2060.44777083,11.0087421787,61.0755441741,hypothetical protein
-acI-B,group00982,163.762660655,7.35546263693,10.6274007682,hypothetical protein
-acI-B,group00983,277.995886288,8.11891972425,23.6875800256,D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)
-acI-B,group00984,904.229963908,9.82054591551,46.3508322663,High-affinity branched-chain amino acid transport system permease protein LivH (TC 3.A.1.4.1)
-acI-B,group00988,2630.24073402,11.3609791336,65.3008962868,None Provided
-acI-B,group00989,6157.70864514,12.5881778919,75.9282970551,Iron-sulfur cluster regulator SufR
-acI-B,group00991,42359.7867559,15.3704077062,94.3661971831,SSU ribosomal protein S10p (S20e)
-acI-B,group00999,196.849486569,7.62094913938,14.2125480154,None Provided
-acI-B,group01001,206.610809088,7.69077192224,15.6209987196,None Provided
-acI-B,group01006,3458.54754704,11.7559505749,68.8860435339,Acyl-CoA dehydrogenase (EC 1.3.8.7)
-acI-B,group01009,36019.8879669,15.1365060736,93.5979513444,"Branched-chain amino acid ABC transporter, amino acid-binding protein (TC 3.A.1.4.1)"
-acI-B,group01011,102.797430941,6.68366039968,2.30473751601,ATP-dependent DNA helicase SCO5183
-acI-B,group01012,2472.17556953,11.2715654892,64.2765685019,hypothetical protein
-acI-B,group01014,7227.73768407,12.8193284322,78.2330345711,None Provided
-acI-B,group01016,198.278403188,7.63138373517,14.4686299616,major facilitator superfamily MFS_1
-acI-B,group01022,487.833291979,8.93024440739,35.3393085787,hypothetical protein
-acI-B,group01024,229.857263298,7.84459444461,18.3098591549,hypothetical protein
-acI-B,group01025,4578.83424463,12.1607646246,72.7272727273,FIG00819990: hypothetical protein
-acI-B,group01027,148.019942252,7.2096477484,7.29833546735,hypothetical protein
-acI-B,group01030,236.914043921,7.88821991176,19.2061459667,None Provided
-acI-B,group01031,398.306381437,8.6377347837,32.7784891165,"Succinyl-CoA synthetase, alpha subunit-related enzymes"
-acI-B,group01032,193.813081896,7.59852214211,13.5723431498,None Provided
-acI-B,group01037,243.906968032,7.93018716399,19.9743918054,None Provided
-acI-B,group01039,167.394583568,7.38710903674,10.7554417414,None Provided
-acI-B,group01048,174.570916171,7.44766941317,11.52368758,None Provided
-acI-B,group01052,379.80720787,8.56912347456,31.3700384123,Mannose-1-phosphate guanylyltransferase (GDP) (EC 2.7.7.22)
-acI-B,group01055,3704.78873959,11.8551755619,70.4225352113,None Provided
-acI-B,group01073,6312.23698,12.6239356541,76.3124199744,None Provided
-acI-B,group01075,267.211403957,8.06183776975,22.6632522407,Short chain dehydrogenase family protein
-acI-B,group01090,216.952291198,7.76123401208,16.7733674776,putative Adenosine kinase (EC 2.7.1.20)
-acI-B,group01097,127.435214902,6.99362019063,4.73751600512,None Provided
-acI-B,group01099,678.409234726,9.40601199824,42.6376440461,Sarcosine dehydrogenase (EC 1.5.99.1)
-acI-B,group01103,3424.03812098,11.7414830485,68.3738796415,Bona fide RidA/YjgF/TdcF/RutC subgroup
-acI-B,group01108,1973.63343413,10.9466383454,59.9231754161,"Predicted beta-glucoside-regulated ABC transport system, permease component 2, COG0395"
-acI-B,group01111,649.734487094,9.34370647344,41.6133162612,None Provided
-acI-B,group01114,1100.84741808,10.104398804,49.1677336748,None Provided
-acI-B,group01123,108582.262539,16.7284289253,97.4391805378,hypothetical protein
-acI-B,group01124,41439.4895295,15.3387186109,94.23815621,hypothetical protein
-acI-B,group01142,409.952596565,8.67931328815,33.0345710627,Membrane proteins related to metalloendopeptidases
-acI-B,group01144,315.444548918,8.30124261009,27.0166453265,None Provided
-acI-B,group01146,2658.24603172,11.3762589229,65.556978233,Zinc uptake regulation protein ZUR
-acI-B,group01149,98118.0073627,16.5822303147,96.9270166453,None Provided
-acI-B,group01158,796.983425171,9.63840591064,44.5582586428,None Provided
-acI-B,group01159,2631.58037638,11.3617137444,65.4289372599,None Provided
-acI-B,group01162,382.837831919,8.58058959333,31.6261203585,None Provided
-acI-B,group01164,5651.4096291,12.464395048,75.4161331626,None Provided
-acI-B,group01165,275.320571931,8.10496860179,23.4314980794,hypothetical protein
-acI-B,group01166,59.1389802098,5.88603746078,0.256081946223,putative cholesterol oxidase
-acI-B,group01168,303.400131189,8.24507789918,26.1203585147,None Provided
-acI-B,group01188,170.15982187,7.41074661792,11.2676056338,hypothetical protein
-acI-B,group01189,601985.328577,19.1993688009,99.1037131882,hypothetical protein
-acI-B,group01194,381.302588059,8.57479251304,31.4980793854,None Provided
-acI-B,group01195,2397.39418914,11.2272514268,63.7644046095,None Provided
-acI-B,group01199,248.95836417,7.95976067573,20.4865556978,"Ferric iron ABC transporter, permease protein"
-acI-B,group01208,1236.52214173,10.2720723582,50.9603072983,"Xylose ABC transporter, permease protein XylH"
-acI-B,group01210,5006.1900157,12.2894973359,74.0076824584,"Predicted beta-glucoside-regulated ABC transport system, permease component 1, COG1175"
-acI-B,group01211,22451.9934258,14.4545559215,90.6530089629,hypothetical protein
-acI-B,group01213,362.695310809,8.50261428298,30.4737516005,None Provided
-acI-B,group01221,156.724813405,7.29208980189,8.57874519846,ATPase component NikO of energizing module of nickel ECF transporter
-acI-B,group01225,27514.1342024,14.7478853111,92.3175416133,"Oligopeptide ABC transporter, periplasmic oligopeptide-binding protein OppA (TC 3.A.1.5.1)"
-acI-B,group01230,7262.64925545,12.8262801925,78.4891165173,hypothetical protein
-acI-B,group01231,1440.75109923,10.4926054051,53.7772087068,hypothetical protein
-acI-B,group01235,482.840683429,8.9154034303,35.2112676056,"Ferric iron ABC transporter, iron-binding protein"
-acI-B,group01236,276.842472838,8.11292148626,23.5595390525,None Provided
-acI-B,group01244,157.130223532,7.29581689521,8.83482714469,ABC-2 type transporter
-acI-B,group01245,2054.26260767,11.0044049057,60.947503201,L-arabonate dehydratase (EC 4.2.1.25)
-acI-B,group01263,832.282624651,9.70092970846,45.1984635083,hypothetical protein
-acI-B,group01269,196.493586139,7.61833841118,14.0845070423,Fructose-bisphosphate aldolase class I (EC 4.1.2.13)
-acI-B,group01277,903.555902105,9.81947005173,46.2227912932,Substrate-specific component NikM of nickel ECF transporter
-acI-B,group01279,536.829306102,9.06831962177,37.1318822023,POSSIBLE TRANSMEMBRANE PROTEIN
-acI-B,group01282,293.496415716,8.19719907451,24.8399487836,hypothetical protein
-acI-B,group01285,265.845528109,8.05444438826,22.2791293214,3-oxoacyl-acyl-carrier protein reductase (EC 1.1.1.100)
-acI-B,group01299,19461.7286832,14.2483522424,89.3725992318,"Maltose/maltodextrin ABC transporter, substrate binding periplasmic protein MalE"
-acI-B,group01308,1677.61538336,10.7121962805,57.2343149808,Galactonate dehydratase (EC 4.2.1.6)
-acI-B,group01311,14668.4744852,13.8404312187,87.323943662,None Provided
-acI-B,group01314,375.725156646,8.55353390451,30.985915493,Proline dehydrogenase (EC 1.5.99.8) (Proline oxidase) / Delta-1-pyrroline-5-carboxylate dehydrogenase (EC 1.2.1.88)
-acI-B,group01326,232.619959359,7.86183107864,18.9500640205,2-keto-3-deoxy-L-fuconate dehydrogenase
-acI-B,group01330,204.155704195,7.6735260674,15.3649167734,Permease of the drug/metabolite transporter (DMT) superfamily
-acI-B,group01333,258.231558486,8.01252151299,21.3828425096,"TldE/PmbA family protein, Actinobacterial subgroup"
-acI-B,group01336,1855.22448132,10.8573780475,58.642765685,Ketoglutarate semialdehyde dehydrogenase (EC 1.2.1.26)
-acI-B,group01345,254.293689453,7.99035185035,20.9987195903,"TldD family protein, Actinobacterial subgroup"
-acI-B,group01365,410.125763751,8.67992256516,33.1626120359,hypothetical protein
-acI-B,group01369,1620.40799263,10.6621413909,56.338028169,"Thiosulfate sulfurtransferase, rhodanese (EC 2.8.1.1)"
-acI-B,group01375,283.702191497,8.14823348473,24.0717029449,4-hydroxyproline epimerase (EC 5.1.1.8)
-acI-B,group01387,442.280601875,8.78881815778,33.9308578745,"Maltose/maltodextrin ABC transporter, permease protein MalF"
-acI-B,group01394,304.787286263,8.25165891404,26.2483994878,hypothetical protein
-acI-B,group01404,395.26759282,8.62668586617,32.5224071703,hypothetical protein
-acI-B,group01406,53861.5464118,15.716968031,95.2624839949,Uracil permease
-acI-B,group01408,104.406852372,6.70607259094,2.68886043534,hypothetical protein
-acI-B,group01409,217.426640704,7.76438491053,16.9014084507,hypothetical protein
-acI-B,group01414,161.977437576,7.33964905866,10.371318822,None Provided
-acI-B,group01416,290.08752813,8.18034446017,24.5838668374,N-acyl-D-amino-acid deacylase( EC:3.5.1.81 )
-acI-B,group01418,823.305618632,9.68528426154,45.0704225352,Glucose-methanol-choline (GMC) oxidoreductase:NAD binding site
-acI-B,group01443,582.422836953,9.18592311487,38.9244558259,hypothetical protein
-acI-B,group01453,317.480148837,8.31052257672,27.4007682458,None Provided
-acI-B,group01456,515421.281178,18.9753925802,98.847631242,"Possible fucose ABC transporter, substrate-binding component"
-acI-B,group01460,538.861707861,9.07377126056,37.5160051216,hypothetical protein
-acI-B,group01461,58872.4049555,15.8453039429,95.7746478873,"Branched-chain amino acid ABC transporter, amino acid-binding protein (TC 3.A.1.4.1)"
-acI-B,group01474,344.472776597,8.4282461622,29.3213828425,Homospermidine synthase( EC:2.5.1.44 )
-acI-B,group01478,453.577964277,8.82520674275,34.3149807939,None Provided
-acI-B,group01479,592.731083643,9.2112339062,39.4366197183,hypothetical protein
-acI-B,group01496,4579.28157341,12.1609055616,72.8553137004,"Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)"
-acI-B,group01499,364.861162955,8.51120378357,30.7298335467,None Provided
-acI-B,group01501,2924.82727809,11.5141357154,66.709346991,1-pyrroline-4-hydroxy-2-carboxylate deaminase (EC 3.5.4.22)
-acI-B,group01503,9365.37081645,13.1931204029,82.4583866837,Riboflavin transporter PnuX
-acI-B,group01513,190.35503471,7.5725489181,13.0601792574,Low molecular weight protein tyrosine phosphatase (EC 3.1.3.48)
-acI-B,group01527,1178.0163632,10.2021438637,50.3201024328,D-tagatose 3-epimerase (EC 5.3.1.-)
-acI-B,group01542,793170.636326,19.5972717435,99.2317541613,None Provided
-acI-B,group01543,993.570214801,9.95647811494,48.1434058899,"ABC sugar transporter, inner membrane subunit"
-acI-B,group01545,771.509953488,9.59154095934,44.3021766965,3-oxoacyl-acyl-carrier protein reductase (EC 1.1.1.100)
-acI-B,group01557,1528.84031466,10.5782220116,55.3137003841,Naphthoate synthase (EC 4.1.3.36)
-acI-B,group01563,95.2290202809,6.57332938518,2.04865556978,Putative oxidoreductase in 4-hydroxyproline catabolic gene cluster
-acI-B,group01590,1859.48121057,10.8606844547,58.7708066581,Predicted rhamnulose-1-phosphate aldolase (EC 4.1.2.19) / Predicted lactaldehyde dehydrogenase (EC 1.2.1.22)
-acI-B,group01611,188.365930647,7.55739424107,12.9321382843,None Provided
-acI-B,group01617,138.551344582,7.1142769014,6.01792573624,probable DNA alkylation repair enzyme
-acI-B,group01629,174.672777973,7.44851097752,11.6517285531,None Provided
-acI-B,group01650,2884.91126115,11.4943112274,66.5813060179,hypothetical protein
-acI-B,group01658,4364.3381449,12.0915471693,72.2151088348,None Provided
-acI-B,group01660,544.323692974,9.08832102391,37.6440460948,"aminotransferase, class III"
-acI-B,group01664,107.753394118,6.75158950317,3.07298335467,Phenazine biosynthesis protein PhzF like
-acI-B,group01669,183.312589653,7.51816206134,12.2919334187,None Provided
-acI-B,group01671,89290.9585548,16.4462264775,96.6709346991,"ABC transporter, periplasmic spermidine putrescine-binding protein PotD (TC 3.A.1.11.1)"
-acI-B,group01677,814.449338526,9.66968115086,44.9423815621,2-methylcitrate dehydratase (EC 4.2.1.79)
-acI-B,group01678,3025.65666007,11.56303257,67.0934699104,None Provided
-acI-B,group01685,1483.05740965,10.5343587307,54.1613316261,hypothetical protein
-acI-B,group01693,115.184899872,6.84780778931,3.71318822023,"PQQ-dependent oxidoreductase, gdhB family"
-acI-B,group01771,374785.669482,18.5157062648,98.7195902689,hypothetical protein
-acI-B,group01793,2625.75081987,11.3585142976,65.0448143406,L-rhamnose mutarotase
-acI-B,group01798,2201.33530828,11.1041631985,62.6120358515,"Dihydroxyacetone kinase, ATP-dependent (EC 2.7.1.29)"
-acI-B,group01806,363.270318888,8.50489968451,30.6017925736,D-arabino-3-hexulose 6-phosphate formaldehyde-lyase (EC 4.1.2.43)
-acI-B,group01818,2322.0802344,11.1812021069,63.3802816901,"Tagatose 1,6-bisphosphate aldolase (EC 4.1.2.40)"
-acI-B,group01823,900.403567024,9.81442796193,46.0947503201,"Indoleamine 2,3-dioxygenase (EC 1.13.11.52)"
-acI-B,group01837,157.215069696,7.29659570211,8.9628681178,hypothetical protein
-acI-B,group01838,9246.13414156,13.1746345778,82.3303457106,None Provided
-acI-B,group01880,1912.7986105,10.9014692718,59.1549295775,None Provided
-acI-B,group01884,44155.3538443,15.4303007551,94.6222791293,None Provided
-acI-B,group01908,1416.94102345,10.4685639957,53.5211267606,Aldehyde dehydrogenase B (EC 1.2.1.22)
-acI-B,group01910,186398.501824,17.5080307388,97.8233034571,None Provided
-acI-B,group01928,1902.71092714,10.8938406788,59.0268886044,None Provided
-acI-B,group01933,1133.02735076,10.1459669722,49.423815621,D-serine deaminase
-acI-B,group01955,1456.16373292,10.5079568678,53.9052496799,"Coenzyme F420-dependent N5,N10-methylene tetrahydromethanopterin reductase and related flavin-dependent oxidoreductases; sulfonate monooxygenase"
-acI-B,group01970,4340.51623412,12.0836509228,72.0870678617,hypothetical protein
-acI-B,group01974,1347.40110409,10.3959636713,52.6248399488,hypothetical protein
-acI-B,group01977,195.07729078,7.60790203135,13.828425096,Acetohydroxy acid synthase
-acI-B,group01979,335646.774174,18.3565842515,98.5915492958,"Predicted L-rhamnose ABC transporter, substrate-binding component"
-acI-B,group01983,4210.26740589,12.0396961505,71.4468629962,Permease of the drug/metabolite transporter (DMT) superfamily
-acI-B,group01984,33086.5187615,15.0139558843,93.085787452,Amino acid permease in hypothetical Actinobacterial gene cluster
-acI-B,group01990,70362.6942869,16.1025231062,96.4148527529,None Provided
-acI-B,group01991,4194.07854394,12.0341381642,71.318822023,None Provided
-acI-B,group02003,561278.541845,19.0983573793,98.9756722151,"Branched-chain amino acid ABC transporter, amino acid-binding protein (TC 3.A.1.4.1)"
-acI-B,group02019,1279.67651144,10.3215634431,51.3444302177,None Provided
-acI-B,group02026,261935.619818,17.9988527351,98.0793854033,"Fructose ABC transporter, substrate-binding component FrcB"
-acI-B,group02028,4502.10560906,12.1363841842,72.5992317542,Tryptophan synthase beta chain like (EC 4.2.1.20)
-acI-B,group02056,3180.80049346,11.6351741705,67.861715749,hypothetical protein
-acI-B,group02058,30927.2526222,14.9165910589,92.5736235595,"N-Acetyl-D-glucosamine ABC transport system, sugar-binding protein"
-acI-B,group02095,4220.89964629,12.0433348137,71.7029449424,"Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)"
-acI-B,group02135,552.567301993,9.1100063834,38.1562099872,hypothetical protein
-acI-B,group02136,4990.17509875,12.2848747234,73.8796414853,hypothetical protein
-acI-B,group02174,535.771668986,9.06547448485,36.8758002561,Transporter
-acI-B,group02179,4730.44534579,12.2077602965,73.1113956466,Glyoxalase family protein
-acI-B,group02215,2534.39335183,11.3074247407,64.6606914213,hypothetical protein
-acI-B,group02216,139.183891686,7.1208484417,6.14596670935,None Provided
-acI-B,group02221,23318.2717489,14.5091732456,91.2932138284,L-lactate dehydrogenase (EC 1.1.2.3)
-acI-B,group02241,1281.43213701,10.323541362,51.4724711908,INTEGRAL MEMBRANE PROTEIN (Rhomboid family)
-acI-B,group02245,931.579693329,9.86353538165,46.8629961588,None Provided
-acI-B,group02266,4894.98881656,12.2570898484,73.7516005122,hypothetical protein
-acI-B,group02289,1490.10663785,10.5411998639,54.5454545455,"Glucose-6-phosphate isomerase, archaeal (EC 5.3.1.9)"
-acI-B,group02290,2466.62956868,11.2683253568,64.1485275288,hypothetical protein
-acI-B,group02308,1158.24313566,10.1777224169,49.8079385403,Cytoplasmic axial filament protein CafA and Ribonuclease G (EC 3.1.4.-)
-acI-B,group02370,5410.34626951,12.4015052161,74.7759282971,NADH-ubiquinone oxidoreductase chain N (EC 1.6.5.3)
-acI-B,group02378,1080.71628274,10.077772111,49.0396927017,hypothetical protein
-acI-B,group02428,2138.72881586,11.0625378495,61.5877080666,Hydrolases of the alpha/beta superfamily
-acI-B,group02433,258.718920367,8.01524175335,21.6389244558,hypothetical protein
-acI-B,group02434,64.1221139306,6.00275008287,0.512163892446,hypothetical protein
-acI-B,group02435,188.079211091,7.55519658242,12.8040973111,None Provided
-acI-B,group02437,289.161114204,8.17572974443,24.3277848912,short chain dehydrogenase
-acI-B,group02487,2009.54556797,10.9726535766,60.0512163892,None Provided
-acI-B,group02507,2239.96383242,11.1292597227,63.1241997439,None Provided
-acI-B,group02624,25620.9445676,14.6450360441,92.0614596671,None Provided
-acI-B,group02765,322.575019033,8.3334909069,27.7848911652,None Provided
-acI-B,group02798,57758.9400477,15.8177566467,95.6466069142,None Provided
-acI-B,group02799,1498.41442023,10.5492209734,54.9295774648,None Provided
-acI-B,group02824,19573.1930948,14.2565915104,89.5006402049,None Provided
-acI-B,group02884,53963.6466728,15.7197002234,95.390524968,Heat shock protein 60 family chaperone GroEL
-acI-B,group02891,20967.5084214,14.3558678151,89.8847631242,Triosephosphate isomerase (EC 5.3.1.1)
-acI-B,group02954,8460.77839401,13.0465746825,80.9218950064,None Provided
-acI-B,group02955,36080.0145652,15.1389123005,93.7259923175,hypothetical protein
-acI-B,group03036,1303716.92097,20.3141992172,99.4878361076,Uncharacterized homolog of gamma-carboxymuconolactone decarboxylase subunit
-acI-B,group03043,22380.6257934,14.4499627562,90.5249679898,hypothetical protein
-acI-B,group03172,12675.0985624,13.6297093453,85.5313700384,NADH-ubiquinone oxidoreductase chain N (EC 1.6.5.3)
-acI-B,group03249,30084.6905769,14.8767418982,92.4455825864,hypothetical protein
-acI-B,group03256,102988.859466,16.6521287608,97.0550576184,"Mg(2+) transport ATPase, P-type (EC 3.6.3.2)"
-acI-B,group03260,31091.6987475,14.9242418225,92.7016645327,None Provided
-acI-B,group03430,106333.087908,16.6982310679,97.1830985915,hypothetical protein
-acI-B,group03462,6421.91450701,12.6487877437,76.8245838668,None Provided
-acI-B,group03591,3745318.35206,21.8366569223,99.8719590269,None Provided
-acI-B,group03975,272355.878396,18.0551334804,98.2074263764,hypothetical protein
-acI-B,group03977,639.480743686,9.32075710649,40.8450704225,None Provided
-acI-B,group03982,103.463032369,6.6929715706,2.43277848912,hypothetical protein
-acI-B,group04001,320.361315866,8.32355614034,27.528809219,None Provided
-acI-B,group04170,21171.821779,14.3698577943,90.2688860435,hypothetical protein
-acI-B,group04203,1388.42201714,10.4392304329,52.880921895,hypothetical protein
-acI-B,group04705,2638906.83234,21.331508986,99.6158770807,hypothetical protein
-acI-B,group04756,3333333.33333,21.6685341635,99.7439180538,None Provided
-acI-B,group05002,2989.94146555,11.5459015255,66.9654289373,"LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-dependent"
+Clade,COG,RPKM,Median,Rel to Med,Annotation
+acI-B,group00001,140.31162066005774,1696.5558067446682,0.08270380502795606,DNA gyrase subunit A (EC 5.99.1.3)
+acI-B,group00003,1260.3937708951728,1696.5558067446682,0.7429132398029404,Topoisomerase IV subunit B (EC 5.99.1.-)
+acI-B,group00007,18548.822885994494,1696.5558067446682,10.933222952203241,Heat shock protein 60 family chaperone GroEL
+acI-B,group00011,5515.916478254032,1696.5558067446682,3.251243758870455,"ATP-dependent Clp protease, ATP-binding subunit ClpC / Negative regulator of genetic competence clcC/mecB"
+acI-B,group00012,2121.8558659597156,1696.5558067446682,1.2506843910022083,Putrescine transport ATP-binding protein PotG (TC 3.A.1.11.2)
+acI-B,group00016,3376.1062714433683,1696.5558067446682,1.989976550150391,Branched-chain amino acid transport ATP-binding protein LivF (TC 3.A.1.4.1)
+acI-B,group00018,309.8080584174075,1696.5558067446682,0.182610001501727,Cytosol aminopeptidase PepA (EC 3.4.11.1)
+acI-B,group00019,42558.23158200589,1696.5558067446682,25.08507613649688,Ammonium transporter
+acI-B,group00020,310.65917945701574,1696.5558067446682,0.18311167733002842,Oligopeptide transport ATP-binding protein OppD (TC 3.A.1.5.1)
+acI-B,group00025,4905.112082679183,1696.5558067446682,2.891217644111016,Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)
+acI-B,group00027,4114.255749161635,1696.5558067446682,2.4250636099357217,D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)
+acI-B,group00028,823.625169711984,1696.5558067446682,0.48546895211914454,Rod shape-determining protein MreB
+acI-B,group00029,1029.168889562084,1696.5558067446682,0.6066224791843667,hypothetical protein
+acI-B,group00030,106.69410175089288,1696.5558067446682,0.06288864847636005,DNA polymerase III alpha subunit (EC 2.7.7.7)
+acI-B,group00033,3539.4158194190054,1696.5558067446682,2.086236011422693,O-acetylhomoserine sulfhydrylase (EC 2.5.1.49) / O-succinylhomoserine sulfhydrylase (EC 2.5.1.48)
+acI-B,group00034,504.2084133375529,1696.5558067446682,0.2971953008165539,Cytochrome c oxidase polypeptide I (EC 1.9.3.1)
+acI-B,group00038,4590.211625367604,1696.5558067446682,2.705606032598037,DNA-binding response regulator
+acI-B,group00041,3153.2702807118885,1696.5558067446682,1.8586304489224834,Chromosome partition protein smc
+acI-B,group00043,2627.158919229376,1696.5558067446682,1.5485249048602405,Citrate synthase (si) (EC 2.3.3.1)
+acI-B,group00049,289739.93596960563,1696.5558067446682,170.78125860507666,"Nucleoside ABC transporter, periplasmic nucleoside-binding protein"
+acI-B,group00050,128.5703442432241,1696.5558067446682,0.0757831506232167,Glutamate synthase NADPH large chain (EC 1.4.1.13)
+acI-B,group00052,335.42211049128764,1696.5558067446682,0.19770767879123985,Butyryl-CoA dehydrogenase (EC 1.3.8.1)
+acI-B,group00059,210.52393231384232,1696.5558067446682,0.12408901108758293,Alanyl-tRNA synthetase (EC 6.1.1.7)
+acI-B,group00069,203.13335118626028,1696.5558067446682,0.1197327847269759,Acetyl-coenzyme A synthetase (EC 6.2.1.1)
+acI-B,group00073,1094.3220127969716,1696.5558067446682,0.6450256504657775,Glutamate-1-semialdehyde aminotransferase (EC 5.4.3.8)
+acI-B,group00075,687.3447183503087,1696.5558067446682,0.4051412370979873,Cytoplasmic axial filament protein CafA and Ribonuclease G (EC 3.1.4.-)
+acI-B,group00076,583.9527990380835,1696.5558067446682,0.34419899228576833,Dihydrolipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex (EC 2.3.1.168)
+acI-B,group00081,3101.8506769084142,1696.5558067446682,1.8283222188017556,Phosphate transport ATP-binding protein PstB (TC 3.A.1.7.1)
+acI-B,group00088,135.37458140015656,1696.5558067446682,0.0797937685645082,Isoleucyl-tRNA synthetase (EC 6.1.1.5)
+acI-B,group00089,3982.7155388348565,1696.5558067446682,2.34752993270339,Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)
+acI-B,group00090,142669.67908147117,1696.5558067446682,84.09371416742495,None Provided
+acI-B,group00092,2419.412537188792,1696.5558067446682,1.4260730637745027,Transcription termination factor Rho
+acI-B,group00094,2173.1063958324166,1696.5558067446682,1.2808929639645326,Phosphate transport system permease protein PstC (TC 3.A.1.7.1)
+acI-B,group00096,395.0052744821945,1696.5558067446682,0.2328277519147019,Integral membrane protein TerC
+acI-B,group00099,445.9358416614199,1696.5558067446682,0.262847729434304,4-hydroxy-tetrahydrodipicolinate synthase (EC 4.3.3.7)
+acI-B,group00104,222.80716530019032,1696.5558067446682,0.13132911066905023,Aspartyl-tRNA synthetase (EC 6.1.1.12) @ Aspartyl-tRNA(Asn) synthetase (EC 6.1.1.23)
+acI-B,group00107,1005.9405240468599,1696.5558067446682,0.5929309958727776,Glycine dehydrogenase decarboxylating (glycine cleavage system P protein) (EC 1.4.4.2)
+acI-B,group00108,222.2058978613637,1696.5558067446682,0.13097470591770854,Membrane alanine aminopeptidase N (EC 3.4.11.2)
+acI-B,group00113,616.2370392745793,1696.5558067446682,0.36322827508810795,UPF0182 protein AF1421
+acI-B,group00123,222.66362710383007,1696.5558067446682,0.13124450502519835,Protein export cytoplasm protein SecA ATPase RNA helicase (TC 3.A.5.1.1)
+acI-B,group00127,1809.931288649065,1696.5558067446682,1.0668268508785104,None Provided
+acI-B,group00131,179.42551645795803,1696.5558067446682,0.10575868812841333,DNA translocase FtsK
+acI-B,group00142,5637.140992412408,1696.5558067446682,3.322697060716729,ABC transporter ATP-binding protein
+acI-B,group00149,796.6492930733335,1696.5558067446682,0.4695685752901551,HNH endonuclease family protein
+acI-B,group00154,114.05349600063364,1696.5558067446682,0.06722649237190623,hypothetical protein
+acI-B,group00161,1336.7608788545729,1696.5558067446682,0.7879262642232407,Cell division protein FtsH (EC 3.4.24.-)
+acI-B,group00164,1519.2510557007483,1696.5558067446682,0.8954913535180843,LSU ribosomal protein L21p
+acI-B,group00174,231.28855816000942,1696.5558067446682,0.13632829361729235,Multimodular transpeptidase-transglycosylase (EC 2.4.1.129) (EC 3.4.-.-)
+acI-B,group00177,607.5364448323014,1696.5558067446682,0.3580998882660013,Phosphate transport system regulatory protein PhoU
+acI-B,group00191,56499.1169964148,1696.5558067446682,33.30224491985599,"Phosphate ABC transporter, periplasmic phosphate-binding protein PstS (TC 3.A.1.7.1)"
+acI-B,group00192,319.1155966531236,1696.5558067446682,0.18809613888589904,3-isopropylmalate dehydratase large subunit (EC 4.2.1.33)
+acI-B,group00195,1503.4802834962422,1696.5558067446682,0.8861955955230868,LSU ribosomal protein L27p
+acI-B,group00196,19822.791082616895,1696.5558067446682,11.68413735864819,SSU ribosomal protein S16p
+acI-B,group00204,365.18825538839485,1696.5558067446682,0.2152527219774243,Acetolactate synthase large subunit (EC 2.2.1.6)
+acI-B,group00205,15181.506062296372,1696.5558067446682,8.948427161630757,RecA protein
+acI-B,group00214,3194.895602429515,1696.5558067446682,1.8831656404865595,Single-stranded DNA-binding protein
+acI-B,group00216,258.72621580896987,1696.5558067446682,0.15250085778516814,Replicative DNA helicase (DnaB) (EC 3.6.4.12)
+acI-B,group00218,435.6675821494793,1696.5558067446682,0.2567953146118036,1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate synthase (EC 1.17.7.1)
+acI-B,group00219,1144.9428245860713,1696.5558067446682,0.6748630490281216,Translation elongation factor Ts
+acI-B,group00225,365.86448887691074,1696.5558067446682,0.2156513139281444,Branched-chain amino acid aminotransferase (EC 2.6.1.42)
+acI-B,group00227,2952.020805842639,1696.5558067446682,1.7400080764256984,Guanylate kinase (EC 2.7.4.8)
+acI-B,group00237,367.65196805863235,1696.5558067446682,0.2167049068454039,Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)
+acI-B,group00242,228.00096912196196,1696.5558067446682,0.13439049173363038,Pyruvate dehydrogenase E1 component (EC 1.2.4.1)
+acI-B,group00244,690.9534987072444,1696.5558067446682,0.4072683586124043,Cell division protein FtsZ (EC 3.4.24.-)
+acI-B,group00250,4551.669157694252,1696.5558067446682,2.6828879660775455,SSU ribosomal protein S2p (SAe)
+acI-B,group00254,1437.5778538256463,1696.5558067446682,0.84735076094199,Phosphate transport system permease protein PstA (TC 3.A.1.7.1)
+acI-B,group00256,317672.93545321515,1696.5558067446682,187.24579185093967,Ribonucleotide reductase of class II (coenzyme B12-dependent) (EC 1.17.4.1)
+acI-B,group00257,876.9858462983033,1696.5558067446682,0.5169213077529431,Protein-export membrane protein SecD (TC 3.A.5.1.1)
+acI-B,group00272,9939.048149443031,1696.5558067446682,5.8583679416440555,ATP synthase beta chain (EC 3.6.3.14)
+acI-B,group00275,5400.570330177946,1696.5558067446682,3.183255339263197,4-aminobutyraldehyde dehydrogenase (EC 1.2.1.19)
+acI-B,group00278,260.4888383554435,1696.5558067446682,0.15353979946894084,2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase II (EC 2.5.1.54)
+acI-B,group00281,1761.0142267936849,1696.5558067446682,1.0379936927466586,SSU ribosomal protein S6p
+acI-B,group00284,5085.8062501013455,1696.5558067446682,2.9977241125123566,"Pyridoxine biosynthesis glutamine amidotransferase, synthase subunit (EC 2.4.2.-)"
+acI-B,group00288,334.28581774991494,1696.5558067446682,0.19703791435622664,Aspartokinase (EC 2.7.2.4)
+acI-B,group00318,1032.3979863227078,1696.5558067446682,0.6085258039956029,Translation initiation factor 2
+acI-B,group00322,1208.6682099692578,1696.5558067446682,0.7124246695358855,LSU ribosomal protein L25p
+acI-B,group00329,1070.8582888775609,1696.5558067446682,0.6311954399733608,Ketol-acid reductoisomerase (EC 1.1.1.86)
+acI-B,group00350,1047.238507326448,1696.5558067446682,0.61727324451288,Adenosylhomocysteinase (EC 3.3.1.1)
+acI-B,group00352,427.1595956967285,1696.5558067446682,0.2517804566160175,Methylmalonate-semialdehyde dehydrogenase inositol (EC 1.2.1.27)
+acI-B,group00369,918.8625368970835,1696.5558067446682,0.5416046635448948,ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)
+acI-B,group00371,8767.800943230795,1696.5558067446682,5.168000314740222,LSU ribosomal protein L19p
+acI-B,group00379,175638.62791469827,1696.5558067446682,103.5265843990783,SSU ribosomal protein S1p
+acI-B,group00380,1050.5867327520996,1696.5558067446682,0.6192467872707078,ATP synthase gamma chain (EC 3.6.3.14)
+acI-B,group00381,378.40841420983344,1696.5558067446682,0.22304507326282366,Protein-export membrane protein SecF (TC 3.A.5.1.1)
+acI-B,group00388,4794.460291969828,1696.5558067446682,2.825996217106105,ATP synthase delta chain (EC 3.6.3.14)
+acI-B,group00392,26396.71337314775,1696.5558067446682,15.55900092894525,Putrescine ABC transporter putrescine-binding protein PotF (TC 3.A.1.11.2)
+acI-B,group00396,250.54365746615426,1696.5558067446682,0.14767781670966343,2-oxoglutarate dehydrogenase E1 component (EC 1.2.4.2)
+acI-B,group00406,778.2259840628658,1696.5558067446682,0.4587093339158214,Cytochrome c oxidase polypeptide III (EC 1.9.3.1)
+acI-B,group00408,9574.002766788512,1696.5558067446682,5.643199433067279,ATP synthase alpha chain (EC 3.6.3.14)
+acI-B,group00409,1827.8675446627042,1696.5558067446682,1.0773990088601892,LSU ribosomal protein L9p
+acI-B,group00411,730.8852082382501,1696.5558067446682,0.4308052852329475,ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92)
+acI-B,group00415,3547.052438835022,1696.5558067446682,2.0907372600027023,"transcriptional regulator, MerR family"
+acI-B,group00416,542.6016842338776,1696.5558067446682,0.3198254263589569,"Ubiquinol--cytochrome c reductase, cytochrome B subunit (EC 1.10.2.2)"
+acI-B,group00421,726.1126369157988,1696.5558067446682,0.4279921910196726,Cytochrome c oxidase polypeptide II (EC 1.9.3.1)
+acI-B,group00427,5219.140313738093,1696.5558067446682,3.0763151397610193,Chaperone protein DnaK
+acI-B,group00432,511.33368865009004,1696.5558067446682,0.30139514810964646,Cysteine synthase (EC 2.5.1.47)
+acI-B,group00433,946.9055077021076,1696.5558067446682,0.5581340171291028,None Provided
+acI-B,group00434,3696.4512663191854,1696.5558067446682,2.1787973325863614,D-xylose transport ATP-binding protein XylG
+acI-B,group00436,9096.998328266978,1696.5558067446682,5.3620389568688545,SSU ribosomal protein S15p (S13e)
+acI-B,group00437,245.50827270813423,1696.5558067446682,0.1447098125108025,(R)-citramalate synthase (EC 2.3.1.182)
+acI-B,group00451,389.578995614704,1696.5558067446682,0.22962934320576445,Potassium channel beta chain
+acI-B,group00458,1184.861945271873,1696.5558067446682,0.698392555412234,FIG021292: hypothetical protein
+acI-B,group00459,377.4560205401958,1696.5558067446682,0.2224837043612813,N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+acI-B,group00460,210.85690808658075,1696.5558067446682,0.12428527682279462,DNA polymerase III subunits gamma and tau (EC 2.7.7.7)
+acI-B,group00461,13761.315565224044,1696.5558067446682,8.111325021267115,Translation initiation factor 3
+acI-B,group00462,695.6767778834001,1696.5558067446682,0.41005239858172227,RNA-binding protein Jag
+acI-B,group00463,512.9136073532877,1696.5558067446682,0.3023263987628326,DNA polymerase III beta subunit (EC 2.7.7.7)
+acI-B,group00465,3136.9461078829704,1696.5558067446682,1.8490085002874774,Segregation and condensation protein A
+acI-B,group00479,270.90839188966123,1696.5558067446682,0.15968139144769847,PLP-dependent aminotransferase NCgl2355 (class III)
+acI-B,group00483,305.7316365961258,1696.5558067446682,0.18020723832407265,Dihydrolipoamide dehydrogenase of branched-chain alpha-keto acid dehydrogenase (EC 1.8.1.4)
+acI-B,group00494,426.6209329026595,1696.5558067446682,0.25146295288762405,"Inner membrane protein translocase component YidC, long form"
+acI-B,group00499,2091.079038605501,1696.5558067446682,1.2325436217850325,Iron-sulfur cluster assembly protein SufB
+acI-B,group00507,10384.170822649106,1696.5558067446682,6.120736365621909,ATP synthase F0 sector subunit b (EC 3.6.3.14)
+acI-B,group00511,1242.3178171979025,1696.5558067446682,0.732258739888815,Aspartate aminotransferase (AspB-4) (EC 2.6.1.1)
+acI-B,group00516,5865.997893186289,1696.5558067446682,3.457592063795354,Branched-chain amino acid transport system permease protein LivM (TC 3.A.1.4.1)
+acI-B,group00517,2144.445081847222,1696.5558067446682,1.2639991406837117,Chromosomal replication initiator protein DnaA
+acI-B,group00522,5750.899035617825,1696.5558067446682,3.3897494045023984,"SSU ribosomal protein S4p (S9e) @ SSU ribosomal protein S4p (S9e), zinc-dependent"
+acI-B,group00523,1731.8462892898556,1696.5558067446682,1.020801250630772,SSU ribosomal protein S9p (S16e)
+acI-B,group00527,6937.857334342005,1696.5558067446682,4.089377612431321,"transcriptional regulator, MerR family"
+acI-B,group00539,8364.52945798563,1696.5558067446682,4.930300214547845,Alpha-glucosidase (EC 3.2.1.20)
+acI-B,group00543,567.7477993622173,1696.5558067446682,0.3346472878199069,SOS-response repressor and protease LexA (EC 3.4.21.88)
+acI-B,group00552,2544.233775830106,1696.5558067446682,1.4996463810477019,CarD-like transcriptional regulator
+acI-B,group00557,7830.301203230347,1696.5558067446682,4.615410334337919,DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+acI-B,group00558,17002.66623512954,1696.5558067446682,10.021872647828816,DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)
+acI-B,group00559,655395.4064400299,1696.5558067446682,386.3093709234328,None Provided
+acI-B,group00580,1267.3966026166668,1696.5558067446682,0.7470409152343375,LSU ribosomal protein L13p (L13Ae)
+acI-B,group00586,1305.8025602717175,1696.5558067446682,0.7696785187262873,probable iron binding protein from the HesB_IscA_SufA family
+acI-B,group00593,8710.989988909772,1696.5558067446682,5.134514263709557,Ribonucleotide reductase transcriptional regulator NrdR
+acI-B,group00594,1355.4102555761579,1696.5558067446682,0.7989187565700556,SSU ribosomal protein S11p (S14e)
+acI-B,group00595,1678.1269830942906,1696.5558067446682,0.9891375081343545,SSU ribosomal protein S13p (S18e)
+acI-B,group00605,398.76284746795017,1696.5558067446682,0.2350425761903416,hypothetical protein
+acI-B,group00607,215.29493570090818,1696.5558067446682,0.1269011811135253,"Prolyl-tRNA synthetase (EC 6.1.1.15), bacterial type"
+acI-B,group00610,8344.982060655193,1696.5558067446682,4.91877840238421,DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)
+acI-B,group00611,2283.8516484766405,1696.5558067446682,1.3461694801887294,Preprotein translocase secY subunit (TC 3.A.5.1.1)
+acI-B,group00618,1703.944321295741,1696.5558067446682,1.0043550082594983,LSU ribosomal protein L17p
+acI-B,group00634,6614.969734437664,1696.5558067446682,3.899058143645974,High-affinity branched-chain amino acid transport system permease protein LivH (TC 3.A.1.4.1)
+acI-B,group00643,748.7028078420681,1696.5558067446682,0.44130750362917354,Transcription antitermination protein NusG
+acI-B,group00649,13974.629840877042,1696.5558067446682,8.23705874296667,hypothetical protein
+acI-B,group00650,679.8329303870995,1696.5558067446682,0.4007135678557814,hypothetical protein
+acI-B,group00654,43512.54459003958,1696.5558067446682,25.647576352664135,"Glycerol-3-phosphate ABC transporter, ATP-binding protein UgpC (TC 3.A.1.1.3)"
+acI-B,group00657,330.41455771581303,1696.5558067446682,0.19475607958326388,ATPase involved in DNA repair
+acI-B,group00660,979.6633198604507,1696.5558067446682,0.5774424371811366,LemA protein
+acI-B,group00663,464.7120876261112,1696.5558067446682,0.27391500225259047,"Electron transfer flavoprotein, beta subunit"
+acI-B,group00666,7280.347148222409,1696.5558067446682,4.291251203927005,LSU ribosomal protein L10p (P0)
+acI-B,group00669,6716.759988507487,1696.5558067446682,3.959056319753801,LSU ribosomal protein L11p (L12e)
+acI-B,group00671,997.9394189406876,1696.5558067446682,0.5882149086834475,WhiB-family transcriptional regulator
+acI-B,group00674,626.8209554026616,1696.5558067446682,0.36946674722442435,Gamma-aminobutyrate:alpha-ketoglutarate aminotransferase (EC 2.6.1.19)
+acI-B,group00676,432.76957162520335,1696.5558067446682,0.2550871417873348,Predicted ATPase related to phosphate starvation-inducible protein PhoH
+acI-B,group00682,420.45379356648164,1696.5558067446682,0.2478278591809152,"Electron transfer flavoprotein, alpha subunit"
+acI-B,group00695,517.3210032064256,1696.5558067446682,0.30492424779061955,"ubiquinol cytochrome C oxidoreductase, cytochrome C1 subunit"
+acI-B,group00709,13350.284660062962,1696.5558067446682,7.869051290260433,Translation elongation factor G
+acI-B,group00715,1074.8442843052912,1696.5558067446682,0.6335449031692568,LSU ribosomal protein L15p (L27Ae)
+acI-B,group00718,544.9057664642454,1696.5558067446682,0.32118352034042685,None Provided
+acI-B,group00723,2625.2154003984424,1696.5558067446682,1.5473793375743268,Phosphomannomutase (EC 5.4.2.8)
+acI-B,group00734,615.298234487534,1696.5558067446682,0.36267491587451006,Glutamate racemase (EC 5.1.1.3)
+acI-B,group00738,516139.9470113141,1696.5558067446682,304.2280984565297,Translation elongation factor Tu
+acI-B,group00739,23358.359926674977,1696.5558067446682,13.768105849400103,Pyrophosphate-energized proton pump (EC 3.6.1.1)
+acI-B,group00744,4697.577312580612,1696.5558067446682,2.768890533341352,Inositol-1-phosphate synthase (EC 5.5.1.4)
+acI-B,group00756,252.56091718810396,1696.5558067446682,0.14886684905032094,Fumarate hydratase class I (EC 4.2.1.2)
+acI-B,group00767,545.4367225658583,1696.5558067446682,0.321496481517125,Uracil phosphoribosyltransferase (EC 2.4.2.9)
+acI-B,group00771,8340.411310616579,1696.5558067446682,4.916084267584492,LSU ribosomal protein L7/L12 (P1/P2)
+acI-B,group00774,450751.93538251566,1696.5558067446682,265.68647703220165,Proteorhodopsin
+acI-B,group00786,505.6158410601944,1696.5558067446682,0.2980248802014738,Carboxynorspermidine dehydrogenase
+acI-B,group00787,5147.557766815816,1696.5558067446682,3.034122276645229,"Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1)"
+acI-B,group00789,26052.486509188733,1696.5558067446682,15.35610346893212,Glutamine synthetase type I (EC 6.3.1.2)
+acI-B,group00791,1657.180840779906,1696.5558067446682,0.9767912344479169,SSU ribosomal protein S3p (S3e)
+acI-B,group00794,2091.2043943175004,1696.5558067446682,1.232617510136657,None Provided
+acI-B,group00800,3937.192988578541,1696.5558067446682,2.3206975997643022,LSU ribosomal protein L1p (L10Ae)
+acI-B,group00809,291.8481709729201,1696.5558067446682,0.1720239144581486,Aldehyde dehydrogenase (EC 1.2.1.3)
+acI-B,group00817,1315.545248059212,1696.5558067446682,0.7754211460827011,Nickel-dependent superoxide dismutase (EC 1.15.1.1)
+acI-B,group00819,1246.7885277773717,1696.5558067446682,0.7348939084825599,LSU ribosomal protein L14p (L23e)
+acI-B,group00820,1106.457351490741,1696.5558067446682,0.6521785767918821,LSU ribosomal protein L18p (L5e)
+acI-B,group00821,313.1291248935512,1696.5558067446682,0.1845675359741804,Metallopeptidase
+acI-B,group00824,1630.9606921493328,1696.5558067446682,0.9613363059826493,SSU ribosomal protein S5p (S2e)
+acI-B,group00836,341.4075964728206,1696.5558067446682,0.20123570065632534,Enoyl-CoA hydratase (EC 4.2.1.17) / 3-hydroxyacyl-CoA dehydrogenase (EC 1.1.1.35) / 3-hydroxybutyryl-CoA epimerase (EC 5.1.2.3)
+acI-B,group00838,383.50026648756756,1696.5558067446682,0.2260463610822349,Oligopeptide transport system permease protein OppB (TC 3.A.1.5.1)
+acI-B,group00844,1833.0310123029942,1696.5558067446682,1.0804425088852179,LSU ribosomal protein L6p (L9e)
+acI-B,group00847,1083.525592910622,1696.5558067446682,0.6386619223505995,LSU ribosomal protein L22p (L17e)
+acI-B,group00849,533.1457169683125,1696.5558067446682,0.314251800529513,FIG01121526: hypothetical protein
+acI-B,group00853,2087.8369154216593,1696.5558067446682,1.2306326188159862,LSU ribosomal protein L16p (L10e)
+acI-B,group00861,27144.906504241786,1696.5558067446682,16.000008014075952,SSU ribosomal protein S19p (S15e)
+acI-B,group00872,1394.1362628783338,1696.5558067446682,0.8217450067577715,SSU ribosomal protein S17p (S11e)
+acI-B,group00876,55727.532411005384,1696.5558067446682,32.84745022206769,Xanthine/uracil/thiamine/ascorbate permease family protein
+acI-B,group00885,7193.650911294829,1696.5558067446682,4.240149886432515,LSU ribosomal protein L2p (L8e)
+acI-B,group00895,1227.5413635406712,1696.5558067446682,0.7235490625540126,LSU ribosomal protein L24p (L26e)
+acI-B,group00896,1136.7956982251646,1696.5558067446682,0.6700608926071434,LSU ribosomal protein L5p (L11e)
+acI-B,group00906,2205.567134631739,1696.5558067446682,1.3000262802222557,hypothetical protein
+acI-B,group00912,2974.157360807112,1696.5558067446682,1.7530560144165792,None Provided
+acI-B,group00916,1460.0751401766333,1696.5558067446682,0.8606113246449634,SSU ribosomal protein S8p (S15Ae)
+acI-B,group00920,2128.2168614735624,1696.5558067446682,1.25443374925412,LSU ribosomal protein L4p (L1e)
+acI-B,group00921,1251.918339509998,1696.5558067446682,0.7379175707235736,LSU ribosomal protein L3p (L3e)
+acI-B,group00940,1588.044903758294,1696.5558067446682,0.9360404753236006,None Provided
+acI-B,group00944,1183.9798410856338,1696.5558067446682,0.6978726172040522,SSU ribosomal protein S7p (S5e)
+acI-B,group00945,2212.0295371002894,1696.5558067446682,1.3038354107223307,SSU ribosomal protein S12p (S23e)
+acI-B,group00977,194.12780010088196,1696.5558067446682,0.11442464747055515,hypothetical protein
+acI-B,group00991,27523.68532390881,1696.5558067446682,16.223271415233278,SSU ribosomal protein S10p (S20e)
+acI-B,group01006,663.8744108944446,1696.5558067446682,0.39130714607512923,Acyl-CoA dehydrogenase (EC 1.3.8.7)
+acI-B,group01009,59383.5499546138,1696.5558067446682,35.00241472666807,"Branched-chain amino acid ABC transporter, amino acid-binding protein (TC 3.A.1.4.1)"
+acI-B,group01012,415.4244419687964,1696.5558067446682,0.24486341110458842,hypothetical protein
+acI-B,group01033,2547.634394083374,1696.5558067446682,1.5016508056824525,Amino acid/metabolite permease in hypothetical Actinobacterial gene cluster; BAT1-like
+acI-B,group01055,641.5801209763475,1696.5558067446682,0.37816623445320324,None Provided
+acI-B,group01073,2839.9072021595684,1696.5558067446682,1.6739250137658306,None Provided
+acI-B,group01096,1367.4586365517464,1696.5558067446682,0.8060204274539076,NAD-specific glutamate dehydrogenase (EC 1.4.1.2); NADP-specific glutamate dehydrogenase (EC 1.4.1.4)
+acI-B,group01108,797.3001503389164,1696.5558067446682,0.46995220974709156,"Predicted beta-glucoside-regulated ABC transport system, permease component 2, COG0395"
+acI-B,group01123,49062.08030202924,1696.5558067446682,28.91863627885545,hypothetical protein
+acI-B,group01124,21599.666706979493,1696.5558067446682,12.731480226650891,hypothetical protein
+acI-B,group01149,64138.53966665879,1696.5558067446682,37.805145820535714,None Provided
+acI-B,group01164,1815.7194333130092,1696.5558067446682,1.0702385539541965,None Provided
+acI-B,group01173,11372.136095521808,1696.5558067446682,6.703072218615981,"Oligopeptide ABC transporter, periplasmic oligopeptide-binding protein OppA (TC 3.A.1.5.1)"
+acI-B,group01189,42080.453619037806,1696.5558067446682,24.80345972218933,hypothetical protein
+acI-B,group01195,1442.2099271155175,1696.5558067446682,0.8500810414735566,None Provided
+acI-B,group01210,1689.1672921935951,1696.5558067446682,0.9956449917405016,hypothetical protein
+acI-B,group01211,8466.523515440691,1696.5558067446682,4.990418518378219,hypothetical protein
+acI-B,group01225,6658.4966147858795,1696.5558067446682,3.9247141699170665,"Oligopeptide ABC transporter, periplasmic oligopeptide-binding protein OppA (TC 3.A.1.5.1)"
+acI-B,group01230,3208.0976503734382,1696.5558067446682,1.890947316686917,hypothetical protein
+acI-B,group01245,306.58089114222616,1696.5558067446682,0.180707813986084,L-arabonate dehydratase (EC 4.2.1.25)
+acI-B,group01269,612.2895749127817,1696.5558067446682,0.36090152323821045,Fructose-bisphosphate aldolase class I (EC 4.1.2.13)
+acI-B,group01277,736.4856745860244,1696.5558067446682,0.43410636517709644,Substrate-specific component NikM of nickel ECF transporter
+acI-B,group01299,22394.342579987573,1696.5558067446682,13.199885609986259,"Maltose/maltodextrin ABC transporter, substrate binding periplasmic protein MalE"
+acI-B,group01311,40497.573072901374,1696.5558067446682,23.870463271472133,None Provided
+acI-B,group01387,267.23209717290996,1696.5558067446682,0.1575144749795598,"Maltose/maltodextrin ABC transporter, permease protein MalF"
+acI-B,group01406,9107.211025130688,1696.5558067446682,5.3680586214287285,Uracil permease
+acI-B,group01456,516186.4828830432,1696.5558067446682,304.25552807101343,"Possible fucose ABC transporter, substrate-binding component"
+acI-B,group01461,30197.682125440682,1696.5558067446682,17.79940394851122,"Branched-chain amino acid ABC transporter, amino acid-binding protein (TC 3.A.1.4.1)"
+acI-B,group01474,272.7869696757047,1696.5558067446682,0.16078868056755835,Homospermidine synthase( EC:2.5.1.44 )
+acI-B,group01542,406039.1846752573,1696.5558067446682,239.33146381689656,None Provided
+acI-B,group01543,543.1699725500001,1696.5558067446682,0.3201603922432876,"ABC sugar transporter, inner membrane subunit"
+acI-B,group01650,1058.1038430580547,1696.5558067446682,0.623677593658609,hypothetical protein
+acI-B,group01658,471.70023931973697,1696.5558067446682,0.278034024842855,None Provided
+acI-B,group01671,104769.04106974731,1696.5558067446682,61.753960968001955,"ABC transporter, periplasmic spermidine putrescine-binding protein PotD (TC 3.A.1.11.1)"
+acI-B,group01771,69804.1135775113,1696.5558067446682,41.14460208146683,hypothetical protein
+acI-B,group01823,595.9390761008422,1696.5558067446682,0.3512640572928298,"Indoleamine 2,3-dioxygenase (EC 1.13.11.52)"
+acI-B,group01837,353.7360667004728,1696.5558067446682,0.20850246440122563,hypothetical protein
+acI-B,group01884,10160.235711657344,1696.5558067446682,5.988742410515035,None Provided
+acI-B,group01908,307.3246270874082,1696.5558067446682,0.1811461938744586,Aldehyde dehydrogenase B (EC 1.2.1.22)
+acI-B,group01910,92357.03693733549,1696.5558067446682,54.437959877399564,None Provided
+acI-B,group01970,21077.260468738037,1696.5558067446682,12.42355859143876,hypothetical protein
+acI-B,group01979,341089.57858070504,1696.5558067446682,201.0482515368497,"Predicted L-rhamnose ABC transporter, substrate-binding component"
+acI-B,group01984,17690.997437113554,1696.5558067446682,10.427595347457999,Amino acid permease in hypothetical Actinobacterial gene cluster
+acI-B,group01990,18067.383320740813,1696.5558067446682,10.64944828157955,None Provided
+acI-B,group02003,343275.67529562966,1696.5558067446682,202.3368013777885,"Branched-chain amino acid ABC transporter, amino acid-binding protein (TC 3.A.1.4.1)"
+acI-B,group02019,1134.5509951809356,1696.5558067446682,0.6687377984682384,None Provided
+acI-B,group02026,124067.28546555729,1696.5558067446682,73.12891504796188,"Fructose ABC transporter, substrate-binding component FrcB"
+acI-B,group02028,987.1335194672297,1696.5558067446682,0.5818455930202084,Tryptophan synthase beta chain like (EC 4.2.1.20)
+acI-B,group02056,12241.840298966847,1696.5558067446682,7.215701511438253,hypothetical protein
+acI-B,group02058,6923.335680915781,1696.5558067446682,4.08081812186314,"N-Acetyl-D-glucosamine ABC transport system, sugar-binding protein"
+acI-B,group02174,1298.8267163460246,1696.5558067446682,0.7655667506972248,Transporter
+acI-B,group02215,778.9208286914933,1696.5558067446682,0.4591188958211034,hypothetical protein
+acI-B,group02290,6327.180212125487,1696.5558067446682,3.7294265163407783,hypothetical protein
+acI-B,group02507,2750.456575791581,1696.5558067446682,1.6212001779470642,None Provided
+acI-B,group02624,10955.962111235667,1696.5558067446682,6.457767005176117,None Provided
+acI-B,group02798,11227.817025336564,1696.5558067446682,6.61800630471471,None Provided
+acI-B,group02824,9209.035906030998,1696.5558067446682,5.428077207611102,None Provided
+acI-B,group02891,7881.253031375398,1696.5558067446682,4.645442843697465,Triosephosphate isomerase (EC 5.3.1.1)
+acI-B,group02954,41150.89367032688,1696.5558067446682,24.255549688805544,None Provided
+acI-B,group02955,71500.791543974,1696.5558067446682,42.1446740860054,hypothetical protein
+acI-B,group03036,631500.4547772949,1696.5558067446682,372.2249820882761,Uncharacterized homolog of gamma-carboxymuconolactone decarboxylase subunit
+acI-B,group03043,34080.78509298441,1696.5558067446682,20.0882192955257,hypothetical protein
+acI-B,group03249,15656.266550174629,1696.5558067446682,9.228264987177576,hypothetical protein
+acI-B,group03256,82595.77165331678,1696.5558067446682,48.684382396946084,"Mg(2+) transport ATPase, P-type (EC 3.6.3.2)"
+acI-B,group03260,13468.215012570336,1696.5558067446682,7.938562916131237,None Provided
+acI-B,group03430,141929.99312739715,1696.5558067446682,83.65772146318652,hypothetical protein
+acI-B,group03591,2527435.1117047747,1696.5558067446682,1489.7447532565334,None Provided
+acI-B,group03975,193445.6269522979,1696.5558067446682,114.02255450911406,hypothetical protein
+acI-B,group04170,38727.96059270123,1696.5558067446682,22.82740151472647,hypothetical protein
+acI-B,group04203,5975.8709271638445,1696.5558067446682,3.522354468627989,hypothetical protein
+acI-B,group04705,204801.7663932607,1696.5558067446682,120.71619782801721,hypothetical protein
+acI-B,group04756,1012873.7099691457,1696.5558067446682,597.017620017249,None Provided

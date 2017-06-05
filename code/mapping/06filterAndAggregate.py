@@ -1,6 +1,6 @@
 #%%#############################################################################
 # filterAndAggregate.py
-# Copyright (c) 2016, Joshua J Hamilton and Katherine D McMahon
+# Copyright (c) 2017, Joshua J Hamilton and Katherine D McMahon
 # Affiliation: Department of Bacteriology
 #              University of Wisconsin-Madison, Madison, Wisconsin, USA
 # URL: http://http://mcmahonlab.wisc.edu/
@@ -26,6 +26,7 @@ genomeFolder = '../../data/refGenomes/concat'
 sampleFolder = '../../data/sequences'
 mapFolder = '../../data/mapping'
 bamFolder = '../../data/mapping/bamFiles'
+coverageFolder = '../data/mapping/coverage-pooled'
 countFolder = '../../data/mapping/htseq'
 
 cogTable = '../../data/orthoMCL/cogTable.csv'
@@ -33,18 +34,17 @@ taxonFile = '../../data/externalData/taxonomy.csv'
 
 # Check that the new output directory exists and create if it doesn't
 if not os.path.exists(countFolder):
-        print "Creating output directory\n"
+        print("Creating output directory\n")
         os.makedirs(countFolder)
 
 #%%#############################################################################
-### Read in MT and genome lists. Create DF to store read countDict.
+### Read in sample and genome lists. Create DF to store read countDict.
 ################################################################################
-# Read in list of MTs
+# Read in list of samples
 sampleList = []
 for sample in os.listdir(sampleFolder):
     if sample.endswith('.fastq'):
        sampleList.append(sample)
-
 sampleList = [sample.replace('.fastq', '') for sample in sampleList]
 
 # Read in list of genomes. Ignore internal standard genome.
@@ -59,7 +59,7 @@ genomeList = [genome.replace('.fna', '') for genome in genomeList]
 ### Count the reads which align to each CDS
 ################################################################################
 
-# Define parameters for HTSeq-Count script, which we reimplement below.
+# Define parameters for HTSeq-Count script
 minQual = 0
 featureType = 'CDS'
 idAttr = 'locus_tag'
@@ -76,8 +76,8 @@ for sample in sampleList:
                         gffFile+' > '+outFile, shell=True)
                         
 #%%#############################################################################
-### Filtering. In this section, filter out all coding sequences which do not 
-### have at least one read in all samples.
+### Filtering. In this section, filter out all coding sequences which do not
+### recruit at least 50 reads
 ################################################################################
 
 # First, read in the read counts for each CDS
@@ -97,19 +97,17 @@ for sample in sampleList:
 # Drop stats from the readCountsDF
 readCountDF = readCountDF[:-5]
 
-# Filter the results
-cutoff = 1
-for sample in sampleList:
-    readCountDF = readCountDF.loc[readCountDF[sample] >= cutoff ]
+# Compute total reads across all four samples
+readCountDF = readCountDF.sum(axis=1)
+readCountDF.to_csv(countFolder+'/readCounts.csv', sep=',')
 
-# Write new CDS files
-for sample in sampleList:
-    tempDF = readCountDF[sample]
-    tempDF.to_csv(countFolder+'/'+sample+'-'+genome+'.CDS.out', sep='\t')
+# Filter the results and write to file
+cutoff = 50
+readCountDF = readCountDF.loc[readCountDF >= cutoff]
+readCountDF.to_csv(countFolder+'/filteredReadCounts.csv', sep=',')
     
 #%%#############################################################################
-### Count total and unique reads which map to each (clade, group) pairing
-### Requires integrating data from taxonomy and cog tables into a single data
+### Integrate data from taxonomy and cog tables into a single data
 ###  structure
 ################################################################################
 
@@ -161,29 +159,26 @@ cladeCogToCdsDF = cladeCogToCdsDF.dropna(axis=0, how='any')
 
 cladeCogToCdsDF.to_csv(mapFolder+'/cladesCogsToCDS.csv')
 
-#%%#############################################################################
-### Count total reads which map to each (clade, group) pairing
-### Requires integrating data from taxonomy and cog tables into a single data
-###  structure
-################################################################################
-
-# Convert the cladeCogToCdsDF to a multi-index so we can construct the 
-# count table for COGs
-
-cladeCogToCdsDF = cladeCogToCdsDF.set_index([cladeCogToCdsDF.index, 'COG'])
-
-# For each MT, construct the count table and write to file
-for sample in sampleList:
-    for genome in genomeList:    
-    # Reset columns for total and unique reads
-        cladeCogToCdsDF['Total'] = 0
-
-        for index in cladeCogToCdsDF.index:
-            cdsList = cladeCogToCdsDF.loc[index, 'CDS'].split(',')
-            readList = []
-            for cds in cdsList:
-                if cds in readCountDF.index:
-                    cladeCogToCdsDF = cladeCogToCdsDF.set_value(index, 'Total', cladeCogToCdsDF.loc[index, 'Total'] + readCountDF.loc[cds, sample])
-        
-        cladeCogToCdsDF = cladeCogToCdsDF.loc[cladeCogToCdsDF['Total'] > 0 ]
-        cladeCogToCdsDF.to_csv(countFolder+'/'+sample+'-'+genome+'.COG.out')
+##%%#############################################################################
+#### Count total reads which map to each (clade, group) pairing
+#################################################################################
+#
+## Convert the cladeCogToCdsDF to a multi-index so we can construct the 
+## count table for COGs
+#
+#cladeCogToCdsDF = cladeCogToCdsDF.set_index([cladeCogToCdsDF.index, 'COG'])
+#
+## For each genome, construct the count table and write to file
+#for genome in genomeList:    
+## Reset columns for total and unique reads
+#    cladeCogToCdsDF['Total'] = 0
+#
+#    for index in cladeCogToCdsDF.index:
+#        cdsList = cladeCogToCdsDF.loc[index, 'CDS'].split(',')
+#        readList = []
+#        for cds in cdsList:
+#            if cds in readCountDF.index:
+#                cladeCogToCdsDF = cladeCogToCdsDF.set_value(index, 'Total', cladeCogToCdsDF.loc[index, 'Total'] + readCountDF.loc[cds])
+#    
+#    cladeCogToCdsDF = cladeCogToCdsDF.loc[cladeCogToCdsDF['Total'] > 0 ]
+#    cladeCogToCdsDF.to_csv(countFolder+'/'+genome+'.COG.out')
