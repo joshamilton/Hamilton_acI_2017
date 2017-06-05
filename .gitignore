@@ -10,3 +10,11 @@ figures/fig1-tree/tree.aln
 figures/fig1-tree/tree.nwk
 figures/fig2-sampling/*.csv
 figures/fig2-sampling/*.png
+
+# Data folders which are too large for github
+data/mapping/bamFiles
+data/sequences/
+
+# Old versions of the MS
+manuscript/OldVersions/
+submissions/
