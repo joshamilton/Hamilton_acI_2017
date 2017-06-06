@@ -22,11 +22,12 @@ import subprocess
 ### Static folder structure
 ################################################################################
 # Define fixed input and output files
-genomeFolder = '../../data/refGenomes/concat'
+concatFolder = '../../data/refGenomes/concat'
+genomeFolder = '../../data/refGenomes/fna'
 sampleFolder = '../../data/sequences'
 mapFolder = '../../data/mapping'
 bamFolder = '../../data/mapping/bamFiles'
-coverageFolder = '../data/mapping/coverage-pooled'
+coverageFolder = '../../data/mapping/coverage-pooled'
 countFolder = '../../data/mapping/htseq'
 
 cogTable = '../../data/orthoMCL/cogTable.csv'
@@ -47,13 +48,21 @@ for sample in os.listdir(sampleFolder):
        sampleList.append(sample)
 sampleList = [sample.replace('.fastq', '') for sample in sampleList]
 
-# Read in list of genomes. Ignore internal standard genome.
+# Read in list of genomes.
 genomeList = []
 for genome in os.listdir(genomeFolder):
     if genome.endswith('.fna'):
        genomeList.append(genome)
 
 genomeList = [genome.replace('.fna', '') for genome in genomeList]
+
+# Read in list of genomes.
+concatList = []
+for concat in os.listdir(concatFolder):
+    if concat.endswith('.fna'):
+       concatList.append(concat)
+
+concatList = [concat.replace('.fna', '') for concat in concatList]
 
 #%%#############################################################################
 ### Count the reads which align to each CDS
@@ -66,10 +75,10 @@ idAttr = 'locus_tag'
 overlapMode = 'intersection-strict'
 
 for sample in sampleList:
-    for genome in genomeList:
-        samFile = bamFolder+'/'+sample+'-'+genome+'.sam'
-        gffFile = genomeFolder+'/'+genome+'.gff' 
-        outFile = countFolder+'/'+sample+'-'+genome+'.CDS.out'
+    for concat in concatList:
+        samFile = bamFolder+'/'+sample+'-'+concat+'.sam'
+        gffFile = concatFolder+'/'+concat+'.gff' 
+        outFile = countFolder+'/'+sample+'-'+concat+'.CDS.out'
         
         subprocess.call('htseq-count -f sam -r pos -s no -a 0 -t CDS -i '+
                         'locus_tag -m intersection-strict '+samFile+' '+
@@ -83,13 +92,13 @@ for sample in sampleList:
 # First, read in the read counts for each CDS
 
 # Create empty dataframe to merge into
-tempDF = pd.read_csv(countFolder+'/'+sampleList[0]+'-'+genomeList[0]+'.CDS.out', sep='\t', index_col=0, names=[sampleList[0]])
+tempDF = pd.read_csv(countFolder+'/'+sampleList[0]+'-'+concatList[0]+'.CDS.out', sep='\t', index_col=0, names=[sampleList[0]])
 readCountDF = pd.DataFrame(index=tempDF.index)
 
 # And read in the counts
 for sample in sampleList:
-    for genome in genomeList:
-        tempDF = pd.read_csv(countFolder+'/'+sample+'-'+genome+'.CDS.out', sep='\t', index_col=0, names=[sample])
+    for concat in concatList:
+        tempDF = pd.read_csv(countFolder+'/'+sample+'-'+concat+'.CDS.out', sep='\t', index_col=0, names=[sample])
         tempDF = tempDF[:-5]
         # Merge with readCountDF
         readCountDF = pd.concat([readCountDF, tempDF], axis=1, join='outer')
@@ -97,13 +106,27 @@ for sample in sampleList:
 # Drop stats from the readCountsDF
 readCountDF = readCountDF[:-5]
 
-# Compute total reads across all four samples
-readCountDF = readCountDF.sum(axis=1)
+# Add gene coverage information for filtering
+for genome in genomeList:
+    coverageDF = pd.read_csv(coverageFolder+'/'+genome+'.gene.coverage', sep=',', index_col=0, header=0)    
+    for gene in coverageDF.index:
+        readCountDF.loc[gene, 'Coverage'] = coverageDF.loc[gene, 'Coverage']
+
 readCountDF.to_csv(countFolder+'/readCounts.csv', sep=',')
 
-# Filter the results and write to file
-cutoff = 50
-readCountDF = readCountDF.loc[readCountDF >= cutoff]
+# Filter the results
+## First, drop all genes which don't recruit at least one read in each sample
+## Second, drop all genes which don't have coverage > 1 in the pooled samples
+readCutoff = 1
+coverageCutoff = 1
+for sample in sampleList:
+    readCountDF = readCountDF.loc[readCountDF[sample] >= readCutoff ]
+    
+readCountDF = readCountDF.loc[readCountDF['Coverage'] >= coverageCutoff ]
+readCountDF = readCountDF.drop('Coverage', axis=1)
+
+# Compute total reads across all four samples
+readCountDF = readCountDF.sum(axis=1)
 readCountDF.to_csv(countFolder+'/filteredReadCounts.csv', sep=',')
     
 #%%#############################################################################
@@ -115,17 +138,17 @@ readCountDF.to_csv(countFolder+'/filteredReadCounts.csv', sep=',')
 cladeToGenomeDict = {}
 cladeList = []
 
-for genome in genomeList:
+for concat in concatList:
     taxonClass = pd.DataFrame.from_csv(taxonFile, sep=',')
     taxonClass = taxonClass.dropna()
     
 # Extract the unique clades
-    taxonClass = taxonClass.drop(taxonClass[taxonClass['Lineage'] != genome].index)
+    taxonClass = taxonClass.drop(taxonClass[taxonClass['Lineage'] != concat].index)
     innerCladeList = pd.unique(taxonClass['Clade'].values)
     
     for clade in innerCladeList:
-        innerGenomeList = taxonClass[taxonClass['Clade'] == clade].index.tolist()
-        cladeToGenomeDict[clade] = innerGenomeList
+        innerconcatList = taxonClass[taxonClass['Clade'] == clade].index.tolist()
+        cladeToGenomeDict[clade] = innerconcatList
 
     cladeList = cladeList + innerCladeList.tolist()
 
@@ -139,10 +162,10 @@ cladeCogToCdsDF = pd.DataFrame(index=cladeCogToCdsIndex, columns=['CDS'])
 for index in cladeCogToCdsDF.index:
     clade = index[0]
     cog = index[1]
-    innerGenomeList = cladeToGenomeDict[clade]
+    innerconcatList = cladeToGenomeDict[clade]
     cdsList = []
 
-    for innerGenome in innerGenomeList:
+    for innerGenome in innerconcatList:
         if not pd.isnull(cogTableDF.loc[cog][innerGenome]):
             tempList = cogTableDF.loc[cog][innerGenome].split(';')        
             cdsList = cdsList + tempList
@@ -158,27 +181,3 @@ cladeCogToCdsDF = pd.read_csv(mapFolder+'/cladesCogsToCDS.csv', index_col=0)
 cladeCogToCdsDF = cladeCogToCdsDF.dropna(axis=0, how='any')
 
 cladeCogToCdsDF.to_csv(mapFolder+'/cladesCogsToCDS.csv')
-
-##%%#############################################################################
-#### Count total reads which map to each (clade, group) pairing
-#################################################################################
-#
-## Convert the cladeCogToCdsDF to a multi-index so we can construct the 
-## count table for COGs
-#
-#cladeCogToCdsDF = cladeCogToCdsDF.set_index([cladeCogToCdsDF.index, 'COG'])
-#
-## For each genome, construct the count table and write to file
-#for genome in genomeList:    
-## Reset columns for total and unique reads
-#    cladeCogToCdsDF['Total'] = 0
-#
-#    for index in cladeCogToCdsDF.index:
-#        cdsList = cladeCogToCdsDF.loc[index, 'CDS'].split(',')
-#        readList = []
-#        for cds in cdsList:
-#            if cds in readCountDF.index:
-#                cladeCogToCdsDF = cladeCogToCdsDF.set_value(index, 'Total', cladeCogToCdsDF.loc[index, 'Total'] + readCountDF.loc[cds])
-#    
-#    cladeCogToCdsDF = cladeCogToCdsDF.loc[cladeCogToCdsDF['Total'] > 0 ]
-#    cladeCogToCdsDF.to_csv(countFolder+'/'+genome+'.COG.out')
