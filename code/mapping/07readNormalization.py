@@ -118,21 +118,21 @@ for concat in concatList:
 
     # Read in the DF of gene counts
     geneCountDF = pd.read_csv(countFolder+'/filteredReadCounts.csv', sep=',', index_col=0, header=None, names=['Count'])
+    geneCountDF['RPKM'] = 0
+    
     # For each (clade, COG) pairing, read in the list of genes
     for index in cladeCogToCdsDF.index:
-        totRPKM = float(0)
-        if not pd.isnull(cladeCogToCdsDF.loc[index, 'CDS']):
-            cdsList = cladeCogToCdsDF.loc[index, 'CDS'].split(',')
-            # For each gene, comput the RPKM and update for the COG
-            for cds in cdsList:
-                if cds in geneCountDF.index:
-                    genome = cds.split('.')[0]
-                    # Sometimes low abundance genomes don't map any reads, so check for this before computing RPKM
-                    if totalMappedReadsDF.loc[genome] > 0:
-                        curRPKM = float(geneCountDF.loc[cds]['Count']) / ((geneLengthDict[cds] / 1000)*(totalMappedReadsDF[genome] / 1000000))
-                        totRPKM = totRPKM + curRPKM
-        cladeCogNormDF.loc[index]['RPKM'] = totRPKM
+        cdsList = cladeCogToCdsDF.loc[index, 'CDS'].split(',')
+        # For each gene, comput the RPKM and update for the COG
+        for cds in cdsList:
+            if cds in geneCountDF.index:
+                genome = cds.split('.')[0]
+                # Sometimes low abundance genomes don't map any reads, so check for this before computing RPKM
+                rpkm = float(geneCountDF.loc[cds]['Count']) / ((geneLengthDict[cds] / 1000)*(totalMappedReadsDF[genome] / 1000000))
+                geneCountDF.loc[cds, 'RPKM'] = rpkm
+        cladeCogNormDF.loc[index]['RPKM'] = rpkm
 
+    geneCountDF.to_csv(countFolder+'/filteredReadCounts.csv', sep=',', index=True, header=True)
     cladeCogNormDF = cladeCogNormDF.loc[cladeCogNormDF['RPKM'] > 0]
     cladeCogNormDF.to_csv(countFolder+'/'+concat+'.COG.norm')
 
