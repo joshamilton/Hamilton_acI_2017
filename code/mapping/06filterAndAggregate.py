@@ -114,19 +114,11 @@ for genome in genomeList:
 
 readCountDF.to_csv(countFolder+'/readCounts.csv', sep=',')
 
-# Filter the results
-## First, drop all genes which don't recruit at least one read in each sample
-## Second, drop all genes which don't have coverage > 1 in the pooled samples
-readCutoff = 1
-coverageCutoff = 1
-for sample in sampleList:
-    readCountDF = readCountDF.loc[readCountDF[sample] >= readCutoff ]
-    
-readCountDF = readCountDF.loc[readCountDF['Coverage'] >= coverageCutoff ]
-readCountDF = readCountDF.drop('Coverage', axis=1)
-
-# Compute total reads across all four samples
+# Filter the results by dropping all genes which don't recruit at least ten reads
+readCutoff = 10
 readCountDF = readCountDF.sum(axis=1)
+readCountDF = readCountDF.loc[readCountDF >= readCutoff]
+
 readCountDF.to_csv(countFolder+'/filteredReadCounts.csv', sep=',')
     
 #%%#############################################################################
