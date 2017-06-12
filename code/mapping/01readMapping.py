@@ -52,24 +52,24 @@ for genome in os.listdir(genomeFolder):
 
 genomeList = [genome.replace('.fna', '') for genome in genomeList]
 
-#%%#############################################################################
-### Run BBMap
-################################################################################
-    
-i = 1
-for sample in sampleList:
-    for genome in genomeList:
-        print('Mapping pair '+str(i)+' of '+str(len(sampleList)*len(genomeList)))
-        
-        subprocess.call(['bbmap.sh', 'ref='+genomeFolder+'/'+genome+'.fna',
-                         'in='+sampleFolder+'/'+sample+'.fastq',
-                         'outm='+bamFolder+'/'+sample+'-'+genome+'.sam',
-                         'minid=0.80', 
-                         'ambig=random', 
-                         'nodisk', 
-                         'sam=1.3'
-                ])
-        i = i+1
+##%%#############################################################################
+#### Run BBMap
+#################################################################################
+#    
+#i = 1
+#for sample in sampleList:
+#    for genome in genomeList:
+#        print('Mapping pair '+str(i)+' of '+str(len(sampleList)*len(genomeList)))
+#        
+#        subprocess.call(['bbmap.sh', 'ref='+genomeFolder+'/'+genome+'.fna',
+#                         'in='+sampleFolder+'/'+sample+'.fastq',
+#                         'outm='+bamFolder+'/'+sample+'-'+genome+'.sam',
+#                         'minid=0.80', 
+#                         'ambig=random', 
+#                         'nodisk', 
+#                         'sam=1.3'
+#                ])
+#        i = i+1
         
 #%%#############################################################################
 ### Count reads
@@ -83,7 +83,7 @@ for sample in sampleList:
         print('Counting pair '+str(i)+' of '+str(len(sampleList)*len(genomeList)))
 
         readCountDF[sample][genome] = subprocess.check_output(
-            'samtools view -F 0x4 '+bamFolder+'/'+sample+'-'+genome+'.sam'+'| cut -f 1 | sort | uniq | wc -l', shell=True).strip()
+            'samtools view -F 0x4 '+bamFolder+'/'+sample+'-'+genome+'.sam'+'| cut -f 1 | sort | uniq | wc -l', shell=True).strip().decode('ascii')
         i = i+1
         
 readCountDF.to_csv(mapFolder+'/concatMappedReads.csv')

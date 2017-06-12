@@ -19,7 +19,6 @@ from collections import Counter
 import os
 import pandas as pd
 import re
-import subprocess
 
 #%%#############################################################################
 ### Static folder structure
@@ -82,21 +81,14 @@ cladeCogToCdsDF = pd.read_csv(cladesCogsToCDSTable, index_col=[0, 1])
 
 #%%#############################################################################
 ### Establish data structures necessary for normalization:
-### totalMappedReads, giving genome and total number of mapped reads (per
-###  million basis), for 'M' in RPKM
+### totalMappedReads, giving total number of mapped reads (per million basis), 
+###  for 'M' in RPKM
 ### geneLength, giving gene length of each gene (per kilobase basis), for 'K'
 ###  in RPKM
 ################################################################################
 
-totalMappedReadsDF = pd.DataFrame(index=genomeList,columns=sampleList)
-for concat in concatList:
-    for sample in sampleList:
-        for genome in genomeList:
-            totalMappedReadsDF.loc[genome][sample] = float(subprocess.check_output('samtools view -F 0x4 '+bamFolder+'/'+sample+'-'+genome+'.bam | cut -f 1 | sort | uniq | wc -l', shell=True).strip())
-
-totalMappedReadsDF.to_csv(mapFolder+'/'+'genomeMappedReads.csv')
-
-totalMappedReadsDF = totalMappedReadsDF.sum(axis=1)
+totalMappedReadsDF = pd.read_csv(mapFolder+'/concatMappedReads.csv', index_col=0)
+totalMappedReads = totalMappedReadsDF.sum(axis = 1)[0] / 1000000
 
 # Create an empty gene length dictionary. Then read in the individual fasta 
 # files, and store the length of each gene in the dictionary. Write to file.
@@ -123,17 +115,19 @@ for concat in concatList:
     # For each (clade, COG) pairing, read in the list of genes
     for index in cladeCogToCdsDF.index:
         cdsList = cladeCogToCdsDF.loc[index, 'CDS'].split(',')
-        # For each gene, comput the RPKM and update for the COG
+        # For each gene, compute the RPKM and update for the COG
+        totalRpkm = 0
         for cds in cdsList:
             if cds in geneCountDF.index:
                 genome = cds.split('.')[0]
                 # Sometimes low abundance genomes don't map any reads, so check for this before computing RPKM
-                rpkm = float(geneCountDF.loc[cds]['Count']) / ((geneLengthDict[cds] / 1000)*(totalMappedReadsDF[genome] / 1000000))
+                rpkm = float(geneCountDF.loc[cds]['Count']) / ((geneLengthDict[cds] / 1000)*(totalMappedReads))
                 geneCountDF.loc[cds, 'RPKM'] = rpkm
-        cladeCogNormDF.loc[index]['RPKM'] = rpkm
+                totalRpkm = totalRpkm + rpkm
+                
+        cladeCogNormDF.loc[index]['RPKM'] = totalRpkm
 
-    geneCountDF.to_csv(countFolder+'/filteredReadCounts.csv', sep=',', index=True, header=True)
-    cladeCogNormDF = cladeCogNormDF.loc[cladeCogNormDF['RPKM'] > 0]
+    geneCountDF.to_csv(countFolder+'/filteredRPKMCounts.csv', sep=',', index=True, header=True)
     cladeCogNormDF.to_csv(countFolder+'/'+concat+'.COG.norm')
 
 #%%#############################################################################

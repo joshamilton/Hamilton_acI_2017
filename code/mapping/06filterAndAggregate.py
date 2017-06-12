@@ -103,22 +103,16 @@ for sample in sampleList:
         # Merge with readCountDF
         readCountDF = pd.concat([readCountDF, tempDF], axis=1, join='outer')
 
-# Drop stats from the readCountsDF
-readCountDF = readCountDF[:-5]
-
-# Add gene coverage information for filtering
-for genome in genomeList:
-    coverageDF = pd.read_csv(coverageFolder+'/'+genome+'.gene.coverage', sep=',', index_col=0, header=0)    
-    for gene in coverageDF.index:
-        readCountDF.loc[gene, 'Coverage'] = coverageDF.loc[gene, 'Coverage']
+## Drop stats from the readCountsDF
+readCountDF = readCountDF.drop(['__alignment_not_unique', '__ambiguous', '__no_feature', '__not_aligned', '__too_low_aQual'], axis=0)
+readCountDF = readCountDF.sum(axis=1)
 
 readCountDF.to_csv(countFolder+'/readCounts.csv', sep=',')
 
+
 # Filter the results by dropping all genes which don't recruit at least ten reads
 readCutoff = 10
-readCountDF = readCountDF.sum(axis=1)
 readCountDF = readCountDF.loc[readCountDF >= readCutoff]
-
 readCountDF.to_csv(countFolder+'/filteredReadCounts.csv', sep=',')
     
 #%%#############################################################################
