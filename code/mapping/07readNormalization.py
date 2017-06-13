@@ -17,6 +17,7 @@
 from Bio import SeqIO
 from collections import Counter
 import os
+import numpy as np
 import pandas as pd
 import re
 
@@ -130,7 +131,7 @@ for concat in concatList:
     geneCountDF.to_csv(countFolder+'/filteredRPKMCounts.csv', sep=',', index=True, header=True)
     cladeCogNormDF.to_csv(countFolder+'/'+concat+'.COG.norm')
 
-#%%#############################################################################
+#%%########################################################a#####################
 ### Now average the RPKMs for the indicated sets of samples and normalize
 ### Also compute the percentile rank for each clade, and extract the majority
 ### annotation
@@ -138,18 +139,19 @@ for concat in concatList:
 
 # Create additional columns
 rpkmDF = cladeCogNormDF.copy()
+rpkmDF['Log2 RPKM'] = 0
 rpkmDF['Median'] = 0
 rpkmDF['Rel to Med'] = 0
 rpkmDF['Annotation'] = 'None'
 
 # Compute the Log 2 RPKM and replace infinity with zero
-#rpkmDF['Log2 RPKM'] = np.log2(rpkmDF['RPKM'])
-#rpkmDF = rpkmDF.replace(to_replace='-inf', value='0')
+rpkmDF['Log2 RPKM'] = np.log2(rpkmDF['RPKM'])
+rpkmDF = rpkmDF.replace(to_replace=float('-inf'), value='0')
 
 # Compute the median RPKM
 for clade in rpkmDF.index.levels[0]:
-    median = rpkmDF.loc[clade, 'RPKM'].median()
-    rpkmDF.loc[(clade), 'Median'] = median
+    median = rpkmDF.loc[clade][rpkmDF.loc[clade]['RPKM'] > 0].median()
+    rpkmDF.loc[(clade), 'Median'] = median[0]
 
 rpkmDF['Rel to Med'] = rpkmDF['RPKM'] / rpkmDF['Median']
 
