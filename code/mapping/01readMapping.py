@@ -52,24 +52,24 @@ for genome in os.listdir(genomeFolder):
 
 genomeList = [genome.replace('.fna', '') for genome in genomeList]
 
-##%%#############################################################################
-#### Run BBMap
-#################################################################################
-#    
-#i = 1
-#for sample in sampleList:
-#    for genome in genomeList:
-#        print('Mapping pair '+str(i)+' of '+str(len(sampleList)*len(genomeList)))
-#        
-#        subprocess.call(['bbmap.sh', 'ref='+genomeFolder+'/'+genome+'.fna',
-#                         'in='+sampleFolder+'/'+sample+'.fastq',
-#                         'outm='+bamFolder+'/'+sample+'-'+genome+'.sam',
-#                         'minid=0.80', 
-#                         'ambig=random', 
-#                         'nodisk', 
-#                         'sam=1.3'
-#                ])
-#        i = i+1
+#%%#############################################################################
+### Run BBMap
+################################################################################
+    
+i = 1
+for sample in sampleList:
+    for genome in genomeList:
+        print('Mapping pair '+str(i)+' of '+str(len(sampleList)*len(genomeList)))
+        
+        subprocess.call(['bbmap.sh', 'ref='+genomeFolder+'/'+genome+'.fna',
+                         'in='+sampleFolder+'/'+sample+'.fastq',
+                         'outm='+bamFolder+'/'+sample+'-'+genome+'.sam',
+                         'minid=0.95', 
+                         'ambig=random', 
+                         'nodisk', 
+                         'sam=1.3'
+                ])
+        i = i+1
         
 #%%#############################################################################
 ### Count reads

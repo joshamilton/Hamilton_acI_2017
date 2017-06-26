@@ -134,14 +134,14 @@ for concat in concatList:
                 for curIndex in depthDF.index.levels[0]:
                     contigDF.loc[curIndex, 'Depth'] = contigDF.loc[curIndex, 'Depth'] + depthDF.loc[curIndex].sum()[0]
         
-                # Store the length of each contig
-                for curSeq in SeqIO.parse(genomeFolder+'/'+genome+'.fna', 'fasta'):
-                   contigDF.loc[curSeq.id, 'Length'] = len(curSeq)
+        # Store the length of each contig
+        for curSeq in SeqIO.parse(genomeFolder+'/'+genome+'.fna', 'fasta'):
+            contigDF.loc[curSeq.id, 'Length'] = len(curSeq)
             
         # Compute the coverage of each contig across all samples
         contigDF['Coverage'] = contigDF['Depth'] / contigDF['Length']
                 
-        # Compute the % covered of each contig across all samles
+        # Compute the % covered of each contig across all samples
         for curIndex in coverDF.index.levels[0]:
             # Subset the coverDF belonging to this contig
             subsetCoverDF = coverDF.loc[curIndex]
@@ -149,7 +149,12 @@ for concat in concatList:
             subsetCoverDF = subsetCoverDF.loc[subsetCoverDF['Depth']>0]
 
             contigDF.loc[curIndex, 'Covered'] = len(subsetCoverDF)
-            contigDF.loc[curIndex, '% Covered'] = contigDF.loc[curIndex, 'Covered'] / contigDF.loc[curIndex, 'Length']
+            
+            # Check to see if contig is covered. Update coverage appropriately.
+            if len(subsetCoverDF) > 0:
+                contigDF.loc[curIndex, '% Covered'] = contigDF.loc[curIndex, 'Covered'] / contigDF.loc[curIndex, 'Length']
+            else:
+                contigDF.loc[curIndex, '% Covered'] = 0
 
         contigDF.to_csv(coverageFolder+'/'+genome+'.contig.coverage')        
 
@@ -220,37 +225,39 @@ for concat in concatList:
             start = geneDF.loc[curIndex]['Start']
             stop = geneDF.loc[curIndex]['Stop']
             
-            # Subset the depthDF belonging to this contig and range
-            subsetCoverDF = coverDF.loc[(contig, start):(contig, stop)]
-            # Subset the depthDF having nonzero depth
-            subsetCoverDF = subsetCoverDF.loc[subsetCoverDF['Depth']>0]
-            
-            # Update the geneDF with coverage and depth of each gene
-            geneDF.loc[curIndex, 'Covered'] = len(subsetCoverDF)
-            geneDF.loc[curIndex, 'Depth'] = subsetCoverDF.sum()[0]
-
-            # Compute the coverage of each gene
-            geneDF.loc[curIndex, '% Covered'] = float(geneDF.loc[curIndex, 'Covered']) / float(geneDF.loc[curIndex, 'Length'])
-            geneDF.loc[curIndex, 'Coverage'] = float(geneDF.loc[curIndex, 'Depth']) / float(geneDF.loc[curIndex, 'Length'])
+            # If the depth file exists:
+            if os.stat(coverageFolder+'/'+sample+'-'+genome+'.depth').st_size > 0:
+                # Subset the depthDF belonging to this contig and range
+                subsetCoverDF = coverDF.loc[(contig, start):(contig, stop)]
+                # Subset the depthDF having nonzero depth
+                subsetCoverDF = subsetCoverDF.loc[subsetCoverDF['Depth']>0]
+                
+                # Update the geneDF with coverage and depth of each gene
+                geneDF.loc[curIndex, 'Covered'] = len(subsetCoverDF)
+                geneDF.loc[curIndex, 'Depth'] = subsetCoverDF.sum()[0]
+    
+                # Compute the coverage of each gene
+                geneDF.loc[curIndex, '% Covered'] = float(geneDF.loc[curIndex, 'Covered']) / float(geneDF.loc[curIndex, 'Length'])
+                geneDF.loc[curIndex, 'Coverage'] = float(geneDF.loc[curIndex, 'Depth']) / float(geneDF.loc[curIndex, 'Length'])
         
-            # If the gene is covered...
-            # Compute the evenness of coverage using Pielou's eveness
-            if len(subsetCoverDF) > 0:
-                countList = subsetCoverDF['Depth'].value_counts().tolist()
-                # Account for unmapped loci
-                if (geneDF.loc[curIndex]['Stop'] - geneDF.loc[curIndex]['Start'] + 1) > sum(countList):
-                    countList.append((geneDF.loc[curIndex]['Stop'] - geneDF.loc[curIndex]['Start'] + 1) - sum(countList))
-            
-                freqDist = [float(x) / sum(countList) for x in countList]
-                Hprime = 0
-                for freq in freqDist:
-                    Hprime = Hprime + freq*math.log(freq)
-                # If only one frequency, assign an evenness of 1
-                if len(freqDist) == 1:
-                    geneDF.loc[curIndex, 'Evenness'] = 1
-                else:
-                    Hprime_max = math.log(len(freqDist))
-                    geneDF.loc[curIndex, 'Evenness'] = - Hprime / Hprime_max
+                # If the gene is covered...
+                # Compute the evenness of coverage using Pielou's eveness
+                if len(subsetCoverDF) > 0:
+                    countList = subsetCoverDF['Depth'].value_counts().tolist()
+                    # Account for unmapped loci
+                    if (geneDF.loc[curIndex]['Stop'] - geneDF.loc[curIndex]['Start'] + 1) > sum(countList):
+                        countList.append((geneDF.loc[curIndex]['Stop'] - geneDF.loc[curIndex]['Start'] + 1) - sum(countList))
+                
+                    freqDist = [float(x) / sum(countList) for x in countList]
+                    Hprime = 0
+                    for freq in freqDist:
+                        Hprime = Hprime + freq*math.log(freq)
+                    # If only one frequency, assign an evenness of 1
+                    if len(freqDist) == 1:
+                        geneDF.loc[curIndex, 'Evenness'] = 1
+                    else:
+                        Hprime_max = math.log(len(freqDist))
+                        geneDF.loc[curIndex, 'Evenness'] = - Hprime / Hprime_max
 
         # Simplify the dataframe and write to file
         geneDF = geneDF.drop(['Contig', 'Start', 'Stop', 'Length', 'Covered', 'Depth'], 1)
