@@ -8,8 +8,9 @@ data/scratch/
 figures/fig1-tree/RAxML*
 figures/fig1-tree/tree.aln
 figures/fig1-tree/tree.nwk
-figures/fig2-sampling/*.csv
-figures/fig2-sampling/*.png
+figures/figS-sampling/*.csv
+figures/figS-sampling/*.png
+figures/figS-coverage
 
 # Data folders which are too large for github
 data/mapping/bamFiles

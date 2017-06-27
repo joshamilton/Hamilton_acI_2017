@@ -10,19 +10,11 @@ date: September 16, 2016
 
 &nbsp;
 
-Phylogenetic placement of the genomes used in this study within the acI lineage. The tree was built using RAxML [@Stamatakis2014] from a concatenated alignment of protein sequences from 37 single-copy marker genes [@Darling2014]. The order Actinomycetales forms the outgroup. Vertical black bars indicate groups of genomes belonging to defined tribes/clades within the acI lineage, as determined using 16S rRNA gene sequences (for SAGs and bin FNEF8-2 bin_7 acI-B only) and a defined taxonomy [@Newton2011a]. SAGs are indicated with italic text. Supplemental Figure S5 shows the position of the acI lineage relative to other orders within the class Actinobacteria.
+Phylogenetic placement of the genomes used in this study within the acI lineage. The tree was built using RAxML [@Stamatakis2014] from a concatenated alignment of protein sequences from 37 single-copy marker genes [@Darling2014]. The order Actinomycetales forms the outgroup. Vertical black bars indicate groups of genomes belonging to defined tribes/clades within the acI lineage, as determined using 16S rRNA gene sequences (for SAGs and bin FNEF8-2 bin_7 acI-B only) and a defined taxonomy [@Newton2011a]. SAGs are indicated with italic text. Supplemental Figure S6 shows the position of the acI lineage relative to other orders within the class Actinobacteria.
 
 &nbsp;
 
-## Figure 2 (figures/fig2-sampling/Figure2.pdf)
-
-&nbsp;
-
-Mean estimated completeness of tribe-level (clade-level) population genomes as a function of the number of sampled genomes. For each tribe (clade), genomes were randomly sampled (with replacement) from the set of all genomes belonging to that tribe (clade). Completeness was estimated using 204 single-copy marker genes from the phylum Actinobacteria [@Parks2015]. Error bars represent the 95% confidence interval estimated from 1000 iterations.
-
-&nbsp;
-
-## Figure 3 (figures/fig3-workflow/Figure3.pdf)
+## Figure 2 (figures/fig3-workflow/Figure3.pdf)
 
 &nbsp;
 
@@ -30,19 +22,19 @@ Overview of the seed set framework and metatranscriptomic mapping, using three g
 
 &nbsp;
 
-## Figure 4 (figures/fig4-seeds/Figure4.pdf)
+## Figure 3 (figures/fig4-seeds/Figure4.pdf)
 
 &nbsp;
 
-Seed compounds of members of the acI lineage. __(A)__ Auxotrophies and nutrient sources, not including peptides and glycosides. __(B)__ Peptides and glycosides. These compounds represent those inferred from genome annotations, rather than the seed compounds themselves. In panel (B), the intensity of the color indicates the average log2 RPKM of the encoding gene cluster. For compounds acted upon by multiple gene clusters, the percentile of the most highly-expressed cluster was chosen.
+Seed compounds of members of the acI lineage. __(A)__ Auxotrophies and nutrient sources, not including peptides and glycosides. __(B)__ Peptides and glycosides. These compounds represent those inferred from genome annotations, rather than the seed compounds themselves. In panel (B), the intensity of the color indicates the log2 RPKM of the encoding gene cluster. For compounds acted upon by multiple gene clusters, the percentile of the most highly-expressed cluster was chosen.
 
 &nbsp;
 
-## Figure 5 (figures/fig5-transporters/Figure5.pdf)
+## Figure 4 (figures/fig5-transporters/Figure5.pdf)
 
 &nbsp;
 
-Transporters that are actively expressed by members of the acI lineage, as inferred from consensus annotations of genes associated with transport reactions present in metabolic network reconstructions. The intensity of the color indicates the average log2 RPKM of the encoding gene cluster. For multi-subunit transporters, the RPKM of the substrate-binding subunit was chosen.
+Transporters that are actively expressed by members of the acI lineage, as inferred from consensus annotations of genes associated with transport reactions present in metabolic network reconstructions. The intensity of the color indicates the log2 RPKM of the encoding gene cluster. For multi-subunit transporters, the RPKM of the substrate-binding subunit was chosen. For some transporters, consensus annotations have been replaced with broad metabolite classes. Such metabolite classes are indicated with superscripts, and the original annotations are as follows: 1 - spermidine, putrescine; 2 - maltose ; 3 - xylose; 4 - ribose; 5 - uracil; 6 - cytosine / purine / uracil / thiamine / allantoin; 7 - xanthine / uracil / thiamine / ascorbate.
 
 &nbsp;
 
@@ -78,7 +70,15 @@ Complete composite metabolic network graph for clade acI-C, showing disconnected
 
 &nbsp;
 
-## Supplementary Figure 5 (figures/fig1-tree/FigureS5.pdf)
+## Supplementary Figure 5 (figures/fig2-sampling/Figure2.pdf)
+
+&nbsp;
+
+Mean estimated completeness of tribe-level (clade-level) population genomes as a function of the number of sampled genomes. For each tribe (clade), genomes were randomly sampled (with replacement) from the set of all genomes belonging to that tribe (clade). Completeness was estimated using 204 single-copy marker genes from the phylum Actinobacteria [@Parks2015]. Error bars represent the 95% confidence interval estimated from 1000 iterations.
+
+&nbsp;
+
+## Supplementary Figure 6 (figures/fig1-tree/FigureS5.pdf)
 
 &nbsp;
 
