@@ -63,63 +63,63 @@ for concat in os.listdir(concatFolder):
 
 concatList = [concat.replace('.fna', '') for concat in concatList]
 
-#%%#############################################################################
-### For each genome, plot the depth of each base along each contig
-### Part 1 - Compute depth pooled across samples
-################################################################################
-
-# Create dataframe to store genome coverage on a per-sample basis
-coverageDF = pd.DataFrame(index = genomeList, columns=['% Covered', 'Coverage'])
-
-for concat in concatList:
-    
-    for genome in genomeList:
-
-        print('Computing pooled depth profile for genome '+genome)
-
-        # Create a dataframe to store the % covered - must track each base on each contig
-        coverContigList = []
-        coverPositionList = []
-        for curSeq in SeqIO.parse(genomeFolder+'/'+genome+'.fna', 'fasta'):
-            coverContigList = coverContigList + ([curSeq.id] * len(curSeq))
-            coverPositionList = coverPositionList + list(range(1,len(curSeq)+1))
-
-        coverDF = pd.DataFrame(0, index = pd.MultiIndex.from_tuples(list(zip(*[coverContigList, coverPositionList]))), columns=['Depth'])
-        
-        for sample in sampleList:
-    
-            # Make a depth file for the genome
-            subprocess.call('grep '+genome+' '+coverageFolder+'/'+sample+'-'+concat+'.depth > '+coverageFolder+'/'+sample+'-'+genome+'.depth', shell=True)
-            
-            # Import the depth file (if it exists)
-            if os.stat(coverageFolder+'/'+sample+'-'+genome+'.depth').st_size > 0:
-                depthDF = pd.read_csv(coverageFolder+'/'+sample+'-'+genome+'.depth', index_col = [0,1], names = ['Depth'], sep='\t')
-                
-                # Store depth of each base across samples
-                coverDF = coverDF.add(depthDF, axis=1, fill_value=0)
-        
-        coverDF.to_csv(coverageFolder+'/'+genome+'.depth')
-        
-#%%#############################################################################
-### For each genome, plot the depth of each base along each contig
-### Part 2 - Construct plots
-################################################################################
-
-for genome in genomeList:
-    
-    # Read in depth profile
-    sampleDF = pd.read_csv(coverageFolder+'/'+genome+'.depth', index_col = [0,1], sep=',')
-    
-    # For each contig, plot depth at each position
-    for contig in sampleDF.index.levels[0]:
-        
-        contigsampleDf = sampleDF.loc[contig]
-        contigsampleDf.index.name = 'Position'
-        contigsampleDf = contigsampleDf.reset_index()
-        axes = contigsampleDf.plot(x='Position', y='Depth', kind='line', legend=False, title='sample: '+contig)
-        figure = axes.get_figure()
-        figure.savefig(plotFolder+'/'+contig+'.png')
-        plt.close('all')
+##%%#############################################################################
+#### For each genome, plot the depth of each base along each contig
+#### Part 1 - Compute depth pooled across samples
+#################################################################################
+#
+## Create dataframe to store genome coverage on a per-sample basis
+#coverageDF = pd.DataFrame(index = genomeList, columns=['% Covered', 'Coverage'])
+#
+#for concat in concatList:
+#    
+#    for genome in genomeList:
+#
+#        print('Computing pooled depth profile for genome '+genome)
+#
+#        # Create a dataframe to store the % covered - must track each base on each contig
+#        coverContigList = []
+#        coverPositionList = []
+#        for curSeq in SeqIO.parse(genomeFolder+'/'+genome+'.fna', 'fasta'):
+#            coverContigList = coverContigList + ([curSeq.id] * len(curSeq))
+#            coverPositionList = coverPositionList + list(range(1,len(curSeq)+1))
+#
+#        coverDF = pd.DataFrame(0, index = pd.MultiIndex.from_tuples(list(zip(*[coverContigList, coverPositionList]))), columns=['Depth'])
+#        
+#        for sample in sampleList:
+#    
+#            # Make a depth file for the genome
+#            subprocess.call('grep '+genome+' '+coverageFolder+'/'+sample+'-'+concat+'.depth > '+coverageFolder+'/'+sample+'-'+genome+'.depth', shell=True)
+#            
+#            # Import the depth file (if it exists)
+#            if os.stat(coverageFolder+'/'+sample+'-'+genome+'.depth').st_size > 0:
+#                depthDF = pd.read_csv(coverageFolder+'/'+sample+'-'+genome+'.depth', index_col = [0,1], names = ['Depth'], sep='\t')
+#                
+#                # Store depth of each base across samples
+#                coverDF = coverDF.add(depthDF, axis=1, fill_value=0)
+#        
+#        coverDF.to_csv(coverageFolder+'/'+genome+'.depth')
+#        
+##%%#############################################################################
+#### For each genome, plot the depth of each base along each contig
+#### Part 2 - Construct plots
+#################################################################################
+#
+#for genome in genomeList:
+#    
+#    # Read in depth profile
+#    sampleDF = pd.read_csv(coverageFolder+'/'+genome+'.depth', index_col = [0,1], sep=',')
+#    
+#    # For each contig, plot depth at each position
+#    for contig in sampleDF.index.levels[0]:
+#        
+#        contigsampleDf = sampleDF.loc[contig]
+#        contigsampleDf.index.name = 'Position'
+#        contigsampleDf = contigsampleDf.reset_index()
+#        axes = contigsampleDf.plot(x='Position', y='Depth', kind='line', legend=False, title='sample: '+contig)
+#        figure = axes.get_figure()
+#        figure.savefig(plotFolder+'/'+contig+'.png')
+#        plt.close('all')
         
 #%%#############################################################################
 ### For each genome, plot the depth of each base along each gene

@@ -13,6 +13,8 @@ figures/fig2-sampling/*.png
 
 # Data folders which are too large for github
 data/mapping/bamFiles
+data/mapping/coverage-pooled
+data/mapping/plots-*
 data/sequences/
 
 # Old versions of the MS
