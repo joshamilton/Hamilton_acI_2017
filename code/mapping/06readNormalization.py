@@ -143,6 +143,7 @@ rpkmDF['Log2 RPKM'] = 0
 rpkmDF['Median'] = 0
 rpkmDF['Rel to Med'] = 0
 rpkmDF['Annotation'] = 'None'
+rpkmDF['Confidence'] = 0.00
 
 # Compute the Log 2 RPKM and replace infinity with zero
 rpkmDF['Log2 RPKM'] = np.log2(rpkmDF['RPKM'])
@@ -180,9 +181,12 @@ for (clade, COGs) in splitDF:
         # Find the most common 
         annotCounter = Counter(annotList)
         majorityAnnot = annotCounter.most_common(1)[0][0]
+        majorityAnnotCount = annotCounter.most_common(1)[0][1]
+        majorityAnnotCon = majorityAnnotCount / len(annotList)
             
         # Assign the Annotation
         COGs.set_value((clade, cog), 'Annotation', majorityAnnot)
+        COGs.set_value((clade, cog), 'Confidence', majorityAnnotCon)
         
     # Drop empty rows
     COGs = COGs.dropna(axis=0, how='any')

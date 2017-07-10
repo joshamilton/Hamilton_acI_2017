@@ -153,8 +153,11 @@ for cog in annotConsensus.index:
     # Find the most common 
     annotCounter = Counter(annotList)
     majorityAnnot = annotCounter.most_common(1)[0][0]
+    majorityAnnotCount = annotCounter.most_common(1)[0][1]
+    majorityAnnotCon = majorityAnnotCount / len(annotList)
         
     # Assign the Annotation
     annotConsensus.set_value(cog, 'Annotation', majorityAnnot)
+    annotConsensus.set_value(cog, 'Confidence', majorityAnnotCon)
     
-annotConsensus.to_csv(resultsFolder+'/annotConsensns.csv')
+annotConsensus.to_csv(resultsFolder+'/annotConsensus.csv')
