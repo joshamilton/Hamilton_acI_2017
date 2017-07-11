@@ -1,6 +1,6 @@
 # Reverse Ecology and Metatranscriptomics of Uncultivated Freshwater Actinobacteria
 
-Copyright (c) 2016, Joshua J. Hamilton  
+Copyright (c) 2017, Joshua J. Hamilton  
 Department of Bacteriology  
 University of Wisconsin-Madison, Madison, Wisconsin, USA  
 URL: [http://joshamilton.net/](http://joshamilton.net/)  
@@ -9,7 +9,7 @@ All rights reserved.
 
 ***
 
-This repo contains code in support of our forthcoming manuscript, "Reverse Ecology and Metatranscriptomics of Uncultivated Freshwater Actinobacteria." It relies extensively on the reverseEcology Python package, developed for this project. The package is available on [PyPi](https://pypi.python.org/pypi/reverseEcology).
+This repo contains code in support of the manuscript, "Metabolic Network Analysis and Metatranscriptomics Reveals Auxotrophies and Nutrient Sources of a Cosmopolitan Freshwater Microbial Lineage." It relies on the reverseEcology Python package, developed for this project. The package is available on [PyPi](https://pypi.python.org/pypi/reverseEcology).
 
 ***
 

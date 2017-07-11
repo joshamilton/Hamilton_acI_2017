@@ -1,7 +1,8 @@
 ---
-title: Figure Captions
-author: Joshua J. Hamilton
-date: September 16, 2016
+title: Figure Captions for 'Metabolic Network Analysis and Metatranscriptomics Reveals Auxotrophies and Nutrient Sources of the Cosmopolitan Freshwater Microbial Lineage acI'
+author: Joshua J. Hamilton^1\*^, Sarahi L. Garcia^2, Brittany S. Brown^1, Ben O. Oyserman^3, Francisco Moya-Flores^3, Stefan Bertilsson^2,4, Rex R. Malmstrom^5, Katrina T. Forest^1, Katherine D. McMahon^1,3
+abstract: \* Correspondence&#58; Joshua J. Hamilton, jjhamilton2@wisc.edu
+date: ^1^ Department of Bacteriology, University of Wisconsin-Madison, Madison, WI, USA; ^2^ Department of Ecology and Genetics, Uppsala University, Uppsala, Sweden; ^3^ Department of Civil and Environmental Engineering, University of Wisconsin-Madison, Madison, WI, USA; ^4^ Science for Life Laboratory, Uppsala University, Uppsala, Sweden; ^5^ United States Department of Energy Joint Genome Institute, Walnut Creek, CA, USA
 ---
 
 &nbsp;
@@ -34,7 +35,7 @@ Seed compounds of members of the acI lineage. __(A)__ Auxotrophies and nutrient 
 
 &nbsp;
 
-Transporters that are actively expressed by members of the acI lineage, as inferred from consensus annotations of genes associated with transport reactions present in metabolic network reconstructions. The intensity of the color indicates the log2 RPKM of the encoding gene cluster. For multi-subunit transporters, the RPKM of the substrate-binding subunit was chosen. For some transporters, consensus annotations have been replaced with broad metabolite classes. Such metabolite classes are indicated with superscripts, and the original annotations are as follows: 1 - spermidine, putrescine; 2 - maltose ; 3 - xylose; 4 - ribose; 5 - uracil; 6 - cytosine / purine / uracil / thiamine / allantoin; 7 - xanthine / uracil / thiamine / ascorbate.
+Transporters that are actively expressed by members of the acI lineage, as inferred from consensus annotations of genes associated with transport reactions present in metabolic network reconstructions. The intensity of the color indicates the log2 RPKM of the encoding gene cluster. For multi-subunit transporters, the RPKM of the substrate-binding subunit was chosen (Table S12). For some transporters, consensus annotations have been replaced with broad metabolite classes. Such metabolite classes are indicated with superscripts, and the original annotations are as follows: 1 - spermidine, putrescine; 2 - maltose ; 3 - xylose; 4 - ribose; 5 - uracil; 6 - cytosine / purine / uracil / thiamine / allantoin; 7 - xanthine / uracil / thiamine / ascorbate.
 
 &nbsp;
 
@@ -82,7 +83,7 @@ Mean estimated completeness of tribe-level (clade-level) population genomes as a
 
 &nbsp;
 
-Phylogenetic placement of the genomes used in this study within the acI lineage, relative to other sequenced actinobacterial genomes in the class Actinobacteria [@Gao2012] (Table S17). The tree was built using RAxML [@Stamatakis2014] from a concatenated alignment of protein sequences from 37 single-copy marker genes [@Darling2014]. The class Acidimicrobiia forms the outgroup. Vertical black bars indicate groups of genomes belonging to defined tribes/clades within the acI lineage, as determined using 16S rRNA gene sequences (for SAGs and bin FNEF8-2 bin_7 acI-B only) and a defined taxonomy [@Newton2011a]. SAGs are indicated with italic text.
+Phylogenetic placement of the genomes used in this study within the acI lineage, relative to other sequenced actinobacterial genomes in the class Actinobacteria [@Gao2012] (Table S18). The tree was built using RAxML [@Stamatakis2014] from a concatenated alignment of protein sequences from 37 single-copy marker genes [@Darling2014]. The class Acidimicrobiia forms the outgroup. Vertical black bars indicate groups of genomes belonging to defined tribes/clades within the acI lineage, as determined using 16S rRNA gene sequences (for SAGs and bin FNEF8-2 bin_7 acI-B only) and a defined taxonomy [@Newton2011a]. SAGs are indicated with italic text.
 
 &nbsp;
 
