@@ -1,9 +1,9 @@
 ###############################################################################
 # auxotrophyCOGs.py
+# Copyright (c) 2017, Joshua J Hamilton and Katherine D McMahon
 # Affiliation: Department of Bacteriology
 #              University of Wisconsin-Madison, Madison, Wisconsin, USA
 # URL: http://http://mcmahonlab.wisc.edu/
-# All rights reserved.
 ################################################################################
 # Identify genes and COGs associated with a given set of reactions.
 ################################################################################

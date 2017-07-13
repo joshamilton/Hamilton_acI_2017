@@ -1,6 +1,6 @@
 ###############################################################################
 # parseCOGs.py
-# Copyright (c) 2016, Joshua J Hamilton and Katherine D McMahon
+# Copyright (c) 2017, Joshua J Hamilton and Katherine D McMahon
 # Affiliation: Department of Bacteriology
 #              University of Wisconsin-Madison, Madison, Wisconsin, USA
 # URL: http://http://mcmahonlab.wisc.edu/

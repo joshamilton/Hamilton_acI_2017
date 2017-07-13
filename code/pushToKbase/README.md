@@ -1,5 +1,5 @@
 # Batch Model Building with KBase
-Copyright (c) 2015, Joshua J Hamilton  
+Copyright (c) 2017, Joshua J Hamilton  
 Contact: joshamilton@gmail.com
 
 This readme will show you how to upload a group of genomes to KBase and build metabolic models for them.

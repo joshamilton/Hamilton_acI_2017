@@ -1,6 +1,6 @@
 OrthoMCL
 ===
-Copyright (c) 2016, Joshua J. Hamilton
+Copyright (c) 2017, Joshua J. Hamilton
 URL: [https://github.com/joshamilton/](https://github.com/joshamilton/)  
 All rights reserved.
 
