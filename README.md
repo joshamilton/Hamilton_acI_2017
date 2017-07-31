@@ -1,4 +1,4 @@
-# Reverse Ecology and Metatranscriptomics of Uncultivated Freshwater Actinobacteria
+# Metabolic Network Analysis and Metatranscriptomics of Uncultivated Freshwater Actinobacteria
 
 Copyright (c) 2017, Joshua J. Hamilton  
 Department of Bacteriology  
@@ -9,7 +9,7 @@ All rights reserved.
 
 ***
 
-This repo contains code in support of the manuscript, "Metabolic Network Analysis and Metatranscriptomics Reveals Auxotrophies and Nutrient Sources of a Cosmopolitan Freshwater Microbial Lineage." It relies on the reverseEcology Python package, developed for this project. The package is available on [PyPi](https://pypi.python.org/pypi/reverseEcology).
+This repo contains code in support of the manuscript, "Metabolic Network Analysis and Metatranscriptomics Reveals Auxotrophies and Nutrient Sources of the Cosmopolitan Freshwater Microbial Lineage acI," a preprint of which is available on [bioRxiv](http://www.biorxiv.org/content/early/2017/07/21/106856). It relies on the reverseEcology Python package, developed for this project. The package is available on [PyPi](https://pypi.python.org/pypi/reverseEcology).
 
 ***
 
