@@ -159,7 +159,7 @@ Overview of the seed set framework and metatranscriptomic mapping, using three g
 
 &nbsp;
 
-Seed compounds of members of the acI lineage. __(A)__ Auxotrophies and nutrient sources, not including peptides and glycosides. __(B)__ Peptides and glycosides. These compounds represent those inferred from genome annotations, rather than the seed compounds themselves. In panel (B), the intensity of the color indicates the log2 RPKM of the encoding gene cluster. For compounds acted upon by multiple gene clusters, the percentile of the most highly-expressed cluster was chosen.
+Seed compounds of members of the acI lineage. __(A)__ Auxotrophies and nutrient sources, not including peptides and glycosides. __(B)__ Peptides and glycosides. These compounds represent those inferred from genome annotations, rather than the seed compounds themselves. In panel (B), the intensity of the color indicates the log2 fold-change relative to the median of the encoding gene cluster. For compounds acted upon by multiple gene clusters, the percentile of the most highly-expressed cluster was chosen.
 
 &nbsp;
 
