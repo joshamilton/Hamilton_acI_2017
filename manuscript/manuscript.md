@@ -93,7 +93,7 @@ This study relies on an extensive collection of freshwater bacterial genomes, co
 
 ## Metatranscriptome Sampling and Sequencing
 
-This study used four metatranscriptomes obtained as part of a larger study of gene expression in freshwater microbial communities. Additional information about these samples can be found in the Supplemental Text S1. All protocols and scripts for sample collection, RNA extraction, rRNA depletion, sequencing, and bioinformatic analysis can be found on Github (https://github.com/McMahonLab/OMD-TOIL, DOI:######). Metadata for the four samples used in this study can be found in Table S6, and the raw RNA sequences can be found on the National Center for Biotechnology Information's Sequence Read Archive (SRA) under BioProject PRJNA362825.
+This study used four metatranscriptomes obtained as part of a larger study of gene expression in freshwater microbial communities. Additional information about these samples can be found in the Supplemental Text S1. All protocols and scripts for sample collection, RNA extraction, rRNA depletion, sequencing, and bioinformatic analysis can be found on Github ([https://github.com/McMahonLab/OMD-TOIL](https://github.com/McMahonLab/OMD-TOIL), [DOI:10.5281/zenodo.839851](https://doi.org/10.5281/zenodo.839850)). Metadata for the four samples used in this study can be found in Table S6, and the raw RNA sequences can be found on the National Center for Biotechnology Information's Sequence Read Archive (SRA) under BioProject PRJNA362825.
 
 ## Identification of acI SAGs and Actinobacterial MAGs
 
@@ -109,7 +109,7 @@ Formally, the seed set of the network is defined as the minimal set of compounds
 
 The Supplemental Text S1 contains a series of brief vignettes explaining why select compounds were discarded based on the afore-mentioned considerations, and provides examples of additional curation efforts applied to biologically plausible compounds. For a plausible auxotrophy, we screened the genomes for the canonical biosynthetic pathway(s) for that compound, and retained those compounds for which the biosynthetic pathway was incomplete. For a plausible nutrient source, we screened the genomes for the canonical degradation pathway(s) for that compound, and retained those compounds for which the degradation pathway was complete.
 
-All computational steps were implemented using Python scripts, freely available as part of the reverseEcology Python package developed for this project (https://pypi.python.org/pypi/reverseEcology/, DOI:######).
+All computational steps were implemented using Python scripts, freely available as part of the reverseEcology Python package developed for this project ([https://pypi.python.org/pypi/reverseEcology/](https://pypi.python.org/pypi/reverseEcology/), DOI:[10.5281/zenodo.839856](https://doi.org/10.5281/zenodo.839856)).
 
 ## Identification of Transported Compounds
 
@@ -125,7 +125,7 @@ Within each clade, gene expression for each COG was computed on a Reads Per Kilo
 
 ## Availability of Data and Materials
 
-All genomic and metatranscriptomic sequences are available through IMG and NCBI, respectively. A reproducible version of this manuscript is available at https://github.com/joshamilton/Hamilton_acI_2016 (DOI:######).
+All genomic and metatranscriptomic sequences are available through IMG and NCBI, respectively. A reproducible version of this manuscript is available at [https://github.com/joshamilton/Hamilton_acI_2017](https://github.com/joshamilton/Hamilton_acI_2017) (DOI:[10.5281/zenodo.839858](https://doi.org/10.5281/zenodo.839858)).
 
 # Acknowledgements
 
