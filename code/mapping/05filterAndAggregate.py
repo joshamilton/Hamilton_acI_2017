@@ -111,7 +111,7 @@ readCountDF.to_csv(countFolder+'/readCounts.csv', sep=',')
 
 
 # Filter the results by dropping all genes which don't recruit at least ten reads
-readCutoff = 10
+readCutoff = 0
 readCountDF = readCountDF.loc[readCountDF >= readCutoff]
 readCountDF.to_csv(countFolder+'/filteredReadCounts.csv', sep=',')
     
